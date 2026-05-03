@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-computing — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <strong>90d</strong> <a href="quantum-computing-360d.html">360d</a> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,17 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01749.html">Ab initio study of Proximity-Induced Superconductivity in PbTe/Pb heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>R. Reho et al.</td>
 <td><a href="http://arxiv.org/abs/2412.01749">2412.01749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00525.html">First-Principles Optical Descriptors and Hybrid Classical-Quantum Classification of Er-Doped CaF$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>David Angel Alba Bonilla et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00525">2602.00525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00555.html">Entanglement-Dependent Error Bounds for Hamiltonian Simulation</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Prateek P. Kulkarni</td>
-<td><a href="http://arxiv.org/abs/2602.00555">2602.00555</a></td>
 </tr>
 </tbody></table>

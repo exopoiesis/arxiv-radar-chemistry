@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23921.html">Crystal structure prediction using graph neural combinatorial optimization</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="gnn-360d.html">gnn</a></div></td>
+<td>Stavros Gerolymatos et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23921">2604.23921</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08972.html">Selective Random Structure Search (SRSS): Unbiased Exploration of Polymorphs in Crystals</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Jiexi Song et al.</td>
@@ -998,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05893.html">LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Seunghee Han et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05893">2505.05893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03121.html">AutoLoop: a novel autoregressive deep learning method for protein loop prediction with high accuracy</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-function-360d.html">protein-function</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Tianyue Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03121">2505.03121</a></td>
 </tr>
 </tbody></table>

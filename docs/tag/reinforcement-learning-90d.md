@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23061.html">C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a></div></td>
+<td>Rui Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23061">2604.23061</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19567.html">Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic</a></div></td>
@@ -386,47 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15617.html">A Differential and Pointwise Control Approach to Reinforcement Learning</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Minh Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2404.15617">2404.15617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23753.html">Anchored Supervised Fine-Tuning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>He Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23753">2509.23753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00424.html">Open Materials Generation with Inference-Time Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Philipp Hoellmer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00424">2602.00424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00482.html">AREAL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models</a></div></td>
-<td>Jiarui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00482">2602.00482</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17687.html">Agentic reinforcement learning empowers next-generation chemical language models for molecular design and synthesis</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Hao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2601.17687">2601.17687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21669.html">Expected Return Causes Outcome-Level Mode Collapse in Reinforcement Learning and How to Fix It with Inverse Probability Scaling</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Abhijeet Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21669">2601.21669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21985.html">Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Yunyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21985">2601.21985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19367.html">CHEHAB RL: Learning to Optimize Fully Homomorphic Encryption Computations</a></div></td>
-<td>Bilel Sefsaf et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19367">2601.19367</a></td>
 </tr>
 </tbody></table>

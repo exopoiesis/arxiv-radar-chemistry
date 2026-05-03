@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26694.html">Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising</a></div></td>
+<td>Jun Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26694">2604.26694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23536.html">$Z^2$-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</a></div></td>
+<td>Haosen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23536">2604.23536</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15753.html">Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers</a></div></td>
 <td>Li Zheng et al.</td>
@@ -2744,17 +2756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05874.html">A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Anjie Qiao et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05874">2505.05874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13994.html">Generative Detail Enhancement for Physically Based Materials</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Saeed Hadadan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13994">2502.13994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03426.html">Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Ziyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03426">2505.03426</a></td>
 </tr>
 </tbody></table>

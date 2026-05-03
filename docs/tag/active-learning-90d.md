@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>active-learning — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <strong>90d</strong> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,23 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06323.html">A physics-based data-driven model for CO$_2$ gas diffusion electrodes to drive automated laboratories</a></div></td>
 <td>Ivan Grega et al.</td>
 <td><a href="http://arxiv.org/abs/2502.06323">2502.06323</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.06971.html">Data-driven active learning approaches for accelerating materials discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Jiaxin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2601.06971">2601.06971</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03236.html">BLADE: Better Language Answers through Dialogue and Explanations</a></div></td>
-<td>Chathuri Jayaweera et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03236">2604.03236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11628.html">Developing a Machine-Learning Interatomic Potential for Non-Covalent Interactions in Proteins</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Lejia Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11628">2601.11628</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-llm — all</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="molecular-llm-7d.html">7d</a> <a href="molecular-llm-30d.html">30d</a> <a href="molecular-llm-90d.html">90d</a> <a href="molecular-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23061.html">C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Rui Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23061">2604.23061</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04403.html">MolDA: Molecular Understanding and Generation via Large Language Diffusion Model</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>

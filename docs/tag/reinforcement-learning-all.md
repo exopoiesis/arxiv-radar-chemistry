@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reinforcement-learning — all</h1>
-  <span class="paper-count">214 papers</span>
+  <span class="paper-count">215 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23061.html">C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a> · <a href="molecular-llm-all.html">molecular-llm</a></div></td>
+<td>Rui Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23061">2604.23061</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19567.html">Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26498.html">Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Jinjiang Guo</td>
+<td><a href="http://arxiv.org/abs/2604.26498">2604.26498</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06080.html">Regression with Large Language Models for Materials and Molecular Property Prediction</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -434,53 +440,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13249.html">Boltz is a Strong Baseline for Atom-level Representation Learning</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Hyosoon Jang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13249">2602.13249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00756.html">A New Workflow for Materials Discovery Bridging the Gap Between Experimental Databases and Graph Neural Networks</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Brandon Schoener et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00756">2602.00756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06777.html">MolX: Enhancing Large Language Models for Molecular Understanding With A Multi-Modal Extension</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Khiem Le et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06777">2406.06777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22610.html">Local-Global Multimodal Contrastive Learning for Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Xiayu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22610">2601.22610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22312.html">SCALAR: Quantifying Structural Hallucination, Consistency, and Reasoning Gaps in Materials Foundation Models</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Can Polat et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22312">2601.22312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22327.html">Molecular Representations in Implicit Functional Space via Hyper-Networks</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Zehong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22327">2601.22327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10912.html">Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
-<td>Fei Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10912">2506.10912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21778.html">Beyond Structure: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Bin Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21778">2509.21778</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19257.html">PCEvo: Path-Consistent Molecular Representation via Virtual Evolutionary</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Kun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19257">2601.19257</a></td>
 </tr>
 </tbody></table>

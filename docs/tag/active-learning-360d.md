@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,29 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18162.html">Accelerating Battery Material Optimization through iterative Machine Learning</a></div></td>
 <td>Seon-Hwa Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18162">2505.18162</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03620.html">Active Learning for Predicting Polymer/Plasticizer Phase Behaviour</a></div></td>
-<td>Lois Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03620">2505.03620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02770.html">Teaching the social media generation: rethinking learning without sacrificing quality</a></div></td>
-<td>Sepinoud Azimi</td>
-<td><a href="http://arxiv.org/abs/2505.02770">2505.02770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03963.html">AL-PINN: Active Learning-Driven Physics-Informed Neural Networks for Efficient Sample Selection in Solving Partial Differential Equations</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Keon Vin Park</td>
-<td><a href="http://arxiv.org/abs/2502.03963">2502.03963</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01283.html">Reduced-order structure-property linkages for stochastic metamaterials</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Hooman Danesh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01283">2505.01283</a></td>
 </tr>
 </tbody></table>

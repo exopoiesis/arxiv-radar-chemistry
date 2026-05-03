@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-llm — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="chemical-llm-7d.html">7d</a> <a href="chemical-llm-30d.html">30d</a> <strong>90d</strong> <a href="chemical-llm-360d.html">360d</a> <a href="chemical-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07139.html">Notation-level confounding: When inconsistent molecular notations mislead chemical language models</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Yosuke Kikuchi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.07139">2505.07139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22382.html">Purely Agentic Black-Box Optimization for Biological Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Natalie Maus et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22382">2601.22382</a></td>
 </tr>
 </tbody></table>

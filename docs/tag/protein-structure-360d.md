@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">270 papers</span>
+  <span class="paper-count">266 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1610,29 +1610,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05893.html">LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Seunghee Han et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05893">2505.05893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22367.html">MAMMAL -- Molecular Aligned Multi-Modal Architecture and Language</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Yoel Shoshan et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22367">2410.22367</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03121.html">AutoLoop: a novel autoregressive deep learning method for protein loop prediction with high accuracy</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-function-360d.html">protein-function</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Tianyue Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03121">2505.03121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01681.html">Large Language Model Driven Development of Turbulence Models</a></div></td>
-<td>Zhongxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01681">2505.01681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01277.html">Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Hocheol Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01277">2505.01277</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>multimodal-llm — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <strong>30d</strong> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,23 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02934.html">PolyReal: A Benchmark for Real-World Polymer Science Workflows</a></div></td>
 <td>Wanhao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02934">2604.02934</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02289.html">Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation</a></div></td>
-<td>Chongjie Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02289">2604.02289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04672.html">AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Jin-Chuan Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04672">2602.04672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11404.html">ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models</a></div></td>
-<td>Linqing Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11404">2601.11404</a></td>
 </tr>
 </tbody></table>

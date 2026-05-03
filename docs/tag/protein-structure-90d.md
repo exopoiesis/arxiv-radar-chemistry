@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,29 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02425.html">Repurposing Protein Language Models for Latent Flow-Based Fitness Optimization</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Amaru Caceres Arroyo et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02425">2602.02425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00782.html">Controlling Repetition in Protein Language Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-llm-90d.html">protein-llm</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Jiahao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00782">2602.00782</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13421.html">Virtuous Machines: Towards Artificial General Science</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Gabrielle Wehr et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13421">2508.13421</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20462.html">CM-GAI: Continuum Mechanistic Generative Artificial Intelligence Theory for Data Dynamics</a></div></td>
-<td>Shan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20462">2601.20462</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19205.html">EnzyPGM: Pocket-conditioned Generative Model for Substrate-specific Enzyme Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Zefeng Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19205">2601.19205</a></td>
 </tr>
 </tbody></table>

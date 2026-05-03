@@ -1,0 +1,9 @@
+<article class="abstract-fragment" data-id="2604.23553">
+<h1 class="abstract-title">ClusterFusion++: Expanding Cluster-Level Fusion to Full Transformer-Block Decoding</h1>
+<p class="abstract-authors">ChiHeng Jin, Hongche Yu, Xihui Chen</p>
+<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2604.23553" rel="nofollow noopener">arXiv:2604.23553</a></span><span class="sep">·</span><span>cs.DC</span><span class="sep">·</span><span>Published 2026-04-26</span></p>
+<div class="abstract-body">Large language model (LLM) decoding is latency-sensitive and often bottlenecked by fragmented operator execution and repeated off-chip materialization of intermediate tensors. Prior work expands fusion scope by leveraging thread-block clusters and on-chip inter-block collectives to fuse attention-side operators such as QKV projection, attention, and output projection.   We develop ClusterFusion++, a CUDA-level extension that broadens fusion to the full Transformer decoder block for GPT-NeoX/Pythia models: LayerNorm -&gt; QKV -&gt; RoPE -&gt; decode attention -&gt; output projection -&gt; Post-LN -&gt; MLP -&gt; residual. We additionally engineer a CUDA-Graph-compatible execution mode with persistent Tensor Memory Accelerator (TMA) descriptors to reduce per-step overhead.   On an NVIDIA RTX 5090-class GPU, ClusterFusion++ improves throughput by 1.34x for Pythia-2.8B and yields similar gains for Pythia-6.9B, while maintaining high output fidelity (near-token-identical generation, with minor non-determinism from FP16 atomics).</div>
+<p class="abstract-tagline"><span class="label">Topics</span>Large Language Models &amp; Materials</p>
+<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.DC</p>
+<p class="abstract-actions"><a href="http://arxiv.org/abs/2604.23553" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2604.23553" rel="nofollow noopener">PDF</a></p>
+</article>

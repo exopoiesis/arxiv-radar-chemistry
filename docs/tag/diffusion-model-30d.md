@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26694.html">Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising</a></div></td>
+<td>Jun Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26694">2604.26694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23536.html">$Z^2$-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</a></div></td>
+<td>Haosen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.23536">2604.23536</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15753.html">Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers</a></div></td>
@@ -194,59 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02828.html">NavCrafter: Exploring 3D Scenes from a Single Image</a></div></td>
 <td>Hongbo Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02828">2604.02828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02028.html">Why Gaussian Diffusion Models Fail on Discrete Data?</a></div></td>
-<td>Alexander Shabalin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02028">2604.02028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00382.html">mmAnomaly: Leveraging Visual Context for Robust Anomaly Detection in the Non-Visual World with mmWave Radar</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Tarik Reza Toha et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00382">2604.00382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01053.html">PHASOR: Anatomy- and Phase-Consistent Volumetric Diffusion for CT Virtual Contrast Enhancement</a></div></td>
-<td>Zilong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01053">2604.01053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07297.html">MM-DADM: Multimodal Drug-Aware Diffusion Model for Virtual Clinical Trials</a></div></td>
-<td>Qian Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2502.07297">2502.07297</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12931.html">cryoSENSE: Compressive Sensing Enables High-throughput Microscopy with Sparse and Generative Priors on the Protein Cryo-EM Image Manifold</a></div></td>
-<td>Zain Shabeeb et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12931">2511.12931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19261.html">DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Aleksei Liuliakov et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19261">2602.19261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28267.html">Intrinsically ultralow thermal conductivity in all-inorganic superatomic bulk crystals</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Mingzhang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28267">2603.28267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09653.html">Diffusion-Based Generative Priors for Efficient Beam Alignment in Directional Networks</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Esraa Fahmy Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09653">2604.09653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13213.html">Diffusion Models with Double Guidance: Generate with aggregated datasets</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Yanfeng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13213">2505.13213</a></td>
 </tr>
 </tbody></table>

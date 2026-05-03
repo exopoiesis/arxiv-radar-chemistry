@@ -1,0 +1,48 @@
+---
+layout: page
+title: "molecular-llm (90d)"
+current_tag: molecular-llm
+current_window: 90d
+---
+
+<header class="tag-header">
+  <h1>molecular-llm — 90d</h1>
+  <span class="paper-count">5 papers</span>
+  <nav class="window-nav"><a href="molecular-llm-7d.html">7d</a> <a href="molecular-llm-30d.html">30d</a> <strong>90d</strong> <a href="molecular-llm-360d.html">360d</a> <a href="molecular-llm-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04403.html">MolDA: Molecular Understanding and Generation via Large Language Diffusion Model</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Seohyeon Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2604.04403">2604.04403</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03304.html">Generative Chemical Language Models for Energetic Materials Discovery</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a></div></td>
+<td>Andrew Salij et al.</td>
+<td><a href="http://arxiv.org/abs/2604.03304">2604.03304</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21861.html">SpecMol: A Spectroscopy-Grounded Foundation Model for Multi-Task Molecular Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Shuaike Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2509.21861">2509.21861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21964.html">From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Qianwei Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2601.21964">2601.21964</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22757.html">Unveiling Scaling Behaviors in Molecular Language Models: Effects of Model Size, Data, and Representation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Dong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2601.22757">2601.22757</a></td>
+</tr>
+</tbody></table>

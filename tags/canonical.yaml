@@ -1,0 +1,478 @@
+# Canonical tags for Chemistry arxiv-radar.
+#
+# Curated from TF-IDF + YAKE TOP-100 on 14,511 chemistry-filtered papers
+# (March 2024 → April 2026). Min frequency: 5 mentions across corpus.
+#
+# Each entry:
+#   <canonical-name>:
+#     group: <category>
+#     synonyms: [strings to match in abstract, case-insensitive, word-bounded]
+#     freq: <approx total occurrences in corpus, for reference>
+#
+# Runtime keyword matcher (Phase 2.5) iterates synonyms and assigns canonical
+# names to the paper's `tags[]` field. Multi-tagging is allowed (one paper
+# can have several tags); ordering doesn't matter.
+#
+# Generic ML-noise terms ('model', 'machine learning', 'neural network',
+# 'wide range', 'experimental data', 'computational cost', 'natural language',
+# 'artificial intelligence') are intentionally NOT canonical — they appear in
+# nearly every chem-ML paper and would not differentiate.
+
+# === Computational methods ===
+
+dft:
+  group: methods
+  synonyms:
+    - density functional theory
+    - density-functional theory
+    - density functional
+    - functional theory
+    - dft
+    - dft calculations
+    - dft hamiltonians
+    - electronic structure calculations
+    - first-principles density functional
+    - time-dependent density functional
+    - energy density functional
+    - functional theory simulations
+    - functional theory data
+  freq: ~3500
+
+ab-initio:
+  group: methods
+  synonyms:
+    - ab initio
+    - ab-initio
+    - first-principles
+    - first principles
+    - ab initio calculations
+    - initio calculations
+  freq: ~2000
+
+electronic-structure:
+  group: methods
+  synonyms:
+    - electronic structure
+    - electronic structure theory
+    - electronic structure calculations
+  freq: ~900
+
+quantum-chemistry:
+  group: methods
+  synonyms:
+    - quantum chemistry
+    - quantum chemical
+  freq: ~600
+
+monte-carlo:
+  group: methods
+  synonyms:
+    - monte carlo
+    - monte carlo simulations
+    - monte carlo simulation
+    - monte carlo calculations
+    - quantum monte carlo
+    - variational monte carlo
+    - diffusion monte carlo
+    - hamiltonian monte carlo
+    - monte carlo tree
+    - monte carlo models
+  freq: ~700
+
+molecular-dynamics:
+  group: methods
+  synonyms:
+    - molecular dynamics
+    - molecular dynamics simulations
+    - molecular dynamics simulation
+    - molecular dynamic simulations
+    - md simulations
+    - ab initio molecular dynamics
+    - initio molecular dynamics
+    - classical molecular dynamics
+    - quantum molecular dynamics
+    - learning molecular dynamics
+    - large molecular systems
+  freq: ~3000
+
+mlip:
+  group: methods
+  synonyms:
+    - machine learning interatomic potentials
+    - machine learning interatomic
+    - machine learning potentials
+    - machine learning potential
+    - learning interatomic potentials
+    - interatomic potentials
+    - neural network potentials
+    - neural network potential
+    - force field
+    - force fields
+  freq: ~1100
+
+active-learning:
+  group: methods
+  synonyms: [active learning]
+  freq: ~235
+
+bayesian-optimization:
+  group: methods
+  synonyms: [bayesian optimization]
+  freq: ~210
+
+# === Architectures (chemistry-relevant) ===
+
+gnn:
+  group: architectures
+  synonyms:
+    - graph neural networks
+    - graph neural network
+    - graph neural
+    - equivariant graph neural
+    - gnns
+    - message passing neural network
+    - mpnn
+  freq: ~1400
+
+diffusion-model:
+  group: architectures
+  synonyms:
+    - diffusion model
+    - diffusion models
+    - latent diffusion model
+    - graph diffusion model
+    - graph diffusion models
+    - molecular diffusion model
+  freq: ~900
+
+generative-model:
+  group: architectures
+  synonyms:
+    - generative models
+    - generative model
+    - deep generative models
+    - molecular generative models
+    - graph generative models
+  freq: ~900
+
+# === LLM family (specialized — NO generic 'llm' canonical) ===
+
+chemical-llm:
+  group: llm
+  synonyms:
+    - chemical llms
+    - chemical language models
+    - scientific llms
+    - scientific language models
+    - chemistry foundation model
+    - chemistry foundation models
+  freq: ~50
+
+protein-llm:
+  group: llm
+  synonyms:
+    - protein language models
+    - protein language model
+  freq: ~160
+
+molecular-llm:
+  group: llm
+  synonyms:
+    - molecular language models
+    - molecular language model
+    - molecularGPT
+  freq: ~20
+
+multimodal-llm:
+  group: llm
+  synonyms:
+    - multimodal large language
+    - multimodal language models
+    - multimodal language model
+    - vision language models
+    - vision-language model
+    - multimodal foundation models
+  freq: ~80
+
+# === Tasks ===
+
+property-prediction:
+  group: tasks
+  synonyms:
+    - property prediction
+    - molecular property prediction
+    - molecular property
+  freq: ~750
+
+structure-prediction:
+  group: tasks
+  synonyms:
+    - structure prediction
+    - crystal structure prediction
+    - protein structure prediction
+  freq: ~450
+
+materials-discovery:
+  group: tasks
+  synonyms:
+    - materials discovery
+    - inverse materials design
+    - materials informatics
+  freq: ~340
+
+drug-discovery:
+  group: tasks
+  synonyms:
+    - drug discovery
+    - drug design
+    - de novo
+    - virtual screening
+    - lead optimization
+  freq: ~1100
+
+molecular-generation:
+  group: tasks
+  synonyms:
+    - molecular generation
+    - molecular optimization
+    - smiles generation
+    - de novo molecular design
+  freq: ~80
+
+retrosynthesis:
+  group: tasks
+  synonyms:
+    - retrosynthesis
+    - synthesis planning
+    - reaction prediction
+  freq: ~50
+
+# === Bio domain ===
+
+protein-structure:
+  group: bio
+  synonyms:
+    - protein structure
+    - protein design
+    - protein folding
+    - alphafold
+  freq: ~430
+
+# Protein function prediction — separate subfield from structure prediction.
+# Different methods (often sequence-only, no 3D), different evaluation.
+protein-function:
+  group: bio
+  synonyms:
+    - protein function
+    - protein function prediction
+    - functional annotation
+    - function-aware
+  freq: tbd
+
+protein-ligand:
+  group: bio
+  synonyms:
+    - protein-ligand interaction
+    - molecular docking
+    - binding affinity
+    - ligand binding
+  freq: ~300
+
+# === Materials domain ===
+
+materials-science:
+  group: domain
+  synonyms:
+    - materials science
+    - material properties
+    - nanomaterial
+    - nanomaterials
+  freq: ~720
+
+# 2D materials — monolayer/bilayer systems, twisted heterostructures.
+# Distinct from generic materials-science; very active subfield (graphene,
+# TMDs, MXenes, h-BN). TMD tag is a subset of 2d-materials.
+2d-materials:
+  group: domain
+  synonyms:
+    - 2d materials
+    - 2d material
+    - two-dimensional materials
+    - two-dimensional material
+    - monolayer
+    - bilayer
+    - heterostructure
+    - heterostructures
+    - graphene
+    - mxene
+    - mxenes
+  freq: tbd
+
+# Battery / electrode materials — cathodes, anodes, electrolytes, lithium and
+# beyond. Project-relevant for NMC, sulfide cathodes, solid electrolytes etc.
+battery-materials:
+  group: domain
+  synonyms:
+    - cathode
+    - cathodes
+    - anode
+    - anodes
+    - electrolyte
+    - electrolytes
+    - lithium battery
+    - lithium-ion battery
+    - li-ion battery
+    - solid-state battery
+    - electrode material
+    - electrode materials
+    - nmc
+  freq: tbd
+
+crystal-structure:
+  group: domain
+  synonyms:
+    - crystal structure
+    - crystalline structure
+    - perovskite
+  freq: ~280
+
+# Transition metal dichalcogenides — biggest sub-group of TM papers (41% of
+# 310 'transition metal*' mentions). Includes TMD acronym and the explicit
+# phrase. 2D-materials, optoelectronics, catalysis hot topic.
+tmd:
+  group: domain
+  synonyms:
+    - transition metal dichalcogenide
+    - transition metal dichalcogenides
+    - tmd
+    - tmds
+  freq: ~130
+
+# Transition metal oxides — next-largest TM sub-group (14% of 'transition
+# metal*' papers). Distinct from generic crystal-structure/perovskite.
+tmo:
+  group: domain
+  synonyms:
+    - transition metal oxide
+    - transition metal oxides
+    - tmo
+  freq: ~45
+
+mof:
+  group: domain
+  synonyms: [mof, mofs, metal-organic framework, metal organic framework]
+  freq: ~50
+
+# === Reactions / catalysis ===
+
+catalysis:
+  group: domain
+  synonyms:
+    - catalysis
+    - catalyst
+    - heterogeneous catalysis
+    - homogeneous catalysis
+  freq: ~?
+
+electrocatalysis:
+  group: domain
+  synonyms: [electrocatalysis, electrocatalyst, electrocatalytic]
+  freq: ~?
+
+photocatalysis:
+  group: domain
+  synonyms: [photocatalysis, photocatalyst, photocatalytic]
+  freq: ~?
+
+# === Properties ===
+
+band-gap:
+  group: properties
+  synonyms:
+    - band gap
+    - band structure
+    - fermi level
+    - bandgap
+  freq: ~830
+
+magnetic-properties:
+  group: properties
+  synonyms:
+    - magnetic properties
+    - magnetic field
+    - spin-orbit coupling
+    - magnetism
+  freq: ~600
+
+phase-transition:
+  group: properties
+  synonyms:
+    - phase transition
+    - phase transitions
+  freq: ~480
+
+free-energy:
+  group: properties
+  synonyms:
+    - free energy
+    - potential energy
+    - potential energy surface
+    - potential energy surfaces
+  freq: ~830
+
+excited-states:
+  group: properties
+  synonyms:
+    - excited states
+    - excited state
+    - time-dependent density functional
+  freq: ~340
+
+thermal-properties:
+  group: properties
+  synonyms:
+    - thermal conductivity
+    - transport properties
+    - room temperature
+  freq: ~650
+
+# === Specialized ===
+
+vdw-correction:
+  group: specialized
+  synonyms:
+    - van der waals
+    - van der
+    - der waals
+  freq: ~290
+
+chemical-space:
+  group: specialized
+  synonyms: [chemical space]
+  freq: ~200
+
+# Molecular representation learning — distinct ML subfield from generic GNNs.
+# Focus on learning representations (fingerprints, embeddings, descriptors).
+molecular-representation:
+  group: specialized
+  synonyms:
+    - molecular representation
+    - molecular representations
+    - molecular representation learning
+    - molecular embedding
+    - molecular embeddings
+    - molecular fingerprint
+    - molecular fingerprints
+    - molecular descriptor
+    - molecular descriptors
+  freq: tbd
+
+reinforcement-learning:
+  group: specialized
+  synonyms: [reinforcement learning]
+  freq: ~217
+
+quantum-computing:
+  group: specialized
+  synonyms: [quantum computing, quantum machine learning]
+  freq: ~235

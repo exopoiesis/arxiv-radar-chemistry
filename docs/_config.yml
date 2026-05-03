@@ -1,0 +1,21 @@
+title: arxiv-radar-chemistry
+description: Daily-curated chemistry-relevant papers from arXiv with canonical tags and pre-rendered tag pages.
+show_downloads: true
+
+github:
+  zip_url: https://github.com/exopoiesis/arxiv-radar-chemistry
+  another_url: https://github.com/exopoiesis/arxiv-radar-chemistry
+
+remote_theme: jekyll/minima@v2.5.1
+
+# Empty so 230 tag pages don't appear in the site header navigation.
+header_pages: []
+
+skin: dark
+social_links:
+  github: exopoiesis
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag

@@ -1,0 +1,9 @@
+<article class="abstract-fragment" data-id="2511.13645">
+<h1 class="abstract-title">FuseSampleAgg: Fused Neighbor Sampling and Aggregation for Mini-batch GNNs</h1>
+<p class="abstract-authors">Aleksandar Stanković</p>
+<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2511.13645" rel="nofollow noopener">arXiv:2511.13645</a></span><span class="sep">·</span><span>cs.LG</span><span class="sep">·</span><span>Published 2025-11-17</span></p>
+<div class="abstract-body">We present FuseSampleAgg, a CUDA operator that fuses neighbor sampling and mean aggregation into a single pass for one and two hop GraphSAGE. By eliminating block materialization and extra kernel launches, FuseSampleAgg reduces memory traffic and overhead while preserving GraphSAGE mean semantics via saved index replay. Across the Reddit, ogbn-arxiv, and ogbn-products benchmarks (batch size 1024, automatic mixed precision enabled), we observe step time speedups up to 51x on ogbn-products, about 4x on Reddit with fanouts 10-10 and 15-10, and about 3.3x on ogbn-arxiv at larger fanouts, with peak GPU memory reductions up to 100x, 36x, and about 3.5x, respectively. The operator is deterministic, integrates with standard PyTorch optimizers, and ships with scripts that reproduce all tables and figures from CSV logs. Code and scripts are available at <a href="https://github.com/SV25-22/FuseSampleAgg" rel="nofollow noopener">https://github.com/SV25-22/FuseSampleAgg</a>.</div>
+<p class="abstract-tagline"><span class="label">Topics</span>Molecular Representation &amp; Learning</p>
+<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.LG</p>
+<p class="abstract-actions"><a href="http://arxiv.org/abs/2511.13645" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2511.13645" rel="nofollow noopener">PDF</a></p>
+</article>

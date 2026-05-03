@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Backfill / runtime state (regenerable)
+data/backfill.log
+data/backfill_checkpoint.json
+data/*.json.tmp
+
+# Editors
+.vscode/
+.idea/
+
+# Local Claude Code settings (machine-specific)
+.claude/
+
+# Tag analysis intermediate outputs (regenerable from corpus)
+tags_filtered/
+tags/candidates_*.json
+tags/comparison.md
+
+# Test cache
+.pytest_cache/
+
+# Jekyll build artifacts (regenerated on every build)
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/_site/

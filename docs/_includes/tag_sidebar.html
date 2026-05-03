@@ -1,0 +1,27 @@
+<aside class="tag-sidebar">
+  <h3>tags · last 30d</h3>
+  <ul class="tag-list">
+    {% assign windows = "7d,30d,90d,360d,all" | split: "," %}
+    {% for tag in site.data.tag_index %}
+      <li class="tag-item {% if page.current_tag == tag.name %}active{% endif %}">
+        <div class="tag-row">
+          {% if page.current_tag == tag.name %}
+            <strong>{{ tag.name }}</strong>
+          {% else %}
+            <a class="tag-name" href="{{ '/tag/' | relative_url }}{{ tag.name }}-30d.html">{{ tag.name }}</a>
+          {% endif %}
+          <span class="count">({{ tag.count }})</span>
+        </div>
+        <div class="windows">
+          {% for w in windows %}
+            {% if page.current_tag == tag.name and page.current_window == w %}
+              <strong>{{ w }}</strong>
+            {% else %}
+              <a href="{{ '/tag/' | relative_url }}{{ tag.name }}-{{ w }}.html">{{ w }}</a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>

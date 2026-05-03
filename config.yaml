@@ -1,0 +1,84 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "exopoiesis"
+repo_name: "arxiv-radar-chemistry"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/chemistry-arxiv-daily.json'
+json_gitpage_path: './docs/chemistry-arxiv-daily-web.json'
+json_wechat_path: './docs/chemistry-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# Search filters per topic.
+#
+# Each filter becomes part of an OR-joined arXiv search query. Three forms:
+#   - "single phrase"  → single-word, used bare
+#   - "Multi word"     → quoted as phrase
+#   - "RAW:expr"       → expression passed through verbatim, wrapped in parens.
+#                        Use this when a greedy keyword (e.g. "Large Language
+#                        Models") needs an AND-chemistry context to avoid
+#                        pulling general ML papers.
+#
+# Three topics below use RAW: AND-chemistry — they were the noisiest in the
+# original config (LLM, Generative Design, Molecular Representation) and
+# generated 80–92% non-chemistry papers. AND-context cut March 2025 LLM topic
+# from 2200+ papers/month to ~130, all chemistry-relevant.
+#
+# Narrow topics (Quantum Chemistry, Property Prediction, Reaction/Catalysis,
+# Protein) keep plain OR — their phrases are domain-specific by construction.
+keywords:
+    "Molecular Representation & Learning":
+        filters:
+          - "Molecular Representation Learning"
+          - "Molecular Embedding"
+          - "Molecular Fingerprint"
+          - "3D Molecular Geometry"
+          - 'RAW:("Graph Neural Networks" OR GNNs OR "Geometric Deep Learning" OR "Message Passing Neural Network" OR MPNN) AND (chemistry OR molecular OR molecule OR material OR materials OR drug OR protein OR catalyst OR polymer OR crystal OR DFT OR retrosynthesis)'
+
+    "Generative Design & Molecule Optimization":
+        filters:
+          - "Molecular Generation"
+          - "De Novo Molecular Design"
+          - "SMILES Generation"
+          - "Molecular Optimization"
+          - 'RAW:("Generative Models" OR "Diffusion Models" OR "Normalizing Flows" OR VAE OR GAN OR "Latent Space") AND (chemistry OR molecular OR molecule OR material OR materials OR drug OR protein OR catalyst OR polymer OR crystal OR DFT OR retrosynthesis)'
+
+    "Property Prediction & ADMET":
+        filters: ["Molecular Property Prediction", "QSAR", "QSPR", "ADMET Prediction", "Activity Prediction", "Virtual Screening", "Binding Affinity Prediction", "Lead Optimization"]
+
+    "Reaction, Synthesis & Catalysis":
+        filters: ["Reaction Prediction", "Retrosynthesis", "Synthesis Planning", "Chemical Reaction Engineering", "Transition State Prediction", "Reaction Condition", "Yield Prediction", "Catalysis", "Electrocatalysis"]
+
+    "Quantum Chemistry & Force Fields":
+        filters:
+          - "Quantum Chemistry"
+          - "Density Functional Theory"
+          - "Machine Learning Force Fields"
+          - "Molecular Dynamics"
+          - "Ab Initio"
+          - 'RAW:("Active Learning" OR "Bayesian Optimization") AND (chemistry OR molecular OR material OR DFT OR molecule)'
+
+    "Protein & Biomolecules":
+        filters: ["Protein-Ligand Interaction", "Protein Structure Prediction", "Protein Design", "AlphaFold", "Molecular Docking", "Binding Affinity", "Protein Folding", "Sequence-to-Structure"]
+
+    "Large Language Models & Materials":
+        filters:
+          - "Chemical LLMs"
+          - "Scientific LLMs"
+          - "Text-to-Molecule"
+          - "Molecular Language Models"
+          - "Materials Foundation Models"
+          - "Crystal Structure Prediction"
+          - "Materials Discovery"
+          - "Inverse Materials Design"
+          - 'RAW:"Large Language Models" AND (chemistry OR molecular OR molecule OR material OR materials OR drug OR protein OR catalyst OR polymer OR crystal OR DFT OR retrosynthesis OR perovskite OR MOF)'

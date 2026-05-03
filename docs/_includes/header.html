@@ -1,0 +1,13 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      {{ site.title | escape }}
+      {%- if site.description -%}
+        <span class="site-subtitle">{{ site.description | escape }}</span>
+      {%- endif -%}
+    </a>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle theme">
+      <span class="ico" aria-hidden="true">☾</span><span class="label">dark</span>
+    </button>
+  </div>
+</header>

@@ -1,0 +1,10 @@
+<article class="abstract-fragment" data-id="2604.02028">
+<h1 class="abstract-title">Why Gaussian Diffusion Models Fail on Discrete Data?</h1>
+<p class="abstract-authors">Alexander Shabalin, Simon Elistratov, Viacheslav Meshchaninov, Ildus Sadrtdinov, Dmitry Vetrov</p>
+<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2604.02028" rel="nofollow noopener">arXiv:2604.02028</a></span><span class="sep">·</span><span>cs.CL</span><span class="sep">·</span><span>Published 2026-04-02</span></p>
+<div class="abstract-body">Diffusion models have become a standard approach for generative modeling in continuous domains, yet their application to discrete data remains challenging. We investigate why Gaussian diffusion models with the DDPM solver struggle to sample from discrete distributions that are represented as a mixture of delta-distributions in the continuous space. Using a toy Random Hierarchy Model, we identify a critical sampling interval in which the density of noisified data becomes multimodal. In this regime, DDPM occasionally enters low-density regions between modes producing out-of-distribution inputs for the model and degrading sample quality. We show that existing heuristics, including self-conditioning and a solver we term q-sampling, help alleviate this issue. Furthermore, we demonstrate that combining self-conditioning with switching from DDPM to q-sampling within the critical interval improves generation quality on real data. We validate these findings across conditional and unconditional tasks in multiple domains, including text, programming code, and proteins.</div>
+<p class="abstract-tagline"><span class="label">Topics</span>Generative Design &amp; Molecule Optimization</p>
+<p class="abstract-tagline"><span class="label">Tags</span><a href="../tag/diffusion-model-30d.html">diffusion-model</a></p>
+<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.CL</p>
+<p class="abstract-actions"><a href="http://arxiv.org/abs/2604.02028" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2604.02028" rel="nofollow noopener">PDF</a></p>
+</article>

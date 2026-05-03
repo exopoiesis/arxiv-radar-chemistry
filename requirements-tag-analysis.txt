@@ -1,0 +1,10 @@
+# One-shot Phase 2 corpus analysis — not part of production runtime deps.
+# Install separately: pip install -r requirements-tag-analysis.txt
+-r requirements-dev.txt
+scikit-learn>=1.3
+yake>=0.4
+rake-nltk>=1.0
+# keybert + sentence-transformers are optional (heavy ML model ~80 MB).
+# Uncomment if you want to run --algorithms keybert:
+# keybert>=0.8
+# sentence-transformers>=2.2

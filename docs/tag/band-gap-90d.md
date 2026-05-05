@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01115.html">Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>R. Weht et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01115">2605.01115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26560.html">Unraveling the symmetry of Al5C3N</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -800,41 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07317.html">Analyzing Band Gaps in Ensemble Density Functional Theory using Thermodynamic Limits of Finite One-Dimensional Model Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Gregory G. V. Kenning et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07317">2602.07317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18965.html">Exotic 4f Correlated Electronic States of Ferromagnetic Kondo Lattice Compounds ReRh$_6$Ge$_4$ (Re=Ce, Ho, Er, Tm)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Caiqun Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18965">2406.18965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24564.html">Evolution of electronic and magnetic properties in Mn- and Co-alloyed ferromagnetic kagome metal Fe3Sn2</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Prajwal M. Laxmeesha et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24564">2510.24564</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03649.html">Ab initio Phase Diagram of Ta2O5</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Yan Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03649">2602.03649</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03964.html">Electrically and optically active charge carrier traps in silicon-doped few-layer GaSe</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>M. Bissolo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03964">2602.03964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="mof-90d.html">mof</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Anna Kurowská et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01940">2602.01940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02879.html">Origin of donor compensation in monoclinic (Al$_x$Ga$_{1{\rm -}x})_2$O$_3$ alloys</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Sierra Seacat et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02879">2602.02879</a></td>
 </tr>
 </tbody></table>

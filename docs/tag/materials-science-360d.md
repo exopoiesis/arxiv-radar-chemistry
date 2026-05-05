@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">441 papers</span>
+  <span class="paper-count">440 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00803.html">Can Coding Agents Reproduce Findings in Computational Materials Science?</a></div></td>
+<td>Ziyang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00803">2605.00803</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26509.html">3D Generation for Embodied AI and Robotic Simulation: A Survey</a></div></td>
@@ -2648,17 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15587.html">MetaMolGen: A Neural Graph Motif Generation Model for De Novo Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Zimo Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2504.15587">2504.15587</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01117.html">Bayesian optimization based on element mapping to design high-capacity NASICON-type cathode in sodium-ion battery</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Sanghyeon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01117">2411.01117</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05354.html">High-fidelity Grain Growth Modeling: Leveraging Deep Learning for Fast Computations</a></div></td>
-<td>Pungponhavoan Tep et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05354">2505.05354</a></td>
 </tr>
 </tbody></table>

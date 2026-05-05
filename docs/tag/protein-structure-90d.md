@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00948.html">Co-Generative De Novo Functional Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
+<td>Xinrui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00948">2605.00948</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10497.html">Entangled happily ever after: Wedding reception seating mapped to classical and quantum optimizers</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
@@ -446,17 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04637.html">RIGA-Fold: A General Framework for Protein Inverse Folding via Recurrent Interaction and Geometric Awareness</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Sisi Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04637">2602.04637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03779.html">Generative AI for Enzyme Design and Biocatalysis</a></div></td>
-<td>Lasse Middendorf et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03779">2602.03779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02425.html">Repurposing Protein Language Models for Latent Flow-Based Fitness Optimization</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Amaru Caceres Arroyo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02425">2602.02425</a></td>
 </tr>
 </tbody></table>

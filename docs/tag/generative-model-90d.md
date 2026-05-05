@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01286.html">Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Ibuki Okuda et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01286">2605.01286</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25119.html">Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM</a></div></td>
@@ -860,29 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04734.html">DMFlow: Disordered Materials Generation by Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Liming Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04734">2602.04734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03612.html">Generator-based Graph Generation via Heat Diffusion</a></div></td>
-<td>Anthony Stephenson et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03612">2602.03612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04075.html">Thermodynamic assessment of machine learning models for solid-state synthesis prediction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Jane Schlesinger et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04075">2602.04075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01817.html">SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
-<td>Sagi Eppel et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01817">2511.01817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02282.html">MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology</a></div></td>
-<td>Susu Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02282">2602.02282</a></td>
 </tr>
 </tbody></table>

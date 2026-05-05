@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01286.html">Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Ibuki Okuda et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01286">2605.01286</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25119.html">Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM</a></div></td>
 <td>Vinith M. Suriyakumar et al.</td>
@@ -218,11 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03911.html">Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Aniketh Iyengar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03911">2604.03911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03635.html">A Generative Foundation Model for Multimodal Histopathology</a></div></td>
-<td>Jinxi Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03635">2604.03635</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">589 papers</span>
+  <span class="paper-count">585 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01115.html">Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td>R. Weht et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01115">2605.01115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26037.html">Accelerating finite-element-based projector augmented-wave density functional theory calculations with scalable GPU-centric computational methods</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
@@ -3518,35 +3524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07021.html">Ab-initio density-matrix approach to exciton coherence: phonon scattering, Coulomb interactions and radiative recombination</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Tomer Amit et al.</td>
 <td><a href="http://arxiv.org/abs/2505.07021">2505.07021</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05695.html">Cerium doped graphene-based materials towards oxygen reduction reaction catalysis</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Lanna E. B. Lucchetti et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05695">2505.05695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05794.html">What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips</a></div></td>
-<td>Renjie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05794">2505.05794</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06447.html">Lipidation-induced bacterial cell membrane translocation of star-peptides</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Amal Jayawardena et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06447">2505.06447</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05282.html">Electronic and Optical Properties of the Recently Synthesized 2D Vivianites (Vivianenes): Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Raphael Benjamim de Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05282">2505.05282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05384.html">Machine learning model for efficient nonthermal tuning of the charge density wave in monolayer NbSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Luka Benić et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05384">2505.05384</a></td>
 </tr>
 </tbody></table>

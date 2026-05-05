@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02745.html">Bolek: A Multimodal Language Model for Molecular Reasoning</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Frederic Grabowski et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02745">2605.02745</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19105.html">EgoMotion: Hierarchical Reasoning and Diffusion for Egocentric Vision-Language Motion Generation</a></div></td>
 <td>Ruibing Hou et al.</td>
@@ -200,11 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05710.html">Ethology of Latent Spaces</a></div></td>
 <td>Philippe Boisnard</td>
 <td><a href="http://arxiv.org/abs/2602.05710">2602.05710</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01817.html">SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Sagi Eppel et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01817">2511.01817</a></td>
 </tr>
 </tbody></table>

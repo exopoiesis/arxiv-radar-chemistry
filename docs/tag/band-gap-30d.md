@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>band-gap — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <strong>30d</strong> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01115.html">Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>R. Weht et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01115">2605.01115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26560.html">Unraveling the symmetry of Al5C3N</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
@@ -254,17 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04860.html">Proton Quantum Effects in H$_3$S Electronic Structure: A Multicomponent DFT study via Nuclear-Electronic Orbital Method</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Jianhang Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04860">2604.04860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15992.html">Band gap renormalization, carrier mobility, and transport in Mg$_{2}$Si and Ca$_{2}$Si: \textit{Ab initio} scattering and Boltzmann transport equation study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Vinod Kumar Solet et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15992">2501.15992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00990.html">Many-body \textit{ab initio} study of quasiparticles, optical excitations, and excitonic properties in LiZnAs and ScAgC for photovoltaic applications</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Vinod Kumar Solet et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00990">2504.00990</a></td>
 </tr>
 </tbody></table>

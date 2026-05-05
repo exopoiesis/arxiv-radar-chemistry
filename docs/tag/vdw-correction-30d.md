@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>vdw-correction — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <strong>30d</strong> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05220.html">Many-body description of two-dimensional van der Waals ferroelectric $α-$In$_2$Se$_3$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Denzel Ayala et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05220">2604.05220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10594.html">Atomistic mechanism and interface-structure-energetics of van der Waals epitaxy demonstrated by layered alpha-MoO3 growth on mica</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Faezeh A. F. Lahiji et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10594">2502.10594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02898.html">Microscopic NMR evidence for successive antiferroelectric and antiferromagnetic order in the van der Waals magnet CuCrP$_2$S$_6$</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>C. S. Saramgi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02898">2604.02898</a></td>
 </tr>
 </tbody></table>

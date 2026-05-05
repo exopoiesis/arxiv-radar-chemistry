@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01367.html">From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>King Yiu Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01367">2605.01367</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26694.html">Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising</a></div></td>
 <td>Jun Guo et al.</td>
@@ -2750,11 +2756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07442.html">DiffCrysGen: A Score-Based Diffusion Model for Design of Diverse Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Sourav Mal et al.</td>
 <td><a href="http://arxiv.org/abs/2505.07442">2505.07442</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05874.html">A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Anjie Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05874">2505.05874</a></td>
 </tr>
 </tbody></table>

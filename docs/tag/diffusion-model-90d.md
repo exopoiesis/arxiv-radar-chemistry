@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01367.html">From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>King Yiu Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01367">2605.01367</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26694.html">Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising</a></div></td>
@@ -920,29 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03312.html">Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Daniel D. Richman et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03312">2512.03312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09131.html">Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Zixin Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09131">2508.09131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09406.html">Are diffusion models ready for materials discovery in unexplored chemical space?</a></div></td>
-<td>Sanghyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09406">2510.09406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01723.html">FastPhysGS: Accelerating Physics-based Dynamic 3DGS Simulation via Interior Completion and Adaptive Optimization</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Yikun Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01723">2602.01723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02107.html">Teacher-Guided Student Self-Knowledge Distillation Using Diffusion Model</a></div></td>
-<td>Yu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02107">2602.02107</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1611 papers</span>
+  <span class="paper-count">1601 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01286.html">Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Ibuki Okuda et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01286">2605.01286</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01115.html">Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td>R. Weht et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01115">2605.01115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26551.html">aim2dat: A Python infrastructure for automated ab initio material modeling and data analysis</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
@@ -9608,77 +9620,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06662.html">Doping Topological Dirac Semimetal with magnetic impurities: electronic structure of Mn-doped Cd$_3$As$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>H. Ness et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06662">2505.06662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05891.html">Elastic properties of transition metal dichalcogenides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>S. Azadi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05891">2505.05891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05919.html">Efficient parallel algorithms for free-energy calculation of millions of water molecules in the fluid phases</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Luis Enrique Coronas et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05919">2505.05919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06132.html">Hexagonal ice density dependence on inter atomic distance changes due to nuclear quantum effects</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Lucas T. S. de Miranda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06132">2505.06132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06431.html">Magnetothermal Properties with Sampled Effective Local Field Estimation</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Nicholas Brawand et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06431">2505.06431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13477.html">Genetic Algorithm-Accelerated Computational Discovery of Liquid Crystal Polymers with Enhanced Optical Properties</a></div></td>
-<td>Jianing Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13477">2505.13477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16551.html">Universal Machine Learning Interatomic Potentials are Ready for Phonons</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Antoine Loew et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16551">2412.16551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04397.html">Understanding thermalization in a non-Abelian gauge theory in terms of its soft modes</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Sayak Guin et al.</td>
-<td><a href="http://arxiv.org/abs/2501.04397">2501.04397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19113.html">Genetic AI: Evolutionary Games for ab initio dynamic Multi-Objective Optimization</a></div></td>
-<td>Philipp Wissgott</td>
-<td><a href="http://arxiv.org/abs/2501.19113">2501.19113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05166.html">Influence of vibrational motion and temperature on interatomic Coulombic electron capture</a></div></td>
-<td>Elena M. Jahr et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05166">2505.05166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05282.html">Electronic and Optical Properties of the Recently Synthesized 2D Vivianites (Vivianenes): Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Raphael Benjamim de Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05282">2505.05282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05384.html">Machine learning model for efficient nonthermal tuning of the charge density wave in monolayer NbSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Luka Benić et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05384">2505.05384</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05615.html">Determination of a set of fundamental constants from molecular hydrogen ion spectroscopy: a modeling study</a></div></td>
-<td>J. -Ph Karr et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05615">2505.05615</a></td>
 </tr>
 </tbody></table>

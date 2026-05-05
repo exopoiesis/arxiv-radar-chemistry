@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2101 papers</span>
+  <span class="paper-count">2095 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01286.html">Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Ibuki Okuda et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01286">2605.01286</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
@@ -12578,47 +12584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06662.html">Doping Topological Dirac Semimetal with magnetic impurities: electronic structure of Mn-doped Cd$_3$As$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>H. Ness et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06662">2505.06662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14002.html">Predicting fermionic densities using a Projected Quantum Kernel method</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Francesco Perciavalle et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14002">2504.14002</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05695.html">Cerium doped graphene-based materials towards oxygen reduction reaction catalysis</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Lanna E. B. Lucchetti et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05695">2505.05695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05887.html">Bipolar doping in van der Waals semiconductor through Flexo-doping</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Bo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05887">2505.05887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05891.html">Elastic properties of transition metal dichalcogenides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>S. Azadi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05891">2505.05891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06095.html">A Piezoelectric Molecular Cocrystal with Unconventional $π$-Stacking</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Samuel G. Dunning et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06095">2505.06095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05072.html">Peak Broadening in Photoelectron Spectroscopy of Amorphous Polymers: the Leading Role of the Electrostatic Landscape</a></div></td>
-<td>Laura Galleni et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05072">2505.05072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05282.html">Electronic and Optical Properties of the Recently Synthesized 2D Vivianites (Vivianenes): Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Raphael Benjamim de Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05282">2505.05282</a></td>
 </tr>
 </tbody></table>

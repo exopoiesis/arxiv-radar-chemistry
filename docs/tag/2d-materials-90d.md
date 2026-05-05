@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01115.html">Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
+<td>R. Weht et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01115">2605.01115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26037.html">Accelerating finite-element-based projector augmented-wave density functional theory calculations with scalable GPU-centric computational methods</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -908,53 +914,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04475.html">Potential-Induced Dynamic Coordination of Nonmetal Atoms Directly Bound to Metal Centers in Graphene-Embedded Single-Atom Catalysts and Its Implications</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jiahang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04475">2602.04475</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01749.html">Ab initio study of Proximity-Induced Superconductivity in PbTe/Pb heterostructures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>R. Reho et al.</td>
-<td><a href="http://arxiv.org/abs/2412.01749">2412.01749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20134.html">Revealing Strain Effects on the Graphene-Water Contact Angle Using a Machine Learning Potential</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Darren Wayne Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20134">2601.20134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03321.html">Direct nanoscale mapping of band alignment in single-layer semiconducting lateral heterojunctions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Chakradhar Sahoo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03321">2602.03321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03964.html">Electrically and optically active charge carrier traps in silicon-doped few-layer GaSe</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>M. Bissolo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03964">2602.03964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03147.html">$α$-RuCl$_3$ intercalated into graphite: a new three-dimensional platform for exotic quantum phases</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Aleksandar Razpopov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03147">2512.03147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01520.html">Correlation between 2D Square Ice and 3D Bulk Ice by Critical Crystallization Pressure</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zhen Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01520">2602.01520</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02256.html">Energy-Transfer-Enhanced Emission and Quantum Sensing of VB- Defects in hBN-PbI2 Heterostructures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Eveline Mayner et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02256">2602.02256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02879.html">Origin of donor compensation in monoclinic (Al$_x$Ga$_{1{\rm -}x})_2$O$_3$ alloys</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Sierra Seacat et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02879">2602.02879</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00948.html">Co-Generative De Novo Functional Protein Design</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Xinrui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00948">2605.00948</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26498.html">Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
@@ -926,29 +932,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04734.html">DMFlow: Disordered Materials Generation by Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Liming Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04734">2602.04734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09693.html">Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design</a></div></td>
-<td>Lisa Schneckenreiter et al.</td>
-<td><a href="http://arxiv.org/abs/2601.09693">2601.09693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03554.html">When Single Answer Is Not Enough: Rethinking Single-Step Retrosynthesis Benchmarks for LLMs</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Bogdan Zagribelnyy et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03554">2602.03554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14330.html">Multi-view Graph Condensation via Tensor Decomposition</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Nícolas Roque dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14330">2508.14330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01643.html">De Novo Molecular Generation from Mass Spectra via Many-Body Enhanced Diffusion</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Xichen Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01643">2602.01643</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01367.html">From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>King Yiu Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01367">2605.01367</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07890.html">Quantum circuit synthesis for fermionic excitations in coupled cluster theory using the Jordan-Wigner mapping</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Yu-Hao Chen et al.</td>
@@ -242,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04719.html">Enabling large-scale digital quantum simulations with superconducting qubits</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Laurin E. Fischer</td>
 <td><a href="http://arxiv.org/abs/2602.04719">2602.04719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01749.html">Ab initio study of Proximity-Induced Superconductivity in PbTe/Pb heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>R. Reho et al.</td>
-<td><a href="http://arxiv.org/abs/2412.01749">2412.01749</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">489 papers</span>
+  <span class="paper-count">472 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2846,107 +2846,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05141.html">Predictive Machine Learning Molecular Dynamics of SEI Formation in Concentrated LiTFSI and LiPF6 Electrolytes for Lithium Metal Batteries</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Syed Mustafa Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2602.05141">2602.05141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16667.html">MetaSym: A Symplectic Meta-learning Framework for Physical Intelligence</a></div></td>
-<td>Pranav Vaidhyanathan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16667">2502.16667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18380.html">Slip and friction at fluid-solid interfaces: Concept of adsorption layer</a></div></td>
-<td>Haodong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18380">2502.18380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09792.html">Phonon selection and interference in momentum-resolved electron energy loss spectroscopy</a></div></td>
-<td>Thomas W. Pfeifer et al.</td>
-<td><a href="http://arxiv.org/abs/2503.09792">2503.09792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25920.html">Liquid anomalies and Fragility of Supercooled Antimony</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Flavio Giuliani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25920">2510.25920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20134.html">Revealing Strain Effects on the Graphene-Water Contact Angle Using a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Darren Wayne Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20134">2601.20134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03037.html">Device variability of Josephson junctions induced by interface roughness</a></div></td>
-<td>Yu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03037">2602.03037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03902.html">All-Atom GPCR-Ligand Simulation via Residual Isometric Latent Flow</a></div></td>
-<td>Jiying Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03902">2602.03902</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08787.html">Molecular dynamics simulation of silicon nanoparticle crystallization during laser-induced forward transfer printing</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Youwen Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08787">2504.08787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01520.html">Correlation between 2D Square Ice and 3D Bulk Ice by Critical Crystallization Pressure</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Zhen Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01520">2602.01520</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01730.html">Machine learning determines the Mg2SiO4 P-T phase diagram</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Siyu Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01730">2602.01730</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01923.html">Internal Trajectories and Observation Effects in Langevin Splitting Schemes</a></div></td>
-<td>Bettina G. Keller</td>
-<td><a href="http://arxiv.org/abs/2602.01923">2602.01923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02088.html">A statistical theory of electronic degrees of freedom in wave packet molecular dynamics</a></div></td>
-<td>Daniel Plummer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02088">2602.02088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02115.html">The Entropic Barrier around the Conical Intersection Seam</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Johannes C. B. Dietschreit et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02115">2602.02115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02228.html">Triplet Envelope Functions for increasing machine learning interatomic potential efficiency and stability</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Emil Annevelink et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02228">2602.02228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02234.html">Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Andong Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02234">2602.02234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02237.html">Symmetry-restricted energy landscapes as a benchmark for machine learned interatomic potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Abhijith S Parackal et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02237">2602.02237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02695.html">Integration of Variational Quantum Algorithms into Atomistic Simulation Workflows</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Wilke Dononelli</td>
-<td><a href="http://arxiv.org/abs/2602.02695">2602.02695</a></td>
 </tr>
 </tbody></table>

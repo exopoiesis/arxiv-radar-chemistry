@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -998,11 +998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22674.html">PSBench: a large-scale benchmark for estimating the accuracy of protein complex structural models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-function-360d.html">protein-function</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Pawan Neupane et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22674">2505.22674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05893.html">LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Seunghee Han et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05893">2505.05893</a></td>
 </tr>
 </tbody></table>

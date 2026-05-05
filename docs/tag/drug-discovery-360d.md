@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">591 papers</span>
+  <span class="paper-count">588 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00948.html">Co-Generative De Novo Functional Protein Design</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Xinrui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00948">2605.00948</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26498.html">Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
@@ -3536,29 +3542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07876.html">Quantum Algorithm for Structure-Based Virtual Drug Screening Using Classical Force Fields</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Pei-Kun Yang</td>
 <td><a href="http://arxiv.org/abs/2505.07876">2505.07876</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05874.html">A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Anjie Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05874">2505.05874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16659.html">Advances in Protein Representation Learning: Methods, Applications, and Future Directions</a></div></td>
-<td>Viet Thanh Duy Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16659">2503.16659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05612.html">scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</a></div></td>
-<td>Qing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05612">2505.05612</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05616.html">Leveraging Large Language Models for enzymatic reaction prediction and characterization</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Lorenzo Di Fruscia et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05616">2505.05616</a></td>
 </tr>
 </tbody></table>

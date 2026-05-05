@@ -1,0 +1,282 @@
+{
+ "2605.00313": {
+  "abstract": "The current structure-centric paradigm in artificial intelligence (AI)-driven materials discovery, despite delivering thousands of candidate structures, is stalling at a critical barrier: the synthesizability gap. We argue that closing this gap demands a pivot to a synthesis-first paradigm in which executable synthesis protocols, not just atomic configurations, are treated as primary design variables. We outline a roadmap built on three pillars: (i) representing synthesis procedures as machine-readable protocols, (ii) deploying generative and inverse-design models to propose actionable reaction pathways and recipes, and (iii) integrating closed-loop optimisation to refine protocols against experimental realities and sustainability constraints. Framed in terms of the causal backbone P->X->y from protocol P to structure X and properties y, this perspective sets out methodological building blocks, standards needs and self-driving laboratory (SDL) integration strategies to accelerate reproducible, data-first materials discovery.",
+  "authors": [
+   "Guillaume Lambard"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "20 pages, 2 figures",
+  "first_author": "Guillaume Lambard",
+  "pdf_url": "http://arxiv.org/pdf/2605.00313",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-01",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "Beyond Structure: Revolutionising Materials Discovery via AI-Driven Synthesis Protocol-Property Relationships",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.00803": {
+  "abstract": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such success transfers to computational scientific workflows, where tasks require not only strong coding ability, but also the ability to navigate complex, domain-specific procedures and to interpret results in the context of scientific claims. To address this question, we present AutoMat, a benchmark for evaluating LLM-based agents' ability to reproduce claims from computational materials science. AutoMat poses three interrelated challenges: recovering underspecified computational procedures, navigating specialized toolchains, and determining whether the resulting evidence supports a claim. By working closely with subject matter experts, we curate a set of claims from real materials science papers to test whether coding agents can recover and execute the end-to-end workflow needed to support (or undermine) such claims. We then evaluate multiple representative coding agent settings across several foundation models. Our results show that current LLM-based agents obtain low overall success rates on AutoMat, with the best-performing setting achieving a success rate of only 54.1%. Error analysis further reveals that agents perform worst when workflows must be reconstructed from paper text alone and that they fail primarily due to incomplete procedures, methodological deviations, and execution fragility. Taken together, these findings position AutoMat as both a benchmark for computational scientific reproducibility and a tool for diagnosing the current limitations of agentic systems in AI-for-science settings.",
+  "authors": [
+   "Ziyang Huang",
+   "Yi Cao",
+   "Ali K. Shargh",
+   "Jing Luo",
+   "Ruidong Mei",
+   "Mohd Zaki",
+   "Zhan Liu",
+   "Wyatt Bunstine",
+   "William Jurayj",
+   "Somdatta Goswami",
+   "Tyrel McQueen",
+   "Michael Shields",
+   "Jaafar El-Awady",
+   "Paulette Clancy",
+   "Benjamin Van Durme",
+   "Nicholas Andrews",
+   "William Walden",
+   "Daniel Khashabi"
+  ],
+  "categories": [
+   "cs.SE",
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Ziyang Huang",
+  "pdf_url": "http://arxiv.org/pdf/2605.00803",
+  "primary_category": "cs.SE",
+  "published": "2026-05-01",
+  "tags": [
+   "materials-science"
+  ],
+  "title": "Can Coding Agents Reproduce Findings in Computational Materials Science?",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.00948": {
+  "abstract": "De novo functional protein design aims to generate protein sequences that realize specified biochemical functions without relying on evolutionary templates, enabling broad applications in biotechnology and medicine. Existing approaches adopt either direct function-to-sequence mapping or decoupled structure-sequence generation strategies but often fail to achieve functionality and foldability simultaneously. To address this, we propose CodeFP, a Co-generative protein language model for de novo Functional Protein design that simultaneously decodes sequence and structure tokens, thereby enabling superior simultaneous realization of functionality and foldability. CodeFP utilizes functional local structures to enrich functional semantic encodings, overcoming the suboptimal translation of flat encodings into structure tokens, while introducing auxiliary functional supervision to alleviate training ambiguity stemming from the one-to-many structure-to-token mapping. Extensive experiments show that CodeFP consistently achieves average improvements of 6.1% in functional consistency and 3.2% in foldability over the strongest baseline.",
+  "authors": [
+   "Xinrui Chen",
+   "Yizhen Luo",
+   "Siqi Fan",
+   "Zaiqing Nie"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Xinrui Chen",
+  "pdf_url": "http://arxiv.org/pdf/2605.00948",
+  "primary_category": "q-bio.QM",
+  "published": "2026-05-01",
+  "tags": [
+   "drug-discovery",
+   "protein-llm",
+   "protein-structure"
+  ],
+  "title": "Co-Generative De Novo Functional Protein Design",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.01115": {
+  "abstract": "Motivated by the indications of high-Tc superconductivity in natural graphite enriched in the rhombohedral phase, we study the band structure of several stacking configurations that combine two of the three graphite structures as well as modifications of the rhombohedral sequence (from ABCABC... to CBACBA...), using first-principles calculations. We focus in particular on the possible emergence of flat bands near the Fermi level. When the two different rhombohedral orderings are combined, flat bands of topological origin emerge at the interface between the two domains, near the K and K' points of the Brillouin zone. Mapping a simple tight-binding model of a rhombohedral slab along the direction perpendicular to the graphene layers onto a Su-Schrieffer-Heeger chain provides a transparent understanding of the underlying physics.",
+  "authors": [
+   "R. Weht",
+   "A. A. Aligia",
+   "M. Nunez-Regueiro"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "6 pages, 5 figures, supplemental material available upon request",
+  "first_author": "R. Weht",
+  "pdf_url": "http://arxiv.org/pdf/2605.01115",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-05-01",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "band-gap"
+  ],
+  "title": "Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.01255": {
+  "abstract": "Training large language models (LLMs) is highly memory-intensive, as training must store not only weights and optimizer states but also intermediate activations for backpropagation. While existing memory-efficient methods largely focus on gradients and optimizer states, activation compression is less well established due to the lack of LLM-tailored theory and guarantees. In this work, we develop a theoretical framework showing that activation compression is safe for linear operators when activation compression is unbiased, but problematic for nonlinear ones. We further derive gradient variance bound and establish convergence guarantees for applying activation compression to all linear operators under the standard $L$-smoothness assumption, showing that it does not change the convergence rate. Guided by the theory, we propose an activation-gradient co-compression method that reuses low-rank activation factors to compress linear-layer gradients without extra computation or additional gradient error. We conduct extensive experiments on Qwen and LLaMA models using a pretraining benchmark and multiple fine-tuning benchmarks to validate our theory and demonstrate competitive performance of our method in both accuracy and compression efficiency. We provide our code in the supplementary material for reproducibility.",
+  "authors": [
+   "Wen-Da Wei",
+   "Han-Bin Fang",
+   "Yang-Di Liu",
+   "Jiang-Xin Shi",
+   "James Kwok",
+   "Yu-Feng Li"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Wen-Da Wei",
+  "pdf_url": "http://arxiv.org/pdf/2605.01255",
+  "primary_category": "cs.LG",
+  "published": "2026-05-02",
+  "tags": [],
+  "title": "Activation Compression in LLMs: Theoretical Analysis and Efficient Algorithm",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01286": {
+  "abstract": "Inverse design of inorganic crystals, in which structures are generated to satisfy a target property while preserving diversity and physical plausibility, remains more demanding than ab initio generation, as property conditioning can degrade the structural quality that current generative models otherwise achieve. We propose a diffusion framework that jointly denoises crystal-structure variables and site-resolved local electronic descriptors through a shared score network. As representative descriptors, we adopt Bader charge and atomic density of states (atomic DOS). Under both band-gap and formation energy conditioned generation, the joint models achieved higher success rates than the structure-only baseline in most target conditions, while simultaneously increasing the fraction of generated structures that satisfy uniqueness, novelty, thermodynamic stability, and physical validity (VSUN criteria). A dummy-variable control confirms that these gains originate from the electronic content of the descriptors rather than from auxiliary site-wise variables. The generated Bader charges agree with DFT references with an MAE of 5.5e-2 e on stable structures, and the generated atomic DOS captures the coarse spectral profile of the DFT reference around the modal accuracy range, although finer details and accuracy vary with elemental species. These results establish local electronic descriptors as effective generative variables that serve two complementary roles: broadening the explored materials space through increased structural diversity, and mitigating the trade-off between property targeting and structural quality by guiding the structural trajectory toward electronically plausible configurations during joint denoising.",
+  "authors": [
+   "Ibuki Okuda",
+   "Izumi Takahara",
+   "Teruyasu Mizoguchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 5 figures, 2 pages SI",
+  "first_author": "Ibuki Okuda",
+  "pdf_url": "http://arxiv.org/pdf/2605.01286",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-02",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "generative-model"
+  ],
+  "title": "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01367": {
+  "abstract": "High-fidelity circuit execution on noisy intermediate-scale quantum devices is bottlenecked by compilation pipelines that disregard complex, correlated noise. To address this, this methodology article proposes a quantum machine learning control (QMLC) framework for generative quantum circuit synthesis from gate-set tomography (GST) data that bypasses the traditional two-step pipeline of characterizing native quantum gates via GST followed by unitary decomposition algorithms. Instead, a generative concept space is directly learnt from GST data, enabling conditional synthesis of quantum circuits on a desired output distribution. Our approach tokenizes GST germ circuits and embeds them into a structured latent space using a curriculum-learning-motivated strategy, starting with short circuits and progressively incorporating longer ones with diverse output statistics. The embedded sequences are processed by a set-vision transformer with permutation-invariant pooling, producing k-seed vectors that represent the learned concept space of the quantum device. Aggregating data across multiple circuits makes this latent representation inherently context-aware, capturing the shared physical noise environment (e.g., crosstalk, drift) that isolated gate metrics miss. We propose an unconditional diffusion model to sample from the concept space. During inference, a user provides a target measurement distribution, and the model generates a corresponding circuit. To ensure fidelity and robustness, the output is denoised using a diffusion model that operates on the target conditional covariance matrix. This end-to-end framework is a step towards context-aware, hardware-native circuit synthesis directly from raw GST data, which offers a new paradigm for integrating quantum control and compilation. The QMLC framework is particularly suited for near-term quantum devices with complex calibration procedures.",
+  "authors": [
+   "King Yiu Yu",
+   "Aritra Sarkar",
+   "Erbing Hua",
+   "Maximilian Rimbach-Russ",
+   "Ryoichi Ishihara",
+   "Sebastian Feld"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.LG",
+   "eess.SY"
+  ],
+  "comment": "19 pages, 3 figures",
+  "first_author": "King Yiu Yu",
+  "pdf_url": "http://arxiv.org/pdf/2605.01367",
+  "primary_category": "quant-ph",
+  "published": "2026-05-02",
+  "tags": [
+   "diffusion-model",
+   "quantum-computing"
+  ],
+  "title": "From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01822": {
+  "abstract": "Large Language Models (LLMs) are increasingly being used to support scientific discovery. In chemistry, tasks such as reaction prediction and structure elucidation require reasoning about the structures of molecules. As such, LLM-based systems for chemistry must interact reliably with molecular structures. Most previous studies of LLMs in chemistry have used SMILES strings or IUPAC names as molecular representations; however, the suitability of these formats has not been systematically assessed. In this work, we introduce MolJSON, a novel molecular representation for LLMs, and systematically compare it with five common chemical formats. We evaluated each representation with GPT-5-nano, GPT-5-mini, GPT-5, and Claude Haiku 4.5 using a set of 78,045 questions spanning translation, shortest path, and constrained generation reasoning tasks. We observed substantial variation across representations in the ability of LLMs to interpret and generate molecular graphs, with MolJSON consistently outperforming existing formats. On translation tasks, GPT-5 achieved 71.0% accuracy when converting IUPAC names to MolJSON, compared with 43.7% when converting the same inputs to SMILES. For constrained generation, GPT-5 reached 95.3% accuracy generating MolJSON, compared with 76.3% for IUPAC and 64.0% for SMILES. As an input format for shortest-path reasoning, GPT-5 successfully answered 98.5% of questions with MolJSON, compared with 92.2% for SMILES and 82.7% for IUPAC, whilst also using fewer reasoning tokens. We observed systematic errors associated with atom count and ring complexity for SMILES strings and IUPAC names, whereas MolJSON was more robust to these failure modes. Our results show that the choice of molecular representation has a material impact on LLM performance, and that explicit molecular graph schemas, such as MolJSON, are a promising direction for LLM-based systems in chemistry.",
+  "authors": [
+   "Nicholas T. Runcie",
+   "Fergus Imrie",
+   "Charlotte M. Deane"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Nicholas T. Runcie",
+  "pdf_url": "http://arxiv.org/pdf/2605.01822",
+  "primary_category": "cs.LG",
+  "published": "2026-05-03",
+  "tags": [
+   "molecular-representation",
+   "retrosynthesis"
+  ],
+  "title": "Molecular Representations for Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-03"
+ },
+ "2605.02267": {
+  "abstract": "We introduce a composition-weighted symbolic regression framework for interpretable prediction of materials properties directly from chemical composition. The method jointly learns analytical functional forms and task-dependent elemental weightings without predefined descriptors. By incorporating max/min operators, it naturally enforces constraints such as non-negative band gaps and bounded classification probabilities, unifying regression and classification tasks. Efficient search is achieved through a hybrid Monte Carlo tree search--genetic programming algorithm with gradient-based refinement and parallel computation. Benchmarks on MatBench tasks show competitive accuracy relative to state-of-the-art black-box models while yielding explicit analytical expressions. Applied to III--V semiconductor alloys, the model produces smooth composition-dependent trends and learned elemental weights with chemically meaningful periodic behavior. This framework provides a scalable and interpretable route for materials discovery and property screening.",
+  "authors": [
+   "Yang Huang",
+   "Jingrun Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "8 pages, 4 figures and 1 table",
+  "first_author": "Yang Huang",
+  "pdf_url": "http://arxiv.org/pdf/2605.02267",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-04",
+  "tags": [
+   "materials-discovery",
+   "monte-carlo"
+  ],
+  "title": "Composition-Weighted Symbolic Regression for General-Purpose Property Prediction",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2605.02745": {
+  "abstract": "Molecular property models increasingly support high-stakes drug-discovery decisions, but their outputs are often difficult to audit: classical predictors return scores without rationale, while language models can produce fluent explanations weakly grounded in the input molecule.   We introduce Bolek, a compact multimodal language model that grounds natural-language reasoning in molecular structure by injecting a Morgan fingerprint embedding into an instruction-tuned text decoder. Bolek is fine-tuned on molecular alignment tasks, including molecule description, RDKit descriptor prediction, and substructure detection, and on downstream reasoning over 15 TDC binary classification tasks using synthetic chains-of-thought anchored in concrete molecular features.   Across these tasks, Bolek outperforms its Qwen3-4B-Instruct base on all endpoints in yes/no mode and on 13 of 15 in chain-of-thought mode, raising mean ROC/PR AUC from 0.55 to 0.76. It also outperforms TxGemma-9B-Chat on 13 of 15 binary classification tasks despite being less than half its size. Bolek's explanations are more grounded than those of the baseline LLMs: it cites numerical descriptors 10-100x more often per chain-of-thought, and the cited values agree strongly with RDKit for key descriptors such as TPSA, MolLogP, and MolWt (Spearman rho = 0.87-0.91). Generalisation extends beyond the training panel: on 15 unseen TDC classification endpoints, Bolek matches TxGemma on five, and it produces non-trivial rank correlations on three held-out regression endpoints despite never seeing downstream regression during training.   These results suggest that targeted modality injection and reasoning supervision tied to verifiable molecular features can yield compact, auditable molecular reasoning models.",
+  "authors": [
+   "Frederic Grabowski",
+   "Jacek Szczerbiński",
+   "Maciej Jaśkowski",
+   "Kalina Jasińska-Kobus",
+   "Paweł Dąbrowski-Tumański",
+   "Tomasz Jetka",
+   "Bartosz Topolski"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Frederic Grabowski",
+  "pdf_url": "http://arxiv.org/pdf/2605.02745",
+  "primary_category": "cs.LG",
+  "published": "2026-05-04",
+  "tags": [
+   "multimodal-llm",
+   "property-prediction"
+  ],
+  "title": "Bolek: A Multimodal Language Model for Molecular Reasoning",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-04"
+ }
+}

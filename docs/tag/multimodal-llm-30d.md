@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>multimodal-llm — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <strong>30d</strong> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02745.html">Bolek: A Multimodal Language Model for Molecular Reasoning</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Frederic Grabowski et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02745">2605.02745</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19105.html">EgoMotion: Hierarchical Reasoning and Diffusion for Egocentric Vision-Language Motion Generation</a></div></td>
@@ -68,17 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11635.html">Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation</a></div></td>
 <td>Shuo Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11635">2602.11635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10882.html">Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity</a></div></td>
-<td>Hauke Licht</td>
-<td><a href="http://arxiv.org/abs/2512.10882">2512.10882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02934.html">PolyReal: A Benchmark for Real-World Polymer Science Workflows</a></div></td>
-<td>Wanhao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02934">2604.02934</a></td>
 </tr>
 </tbody></table>

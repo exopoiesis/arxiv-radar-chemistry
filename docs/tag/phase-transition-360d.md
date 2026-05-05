@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1484,11 +1484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08055.html">Lanthanide L-Edge Spectroscopy of High-Entropy Oxides: Insights into Valence and Phase Stability</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Gerald R. Bejger et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08055">2505.08055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04397.html">Understanding thermalization in a non-Abelian gauge theory in terms of its soft modes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Sayak Guin et al.</td>
-<td><a href="http://arxiv.org/abs/2501.04397">2501.04397</a></td>
 </tr>
 </tbody></table>

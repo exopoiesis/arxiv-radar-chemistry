@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01822.html">Molecular Representations for Large Language Models</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Nicholas T. Runcie et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01822">2605.01822</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21569.html">ChemAmp: Amplified Chemistry Tools via Composable Agents</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Zhucong Li et al.</td>
@@ -482,11 +488,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07027.html">LLM-Augmented Chemical Synthesis and Design Decision Programs</a></div></td>
 <td>Haorui Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.07027">2505.07027</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05616.html">Leveraging Large Language Models for enzymatic reaction prediction and characterization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Lorenzo Di Fruscia et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05616">2505.05616</a></td>
 </tr>
 </tbody></table>

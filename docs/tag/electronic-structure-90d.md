@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,35 +878,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06324.html">Structural Distortions and Ferroelectricity in Antiperovskite Oxides with Tetrel Elements</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>He Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.06324">2602.06324</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18965.html">Exotic 4f Correlated Electronic States of Ferromagnetic Kondo Lattice Compounds ReRh$_6$Ge$_4$ (Re=Ce, Ho, Er, Tm)</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Caiqun Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18965">2406.18965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18264.html">Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>M. R. Nirmal et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18264">2504.18264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03321.html">Direct nanoscale mapping of band alignment in single-layer semiconducting lateral heterojunctions</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Chakradhar Sahoo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03321">2602.03321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03147.html">$α$-RuCl$_3$ intercalated into graphite: a new three-dimensional platform for exotic quantum phases</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Aleksandar Razpopov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03147">2512.03147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.14073.html">DDCCNet: Physics-enhanced Multitask Neural Networks for Data-driven Coupled-cluster</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>P. D. Varuna S. Pathirage et al.</td>
-<td><a href="http://arxiv.org/abs/2601.14073">2601.14073</a></td>
 </tr>
 </tbody></table>

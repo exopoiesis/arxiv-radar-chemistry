@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">455 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01286.html">Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Ibuki Okuda et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01286">2605.01286</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01115.html">Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
+<td>R. Weht et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01115">2605.01115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26551.html">aim2dat: A Python infrastructure for automated ab initio material modeling and data analysis</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -2732,107 +2744,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05141.html">Predictive Machine Learning Molecular Dynamics of SEI Formation in Concentrated LiTFSI and LiPF6 Electrolytes for Lithium Metal Batteries</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Syed Mustafa Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2602.05141">2602.05141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25920.html">Liquid anomalies and Fragility of Supercooled Antimony</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Flavio Giuliani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25920">2510.25920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20134.html">Revealing Strain Effects on the Graphene-Water Contact Angle Using a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Darren Wayne Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20134">2601.20134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03369.html">Accelerating Complex Materials Discovery with Universal Machine-Learning Potential-Driven Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Yuqi An et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03369">2602.03369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03438.html">Acceleration of Atomistic NEGF: Algorithms, Parallelization, and Machine Learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Mathieu Luisier et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03438">2602.03438</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03649.html">Ab initio Phase Diagram of Ta2O5</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Yan Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03649">2602.03649</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04075.html">Thermodynamic assessment of machine learning models for solid-state synthesis prediction</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Jane Schlesinger et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04075">2602.04075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03147.html">$α$-RuCl$_3$ intercalated into graphite: a new three-dimensional platform for exotic quantum phases</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Aleksandar Razpopov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03147">2512.03147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.14073.html">DDCCNet: Physics-enhanced Multitask Neural Networks for Data-driven Coupled-cluster</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>P. D. Varuna S. Pathirage et al.</td>
-<td><a href="http://arxiv.org/abs/2601.14073">2601.14073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18540.html">Nucleophilic substitution at silicon under vibrational strong coupling: Refined insights from a high-level ab initio perspective</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Niels-Ole Frerick et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18540">2601.18540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01730.html">Machine learning determines the Mg2SiO4 P-T phase diagram</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Siyu Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01730">2602.01730</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="mof-90d.html">mof</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Anna Kurowská et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01940">2602.01940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02064.html">Atomistic Approach to Exciton-Phonon Couplings in Semiconductor Quantum Dots</a></div></td>
-<td>Yasser Saleem et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02064">2602.02064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02122.html">Theoretical investigation of transition data of astrophysical importance in neutral sulphur</a></div></td>
-<td>W. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02122">2602.02122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02125.html">Machine-Learned Hamiltonians for Quantum Transport Simulation of Valence Change Memories</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Chen Hao Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02125">2602.02125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02234.html">Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Andong Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02234">2602.02234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02256.html">Energy-Transfer-Enhanced Emission and Quantum Sensing of VB- Defects in hBN-PbI2 Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Eveline Mayner et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02256">2602.02256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02817.html">Dark Matter-Induced Nuclear De-Excitation at SBND with Ab Initio Nuclear Theory</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Bhaskar Dutta et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02817">2602.02817</a></td>
 </tr>
 </tbody></table>

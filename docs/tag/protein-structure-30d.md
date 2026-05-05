@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00948.html">Co-Generative De Novo Functional Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
+<td>Xinrui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00948">2605.00948</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10497.html">Entangled happily ever after: Wedding reception seating mapped to classical and quantum optimizers</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Karie A. Nicholas et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04677.html">Towards protein folding pathways by reconstructing protein residue networks with a policy-driven model</a></div></td>
 <td>Susan Khor</td>
 <td><a href="http://arxiv.org/abs/2604.04677">2604.04677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02842.html">ViraHinter: a dual-modal artificial intelligence framework for predicting virus-host interactions</a></div></td>
-<td>Weiqiang Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02842">2604.02842</a></td>
 </tr>
 </tbody></table>

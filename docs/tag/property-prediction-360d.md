@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02745.html">Bolek: A Multimodal Language Model for Molecular Reasoning</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
+<td>Frederic Grabowski et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02745">2605.02745</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26498.html">Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Jinjiang Guo</td>
@@ -1520,11 +1526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20127.html">Learning Hierarchical Interaction for Accurate Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Huiyang Hong et al.</td>
 <td><a href="http://arxiv.org/abs/2504.20127">2504.20127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20299.html">MetamatBench: Integrating Heterogeneous Data, Computational Tools, and Visual Interface for Metamaterial Discovery</a></div></td>
-<td>Jianpeng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20299">2505.20299</a></td>
 </tr>
 </tbody></table>

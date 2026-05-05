@@ -1,24 +1,8 @@
-# arxiv-radar-chemistry
-
-> Standalone arXiv radar for AI chemistry and materials papers.
-> This repository continues the Chemistry daily arXiv prototype as a broader
-> tagged corpus + GitHub Pages + MCP-ready data layout.
-
-Further development lives here rather than in a GitHub fork so the project can
-carry its own license, Pages branding, and multi-domain roadmap.
-
-**Attribution.** This project is inspired by the public arXiv-daily pattern in
-[Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
-(Apache-2.0). The first Chemistry prototype was seeded from
-[YuzeHao2023/daily-arxiv-ai4chem](https://github.com/YuzeHao2023/daily-arxiv-ai4chem).
-The current `arxiv-radar` layer adds monthly corpus shards, canonical tags,
-pre-rendered tag pages, popup abstracts, archive/prune tooling, and tests.
-
-## Updated on 2026.05.03
+## Updated on 2026.05.05
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 14342 papers across 25 months.
+**Total corpus:** 14352 papers across 26 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -88,7 +72,7 @@ pre-rendered tag pages, popup abstracts, archive/prune tooling, and tests.
 |**2026-03-25**|**DeepDTF: Dual-Branch Transformer Fusion for Multi-Omics Anticancer Drug Response Prediction**|Yuhan Zhao et al.|[2603.24265](http://arxiv.org/abs/2603.24265)|[md](abstracts/2603.24265.md)|
 |**2026-03-25**|**CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization**|Bowen Lu et al.|[2603.24304](http://arxiv.org/abs/2603.24304)|[md](abstracts/2603.24304.md)|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Generative Design & Molecule Optimization
 
@@ -145,7 +129,7 @@ pre-rendered tag pages, popup abstracts, archive/prune tooling, and tests.
 |**2026-04-16**|**Precision Synthesis of Multi-Tracer PET via VLM-Modulated Rectified Flow for Stratifying Mild Cognitive Impairment**|Tuo Liu et al.|[2604.11176](http://arxiv.org/abs/2604.11176)|[md](abstracts/2604.11176.md)|
 |**2026-04-16**|**Generative design of inorganic materials**|Jose Recatala-Gomez et al.|[2604.14082](http://arxiv.org/abs/2604.14082)|[md](abstracts/2604.14082.md)|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Property Prediction & ADMET
 
@@ -202,7 +186,7 @@ pre-rendered tag pages, popup abstracts, archive/prune tooling, and tests.
 |**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et al.|[2603.03517](http://arxiv.org/abs/2603.03517)|[md](abstracts/2603.03517.md)|
 |**2026-03-02**|**On the Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction**|Shunzhou Wan et al.|[2603.05532](http://arxiv.org/abs/2603.05532)|[md](abstracts/2603.05532.md)|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Reaction, Synthesis & Catalysis
 
@@ -259,7 +243,7 @@ pre-rendered tag pages, popup abstracts, archive/prune tooling, and tests.
 |**2026-03-22**|**$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment**|Konstantin Lion et al.|[2510.09233](http://arxiv.org/abs/2510.09233)|[md](abstracts/2510.09233.md)|
 |**2026-03-20**|**CatBOX: A Categorical-Continuous Bayesian Optimization with Spectral Mixture Kernels for Accelerated Catalysis Experiments**|Changquan Zhao et al.|[2505.17393](http://arxiv.org/abs/2505.17393)|[md](abstracts/2505.17393.md)|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Quantum Chemistry & Force Fields
 
@@ -316,12 +300,15 @@ pre-rendered tag pages, popup abstracts, archive/prune tooling, and tests.
 |**2026-04-24**|**LARA: Validation-Driven Agentic Supercomputer Workflows for Atomistic Modeling**|William Dawson et al.|[2604.22571](http://arxiv.org/abs/2604.22571)|[md](abstracts/2604.22571.md)|
 |**2026-04-24**|**Unveiling the Molecular Driving Forces of Pollutant Extraction by Hydrophobic Eutectic Solvents**|S. Gomez et al.|[2604.22674](http://arxiv.org/abs/2604.22674)|[md](abstracts/2604.22674.md)|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Protein & Biomolecules
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-02**|**From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data**|King Yiu Yu et al.|[2605.01367](http://arxiv.org/abs/2605.01367)|[md](abstracts/2605.01367.md)|
+|**2026-05-01**|**Co-Generative De Novo Functional Protein Design**|Xinrui Chen et al.|[2605.00948](http://arxiv.org/abs/2605.00948)|[md](abstracts/2605.00948.md)|
+|**2026-05-01**|**Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite**|R. Weht et al.|[2605.01115](http://arxiv.org/abs/2605.01115)|[md](abstracts/2605.01115.md)|
 |**2026-04-29**|**Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction**|Jinjiang Guo|[2604.26498](http://arxiv.org/abs/2604.26498)|[md](abstracts/2604.26498.md)|
 |**2026-04-29**|**Unraveling the symmetry of Al5C3N**|Vitalii Shtender et al.|[2604.26560](http://arxiv.org/abs/2604.26560)|[md](abstracts/2604.26560.md)|
 |**2026-04-29**|**Hardware-Efficient Hamiltonian Simulation via Trotter-Initialized Variational Optimization with Native Placement**|F. S. Luiz et al.|[2604.26663](http://arxiv.org/abs/2604.26663)|[md](abstracts/2604.26663.md)|
@@ -369,16 +356,20 @@ pre-rendered tag pages, popup abstracts, archive/prune tooling, and tests.
 |**2026-04-21**|**Structure-guided molecular design with contrastive 3D protein-ligand learning**|Carles Navarro et al.|[2604.19562](http://arxiv.org/abs/2604.19562)|[md](abstracts/2604.19562.md)|
 |**2026-04-21**|**Direct RNA sequence design under codon constraints using expressive tensor-based secondary structure models**|Mark Fornace et al.|[2604.19718](http://arxiv.org/abs/2604.19718)|[md](abstracts/2604.19718.md)|
 |**2026-04-21**|**Principal Nested Cones**|Yanyan Zhan et al.|[2604.19972](http://arxiv.org/abs/2604.19972)|[md](abstracts/2604.19972.md)|
-|**2026-04-21**|**Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates**|Renee Gil|[2604.20019](http://arxiv.org/abs/2604.20019)|[md](abstracts/2604.20019.md)|
-|**2026-04-20**|**Geometric Stability: The Missing Axis of Representations**|Prashant C. Raju|[2601.09173](http://arxiv.org/abs/2601.09173)|[md](abstracts/2601.09173.md)|
-|**2026-04-20**|**Guiding Peptide Kinetics via Collective-Variable Tuning of Free-Energy Barriers**|Alexander Zhilkin et al.|[2602.19936](http://arxiv.org/abs/2602.19936)|[md](abstracts/2602.19936.md)|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Large Language Models & Materials
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-04**|**Composition-Weighted Symbolic Regression for General-Purpose Property Prediction**|Yang Huang et al.|[2605.02267](http://arxiv.org/abs/2605.02267)|[md](abstracts/2605.02267.md)|
+|**2026-05-04**|**Bolek: A Multimodal Language Model for Molecular Reasoning**|Frederic Grabowski et al.|[2605.02745](http://arxiv.org/abs/2605.02745)|[md](abstracts/2605.02745.md)|
+|**2026-05-03**|**Molecular Representations for Large Language Models**|Nicholas T. Runcie et al.|[2605.01822](http://arxiv.org/abs/2605.01822)|[md](abstracts/2605.01822.md)|
+|**2026-05-02**|**Activation Compression in LLMs: Theoretical Analysis and Efficient Algorithm**|Wen-Da Wei et al.|[2605.01255](http://arxiv.org/abs/2605.01255)|[md](abstracts/2605.01255.md)|
+|**2026-05-02**|**Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors**|Ibuki Okuda et al.|[2605.01286](http://arxiv.org/abs/2605.01286)|[md](abstracts/2605.01286.md)|
+|**2026-05-01**|**Beyond Structure: Revolutionising Materials Discovery via AI-Driven Synthesis Protocol-Property Relationships**|Guillaume Lambard|[2605.00313](http://arxiv.org/abs/2605.00313)|[md](abstracts/2605.00313.md)|
+|**2026-05-01**|**Can Coding Agents Reproduce Findings in Computational Materials Science?**|Ziyang Huang et al.|[2605.00803](http://arxiv.org/abs/2605.00803)|[md](abstracts/2605.00803.md)|
 |**2026-04-29**|**Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening**|Sourav Baiju et al.|[2604.26264](http://arxiv.org/abs/2604.26264)|[md](abstracts/2604.26264.md)|
 |**2026-04-29**|**Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction**|Jinjiang Guo|[2604.26498](http://arxiv.org/abs/2604.26498)|[md](abstracts/2604.26498.md)|
 |**2026-04-29**|**GMT: A Geometric Multigrid Transformer Solver for Microstructure Homogenization**|Yu Xing et al.|[2604.26518](http://arxiv.org/abs/2604.26518)|[md](abstracts/2604.26518.md)|
@@ -422,12 +413,5 @@ pre-rendered tag pages, popup abstracts, archive/prune tooling, and tests.
 |**2026-04-21**|**SMARTER: A Data-efficient Framework to Improve Toxicity Detection with Explanation via Self-augmenting Large Language Models**|Huy Nghiem et al.|[2509.15174](http://arxiv.org/abs/2509.15174)|[md](abstracts/2509.15174.md)|
 |**2026-04-21**|**From Task to Tutorial: An Automated GUI Framework for Excel Tutorial Document and Video Creation**|Yuhang Xie et al.|[2509.21816](http://arxiv.org/abs/2509.21816)|[md](abstracts/2509.21816.md)|
 |**2026-04-21**|**Assessing Capabilities of Large Language Models in Social Media Analytics: A Multi-task Quest**|Ramtin Davoudi et al.|[2604.18955](http://arxiv.org/abs/2604.18955)|[md](abstracts/2604.18955.md)|
-|**2026-04-21**|**HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing**|Euntae Kim et al.|[2604.19274](http://arxiv.org/abs/2604.19274)|[md](abstracts/2604.19274.md)|
-|**2026-04-21**|**Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection**|Divyesh Gabbireddy et al.|[2604.19526](http://arxiv.org/abs/2604.19526)|[md](abstracts/2604.19526.md)|
-|**2026-04-21**|**Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic**|Chuou Xu et al.|[2604.19567](http://arxiv.org/abs/2604.19567)|[md](abstracts/2604.19567.md)|
-|**2026-04-21**|**Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks**|Jing Jin et al.|[2604.19697](http://arxiv.org/abs/2604.19697)|[md](abstracts/2604.19697.md)|
-|**2026-04-21**|**Predicting Scale-Up of Metal-Organic Framework Syntheses with Large Language Models**|Peter Walther et al.|[2604.20899](http://arxiv.org/abs/2604.20899)|[md](abstracts/2604.20899.md)|
-|**2026-04-20**|**Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning**|Yibo Yan et al.|[2502.02871](http://arxiv.org/abs/2502.02871)|[md](abstracts/2502.02871.md)|
-|**2026-04-20**|**OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction**|Emily Jin et al.|[2512.06987](http://arxiv.org/abs/2512.06987)|[md](abstracts/2512.06987.md)|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>

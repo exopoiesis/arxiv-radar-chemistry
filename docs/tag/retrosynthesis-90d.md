@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01822.html">Molecular Representations for Large Language Models</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Nicholas T. Runcie et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01822">2605.01822</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21569.html">ChemAmp: Amplified Chemistry Tools via Composable Agents</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Zhucong Li et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05793.html">Generalized Path Reweighting and History-Dependent Free Energies</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Titus S. van Erp et al.</td>
 <td><a href="http://arxiv.org/abs/2602.05793">2602.05793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03554.html">When Single Answer Is Not Enough: Rethinking Single-Step Retrosynthesis Benchmarks for LLMs</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Bogdan Zagribelnyy et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03554">2602.03554</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,17 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04719.html">Enabling large-scale digital quantum simulations with superconducting qubits</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Laurin E. Fischer</td>
 <td><a href="http://arxiv.org/abs/2602.04719">2602.04719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18264.html">Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>M. R. Nirmal et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18264">2504.18264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02695.html">Integration of Variational Quantum Algorithms into Atomistic Simulation Workflows</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Wilke Dononelli</td>
-<td><a href="http://arxiv.org/abs/2602.02695">2602.02695</a></td>
 </tr>
 </tbody></table>

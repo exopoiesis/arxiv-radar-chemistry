@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">391 papers</span>
+  <span class="paper-count">388 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2342,23 +2342,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11396.html">Band representations in Strongly Correlated Settings: The Kitaev Honeycomb Model</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Axel Fünfhaus et al.</td>
 <td><a href="http://arxiv.org/abs/2501.11396">2501.11396</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14002.html">Predicting fermionic densities using a Projected Quantum Kernel method</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Francesco Perciavalle et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14002">2504.14002</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06212.html">From Fermions to Qubits: A ZX-Calculus Perspective</a></div></td>
-<td>Haytham McDowall-Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06212">2505.06212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06336.html">2D Quon Language: Unifying Framework for Cliffords, Matchgates, and Beyond</a></div></td>
-<td>Byungmin Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06336">2505.06336</a></td>
 </tr>
 </tbody></table>

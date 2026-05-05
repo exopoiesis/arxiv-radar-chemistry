@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12742.html">Relevance of on-site and intersite Coulomb interactions in the Kitaev-Heisenberg magnet Na$_3$Co$_2$SbO$_6$</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Pritam Bhattacharyya et al.</td>
 <td><a href="http://arxiv.org/abs/2404.12742">2404.12742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03731.html">Ground-state selection via nonlinear quantum dissipation</a></div></td>
-<td>Alireza Ataei et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03731">2604.03731</a></td>
 </tr>
 </tbody></table>

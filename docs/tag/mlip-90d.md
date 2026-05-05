@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -998,59 +998,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04861.html">From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Ryan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04861">2602.04861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25920.html">Liquid anomalies and Fragility of Supercooled Antimony</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Flavio Giuliani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25920">2510.25920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20134.html">Revealing Strain Effects on the Graphene-Water Contact Angle Using a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Darren Wayne Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20134">2601.20134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03046.html">Impact of Local Descriptors Derived from Machine Learning Potentials in Graph Neural Networks for Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Ryoichi Uchiyama et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03046">2602.03046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03369.html">Accelerating Complex Materials Discovery with Universal Machine-Learning Potential-Driven Structure Prediction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Yuqi An et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03369">2602.03369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09939.html">QCell: Comprehensive Quantum-Mechanical Dataset Spanning Diverse Biomolecular Fragments</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Adil Kabylda et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09939">2510.09939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02228.html">Triplet Envelope Functions for increasing machine learning interatomic potential efficiency and stability</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Emil Annevelink et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02228">2602.02228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02234.html">Enabling AI Deep Potentials for Ab Initio-quality Molecular Dynamics Simulations in GROMACS</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Andong Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02234">2602.02234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02237.html">Symmetry-restricted energy landscapes as a benchmark for machine learned interatomic potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Abhijith S Parackal et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02237">2602.02237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02671.html">MARA: Continuous SE(3)-Equivariant Attention for Molecular Force Fields</a></div></td>
-<td>Francesco Leonardi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02671">2602.02671</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,17 +578,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08900.html">Anisotropy, frustration and saddle point in the twisted Kagome antiferromagnet ErPdPb</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Resham Babu Regmi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08900">2602.08900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18965.html">Exotic 4f Correlated Electronic States of Ferromagnetic Kondo Lattice Compounds ReRh$_6$Ge$_4$ (Re=Ce, Ho, Er, Tm)</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Caiqun Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18965">2406.18965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="mof-90d.html">mof</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Anna Kurowská et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01940">2602.01940</a></td>
 </tr>
 </tbody></table>

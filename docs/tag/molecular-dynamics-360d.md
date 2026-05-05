@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1572 papers</span>
+  <span class="paper-count">1565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9404,47 +9404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09610.html">Brownian motion and microrheology in complex fluids under periodic boundary conditions</a></div></td>
 <td>Yasuya Nakayama</td>
 <td><a href="http://arxiv.org/abs/2503.09610">2503.09610</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05995.html">How Salt Solvation Slows Water Dynamics While Blue-Shifting Its Dielectric Spectrum</a></div></td>
-<td>Florian Pabst et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05995">2505.05995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06132.html">Hexagonal ice density dependence on inter atomic distance changes due to nuclear quantum effects</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Lucas T. S. de Miranda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06132">2505.06132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06429.html">Can electrostatic stresses affect charged water structures in weakly ionized plasmas?</a></div></td>
-<td>Efstratios M. Kritikos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06429">2505.06429</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06447.html">Lipidation-induced bacterial cell membrane translocation of star-peptides</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Amal Jayawardena et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06447">2505.06447</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05245.html">Machine learning-enabled atomistic insights into phase boundary engineering of solid-solution ferroelectrics</a></div></td>
-<td>Weiru Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05245">2505.05245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05282.html">Electronic and Optical Properties of the Recently Synthesized 2D Vivianites (Vivianenes): Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Raphael Benjamim de Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05282">2505.05282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05652.html">Fast and Fourier Features for Transfer Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Pietro Novelli et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05652">2505.05652</a></td>
 </tr>
 </tbody></table>

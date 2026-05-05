@@ -11,7 +11,7 @@ Steps (all idempotent — safe to re-run any number of times per day):
   5. render_tag_pages.py — 230 pre-generated tag/window pages.
   6. render_index.py — Pages landing + _data/tag_index.yml for sidebar.
 
-GitHub Actions workflow calls `python daily_arxiv.py` on a 12h cron.
+GitHub Actions workflow calls `python tools/daily_arxiv.py` on a daily cron.
 """
 import logging
 import subprocess
@@ -21,8 +21,8 @@ from pathlib import Path
 
 import arxiv
 
-ROOT = Path(__file__).resolve().parent
-TOOLS = ROOT / "tools"
+ROOT = Path(__file__).resolve().parents[1]
+TOOLS = Path(__file__).resolve().parent
 sys.path.insert(0, str(TOOLS))
 from data_io import (
     is_chemistry_paper,

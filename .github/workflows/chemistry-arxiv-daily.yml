@@ -45,7 +45,7 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
-          python daily_arxiv.py
+          python tools/daily_arxiv.py
           
       - name: Push new arxiv-radar-chemistry update
         uses: github-actions-x/commit@v2.9

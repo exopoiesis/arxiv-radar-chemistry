@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03539.html">Gauge-Field-Mediated Symmetry Breaking of Matters Under Electromagnetic Fields and Its Impact on Spin Dynamics</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Uiseok Jeong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03539">2605.03539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="photocatalysis-30d.html">photocatalysis</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Nico Yannik Merkt</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05802.html">Valence and Rydberg excited state bond dissociation curves of CO2 from orbital-optimized density functional calculations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Darío Barreiro-Lage et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05802">2604.05802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03943.html">Photoelectron spectroscopy of 3s3p doubly excited helium dressed with strong near-infrared laser fields</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Mizuho Fushitani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03943">2604.03943</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.01822">2605.01822</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00508.html">A Comparative Study of QSPR Methods on a Unique Multitask PAMPA dataset</a></div></td>
+<td>Andrs Formanek et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00508">2605.00508</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26498.html">Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Jinjiang Guo</td>
@@ -278,11 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07087.html">Electron-Informed Coarse-Graining Molecular Representation Learning for Real-World Molecular Physics</a></div></td>
 <td>Gyoung S. Na et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07087">2602.07087</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04696.html">Beyond Learning on Molecules by Weakly Supervising on Molecules</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Gordan Prastalo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04696">2602.04696</a></td>
 </tr>
 </tbody></table>

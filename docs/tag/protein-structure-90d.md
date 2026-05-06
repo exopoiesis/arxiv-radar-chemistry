@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.00948">2605.00948</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02937.html">Proteo-R1: Reasoning Foundation Models for De Novo Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
+<td>Fang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02937">2605.02937</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10497.html">Entangled happily ever after: Wedding reception seating mapped to classical and quantum optimizers</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Karie A. Nicholas et al.</td>
@@ -446,11 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06172.html">Know Your Scientist: KYC as Biosecurity Infrastructure</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Jonathan Feldman et al.</td>
 <td><a href="http://arxiv.org/abs/2602.06172">2602.06172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04637.html">RIGA-Fold: A General Framework for Protein Inverse Folding via Recurrent Interaction and Geometric Awareness</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Sisi Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04637">2602.04637</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03799.html">Natural Language Processing: A Comprehensive Practical Guide from Tokenisation to RLHF</a></div></td>
+<td>Mullosharaf K. Arabov</td>
+<td><a href="http://arxiv.org/abs/2605.03799">2605.03799</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23061.html">C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="molecular-llm-30d.html">molecular-llm</a></div></td>
 <td>Rui Gao et al.</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11839.html">Molecular Quantum Control Algorithm Design by Reinforcement Learning</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Anastasia Pipi et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11839">2410.11839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21743.html">CellFluxRL: Biologically-Constrained Virtual Cell Modeling via Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Dongxia Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21743">2603.21743</a></td>
 </tr>
 </tbody></table>

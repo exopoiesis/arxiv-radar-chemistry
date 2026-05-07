@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.03707">2605.03707</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04265.html">Benchmarking open-source tools for in silico antiviral drug discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Daniel C. Elton et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04265">2605.04265</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26086.html">Orientation-Dependent Protein Binding at Nanoparticle Interfaces</a></div></td>
 <td>Vigneshwari Karunakaran Annapoorani et al.</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07735.html">TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Matteo Rossi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07735">2602.07735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14586.html">Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Daria Frolova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14586">2510.14586</a></td>
 </tr>
 </tbody></table>

@@ -34,6 +34,18 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.03707">2605.03707</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04118.html">ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Cong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04118">2605.04118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04265.html">Benchmarking open-source tools for in silico antiviral drug discovery</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Daniel C. Elton et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04265">2605.04265</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02657.html">CARD: Coarse-to-fine Autoregressive Modeling with Radix-based Decomposition for Transferable Free Energy Estimation</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Ziyang Yu et al.</td>
@@ -932,17 +944,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07103.html">scDFM: Distributional Flow Matching Model for Robust Single-Cell Perturbation Prediction</a></div></td>
 <td>Chenglei Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07103">2602.07103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14586.html">Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Daria Frolova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14586">2510.14586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05372.html">CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Minkyu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05372">2602.05372</a></td>
 </tr>
 </tbody></table>

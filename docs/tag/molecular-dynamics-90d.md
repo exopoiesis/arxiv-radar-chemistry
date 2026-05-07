@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04521.html">Unveiling the Atomistic Mechanisms of Shear-Induced LDA$\leftrightarrow$HDA Transformations and Shear Banding in Amorphous Silicon under High Pressures</a></div></td>
+<td>Hao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04521">2605.04521</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03394.html">From Enhanced Sampling to Human-Readable Representations of Protein Dynamics</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
@@ -38,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03738.html">Defect-Engineered Beryllium Dinitride (BeN2) Monolayer with Light-Metal Decoration for Reversible High-Capacity Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Wael Othman et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03738">2605.03738</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04294.html">Spin Dynamics from Atomistic Quantum Simulations</a></div></td>
+<td>Enrico Drigo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04294">2605.04294</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -2840,47 +2852,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06760.html">Mimyria: Machine learned vibrational spectroscopy for aqueous systems made simple</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Philipp Schienbein</td>
 <td><a href="http://arxiv.org/abs/2602.06760">2602.06760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15617.html">A Differential and Pointwise Control Approach to Reinforcement Learning</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Minh Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15617">2404.15617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18647.html">STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Kiet Bennema ten Brinke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18647">2505.18647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01765.html">Granite sliding on granite: friction, wear rates, surface topography, and the scale-dependence of rate-state effects</a></div></td>
-<td>Sergey V. Sukhomlinov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01765">2512.01765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05793.html">Generalized Path Reweighting and History-Dependent Free Energies</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Titus S. van Erp et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05793">2602.05793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05865.html">AMDAT: An Open-Source Molecular Dynamics Analysis Toolkit for Supercooled Liquids, Glass-Forming Materials, and Complex Fluids</a></div></td>
-<td>Pierre Kawak et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05865">2602.05865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06099.html">Novel non-thermal Ablation Mechanics in the Laser Ablation of Silicon</a></div></td>
-<td>Dominic Klein et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06099">2602.06099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06225.html">Enhanced Elevated-Temperature Strength in Refractory Complex Concentrated Alloys via Temperature-Induced Transition from Screw-to-Edge Dislocation Control</a></div></td>
-<td>Tamanna Zakia et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06225">2602.06225</a></td>
 </tr>
 </tbody></table>

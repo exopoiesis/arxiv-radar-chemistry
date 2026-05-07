@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04762.html">TCRTransBench: A Comprehensive Benchmark for Bidirectional TCR-Peptide Sequence Generation</a></div></td>
+<td>Yiming Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04762">2605.04762</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00948.html">Co-Generative De Novo Functional Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
@@ -440,17 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06418.html">Adaptive Protein Tokenization</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Rohit Dilip et al.</td>
 <td><a href="http://arxiv.org/abs/2602.06418">2602.06418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15226.html">Code Clone Detection via an AlphaFold-Inspired Framework</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Changguo Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15226">2507.15226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06172.html">Know Your Scientist: KYC as Biosecurity Infrastructure</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Jonathan Feldman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06172">2602.06172</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04772.html">MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education</a></div></td>
+<td>Miguel Diaz Benito et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04772">2605.04772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05163.html">PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World</a></div></td>
+<td>Yunhan Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05163">2605.05163</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03984.html">Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes</a></div></td>

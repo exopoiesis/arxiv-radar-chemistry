@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04483.html">CDFCI: High-Performance Parallel Software for Many-Body Large-Scale Eigenvalue Problems</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Yuejia Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04483">2605.04483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04942.html">From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Matúš Kaintz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04942">2605.04942</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04969.html">Temperature dependence of the Gibbs energies of formation of point defects in B2 MoTa from ab initio calculations</a></div></td>
+<td>Xiang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04969">2605.04969</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03457.html">Energy dissipation at the atomic scale explains how fracture energy depends on crack velocity in silica glass</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Marthe Grønlie Guren et al.</td>
@@ -32,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03738.html">Defect-Engineered Beryllium Dinitride (BeN2) Monolayer with Light-Metal Decoration for Reversible High-Capacity Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Wael Othman et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03738">2605.03738</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04281.html">Nuclear Charge Radii of Sr Isotopes: Reevaluation based on Transition Frequency Measurements in the $5s-5p-4d$ manifold in Sr$^+$</a></div></td>
+<td>J. Palmes et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04281">2605.04281</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -794,29 +818,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06076.html">The HTC-Claw: Automating Discovery through High-Throughput Computational Campaigns</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Lianduan Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06076">2604.06076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04434.html">Collective Electrostatics and Band Alignment in Janus MoSTe nanotubes</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Adithya Sadanandan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04434">2604.04434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04557.html">Phonon-driven tuning of exchange interactions in Y3Fe5O12</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Kunihiko Yamauchi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04557">2604.04557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04860.html">Proton Quantum Effects in H$_3$S Electronic Structure: A Multicomponent DFT study via Nuclear-Electronic Orbital Method</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Jianhang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04860">2604.04860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05264.html">Stability and superstructural ordering of alkali-triel-pnictide clathrates A$_8$T$_{27}$Pn$_{19}$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Frank Cerasoli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05264">2604.05264</a></td>
 </tr>
 </tbody></table>

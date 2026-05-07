@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04942.html">From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Matúš Kaintz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04942">2605.04942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00802.html">Determination of Density Functional Tight Binding Models for Cerium Allotropes</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
@@ -70,6 +76,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.02082">2605.02082</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04102.html">Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
+<td>Yifan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04102">2605.04102</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01181.html">Grain boundary segregation of light elements and their effects on cohesion in ferritic steels</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Han Lin Mai et al.</td>
@@ -92,47 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
 <td>Jiahang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00609">2605.00609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Sourav Baiju et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26264">2604.26264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26372.html">Polaron Conductivity in $α$-Fe2O3 Quenched by Adsorbed NO2</a></div></td>
-<td>Tushar K. Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26372">2604.26372</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="photocatalysis-7d.html">photocatalysis</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Nico Yannik Merkt</td>
-<td><a href="http://arxiv.org/abs/2604.26428">2604.26428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26551.html">aim2dat: A Python infrastructure for automated ab initio material modeling and data analysis</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Holger-Dietrich Saßnick et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26551">2604.26551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26560.html">Unraveling the symmetry of Al5C3N</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>Vitalii Shtender et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26560">2604.26560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26636.html">Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
-<td>C. Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26636">2604.26636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26703.html">A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Yue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26703">2604.26703</a></td>
 </tr>
 </tbody></table>

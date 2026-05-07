@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03707.html">AgenticPosesRanker: An Agentic AI Framework for Physically Grounded Ranking of Protein-Ligand Docking Poses</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Sofiene Khiari et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03707">2605.03707</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04118.html">ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Cong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04118">2605.04118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04265.html">Benchmarking open-source tools for in silico antiviral drug discovery</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Daniel C. Elton et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04265">2605.04265</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>

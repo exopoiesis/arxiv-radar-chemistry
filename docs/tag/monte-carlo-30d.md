@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04751.html">Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling</a></div></td>
+<td>Onel L. A. López et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04751">2605.04751</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02267.html">Composition-Weighted Symbolic Regression for General-Purpose Property Prediction</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Yang Huang et al.</td>
@@ -218,11 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05521.html">Development of a 3D-CNN-based Prediction Model for Migration Barriers in Plasma-Wall Interactions</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Seiki Saito et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05521">2604.05521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04329.html">Assessing the impact of nodal surface optimization in fixed-node diffusion Monte Carlo on non-covalent interactions</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Kousuke Nakano et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04329">2604.04329</a></td>
 </tr>
 </tbody></table>

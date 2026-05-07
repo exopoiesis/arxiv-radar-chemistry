@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04772.html">MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education</a></div></td>
+<td>Miguel Diaz Benito et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04772">2605.04772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05163.html">PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World</a></div></td>
+<td>Yunhan Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05163">2605.05163</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03984.html">Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes</a></div></td>
 <td>Aaron Havens et al.</td>
@@ -218,17 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06489.html">Language-Guided Multimodal Texture Authoring via Generative Models</a></div></td>
 <td>Wanli Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06489">2604.06489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07435.html">DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation</a></div></td>
-<td>Ze-Xin Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07435">2509.07435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09216.html">Controllable protein design with particle-based Feynman-Kac steering</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Erik Hartman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09216">2511.09216</a></td>
 </tr>
 </tbody></table>

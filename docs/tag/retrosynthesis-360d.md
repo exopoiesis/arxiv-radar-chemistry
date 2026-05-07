@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>retrosynthesis — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <strong>360d</strong> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02810.html">Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Chanhui Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02810">2502.02810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07027.html">LLM-Augmented Chemical Synthesis and Design Decision Programs</a></div></td>
-<td>Haorui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07027">2505.07027</a></td>
 </tr>
 </tbody></table>

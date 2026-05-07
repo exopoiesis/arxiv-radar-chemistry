@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>multimodal-llm — 90d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <strong>90d</strong> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04278.html">Material Database Agent: A Multimodal Agentic Framework for Scientific Literature Mining</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Achuth Chandrasekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04278">2605.04278</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02745.html">Bolek: A Multimodal Language Model for Molecular Reasoning</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
@@ -200,17 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19611.html">Scene2Hap: Generating Scene-Wide Haptics for VR from Scene Context with Multimodal LLMs</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Arata Jingu et al.</td>
 <td><a href="http://arxiv.org/abs/2504.19611">2504.19611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02071.html">Human-AI Co-Embodied Intelligence for Scientific Experimentation and Manufacturing</a></div></td>
-<td>Xinyi Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02071">2511.02071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05710.html">Ethology of Latent Spaces</a></div></td>
-<td>Philippe Boisnard</td>
-<td><a href="http://arxiv.org/abs/2602.05710">2602.05710</a></td>
 </tr>
 </tbody></table>

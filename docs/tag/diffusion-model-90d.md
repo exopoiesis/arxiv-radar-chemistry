@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04772.html">MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education</a></div></td>
+<td>Miguel Diaz Benito et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04772">2605.04772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05163.html">PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World</a></div></td>
+<td>Yunhan Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05163">2605.05163</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03984.html">Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes</a></div></td>
 <td>Aaron Havens et al.</td>
@@ -926,17 +938,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07272.html">VideoNeuMat: Neural Material Extraction from Generative Video Models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Bowen Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07272">2602.07272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05285.html">Robust Inference-Time Steering of Protein Diffusion Models via Embedding Optimization</a></div></td>
-<td>Minhuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05285">2602.05285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07061.html">TACIT: Transformation-Aware Capturing of Implicit Thought</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Daniel Nobrega</td>
-<td><a href="http://arxiv.org/abs/2602.07061">2602.07061</a></td>
 </tr>
 </tbody></table>

@@ -2319,5 +2319,617 @@
    "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-05-05"
+ },
+ "2605.04102": {
+  "abstract": "A central challenge in computational catalysis is the identification of low-energy and chemically plausible adsorption configurations, as these directly affect adsorption energies, reaction pathways, and catalytic performance. Existing approaches generally rely on enumerating candidate adsorption sites followed by iterative refinement through density functional theory calculations or machine-learning-based relaxations. However, such workflows remain computationally expensive and are difficult to scale to complex surfaces or multi-adsorbate systems. Here, we introduce Meta-LegNet, a graph learning framework that combines SE(3)-equivariant atom-level message passing with voxel-based multiscale aggregation and cross-domain meta-learning to learn transferable representations of local adsorption environments across diverse catalyst--adsorbate systems. Rather than following a conventional regression-only paradigm, Meta-LegNet encodes local chemical environments using invariant radial features and equivariant directional information, and further incorporates broader structural context through coordinate-frame voxel pooling, assignment-based upsampling, and gated feature fusion. The resulting local-global decomposition produces atom-resolved attribution maps, which are processed to identify adsorption-relevant local environments in an interpretable manner. Based on the learned representations, we further construct an adsorption-environment database and develop a template-matching strategy to propose likely adsorption sites on previously unexplored surfaces without exhaustive site enumeration. Overall, our results suggest that learning transferable adsorption environments provides an accurate, interpretable, and practical route for accelerating catalyst screening.",
+  "authors": [
+   "Yifan Li",
+   "Arravind Subramanian",
+   "Xiaoqing Liu",
+   "Qiujie Lyu",
+   "Sergey Kozlov",
+   "Lei Shen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yifan Li",
+  "pdf_url": "http://arxiv.org/pdf/2605.04102",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-03",
+  "tags": [
+   "catalysis",
+   "dft"
+  ],
+  "title": "Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning",
+  "topics": [
+   "Quantum Chemistry & Force Fields",
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-05-03"
+ },
+ "2605.04118": {
+  "abstract": "Recent advances in de novo protein binder design have enabled increasing experimental validation, yet reported in silico metrics remain difficult to interpret or compare across studies due to non-standardized evaluation protocols. We introduce ProtDBench, a standardized and throughput-aware evaluation framework for protein binder design. ProtDBench defines unified benchmark tasks, evaluation protocols, and success criteria, enabling systematic analysis of how evaluation design influences observed performance. Using a large wet-lab annotated dataset, we analyze commonly used structure prediction models as evaluation verifiers, revealing substantial verifier-dependent bias and limited agreement under identical filtering protocols. We then benchmark representative open-source generative binder design methods across ten diverse protein targets under a fixed evaluation protocol. Beyond per-sequence success rates, ProtDBench incorporates throughput-aware metrics based on a fixed 24-hour budget, as well as cluster-level success criteria to account for structural diversity. Together, these results expose systematic differences induced by filtering rules, success definitions, and throughput-aware evaluation between computational efficiency, success rate, and structural diversity. Overall, ProtDBench provides a fair and reproducible evaluation pipeline that supports systematic and controlled comparison of protein binder design methods under realistic evaluation settings.",
+  "authors": [
+   "Cong Liu",
+   "Milong Ren",
+   "Jiaqi Guan",
+   "Chengyue Gong",
+   "Jinyuan Sun",
+   "Xinshi Chen",
+   "Wenzhi Xiao"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Cong Liu",
+  "pdf_url": "http://arxiv.org/pdf/2605.04118",
+  "primary_category": "q-bio.QM",
+  "published": "2026-05-05",
+  "tags": [
+   "drug-discovery",
+   "structure-prediction"
+  ],
+  "title": "ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.04174": {
+  "abstract": "Variational quantum eigensolver ansätze hold considerable promise for ground-state energy calculations on near-term quantum hardware, yet most promising ansatz designs currently strongly depend on how well the molecular orbital basis captures the electronic correlation of the system. Computing optimized orbital coefficients via classical routines is computationally expensive and must be performed independently for each molecular geometry -- a bottleneck that limits scalability across chemical space. We present a graph neural network framework that predicts optimized orbital coefficients directly from molecular geometry and pair-wise bonding structure. Trained on hydrogenic systems of modest size ($H_4$ and $H_6$) across tens of thousands of geometries, our model transfers to larger, unseen systems ($H_8$, $H_{10}$ and $H_{12}$) without retraining -- demonstrating strong out-of-distribution generalization with respect to system size. When evaluating on structured and random configurations, and comparing against energies obtained with full classical optimization, our model reaches mean absolute energy errors $\\mathcal{O}(10^2)$ and $\\mathcal{O}(10)$ milli-Hartrees, respectively. Beyond energy estimation, the predicted orbitals serve as high-quality warm-start initializations that substantially reduce optimizer iterations to ground-state energy convergence. These results establish graph neural networks as an effective and scalable strategy for accelerating orbital optimization in hybrid quantum-classical workflows, directly reducing the classical pre-processing overhead that currently limits the practical deployment of variational quantum eigensolver on near-term quantum hardware.",
+  "authors": [
+   "Lucas van der Horst",
+   "Maniraman Periyasamy",
+   "Abhishek Y. Dubey",
+   "Davide Bincoletto",
+   "Jakob S. Kottmann",
+   "Daniel D. Scherer"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "13 Pages, 4 Figures, 5 Tables",
+  "first_author": "Lucas van der Horst",
+  "pdf_url": "http://arxiv.org/pdf/2605.04174",
+  "primary_category": "quant-ph",
+  "published": "2026-05-05",
+  "tags": [
+   "chemical-space",
+   "gnn"
+  ],
+  "title": "A Transferable Machine Learning Approach to Predict Optimized Orbitals for Electronic Structure Problems",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.04265": {
+  "abstract": "Antivirals are uniquely positioned to be deployed quickly during a new outbreak, especially when repurposed from approved drugs. Yet there are no FDA-approved antivirals for the majority of viral families with pandemic potential. Here we lay out the case for investing in technologies and techniques for antiviral drug discovery and designing antiviral combinations. We present a survey of open source datasets and computational tools for in silico antiviral drug discovery, with a particular focus on the latest AI-based systems and docking tools. We then present our custom dataset of 43,005 viral protein-ligand binding measurements that we curated from BindingDB and other sources. Importantly, we found that 31% of viral protein binding data in BindingDB required polyprotein sequences to be carefully split before the data were suitable for training or testing ML models. Using our custom dataset we fine-tuned the DrugFormDTA binding affinity prediction model (Khokhlov et al. 2025). We then benchmarked 15 open-source binding affinity prediction tools on a custom test set of 853 antiviral compounds spread across 16 different protein targets from 10 virus species. Models tested include Boltz-2, GNINA, FlowDock, Interformer, AutoDock-GPU, and others. We found that Boltz-2 and DrugFormDTA ranked highest overall among ML-based approaches, and GNINA did best among docking approaches, with notable variance across specific viral proteins. Fine-tuning DrugFormDTA on our custom cleaned antiviral dataset boosted performance from $r=0.5$ to $r=0.7$. As part of this work we also compiled a library of approved drugs and a comprehensive list of investigational and approved antiviral drugs that can be viewed at https://antivirals-database.radvac.org. Together, this work provides a foundation for future work towards new tools and platforms for rapid drug repurposing and rapid design of antiviral combinations.",
+  "authors": [
+   "Daniel C. Elton",
+   "Preston W. Estep"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "q-bio.QM"
+  ],
+  "comment": "60 pages, 9 figures, 13 tables",
+  "first_author": "Daniel C. Elton",
+  "pdf_url": "http://arxiv.org/pdf/2605.04265",
+  "primary_category": "q-bio.BM",
+  "published": "2026-05-05",
+  "tags": [
+   "drug-discovery",
+   "protein-ligand"
+  ],
+  "title": "Benchmarking open-source tools for in silico antiviral drug discovery",
+  "topics": [
+   "Property Prediction & ADMET",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.04278": {
+  "abstract": "Materials science workflows rely on structured and unstructured data from the vast body of available scientific literature. However, most of the experimental details remain buried in text, tables, graphs and figures. Thus, constructing databases that incorporate this data is a manual, time-consuming, and hard-to-scale process. Multimodal large language models have made it feasible to extract information from text and scientific figures with high speed and accuracy. This opens the possibility of an AI system that can create production-scale material databases. Material Database Agent (MDA) is a modular, multi-agent system architecture for converting research literature into structured databases. MDA accepts article PDFs as input, which are subsequently processed in parallel into markdown files and figures. Multiple sub-agents read these markdown files and figures in parallel to assemble sub-databases for each paper. These sub-databases are then compiled into a single tabular database by an agent. As opposed to using either a rule-based approach or a single-pass pipeline for extracting information, MDA is a specialized architecture for transforming the literature into a database in the field of materials science. More generally, this study provides a basis for positioning multimodal agentic information extraction as a viable means for constructing next-generation scientific databases from the primary literature.",
+  "authors": [
+   "Achuth Chandrasekhar",
+   "Omid Barati Farimani",
+   "Radheesh Sharma Meda",
+   "Amir Barati Farimani"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Achuth Chandrasekhar",
+  "pdf_url": "http://arxiv.org/pdf/2605.04278",
+  "primary_category": "cs.CL",
+  "published": "2026-05-05",
+  "tags": [
+   "materials-science",
+   "multimodal-llm"
+  ],
+  "title": "Material Database Agent: A Multimodal Agentic Framework for Scientific Literature Mining",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.04281": {
+  "abstract": "High-precision quasi-simultaneous collinear/anticollinear laser spectroscopy was performed to measure the $5s$ $^2S_{1/2}\\rightarrow 5p$ $^2P_{1/2}$ (D1), the $5s$ $^2S_{1/2}\\rightarrow 5p$ $^2P_{3/2}$ (D2), and the three $4d\\rightarrow 5p$ transitions in naturally abundant Sr$^+$ isotopes. For absolute transition frequencies, an accuracy of up to 600 kHz was achieved, while common-mode rejection allowed us to extract isotope shifts with uncertainties down to a level of 200 kHz, one order of magnitude better than previously achieved. The uncertainties of the hyperfine-structure coefficients for $^{87}$Sr of the $5p$ states and the $4d$ $^2D_{3/2}$ levels are also improved. A King plot analysis yielded a field-shift ratio of the D2 and D1 lines of $F_\\text{D2}/F_\\text{D1}=1.004(5)$, which lies within the theoretically allowed region and can be used as a benchmark for atomic structure theory calculations. We use the information from all stable isotopes in the investigated transitions to compare field-shift and mass-shift constants obtained by various techniques regularly used in the literature, ranging from King-plots with purely experimental input to ab initio atomic structure calculations by state-of-the-art theory. We show that in the region above $N=50$, the charge radii are strongly dependent on the approach being used.",
+  "authors": [
+   "J. Palmes",
+   "K. König",
+   "B. K. Sahoo",
+   "H. Bodnar",
+   "A. Candiello",
+   "A. Dorne",
+   "R. de Groote",
+   "P. Imgram",
+   "I. Lopp",
+   "P. Müller",
+   "W. Nörtershäuser",
+   "B. Ohayon",
+   "R. Van Duyse"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "nucl-ex"
+  ],
+  "comment": null,
+  "first_author": "J. Palmes",
+  "pdf_url": "http://arxiv.org/pdf/2605.04281",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-05-05",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Nuclear Charge Radii of Sr Isotopes: Reevaluation based on Transition Frequency Measurements in the $5s-5p-4d$ manifold in Sr$^+$",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.04294": {
+  "abstract": "Optically active solid-state spin defects are promising candidates for quantum applications, however a unified theoretical framework to predict their spin dynamics at high temperatures is not yet available. Here, using Kubo linear--response theory, we derive expressions of spin-lattice and decoherence times \\(T_1\\) and \\(T_2\\) in terms of correlation functions of spin--lattice couplings. We then evaluate \\(T_1\\) and \\(T_2\\) from molecular dynamics and spin--lattice interaction time--series generated by state--of--the--art machine learning models trained on {\\it ab--initio} data. Finally we measure \\(T_1\\) times for the NV center in diamond and compare experimental and theoretical results, showing excellent agreement.",
+  "authors": [
+   "Enrico Drigo",
+   "Marquis M. McMillan",
+   "Benjamin Pingault",
+   "Yinan Dong",
+   "F. Joseph Heremans",
+   "David D. Awschalom",
+   "Giulia Galli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 6 figures",
+  "first_author": "Enrico Drigo",
+  "pdf_url": "http://arxiv.org/pdf/2605.04294",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-05",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Spin Dynamics from Atomistic Quantum Simulations",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.04376": {
+  "abstract": "The integration of deep learning approaches in biomedical research has been transformative, enabling breakthroughs in various applications. Despite these strides, its application in protein inference is impeded by the scarcity of extensively labeled datasets, a challenge compounded by the high costs and complexities of accurate protein annotation. In this study, we introduce GraphPI, a novel framework that treats protein inference as a node classification problem. We treat proteins as interconnected nodes within a protein-peptide-PSM graph, utilizing a Graph Neural Network-based architecture to elucidate their interrelations. To address label scarcity, we train the model on a set of unlabeled public protein datasets with pseudo-labels derived from an existing protein inference algorithm, enhanced by self-training to iteratively refine labels based on confidence scores. Contrary to prevalent methodologies necessitating dataset-specific training, our research illustrates that GraphPI, due to the well normalized nature of Percolator features, exhibits universal applicability without dataset-specific fine-tuning, a feature that not only mitigates the risk of overfitting but also enhances computational efficiency. Our empirical experiments reveal notable performance on various test datasets and deliver significantly reduced computation times compared to common protein inference algorithms.",
+  "authors": [
+   "Zheng Ma",
+   "Jiazhen Chen",
+   "Lei Xin",
+   "Ali Ghodsi"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zheng Ma",
+  "pdf_url": "http://arxiv.org/pdf/2605.04376",
+  "primary_category": "cs.LG",
+  "published": "2026-05-06",
+  "tags": [
+   "gnn"
+  ],
+  "title": "GraphPI: Efficient Protein Inference with Graph Neural Networks",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04483": {
+  "abstract": "CDFCI is a shared-memory parallel numerical program for computing low-lying eigenpairs of large-scale, non-relativistic fermionic Hamiltonians. The software is designed to handle a broad class of many-body quantum models, including both ab initio electronic structure Hamiltonians and lattice-based Hamiltonians arising in condensed matter physics. CDFCI combines an efficient coordinate-descent-based selected configuration interaction algorithm with dedicated parallelization strategies, achieving high performance on modern multi-core architectures. Benchmark results on representative quantum chemistry and condensed matter test cases demonstrate that CDFCI attains state-of-the-art accuracy with competitive performance compared to established selected configuration interaction (such as CIPSI or SHCI) and DMRG implementations. The software is open-source, extensively documented, and provides a Python interface for seamless integration with PySCF and other many-body simulation workflows.",
+  "authors": [
+   "Yuejia Zhang",
+   "Zhe Wang",
+   "Jianfeng Lu",
+   "Yingzhou Li"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuejia Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2605.04483",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-05-06",
+  "tags": [
+   "ab-initio",
+   "electronic-structure",
+   "quantum-chemistry"
+  ],
+  "title": "CDFCI: High-Performance Parallel Software for Many-Body Large-Scale Eigenvalue Problems",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04521": {
+  "abstract": "Large-scale molecular dynamics simulations of shear deformation under constant pressures of amorphous silicon, PT from low-density-amorphous (LDA) to high-density-amorphous (HDA) Si, and formation of shear bands (SBs) are performed using the state-of-the-art Gaussian Approximation Potential. The simulations reveal that LDA$\\leftrightarrow$HDA shear-induced PTs occur simultaneously until reaching steady state. The developed mechanism-based analytical model well describes shear-strain-governed kinetics and steady states at all pressures, independent of shear stresses. Shear reduces the pressure for initiation and completion of LDA$\\rightarrow$HDA PT by $4.36$ and $5.10$ GPa, respectively. Without PT at low pressure, shear-banding occurs, which is partially suppressed by PT at higher pressure with uniform deformation-PT at $9.8$ GPa. Despite the much larger shear and expected fraction of HDA, surprising sharp drop in the HDA atomic fraction within the SB was discovered. In bulk, Si deforms by atomic rearrangement in localized shear transformation zones with high nonaffine displacements, which trigger nucleation of HDA clusters within LDA and, concurrently, of LDA clusters within HDA, without growth and coalescence. In SB, a turbulent-like flow with swirls is revealed, which promotes reverse PT from HDA$\\rightarrow$LDA more effectively. Transformation-induced plasticity in amorphous Si is revealed. The findings open up basic research into the mechanisms and kinetics of plastic strain-induced PTs in amorphous materials under high pressure, with numerous important applications.",
+  "authors": [
+   "Hao Chen",
+   "Valery I. Levitas",
+   "Tengyi Liu",
+   "Jingyu Lu",
+   "Rui Zhu",
+   "Zhongqiang Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 10 figures",
+  "first_author": "Hao Chen",
+  "pdf_url": "http://arxiv.org/pdf/2605.04521",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-06",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Unveiling the Atomistic Mechanisms of Shear-Induced LDA$\\leftrightarrow$HDA Transformations and Shear Banding in Amorphous Silicon under High Pressures",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04604": {
+  "abstract": "High-performance computing (HPC) is increasingly important for scalable quantum chemistry workflows that couple classical generative models, quantum circuit simulation, and selected configuration interaction postprocessing. We present the generative quantum-inspired Kolmogorov-Arnold eigensolver (GQKAE), a parameter-efficient extension of the generative quantum eigensolver (GQE) for quantum chemistry. GQKAE replaces the parameter-heavy feed-forward network components in GPT-style generative eigensolvers with hybrid quantum-inspired Kolmogorov-Arnold network modules, forming a compact HQKANsformer backbone. The method preserves autoregressive operator selection and the quantum-selected configuration interaction evaluation pipeline, while using single-qubit DatA Re-Uploading ActivatioN modules to provide expressive nonlinear mappings. Numerical benchmarks on H4, N2, LiH, C2H6, H2O, and the H2O dimer show that GQKAE achieves chemical accuracy comparable to the GPT-based GQE architecture, while reducing trainable parameters and memory by approximately 66% and improving wall-time performance. For strongly correlated systems such as N2 and LiH, GQKAE also improves convergence behavior and final energy errors. These results indicate that quantum-inspired Kolmogorov-Arnold networks can reduce classical-side overhead while preserving circuit-generation quality, offering a scalable route for HPC-quantum co-design on near-term quantum platforms.",
+  "authors": [
+   "Yu-Cheng Lin",
+   "Yu-Chao Hsu",
+   "I-Shan Tsai",
+   "Chun-Hua Lin",
+   "Kuo-Chung Peng",
+   "Jiun-Cheng Jiang",
+   "Yun-Yuan Wang",
+   "Tzung-Chi Huang",
+   "Tai-Yue Li",
+   "Kuan-Cheng Chen",
+   "Samuel Yen-Chi Chen",
+   "Nan-Yow Chen"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yu-Cheng Lin",
+  "pdf_url": "http://arxiv.org/pdf/2605.04604",
+  "primary_category": "quant-ph",
+  "published": "2026-05-06",
+  "tags": [
+   "generative-model",
+   "quantum-chemistry"
+  ],
+  "title": "Generative Quantum-inspired Kolmogorov-Arnold Eigensolver",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04613": {
+  "abstract": "High-quality singing annotations are fundamental to modern Singing Voice Synthesis (SVS) systems. However, obtaining these annotations at scale through manual labeling is unrealistic due to the substantial labor and musical expertise required, making automatic annotation highly necessary. Despite their utility, current automatic transcription systems face significant challenges: they often rely on complex multi-stage pipelines, struggle to recover text-note alignments, and exhibit poor generalization to out-of-distribution (OOD) singing data. To alleviate these issues, we present VocalParse, a unified singing voice transcription (SVT) model built upon a Large Audio Language Model (LALM). Specifically, our novel contribution is to introduce an interleaved prompting formulation that jointly models lyrics, melody, and word-note correspondence, yielding a generated sequence that directly maps to a structured musical score. Furthermore, we propose a Chain-of-Thought (CoT) style prompting strategy, which decodes lyrics first as a semantic scaffold, significantly mitigating the context disruption problem while preserving the structural benefits of interleaved generation. Experiments demonstrate that VocalParse achieves state-of-the-art SVT performance on multiple singing datasets. The source code and checkpoint are available at https://github.com/pymaster17/VocalParse.",
+  "authors": [
+   "Yukun Chen",
+   "Tianrui Wang",
+   "Zhaoxi Mu",
+   "Xinyu Yang",
+   "EngSiong Chng"
+  ],
+  "categories": [
+   "cs.SD",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yukun Chen",
+  "pdf_url": "http://arxiv.org/pdf/2605.04613",
+  "primary_category": "cs.SD",
+  "published": "2026-05-06",
+  "tags": [],
+  "title": "VocalParse: Towards Unified and Scalable Singing Voice Transcription with Large Audio Language Models",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04629": {
+  "abstract": "We present CombOL (Combinatorial Objects Library), an open-source library for the enumeration and Boltzmann sampling of combinatorial classes. Classes can be specified by a concise string syntax, and may depend on an arbitrary number of parameters. CombOL automatically derives the associated generating functions, enabling the generation of counting sequences and the compilation of Boltzmann samplers. The library supports exact and approximate-size Boltzmann rejection sampling with automatic parameter tuning to target specific sizes. In addition to implementing established methods, CombOL contributes a novel early-rejection scheme, as well as guaranteed statistical correctness by dynamically increasing the numerical precision, eliminating bias due to floating-point rounding errors. Through the Python interface, sampled structures can be mapped to application-specific objects, enabling direct sampling of domain objects such as graphs, chemical structure representations, or other complex data types. CombOL is available from PyPI as 'combol' (pypi.org/project/combol). The source code is available at gitlab.com/casbjorn/combol.",
+  "authors": [
+   "Casper Asbjørn Eriksen",
+   "Daniel Merkle"
+  ],
+  "categories": [
+   "cs.MS",
+   "math.CO"
+  ],
+  "comment": "10 pages, 2 figures. Submitted to ICMS (International Congress on Mathematical Software) 2026",
+  "first_author": "Casper Asbjørn Eriksen",
+  "pdf_url": "http://arxiv.org/pdf/2605.04629",
+  "primary_category": "cs.MS",
+  "published": "2026-05-06",
+  "tags": [],
+  "title": "CombOL: a Library for Practical Enumeration and Boltzmann Sampling of Combinatorial Classes",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04751": {
+  "abstract": "Resilience is becoming crucial for future wireless networks, which must withstand, adapt to, and recover from rare but potentially cascading disruptions. This paper develops a sequential Monte Carlo (SMC) simulation framework for such systems, in which resilience failures are formulated as path-dependent rare events arising from staged degradation and delayed recovery, and are decomposed into semantically interpretable levels defined by a reaction coordinate. Building on this structure, we present a fixed-level splitting approach with budget-aware population control, enabling efficient estimation of rare non-recovery probabilities. We discuss the potential reuse of SMC checkpoints as representative near-critical states for policy evaluation and simulation-based selection. We further extend the methodology to learned stochastic simulation by using generative sequence models as restartable surrogates within data-driven digital twins. We showcase the framework in a delay-critical wireless network use case, where SMC substantially improves over standard Monte Carlo in rare-event regimes with both physical and learned simulators.",
+  "authors": [
+   "Onel L. A. López",
+   "Amirhossein Azarbahram"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Onel L. A. López",
+  "pdf_url": "http://arxiv.org/pdf/2605.04751",
+  "primary_category": "eess.SY",
+  "published": "2026-05-06",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04762": {
+  "abstract": "T-cell receptor (TCR) interactions with antigenic peptides underpin adaptive immunity and are pivotal for personalized immunotherapy and vaccine development. Despite recent progress, computational modeling of TCR-peptide specificity remains challenging due to data scarcity, complex sequence dependencies, and the absence of standardized evaluation frameworks. To systematically address these issues, we introduce TCRTransBench, a comprehensive benchmark for bidirectional TCR-peptide sequence generation tasks. Specifically, we define two sequence-to-sequence (seq2seq) tasks: generating antigenic peptides from TCR sequences (TCR2PEP) and generating TCR sequences from antigenic peptides (PEP2TCR). Our framework provides a rigorously curated, MHC-free dataset comprising tens of thousands of validated TCR-peptide pairs, along with diverse evaluation metrics that integrate computational efficiency, sequence accuracy, and biological plausibility. Extensive benchmarking across representative neural architectures, including recurrent, convolutional, and transformer-based models, reveals key trade-offs among performance metrics, highlighting the effectiveness of transformers in capturing intricate biological interactions and the necessity of biologically informed evaluation criteria. TCRTransBench establishes standardized tasks, datasets, and evaluation protocols, laying a robust foundation for future computational advances in immunological sequence modeling and therapeutic protein design.",
+  "authors": [
+   "Yiming Wang",
+   "Weiyu Xiao",
+   "Jiangbin Zheng",
+   "Stan Z. Li"
+  ],
+  "categories": [
+   "q-bio.CB"
+  ],
+  "comment": "13 pages, 5 figures, 2 tables",
+  "first_author": "Yiming Wang",
+  "pdf_url": "http://arxiv.org/pdf/2605.04762",
+  "primary_category": "q-bio.CB",
+  "published": "2026-05-06",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "TCRTransBench: A Comprehensive Benchmark for Bidirectional TCR-Peptide Sequence Generation",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04772": {
+  "abstract": "Access to diverse, well-annotated medical images with interactive learning tools is fundamental for training practitioners in medicine and related fields to improve their diagnostic skills and understanding of anatomical structures. While medical atlases are valuable, they are often impractical due to their size and lack of interactivity, whereas online image search may provide mislabeled or incomplete material. To address this, we propose MIRAGE, a multimodal medical text and image retrieval and generation system that allows users to find and generate clinically relevant images from trustworthy sources by mapping both text and images to a shared latent space, enabling semantically meaningful queries. The system is based on a fine-tuned medical version of CLIP (MedICaT-ROCO), trained with the ROCO dataset, obtained from PubMed Central. MIRAGE allows users to give prompts to retrieve images, generate synthetic ones through a medical diffusion model (Prompt2MedImage) and receive enriched descriptions from a large language model (Dolly-v2-3b). It also supports a dual search option, enabling the visual comparison of different medical conditions. A key advantage of the system is that it relies entirely on publicly available pretrained models, ensuring reproducibility and accessibility. Our goal is to provide a free, transparent and easy-to-use didactic tool for medical students, especially those without programming skills. The system features an interface that enables interactive and personalized visual learning through medical image retrieval and generation. The system is accessible to medical students worldwide without requiring local computational resources or technical expertise, and is currently deployed on Kaggle: http://www-vpu.eps.uam.es/mirage",
+  "authors": [
+   "Miguel Diaz Benito",
+   "Cecilia Diana Albelda",
+   "Alvaro Garcia Martin",
+   "Jesus Bescos Cano",
+   "Marcos Escudero-Vinolo",
+   "Juan C. SanMiguel"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted at the Workshop on Applications of Medical AI (AMAI 2025), in conjunction with MICCAI 2025",
+  "first_author": "Miguel Diaz Benito",
+  "pdf_url": "http://arxiv.org/pdf/2605.04772",
+  "primary_category": "cs.CV",
+  "published": "2026-05-06",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04833": {
+  "abstract": "Protecting confidential data while preserving utility is particularly challenging when data sets contain outlying observations. Existing latent space anonymization methods, such as spectral anonymization (SA), rely on principal component analysis (PCA) and may therefore be vulnerable to contamination. We investigate anonymization in the presence of outliers and propose ICSA, a robust alternative to SA based on invariant coordinate selection (ICS). By replacing the PCA transformation with ICS, the robustness of the anonymization procedure can be regulated through the choice of scatter matrices. Alongside the methodological development, we derive a theoretical result showing that SA fails under sufficiently influential outliers. To assess the practical implications of this result, we compare the privacy-utility trade-off of ICSA and SA through simulation experiments under varying contamination settings and outlier severities. Our findings indicate that implementations of ICSA based on robust scatter matrices achieve stronger privacy protection than SA, while typically maintaining comparable, and in some cases improved, utility. We further examine the empirical performance of the proposed method using a benchmark clinical data set, where ICSA demonstrates superior overall privacy-utility efficiency relative to SA. These results suggest that explicitly accounting for outliers can materially improve anonymization performance and that robust latent space transformations offer a promising direction for privacy-preserving statistical data release.",
+  "authors": [
+   "Katariina Perkonoja",
+   "Joni Virta"
+  ],
+  "categories": [
+   "stat.ME",
+   "cs.CR"
+  ],
+  "comment": "Submitted to Privacy in Statistical Databases 2026",
+  "first_author": "Katariina Perkonoja",
+  "pdf_url": "http://arxiv.org/pdf/2605.04833",
+  "primary_category": "stat.ME",
+  "published": "2026-05-06",
+  "tags": [],
+  "title": "Data anonymization in the presence of outliers via invariant coordinate selection",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04879": {
+  "abstract": "Entanglement is a key quantum resource in various quantum protocols, with a rich set of laws governing its manipulation. In this context, catalysis refers to the possibility of an auxiliary state that enables a previously forbidden manipulation, while being completely returned at the end. While the catalytic setting has been thoroughly examined in the single-copy regime, much less is known in the asymptotically many copy regime. In this work, we focus on the entanglement cost of preparing asymptotically many copies of a given state exactly. We show that catalysis can significantly lower the exact entanglement cost by constructing an explicit catalytic protocol. Additionally, these findings generalize readily to other resource theories, showing a general catalytic advantage in the resource dilution task.",
+  "authors": [
+   "Ray Ganardi"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "6 pages, 1 figure",
+  "first_author": "Ray Ganardi",
+  "pdf_url": "http://arxiv.org/pdf/2605.04879",
+  "primary_category": "quant-ph",
+  "published": "2026-05-06",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Catalytic advantage in asymptotic entanglement manipulation",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04895": {
+  "abstract": "Published transfer-BO comparisons often estimate an average treatment effect of acquisition choice over hidden regime variables, while practitioners need the conditional effect for their specific prior quality, budget ratio, and metric. An audit of 40 transfer-BO papers from NeurIPS, ICML, ICLR, AISTATS, UAI, TMLR, JMLR, and AutoML-Conf (2022-2025) finds that 98% never vary B/|A| as a controlled axis. On the same GDSC2 benchmark, changing only the budget reverses the ranking: at B=50, Greedy outperforms UCB by 0.050 Hit@1, while at B=100, UCB outperforms Greedy by 0.035. We capture this transition with the Portable Regime Score PRS=(B/|A|)(1-rho), where rho is the prior rank correlation and can be estimated from pilot contexts before the main comparison. Across 79 conditions spanning chemistry, drug-response biology, and HPO, a hierarchical model gives beta=0.50 (p=1.1e-9), and 19% of conditions fall in an equivalence zone where |advantage|<0.01 Hit@1. In five published reversal cases, PRS predicts the winner from pre-comparison observables. A No-Free-Leaderboard proposition explains why unconditional rankings are unstable: when CATE changes sign across regimes, the reported ATE becomes a function of benchmark mixture. RegimePlanner, which estimates rho online and switches acquisition accordingly, wins all 16 HPO-B search spaces at B=100 and exceeds the matched {Greedy,UCB} per-context oracle on GDSC2 by 18%. Pre-registered predictions achieve 27/40=67.5% overall accuracy and above 90% within EMA prior families. The practical protocol is simple: report B/|A|, rho, K, and metric alongside any claimed acquisition advantage.",
+  "authors": [
+   "Noel Thomas"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": "42 pages, 9 figures. NeurIPS 2026 submission",
+  "first_author": "Noel Thomas",
+  "pdf_url": "http://arxiv.org/pdf/2605.04895",
+  "primary_category": "cs.LG",
+  "published": "2026-05-06",
+  "tags": [],
+  "title": "Regime-Conditioned Evaluation in Multi-Context Bayesian Optimization",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04942": {
+  "abstract": "This work establishes key technological guidelines for designing diamond-based optoelectronic devices, derived from a first-principles investigation of two architectures: a PIN junction with a boron-vacancy-boron (BVB) intermediate-band absorber, and a PN junction based on phosphorus-vacancy (PV) defects. For the PIN solar cell, practical design principles include: i) aligning incident light in the xz-plane to exploit anisotropic absorption; ii) using graded junctions to mitigate tunnelling losses at abrupt interfaces; iii) targeting an absorber thickness of ~500 nm to balance absorption and carrier extraction; and iv) leveraging the high transparency of both contact layers for bifacial device configurations. For the PN diode, the PV-doped diamond operates via impurity-band conduction, making it suitable for degenerate p-type applications such as tunnel diodes or asymmetric junctions, while its temperature-dependent Seebeck anisotropy and sign-reversal offer opportunities for thermal management applications. When paired with phosphorus-doped n-type regions, these defects enable single-dopant junctions that significantly simplify device manufacturing. Using density functional theory with GW corrections, Bethe-Salpeter equation calculations and carrier transport modelling coupled to device electrostatics via a Poisson solver, we show that the BVB defect introduces intermediate bands without degrading diamond's high carrier mobility or thermal conductivity, while PV-doping provides high conductivity at room temperature through impurity-band transport. Overall, both defect-engineered systems preserve diamond's superior transport and thermal properties even after doping, offering viable pathways for high-performance diamond optoelectronics. These guidelines provide a practical foundation for fabricating efficient diamond-based photovoltaic and diode devices.",
+  "authors": [
+   "Matúš Kaintz",
+   "Antonio Cammarata"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Matúš Kaintz",
+  "pdf_url": "http://arxiv.org/pdf/2605.04942",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-06",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "thermal-properties"
+  ],
+  "title": "From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.04969": {
+  "abstract": "Using B2 MoTa, the strongest B2 former among group V/VI refractory binaries, as a model system, we compute temperature-dependent Gibbs energies of formation of vacancies and antisites from ab initio calculations up to 3000 K at the stoichiometric composition. We explicitly account for thermal electronic excitations, vibrational anharmonicity, and electron-vibration coupling. The key finding is that the temperature dependence of the Gibbs energies of vacancy formation exhibits a pronounced sublattice asymmetry. Specifically, the Gibbs energy of formation of a Mo-site vacancy decreases by 1.1 eV from 0 to 3000 K, whereas the decrease for a Ta-site vacancy amounts to 2.1 eV, almost a factor of two larger. Two contributions of distinct origin govern the temperature dependence of this asymmetry: a quasiharmonic contribution associated with the chemical-potential imbalance set by the two antisite structures and an anharmonic contribution associated with the local vibrational response of the vacancy structures. The asymmetry in anharmonic vibrations is traced back to an enlarged local vibrational distribution of the first-nearest neighbors around the Ta-site vacancy. In contrast to the vacancies, the Gibbs energies of antisite formation vary only weakly with temperature.",
+  "authors": [
+   "Xiang Xu",
+   "Fritz Körmann",
+   "Sergiy Divinski",
+   "Blazej Grabowski",
+   "Xi Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Xiang Xu",
+  "pdf_url": "http://arxiv.org/pdf/2605.04969",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-06",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Temperature dependence of the Gibbs energies of formation of point defects in B2 MoTa from ab initio calculations",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.05163": {
+  "abstract": "Synthesizing physics-grounded 3D assets is a critical bottleneck for interactive virtual worlds and embodied AI. Existing methods predominantly focus on static geometry, overlooking the functional properties essential for interaction. We propose that interactive asset generation must be rooted in functional logic and hierarchical physics. To bridge this gap, we introduce PhysForge, a decoupled two-stage framework supported by PhysDB, a large-scale dataset of 150,000 assets with four-tier physical annotations. First, a VLM acts as a \"physical architect\" to plan a \"Hierarchical Physical Blueprint\" defining material, functional, and kinematic constraints. Second, a physics-grounded diffusion model realizes this blueprint by synthesizing high-fidelity geometry alongside precise kinematic parameters via a novel KineVoxel Injection (KVI) mechanism. Experiments demonstrate that PhysForge produces functionally plausible, simulation-ready assets, providing a robust data engine for interactive 3D content and embodied agents.",
+  "authors": [
+   "Yunhan Yang",
+   "Chunshi Wang",
+   "Junliang Ye",
+   "Yang Li",
+   "Zanxin Chen",
+   "Zehuan Huang",
+   "Yao Mu",
+   "Zhuo Chen",
+   "Chunchao Guo",
+   "Xihui Liu"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted by ICML 2026. Project Page: https://hku-mmlab.github.io/PhysForge/",
+  "first_author": "Yunhan Yang",
+  "pdf_url": "http://arxiv.org/pdf/2605.05163",
+  "primary_category": "cs.CV",
+  "published": "2026-05-06",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-05-06"
+ },
+ "2605.05198": {
+  "abstract": "This study presents a novel deterministic optimization algorithm based on a special variant of the Linear Congruential Generator (LCG). While conventional algorithms generally operate within the search space, the introduced technique follows a two-level architecture. In particular, an external loop that adaptively balances between exploration and exploitation, while the internal loop evaluates solutions. It is motivated by the intrinsic structure of the generator, the reason behind naming it the Structured Linear Congruential Generator (S- LCG). which enjoys a number of unique characteristics as follows: 1) a memoryless scheme, which ensures non-overlapping sequences based on distinct seeds, thus ensuring no evaluation redundancy; 2) bit splitting representation, which converts LCG states into multi-dimensional points to overcome the Marsaglia lattice effect; 3) adaptive exploration-exploitation of the generator space, which leads to implicit optimization of the surrogate smooth objective function; and 4) constant information gathering speed to avoid the problem of premature convergence. Extensive testing on 26 benchmark functions across dimensions d = 2 to 30 demonstrates that S-LCG comes within 1% of the global optimum in 83.3% of 138 cases (100% at d = 2, 81.2% at d = 30) while the nearest competitor GA achieved 75.4%. Statistical validation shows that S-LCG outperforms eight cutting-edge binary algorithms. Furthermore, its practical value is confirmed by validation on three constrained engineering design problems. In the end, S-LCG offers an optimization framework that is strictly reproducible and requires only one sensitive parameter to be tuned.",
+  "authors": [
+   "Ahmed Qasim Mohammed",
+   "Haider Banka",
+   "Anamika Singh"
+  ],
+  "categories": [
+   "math.OC",
+   "cs.NE"
+  ],
+  "comment": null,
+  "first_author": "Ahmed Qasim Mohammed",
+  "pdf_url": "http://arxiv.org/pdf/2605.05198",
+  "primary_category": "math.OC",
+  "published": "2026-05-06",
+  "tags": [],
+  "title": "S-LCG: Structured Linear Congruential Generator-Based Deterministic Algorithm for Search and Optimization",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-06"
  }
 }

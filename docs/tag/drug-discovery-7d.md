@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -34,6 +34,18 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.03707">2605.03707</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04118.html">ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Cong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04118">2605.04118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04265.html">Benchmarking open-source tools for in silico antiviral drug discovery</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a></div></td>
+<td>Daniel C. Elton et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04265">2605.04265</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02657.html">CARD: Coarse-to-fine Autoregressive Modeling with Radix-based Decomposition for Transferable Free Energy Estimation</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Ziyang Yu et al.</td>
@@ -56,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02937.html">Proteo-R1: Reasoning Foundation Models for De Novo Protein Design</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="multimodal-llm-7d.html">multimodal-llm</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Fang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02937">2605.02937</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26498.html">Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="molecular-representation-7d.html">molecular-representation</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Jinjiang Guo</td>
-<td><a href="http://arxiv.org/abs/2604.26498">2604.26498</a></td>
 </tr>
 </tbody></table>

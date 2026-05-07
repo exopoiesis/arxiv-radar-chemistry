@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,23 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07257.html">A Modular Mechanistic In Silico Model for In Vitro Transcription Process Yield and Product Quality Prediction</a></div></td>
 <td>Keqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07257">2602.07257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05350.html">Physics-informed acquisition weighting for stoichiometry-constrained Bayesian optimization of oxide thin-film growth</a></div></td>
-<td>Yuki K. Wakabayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05350">2602.05350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05786.html">Selecting Hyperparameters for Tree-Boosting</a></div></td>
-<td>Floris Jan Koster et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05786">2602.05786</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05931.html">Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics</a></div></td>
-<td>Saad Yousuf et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05931">2602.05931</a></td>
 </tr>
 </tbody></table>

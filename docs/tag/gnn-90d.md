@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04376.html">GraphPI: Efficient Protein Inference with Graph Neural Networks</a></div></td>
+<td>Zheng Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04376">2605.04376</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04174.html">A Transferable Machine Learning Approach to Predict Optimized Orbitals for Electronic Structure Problems</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
+<td>Lucas van der Horst et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04174">2605.04174</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01304.html">SR-CGCNN: Shared Recurrent Convolution in Crystal Graph Neural Networks for Materials Property Prediction</a></div></td>
@@ -566,23 +578,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18472.html">Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Shunqi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18472">2602.18472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18647.html">STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Kiet Bennema ten Brinke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18647">2505.18647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05702.html">Broken neural scaling laws in materials science</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Max Großmann et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05702">2602.05702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05811.html">STProtein: predicting spatial protein expression from multi-omics data</a></div></td>
-<td>Zhaorui Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05811">2602.05811</a></td>
 </tr>
 </tbody></table>

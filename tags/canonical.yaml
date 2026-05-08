@@ -476,3 +476,68 @@ quantum-computing:
   group: specialized
   synonyms: [quantum computing, quantum machine learning]
   freq: ~235
+
+
+# === Enhanced sampling / free-energy methods (added 2026-05-08) ===
+# Aqueous chem-physics: sampling-methods side. Interface-side tags
+# (solvation thermodynamics, hydration shell, etc.) live in
+# arxiv-radar-electrochemistry where they're closer to EDL / surface focus.
+
+umbrella-sampling:
+  group: methods
+  synonyms:
+    - umbrella sampling
+    - umbrella-sampling
+    - WHAM
+    - weighted histogram analysis method
+  freq: tbd
+
+metadynamics:
+  group: methods
+  synonyms:
+    - metadynamics
+    - well-tempered metadynamics
+    - well tempered metadynamics
+    - parallel-bias metadynamics
+    - parallel bias metadynamics
+  freq: tbd
+
+replica-exchange:
+  group: methods
+  synonyms:
+    - replica exchange
+    - replica-exchange
+    - parallel tempering
+    - REMD
+    - replica exchange molecular dynamics
+  freq: tbd
+
+enhanced-sampling:
+  group: methods
+  synonyms:
+    - enhanced sampling
+    - rare event sampling
+    - rare-event sampling
+    - biased sampling
+    - free energy sampling
+  freq: tbd
+
+thermodynamic-integration:
+  group: methods
+  synonyms:
+    - thermodynamic integration
+    - TI
+    - alchemical free energy
+    - alchemical perturbation
+    - free energy perturbation
+    - FEP
+  freq: tbd
+
+string-method:
+  group: methods
+  synonyms:
+    - string method
+    - finite-temperature string method
+    - reaction coordinate
+    - committor analysis
+  freq: tbd

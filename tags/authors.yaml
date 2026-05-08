@@ -1,0 +1,114 @@
+# Author whitelist for arxiv-radar-chemistry.
+#
+# After the regex relevance_filter rejects a paper, daily_arxiv does a
+# second-chance check against this whitelist. Matched papers enter with
+# topic `via:author-whitelist:<note>`.
+#
+# Inclusion criteria: high-signal authors in chemistry-ML, atomistic ML,
+# DFT methodology, AIMD, MLIPs, free-energy methods, and aqueous /
+# molecular chem-physics.
+
+authors:
+
+  # --- Atomistic ML / MLIPs ---
+
+  - name_match: ["Behler", "Jörg Behler", "Joerg Behler"]
+    note: "neural network potentials"
+
+  - name_match: ["Csányi", "Csanyi", "Gábor Csányi", "Gabor Csanyi"]
+    note: "GAP, MACE, ACE"
+
+  - name_match: ["Batatia", "Ilyes Batatia"]
+    note: "MACE author"
+
+  - name_match: ["Drautz", "Ralf Drautz"]
+    note: "ACE potentials"
+
+  - name_match: ["von Lilienfeld", "Anatole von Lilienfeld"]
+    note: "ML chemistry, QM datasets"
+
+  - name_match: ["Müller, K-R", "Müller, Klaus-Robert", "Klaus-Robert Müller"]
+    note: "ML force fields, SchNet"
+
+  - name_match: ["Schütt", "Schutt", "Kristof Schütt"]
+    note: "SchNet, equivariant ML"
+
+  - name_match: ["Tkatchenko", "Alexandre Tkatchenko"]
+    note: "vdW, ML force fields"
+
+  - name_match: ["Ong, S", "Shyue Ping Ong"]
+    note: "M3GNet, CHGNet, materials data"
+
+  - name_match: ["Cheng, B", "Bingqing Cheng"]
+    note: "MLIPs, water, free energy"
+
+  # --- DFT methodology / electronic structure ---
+
+  - name_match: ["Burke, K", "Kieron Burke"]
+    note: "DFT methodology, ML for DFT"
+
+  - name_match: ["Truhlar", "Donald Truhlar"]
+    note: "DFT functionals, transition state"
+
+  - name_match: ["Yang, W", "Weitao Yang"]
+    note: "DFT methodology, dispersion"
+
+  - name_match: ["Head-Gordon", "Martin Head-Gordon", "Teresa Head-Gordon"]
+    note: "DFT, polarizable water"
+
+  - name_match: ["Furche", "Filipp Furche"]
+    note: "TDDFT, response theory"
+
+  # --- Aqueous chem-physics, AIMD, proton transfer ---
+
+  - name_match: ["Marx, D", "Dominik Marx"]
+    note: "AIMD, proton transfer"
+
+  - name_match: ["Parrinello", "Michele Parrinello"]
+    note: "metadynamics, Car-Parrinello"
+
+  - name_match: ["Ceriotti", "Michele Ceriotti"]
+    note: "PIMD, MLIPs, water"
+
+  - name_match: ["Markland", "Tom Markland", "Thomas Markland"]
+    note: "AIMD, proton transfer"
+
+  - name_match: ["Tuckerman", "Mark Tuckerman"]
+    note: "Grotthuss, AIMD"
+
+  - name_match: ["Voth, G", "Gregory Voth"]
+    note: "proton transport, MS-EVB, coarse-graining"
+
+  - name_match: ["Galli, G", "Giulia Galli"]
+    note: "DFT water, defects"
+
+  - name_match: ["Sprik", "Michiel Sprik"]
+    note: "AIMD electrochemistry, redox levels"
+
+  - name_match: ["Müller-Plathe", "Florian Müller-Plathe", "Mueller-Plathe"]
+    note: "MD methodology"
+
+  # --- Free-energy methods ---
+
+  - name_match: ["Laio", "Alessandro Laio"]
+    note: "metadynamics co-creator"
+
+  - name_match: ["Bussi", "Giovanni Bussi"]
+    note: "metadynamics, PLUMED"
+
+  - name_match: ["Hummer, G", "Gerhard Hummer"]
+    note: "free energy, biomolecular MD"
+
+  # --- Generative chemistry / inverse design / property prediction ---
+
+  - name_match: ["Aspuru-Guzik", "Alán Aspuru-Guzik"]
+    note: "ML chemistry, autonomous discovery"
+
+  - name_match: ["Pande, V", "Vijay Pande"]
+    note: "ML chemistry, drug discovery"
+
+  - name_match: ["Coley", "Connor Coley"]
+    note: "retrosynthesis, ML chemistry"
+
+  - name_match: ["Reiser", "Patrick Reiser"]
+    note: "GNN benchmarking, materials ML"

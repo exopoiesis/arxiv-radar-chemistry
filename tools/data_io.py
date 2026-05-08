@@ -370,3 +370,44 @@ def render_md_row(pid, rec):
         f"[{pid}](http://arxiv.org/abs/{pid})|"
         f"[md]({abstract_link})|"
     )
+
+
+# -- Author whitelist (second-chance admit after relevance filter) ------------
+# Loaded from tags/authors.yaml. Used by daily_arxiv.py: if regex relevance
+# filter rejects a paper, second-chance check matches authors against this
+# list. Matched papers admitted with topic `via:author-whitelist:<note>`.
+
+AUTHORS_WHITELIST_PATH = ROOT / "tags" / "authors.yaml"
+
+
+def load_authors_whitelist(path=AUTHORS_WHITELIST_PATH):
+    """Read tags/authors.yaml; return the entries list, [] if missing."""
+    if not Path(path).exists():
+        return []
+    with open(path, encoding="utf-8") as f:
+        data = yaml.safe_load(f) or {}
+    return data.get("authors", []) or []
+
+
+def is_whitelisted_author(authors, whitelist=None):
+    """Return the whitelist entry's `note` if any author matches, else None.
+
+    Case-insensitive substring match on each `name_match` needle vs each
+    paper author. First match wins. Pre-load the whitelist once per run
+    and pass it in; the optional default re-reads from disk per call.
+    """
+    if not authors:
+        return None
+    if whitelist is None:
+        whitelist = load_authors_whitelist()
+    if not whitelist:
+        return None
+    for entry in whitelist:
+        if not isinstance(entry, dict):
+            continue
+        for needle in entry.get("name_match", []):
+            n = needle.lower()
+            for a in authors:
+                if n in a.lower():
+                    return entry.get("note", needle) or needle
+    return None

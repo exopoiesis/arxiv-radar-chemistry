@@ -26,6 +26,8 @@ TOOLS = Path(__file__).resolve().parent
 sys.path.insert(0, str(TOOLS))
 from data_io import (
     is_chemistry_paper,
+    is_whitelisted_author,
+    load_authors_whitelist,
     load_all_months,
     load_keyword_queries as _load_keyword_queries,
     paper_to_record,
@@ -60,6 +62,9 @@ def fetch_current_month(client, queries):
     matchers = tag_matcher.build_matchers(canonical)
     LOG.info(f"loaded {sum(len(m) for m in by_month.values())} existing papers; "
              f"canonical tags: {len(canonical)}")
+    whitelist = load_authors_whitelist()
+    if whitelist:
+        LOG.info(f"author whitelist: {len(whitelist)} entries")
 
     new_total = 0
     touched = set()
@@ -79,6 +84,7 @@ def fetch_current_month(client, queries):
         added = 0
         topic_merges = 0
         chem_skipped = 0
+        whitelist_admitted = 0
         for r in results:
             pid, rec = paper_to_record(r)
             paper_month = rec["updated"][:7]
@@ -89,17 +95,24 @@ def fetch_current_month(client, queries):
                     topic_merges += 1
                     touched.add(pid_to_month[pid])
                 continue
-            if not is_chemistry_paper(rec.get("abstract", "")):
-                chem_skipped += 1
-                continue
+            relevant = is_chemistry_paper(rec.get("abstract", ""))
+            wl_note = None
+            if not relevant:
+                wl_note = is_whitelisted_author(rec.get("authors", []), whitelist)
+                if wl_note is None:
+                    chem_skipped += 1
+                    continue
             rec["topics"] = [topic]
+            if wl_note:
+                rec["topics"].append(f"via:author-whitelist:{wl_note}")
+                whitelist_admitted += 1
             rec["tags"] = tag_matcher.match_tags(rec.get("abstract", ""), matchers)
             by_month[paper_month][pid] = rec
             pid_to_month[pid] = paper_month
             touched.add(paper_month)
             write_abstract_html(pid, rec)
             added += 1
-        LOG.info(f"  {topic}: fetched={len(results)} new={added} merged={topic_merges} chem_skipped={chem_skipped}")
+        LOG.info(f"  {topic}: fetched={len(results)} new={added} (whitelist={whitelist_admitted}) merged={topic_merges} chem_skipped={chem_skipped}")
         new_total += added
 
     for m in touched:

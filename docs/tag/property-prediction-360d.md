@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06641.html">GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation</a></div></td>
+<td>Ziyu Zhai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06641">2605.06641</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02351.html">MolViBench: Evaluating LLMs on Molecular Vibe Coding</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Jiatong Li et al.</td>
@@ -1532,11 +1538,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08688.html">A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Aravindh Nivas Marimuthu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08688">2505.08688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20127.html">Learning Hierarchical Interaction for Accurate Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Huiyang Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20127">2504.20127</a></td>
 </tr>
 </tbody></table>

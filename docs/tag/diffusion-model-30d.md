@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Javad Komijani et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06658.html">Relit-LiVE: Relight Video by Jointly Learning Environment Video</a></div></td>
+<td>Weiqing Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06658">2605.06658</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04772.html">MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education</a></div></td>
 <td>Miguel Diaz Benito et al.</td>
@@ -218,17 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11703.html">EvoFlows: Evolutionary Edit-Based Flow-Matching for Protein Engineering</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Nicolas Deutschmann et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11703">2603.11703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04403.html">MolDA: Molecular Understanding and Generation via Large Language Diffusion Model</a></div><div class="paper-tags"><a href="molecular-llm-30d.html">molecular-llm</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Seohyeon Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04403">2604.04403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06489.html">Language-Guided Multimodal Texture Authoring via Generative Models</a></div></td>
-<td>Wanli Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06489">2604.06489</a></td>
 </tr>
 </tbody></table>

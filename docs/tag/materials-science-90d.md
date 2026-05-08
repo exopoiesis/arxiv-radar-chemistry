@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,11 +680,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07491.html">GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design</a></div></td>
 <td>Isabella A. Stewart et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07491">2602.07491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02075.html">MDAgent2: Large Language Model for Code Generation and Knowledge Q&amp;A in Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Zhuofan Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2601.02075">2601.02075</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06122.html">Variationally Compressing Quantum Circuits to Approximate Nonadiabatic Molecular Quantum Dynamics</a></div></td>
+<td>Joshua M. Courtney et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06122">2605.06122</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04483.html">CDFCI: High-Performance Parallel Software for Many-Body Large-Scale Eigenvalue Problems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Yuejia Zhang et al.</td>
@@ -2360,11 +2366,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08291.html">Multireference error mitigation for quantum computation of chemistry</a></div></td>
 <td>Hang Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08291">2505.08291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07904.html">Predicting the optical properties of organometallic nanoparticles with a scale-bridging method: The importance of the embedding</a></div></td>
-<td>Mariia Poleva et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07904">2505.07904</a></td>
 </tr>
 </tbody></table>

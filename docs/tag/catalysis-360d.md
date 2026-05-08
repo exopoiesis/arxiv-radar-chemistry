@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">305 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,11 +1838,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08225.html">Nitrogen oxidation on a plasma-exposed surface</a></div></td>
 <td>S. C. L. Vervloedt et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08225">2505.08225</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07419.html">Morphology and Strain Engineering of Cu-based Materials by Chemical Dealloying for Electrochemical CO Reduction</a></div></td>
-<td>Yuxiang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07419">2505.07419</a></td>
 </tr>
 </tbody></table>

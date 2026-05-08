@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">695 papers</span>
+  <span class="paper-count">701 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,6 +260,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24360.html">Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Ian Störmer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24360">2603.24360</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24638.html">How unconstrained machine-learning models learn physical symmetries</a></div></td>
+<td>Michelangelo Domina et al.</td>
+<td><a href="http://arxiv.org/abs/2603.24638">2603.24638</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
@@ -761,7 +767,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23449.html">Universal and Experiment-calibrated Prediction of XANES through Crystal Graph Neural Network and Transfer Learning Strategy</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23449.html">Universal and Experiment-calibrated Prediction of XANES through Crystal Graph Neural Network and Transfer Learning Strategy</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Zichang Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2512.23449">2512.23449</a></td>
 </tr>
@@ -1415,7 +1421,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18018.html">Committors without Descriptors</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18018.html">Committors without Descriptors</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Peilin Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18018">2510.18018</a></td>
 </tr>
@@ -1655,7 +1661,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06159.html">Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06159.html">Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Jonah Marks et al.</td>
 <td><a href="http://arxiv.org/abs/2501.06159">2501.06159</a></td>
 </tr>
@@ -3064,6 +3070,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.05169">2409.05169</a></td>
 </tr>
 <tr class="paper">
+<td>2025-01-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13515.html">Observation of a rare beta decay of the charmed baryon with a Graph Neural Network</a></div></td>
+<td>BESIII Collaboration et al.</td>
+<td><a href="http://arxiv.org/abs/2410.13515">2410.13515</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08729.html">GRAPPA -- A Hybrid Graph Neural Network for Predicting Pure Component Vapor Pressures</a></div></td>
 <td>Marco Hoffmann et al.</td>
@@ -3125,7 +3137,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09931.html">Generalizability of Graph Neural Network Force Fields for Predicting Solid-State Properties</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09931.html">Generalizability of Graph Neural Network Force Fields for Predicting Solid-State Properties</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Shaswat Mohanty et al.</td>
 <td><a href="http://arxiv.org/abs/2409.09931">2409.09931</a></td>
 </tr>
@@ -3197,6 +3209,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07339.html">Descriptors-free Collective Variables From Geometric Graph Neural Networks</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a></div></td>
+<td>Jintu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2409.07339">2409.07339</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01982.html">Pooling Solvent Mixtures for Solvation Free Energy Predictions</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
 <td>Roel J. Leenhouts et al.</td>
 <td><a href="http://arxiv.org/abs/2412.01982">2412.01982</a></td>
@@ -3245,7 +3263,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10746.html">Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10746.html">Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Juno Nam et al.</td>
 <td><a href="http://arxiv.org/abs/2404.10746">2404.10746</a></td>
 </tr>
@@ -3320,6 +3338,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10720.html">Multi Scale Graph Neural Network for Alzheimer&#x27;s Disease</a></div></td>
 <td>Anya Chauhan et al.</td>
 <td><a href="http://arxiv.org/abs/2411.10720">2411.10720</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07643.html">xCG: Explainable Cell Graphs for Survival Prediction in Non-Small Cell Lung Cancer</a></div></td>
+<td>Marvin Sextro et al.</td>
+<td><a href="http://arxiv.org/abs/2411.07643">2411.07643</a></td>
 </tr>
 <tr class="paper">
 <td>2024-11-09</td>
@@ -3635,7 +3659,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11843.html">Graph Neural Network-State Predictive Information Bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11843.html">Graph Neural Network-State Predictive Information Bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Ziyue Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2409.11843">2409.11843</a></td>
 </tr>
@@ -3851,7 +3875,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11057.html">SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11057.html">SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Seungyeon Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.11057">2407.11057</a></td>
 </tr>
@@ -4139,7 +4163,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10354.html">Physical formula enhanced multi-task learning for pharmacokinetics prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10354.html">Physical formula enhanced multi-task learning for pharmacokinetics prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Ruifeng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2404.10354">2404.10354</a></td>
 </tr>
@@ -4184,5 +4208,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01693.html">HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-function-all.html">protein-function</a></div></td>
 <td>Rong Han et al.</td>
 <td><a href="http://arxiv.org/abs/2404.01693">2404.01693</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.15334.html">Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Wojciech G. Stark et al.</td>
+<td><a href="http://arxiv.org/abs/2403.15334">2403.15334</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.16914.html">Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials</a></div></td>
+<td>Ivan Grega et al.</td>
+<td><a href="http://arxiv.org/abs/2401.16914">2401.16914</a></td>
 </tr>
 </tbody></table>

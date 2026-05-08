@@ -131,7 +131,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Anna Kurowská et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01940">2602.01940</a></td>
 </tr>
@@ -245,7 +245,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16197.html">Stability by Design: Atomistic Insights into Hydrolysis-Driven MOF Degradation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16197.html">Stability by Design: Atomistic Insights into Hydrolysis-Driven MOF Degradation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Ashok Yacham et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16197">2507.16197</a></td>
 </tr>

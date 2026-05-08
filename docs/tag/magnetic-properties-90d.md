@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -280,6 +280,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2602.16899">2602.16899</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18351.html">Nb$_3$Sn Films Exhibiting Continuous Supercurrent Across a Diffusion Bonded Seam</a></div></td>
+<td>Andre Juliao et al.</td>
+<td><a href="http://arxiv.org/abs/2603.18351">2603.18351</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16132.html">Pressure-driven vibrational and structural peculiarities in the honeycomb layered magnetoelectrics Mn4(B)2O9 (B= Nb, Ta)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Rajesh Jana et al.</td>
@@ -521,7 +527,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11932.html">Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11932.html">Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Francisco Munoz et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11932">2602.11932</a></td>
 </tr>

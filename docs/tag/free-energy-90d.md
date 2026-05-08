@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05746.html">Polarizable atomic multipoles for learning long-range electrostatics</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Dongjin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05746">2605.05746</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25215.html">A density-functional perspective on force fields</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -29,13 +35,13 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24634.html">Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24634.html">Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Simon Axelrod et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24634">2604.24634</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21441.html">Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21441.html">Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Lukas Müllender et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21441">2604.21441</a></td>
 </tr>
@@ -101,9 +107,15 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17076.html">Predicting Solvation Free Energies of Molecules and Ions via First-Principles and Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17076.html">Predicting Solvation Free Energies of Molecules and Ions via First-Principles and Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Junting Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17076">2604.17076</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05717.html">Comparing the latent features of universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Sofiia Chorna et al.</td>
+<td><a href="http://arxiv.org/abs/2512.05717">2512.05717</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-16</td>
@@ -137,7 +149,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12639.html">Exact tunneling splittings from path-integral hybrid Monte Carlo with enveloping bridging potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12639.html">Exact tunneling splittings from path-integral hybrid Monte Carlo with enveloping bridging potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Yu-Chen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12639">2604.12639</a></td>
 </tr>
@@ -179,7 +191,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14205.html">Teachers that teach the irrelevant: Pre-training machine learned interaction potentials with classical force fields for robust molecular dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14205.html">Teachers that teach the irrelevant: Pre-training machine learned interaction potentials with classical force fields for robust molecular dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Eric C. -Y. Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14205">2509.14205</a></td>
 </tr>
@@ -287,7 +299,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Hyukjun Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25980">2603.25980</a></td>
 </tr>
@@ -347,7 +359,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18076.html">Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18076.html">Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
 <td>Shengjie Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18076">2603.18076</a></td>
 </tr>
@@ -365,7 +377,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23930.html">Assessing generative modeling approaches for free energy estimates in condensed matter</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23930.html">Assessing generative modeling approaches for free energy estimates in condensed matter</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Maximilian Schebek et al.</td>
 <td><a href="http://arxiv.org/abs/2512.23930">2512.23930</a></td>
 </tr>
@@ -383,7 +395,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13549.html">Adaptive tensor train metadynamics for high-dimensional free energy exploration</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13549.html">Adaptive tensor train metadynamics for high-dimensional free energy exploration</a></div><div class="paper-tags"><a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Nils E. Strand et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13549">2603.13549</a></td>
 </tr>
@@ -413,7 +425,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19906.html">Collective Variable-Guided Engineering of the Free-Energy Surface of a Small Peptide</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19906.html">Collective Variable-Guided Engineering of the Free-Energy Surface of a Small Peptide</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
 <td>Muralika Medaparambath et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19906">2602.19906</a></td>
 </tr>
@@ -455,7 +467,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Polina V. Banushkina et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
 </tr>
@@ -479,7 +491,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02383.html">Extrapolating molecular dynamics simulations to zero time step and across thermodynamic space</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02383.html">Extrapolating molecular dynamics simulations to zero time step and across thermodynamic space</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
 <td>Kush Coshic et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02383">2603.02383</a></td>
 </tr>
@@ -527,13 +539,13 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20058.html">The effect of the A-site cation on the phase transition temperature of metal halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20058.html">The effect of the A-site cation on the phase transition temperature of metal halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Tom Braeckevelt et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20058">2602.20058</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Seonghyun Park et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07390">2507.07390</a></td>
 </tr>
@@ -563,7 +575,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12835.html">Estimating Full Path Lengths and Kinetics from Partial Path Transition Interface Sampling Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12835.html">Estimating Full Path Lengths and Kinetics from Partial Path Transition Interface Sampling Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
 <td>Wouter Vervust et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12835">2602.12835</a></td>
 </tr>
@@ -581,7 +593,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18171.html">Computing solvation free energies of small molecules with experimental accuracy</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18171.html">Computing solvation free energies of small molecules with experimental accuracy</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>J. Harry Moore et al.</td>
 <td><a href="http://arxiv.org/abs/2405.18171">2405.18171</a></td>
 </tr>
@@ -596,47 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10307.html">Vibrational frequencies and stark tuning rate with continuum electro-chemical models and grand canonical density functional theory</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Mouyi Weng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10307">2509.10307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01400.html">exaPD: A highly parallelizable workflow for multi-element phase diagram (PD) construction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Feng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01400">2510.01400</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05793.html">Generalized Path Reweighting and History-Dependent Free Energies</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Titus S. van Erp et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05793">2602.05793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06149.html">Kohn-Sham density encoding rescues coupled cluster theory for strongly correlated molecules</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Abdulrahman Y. Zamani et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06149">2602.06149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10433.html">Routes to the density profile and structural inconsistency</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>S. M. Tschopp et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10433">2511.10433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03312.html">Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Daniel D. Richman et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03312">2512.03312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01165.html">Noise-Resilient Quantum Chemistry with Half the Qubits</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Shane McFarthing et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01165">2602.01165</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04861.html">From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ryan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04861">2602.04861</a></td>
 </tr>
 </tbody></table>

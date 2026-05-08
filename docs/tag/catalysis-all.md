@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">526 papers</span>
+  <span class="paper-count">527 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -161,7 +161,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="mlip-all.html">mlip</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Jonah Marks et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
 </tr>
@@ -233,7 +233,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09233.html">$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09233.html">$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Konstantin Lion et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09233">2510.09233</a></td>
 </tr>
@@ -365,7 +365,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Hafiz Sami Ur Rehman et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00271">2603.00271</a></td>
 </tr>
@@ -599,7 +599,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13845.html">Interpretable, Physics-Informed Learning Reveals Sulfur Adsorption and Poisoning Mechanisms in 13-Atom Icosahedra Nanoclusters</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13845.html">Interpretable, Physics-Informed Learning Reveals Sulfur Adsorption and Poisoning Mechanisms in 13-Atom Icosahedra Nanoclusters</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Raiane Ferreira Monteiro et al.</td>
 <td><a href="http://arxiv.org/abs/2601.13845">2601.13845</a></td>
 </tr>
@@ -809,7 +809,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04794.html">Teaching a Transformer to Think Like a Chemist: Predicting Nanocluster Stability</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04794.html">Teaching a Transformer to Think Like a Chemist: Predicting Nanocluster Stability</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>João Marcos T. Palheta et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04794">2512.04794</a></td>
 </tr>
@@ -1301,7 +1301,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11380.html">Si-Substituted MAX Phases and In-Situ Formation of Si-coated MXene Composites via Chlorosilane Etching</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11380.html">Si-Substituted MAX Phases and In-Situ Formation of Si-coated MXene Composites via Chlorosilane Etching</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Xudong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11380">2509.11380</a></td>
 </tr>
@@ -1415,7 +1415,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13034.html">How reactive is water at the nanoscale and how to control it?</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13034.html">How reactive is water at the nanoscale and how to control it?</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Xavier R. Advincula et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13034">2508.13034</a></td>
 </tr>
@@ -1919,7 +1919,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13575.html">Autodifferentiable Geometric Restraints for Enhanced Sampling Simulations with Classical and Machine Learned Force Fields</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13575.html">Autodifferentiable Geometric Restraints for Enhanced Sampling Simulations with Classical and Machine Learned Force Fields</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="metadynamics-all.html">metadynamics</a></div></td>
 <td>Gustavo R. Pérez-Lemus et al.</td>
 <td><a href="http://arxiv.org/abs/2504.13575">2504.13575</a></td>
 </tr>
@@ -2123,7 +2123,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00734.html">First Principles Reactive Flux Theory for Surface Reactions: Multiple Channels and Recrossing Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00734.html">First Principles Reactive Flux Theory for Surface Reactions: Multiple Channels and Recrossing Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Chen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2503.00734">2503.00734</a></td>
 </tr>
@@ -2872,6 +2872,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.16643">2406.16643</a></td>
 </tr>
 <tr class="paper">
+<td>2024-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18935.html">A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery</a></div></td>
+<td>Parastoo Semnani et al.</td>
+<td><a href="http://arxiv.org/abs/2407.18935">2407.18935</a></td>
+</tr>
+<tr class="paper">
 <td>2024-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06578.html">QCD with (2+1) flavors at the physical point in external chromomagnetic fields</a></div></td>
 <td>Paolo Cea et al.</td>
@@ -3065,7 +3071,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08693.html">Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08693.html">Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Brieuc Le Dé et al.</td>
 <td><a href="http://arxiv.org/abs/2405.08693">2405.08693</a></td>
 </tr>

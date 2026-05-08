@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,6 +260,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24360.html">Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Ian Störmer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24360">2603.24360</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24638.html">How unconstrained machine-learning models learn physical symmetries</a></div></td>
+<td>Michelangelo Domina et al.</td>
+<td><a href="http://arxiv.org/abs/2603.24638">2603.24638</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
@@ -560,35 +566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18472.html">Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Shunqi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18472">2602.18472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18647.html">STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Kiet Bennema ten Brinke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18647">2505.18647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05702.html">Broken neural scaling laws in materials science</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Max Großmann et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05702">2602.05702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05811.html">STProtein: predicting spatial protein expression from multi-omics data</a></div></td>
-<td>Zhaorui Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05811">2602.05811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08458.html">Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Pallabee Das et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08458">2508.08458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04734.html">DMFlow: Disordered Materials Generation by Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04734">2602.04734</a></td>
 </tr>
 </tbody></table>

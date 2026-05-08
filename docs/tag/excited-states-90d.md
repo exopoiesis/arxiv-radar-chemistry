@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,7 +17,7 @@ current_window: 90d
 <tbody>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="photocatalysis-90d.html">photocatalysis</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="photocatalysis-90d.html">photocatalysis</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Nico Yannik Merkt</td>
 <td><a href="http://arxiv.org/abs/2604.26428">2604.26428</a></td>
 </tr>
@@ -221,6 +221,12 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20055.html">Occupancy Extrapolation: Reaching Many Excited Electronic States from Ground State Calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Yichen Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2603.20055">2603.20055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26265.html">Inelastic nucleon-nucleus scattering from a microscopic point of view</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Matteo Vorabbi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26265">2603.26265</a></td>
@@ -268,10 +274,22 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2502.05144">2502.05144</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15879.html">Velocity Gauge for Oscillator Strength in $Δ$SCF theory</a></div></td>
+<td>Yang Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2603.15879">2603.15879</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14802.html">Ultrafast optically induced tunneling in narrow metallic gaps from the time dependent density functional perspective</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Boyang Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14802">2509.14802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12859.html">Auger Spectroscopy via Generative Quantum Eigensolver: A Quantum Approach to Molecular Excitations</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Kimberlee Keithley et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12859">2603.12859</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-12</td>
@@ -410,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07317.html">Analyzing Band Gaps in Ensemble Density Functional Theory using Thermodynamic Limits of Finite One-Dimensional Model Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Gregory G. V. Kenning et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07317">2602.07317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11501.html">Gating upconversion electroluminescence in a single molecule via adsorption-induced interaction of unpaired spin</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Vibhuti N. Rai et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11501">2508.11501</a></td>
 </tr>
 </tbody></table>

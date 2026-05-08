@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-space — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <strong>90d</strong> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mof-90d.html">mof</a></div></td>
 <td>Seunghee Han et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05717.html">Comparing the latent features of universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Sofiia Chorna et al.</td>
+<td><a href="http://arxiv.org/abs/2512.05717">2512.05717</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-17</td>
@@ -113,13 +119,13 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23442.html">Structural Chart of Copper-Silver Nanoalloys through machine learning</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23442.html">Structural Chart of Copper-Silver Nanoalloys through machine learning</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
 <td>Manoj Settem et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23442">2603.23442</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21207.html">Towards Computational Microscope of Chemical Order-Disorder via ML-Accelerated Monte Carlo Simulation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21207.html">Towards Computational Microscope of Chemical Order-Disorder via ML-Accelerated Monte Carlo Simulation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Fanli Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21207">2603.21207</a></td>
 </tr>
@@ -208,6 +214,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2601.21527">2601.21527</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02089.html">High-quality, high-information datasets for universal atomistic machine learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Cesare Malosso et al.</td>
+<td><a href="http://arxiv.org/abs/2603.02089">2603.02089</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00857.html">MultiPUFFIN: A Multimodal Domain-Constrained Foundation Model for Molecular Property Prediction of Small Molecules</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Idelfonso B. R. Nogueira et al.</td>
@@ -215,7 +227,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Yuchen Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00614">2603.00614</a></td>
 </tr>
@@ -260,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07753.html">Sequential versus Manifold Bayesian Optimization under Realistic Experimental Time Constraints</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Boris Slautin et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07753">2602.07753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16301.html">Artificial Intelligence for Direct Prediction of Molecular Dynamics Across Chemical Space</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Fuchun Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16301">2505.16301</a></td>
 </tr>
 </tbody></table>

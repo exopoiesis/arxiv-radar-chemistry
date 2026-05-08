@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Mihail Bogojeski et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24607.html">Errors that matter: Uncertainty-aware universal machine-learning potentials calibrated on experiments</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Matthias Kellner et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24607">2604.24607</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-26</td>
@@ -221,7 +227,7 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Sikander Azam et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09226">2604.09226</a></td>
 </tr>
@@ -230,35 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08744.html">Active Learning for Generalizable Detonation Performance Prediction of Energetic Materials</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>R. Seaton Ullberg et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08744">2604.08744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14155.html">The Python Simulations of Chemistry Framework: 10 years of an open-source quantum chemistry project</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Qiming Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14155">2603.14155</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04860.html">Proton Quantum Effects in H$_3$S Electronic Structure: A Multicomponent DFT study via Nuclear-Electronic Orbital Method</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Jianhang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04860">2604.04860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05193.html">Understanding insulating ferromagnetism in LaCoO3 films under tensile strain</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Ali Barooni et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05193">2604.05193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05220.html">Many-body description of two-dimensional van der Waals ferroelectric $α-$In$_2$Se$_3$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Denzel Ayala et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05220">2604.05220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05264.html">Stability and superstructural ordering of alkali-triel-pnictide clathrates A$_8$T$_{27}$Pn$_{19}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Frank Cerasoli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05264">2604.05264</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">276 papers</span>
+  <span class="paper-count">279 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05746.html">Polarizable atomic multipoles for learning long-range electrostatics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Dongjin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05746">2605.05746</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26560.html">Unraveling the symmetry of Al5C3N</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
@@ -50,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17994.html">SWORD: Symmetry and Wyckoff-sequence of Ordered and Disordered crystals</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Yuyao Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17994">2604.17994</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18865.html">Electrochemical reactions under reverse bias create additional mobile ions that enable hole tunneling in metal halide perovskite diodes</a></div></td>
+<td>Kell Fremouw et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18865">2604.18865</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-16</td>
@@ -125,7 +137,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06360.html">Influence of Manganese Content on Plastic Deformation Mechanisms in Polycrystalline α-Ti-Mn Alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06360.html">Influence of Manganese Content on Plastic Deformation Mechanisms in Polycrystalline α-Ti-Mn Alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>G. Marković et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06360">2604.06360</a></td>
 </tr>
@@ -359,7 +371,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20058.html">The effect of the A-site cation on the phase transition temperature of metal halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20058.html">The effect of the A-site cation on the phase transition temperature of metal halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="replica-exchange-360d.html">replica-exchange</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Tom Braeckevelt et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20058">2602.20058</a></td>
 </tr>
@@ -419,7 +431,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19594.html">Impact of interface defects on the band alignment and performance of TiO$_2$/MAPI/Cu$_2$O perovskite solar cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19594.html">Impact of interface defects on the band alignment and performance of TiO$_2$/MAPI/Cu$_2$O perovskite solar cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Nicolae Filipoiu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.19594">2406.19594</a></td>
 </tr>
@@ -563,7 +575,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08115.html">Symmetry-aware Conditional Generation of Crystal Structures Using Diffusion Models</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08115.html">Symmetry-aware Conditional Generation of Crystal Structures Using Diffusion Models</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Takanori Ishii et al.</td>
 <td><a href="http://arxiv.org/abs/2601.08115">2601.08115</a></td>
 </tr>
@@ -719,7 +731,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05664.html">Improving 2D-ness to enhance thermopower in oxide superlattices</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05664.html">Improving 2D-ness to enhance thermopower in oxide superlattices</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Dongwon Shin et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05664">2512.05664</a></td>
 </tr>
@@ -794,6 +806,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18526.html">Ab initio modeling of resonant inelastic x-ray scattering from Ca2RuO4</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>D. A. Kukusta et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18526">2511.18526</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20327.html">MXtalTools: A Toolkit for Machine Learning on Molecular Crystals</a></div></td>
+<td>Michael Kilgour et al.</td>
+<td><a href="http://arxiv.org/abs/2511.20327">2511.20327</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-25</td>
@@ -965,7 +983,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18038.html">Tuning Magnetic and Electronic Properties of Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18038.html">Tuning Magnetic and Electronic Properties of Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Sromona Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18038">2509.18038</a></td>
 </tr>
@@ -1001,7 +1019,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08960.html">Collective Variables Based on Multipole Expansion of Ewald Summation for Crystallization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08960.html">Collective Variables Based on Multipole Expansion of Ewald Summation for Crystallization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>YaoKun Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08960">2510.08960</a></td>
 </tr>
@@ -1433,7 +1451,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00318.html">Termination-Dependent Resistive Switching in SrTiO$_3$ Valence Change Memory Cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00318.html">Termination-Dependent Resistive Switching in SrTiO$_3$ Valence Change Memory Cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Marko Mladenović et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00318">2507.00318</a></td>
 </tr>
@@ -1612,6 +1630,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2502.02056">2502.02056</a></td>
 </tr>
 <tr class="paper">
+<td>2025-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17991.html">Efficient local atomic cluster expansion for BaTiO$_3$ close to equilibrium</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Anna Grünebohm et al.</td>
+<td><a href="http://arxiv.org/abs/2505.17991">2505.17991</a></td>
+</tr>
+<tr class="paper">
 <td>2025-05-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16695.html">Small hole polarons in yellow phase $δ$-CsPbI$_3$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yun Liu</td>
@@ -1643,7 +1667,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Yu Xin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09161">2505.09161</a></td>
 </tr>
@@ -1664,11 +1688,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09362.html">Optoelectronic properties and performance optimization for photovoltaic applications of R3m-RbGeX$_3$ (X = Cl, Br, I) perovskites: A combined DFT and SCAPS-1D study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Piyush Kumar Dash et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09362">2505.09362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07442.html">DiffCrysGen: A Score-Based Diffusion Model for Design of Diverse Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07442">2505.07442</a></td>
 </tr>
 </tbody></table>

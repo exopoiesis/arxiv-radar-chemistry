@@ -1,4 +1,79 @@
 {
+ "2402.07472": {
+  "abstract": "Machine learning interatomic potentials are revolutionizing large-scale, accurate atomistic modelling in material science and chemistry. Many potentials use atomic cluster expansion or equivariant message passing frameworks. Such frameworks typically use spherical harmonics as angular basis functions, and then use Clebsch-Gordan contraction to maintain rotational symmetry, which may introduce redundancies in representations and computational overhead. We propose an alternative: a Cartesian-coordinates-based atomic density expansion. This approach provides a complete set of polynormially indepedent features of atomic environments while maintaining interaction body orders. Additionally, we integrate low-dimensional embeddings of various chemical elements and inter-atomic message passing. The resulting potential, named Cartesian Atomic Cluster Expansion (CACE), exhibits good accuracy, stability, and generalizability. We validate its performance in diverse systems, including bulk water, small molecules, and 25-element high-entropy alloys.",
+  "authors": [
+   "Bingqing Cheng"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Bingqing Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2402.07472",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-02-12",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Cartesian atomic cluster expansion for machine learning interatomic potentials",
+  "topics": [
+   "via:author-whitelist:MLIPs, water, free energy"
+  ],
+  "updated": "2024-07-30"
+ },
+ "2402.08829": {
+  "abstract": "Directed percolation (DP), a universality class of continuous phase transitions, has recently been established as a possible route to turbulence in subcritical wall-bounded flows. In canonical straight pipe or planar flows, the transition occurs via discrete large-scale turbulent structures, known as puffs in pipe flow or bands in planar flows, which either self-replicate or laminarize. However, these processes might not be universal to all subcritical shear flows. Here, we design a numerical experiment that eliminates discrete structures in plane Couette flow and show that it follows a different, simpler transition scenario: turbulence proliferates via expanding fronts and decays via spontaneous creation of laminar zones. We map this phase transition onto a stochastic one-variable system. The level of turbulent fluctuations dictates whether moving-front transition is discontinuous, or continuous and within the DP universality class, with profound implications for other hydrodynamic systems.",
+  "authors": [
+   "Sébastien Gomé",
+   "Aliénor Rivière",
+   "Laurette S. Tuckerman",
+   "Dwight Barkley"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Sébastien Gomé",
+  "pdf_url": "http://arxiv.org/pdf/2402.08829",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-02-13",
+  "tags": [
+   "phase-transition"
+  ],
+  "title": "Phase transition to turbulence via moving fronts",
+  "topics": [
+   "via:author-whitelist:Grotthuss, AIMD"
+  ],
+  "updated": "2024-07-02"
+ },
+ "2402.17404": {
+  "abstract": "We present a generative diffusion model specifically tailored to the discovery of surface structures. The generative model takes into account substrate registry and periodicity by including masked atoms and $z$-directional confinement. Using a rotational equivariant neural network architecture, we design a method that trains a denoiser-network for diffusion alongside a force-field for guided sampling of low-energy surface phases. An effective data-augmentation scheme for training the denoiser-network is proposed to scale generation far beyond structure sizes represented in the training data. We showcase the generative model by investigating multiple surface systems and propose an atomistic structure model for a previously unknown silver-oxide domain-boundary of unprecedented size.",
+  "authors": [
+   "Nikolaj Rønne",
+   "Alán Aspuru-Guzik",
+   "Bjørk Hammer"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Nikolaj Rønne",
+  "pdf_url": "http://arxiv.org/pdf/2402.17404",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-02-27",
+  "tags": [
+   "diffusion-model",
+   "generative-model"
+  ],
+  "title": "Generative diffusion model for surface structure discovery",
+  "topics": [
+   "via:author-whitelist:ML chemistry, autonomous discovery"
+  ],
+  "updated": "2024-07-02"
+ },
  "2403.00925": {
   "abstract": "In this work we examine the nucleation from NaCl aqueous solutions within nano-confined environments, employing enhanced sampling molecular dynamics simulations integrated with machine learning-derived reaction coordinates. Through our simulations, we successfully induce phase transitions between solid, liquid, and a hydrated phase, typically observed at lower temperatures in bulk environments. Interestingly, nano-confinement serves to stabilize the solid phase and elevate melting points. Our simulations explain these findings by underscoring the significant role of water, alongside ion aggregation and subtle, anistropic dielectric behavior, in driving nucleation within nano-constrained environments. This letter thus provides a framework for sampling, analyzing and understanding nucleation processes under nano-confinement.",
   "authors": [
@@ -14,6 +89,7 @@
   "primary_category": "physics.chem-ph",
   "published": "2024-03-01",
   "tags": [
+   "enhanced-sampling",
    "molecular-dynamics",
    "phase-transition"
   ],
@@ -406,6 +482,27 @@
   ],
   "updated": "2024-07-31"
  },
+ "2404.05601": {
+  "abstract": "Cold spray coatings are the sum of countless individual bonding events between single particles impacting on top of one another at high velocities. Thus, the collective behavior of microparticles must be considered to elucidate the origins of coating flaws at the scale of the particles and larger, or the dynamic evolution of the overall coating microstructure. Laser-induced particle impact testing (LIPIT) has been extensively used to study single-particle impacts, and in this work is adapted to study the accumulation of numerous particles with knowledge of each individual particle's impact parameters (particle size, velocity). The method reproducibly deposits stacks of gold particles (>20 particles) with different characteristic spectra of impact velocity. The observation of impact-induced erosion lets us define a critical velocity for material-build-up that is higher than that for single-particle bonding. The quantitative single-particle data are analyzed in a correlative manner to the structure and flaws in the resulting stacks, providing some first statistical connections between, e.g., strain and recrystallization, or aberrant particle characteristics and defects. The results highlight opportunities for the study of many-particle phenomena in microparticle impact -- from interaction of particles in cold spray to multi-step erosion processes -- with a quantitative view of the behavior of single particles.",
+  "authors": [
+   "Alain Reiser",
+   "Christopher Allan Schuh"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Alain Reiser",
+  "pdf_url": "http://arxiv.org/pdf/2404.05601",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-04-08",
+  "tags": [],
+  "title": "Towards an understanding of particle-scale flaws and microstructure evolution in cold-spray via accumulation of single particle impacts",
+  "topics": [
+   "via:author-whitelist:GNN benchmarking, materials ML"
+  ],
+  "updated": "2024-07-24"
+ },
  "2404.06266": {
   "abstract": "A procedure for quantifying the U $5f$ electrons' covalence and degree of localization in U intermetallic compounds is presented. To this end, bulk sensitive hard and soft x-ray photoelectron spectroscopy were utilized in combination with density-functional theory (DFT) plus dynamical mean-field theory (DMFT) calculations. The energy dependence of the photoionization cross-sections allows the disentanglement of the U\\,$5f$ contribution to the valence band from the various other atomic subshells so that the computational parameters in the DFT\\,+\\,DMFT can be reliably determined. Applying this method to UGa$_2$ and UB$_2$ as model compounds from opposite ends of the (de)localization range, we have achieved excellent simulations of the valence band and core-level spectra. The width in the distribution of atomic U\\,$5f$ configurations contributing to the ground state, as obtained from the calculations, quantifies the correlated nature and degree of localization of the U\\,5$f$. The findings permit answering the longstanding question why different spectroscopic techniques give seemingly different numbers for the U 5$f$ valence in intermetallic U compounds.",
   "authors": [
@@ -526,6 +623,7 @@
   "published": "2024-04-10",
   "tags": [
    "drug-discovery",
+   "enhanced-sampling",
    "molecular-dynamics",
    "structure-prediction"
   ],
@@ -1258,6 +1356,46 @@
   ],
   "updated": "2024-07-10"
  },
+ "2405.15224": {
+  "abstract": "Atomic-scale simulations have progressed tremendously over the past decade, largely due to the availability of machine-learning interatomic potentials. These potentials combine the accuracy of electronic structure calculations with the ability to reach extensive length and time scales. The i-PI package facilitates integrating the latest developments in this field with advanced modeling techniques, thanks to a modular software architecture based on inter-process communication through a socket interface. The choice of Python for implementation facilitates rapid prototyping but can add computational overhead. In this new release, we carefully benchmarked and optimized i-PI for several common simulation scenarios, making such overhead negligible when i-PI is used to model systems up to tens of thousands of atoms using widely adopted machine learning interatomic potentials, such as Behler-Parinello, DeePMD and MACE neural networks. We also present the implementation of several new features, including an efficient algorithm to model bosonic and fermionic exchange, a framework for uncertainty quantification to be used in conjunction with machine-learning potentials, a communication infrastructure that allows deeper integration with electronic-driven simulations, and an approach to simulate coupled photon-nuclear dynamics in optical or plasmonic cavities.",
+  "authors": [
+   "Yair Litman",
+   "Venkat Kapil",
+   "Yotam M. Y. Feldman",
+   "Davide Tisi",
+   "Tomislav Begušić",
+   "Karen Fidanyan",
+   "Guillaume Fraux",
+   "Jacob Higer",
+   "Matthias Kellner",
+   "Tao E. Li",
+   "Eszter S. Pós",
+   "Elia Stocco",
+   "George Trenins",
+   "Barak Hirshberg",
+   "Mariana Rossi",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yair Litman",
+  "pdf_url": "http://arxiv.org/pdf/2405.15224",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-24",
+  "tags": [
+   "dft",
+   "electronic-structure",
+   "mlip"
+  ],
+  "title": "i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations",
+  "topics": [
+   "via:author-whitelist:PIMD, MLIPs, water"
+  ],
+  "updated": "2024-07-10"
+ },
  "2405.15341": {
   "abstract": "In the rapidly evolving landscape of AI research and application, Multimodal Large Language Models (MLLMs) have emerged as a transformative force, adept at interpreting and integrating information from diverse modalities such as text, images, and Graphical User Interfaces (GUIs). Despite these advancements, the nuanced interaction and understanding of GUIs pose a significant challenge, limiting the potential of existing models to enhance automation levels. To bridge this gap, this paper presents V-Zen, an innovative Multimodal Large Language Model (MLLM) meticulously crafted to revolutionise the domain of GUI understanding and grounding. Equipped with dual-resolution image encoders, V-Zen establishes new benchmarks in efficient grounding and next-action prediction, thereby laying the groundwork for self-operating computer systems. Complementing V-Zen is the GUIDE dataset, an extensive collection of real-world GUI elements and task-based sequences, serving as a catalyst for specialised fine-tuning. The successful integration of V-Zen and GUIDE marks the dawn of a new era in multimodal AI research, opening the door to intelligent, autonomous computing experiences. This paper extends an invitation to the research community to join this exciting journey, shaping the future of GUI automation. In the spirit of open science, our code, data, and model will be made publicly available, paving the way for multimodal dialogue scenarios with intricate and precise interactions.",
   "authors": [
@@ -1388,7 +1526,8 @@
   "title": "Coarse Grained Molecular Dynamics with Normalizing Flows",
   "topics": [
    "Generative Design & Molecule Optimization",
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:metadynamics co-creator"
   ],
   "updated": "2024-07-26"
  },
@@ -2986,7 +3125,8 @@
   "primary_category": "astro-ph.GA",
   "published": "2024-07-03",
   "tags": [
-   "dft"
+   "dft",
+   "string-method"
   ],
   "title": "In-Depth Exploration of Catalytic Sites on Amorphous Solid Water: I. The Astrosynthesis of Aminomethanol",
   "topics": [
@@ -3278,7 +3418,8 @@
   "published": "2024-07-05",
   "tags": [
    "free-energy",
-   "molecular-dynamics"
+   "molecular-dynamics",
+   "string-method"
   ],
   "title": "DeepLNE++ leveraging knowledge distillation for accelerated multi-state path-like collective variables",
   "topics": [
@@ -3355,7 +3496,8 @@
   "published": "2024-07-05",
   "tags": [
    "ab-initio",
-   "quantum-computing"
+   "quantum-computing",
+   "thermodynamic-integration"
   ],
   "title": "High-throughput magnetic co-doping and design of exchange interactions in a topological insulator",
   "topics": [
@@ -3469,7 +3611,8 @@
   ],
   "title": "Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials",
   "topics": [
-   "Molecular Representation & Learning"
+   "Molecular Representation & Learning",
+   "via:author-whitelist:ML force fields, SchNet"
   ],
   "updated": "2024-07-05"
  },
@@ -4084,6 +4227,7 @@
   "primary_category": "cond-mat.stat-mech",
   "published": "2024-07-08",
   "tags": [
+   "enhanced-sampling",
    "mlip"
   ],
   "title": "Competing nucleation pathways in nanocrystal formation",
@@ -4854,6 +4998,34 @@
    "Generative Design & Molecule Optimization"
   ],
   "updated": "2024-07-10"
+ },
+ "2407.08094": {
+  "abstract": "We introduce the Binless Multidimensional Thermodynamic Integration (BMTI) method for nonparametric, robust, and data-efficient density estimation. BMTI estimates the logarithm of the density by initially computing log-density differences between neighbouring data points. Subsequently, such differences are integrated, weighted by their associated uncertainties, using a maximum-likelihood formulation. This procedure can be seen as an extension to a multidimensional setting of the thermodynamic integration, a technique developed in statistical physics. The method leverages the manifold hypothesis, estimating quantities within the intrinsic data manifold without defining an explicit coordinate map. It does not rely on any binning or space partitioning, but rather on the construction of a neighbourhood graph based on an adaptive bandwidth selection procedure. BMTI mitigates the limitations commonly associated with traditional nonparametric density estimators, effectively reconstructing smooth profiles even in high-dimensional embedding spaces. The method is tested on a variety of complex synthetic high-dimensional datasets, where it is shown to outperform traditional estimators, and is benchmarked on realistic datasets from the chemical physics literature.",
+  "authors": [
+   "Matteo Carli",
+   "Alex Rodriguez",
+   "Alessandro Laio",
+   "Aldo Glielmo"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG",
+   "physics.chem-ph",
+   "physics.data-an"
+  ],
+  "comment": null,
+  "first_author": "Matteo Carli",
+  "pdf_url": "http://arxiv.org/pdf/2407.08094",
+  "primary_category": "stat.ML",
+  "published": "2024-07-10",
+  "tags": [
+   "thermodynamic-integration"
+  ],
+  "title": "Density Estimation via Binless Multidimensional Integration",
+  "topics": [
+   "via:author-whitelist:metadynamics co-creator"
+  ],
+  "updated": "2024-07-14"
  },
  "2407.08310": {
   "abstract": "Bottom-up on-surface synthesis enables the fabrication of carbon nanostructures with atomic precision. Good examples are graphene nanoribbons (GNRs), 1D conjugated polymers, and nanoporous graphenes (NPGs), which are gathering increasing attention for future carbon nanoelectronics. A key step is the ability to manipulate current flow within these nanomaterials. Destructive quantum interference (QI), long studied in the field of single-molecule electronics, has been proposed as the most effective way to achieve such control with molecular-scale precision. However, for practical applications, it is essential that such QI-engineering remains effective near or above room temperature. To assess this important point, here we combine large-scale molecular dynamics simulations and quantum transport calculations and focus our study on NPGs formed as arrays of laterally bonded GNRs. By considering various NPGs with different inter-GNR chemical connections we disentangle the different factors determining electronic transport in these carbon nanomaterials at 300 K. Our findings unequivocally demonstrate that QI survives at room temperature, with thermal vibrations weakly restricting current flow along GNRs while completely blocking transport across GNRs. Our results thus pave the way towards the future realization of QI-engineered carbon nanocircuitry operating at room temperature, which is a fundamental step towards carbon-based nanoelectronics and quantum technologies.",
@@ -6070,7 +6242,8 @@
    "drug-discovery",
    "free-energy",
    "gnn",
-   "protein-ligand"
+   "protein-ligand",
+   "string-method"
   ],
   "title": "SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction",
   "topics": [
@@ -7215,6 +7388,34 @@
    "Protein & Biomolecules"
   ],
   "updated": "2024-07-02"
+ },
+ "2407.13903": {
+  "abstract": "The combined structural and electronic complexity of iron oxides poses many challenges to atomistic modeling. To leverage limitations in terms of the accessible length and time scales, one requires a physically justified interatomic potential which is accurate to correctly account for the complexity of iron-oxygen systems. Such a potential is not yet available in the literature. In this work, we propose a machine-learning potential based on the Atomic Cluster Expansion for modeling the iron-oxygen system, which explicitly accounts for magnetism. We test the potential on a wide range of properties of iron and its oxides, and demonstrate its ability to describe the thermodynamics of systems spanning the whole range of oxygen content and including magnetic degrees of freedom.",
+  "authors": [
+   "Baptiste Bienvenu",
+   "Mira Todorova",
+   "Jörg Neugebauer",
+   "Dierk Raabe",
+   "Matous Mrovec",
+   "Yury Lysogorskiy",
+   "Ralf Drautz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Manuscript: 14 pages, 9 figures, SI: 6 pages, 7 figures",
+  "first_author": "Baptiste Bienvenu",
+  "pdf_url": "http://arxiv.org/pdf/2407.13903",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-07-18",
+  "tags": [
+   "magnetic-properties"
+  ],
+  "title": "Development of an Atomic Cluster Expansion potential for iron and its oxides",
+  "topics": [
+   "via:author-whitelist:ACE potentials"
+  ],
+  "updated": "2024-07-18"
  },
  "2407.13935": {
   "abstract": "Dynamics of coarse-grained particle systems derived via the Mori-Zwanzig projection formalism commonly take the form of a (generalized) Langevin equation with configuration-dependent friction and diffusion tensors. In this article, we introduce a class of equivariant representations of tensor-valued functions based on the Atomic Cluster Expansion (ACE) framework that allows for efficient learning of such configuration-dependent friction and diffusion tensors from data. Besides satisfying the correct equivariance properties with respect to the Euclidean group E(3), the resulting heat bath models satisfy a fluctuation-dissipation relation. Moreover, our models can be extended to include additional symmetries, such as momentum conservation, to preserve the hydrodynamic properties of the particle system. We demonstrate the capabilities of the model by constructing a model of configuration-dependent tensorial electronic friction calculated from first principles that arises during reactive molecular dynamics at metal surfaces.",
@@ -8834,7 +9035,8 @@
   ],
   "title": "Reverse non-equilibrium molecular dynamics simulations of a melt of Kremer-Grest type model under fast shear",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:MD methodology"
   ],
   "updated": "2024-07-24"
  },
@@ -9645,6 +9847,38 @@
   ],
   "updated": "2024-07-08"
  },
+ "2407.18935": {
+  "abstract": "The successful application of machine learning (ML) in catalyst design relies on high-quality and diverse data to ensure effective generalization to novel compositions, thereby aiding in catalyst discovery. However, due to complex interactions, catalyst design has long relied on trial-and-error, a costly and labor-intensive process leading to scarce data that is heavily biased towards undesired, low-yield catalysts. Despite the rise of ML in this field, most efforts have not focused on dealing with the challenges presented by such experimental data. To address these challenges, we introduce a robust machine learning and explainable AI (XAI) framework to accurately classify the catalytic yield of various compositions and identify the contributions of individual components. This framework combines a series of ML practices designed to handle the scarcity and imbalance of catalyst data. We apply the framework to classify the yield of various catalyst compositions in oxidative methane coupling, and use it to evaluate the performance of a range of ML models: tree-based models, logistic regression, support vector machines, and neural networks. These experiments demonstrate that the methods used in our framework lead to a significant improvement in the performance of all but one of the evaluated models. Additionally, the decision-making process of each ML model is analyzed by identifying the most important features for predicting catalyst performance using XAI methods. Our analysis found that XAI methods, providing class-aware explanations, such as Layer-wise Relevance Propagation, identified key components that contribute specifically to high-yield catalysts. These findings align with chemical intuition and existing literature, reinforcing their validity. We believe that such insights can assist chemists in the development and identification of novel catalysts with superior performance.",
+  "authors": [
+   "Parastoo Semnani",
+   "Mihail Bogojeski",
+   "Florian Bley",
+   "Zizheng Zhang",
+   "Qiong Wu",
+   "Thomas Kneib",
+   "Jan Herrmann",
+   "Christoph Weisser",
+   "Florina Patcas",
+   "Klaus-Robert Müller"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Parastoo Semnani",
+  "pdf_url": "http://arxiv.org/pdf/2407.18935",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-07-10",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery",
+  "topics": [
+   "via:author-whitelist:ML force fields, SchNet"
+  ],
+  "updated": "2024-07-10"
+ },
  "2407.19073": {
   "abstract": "Binding affinity optimization is crucial in early-stage drug discovery. While numerous machine learning methods exist for predicting ligand potency, their comparative efficacy remains unclear. This study evaluates the performance of classical tree-based models and advanced neural networks in protein-ligand binding affinity prediction. Our comprehensive benchmarking encompasses 2D models utilizing ligand-only RDKit embeddings and Large Language Model (LLM) ligand representations, as well as 3D neural networks incorporating bound protein-ligand conformations. We assess these models across multiple standard datasets, examining various predictive scenarios including classification, ranking, regression, and active learning. Results indicate that simpler models can surpass more complex ones in specific tasks, while 3D models leveraging structural information become increasingly competitive with larger training datasets containing compounds with labelled affinity data against multiple targets. Pre-trained 3D models, by incorporating protein pocket environments, demonstrate significant advantages in data-scarce scenarios for specific binding pockets. Additionally, LLM pretraining on 2D ligand data enhances complex model performance, providing versatile embeddings that outperform traditional RDKit features in computational efficiency. Finally, we show that combining 2D and 3D model strengths improves active learning outcomes beyond current state-of-the-art approaches. These findings offer valuable insights for optimizing machine learning strategies in drug discovery pipelines.",
   "authors": [
@@ -10218,7 +10452,8 @@
   ],
   "title": "$Δ$-Machine Learning to Elevate DFT-based Potentials and a Force Field to the CCSD(T) Level Illustrated for Ethanol",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:vdW, ML force fields"
   ],
   "updated": "2024-07-29"
  },
@@ -10594,6 +10829,7 @@
   "tags": [
    "molecular-dynamics",
    "thermal-properties",
+   "thermodynamic-integration",
    "vdw-correction"
   ],
   "title": "Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms",

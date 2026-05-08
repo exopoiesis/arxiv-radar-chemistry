@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-model — all</h1>
-  <span class="paper-count">726 papers</span>
+  <span class="paper-count">730 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -269,7 +269,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="generative-model-all.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="generative-model-all.html">generative-model</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Hyukjun Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25980">2603.25980</a></td>
 </tr>
@@ -659,7 +659,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a> · <a href="string-method-all.html">string-method</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Elio Moreau et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22122">2602.22122</a></td>
 </tr>
@@ -755,7 +755,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="umbrella-sampling-all.html">umbrella-sampling</a></div></td>
 <td>Yu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16634">2602.16634</a></td>
 </tr>
@@ -1184,6 +1184,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15737.html">Enzyme-Substrate Complex Formation Modulates Diffusion-Driven Patterning In Metabolic Pathways</a></div></td>
 <td>Faezeh Farivar</td>
 <td><a href="http://arxiv.org/abs/2512.15737">2512.15737</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20003.html">Control Variate Score Matching for Diffusion Models</a></div></td>
+<td>Khaled Kahouli et al.</td>
+<td><a href="http://arxiv.org/abs/2512.20003">2512.20003</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-20</td>
@@ -2225,7 +2231,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20130.html">Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="generative-model-all.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20130.html">Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="generative-model-all.html">generative-model</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Yi He et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20130">2507.20130</a></td>
 </tr>
@@ -2432,6 +2438,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00751.html">InstructAttribute: Fine-grained Object Attributes editing with Instruction</a></div></td>
 <td>Xingxi Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00751">2505.00751</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17140.html">MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>David Jacob Drexlin et al.</td>
+<td><a href="http://arxiv.org/abs/2506.17140">2506.17140</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-19</td>
@@ -3761,7 +3773,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.14088.html">Protein Conformation Generation via Force-Guided SE(3) Diffusion Models</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.14088.html">Protein Conformation Generation via Force-Guided SE(3) Diffusion Models</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Yan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2403.14088">2403.14088</a></td>
 </tr>
@@ -4052,6 +4064,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03300.html">DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Yilun Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03300">2407.03300</a></td>
+</tr>
+<tr class="paper">
+<td>2024-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.17404.html">Generative diffusion model for surface structure discovery</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Nikolaj Rønne et al.</td>
+<td><a href="http://arxiv.org/abs/2402.17404">2402.17404</a></td>
 </tr>
 <tr class="paper">
 <td>2024-07-01</td>
@@ -4370,5 +4388,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06481.html">GeoDirDock: Guiding Docking Along Geodesic Paths</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Raúl Miñán et al.</td>
 <td><a href="http://arxiv.org/abs/2404.06481">2404.06481</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08708.html">Zero Shot Molecular Generation via Similarity Kernels</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Rokas Elijošius et al.</td>
+<td><a href="http://arxiv.org/abs/2402.08708">2402.08708</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,18 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.01367">2605.01367</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25610.html">Optimizing ground state preparation protocols with autoresearch</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Luis Mantilla Calderón et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25610">2604.25610</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25884.html">QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding</a></div></td>
+<td>Shuxiang Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25884">2604.25884</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07890.html">Quantum circuit synthesis for fermionic excitations in coupled cluster theory using the Jordan-Wigner mapping</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Yu-Hao Chen et al.</td>
@@ -71,7 +83,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Narjes Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
 </tr>
@@ -236,17 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12465.html">Probabilistic Design of Parametrized Quantum Circuits through Local Gate Modifications</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Grier M. Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12465">2602.12465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22677.html">A Quantum Framework for Protein Binding-Site Structure Prediction on Utility-Level Quantum Processors</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Yuqi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22677">2506.22677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04719.html">Enabling large-scale digital quantum simulations with superconducting qubits</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Laurin E. Fischer</td>
-<td><a href="http://arxiv.org/abs/2602.04719">2602.04719</a></td>
 </tr>
 </tbody></table>

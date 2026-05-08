@@ -395,7 +395,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16930.html">Accelerated Materials Discovery through Cost-Aware Bayesian Optimization of Real-World Indentation Workflows</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16930.html">Accelerated Materials Discovery through Cost-Aware Bayesian Optimization of Real-World Indentation Workflows</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Vivek Chawla et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16930">2511.16930</a></td>
 </tr>
@@ -518,6 +518,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01092.html">Machine Learning-Driven Insights into Excitonic Effects in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Ahsan Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01092">2501.01092</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06546.html">RAISE: A self-driving laboratory for interfacial property formulation discovery</a></div></td>
+<td>Mohammad Nazeri et al.</td>
+<td><a href="http://arxiv.org/abs/2510.06546">2510.06546</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-08</td>
@@ -671,7 +677,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08539.html">Covariance Linkage Assimilation method for Unobserved Data Exploration</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08539.html">Covariance Linkage Assimilation method for Unobserved Data Exploration</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Yosuke Harashima et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08539">2408.08539</a></td>
 </tr>
@@ -752,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13517.html">Data-driven Design of Isotropic and High-Stiffness TPMS-based Amorphousness-Induced Architected Material (TAAM)</a></div></td>
 <td>Minwoo Park et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13517">2505.13517</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06519.html">Interpretable SHAP-bounded Bayesian Optimization for Underwater Acoustic Metamaterial Coating Design</a></div></td>
-<td>Hansani Weeratunge et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06519">2505.06519</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">231 papers</span>
+  <span class="paper-count">233 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -124,6 +124,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2603.22160">2603.22160</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21323.html">Machine-Learned Leftmost Hessian Eigenvectors for Robust Transition State Finding</a></div><div class="paper-tags"><a href="string-method-all.html">string-method</a></div></td>
+<td>Guanchen Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.21323">2603.21323</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05976.html">Physics Enhanced Deep Surrogates for the Phonon Boltzmann Transport Equation</a></div></td>
 <td>Antonio Varagnolo et al.</td>
@@ -179,7 +185,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06953.html">Universal electronic manifolds for extrapolative alloy discovery</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06953.html">Universal electronic manifolds for extrapolative alloy discovery</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Pranoy Ray et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06953">2603.06953</a></td>
 </tr>
@@ -293,7 +299,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08185.html">Autonomous Materials Exploration by Integrating Automated Phase Identification and AI-Assisted Human Reasoning</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08185.html">Autonomous Materials Exploration by Integrating Automated Phase Identification and AI-Assisted Human Reasoning</a></div><div class="paper-tags"><a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Ming-Chiang Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2601.08185">2601.08185</a></td>
 </tr>
@@ -323,7 +329,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03933.html">Material exploration through active learning -- METAL</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03933.html">Material exploration through active learning -- METAL</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="mlip-all.html">mlip</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Joakim Brorsson et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03933">2601.03933</a></td>
 </tr>
@@ -359,7 +365,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15958.html">Active Learning Discovery of High Temperature Oxidation Resistant Refractory Complex Concentrated Alloys</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15958.html">Active Learning Discovery of High Temperature Oxidation Resistant Refractory Complex Concentrated Alloys</a></div><div class="paper-tags"><a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Akhil Bejjipurapu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15958">2512.15958</a></td>
 </tr>
@@ -407,7 +413,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Soumajit Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
 </tr>
@@ -713,7 +719,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Joe Pitfield et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18485">2507.18485</a></td>
 </tr>
@@ -863,7 +869,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10505.html">Weighted Active Space Protocol for Multireference Machine-Learned Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10505.html">Weighted Active Space Protocol for Multireference Machine-Learned Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Aniruddha Seal et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10505">2505.10505</a></td>
 </tr>
@@ -1013,7 +1019,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05370.html">Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05370.html">Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a> · <a href="umbrella-sampling-all.html">umbrella-sampling</a></div></td>
 <td>Alea Miako Tokita et al.</td>
 <td><a href="http://arxiv.org/abs/2503.05370">2503.05370</a></td>
 </tr>
@@ -1127,7 +1133,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16330.html">A constant potential reactor framework for electrochemical reaction simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16330.html">A constant potential reactor framework for electrochemical reaction simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Letian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2411.16330">2411.16330</a></td>
 </tr>
@@ -1178,6 +1184,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13140.html">Let Students Take the Wheel: Introducing Post-Quantum Cryptography with Active Learning</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
 <td>Ainaz Jamshidi et al.</td>
 <td><a href="http://arxiv.org/abs/2410.13140">2410.13140</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10698.html">Random sampling versus active learning algorithms for machine learning potentials of quantum liquid water</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Nore Stolte et al.</td>
+<td><a href="http://arxiv.org/abs/2410.10698">2410.10698</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-04</td>
@@ -1397,7 +1409,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02597.html">Combining transition path sampling with data-driven collective variables through a reactivity-biased shooting algorithm</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02597.html">Combining transition path sampling with data-driven collective variables through a reactivity-biased shooting algorithm</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a></div></td>
 <td>Jintu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2404.02597">2404.02597</a></td>
 </tr>

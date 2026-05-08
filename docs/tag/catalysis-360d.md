@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">301 papers</span>
+  <span class="paper-count">300 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -161,7 +161,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Jonah Marks et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
 </tr>
@@ -233,7 +233,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09233.html">$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09233.html">$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Konstantin Lion et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09233">2510.09233</a></td>
 </tr>
@@ -365,7 +365,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Hafiz Sami Ur Rehman et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00271">2603.00271</a></td>
 </tr>
@@ -599,7 +599,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13845.html">Interpretable, Physics-Informed Learning Reveals Sulfur Adsorption and Poisoning Mechanisms in 13-Atom Icosahedra Nanoclusters</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13845.html">Interpretable, Physics-Informed Learning Reveals Sulfur Adsorption and Poisoning Mechanisms in 13-Atom Icosahedra Nanoclusters</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Raiane Ferreira Monteiro et al.</td>
 <td><a href="http://arxiv.org/abs/2601.13845">2601.13845</a></td>
 </tr>
@@ -809,7 +809,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04794.html">Teaching a Transformer to Think Like a Chemist: Predicting Nanocluster Stability</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04794.html">Teaching a Transformer to Think Like a Chemist: Predicting Nanocluster Stability</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>João Marcos T. Palheta et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04794">2512.04794</a></td>
 </tr>
@@ -1301,7 +1301,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11380.html">Si-Substituted MAX Phases and In-Situ Formation of Si-coated MXene Composites via Chlorosilane Etching</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11380.html">Si-Substituted MAX Phases and In-Situ Formation of Si-coated MXene Composites via Chlorosilane Etching</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Xudong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11380">2509.11380</a></td>
 </tr>
@@ -1415,7 +1415,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13034.html">How reactive is water at the nanoscale and how to control it?</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13034.html">How reactive is water at the nanoscale and how to control it?</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xavier R. Advincula et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13034">2508.13034</a></td>
 </tr>
@@ -1814,11 +1814,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08225.html">Nitrogen oxidation on a plasma-exposed surface</a></div></td>
 <td>S. C. L. Vervloedt et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08225">2505.08225</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07419.html">Morphology and Strain Engineering of Cu-based Materials by Chemical Dealloying for Electrochemical CO Reduction</a></div></td>
-<td>Yuxiang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07419">2505.07419</a></td>
 </tr>
 </tbody></table>

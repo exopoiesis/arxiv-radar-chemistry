@@ -26,6 +26,8 @@ import arxiv
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from data_io import (
     is_chemistry_paper,
+    is_whitelisted_author,
+    load_authors_whitelist,
     load_all_months,
     load_keyword_queries as _load_keyword_queries,
     paper_to_record,
@@ -119,6 +121,9 @@ def main():
     matchers = tag_matcher.build_matchers(canonical)
     LOG.info(f"Loaded {total_existing} existing papers across {len(by_month)} months; "
              f"checkpoints: {len(done)}; canonical tags: {len(canonical)}")
+    whitelist = load_authors_whitelist()
+    if whitelist:
+        LOG.info(f"author whitelist: {len(whitelist)} entries")
 
     client = arxiv.Client(page_size=100, delay_seconds=3.0, num_retries=5)
 
@@ -150,6 +155,7 @@ def main():
         added = 0
         topic_merges = 0
         chem_skipped = 0
+        whitelist_admitted = 0
         touched = set()
         for r in results:
             pid, rec = paper_to_record(r)
@@ -162,10 +168,17 @@ def main():
                     topic_merges += 1
                     touched.add(existing_month)
                 continue
-            if not is_chemistry_paper(rec.get("abstract", "")):
-                chem_skipped += 1
-                continue
+            relevant = is_chemistry_paper(rec.get("abstract", ""))
+            wl_note = None
+            if not relevant:
+                wl_note = is_whitelisted_author(rec.get("authors", []), whitelist)
+                if wl_note is None:
+                    chem_skipped += 1
+                    continue
             rec["topics"] = [topic]
+            if wl_note:
+                rec["topics"].append(f"via:author-whitelist:{wl_note}")
+                whitelist_admitted += 1
             rec["tags"] = tag_matcher.match_tags(rec.get("abstract", ""), matchers)
             by_month[paper_month][pid] = rec
             pid_to_month[pid] = paper_month
@@ -177,7 +190,7 @@ def main():
             added += 1
         total_new += added
         total_topic_merges += topic_merges
-        LOG.info(f"  fetched={len(results)} new={added} topic_merges={topic_merges} "
+        LOG.info(f"  fetched={len(results)} new={added} (whitelist={whitelist_admitted}) topic_merges={topic_merges} "
                  f"chem_skipped={chem_skipped} total={sum(len(m) for m in by_month.values())}")
 
         if args.dry_run:

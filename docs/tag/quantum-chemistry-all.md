@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">636 papers</span>
+  <span class="paper-count">638 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,7 +17,7 @@ current_window: all
 <tbody>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="photocatalysis-all.html">photocatalysis</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Nico Yannik Merkt</td>
 <td><a href="http://arxiv.org/abs/2604.26428">2604.26428</a></td>
 </tr>
@@ -29,7 +29,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24634.html">Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24634.html">Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Simon Axelrod et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24634">2604.24634</a></td>
 </tr>
@@ -227,7 +227,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
 <td>Narjes Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
 </tr>
@@ -851,7 +851,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07078.html">Ab Initio Characterization of C2H4N2 Isomers: Structures, electronic energies, spectroscopic parameters and formation pathways</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07078.html">Ab Initio Characterization of C2H4N2 Isomers: Structures, electronic energies, spectroscopic parameters and formation pathways</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Oko Emmanuel Godwin et al.</td>
 <td><a href="http://arxiv.org/abs/2601.07078">2601.07078</a></td>
 </tr>
@@ -1913,7 +1913,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12761.html">Antisymmetry rules of response properties in certain chemical spaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12761.html">Antisymmetry rules of response properties in certain chemical spaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Takafumi Shiraogawa et al.</td>
 <td><a href="http://arxiv.org/abs/2502.12761">2502.12761</a></td>
 </tr>
@@ -2867,7 +2867,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-01-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09372.html">All-Electron Molecular Tunnel Ionization Based on the Weak-Field Asymptotic Theory in the Integral Representation</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09372.html">All-Electron Molecular Tunnel Ionization Based on the Weak-Field Asymptotic Theory in the Integral Representation</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Imam S. Wahyutama et al.</td>
 <td><a href="http://arxiv.org/abs/2408.09372">2408.09372</a></td>
 </tr>
@@ -2885,7 +2885,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-01-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10555.html">Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10555.html">Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Hirofumi Nishi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10555">2407.10555</a></td>
 </tr>
@@ -3383,6 +3383,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01307.html">Experimental and computational study of ethanolamine ices at astrochemical conditions</a></div></td>
+<td>R Ramachandran et al.</td>
+<td><a href="http://arxiv.org/abs/2409.01307">2409.01307</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01436.html">Dynamic Jahn-Teller effect in the strong spin-orbit coupling regime</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Ivica Zivkovic et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01436">2409.01436</a></td>
@@ -3818,6 +3824,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07848.html">Accounting for the Quantum Capacitance of Graphite in Constant Potential Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Kateryna Goloviznina et al.</td>
 <td><a href="http://arxiv.org/abs/2404.07848">2404.07848</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.14793.html">Adaptive hybrid density functionals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
+<td>Danish Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2402.14793">2402.14793</a></td>
 </tr>
 <tr class="paper">
 <td>2024-04-09</td>

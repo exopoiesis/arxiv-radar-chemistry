@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -101,7 +101,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Zhoulin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07077">2604.07077</a></td>
 </tr>
@@ -239,7 +239,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03133.html">Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03133.html">Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Amal Raj Veluthedath Nair et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03133">2603.03133</a></td>
 </tr>
@@ -365,7 +365,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23031.html">Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23031.html">Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Fabrice Roncoroni et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23031">2507.23031</a></td>
 </tr>
@@ -377,7 +377,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17244.html">Practical Considerations for Finite Concentrations Molecular Dynamics Simulations</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17244.html">Practical Considerations for Finite Concentrations Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Xiaoxu Ruan et al.</td>
 <td><a href="http://arxiv.org/abs/2601.17244">2601.17244</a></td>
 </tr>
@@ -472,6 +472,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2512.22680">2512.22680</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00994.html">Calculated state-of-the art results for solvation and ionization energies of thousands of organic molecules relevant to battery design</a></div></td>
+<td>Jan Weinreich et al.</td>
+<td><a href="http://arxiv.org/abs/2411.00994">2411.00994</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17659.html">Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Madhav R. Muthyala et al.</td>
@@ -542,6 +548,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20863.html">Bridging Atomistic and Mesoscale Lithium Transport via Machine-Learned Force Fields and Markov State Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Muhammad Nawaz Qaisrani et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20863">2511.20863</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15402.html">Mechanistic study of mixed lithium halides solid state electrolytes</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Davide Tisi et al.</td>
+<td><a href="http://arxiv.org/abs/2511.15402">2511.15402</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-18</td>
@@ -731,7 +743,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20605.html">Modeling phase transformations in Mn-rich disordered rocksalt cathodes with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20605.html">Modeling phase transformations in Mn-rich disordered rocksalt cathodes with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Peichen Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20605">2506.20605</a></td>
 </tr>
@@ -905,13 +917,13 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Jingchen Lian et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02334">2507.02334</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11199.html">Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11199.html">Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Selva Chandrasekaran Selvaraj et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11199">2506.11199</a></td>
 </tr>
@@ -1013,32 +1025,8 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10967.html">Exploration of amorphous V$_2$O$_5$ as cathode for magnesium batteries</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10967.html">Exploration of amorphous V$_2$O$_5$ as cathode for magnesium batteries</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Vijay Choyal et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10967">2505.10967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13467.html">The Dean-Kawasaki equation and stochastic density functional theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Pierre Illien</td>
-<td><a href="http://arxiv.org/abs/2411.13467">2411.13467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07414.html">Integrating Machine Learning with Triboelectric Nanogenerators: Optimizing Electrode Materials and Doping Strategies for Intelligent Energy Harves</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Guanping Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07414">2505.07414</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07580.html">Optimizing Machine Learning Potentials for Hydroxide Transport: Surprising Efficiency of Single-Concentration Training</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07580">2505.07580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07906.html">Image-Guided Microstructure Optimization using Diffusion Models: Validated with Li-Mn-rich Cathode Precursors</a></div></td>
-<td>Geunho Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07906">2505.07906</a></td>
 </tr>
 </tbody></table>

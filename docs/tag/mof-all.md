@@ -131,7 +131,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Anna Kurowská et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01940">2602.01940</a></td>
 </tr>
@@ -245,7 +245,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16197.html">Stability by Design: Atomistic Insights into Hydrolysis-Driven MOF Degradation</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16197.html">Stability by Design: Atomistic Insights into Hydrolysis-Driven MOF Degradation</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Ashok Yacham et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16197">2507.16197</a></td>
 </tr>
@@ -449,7 +449,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07614.html">Exploration of oxyfluoride frameworks as Na-ion cathodes</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07614.html">Exploration of oxyfluoride frameworks as Na-ion cathodes</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Debolina Deb et al.</td>
 <td><a href="http://arxiv.org/abs/2405.07614">2405.07614</a></td>
 </tr>

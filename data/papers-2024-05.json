@@ -1,4 +1,86 @@
 {
+ "2402.05015": {
+  "abstract": "Automation is one of the cornerstones of contemporary material discovery. Bayesian optimization (BO) is an essential part of such workflows, enabling scientists to leverage prior domain knowledge into efficient exploration of a large molecular space. While such prior knowledge can take many forms, there has been significant fanfare around the ancillary scientific knowledge encapsulated in large language models (LLMs). However, existing work thus far has only explored LLMs for heuristic materials searches. Indeed, recent work obtains the uncertainty estimate -- an integral part of BO -- from point-estimated, non-Bayesian LLMs. In this work, we study the question of whether LLMs are actually useful to accelerate principled Bayesian optimization in the molecular space. We take a sober, dispassionate stance in answering this question. This is done by carefully (i) viewing LLMs as fixed feature extractors for standard but principled BO surrogate models and by (ii) leveraging parameter-efficient finetuning methods and Bayesian neural networks to obtain the posterior of the LLM surrogate. Our extensive experiments with real-world chemistry problems show that LLMs can be useful for BO over molecules, but only if they have been pretrained or finetuned with domain-specific data.",
+  "authors": [
+   "Agustinus Kristiadi",
+   "Felix Strieth-Kalthoff",
+   "Marta Skreta",
+   "Pascal Poupart",
+   "Alán Aspuru-Guzik",
+   "Geoff Pleiss"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "ICML 2024. Code: https://github.com/wiseodd/lapeft-bayesopt",
+  "first_author": "Agustinus Kristiadi",
+  "pdf_url": "http://arxiv.org/pdf/2402.05015",
+  "primary_category": "cs.LG",
+  "published": "2024-02-07",
+  "tags": [
+   "bayesian-optimization"
+  ],
+  "title": "A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?",
+  "topics": [
+   "via:author-whitelist:ML chemistry, autonomous discovery"
+  ],
+  "updated": "2024-05-28"
+ },
+ "2402.16621": {
+  "abstract": "Statistical learning algorithms provide a generally-applicable framework to sidestep time-consuming experiments, or accurate physics-based modeling, but they introduce a further source of error on top of the intrinsic limitations of the experimental or theoretical setup. Uncertainty estimation is essential to quantify this error, and make application of data-centric approaches more trustworthy. To ensure that uncertainty quantification is used widely, one should aim for algorithms that are reasonably accurate, but also easy to implement and apply. In particular, including uncertainty quantification on top of an existing architecture should be straightforward, and add minimal computational overhead. Furthermore, it should be easy to manipulate or combine multiple machine-learning predictions, propagating uncertainty over further modeling steps. We compare several well-established uncertainty quantification frameworks against these requirements, and propose a practical approach, which we dub direct propagation of shallow ensembles, that provides a good compromise between ease of use and accuracy. We present benchmarks for generic datasets, and an in-depth study of applications to the field of atomistic machine learning for chemistry and materials. These examples underscore the importance of using a formulation that allows propagating errors without making strong assumptions on the correlations between different predictions of the model.",
+  "authors": [
+   "Matthias Kellner",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Matthias Kellner",
+  "pdf_url": "http://arxiv.org/pdf/2402.16621",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-02-26",
+  "tags": [],
+  "title": "Uncertainty quantification by direct propagation of shallow ensembles",
+  "topics": [
+   "via:author-whitelist:PIMD, MLIPs, water"
+  ],
+  "updated": "2024-05-16"
+ },
+ "2402.17660": {
+  "abstract": "Achieving a balance between computational speed, prediction accuracy, and universal applicability in molecular simulations has been a persistent challenge. This paper presents substantial advancements in the TorchMD-Net software, a pivotal step forward in the shift from conventional force fields to neural network-based potentials. The evolution of TorchMD-Net into a more comprehensive and versatile framework is highlighted, incorporating cutting-edge architectures such as TensorNet. This transformation is achieved through a modular design approach, encouraging customized applications within the scientific community. The most notable enhancement is a significant improvement in computational efficiency, achieving a very remarkable acceleration in the computation of energy and forces for TensorNet models, with performance gains ranging from 2-fold to 10-fold over previous iterations. Other enhancements include highly optimized neighbor search algorithms that support periodic boundary conditions and the smooth integration with existing molecular dynamics frameworks. Additionally, the updated version introduces the capability to integrate physical priors, further enriching its application spectrum and utility in research. The software is available at https://github.com/torchmd/torchmd-net.",
+  "authors": [
+   "Raul P. Pelaez",
+   "Guillem Simeon",
+   "Raimondas Galvelis",
+   "Antonio Mirarchi",
+   "Peter Eastman",
+   "Stefan Doerr",
+   "Philipp Thölke",
+   "Thomas E. Markland",
+   "Gianni De Fabritiis"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.bio-ph",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "Version accepted in Journal of Chemical Theory and Computation",
+  "first_author": "Raul P. Pelaez",
+  "pdf_url": "http://arxiv.org/pdf/2402.17660",
+  "primary_category": "cs.LG",
+  "published": "2024-02-27",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "TorchMD-Net 2.0: Fast Neural Network Potentials for Molecular Simulations",
+  "topics": [
+   "via:author-whitelist:AIMD, proton transfer"
+  ],
+  "updated": "2024-05-23"
+ },
  "2403.00457": {
   "abstract": "Proper vertebrae formation relies on a tissue-wide oscillator called the segmentation clock. Individual cellular oscillators in the presomitic mesoderm are modulated by intercellular coupling and external signals, leading to the propagation of oscillatory waves of genetic expression eventually stabilizing into a static pattern. Here, we review 4 decades of biophysical models of this process, starting from the pioneering Clock and Wavefront model by Cooke and Zeeman, and the reaction-diffusion model by Meinhardt. We discuss how modern descriptions followed advances in molecular description and visualization of the process, reviewing phase models, delayed models, systems-level, and finally geometric models. We connect models to high-level aspects of embryonic development from embryonic scaling to wave propagation, up to reconstructed stem cell systems. We provide new analytical calculations and insights into classical and recent models, leading us to propose a geometric description of somitogenesis organized along two primary waves of differentiation.",
   "authors": [
@@ -1006,6 +1088,7 @@
   "primary_category": "q-bio.QM",
   "published": "2024-05-01",
   "tags": [
+   "enhanced-sampling",
    "generative-model",
    "molecular-dynamics"
   ],
@@ -1438,6 +1521,28 @@
   ],
   "updated": "2024-05-03"
  },
+ "2405.01836": {
+  "abstract": "In charged water microdroplets, which occur in nature or in the lab upon ultrasonication or in electrospray processes, the thermodynamics for reactive chemistry can be dramatically altered relative to the bulk phase. Here, we provide a theoretical basis for the observation of accelerated chemistry by simulating water droplets of increasing charge imbalance to create redox agents such as hydroxyl and hydrogen radicals and solvated electrons. We compute the hydration enthalpy of OH^- and H^+ that controls the electron transfer process, and the corresponding changes in vertical ionization energy and vertical electron affinity of the ions, to create OH* and H* reactive species. We find that at ~20-50% of the Rayleigh limit of droplet charge the hydration enthalpy of both OH^- and H^+ have decreased by >50 kcal/mol such that electron transfer becomes thermodynamically favorable, in correspondence with the more favorable vertical electron affinity of H^+ and the lowered vertical ionization energy of OH^-. We provide scaling arguments that show that the nanoscale calculations and conclusions extend to the experimental microdroplet length scale. The relevance of the droplet charge for chemical reactivity is illustrated for the formation of H2O2, and has clear implications for other redox reactions observed to occur with enhanced rates in microdroplets.",
+  "authors": [
+   "Joseph P. Heindel",
+   "R. Allen LaCour",
+   "Teresa Head-Gordon"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Joseph P. Heindel",
+  "pdf_url": "http://arxiv.org/pdf/2405.01836",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-03",
+  "tags": [],
+  "title": "The Role of Charge in Microdroplet Redox Chemistry",
+  "topics": [
+   "via:author-whitelist:DFT, polarizable water"
+  ],
+  "updated": "2024-05-03"
+ },
  "2405.01983": {
   "abstract": "Designing protein nanomaterials of predefined shape and characteristics has the potential to dramatically impact the medical industry. Machine learning (ML) has proven successful in protein design, reducing the need for expensive wet lab experiment rounds. However, challenges persist in efficiently exploring the protein fitness landscapes to identify optimal protein designs. In response, we propose the use of AlphaZero to generate protein backbones, meeting shape and structural scoring requirements. We extend an existing Monte Carlo tree search (MCTS) framework by incorporating a novel threshold-based reward and secondary objectives to improve design precision. This innovation considerably outperforms existing approaches, leading to protein backbones that better respect structural scores. The application of AlphaZero is novel in the context of protein backbone design and demonstrates promising performance. AlphaZero consistently surpasses baseline MCTS by more than 100% in top-down protein design tasks. Additionally, our application of AlphaZero with secondary objectives uncovers further promising outcomes, indicating the potential of model-based reinforcement learning (RL) in navigating the intricate and nuanced aspects of protein design",
   "authors": [
@@ -1526,6 +1631,31 @@
   ],
   "updated": "2024-05-03"
  },
+ "2405.02207": {
+  "abstract": "Mesoscale water-hydrophobic interfaces are of fundamental importance in multiple disciplines, but their molecular properties have remained elusive for decades due to experimental complications and alternate theoretical explanations. Surface-specific spectroscopies, such as vibrational sum-frequency techniques, suffer from either sample preparation issues or the need for complex spectral corrections. Here, we report on a robust \"in solution\" interface-selective Raman spectroscopy approach using multivariate curve resolution to probe hexadecane in water emulsions. Computationally, we use the recently developed monomer field model for Raman spectroscopy to help interpret the interfacial spectra. Unlike with vibrational sum frequency techniques, our interfacial spectra are readily comparable to the spectra of bulk water, yielding new insights. The combination of experiment and theory show that the interface leads to reduced tetrahedral order and weaker hydrogen bonding, giving rise to a substantial water population with dangling OH at the interface. Additionally, the stretching mode of these free OH experiences a ~80 cm-1 red-shift due to a strong electric field which we attribute to the negative zeta potential that is general to oil droplets. These findings are either opposite to, or absent in, the molecular hydrophobic interface formed by small solutes. Together, water structural disorder and enhanced electrostatics are an emergent feature at the mesoscale interface of oil-water emulsions, with an estimated interfacial electric field of ~35-70 MV/cm that is important for chemical reactivity.",
+  "authors": [
+   "Lixue Shi",
+   "R. Allen LaCour",
+   "Xiaoqi Lang",
+   "Joseph P. Heindel",
+   "Teresa Head-Gordon",
+   "Wei Min"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Lixue Shi",
+  "pdf_url": "http://arxiv.org/pdf/2405.02207",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-03",
+  "tags": [],
+  "title": "Water Structure and Electric Fields at the Interface of Oil Droplets",
+  "topics": [
+   "via:author-whitelist:DFT, polarizable water"
+  ],
+  "updated": "2024-05-03"
+ },
  "2405.02216": {
   "abstract": "An azeotrope is a constant boiling point mixture, and its behavior is important for fluid separation processes. Predicting azeotropes from atomistic simulations is difficult, due to the complexities and convergence problems in Monte Carlo and free-energy perturbation techniques. Here, we present a methodology for predicting the azeotropes of binary mixtures, which computes the compositional dependence of chemical potentials from molecular dynamics simulations using the S0 method, and employs experimental boiling point and vaporization enthalpy data. Using this methodology, we reproduce the azeotropes or the lack of in five case studies, including ethanol/water, ethanol/isooctane, methanol/water, hydrazine/water, and acetone/chloroform mixtures. We find that it is crucial to use the experimental boiling point and vaporization enthalpy for reliable azeotrope predictions, as empirical force fields are not accurate enough for these quantities. Finally, we use regular solution models to rationalize the azeotropes, and reveal that they tend to form when the mixture components have similar boiling points and strong interactions.",
   "authors": [
@@ -1548,7 +1678,8 @@
   ],
   "title": "Integrating Molecular Dynamics Simulations and Experimental Data for Azeotrope Predictions in Binary Mixtures",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:MLIPs, water, free energy"
   ],
   "updated": "2024-05-03"
  },
@@ -1580,7 +1711,8 @@
   ],
   "title": "Deep Learning of ab initio Hessians for Transition State Optimization",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:DFT, polarizable water"
   ],
   "updated": "2024-05-03"
  },
@@ -2060,7 +2192,8 @@
   ],
   "title": "A Curated Rotamer Library for Common Post-Translational Modifications of Proteins",
   "topics": [
-   "Protein & Biomolecules"
+   "Protein & Biomolecules",
+   "via:author-whitelist:DFT, polarizable water"
   ],
   "updated": "2024-05-06"
  },
@@ -2450,6 +2583,33 @@
   "topics": [
    "Molecular Representation & Learning",
    "Property Prediction & ADMET"
+  ],
+  "updated": "2024-05-07"
+ },
+ "2405.04323": {
+  "abstract": "The grading of open-ended questions is a high-effort, high-impact task in education. Automating this task promises a significant reduction in workload for education professionals, as well as more consistent grading outcomes for students, by circumventing human subjectivity and error. While recent breakthroughs in AI technology might facilitate such automation, this has not been demonstrated at scale. It this paper, we introduce a novel automatic short answer grading (ASAG) system. The system is based on a fine-tuned open-source transformer model which we trained on large set of exam data from university courses across a large range of disciplines. We evaluated the trained model's performance against held-out test data in a first experiment and found high accuracy levels across a broad spectrum of unseen questions, even in unseen courses. We further compared the performance of our model with that of certified human domain experts in a second experiment: we first assembled another test dataset from real historical exams - the historic grades contained in that data were awarded to students in a regulated, legally binding examination process; we therefore considered them as ground truth for our experiment. We then asked certified human domain experts and our model to grade the historic student answers again without disclosing the historic grades. Finally, we compared the hence obtained grades with the historic grades (our ground truth). We found that for the courses examined, the model deviated less from the official historic grades than the human re-graders - the model's median absolute error was 44 % smaller than the human re-graders', implying that the model is more consistent than humans in grading. These results suggest that leveraging AI enhanced grading can reduce human subjectivity, improve consistency and thus ultimately increase fairness.",
+  "authors": [
+   "Alexandra Gobrecht",
+   "Felix Tuma",
+   "Moritz Möller",
+   "Thomas Zöller",
+   "Mark Zakhvatkin",
+   "Alexandra Wuttig",
+   "Holger Sommerfeldt",
+   "Sven Schütt"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Alexandra Gobrecht",
+  "pdf_url": "http://arxiv.org/pdf/2405.04323",
+  "primary_category": "cs.AI",
+  "published": "2024-05-07",
+  "tags": [],
+  "title": "Beyond human subjectivity and error: a novel AI grading system",
+  "topics": [
+   "via:author-whitelist:SchNet, equivariant ML"
   ],
   "updated": "2024-05-07"
  },
@@ -2869,6 +3029,35 @@
   ],
   "updated": "2024-05-08"
  },
+ "2405.05437": {
+  "abstract": "X-ray Transient Absorption Spectroscopy near the carbon K-edge (1s, $\\sim$ 285 eV) and chlorine L$_{2,3}$ edges (2p, $\\sim$ 200 eV) is used to study the nuclear dynamics of CCl$_4$ vibrationally activated by impulsive stimulated Raman scattering with a few-cycle 800 nm pump pulse. The totally symmetric stretching mode leads to a strong response in the inner-shell spectra, with the concerted elongation (contraction) in bond lengths leading to a red (blue) shift in the X-ray absorption energies associated with core-to-antibonding excitations. The relative slopes of the potential energy surfaces associated with the relevant core-excited states along the symmetric stretching mode are experimentally measured and compared to results from restricted open-shell Kohn-Sham calculations. A combination of experiment and theory indicates that the slope of the core-excited potential energy surface vs totally symmetric bond elongation is $-11.1 \\pm 0.8$ eV/Å for the Cl 2p$\\to7a_1^*$ excitation, $-9.0\\pm0.6$ eV/Å for the Cl 2p$\\to8t_2^*$ excitation and $-5.2\\pm 0.4$ eV/Å for the C 1s$\\to8t_2^*$ excitation, to 95% confidence. The much larger slopes for the Cl 2p excitations compared to the C 1s state are attributed to greater contributions from Cl to the $7a_1^*$ or $8t_2^*$ antibonding orbitals to which the inner-shell electrons are being excited. No net displacement of the center of the vibrational wavefunction along the other vibrational modes is induced by the pump pulse, leading to absence of transient signal. The results highlight the ability of X-ray Transient Absorption Spectroscopy to reveal nuclear dynamics involving tiny ($<0.01$ Å) atomic displacements and also provide direct measurement of forces on core-excited potential energy surfaces.",
+  "authors": [
+   "Andrew D. Ross",
+   "Diptarka Hait",
+   "Valeriu Scutelnic",
+   "Daniel M. Neumark",
+   "Martin Head-Gordon",
+   "Stephen R. Leone"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.optics"
+  ],
+  "comment": "ADR and DH contributed equally to this work",
+  "first_author": "Andrew D. Ross",
+  "pdf_url": "http://arxiv.org/pdf/2405.05437",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-08",
+  "tags": [
+   "excited-states",
+   "free-energy"
+  ],
+  "title": "Measurement of Coherent Vibrational Dynamics with X-ray Transient Absorption Spectroscopy Simultaneously at the Carbon K- and Chlorine L$_{2,3}$- Edges",
+  "topics": [
+   "via:author-whitelist:DFT, polarizable water"
+  ],
+  "updated": "2024-05-08"
+ },
  "2405.05444": {
   "abstract": "Evaluating open-ended written examination responses from students is an essential yet time-intensive task for educators, requiring a high degree of effort, consistency, and precision. Recent developments in Large Language Models (LLMs) present a promising opportunity to balance the need for thorough evaluation with efficient use of educators' time. In our study, we explore the effectiveness of LLMs ChatGPT-3.5, ChatGPT-4, Claude-3, and Mistral-Large in assessing university students' open-ended answers to questions made about reference material they have studied. Each model was instructed to evaluate 54 answers repeatedly under two conditions: 10 times (10-shot) with a temperature setting of 0.0 and 10 times with a temperature of 0.5, expecting a total of 1,080 evaluations per model and 4,320 evaluations across all models. The RAG (Retrieval Augmented Generation) framework was used as the framework to make the LLMs to process the evaluation of the answers. As of spring 2024, our analysis revealed notable variations in consistency and the grading outcomes provided by studied LLMs. There is a need to comprehend strengths and weaknesses of LLMs in educational settings for evaluating open-ended written responses. Further comparative research is essential to determine the accuracy and cost-effectiveness of using LLMs for educational assessments.",
   "authors": [
@@ -3011,6 +3200,30 @@
   "title": "Neural Network Approach for Predicting Infrared Spectra from 3D Molecular Structure",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2024-05-09"
+ },
+ "2405.05761": {
+  "abstract": "We present an optimization strategy for atom-specific spin-polarization constants within the spin-polarized GFN2-xTB framework, aiming to enhance the accuracy of molecular simulations. We compare a sequential and global optimization of spin parameters for hydrogen, carbon, nitrogen, oxygen, and fluorine. Sensitivity analysis using Sobol indices guides the identification of the most influential parameters for a given reference dataset, allowing for a nuanced understanding of their impact on diverse molecular properties. In the case of the W4-11 dataset, substantial error reduction was achieved, demonstrating the potential of the optimization. Transferability of the optimized spin-polarization constants over different properties, however, is limited, as we demonstrate by applying the optimized parameters on a set of singlet-triplet gaps in carbenes. Further studies on ionization potentials and electron affinities highlight some inherent limitations of current extended tight-binding methods that can not be resolved by simple parameter optimization. We conclude that the significantly improved accuracy strongly encourages the present re-optimization of the spin-polarization constants, whereas the limited transferability motivates a property-specific optimization strategy.",
+  "authors": [
+   "Siyavash Moradi",
+   "Rebecca Tomann",
+   "Josie Hendrix",
+   "Martin Head-Gordon",
+   "Christopher J. Stein"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Siyavash Moradi",
+  "pdf_url": "http://arxiv.org/pdf/2405.05761",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-09",
+  "tags": [],
+  "title": "Spin parameter optimization for spin-polarized extended tight-binding methods",
+  "topics": [
+   "via:author-whitelist:DFT, polarizable water"
   ],
   "updated": "2024-05-09"
  },
@@ -3183,6 +3396,34 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2024-05-09"
+ },
+ "2405.06207": {
+  "abstract": "The electronic properties and optical response of ice and water are intricately shaped by their molecular structure, including the quantum mechanical nature of hydrogen atoms. In spite of numerous studies appeared over decades, a comprehensive understanding of the effect of the nuclear quantum motion on the electronic structure of water and ice at finite temperatures remains elusive. Here, we utilize molecular simulations that harness the efficiency of machine-learning potentials and many-body perturbation theory to assess the impact of nuclear quantum effects on the electronic structure of water and hexagonal ice. By comparing the results of path-integral and classical simulations, we find that including nuclear quantum effects leads to a larger renormalization of the fundamental gap of ice, compared to that of water, eventually leading to a comparable gap in the two systems, consistent with experimental estimates. Our calculations suggest that the quantum fluctuations responsible for an increased delocalization of protons in ice, relative to water, are a key factor leading to the enhancement of nuclear quantum effects on the electronic structure of ice.",
+  "authors": [
+   "Margaret Berrens",
+   "Arpan Kundu",
+   "Marcos F. Calegari Andrade",
+   "Tuan Anh Pham",
+   "Giulia Galli",
+   "Davide Donadio"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.soft"
+  ],
+  "comment": "16 pages, 4 figures",
+  "first_author": "Margaret Berrens",
+  "pdf_url": "http://arxiv.org/pdf/2405.06207",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-10",
+  "tags": [
+   "electronic-structure"
+  ],
+  "title": "Nuclear Quantum Effects on the Electronic Structure of Water and Ice",
+  "topics": [
+   "via:author-whitelist:DFT water, defects"
+  ],
+  "updated": "2024-05-10"
  },
  "2405.06262": {
   "abstract": "The recent discovery of crystalline pentazolates marks a major advance in polynitrogen science and raises prospects of making the long-touted potent propellant N$_5$$^{+}$N$_5$$^{-}$ salt. However, despite the synthesis of cyclo-N$_5$$^{-}$ anion in pentazolates, counter cation cyclo-N$_5$$^{+}$ remains elusive due to the strong oxidizing power of pentazole ion; moreover, pure N$_5$$^{+}$N$_5$$^{-}$ salt is known to be unstable. Here, we devise a new strategy for making rare cyclo-N$_5$$^{+}$ cation and assembling the long-sought N$_5$$^{+}$N$_5$$^{-}$ salt in tailored ionic compounds, wherein the negative/positive host ions act as oxidizing/reducing agents to form cyclo-N$_5$$^{+}$/N$_5$$^{-}$ species. This strategy is implemented via an advanced computational crystal structure search, which identifies XN$_5$N$_5$F (X = Li, Na, K) compounds that stabilize at high pressures and remain viable at ambient pressure-temperature conditions based on \\textit{ab initio} molecular dynamics simulations. This finding opens an avenue for creating and stabilizing N$_5$$^{+}$N$_5$$^{-}$ salt assembly in ionic compounds, where cyclo-N$_5$ species are oxidized/reduced via co-matching with host ions of high/low electronegativity. The present results demonstrate novel polynitrogen chemistry, and these findings offer new insights and prospects in the design and synthesis of diverse chemical species that exhibit unusual charge states, bonding structures, and superior functionality.",
@@ -3549,7 +3790,8 @@
   "primary_category": "cond-mat.mtrl-sci",
   "published": "2024-05-12",
   "tags": [
-   "bayesian-optimization"
+   "bayesian-optimization",
+   "thermodynamic-integration"
   ],
   "title": "Two-Shot Optimization of Compositionally Complex Refractory Alloys",
   "topics": [
@@ -3702,7 +3944,8 @@
    "chemical-space",
    "crystal-structure",
    "dft",
-   "mof"
+   "mof",
+   "thermodynamic-integration"
   ],
   "title": "Exploration of oxyfluoride frameworks as Na-ion cathodes",
   "topics": [
@@ -4151,7 +4394,8 @@
   "primary_category": "cond-mat.mtrl-sci",
   "published": "2024-05-14",
   "tags": [
-   "ab-initio"
+   "ab-initio",
+   "enhanced-sampling"
   ],
   "title": "Optimal design of experiments in the context of machine-learning inter-atomic potentials: improving the efficiency and transferability of kernel based methods",
   "topics": [
@@ -4178,7 +4422,8 @@
   "published": "2024-05-14",
   "tags": [
    "catalysis",
-   "excited-states"
+   "excited-states",
+   "string-method"
   ],
   "title": "Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics",
   "topics": [
@@ -4268,6 +4513,29 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2024-05-14"
+ },
+ "2405.08824": {
+  "abstract": "Synchrotron light source storage rings aim to maintain a continuous beam current without observable beam motion during injection. One element that paves the way to this target is the non-linear kicker (NLK). The field distribution it generates poses challenges for optimising the topping-up operation. Within this study, a reinforcement learning agent was developed and trained to optimise the NLK operation parameters. We present the models employed, the optimisation process, and the achieved results.",
+  "authors": [
+   "Alexander Schuett"
+  ],
+  "categories": [
+   "physics.acc-ph",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Alexander Schuett",
+  "pdf_url": "http://arxiv.org/pdf/2405.08824",
+  "primary_category": "physics.acc-ph",
+  "published": "2024-05-12",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "Application of Stochastic Control Algorithms for the Improvement of the Electron Injection Efficiency of BESSY II",
+  "topics": [
+   "via:author-whitelist:SchNet, equivariant ML"
+  ],
+  "updated": "2024-05-12"
  },
  "2405.08853": {
   "abstract": "In this work, we propose estimators for the uncertainty in mean residual times that require, for their evaluation, statistically independent individual residence times obtained from a discrete time process. We examine their performance through numerical experiments involving well-known probability distributions, and an application example using molecular dynamics simulation results, from an aqueous NaCl solution, is provided. These computationally inexpensive estimators, capable of achieving very accurate outcomes, serve as useful tools for assessing and reporting uncertainties in mean residual times across a wide range of simulations.",
@@ -4419,7 +4687,8 @@
   ],
   "title": "Response Matching for generating materials and molecules",
   "topics": [
-   "Generative Design & Molecule Optimization"
+   "Generative Design & Molecule Optimization",
+   "via:author-whitelist:MLIPs, water, free energy"
   ],
   "updated": "2024-05-15"
  },
@@ -4501,7 +4770,8 @@
    "2d-materials",
    "band-gap",
    "dft",
-   "thermal-properties"
+   "thermal-properties",
+   "thermodynamic-integration"
   ],
   "title": "Molecular order induced charge transfer in a C$_{60}$-topological insulator moiré heterostructure",
   "topics": [
@@ -7190,7 +7460,8 @@
   "title": "PILOT: Equivariant diffusion for pocket conditioned de novo ligand generation with multi-objective guidance via importance sampling",
   "topics": [
    "Generative Design & Molecule Optimization",
-   "Protein & Biomolecules"
+   "Protein & Biomolecules",
+   "via:author-whitelist:SchNet, equivariant ML"
   ],
   "updated": "2024-05-23"
  },
@@ -7866,6 +8137,49 @@
   ],
   "updated": "2024-05-27"
  },
+ "2405.16835": {
+  "abstract": "Unlike Li-ion transport in the bulk of carbonaceous materials, little is known about Li-ion diffusion on their surface. In this study, we have discovered an ultra-fast Li-ion transport phenomenon on the surface of carbonaceous materials, particularly when they have limited Li insertion capacity along with a high surface area. This is exemplified by a carbon black, Ketjen Black (KB). An ionic conductivity of 18.1 mS cm-1 at room temperature is observed, far exceeding most solid-state ion conductors. Theoretical calculations reveal a low diffusion barrier for the surface Li species. The species is also identified as Li*, which features a partial positive charge. As a result, lithiated KB functions effectively as an interlayer between Li and solid-state electrolytes (SSE) to mitigate dendrite growth and cell shorting. This function is found to be electrolyte agnostic, effective for both sulfide and halide SSEs. Further, lithiated KB can act as a high-performance mixed ion/electron conductor that is thermodynamically stable at potentials near Li metal. A graphite anode mixed with KB instead of a solid electrolyte demonstrates full utilization with a capacity retention of ~85% over 300 cycles. The discovery of this surface-mediated ultra-fast Li-ion transport mechanism provides new directions for the design of solid-state ion conductors and solid-state batteries.",
+  "authors": [
+   "Jianbin Zhou",
+   "Shen Wang",
+   "Chaoshan Wu",
+   "Ji Qi",
+   "Hongli Wan",
+   "Shen Lai",
+   "Shijie Feng",
+   "Tsz Wai Ko",
+   "Zhaohui Liang",
+   "Ke Zhou",
+   "Nimrod Harpak",
+   "Nick Solan",
+   "Mengchen Liu",
+   "Zeyu Hui",
+   "Paulina J. Ai",
+   "Kent Griffith",
+   "Chunsheng Wang",
+   "Shyue Ping Ong",
+   "Yan Yao",
+   "Ping Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "21 pages, 6 figures",
+  "first_author": "Jianbin Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2405.16835",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-27",
+  "tags": [
+   "battery-materials",
+   "thermal-properties"
+  ],
+  "title": "Superionic surface Li-ion transport in carbonaceous materials",
+  "topics": [
+   "via:author-whitelist:M3GNet, CHGNet, materials data"
+  ],
+  "updated": "2024-05-27"
+ },
  "2405.16933": {
   "abstract": "Retrieval-Augmented Generation (RAG) offers a cost-effective approach to injecting real-time knowledge into large language models (LLMs). Nevertheless, constructing and validating high-quality knowledge repositories require considerable effort. We propose a pre-retrieval framework named Pseudo-Graph Retrieval-Augmented Generation (PG-RAG), which conceptualizes LLMs as students by providing them with abundant raw reading materials and encouraging them to engage in autonomous reading to record factual information in their own words. The resulting concise, well-organized mental indices are interconnected through common topics or complementary facts to form a pseudo-graph database. During the retrieval phase, PG-RAG mimics the human behavior in flipping through notes, identifying fact paths and subsequently exploring the related contexts. Adhering to the principle of the path taken by many is the best, it integrates highly corroborated fact paths to provide a structured and refined sub-graph assisting LLMs. We validated PG-RAG on three specialized question-answering datasets. In single-document tasks, PG-RAG significantly outperformed the current best baseline, KGP-LLaMA, across all key evaluation metrics, with an average overall performance improvement of 11.6%. Specifically, its BLEU score increased by approximately 14.3%, and the QE-F1 metric improved by 23.7%. In multi-document scenarios, the average metrics of PG-RAG were at least 2.35% higher than the best baseline. Notably, the BLEU score and QE-F1 metric showed stable improvements of around 7.55% and 12.75%, respectively. Our code: https://github.com/IAAR-Shanghai/PGRAG.",
   "authors": [
@@ -8002,7 +8316,8 @@
   "tags": [
    "2d-materials",
    "dft",
-   "magnetic-properties"
+   "magnetic-properties",
+   "thermodynamic-integration"
   ],
   "title": "Tunable magnetism in Nitride MXenes:consequences of atomic layer stacking",
   "topics": [
@@ -8343,7 +8658,8 @@
   "published": "2024-05-28",
   "tags": [
    "free-energy",
-   "molecular-dynamics"
+   "molecular-dynamics",
+   "string-method"
   ],
   "title": "The influence of solvent on surface adsorption and desorption",
   "topics": [
@@ -8614,7 +8930,8 @@
   "published": "2024-05-29",
   "tags": [
    "ab-initio",
-   "dft"
+   "dft",
+   "thermodynamic-integration"
   ],
   "title": "Effects of alloying elements on carbon diffusion in the austenite (f.c.c.) and ferrite (b.c.c.) phases",
   "topics": [
@@ -8954,7 +9271,8 @@
   "tags": [
    "2d-materials",
    "dft",
-   "magnetic-properties"
+   "magnetic-properties",
+   "thermodynamic-integration"
   ],
   "title": "MXene's Surface Functionalization Patterns and Their Impacts on Magnetism",
   "topics": [
@@ -9241,6 +9559,41 @@
   ],
   "updated": "2024-05-30"
  },
+ "2405.20217": {
+  "abstract": "Calculating sublimation enthalpies of molecular crystal polymorphs is relevant to a wide range of technological applications. However, predicting these quantities at first-principles accuracy -- even with the aid of machine learning potentials -- is a challenge that requires sub-kJ/mol accuracy in the potential energy surface and finite-temperature sampling. We present an accurate and data-efficient protocol based on fine-tuning of the foundational MACE-MP-0 model and showcase its capabilities on sublimation enthalpies and physical properties of ice polymorphs. Our approach requires only a few tens of training structures to achieve sub-kJ/mol accuracy in the sublimation enthalpies and sub 1 % error in densities for polymorphs at finite temperature and pressure. Exploiting this data efficiency, we explore simulations of hexagonal ice at the random phase approximation level of theory at experimental temperatures and pressures, calculating its physical properties, like pair correlation function and density, with good agreement with experiments. Our approach provides a way forward for predicting the stability of molecular crystals at finite thermodynamic conditions with the accuracy of correlated electronic structure theory.",
+  "authors": [
+   "Harveen Kaur",
+   "Flaviano Della Pia",
+   "Ilyes Batatia",
+   "Xavier R. Advincula",
+   "Benjamin X. Shi",
+   "Jinggang Lan",
+   "Gábor Csányi",
+   "Angelos Michaelides",
+   "Venkat Kapil"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "9 pages; 4 figures",
+  "first_author": "Harveen Kaur",
+  "pdf_url": "http://arxiv.org/pdf/2405.20217",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-30",
+  "tags": [
+   "ab-initio",
+   "electronic-structure",
+   "free-energy",
+   "mlip"
+  ],
+  "title": "Data-efficient fine-tuning of foundational models for first-principles quality sublimation enthalpies",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE",
+   "via:author-whitelist:MACE author"
+  ],
+  "updated": "2024-05-30"
+ },
  "2405.20239": {
   "abstract": "We present BEAST DB, an open-source database comprised of ab initio electrochemical data computed using grand-canonical density functional theory in implicit solvent at consistent calculation parameters. The database contains over 20,000 surface calculations and covers a broad set of heterogeneous catalyst materials and electrochemical reactions. Calculations were performed at self-consistent fixed potential as well as constant charge to facilitate comparisons to the computational hydrogen electrode. This article presents common use cases of the database to rationalize trends in catalyst activity, screen catalyst material spaces, understand elementary mechanistic steps, analyze electronic structure, and train machine learning models to predict higher fidelity properties. Users can interact graphically with the database by querying for individual calculations to gain granular understanding of reaction steps or by querying for an entire reaction pathway on a given material using an interactive reaction pathway tool. BEAST DB will be periodically updated, with planned future updates to include advanced electronic structure data, surface speciation studies, and greater reaction coverage.",
   "authors": [
@@ -9470,6 +9823,40 @@
   "title": "Mechanism of anatase-to-columbite TiO2 phase transformation via sheared phases: first-principles calculations and high-pressure torsion experiments",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2024-05-31"
+ },
+ "2405.20734": {
+  "abstract": "The Be X-ray binary EXO 2030+375 went through its third recorded giant outburst from June 2021 to early 2022. We present the results of both spectral and timing analysis based on NICER monitoring, covering the 2-10 keV flux range from 20 to 310 mCrab. Dense monitoring with observations carried out about every second day and a total exposure time of 160 ks allowed us to closely track the source evolution over the outburst. Changes in spectral shape and pulse profiles showed a stable luminosity dependence during the rise and decline. The same type of dependence has been seen in past outbursts. The pulse profile is characterized by several distinct peaks and dips. The profiles show a clear dependence on luminosity with a stark transition at a luminosity of 2x10^36 erg/s, indicating a change in the emission pattern. Using relativistic ray-tracing, we demonstrate how anisotropic beaming of emission from an accretion channel with constant geometrical configuration can give rise to the observed pulse profiles over a range of luminosities.",
+  "authors": [
+   "P. Thalhammer",
+   "R. Ballhausen",
+   "E. Sokolova-Lapa",
+   "J. Stierhof",
+   "A. Zainab",
+   "R. Staubert",
+   "K. Pottschmidt",
+   "J. B. Coley",
+   "R. E. Rothschild",
+   "G. K. Jaisawal",
+   "B. West",
+   "P. A. Becker",
+   "P. Pradhan",
+   "P. Kretschmar",
+   "J. Wilms"
+  ],
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "comment": "15 pages, 16 figures, accepted by A&A",
+  "first_author": "P. Thalhammer",
+  "pdf_url": "http://arxiv.org/pdf/2405.20734",
+  "primary_category": "astro-ph.HE",
+  "published": "2024-05-31",
+  "tags": [],
+  "title": "The giant outburst of EXO 2030+375 I: Spectral and pulse profile evolution",
+  "topics": [
+   "via:author-whitelist:retrosynthesis, ML chemistry"
   ],
   "updated": "2024-05-31"
  },

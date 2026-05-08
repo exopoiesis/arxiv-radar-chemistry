@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermal-properties — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <strong>30d</strong> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -131,7 +131,7 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14817.html">Layer-dependent quantum transport in KV2Se2O-based altermagnetic tunnel junctions</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14817.html">Layer-dependent quantum transport in KV2Se2O-based altermagnetic tunnel junctions</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Yue Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14817">2604.14817</a></td>
 </tr>
@@ -176,23 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06042.html">Spin-Phonon Renormalization in CrSBr</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Jayajeewana N. Ranhili et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06042">2604.06042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09912.html">Re-refinement of the structure of the planar hexagonal phase of ZnO nanocrystals</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Musen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09912">2511.09912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06048.html">Large Language Model Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb$_3$ Based Skutterudites</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yagnik Bandyopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06048">2604.06048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06360.html">Influence of Manganese Content on Plastic Deformation Mechanisms in Polycrystalline α-Ti-Mn Alloys</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>G. Marković et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06360">2604.06360</a></td>
 </tr>
 </tbody></table>

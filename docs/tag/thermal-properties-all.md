@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermal-properties — all</h1>
-  <span class="paper-count">576 papers</span>
+  <span class="paper-count">583 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -131,7 +131,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14817.html">Layer-dependent quantum transport in KV2Se2O-based altermagnetic tunnel junctions</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14817.html">Layer-dependent quantum transport in KV2Se2O-based altermagnetic tunnel junctions</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Yue Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14817">2604.14817</a></td>
 </tr>
@@ -191,7 +191,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06360.html">Influence of Manganese Content on Plastic Deformation Mechanisms in Polycrystalline α-Ti-Mn Alloys</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06360.html">Influence of Manganese Content on Plastic Deformation Mechanisms in Polycrystalline α-Ti-Mn Alloys</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>G. Marković et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06360">2604.06360</a></td>
 </tr>
@@ -413,6 +413,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07464.html">Atomic-scale tunable phonon transport at tailored grain boundaries and Their Impact on Thermal Conductivity</a></div></td>
+<td>Xiaowang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07464">2405.07464</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12985.html">Modular hybrid machine learning and physics-based potentials for scalable modeling of van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="mlip-all.html">mlip</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>Hekai Bu et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12985">2504.12985</a></td>
@@ -449,7 +455,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06308.html">Resistance of refractory high-entropy alloys to ultrafast laser irradiation</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06308.html">Resistance of refractory high-entropy alloys to ultrafast laser irradiation</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Nikita Medvedev</td>
 <td><a href="http://arxiv.org/abs/2512.06308">2512.06308</a></td>
 </tr>
@@ -527,7 +533,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="mof-all.html">mof</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01940.html">Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="mof-all.html">mof</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Anna Kurowská et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01940">2602.01940</a></td>
 </tr>
@@ -569,7 +575,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16528.html">Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16528.html">Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Christopher D. Woodgate et al.</td>
 <td><a href="http://arxiv.org/abs/2601.16528">2601.16528</a></td>
 </tr>
@@ -653,7 +659,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05419.html">Implementation of Girsanov Reweighting in CP2K</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05419.html">Implementation of Girsanov Reweighting in CP2K</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Sascha Jähnigen et al.</td>
 <td><a href="http://arxiv.org/abs/2601.05419">2601.05419</a></td>
 </tr>
@@ -713,7 +719,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07471.html">First principle study of electronic, magnetic and thermoelectric properties of Co$_2$YPb (Y = Tc, Ti, Zr and Hf) full Heusler: Application to embedded automotive systems</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07471.html">First principle study of electronic, magnetic and thermoelectric properties of Co$_2$YPb (Y = Tc, Ti, Zr and Hf) full Heusler: Application to embedded automotive systems</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>N. Saidi et al.</td>
 <td><a href="http://arxiv.org/abs/2512.07471">2512.07471</a></td>
 </tr>
@@ -1277,13 +1283,19 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12753.html">Bond-Network Entropy Governs Heat Transport in Coordination-Disordered Solids</a></div></td>
+<td>Kamil Iwanowski et al.</td>
+<td><a href="http://arxiv.org/abs/2412.12753">2412.12753</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11897.html">Reconfigurable, non-volatile control of optical anisotropy in ReS2 via ferroelectric gating</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Mahfujur Rahaman et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11897">2509.11897</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.19190.html">Prediction and identification of point defect fingerprints in X-ray photoelectron spectra of TiN$_x$ with 1.18 $\le x \le$ 1.37</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.19190.html">Prediction and identification of point defect fingerprints in X-ray photoelectron spectra of TiN$_x$ with 1.18 $\le x \le$ 1.37</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Pavel Ondračka et al.</td>
 <td><a href="http://arxiv.org/abs/2403.19190">2403.19190</a></td>
 </tr>
@@ -1379,7 +1391,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11166.html">Molecular Cross-linking of MXenes: Tunable Interfaces and Chemiresistive Sensing</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11166.html">Molecular Cross-linking of MXenes: Tunable Interfaces and Chemiresistive Sensing</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Yudhajit Bhattacharjee et al.</td>
 <td><a href="http://arxiv.org/abs/2504.11166">2504.11166</a></td>
 </tr>
@@ -1418,6 +1430,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13614.html">Unlocking reversible and nonvolatile anomalous valley Hall control through multiferroic van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>Ankita Phutela et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13614">2508.13614</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13391.html">Towards Routine Condensed Phase Simulations with Delta-Learned Coupled Cluster Accuracy: Application to Liquid Water</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Niamh O&#x27;Neill et al.</td>
+<td><a href="http://arxiv.org/abs/2508.13391">2508.13391</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-17</td>
@@ -1751,7 +1769,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15109.html">High-Throughput Computation of Anharmonic Low-Frequency Protein Vibrations</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15109.html">High-Throughput Computation of Anharmonic Low-Frequency Protein Vibrations</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Michael A. Sauer et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15109">2506.15109</a></td>
 </tr>
@@ -2171,7 +2189,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14560.html">Structural, electronic, vibrational, optical, piezoelectric, thermal and thermoelectric properties of BCZT from first-principles calculations</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14560.html">Structural, electronic, vibrational, optical, piezoelectric, thermal and thermoelectric properties of BCZT from first-principles calculations</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Debidutta Pradhan et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14560">2503.14560</a></td>
 </tr>
@@ -2228,6 +2246,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14289.html">Analyzing Heat Transport in Crystalline Polymers in Real and Reciprocal Space</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Lukas Reicht et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14289">2503.14289</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12438.html">Enabling Highly Efficient Infrared Silicon Photodetectors via Disordered Metasurfaces with Upconversion Nanoparticles</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a></div></td>
+<td>Wei Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2503.12438">2503.12438</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-14</td>
@@ -2351,7 +2375,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12636.html">Roles of Defects and Sb-doping in the Thermoelectric Properties of Full-Heusler Fe2TiSn</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12636.html">Roles of Defects and Sb-doping in the Thermoelectric Properties of Full-Heusler Fe2TiSn</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Ilaria Pallecchi et al.</td>
 <td><a href="http://arxiv.org/abs/2502.12636">2502.12636</a></td>
 </tr>
@@ -2375,7 +2399,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11576.html">Half-metallicity and wandering axis ferromagnetism in Fe$_2$Ti$_{1-x}$Mn$_x$Sn (0 $&lt; x \leq$ 0.3) Heusler Alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11576.html">Half-metallicity and wandering axis ferromagnetism in Fe$_2$Ti$_{1-x}$Mn$_x$Sn (0 $&lt; x \leq$ 0.3) Heusler Alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Kulbhushan Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2407.11576">2407.11576</a></td>
 </tr>
@@ -2507,7 +2531,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-01-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15736.html">An ab initio dataset of size-dependent effective thermal conductivity for advanced technology transistors</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15736.html">An ab initio dataset of size-dependent effective thermal conductivity for advanced technology transistors</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Han Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2501.15736">2501.15736</a></td>
 </tr>
@@ -2603,7 +2627,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16741.html">Point defect formation at finite temperatures with machine learning force fields</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16741.html">Point defect formation at finite temperatures with machine learning force fields</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Irea Mosquera-Lois et al.</td>
 <td><a href="http://arxiv.org/abs/2412.16741">2412.16741</a></td>
 </tr>
@@ -2962,6 +2986,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.05216">2409.05216</a></td>
 </tr>
 <tr class="paper">
+<td>2024-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04763.html">Chalcogenide Metasurfaces Enabling Ultra-Wideband Detectors from Visible to Mid-infrared</a></div></td>
+<td>Shutao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2409.04763">2409.04763</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04219.html">Nano-size nature of the $α$-FAPbI$_3$ by means of large-scale ab initio simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Virginia Carnevali et al.</td>
@@ -2987,7 +3017,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16301.html">Influence of anti-ferromagnetic ordering and electron correlation on the electronic structure of MnTiO$_3$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16301.html">Influence of anti-ferromagnetic ordering and electron correlation on the electronic structure of MnTiO$_3$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Asif Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2408.16301">2408.16301</a></td>
 </tr>
@@ -3089,7 +3119,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20686.html">Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20686.html">Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>Cedrix J. Dongmo Foumthuim et al.</td>
 <td><a href="http://arxiv.org/abs/2407.20686">2407.20686</a></td>
 </tr>
@@ -3226,6 +3256,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2404.12004">2404.12004</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12936.html">Thermal conductivity of Li$_3$PS$_4$ solid electrolytes with ab initio accuracy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Davide Tisi et al.</td>
+<td><a href="http://arxiv.org/abs/2401.12936">2401.12936</a></td>
+</tr>
+<tr class="paper">
 <td>2024-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10588.html">Metastable CoCu$_2$O$_3$ for molecular sensing and catalysis</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
 <td>Matteo D&#x27;Andria et al.</td>
@@ -3280,6 +3316,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2405.19838">2405.19838</a></td>
 </tr>
 <tr class="paper">
+<td>2024-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16835.html">Superionic surface Li-ion transport in carbonaceous materials</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a></div></td>
+<td>Jianbin Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16835">2405.16835</a></td>
+</tr>
+<tr class="paper">
 <td>2024-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14817.html">Unraveling electronic structure of GeS through ARPES and its correlation with anisotropic optical and transport behavior</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>Rahul Paramanik et al.</td>
@@ -3311,7 +3353,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09119.html">Molecular order induced charge transfer in a C$_{60}$-topological insulator moiré heterostructure</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09119.html">Molecular order induced charge transfer in a C$_{60}$-topological insulator moiré heterostructure</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Ram Prakash Pandeya et al.</td>
 <td><a href="http://arxiv.org/abs/2405.09119">2405.09119</a></td>
 </tr>
@@ -3455,7 +3497,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12174.html">Exploring Conformational Landscapes Along Anharmonic Low-Frequency Vibrations</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12174.html">Exploring Conformational Landscapes Along Anharmonic Low-Frequency Vibrations</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Souvik Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2403.12174">2403.12174</a></td>
 </tr>

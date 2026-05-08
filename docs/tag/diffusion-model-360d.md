@@ -269,7 +269,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Hyukjun Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25980">2603.25980</a></td>
 </tr>
@@ -659,7 +659,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="string-method-360d.html">string-method</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Elio Moreau et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22122">2602.22122</a></td>
 </tr>
@@ -755,7 +755,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="umbrella-sampling-360d.html">umbrella-sampling</a></div></td>
 <td>Yu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16634">2602.16634</a></td>
 </tr>
@@ -1184,6 +1184,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15737.html">Enzyme-Substrate Complex Formation Modulates Diffusion-Driven Patterning In Metabolic Pathways</a></div></td>
 <td>Faezeh Farivar</td>
 <td><a href="http://arxiv.org/abs/2512.15737">2512.15737</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20003.html">Control Variate Score Matching for Diffusion Models</a></div></td>
+<td>Khaled Kahouli et al.</td>
+<td><a href="http://arxiv.org/abs/2512.20003">2512.20003</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-20</td>
@@ -2225,7 +2231,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20130.html">Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20130.html">Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Yi He et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20130">2507.20130</a></td>
 </tr>
@@ -2432,6 +2438,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00751.html">InstructAttribute: Fine-grained Object Attributes editing with Instruction</a></div></td>
 <td>Xingxi Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00751">2505.00751</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17140.html">MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>David Jacob Drexlin et al.</td>
+<td><a href="http://arxiv.org/abs/2506.17140">2506.17140</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-19</td>
@@ -2744,17 +2756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08531.html">Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="mof-360d.html">mof</a></div></td>
 <td>Chenru Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08531">2505.08531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07431.html">Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation</a></div></td>
-<td>Jianan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07431">2505.07431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07442.html">DiffCrysGen: A Score-Based Diffusion Model for Design of Diverse Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07442">2505.07442</a></td>
 </tr>
 </tbody></table>

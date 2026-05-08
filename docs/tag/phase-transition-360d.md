@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">245 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -383,7 +383,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00556.html">Excitons and Optical Response in Excitonic Insulator Candidate TiSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00556.html">Excitons and Optical Response in Excitonic Insulator Candidate TiSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Dino Novko</td>
 <td><a href="http://arxiv.org/abs/2510.00556">2510.00556</a></td>
 </tr>
@@ -449,9 +449,15 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01730.html">Machine learning determines the Mg2SiO4 P-T phase diagram</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01730.html">Machine learning determines the Mg2SiO4 P-T phase diagram</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Siyu Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2602.01730">2602.01730</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00660.html">Phase Transitions in Unsupervised Feature Selection</a></div></td>
+<td>Jonathan Fiorentino et al.</td>
+<td><a href="http://arxiv.org/abs/2602.00660">2602.00660</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-29</td>
@@ -503,7 +509,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08783.html">Bayesian umbrella quadrature accelerates free-energy calculations across diverse molecular systems and processes</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08783.html">Bayesian umbrella quadrature accelerates free-energy calculations across diverse molecular systems and processes</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="umbrella-sampling-360d.html">umbrella-sampling</a></div></td>
 <td>Eline K. Kempkes et al.</td>
 <td><a href="http://arxiv.org/abs/2601.08783">2601.08783</a></td>
 </tr>
@@ -563,7 +569,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00740.html">Electronic-Entropy-Driven Solid-Solid Phase Transitions in Elemental Metals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00740.html">Electronic-Entropy-Driven Solid-Solid Phase Transitions in Elemental Metals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>S. Azadi et al.</td>
 <td><a href="http://arxiv.org/abs/2601.00740">2601.00740</a></td>
 </tr>
@@ -617,7 +623,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12331.html">Active learning potentials for first-principles phase diagrams using replica-exchange nested sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12331.html">Active learning potentials for first-principles phase diagrams using replica-exchange nested sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Nico Unglert et al.</td>
 <td><a href="http://arxiv.org/abs/2512.12331">2512.12331</a></td>
 </tr>
@@ -809,7 +815,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25439.html">Finite-Temperature Ferroelectric Phase Transitions from Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25439.html">Finite-Temperature Ferroelectric Phase Transitions from Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Kristoffer Eggestad et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25439">2510.25439</a></td>
 </tr>
@@ -917,9 +923,15 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08960.html">Collective Variables Based on Multipole Expansion of Ewald Summation for Crystallization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08960.html">Collective Variables Based on Multipole Expansion of Ewald Summation for Crystallization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>YaoKun Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08960">2510.08960</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05167.html">Data-Error Scaling Laws in Machine Learning on Combinatorial Mutation-prone Sets: Proteins and Small Molecules</a></div></td>
+<td>Vanni Doffini et al.</td>
+<td><a href="http://arxiv.org/abs/2405.05167">2405.05167</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-02</td>
@@ -1013,7 +1025,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Kai Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04291">2509.04291</a></td>
 </tr>
@@ -1067,7 +1079,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17268.html">Phonons Drive the Topological Phase Transition in Quasi-One-Dimensional Bi$_4$I$_4$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17268.html">Phonons Drive the Topological Phase Transition in Quasi-One-Dimensional Bi$_4$I$_4$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Wenjie Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17268">2508.17268</a></td>
 </tr>
@@ -1091,7 +1103,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15942.html">Hybrid Monte Carlo Metadynamics (hybridMC-MetaD)</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15942.html">Hybrid Monte Carlo Metadynamics (hybridMC-MetaD)</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Charlotte Shiqi Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15942">2508.15942</a></td>
 </tr>
@@ -1169,6 +1181,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09488.html">Foundation Neural-Networks Quantum States as a Unified Ansatz for Multiple Hamiltonians</a></div></td>
+<td>Riccardo Rende et al.</td>
+<td><a href="http://arxiv.org/abs/2502.09488">2502.09488</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04401.html">Why are LLMs&#x27; abilities emergent?</a></div></td>
 <td>Vladimír Havlík</td>
 <td><a href="http://arxiv.org/abs/2508.04401">2508.04401</a></td>
@@ -1184,6 +1202,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03786.html">A comparative study of the high-pressure structural stability of zirconolite materials for nuclear waste immobilisation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Daniel Errandonea et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03786">2508.03786</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14118.html">PET-MAD, a lightweight universal interatomic potential for advanced materials modeling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Arslan Mazitov et al.</td>
+<td><a href="http://arxiv.org/abs/2503.14118">2503.14118</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-04</td>
@@ -1456,6 +1480,18 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2505.21826">2505.21826</a></td>
 </tr>
 <tr class="paper">
+<td>2025-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17991.html">Efficient local atomic cluster expansion for BaTiO$_3$ close to equilibrium</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Anna Grünebohm et al.</td>
+<td><a href="http://arxiv.org/abs/2505.17991">2505.17991</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02126.html">Unsupervised detection of semantic correlations in big data</a></div></td>
+<td>Santiago Acevedo et al.</td>
+<td><a href="http://arxiv.org/abs/2411.02126">2411.02126</a></td>
+</tr>
+<tr class="paper">
 <td>2025-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12622.html">Unconventional band splitting of CeSb in the devil&#x27;s staircase transition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Tongrui Li et al.</td>
@@ -1469,7 +1505,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Yu Xin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09161">2505.09161</a></td>
 </tr>
@@ -1478,11 +1514,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09580.html">Phase Diagram Magnetic Features of Holographic Anisotropic Model for $z^4$-term Heavy Quarks</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Kristina Rannu</td>
 <td><a href="http://arxiv.org/abs/2505.09580">2505.09580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08055.html">Lanthanide L-Edge Spectroscopy of High-Entropy Oxides: Insights into Valence and Phase Stability</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Gerald R. Bejger et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08055">2505.08055</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vdw-correction — all</h1>
-  <span class="paper-count">287 papers</span>
+  <span class="paper-count">293 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,6 +116,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20713.html">Many-body electronic structure, self-doped double-exchange, and Hund metallicity in 1T-CrTe2 bulk and monolayer</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>Dong Hyun David Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20713">2603.20713</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17582.html">Quantum Field Approaches to Chemical Systems</a></div></td>
+<td>Reza Karimpour et al.</td>
+<td><a href="http://arxiv.org/abs/2603.17582">2603.17582</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-17</td>
@@ -335,6 +341,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15149.html">Machine learning surrogate models of many-body dispersion interactions in polymer melts</a></div></td>
+<td>Zhaoxiang Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15149">2503.15149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20444.html">Contrasting impurity-induced magnetism and dynamics in 2H-MoTe2</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Jonas A. Krieger et al.</td>
 <td><a href="http://arxiv.org/abs/2601.20444">2601.20444</a></td>
@@ -500,6 +512,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10140.html">Emergent electronic insulating states in a one-dimensional moiré superlattice</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Jianfeng Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10140">2511.10140</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08069.html">Repulsive Inverse-Distance Interatomic Interaction from Many-Body Quantum Electrodynamics</a></div></td>
+<td>Loris Di Cairano et al.</td>
+<td><a href="http://arxiv.org/abs/2511.08069">2511.08069</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-11</td>
@@ -848,6 +866,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14435.html">Critical angles and one-dimensional moiré physics in twisted rectangular lattices</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Dongdong An et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14435">2507.14435</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05383.html">Identifying the Origin of Thermal Modulation of Exchange Bias in MnPS3/Fe3GeTe2 van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
+<td>Aravind Puthirath Balan et al.</td>
+<td><a href="http://arxiv.org/abs/2403.05383">2403.05383</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-13</td>
@@ -1312,6 +1336,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2412.14388">2412.14388</a></td>
 </tr>
 <tr class="paper">
+<td>2024-12-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11357.html">van der Waals Torque in 2D Materials Induced by Interaction between Many-Body Charge Density Fluctuations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
+<td>Zepu Kou et al.</td>
+<td><a href="http://arxiv.org/abs/2412.11357">2412.11357</a></td>
+</tr>
+<tr class="paper">
 <td>2024-12-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08999.html">Altermagnetism in Two Dimensional Ca$_2$RuO$_4$ Perovskite</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>J. W. González et al.</td>
@@ -1331,7 +1361,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03798.html">Prediction of polarization vortices, charge modulation, flat bands, and moiré magnetism in twisted oxide bilayers</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03798.html">Prediction of polarization vortices, charge modulation, flat bands, and moiré magnetism in twisted oxide bilayers</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Naafis Ahnaf Shahed et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03798">2412.03798</a></td>
 </tr>
@@ -1409,7 +1439,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23983.html">Control of 2D plasmons in the topological insulator Bi2Se3 with highly crystalline C60 overlayers</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23983.html">Control of 2D plasmons in the topological insulator Bi2Se3 with highly crystalline C60 overlayers</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Mairi McCauley et al.</td>
 <td><a href="http://arxiv.org/abs/2410.23983">2410.23983</a></td>
 </tr>
@@ -1589,7 +1619,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20686.html">Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20686.html">Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Cedrix J. Dongmo Foumthuim et al.</td>
 <td><a href="http://arxiv.org/abs/2407.20686">2407.20686</a></td>
 </tr>
@@ -1736,5 +1766,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12449.html">Singlet polaron theory of low-energy optical excitations in NiPS$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>I. J. Hamad et al.</td>
 <td><a href="http://arxiv.org/abs/2404.12449">2404.12449</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04216.html">Quantum-informed simulations for mechanics of materials: DFTB+MBD framework</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Zhaoxiang Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2404.04216">2404.04216</a></td>
 </tr>
 </tbody></table>

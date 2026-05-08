@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -161,7 +161,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Jonah Marks et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
 </tr>
@@ -233,7 +233,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09233.html">$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09233.html">$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
 <td>Konstantin Lion et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09233">2510.09233</a></td>
 </tr>
@@ -365,7 +365,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Hafiz Sami Ur Rehman et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00271">2603.00271</a></td>
 </tr>
@@ -482,35 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09184.html">Adsorption of Water on Pristine Graphene: A van der Waals Density Functional Study with the vdW-C09 Approach</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Aline Oliveira Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09184">2602.09184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07091.html">tmQM-RDF Dataset: a Knowledge Graph Representing Transition Metal Complexes</a></div></td>
-<td>Luca Cibinel et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07091">2602.07091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05372.html">CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Minkyu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05372">2602.05372</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03744.html">Reducing acquisition time and radiation damage: data-driven subsampling for spectro-microscopy</a></div></td>
-<td>Maike Meier et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03744">2602.03744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04435.html">Machine Learning-Driven Crystal System Prediction for Perovskites Using Augmented X-ray Diffraction Data</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Ansu Mathew et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04435">2602.04435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04606.html">Structures of iron and cobalt bimetallic clusters for optimized chemical vapor deposition growth of single-walled carbon nanotubes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Qingmei Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04606">2602.04606</a></td>
 </tr>
 </tbody></table>

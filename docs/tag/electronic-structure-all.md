@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">784 papers</span>
+  <span class="paper-count">803 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Mihail Bogojeski et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24607.html">Errors that matter: Uncertainty-aware universal machine-learning potentials calibrated on experiments</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Matthias Kellner et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24607">2604.24607</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-26</td>
@@ -221,7 +227,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Sikander Azam et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09226">2604.09226</a></td>
 </tr>
@@ -521,6 +527,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12859.html">Auger Spectroscopy via Generative Quantum Eigensolver: A Quantum Approach to Molecular Excitations</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
+<td>Kimberlee Keithley et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12859">2603.12859</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13494.html">Accurate electronic and optical properties of bulk antiferromagnet CrSBr via a tuned hybrid density functional with on-site corrections</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Ashwin Ramasubramaniam et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13494">2603.13494</a></td>
@@ -617,7 +629,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04103.html">Machine learning assisted High-Throughput study of M$_4$X$_3$T$_x$ MXenes</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04103.html">Machine learning assisted High-Throughput study of M$_4$X$_3$T$_x$ MXenes</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Sakshi Goel et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04103">2603.04103</a></td>
 </tr>
@@ -659,7 +671,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Hafiz Sami Ur Rehman et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00271">2603.00271</a></td>
 </tr>
@@ -767,7 +779,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15446.html">On the origin of in-gap states in amorphous Ge$_2$Sb$_2$Te$_5$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15446.html">On the origin of in-gap states in amorphous Ge$_2$Sb$_2$Te$_5$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Omar Abou El Kheir et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15446">2602.15446</a></td>
 </tr>
@@ -977,7 +989,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16528.html">Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16528.html">Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Christopher D. Woodgate et al.</td>
 <td><a href="http://arxiv.org/abs/2601.16528">2601.16528</a></td>
 </tr>
@@ -1079,7 +1091,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23449.html">Universal and Experiment-calibrated Prediction of XANES through Crystal Graph Neural Network and Transfer Learning Strategy</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23449.html">Universal and Experiment-calibrated Prediction of XANES through Crystal Graph Neural Network and Transfer Learning Strategy</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Zichang Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2512.23449">2512.23449</a></td>
 </tr>
@@ -1088,6 +1100,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07098.html">Electric field gradient in accurate quantum chemical calculations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Andrei Derevianko et al.</td>
 <td><a href="http://arxiv.org/abs/2601.07098">2601.07098</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17418.html">A universal machine learning model for the electronic density of states</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Wei Bin How et al.</td>
+<td><a href="http://arxiv.org/abs/2508.17418">2508.17418</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-08</td>
@@ -1169,7 +1187,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24219.html">Increased Covalence and V-center mediated Dark Fenton-Like Reactions in V-doped TiO2: Mechanisms of Enhanced Charge-Transfer</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24219.html">Increased Covalence and V-center mediated Dark Fenton-Like Reactions in V-doped TiO2: Mechanisms of Enhanced Charge-Transfer</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Manju Kumari et al.</td>
 <td><a href="http://arxiv.org/abs/2512.24219">2512.24219</a></td>
 </tr>
@@ -1268,6 +1286,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18270.html">First-principles study of magnetic and spin-dependent transport properties of Mn2VZ (Z = Al, Ga) with negative spin polarization using a disordered local moment approach at finite temperatures</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Shogo Yamashita et al.</td>
 <td><a href="http://arxiv.org/abs/2512.18270">2512.18270</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08883.html">Engineering diamond interfaces free of dark spins</a></div></td>
+<td>Xiaofei Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2504.08883">2504.08883</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-19</td>
@@ -1439,7 +1463,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09184.html">Surfaces and interfaces of infinite-layer nickelates studied by dynamical mean-field theory</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09184.html">Surfaces and interfaces of infinite-layer nickelates studied by dynamical mean-field theory</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Leonard M. Verhoff et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09184">2509.09184</a></td>
 </tr>
@@ -1643,7 +1667,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27578.html">First-Principles Study of Transition Metal Doped in 2D Polyaramid for Novel Material Modelling</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27578.html">First-Principles Study of Transition Metal Doped in 2D Polyaramid for Novel Material Modelling</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Ravi Trivedi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27578">2510.27578</a></td>
 </tr>
@@ -1823,6 +1847,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-09-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.09253.html">The generative quantum eigensolver (GQE) and its application for ground state search</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Kouhei Nakaji et al.</td>
+<td><a href="http://arxiv.org/abs/2401.09253">2401.09253</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20450.html">Universal electronic structure of multi-layered nickelates via oxygen-centered planar orbitals</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
 <td>Christine C. Au-Yeung et al.</td>
 <td><a href="http://arxiv.org/abs/2502.20450">2502.20450</a></td>
@@ -1895,13 +1925,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20142.html">Single crystal growth, structural and physical properties, and absence of a charge density wave in Ti_{0.85}Fe6Ge6</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20142.html">Single crystal growth, structural and physical properties, and absence of a charge density wave in Ti_{0.85}Fe6Ge6</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Dechao Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20142">2509.20142</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12803.html">Beyond conventional half-metals: gapless states and spin gapless semiconducting behavior in X$_2$MnGa (X = Ti, Ir) Heusler compounds</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12803.html">Beyond conventional half-metals: gapless states and spin gapless semiconducting behavior in X$_2$MnGa (X = Ti, Ir) Heusler compounds</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>N. Bouteldja et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12803">2509.12803</a></td>
 </tr>
@@ -2162,6 +2192,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13751.html">A particle view of many-body electronic structure with neural network wavefunction</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Zichen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13751">2508.13751</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13391.html">Towards Routine Condensed Phase Simulations with Delta-Learned Coupled Cluster Accuracy: Application to Liquid Water</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Niamh O&#x27;Neill et al.</td>
+<td><a href="http://arxiv.org/abs/2508.13391">2508.13391</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-16</td>
@@ -2753,6 +2789,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10963.html">Beyond real: Alternative unitary cluster Jastrow models for molecular electronic structure calculations on near-term quantum computers</a></div></td>
+<td>Nikolay V. Tkachenko et al.</td>
+<td><a href="http://arxiv.org/abs/2505.10963">2505.10963</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11443.html">Combined Experimental and Computational Analysis of Lithium Diffusion in Isostructural Pair VNb9O25 and VTa9O25</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>Manish Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11443">2505.11443</a></td>
@@ -2837,7 +2879,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01898.html">Atomistic insight into the effects of solute and pressure on phase transformation in titanium alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01898.html">Atomistic insight into the effects of solute and pressure on phase transformation in titanium alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Huicong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01898">2505.01898</a></td>
 </tr>
@@ -2855,7 +2897,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21101.html">Enhanced superconductivity in X4H15compounds via hole-doping at ambient pressure</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21101.html">Enhanced superconductivity in X4H15compounds via hole-doping at ambient pressure</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Kun Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2504.21101">2504.21101</a></td>
 </tr>
@@ -3011,6 +3053,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.10056.html">Core structure of dislocations in ordered ferromagnetic FeCo</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Aleksei Egorov et al.</td>
+<td><a href="http://arxiv.org/abs/2402.10056">2402.10056</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-31</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23969.html">Electronic structure of UGe$_2$ at ambient pressure: comparison with X-ray photoemission spectra</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a></div></td>
 <td>M. Samsel-Czekała et al.</td>
 <td><a href="http://arxiv.org/abs/2503.23969">2503.23969</a></td>
@@ -3101,7 +3149,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15759.html">Diverse electronic topography in a distorted kagome metal LaTi3Bi4</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15759.html">Diverse electronic topography in a distorted kagome metal LaTi3Bi4</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Anup Pradhan Sakhya et al.</td>
 <td><a href="http://arxiv.org/abs/2503.15759">2503.15759</a></td>
 </tr>
@@ -3179,7 +3227,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13235.html">Emergent B2 chemical orderings in the AlTiVNb and AlTiCrMo refractory high-entropy superalloys studied via first-principles theory and atomistic modelling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13235.html">Emergent B2 chemical orderings in the AlTiVNb and AlTiCrMo refractory high-entropy superalloys studied via first-principles theory and atomistic modelling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Christopher D. Woodgate et al.</td>
 <td><a href="http://arxiv.org/abs/2503.13235">2503.13235</a></td>
 </tr>
@@ -3275,7 +3323,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05370.html">Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05370.html">Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a> · <a href="umbrella-sampling-all.html">umbrella-sampling</a></div></td>
 <td>Alea Miako Tokita et al.</td>
 <td><a href="http://arxiv.org/abs/2503.05370">2503.05370</a></td>
 </tr>
@@ -3293,7 +3341,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04027.html">Machine learning driven search of hydrogen storage materials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04027.html">Machine learning driven search of hydrogen storage materials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Tanumoy Banerjee et al.</td>
 <td><a href="http://arxiv.org/abs/2503.04027">2503.04027</a></td>
 </tr>
@@ -3305,7 +3353,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02731.html">New investigation of the electronic and structural properties of (Mg,Ti)-doped and co-doped ZnO structures: A DFT and DFT+U study</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02731.html">New investigation of the electronic and structural properties of (Mg,Ti)-doped and co-doped ZnO structures: A DFT and DFT+U study</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Sidi Ahmedbowba et al.</td>
 <td><a href="http://arxiv.org/abs/2503.02731">2503.02731</a></td>
 </tr>
@@ -3443,7 +3491,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11576.html">Half-metallicity and wandering axis ferromagnetism in Fe$_2$Ti$_{1-x}$Mn$_x$Sn (0 $&lt; x \leq$ 0.3) Heusler Alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11576.html">Half-metallicity and wandering axis ferromagnetism in Fe$_2$Ti$_{1-x}$Mn$_x$Sn (0 $&lt; x \leq$ 0.3) Heusler Alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Kulbhushan Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2407.11576">2407.11576</a></td>
 </tr>
@@ -3502,6 +3550,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.02457">2406.02457</a></td>
 </tr>
 <tr class="paper">
+<td>2025-01-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.17866.html">Accuracy of Charge Densities in Electronic Structure Calculations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Moritz Gubler et al.</td>
+<td><a href="http://arxiv.org/abs/2410.17866">2410.17866</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02885.html">Beyond CCSD(T) accuracy at lower scaling with auxiliary field quantum Monte Carlo</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Ankit Mahajan et al.</td>
@@ -3536,6 +3590,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15092.html">Tuning Catalytic Efficiency: Thermodynamic Optimization of Zr-Doped \ce{Ti3C2} and \ce{Ti3CN} MXenes for HER Catalysis</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
 <td>Shrestha Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2501.15092">2501.15092</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00246.html">An NV- center in magnesium oxide as a spin qubit for hybrid quantum technologies</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="excited-states-all.html">excited-states</a></div></td>
+<td>Vrindaa Somjit et al.</td>
+<td><a href="http://arxiv.org/abs/2409.00246">2409.00246</a></td>
 </tr>
 <tr class="paper">
 <td>2025-01-24</td>
@@ -3647,7 +3707,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.18722.html">Photoreforming of plastic waste into valuable products and hydrogen using a high-entropy oxynitride with distorted atomic-scale structure</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.18722.html">Photoreforming of plastic waste into valuable products and hydrogen using a high-entropy oxynitride with distorted atomic-scale structure</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="photocatalysis-all.html">photocatalysis</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Ho Truong Nam Hai et al.</td>
 <td><a href="http://arxiv.org/abs/2412.18722">2412.18722</a></td>
 </tr>
@@ -3701,7 +3761,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12611.html">Observing Li Nucleation at Li Metal-Solid Electrolyte Interface in All-Solid-State Batteries</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12611.html">Observing Li Nucleation at Li Metal-Solid Electrolyte Interface in All-Solid-State Batteries</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Yun An et al.</td>
 <td><a href="http://arxiv.org/abs/2412.12611">2412.12611</a></td>
 </tr>
@@ -3754,6 +3814,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2412.02507">2412.02507</a></td>
 </tr>
 <tr class="paper">
+<td>2024-12-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01976.html">Designing Optically Addressable Nitrogen-Vacancy Centers in Ultra-Small Nanodiamonds: Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Arpan Kundu et al.</td>
+<td><a href="http://arxiv.org/abs/2412.01976">2412.01976</a></td>
+</tr>
+<tr class="paper">
 <td>2024-12-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07628.html">Series Expansion of a Scalable Hermitian Excitonic Renormalization Method</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Marco Bauer et al.</td>
@@ -3803,7 +3869,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10978.html">First-principles investigation of elastic, vibrational, and thermodynamic properties of kagome metals CsM$_3$Te$_5$ (M = Ti, Zr, Hf)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10978.html">First-principles investigation of elastic, vibrational, and thermodynamic properties of kagome metals CsM$_3$Te$_5$ (M = Ti, Zr, Hf)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Yifan Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2408.10978">2408.10978</a></td>
 </tr>
@@ -3958,6 +4024,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.10379">2410.10379</a></td>
 </tr>
 <tr class="paper">
+<td>2024-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10698.html">Random sampling versus active learning algorithms for machine learning potentials of quantum liquid water</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Nore Stolte et al.</td>
+<td><a href="http://arxiv.org/abs/2410.10698">2410.10698</a></td>
+</tr>
+<tr class="paper">
 <td>2024-10-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08495.html">Electronic Structure at the Perovskite Rubrene Interface: The Effect of Surface Termination</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Nicholas P. Sloane et al.</td>
@@ -3977,7 +4049,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08358.html">Tailoring the electronic properties of TiO$_2$ monolayers for solar driven catalysis through transition metal doping</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08358.html">Tailoring the electronic properties of TiO$_2$ monolayers for solar driven catalysis through transition metal doping</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Kati Asikainen et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08358">2410.08358</a></td>
 </tr>
@@ -4151,13 +4223,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17002.html">General Quantum Alchemical Free Energy Simulations via Hamiltonian Interpolation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17002.html">General Quantum Alchemical Free Energy Simulations via Hamiltonian Interpolation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Chenghan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2408.17002">2408.17002</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16301.html">Influence of anti-ferromagnetic ordering and electron correlation on the electronic structure of MnTiO$_3$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16301.html">Influence of anti-ferromagnetic ordering and electron correlation on the electronic structure of MnTiO$_3$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Asif Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2408.16301">2408.16301</a></td>
 </tr>
@@ -4211,7 +4283,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00897.html">Confinement of quasi-atomic structures in Ti$_2$N and Ti$_3$N$_2$ MXene Electrides</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00897.html">Confinement of quasi-atomic structures in Ti$_2$N and Ti$_3$N$_2$ MXene Electrides</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Chandra M. Adhikari et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00897">2408.00897</a></td>
 </tr>
@@ -4280,6 +4352,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08685.html">An &quot;ultimate&quot; coupled cluster method based entirely on $T_2$</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Zachary W. Windom et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08685">2407.08685</a></td>
+</tr>
+<tr class="paper">
+<td>2024-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15224.html">i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Yair Litman et al.</td>
+<td><a href="http://arxiv.org/abs/2405.15224">2405.15224</a></td>
 </tr>
 <tr class="paper">
 <td>2024-07-10</td>
@@ -4373,7 +4451,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15065.html">Phase transitions, Dirac and WSM states in $\mathrm{Mn}_{1-x} \mathrm{Ge}_x \mathrm{Bi}_2 \mathrm{Te}_4$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15065.html">Phase transitions, Dirac and WSM states in $\mathrm{Mn}_{1-x} \mathrm{Ge}_x \mathrm{Bi}_2 \mathrm{Te}_4$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>A. M. Shikin et al.</td>
 <td><a href="http://arxiv.org/abs/2406.15065">2406.15065</a></td>
 </tr>
@@ -4462,6 +4540,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.07729">2406.07729</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06345.html">Accurate Prediction of Core Level Binding Energies from Ground-State Density Functional Calculations: The Importance of Localization and Screening</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Jincheng Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06345">2406.06345</a></td>
+</tr>
+<tr class="paper">
 <td>2024-06-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03740.html">Correlated Electronic Structure and Incipient Flat Bands of the Kagome Superconductor CsCr3Sb5</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Yidian Li et al.</td>
@@ -4469,7 +4553,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03795.html">Cooperative CO$_2$ capture via oxalate formation on metal-decorated graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03795.html">Cooperative CO$_2$ capture via oxalate formation on metal-decorated graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Inioluwa Christianah Popoola et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03795">2406.03795</a></td>
 </tr>
@@ -4502,6 +4586,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19853.html">Correlated Electronic Structure and Density-Wave Gap in Trilayer Nickelate La4Ni3O10</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>X. Du et al.</td>
 <td><a href="http://arxiv.org/abs/2405.19853">2405.19853</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20217.html">Data-efficient fine-tuning of foundational models for first-principles quality sublimation enthalpies</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Harveen Kaur et al.</td>
+<td><a href="http://arxiv.org/abs/2405.20217">2405.20217</a></td>
 </tr>
 <tr class="paper">
 <td>2024-05-30</td>
@@ -4582,6 +4672,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2403.01113">2403.01113</a></td>
 </tr>
 <tr class="paper">
+<td>2024-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06207.html">Nuclear Quantum Effects on the Electronic Structure of Water and Ice</a></div></td>
+<td>Margaret Berrens et al.</td>
+<td><a href="http://arxiv.org/abs/2405.06207">2405.06207</a></td>
+</tr>
+<tr class="paper">
 <td>2024-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04037.html">FeZnSb$_2$: A possible NiAs-type hexagonal superconductor</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Phinifolo Cambalame</td>
@@ -4613,7 +4709,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18412.html">Uncovering an Interfacial Band Resulting from Orbital Hybridization in Nickelate Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18412.html">Uncovering an Interfacial Band Resulting from Orbital Hybridization in Nickelate Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Mingyao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2404.18412">2404.18412</a></td>
 </tr>
@@ -4718,5 +4814,23 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00963.html">Inversion and Tunability of Van Hove Singularities in $A$V$_{3}$Sb$_{5}$ ($A$ = K, Rb, and Cs) kagome metals</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
 <td>Sangjun Sim et al.</td>
 <td><a href="http://arxiv.org/abs/2404.00963">2404.00963</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.02155.html">Accelerating fourth-generation machine learning potentials by quasi-linear scaling particle mesh charge equilibration</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Moritz Gubler et al.</td>
+<td><a href="http://arxiv.org/abs/2403.02155">2403.02155</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.06955.html">Accurate Crystal Structure Prediction of New 2D Hybrid Organic Inorganic Perovskites</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Nima Karimitari et al.</td>
+<td><a href="http://arxiv.org/abs/2403.06955">2403.06955</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Amir Omranpour et al.</td>
+<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
 </tr>
 </tbody></table>

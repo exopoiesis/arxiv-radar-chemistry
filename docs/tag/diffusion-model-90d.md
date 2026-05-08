@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -269,7 +269,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Hyukjun Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25980">2603.25980</a></td>
 </tr>
@@ -659,7 +659,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="string-method-90d.html">string-method</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Elio Moreau et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22122">2602.22122</a></td>
 </tr>
@@ -755,7 +755,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
 <td>Yu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16634">2602.16634</a></td>
 </tr>
@@ -896,35 +896,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00307.html">Remasking Discrete Diffusion Models with Inference-Time Scaling</a></div></td>
 <td>Guanghan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2503.00307">2503.00307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07272.html">VideoNeuMat: Neural Material Extraction from Generative Video Models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Bowen Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07272">2602.07272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05285.html">Robust Inference-Time Steering of Protein Diffusion Models via Embedding Optimization</a></div></td>
-<td>Minhuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05285">2602.05285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07061.html">TACIT: Transformation-Aware Capturing of Implicit Thought</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Daniel Nobrega</td>
-<td><a href="http://arxiv.org/abs/2602.07061">2602.07061</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08458.html">Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Pallabee Das et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08458">2508.08458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03312.html">Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Daniel D. Richman et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03312">2512.03312</a></td>
 </tr>
 </tbody></table>

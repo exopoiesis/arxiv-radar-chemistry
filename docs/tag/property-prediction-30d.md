@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,29 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06558.html">When Does Context Help? A Systematic Study of Target-Conditional Molecular Property Prediction</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
 <td>Bryan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06558">2604.06558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22251.html">Zatom-1: A Multimodal Flow Foundation Model for 3D Molecules and Materials</a></div></td>
-<td>Alex Morehead et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22251">2602.22251</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04403.html">MolDA: Molecular Understanding and Generation via Large Language Diffusion Model</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="molecular-llm-30d.html">molecular-llm</a></div></td>
-<td>Seohyeon Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04403">2604.04403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06264.html">ToxReason: A Benchmark for Mechanistic Chemical Toxicity Reasoning via Adverse Outcome Pathway</a></div></td>
-<td>Jueon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06264">2604.06264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06336.html">BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Yi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06336">2604.06336</a></td>
 </tr>
 </tbody></table>

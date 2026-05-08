@@ -124,6 +124,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2603.22160">2603.22160</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21323.html">Machine-Learned Leftmost Hessian Eigenvectors for Robust Transition State Finding</a></div><div class="paper-tags"><a href="string-method-90d.html">string-method</a></div></td>
+<td>Guanchen Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.21323">2603.21323</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05976.html">Physics Enhanced Deep Surrogates for the Phonon Boltzmann Transport Equation</a></div></td>
 <td>Antonio Varagnolo et al.</td>
@@ -179,7 +185,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06953.html">Universal electronic manifolds for extrapolative alloy discovery</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06953.html">Universal electronic manifolds for extrapolative alloy discovery</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Pranoy Ray et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06953">2603.06953</a></td>
 </tr>
@@ -236,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17576.html">Atomistic modeling of uranium monocarbide with a machine learning interatomic potential</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Lorena Alzate-Vargas et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17576">2507.17576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06323.html">A physics-based data-driven model for CO$_2$ gas diffusion electrodes to drive automated laboratories</a></div></td>
-<td>Ivan Grega et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06323">2502.06323</a></td>
 </tr>
 </tbody></table>

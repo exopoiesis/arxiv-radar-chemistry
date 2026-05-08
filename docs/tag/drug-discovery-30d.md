@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06761.html">A Massively Scalable Ligand-Protein Dissociation Dynamic Database Derived from Atomistic Molecular Modelling</a></div></td>
 <td>Maodong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06761">2604.06761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21743.html">CellFluxRL: Biologically-Constrained Virtual Cell Modeling via Reinforcement Learning</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Dongxia Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21743">2603.21743</a></td>
 </tr>
 </tbody></table>

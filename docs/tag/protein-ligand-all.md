@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">299 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -95,7 +95,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Julian Cremer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02578">2510.02578</a></td>
 </tr>
@@ -215,7 +215,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18171.html">Computing solvation free energies of small molecules with experimental accuracy</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18171.html">Computing solvation free energies of small molecules with experimental accuracy</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>J. Harry Moore et al.</td>
 <td><a href="http://arxiv.org/abs/2405.18171">2405.18171</a></td>
 </tr>
@@ -311,7 +311,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17043.html">Great Restraining Wall in Multidimensional Collective Variable Space</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17043.html">Great Restraining Wall in Multidimensional Collective Variable Space</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Zhijun Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17043">2506.17043</a></td>
 </tr>
@@ -383,7 +383,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06141.html">Synergistic Computational Approaches for Accelerated Drug Discovery: Integrating Quantum Mechanics, Statistical Thermodynamics, and Quantum Computing</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06141.html">Synergistic Computational Approaches for Accelerated Drug Discovery: Integrating Quantum Mechanics, Statistical Thermodynamics, and Quantum Computing</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Farzad Molani et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06141">2512.06141</a></td>
 </tr>
@@ -533,7 +533,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18018.html">Committors without Descriptors</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18018.html">Committors without Descriptors</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="gnn-all.html">gnn</a></div></td>
 <td>Peilin Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18018">2510.18018</a></td>
 </tr>
@@ -713,7 +713,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
 <td>Kai Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04291">2509.04291</a></td>
 </tr>
@@ -743,7 +743,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="structure-prediction-all.html">structure-prediction</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Stephan Thaler et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19385">2508.19385</a></td>
 </tr>
@@ -857,7 +857,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08966.html">ToxBench: A Binding Affinity Prediction Benchmark with AB-FEP-Calculated Labels for Human Estrogen Receptor Alpha</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08966.html">ToxBench: A Binding Affinity Prediction Benchmark with AB-FEP-Calculated Labels for Human Estrogen Receptor Alpha</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Meng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08966">2507.08966</a></td>
 </tr>
@@ -1049,7 +1049,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17233.html">Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17233.html">Lambda-ABF-OPES: Faster Convergence with High Accuracy in Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Narjes Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2502.17233">2502.17233</a></td>
 </tr>
@@ -1186,6 +1186,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2503.04851">2503.04851</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01223.html">A Workflow to Create a High-Quality Protein-Ligand Binding Dataset for Training, Validation, and Prediction Tasks</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Yingze Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2411.01223">2411.01223</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04135.html">Biological Sequence with Language Model Prompting: A Survey</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
 <td>Jiyue Jiang et al.</td>
@@ -1301,7 +1307,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19971.html">Relative Binding Free Energy Estimation of Congeneric Ligands and Macromolecular Mutants with the Alchemical Transfer with Coordinate Swapping Method</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19971.html">Relative Binding Free Energy Estimation of Congeneric Ligands and Macromolecular Mutants with the Alchemical Transfer with Coordinate Swapping Method</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Emilio Gallicchio</td>
 <td><a href="http://arxiv.org/abs/2412.19971">2412.19971</a></td>
 </tr>
@@ -1589,7 +1595,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11057.html">SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="gnn-all.html">gnn</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11057.html">SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="gnn-all.html">gnn</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Seungyeon Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.11057">2407.11057</a></td>
 </tr>
@@ -1808,5 +1814,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02003.html">AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Xinze Li et al.</td>
 <td><a href="http://arxiv.org/abs/2404.02003">2404.02003</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.16062.html">Enhancing Protein-Ligand Binding Affinity Predictions using Neural Network Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Francesc Sabanes Zariquiey et al.</td>
+<td><a href="http://arxiv.org/abs/2401.16062">2401.16062</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08210.html">Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
+<td>Mohammad Ghazi Vakili et al.</td>
+<td><a href="http://arxiv.org/abs/2402.08210">2402.08210</a></td>
 </tr>
 </tbody></table>

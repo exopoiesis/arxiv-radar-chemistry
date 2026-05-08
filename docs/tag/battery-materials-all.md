@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-materials — all</h1>
-  <span class="paper-count">274 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -101,7 +101,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Zhoulin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07077">2604.07077</a></td>
 </tr>
@@ -239,7 +239,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03133.html">Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03133.html">Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Amal Raj Veluthedath Nair et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03133">2603.03133</a></td>
 </tr>
@@ -365,7 +365,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23031.html">Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23031.html">Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Fabrice Roncoroni et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23031">2507.23031</a></td>
 </tr>
@@ -377,7 +377,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17244.html">Practical Considerations for Finite Concentrations Molecular Dynamics Simulations</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17244.html">Practical Considerations for Finite Concentrations Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a></div></td>
 <td>Xiaoxu Ruan et al.</td>
 <td><a href="http://arxiv.org/abs/2601.17244">2601.17244</a></td>
 </tr>
@@ -472,6 +472,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.22680">2512.22680</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00994.html">Calculated state-of-the art results for solvation and ionization energies of thousands of organic molecules relevant to battery design</a></div></td>
+<td>Jan Weinreich et al.</td>
+<td><a href="http://arxiv.org/abs/2411.00994">2411.00994</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17659.html">Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Madhav R. Muthyala et al.</td>
@@ -542,6 +548,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20863.html">Bridging Atomistic and Mesoscale Lithium Transport via Machine-Learned Force Fields and Markov State Models</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Muhammad Nawaz Qaisrani et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20863">2511.20863</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15402.html">Mechanistic study of mixed lithium halides solid state electrolytes</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Davide Tisi et al.</td>
+<td><a href="http://arxiv.org/abs/2511.15402">2511.15402</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-18</td>
@@ -731,7 +743,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20605.html">Modeling phase transformations in Mn-rich disordered rocksalt cathodes with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20605.html">Modeling phase transformations in Mn-rich disordered rocksalt cathodes with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Peichen Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20605">2506.20605</a></td>
 </tr>
@@ -905,13 +917,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Jingchen Lian et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02334">2507.02334</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11199.html">Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11199.html">Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Selva Chandrasekaran Selvaraj et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11199">2506.11199</a></td>
 </tr>
@@ -1013,7 +1025,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10967.html">Exploration of amorphous V$_2$O$_5$ as cathode for magnesium batteries</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10967.html">Exploration of amorphous V$_2$O$_5$ as cathode for magnesium batteries</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Vijay Choyal et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10967">2505.10967</a></td>
 </tr>
@@ -1235,7 +1247,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07947.html">Local doping of an oxide semiconductor by voltage-driven splitting of anti-Frenkel defects</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07947.html">Local doping of an oxide semiconductor by voltage-driven splitting of anti-Frenkel defects</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Jiali He et al.</td>
 <td><a href="http://arxiv.org/abs/2502.07947">2502.07947</a></td>
 </tr>
@@ -1318,8 +1330,14 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2412.17216">2412.17216</a></td>
 </tr>
 <tr class="paper">
+<td>2024-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15455.html">Learning charges and long-range interactions from energies and forces</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Dongjin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2412.15455">2412.15455</a></td>
+</tr>
+<tr class="paper">
 <td>2024-12-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12611.html">Observing Li Nucleation at Li Metal-Solid Electrolyte Interface in All-Solid-State Batteries</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12611.html">Observing Li Nucleation at Li Metal-Solid Electrolyte Interface in All-Solid-State Batteries</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Yun An et al.</td>
 <td><a href="http://arxiv.org/abs/2412.12611">2412.12611</a></td>
 </tr>
@@ -1415,7 +1433,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02535.html">The Origin of Enhanced Conductivity and Structure Change in Defective Li4Ti5O12 or Blue-LTO : a study combined theoretical and experimental perspectives</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02535.html">The Origin of Enhanced Conductivity and Structure Change in Defective Li4Ti5O12 or Blue-LTO : a study combined theoretical and experimental perspectives</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Yute Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02535">2410.02535</a></td>
 </tr>
@@ -1558,6 +1576,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2403.01077">2403.01077</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12936.html">Thermal conductivity of Li$_3$PS$_4$ solid electrolytes with ab initio accuracy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Davide Tisi et al.</td>
+<td><a href="http://arxiv.org/abs/2401.12936">2401.12936</a></td>
+</tr>
+<tr class="paper">
 <td>2024-06-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10293.html">Non-nucleon metastable excitations in nuclear matter and $e^{-}$ catalysis as a quark-cumulative mechanism for initiating low-energy nuclear chemical processes: phenomenology</a></div></td>
 <td>Serge F. Timashev</td>
@@ -1588,6 +1612,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2405.17947">2405.17947</a></td>
 </tr>
 <tr class="paper">
+<td>2024-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16835.html">Superionic surface Li-ion transport in carbonaceous materials</a></div><div class="paper-tags"><a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Jianbin Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16835">2405.16835</a></td>
+</tr>
+<tr class="paper">
 <td>2024-05-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13261.html">Image charge effects under metal and dieletric boundary conditions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Tingtao Zhou et al.</td>
@@ -1607,7 +1637,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07614.html">Exploration of oxyfluoride frameworks as Na-ion cathodes</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="mof-all.html">mof</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07614.html">Exploration of oxyfluoride frameworks as Na-ion cathodes</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="mof-all.html">mof</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Debolina Deb et al.</td>
 <td><a href="http://arxiv.org/abs/2405.07614">2405.07614</a></td>
 </tr>
@@ -1658,5 +1688,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04226.html">Direct evidence of low work function on SrVO$_3$ cathode using thermionic electron emission microscopy and high-field ultraviolet photoemission spectroscopy</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Md Sariful Sheikh et al.</td>
 <td><a href="http://arxiv.org/abs/2404.04226">2404.04226</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Amir Omranpour et al.</td>
+<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
 </tr>
 </tbody></table>

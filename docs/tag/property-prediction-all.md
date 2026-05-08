@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">389 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1187,7 +1187,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07798.html">Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07798.html">Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys</a></div><div class="paper-tags"><a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Cheng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07798">2508.07798</a></td>
 </tr>
@@ -1718,6 +1718,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04362.html">A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Yiheng Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2503.04362">2503.04362</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03837.html">Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Tsz Wai Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2503.03837">2503.03837</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-04</td>

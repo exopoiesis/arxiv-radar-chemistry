@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">371 papers</span>
+  <span class="paper-count">381 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,7 +17,7 @@ current_window: all
 <tbody>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Nico Yannik Merkt</td>
 <td><a href="http://arxiv.org/abs/2604.26428">2604.26428</a></td>
 </tr>
@@ -221,6 +221,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20055.html">Occupancy Extrapolation: Reaching Many Excited Electronic States from Ground State Calculations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Yichen Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2603.20055">2603.20055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26265.html">Inelastic nucleon-nucleus scattering from a microscopic point of view</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Matteo Vorabbi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26265">2603.26265</a></td>
@@ -268,10 +274,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.05144">2502.05144</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15879.html">Velocity Gauge for Oscillator Strength in $Δ$SCF theory</a></div></td>
+<td>Yang Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2603.15879">2603.15879</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14802.html">Ultrafast optically induced tunneling in narrow metallic gaps from the time dependent density functional perspective</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Boyang Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14802">2509.14802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12859.html">Auger Spectroscopy via Generative Quantum Eigensolver: A Quantum Approach to Molecular Excitations</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Kimberlee Keithley et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12859">2603.12859</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-12</td>
@@ -1367,7 +1385,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02143.html">Construction of First Principle Based Adiabatic and Diabatic Hamiltonian for TiO$_6^{8-}$ unit of BaTiO$_3$ Crystal: Photoemission Spectra and Ferroelectricity</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02143.html">Construction of First Principle Based Adiabatic and Diabatic Hamiltonian for TiO$_6^{8-}$ unit of BaTiO$_3$ Crystal: Photoemission Spectra and Ferroelectricity</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Mantu Kumar Sah et al.</td>
 <td><a href="http://arxiv.org/abs/2505.02143">2505.02143</a></td>
 </tr>
@@ -1552,6 +1570,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2503.09092">2503.09092</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09814.html">A practical guide to machine learning interatomic potentials -- Status and future</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Ryan Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2503.09814">2503.09814</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07063.html">Electronic and optical excitations of K-Sb and Na-Sb crystals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Richard Schier et al.</td>
@@ -1660,6 +1684,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2501.16280">2501.16280</a></td>
 </tr>
 <tr class="paper">
+<td>2025-01-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00246.html">An NV- center in magnesium oxide as a spin qubit for hybrid quantum technologies</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Vrindaa Somjit et al.</td>
+<td><a href="http://arxiv.org/abs/2409.00246">2409.00246</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11961.html">Hybrid Gauge Approach for Accurate Real-Time TDDFT Simulations with Numerical Atomic Orbitals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Haotian Zhao et al.</td>
@@ -1703,7 +1733,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-01-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10555.html">Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10555.html">Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Hirofumi Nishi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10555">2407.10555</a></td>
 </tr>
@@ -2009,6 +2039,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08443.html">Fractional Charges, Linear Conditions and Chemical Potentials for Excited States in $ΔSCF$ Theory</a></div></td>
+<td>Weitao Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2408.08443">2408.08443</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10059.html">Orbital Energies Are Chemical Potentials in Ground-State Density Functional Theory and Excited-State $Δ$SCF Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Weitao Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.10059">2408.10059</a></td>
@@ -2183,7 +2219,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08693.html">Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08693.html">Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Brieuc Le Dé et al.</td>
 <td><a href="http://arxiv.org/abs/2405.08693">2405.08693</a></td>
 </tr>
@@ -2198,6 +2234,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.17815.html">Ultrafast Heating Induced Suppression of $d$-band Dominance in the Electronic Excitation Spectrum of Cuprum</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
 <td>Zhandos Moldabekov et al.</td>
 <td><a href="http://arxiv.org/abs/2403.17815">2403.17815</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05437.html">Measurement of Coherent Vibrational Dynamics with X-ray Transient Absorption Spectroscopy Simultaneously at the Carbon K- and Chlorine L$_{2,3}$- Edges</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td>Andrew D. Ross et al.</td>
+<td><a href="http://arxiv.org/abs/2405.05437">2405.05437</a></td>
 </tr>
 <tr class="paper">
 <td>2024-05-02</td>
@@ -2240,5 +2282,23 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05837.html">Self-Trapped Excitons in Metal-Halide Perovskites Investigated by Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Yu Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2404.05837">2404.05837</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12933.html">Analytic Nuclear Gradients for Complete Active Space Linearized Pair-Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>Matthew R. Hennefarth et al.</td>
+<td><a href="http://arxiv.org/abs/2401.12933">2401.12933</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.04604.html">Foundation for the ΔSCF Approach in Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Weitao Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2403.04604">2403.04604</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.06745.html">Quantum Vibronic Effects on the Excitation Energies of the Nitrogen-Vacancy Center in Diamond</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Arpan Kundu et al.</td>
+<td><a href="http://arxiv.org/abs/2401.06745">2401.06745</a></td>
 </tr>
 </tbody></table>

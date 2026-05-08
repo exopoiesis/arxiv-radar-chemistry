@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01367.html">From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>King Yiu Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01367">2605.01367</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25610.html">Optimizing ground state preparation protocols with autoresearch</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Luis Mantilla Calderón et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25610">2604.25610</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25884.html">QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding</a></div></td>
+<td>Shuxiang Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25884">2604.25884</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-23</td>
@@ -71,7 +83,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Narjes Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
 </tr>
@@ -401,6 +413,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.09131.html">Artificial Intelligence for Quantum Computing</a></div></td>
+<td>Yuri Alexeev et al.</td>
+<td><a href="http://arxiv.org/abs/2411.09131">2411.09131</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13138.html">A Joint Quantum Computing, Neural Network and Embedding Theory Approach for the Derivation of the Universal Functional</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Martin J. Uttendorfer et al.</td>
 <td><a href="http://arxiv.org/abs/2512.13138">2512.13138</a></td>
@@ -500,6 +518,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26688.html">FlowQ-Net: A Generative Framework for Automated Quantum Circuit Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Jun Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26688">2510.26688</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.16714.html">Quantum Transformer: Accelerating model inference via quantum linear algebra</a></div></td>
+<td>Naixu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2402.16714">2402.16714</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-28</td>
@@ -760,6 +784,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2506.18877">2506.18877</a></td>
 </tr>
 <tr class="paper">
+<td>2025-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05961.html">Quantum mechanical dataset of 836k neutral closed shell molecules with upto 5 heavy atoms from CNOFSiPSClBr</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Danish Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2405.05961">2405.05961</a></td>
+</tr>
+<tr class="paper">
 <td>2025-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17199.html">Tighter Error Bounds for the qDRIFT Algorithm</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>I. J. David et al.</td>
@@ -842,11 +872,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13517.html">CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Hao Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2503.13517">2503.13517</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07876.html">Quantum Algorithm for Structure-Based Virtual Drug Screening Using Classical Force Fields</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Pei-Kun Yang</td>
-<td><a href="http://arxiv.org/abs/2505.07876">2505.07876</a></td>
 </tr>
 </tbody></table>

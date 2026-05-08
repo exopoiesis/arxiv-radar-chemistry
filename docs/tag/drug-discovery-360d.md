@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">588 papers</span>
+  <span class="paper-count">583 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -233,7 +233,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Narjes Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
 </tr>
@@ -293,7 +293,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Julian Cremer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02578">2510.02578</a></td>
 </tr>
@@ -635,7 +635,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Yuchen Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00614">2603.00614</a></td>
 </tr>
@@ -767,7 +767,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15236.html">BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15236.html">BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Anjie Qiao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15236">2602.15236</a></td>
 </tr>
@@ -1330,6 +1330,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2512.18203">2512.18203</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18531.html">Pushing the limits of one-dimensional NMR spectroscopy for automated structure elucidation using artificial intelligence</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
+<td>Frank Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2512.18531">2512.18531</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17702.html">MolMark: Safeguarding Molecular Structures through Learnable Atom-Level Watermarking</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Runwen Hu et al.</td>
@@ -1493,7 +1499,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06141.html">Synergistic Computational Approaches for Accelerated Drug Discovery: Integrating Quantum Mechanics, Statistical Thermodynamics, and Quantum Computing</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06141.html">Synergistic Computational Approaches for Accelerated Drug Discovery: Integrating Quantum Mechanics, Statistical Thermodynamics, and Quantum Computing</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Farzad Molani et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06141">2512.06141</a></td>
 </tr>
@@ -2573,7 +2579,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Stephan Thaler et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19385">2508.19385</a></td>
 </tr>
@@ -2801,7 +2807,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20130.html">Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20130.html">Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Yi He et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20130">2507.20130</a></td>
 </tr>
@@ -2957,7 +2963,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08966.html">ToxBench: A Binding Affinity Prediction Benchmark with AB-FEP-Calculated Labels for Human Estrogen Receptor Alpha</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08966.html">ToxBench: A Binding Affinity Prediction Benchmark with AB-FEP-Calculated Labels for Human Estrogen Receptor Alpha</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Meng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08966">2507.08966</a></td>
 </tr>
@@ -3506,41 +3512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22674.html">PSBench: a large-scale benchmark for estimating the accuracy of protein complex structural models</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Pawan Neupane et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22674">2505.22674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00183.html">Predicting solvation free energies with an implicit solvent machine learning potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Sebastien Röcken et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00183">2406.00183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15587.html">MetaMolGen: A Neural Graph Motif Generation Model for De Novo Molecular Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Zimo Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15587">2504.15587</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20127.html">Learning Hierarchical Interaction for Accurate Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Huiyang Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20127">2504.20127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05877.html">Multi-Modal Molecular Representation Learning via Structure Awareness</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Rong Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05877">2505.05877</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07748.html">In Silico Prediction and Validation of LmGt Inhibitors Using QSAR and Molecular Docking Approaches</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Pronama Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07748">2505.07748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07876.html">Quantum Algorithm for Structure-Based Virtual Drug Screening Using Classical Force Fields</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Pei-Kun Yang</td>
-<td><a href="http://arxiv.org/abs/2505.07876">2505.07876</a></td>
 </tr>
 </tbody></table>

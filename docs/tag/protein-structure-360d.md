@@ -281,7 +281,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Polina V. Banushkina et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
 </tr>
@@ -317,7 +317,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="string-method-360d.html">string-method</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Elio Moreau et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22122">2602.22122</a></td>
 </tr>
@@ -335,7 +335,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Seonghyun Park et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07390">2507.07390</a></td>
 </tr>
@@ -359,7 +359,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="umbrella-sampling-360d.html">umbrella-sampling</a></div></td>
 <td>Yu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16634">2602.16634</a></td>
 </tr>
@@ -689,7 +689,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03825.html">Acceleration of Parallel Tempering for Markov Chain Monte Carlo methods</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03825.html">Acceleration of Parallel Tempering for Markov Chain Monte Carlo methods</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Aingeru Ramos et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03825">2512.03825</a></td>
 </tr>
@@ -1241,7 +1241,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.08154.html">Fast Sampling of Protein Conformational Dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="protein-function-360d.html">protein-function</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.08154.html">Fast Sampling of Protein Conformational Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="protein-function-360d.html">protein-function</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Michael A. Sauer et al.</td>
 <td><a href="http://arxiv.org/abs/2411.08154">2411.08154</a></td>
 </tr>
@@ -1361,7 +1361,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04052.html">Understanding Reaction Mechanisms from Start to Finish</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04052.html">Understanding Reaction Mechanisms from Start to Finish</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Rik S. Breebaart et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04052">2507.04052</a></td>
 </tr>
@@ -1421,7 +1421,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18823.html">Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18823.html">Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Anton Klimek et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18823">2506.18823</a></td>
 </tr>

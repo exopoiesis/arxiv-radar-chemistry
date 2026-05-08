@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -142,6 +142,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2602.17489">2602.17489</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15394.html">Atomic-scale order enables high thermal boundary conductance at $β$-Ga$_2$O$_3$/4H-SiC interfaces</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Hongao Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15394">2604.15394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07043.html">Uni2D: A Universal Machine Learning Interatomic Potential for Two-Dimensional Materials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Haidi Wang et al.</td>
@@ -212,29 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07646.html">Multiscale morphology and contact mechanics of physisorbed Al and Cu nanoparticles</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Mykola Prodanov et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07646">2604.07646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07083.html">Ferromagnetic Insulator to Metal Transition in Non-Centrosymmetric Graphene Nanoribbons</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Aidan P. Delgado et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07083">2601.07083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04434.html">Collective Electrostatics and Band Alignment in Janus MoSTe nanotubes</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Adithya Sadanandan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04434">2604.04434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04718.html">Transforming Discarded Thermoelectrics into High-Performance HER Catalysts</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
-<td>Gemeda Jemal Usa et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04718">2604.04718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05220.html">Many-body description of two-dimensional van der Waals ferroelectric $α-$In$_2$Se$_3$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Denzel Ayala et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05220">2604.05220</a></td>
 </tr>
 </tbody></table>

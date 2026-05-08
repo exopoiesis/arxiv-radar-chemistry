@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">455 papers</span>
+  <span class="paper-count">456 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -281,7 +281,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Polina V. Banushkina et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
 </tr>
@@ -317,7 +317,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="string-method-all.html">string-method</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Elio Moreau et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22122">2602.22122</a></td>
 </tr>
@@ -335,7 +335,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Seonghyun Park et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07390">2507.07390</a></td>
 </tr>
@@ -359,7 +359,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="umbrella-sampling-all.html">umbrella-sampling</a></div></td>
 <td>Yu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16634">2602.16634</a></td>
 </tr>
@@ -689,7 +689,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03825.html">Acceleration of Parallel Tempering for Markov Chain Monte Carlo methods</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03825.html">Acceleration of Parallel Tempering for Markov Chain Monte Carlo methods</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Aingeru Ramos et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03825">2512.03825</a></td>
 </tr>
@@ -1241,7 +1241,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.08154.html">Fast Sampling of Protein Conformational Dynamics</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="protein-function-all.html">protein-function</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.08154.html">Fast Sampling of Protein Conformational Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-function-all.html">protein-function</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Michael A. Sauer et al.</td>
 <td><a href="http://arxiv.org/abs/2411.08154">2411.08154</a></td>
 </tr>
@@ -1361,7 +1361,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04052.html">Understanding Reaction Mechanisms from Start to Finish</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04052.html">Understanding Reaction Mechanisms from Start to Finish</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Rik S. Breebaart et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04052">2507.04052</a></td>
 </tr>
@@ -1421,7 +1421,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18823.html">Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18823.html">Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Anton Klimek et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18823">2506.18823</a></td>
 </tr>
@@ -2117,7 +2117,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10115.html">Accelerating Molecular Dynamics through Informed Resetting</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10115.html">Accelerating Molecular Dynamics through Informed Resetting</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Jonathan R. Church et al.</td>
 <td><a href="http://arxiv.org/abs/2409.10115">2409.10115</a></td>
 </tr>
@@ -2183,7 +2183,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07974.html">Doob&#x27;s Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07974.html">Doob&#x27;s Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a></div></td>
 <td>Yuanqi Du et al.</td>
 <td><a href="http://arxiv.org/abs/2410.07974">2410.07974</a></td>
 </tr>
@@ -2201,7 +2201,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04400.html">Enhanced Sampling of Protein Conformational Changes via True Reaction Coordinates from Energy Relaxation</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04400.html">Enhanced Sampling of Protein Conformational Changes via True Reaction Coordinates from Energy Relaxation</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Huiyu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2412.04400">2412.04400</a></td>
 </tr>
@@ -2435,7 +2435,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06428.html">Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06428.html">Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles</a></div><div class="paper-tags"><a href="string-method-all.html">string-method</a></div></td>
 <td>Jakub Rydzewski</td>
 <td><a href="http://arxiv.org/abs/2409.06428">2409.06428</a></td>
 </tr>
@@ -2738,6 +2738,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06651.html">Using GANs for De Novo Protein Design Targeting Microglial IL-3R$α$ to Inhibit Alzheimer&#x27;s Progression</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Arnav Swaroop</td>
 <td><a href="http://arxiv.org/abs/2405.06651">2405.06651</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.05279.html">Computing the Committor with the Committor: an Anatomy of the Transition State Ensemble</a></div></td>
+<td>Peilin Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2401.05279">2401.05279</a></td>
 </tr>
 <tr class="paper">
 <td>2024-04-01</td>

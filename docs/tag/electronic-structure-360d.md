@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">465 papers</span>
+  <span class="paper-count">467 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Mihail Bogojeski et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24607.html">Errors that matter: Uncertainty-aware universal machine-learning potentials calibrated on experiments</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Matthias Kellner et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24607">2604.24607</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-26</td>
@@ -221,7 +227,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Sikander Azam et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09226">2604.09226</a></td>
 </tr>
@@ -521,6 +527,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12859.html">Auger Spectroscopy via Generative Quantum Eigensolver: A Quantum Approach to Molecular Excitations</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Kimberlee Keithley et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12859">2603.12859</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13494.html">Accurate electronic and optical properties of bulk antiferromagnet CrSBr via a tuned hybrid density functional with on-site corrections</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Ashwin Ramasubramaniam et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13494">2603.13494</a></td>
@@ -617,7 +629,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04103.html">Machine learning assisted High-Throughput study of M$_4$X$_3$T$_x$ MXenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04103.html">Machine learning assisted High-Throughput study of M$_4$X$_3$T$_x$ MXenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Sakshi Goel et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04103">2603.04103</a></td>
 </tr>
@@ -659,7 +671,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00271.html">Interfacial properties of MoS2 thin films grown on functional substrates</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Hafiz Sami Ur Rehman et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00271">2603.00271</a></td>
 </tr>
@@ -767,7 +779,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15446.html">On the origin of in-gap states in amorphous Ge$_2$Sb$_2$Te$_5$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15446.html">On the origin of in-gap states in amorphous Ge$_2$Sb$_2$Te$_5$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Omar Abou El Kheir et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15446">2602.15446</a></td>
 </tr>
@@ -977,7 +989,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16528.html">Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16528.html">Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Christopher D. Woodgate et al.</td>
 <td><a href="http://arxiv.org/abs/2601.16528">2601.16528</a></td>
 </tr>
@@ -1079,7 +1091,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23449.html">Universal and Experiment-calibrated Prediction of XANES through Crystal Graph Neural Network and Transfer Learning Strategy</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23449.html">Universal and Experiment-calibrated Prediction of XANES through Crystal Graph Neural Network and Transfer Learning Strategy</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Zichang Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2512.23449">2512.23449</a></td>
 </tr>
@@ -1088,6 +1100,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07098.html">Electric field gradient in accurate quantum chemical calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Andrei Derevianko et al.</td>
 <td><a href="http://arxiv.org/abs/2601.07098">2601.07098</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17418.html">A universal machine learning model for the electronic density of states</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Wei Bin How et al.</td>
+<td><a href="http://arxiv.org/abs/2508.17418">2508.17418</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-08</td>
@@ -1169,7 +1187,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24219.html">Increased Covalence and V-center mediated Dark Fenton-Like Reactions in V-doped TiO2: Mechanisms of Enhanced Charge-Transfer</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24219.html">Increased Covalence and V-center mediated Dark Fenton-Like Reactions in V-doped TiO2: Mechanisms of Enhanced Charge-Transfer</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Manju Kumari et al.</td>
 <td><a href="http://arxiv.org/abs/2512.24219">2512.24219</a></td>
 </tr>
@@ -1268,6 +1286,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18270.html">First-principles study of magnetic and spin-dependent transport properties of Mn2VZ (Z = Al, Ga) with negative spin polarization using a disordered local moment approach at finite temperatures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Shogo Yamashita et al.</td>
 <td><a href="http://arxiv.org/abs/2512.18270">2512.18270</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08883.html">Engineering diamond interfaces free of dark spins</a></div></td>
+<td>Xiaofei Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2504.08883">2504.08883</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-19</td>
@@ -1439,7 +1463,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09184.html">Surfaces and interfaces of infinite-layer nickelates studied by dynamical mean-field theory</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09184.html">Surfaces and interfaces of infinite-layer nickelates studied by dynamical mean-field theory</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Leonard M. Verhoff et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09184">2509.09184</a></td>
 </tr>
@@ -1643,7 +1667,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27578.html">First-Principles Study of Transition Metal Doped in 2D Polyaramid for Novel Material Modelling</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27578.html">First-Principles Study of Transition Metal Doped in 2D Polyaramid for Novel Material Modelling</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Ravi Trivedi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27578">2510.27578</a></td>
 </tr>
@@ -1823,6 +1847,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-09-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.09253.html">The generative quantum eigensolver (GQE) and its application for ground state search</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Kouhei Nakaji et al.</td>
+<td><a href="http://arxiv.org/abs/2401.09253">2401.09253</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20450.html">Universal electronic structure of multi-layered nickelates via oxygen-centered planar orbitals</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Christine C. Au-Yeung et al.</td>
 <td><a href="http://arxiv.org/abs/2502.20450">2502.20450</a></td>
@@ -1895,13 +1925,13 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20142.html">Single crystal growth, structural and physical properties, and absence of a charge density wave in Ti_{0.85}Fe6Ge6</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20142.html">Single crystal growth, structural and physical properties, and absence of a charge density wave in Ti_{0.85}Fe6Ge6</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Dechao Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20142">2509.20142</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12803.html">Beyond conventional half-metals: gapless states and spin gapless semiconducting behavior in X$_2$MnGa (X = Ti, Ir) Heusler compounds</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12803.html">Beyond conventional half-metals: gapless states and spin gapless semiconducting behavior in X$_2$MnGa (X = Ti, Ir) Heusler compounds</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>N. Bouteldja et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12803">2509.12803</a></td>
 </tr>
@@ -2162,6 +2192,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13751.html">A particle view of many-body electronic structure with neural network wavefunction</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Zichen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13751">2508.13751</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13391.html">Towards Routine Condensed Phase Simulations with Delta-Learned Coupled Cluster Accuracy: Application to Liquid Water</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Niamh O&#x27;Neill et al.</td>
+<td><a href="http://arxiv.org/abs/2508.13391">2508.13391</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-16</td>
@@ -2753,6 +2789,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10963.html">Beyond real: Alternative unitary cluster Jastrow models for molecular electronic structure calculations on near-term quantum computers</a></div></td>
+<td>Nikolay V. Tkachenko et al.</td>
+<td><a href="http://arxiv.org/abs/2505.10963">2505.10963</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11443.html">Combined Experimental and Computational Analysis of Lithium Diffusion in Isostructural Pair VNb9O25 and VTa9O25</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Manish Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11443">2505.11443</a></td>
@@ -2774,35 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08065.html">InvDesFlow: An AI-driven materials inverse design workflow to explore possible high-temperature superconductors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2409.08065">2409.08065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07942.html">Electronic structure of monolayer-CrTe$_2$: an antiferromagnetic 2D van der Waals material</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Olivia Armitage et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07942">2505.07942</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08055.html">Lanthanide L-Edge Spectroscopy of High-Entropy Oxides: Insights into Valence and Phase Stability</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Gerald R. Bejger et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08055">2505.08055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07319.html">GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Isaac Onyango et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07319">2504.07319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08973.html">Electronic Structure of Kramers Nodal-Line Semimetal YAuGe and Anomalous Hall Effect Induced by Magnetic Rare-Earth Substitution</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Takashi Kurumaji et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08973">2501.08973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06662.html">Doping Topological Dirac Semimetal with magnetic impurities: electronic structure of Mn-doped Cd$_3$As$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>H. Ness et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06662">2505.06662</a></td>
 </tr>
 </tbody></table>

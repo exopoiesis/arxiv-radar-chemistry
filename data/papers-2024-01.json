@@ -1,0 +1,135 @@
+{
+ "2401.06745": {
+  "abstract": "We investigate the impact of quantum vibronic coupling on the electronic properties of solid-state spin defects using stochastic methods and first principles molecular dynamics with a quantum thermostat. Focusing on the negatively charged nitrogen-vacancy center in diamond as an exemplary case, we found a significant dynamic Jahn-Teller splitting of the doubly degenerate single-particle levels within the diamond's band gap, even at 0 K, with a magnitude exceeding 180 meV. This pronounced splitting leads to substantial renormalizations of these levels and subsequently, of the vertical excitation energies of the doubly degenerate singlet and triplet excited states. Our findings underscore the pressing need to incorporate quantum vibronic effects in first-principles calculations, particularly when comparing computed vertical excitation energies with experimental data. Our study also reveals the efficiency of stochastic thermal line sampling for studying phonon renormalizations of solid-state spin defects.",
+  "authors": [
+   "Arpan Kundu",
+   "Giulia Galli"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": "41 pages and 14 figures in total. To be published in J. Phys. Chem. Lett",
+  "first_author": "Arpan Kundu",
+  "pdf_url": "http://arxiv.org/pdf/2401.06745",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-01-12",
+  "tags": [
+   "ab-initio",
+   "band-gap",
+   "excited-states",
+   "molecular-dynamics"
+  ],
+  "title": "Quantum Vibronic Effects on the Excitation Energies of the Nitrogen-Vacancy Center in Diamond",
+  "topics": [
+   "via:author-whitelist:DFT water, defects"
+  ],
+  "updated": "2024-01-12"
+ },
+ "2401.10483": {
+  "abstract": "We present an efficient particle-particle random phase approximation (ppRPA) approach that predicts accurate excitation energies of point defects, including the nitrogen-vacancy (NV$^-$) and the silicon-vacancy (SiV$^0$) centers in diamond and the divacancy center (VV$^0$) in 4H silicon carbide, with errors within 0.2 eV compared with experimental values. Starting from the ($N+2$)-electron ground state calculated with the density functional theory (DFT), the ppRPA excitation energies of the $N$-electron system are calculated as the differences between the two-electron removal energies of the ($N+2$)-electron system. We demonstrate that the ppRPA excitation energies converge rapidly with a few hundred of canonical active-space orbitals. We also show that active-space ppRPA has weak DFT starting-point dependence and is significantly cheaper than the corresponding ground-state DFT calculation. This work establishes ppRPA as an accurate and low-cost tool for investigating excited-state properties of point defects and opens up new opportunities for applications of ppRPA to periodic bulk materials.",
+  "authors": [
+   "Jiachen Li",
+   "Yu Jin",
+   "Jincheng Yu",
+   "Weitao Yang",
+   "Tianyu Zhu"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Jiachen Li",
+  "pdf_url": "http://arxiv.org/pdf/2401.10483",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-01-19",
+  "tags": [
+   "dft"
+  ],
+  "title": "Accurate Excitation Energies of Point Defects from Fast Particle-Particle Random Approximation Calculations",
+  "topics": [
+   "via:author-whitelist:DFT methodology, dispersion"
+  ],
+  "updated": "2024-01-19"
+ },
+ "2401.11936": {
+  "abstract": "This paper defines the photon surface conditions using Cartan scalars within an invariant spin frame, offering a comprehensive description of the local spacetime geometry. By employing this approach, we gain novel insights into the geometry and dynamics of photon surfaces, independent of the global spacetime structure. We first discuss the photon surface conditions in a Petrov type-D spacetime manifold, and then we simplify those conditions assuming the existence of spherical symmetry. Finally, employing the simplified, spherically symmetric photon surface conditions, we explore the dynamics of photon surfaces in static, collapsing Lemaitre-Tolman-Bondi (LTB) spacetimes, and Vaidya spacetimes. Notably, we show that photon surfaces can emerge from the central singularity during the collapse of an inhomogeneous dust cloud modeled by a LTB spacetime. This underscores the significance of our findings in comprehending the potential observational implications of the physics near the ultra-high gravity region.",
+  "authors": [
+   "Dipanjan Dey",
+   "Alan A. Coley",
+   "Nicholas T. Layden"
+  ],
+  "categories": [
+   "gr-qc"
+  ],
+  "comment": "12 pages, 3 figures",
+  "first_author": "Dipanjan Dey",
+  "pdf_url": "http://arxiv.org/pdf/2401.11936",
+  "primary_category": "gr-qc",
+  "published": "2024-01-22",
+  "tags": [],
+  "title": "The Definition of a Photon Surface in an Invariant Spin Frame",
+  "topics": [
+   "via:author-whitelist:retrosynthesis, ML chemistry"
+  ],
+  "updated": "2024-01-22"
+ },
+ "2401.12171": {
+  "abstract": "The behavior of mismatched intense charged-particle beams in periodic transport channels of the solenoid and quadrupole type is studied theoretically. The envelope-oscillation frequencies of the mismatched beam are obtained by the smooth-approximation method and by numerical evaluation of the linearly perturbed K-V envelope equations. Phase shifts of the envelope oscillations and growth rates in the case of instability are calculated for a solenoid and a magnetic quadrupole (FODO) channel using the parameters of the Maryland and GSI beam transport experiments. For comparison and the purpose of illustration, the K-V equations are integrated numerically, and envelope curves as well as single-particle trajectories for for mismatched beams are shown in graphical form. In addition, computer simulation studies with the PARMILA code were performed, and results are presented both for K-V and a Gaussian distribution in transverse phase space.",
+  "authors": [
+   "Jürgen Struckmeier",
+   "Martin Reiser"
+  ],
+  "categories": [
+   "physics.acc-ph"
+  ],
+  "comment": "27 pages, 24 figures",
+  "first_author": "Jürgen Struckmeier",
+  "pdf_url": "http://arxiv.org/pdf/2401.12171",
+  "primary_category": "physics.acc-ph",
+  "published": "2024-01-22",
+  "tags": [],
+  "title": "Theoretical studies of envelope oscillations and instabilities of mismatched intense charged-particle beams in periodic focusing channels",
+  "topics": [
+   "via:author-whitelist:GNN benchmarking, materials ML"
+  ],
+  "updated": "2024-01-22"
+ },
+ "2401.17875": {
+  "abstract": "As the most important solvent, water has been at the center of interest since the advent of computer simulations. While early molecular dynamics and Monte Carlo simulations had to make use of simple model potentials to describe the atomic interactions, accurate ab initio molecular dynamics simulations relying on the first-principles calculation of the energies and forces have opened the way to predictive simulations of aqueous systems. Still, these simulations are very demanding, which prevents the study of complex systems and their properties. Modern machine learning potentials (MLPs) have now reached a mature state, allowing to overcome these limitations by combining the high accuracy of electronic structure calculations with the efficiency of empirical force fields. In this Perspective we give a concise overview about the progress made in the simulation of water and aqueous systems employing MLPs, starting from early work on free molecules and clusters via bulk liquid water to electrolyte solutions and solid-liquid interfaces.",
+  "authors": [
+   "Amir Omranpour",
+   "Pablo Montero De Hijes",
+   "Jörg Behler",
+   "Christoph Dellago"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Amir Omranpour",
+  "pdf_url": "http://arxiv.org/pdf/2401.17875",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-01-31",
+  "tags": [
+   "ab-initio",
+   "battery-materials",
+   "dft",
+   "electronic-structure",
+   "mlip",
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials",
+  "topics": [
+   "via:author-whitelist:neural network potentials"
+  ],
+  "updated": "2024-01-31"
+ }
+}

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">204 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -395,7 +395,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16930.html">Accelerated Materials Discovery through Cost-Aware Bayesian Optimization of Real-World Indentation Workflows</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16930.html">Accelerated Materials Discovery through Cost-Aware Bayesian Optimization of Real-World Indentation Workflows</a></div><div class="paper-tags"><a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Vivek Chawla et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16930">2511.16930</a></td>
 </tr>
@@ -518,6 +518,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01092.html">Machine Learning-Driven Insights into Excitonic Effects in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Ahsan Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01092">2501.01092</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06546.html">RAISE: A self-driving laboratory for interfacial property formulation discovery</a></div></td>
+<td>Mohammad Nazeri et al.</td>
+<td><a href="http://arxiv.org/abs/2510.06546">2510.06546</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-08</td>
@@ -671,7 +677,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08539.html">Covariance Linkage Assimilation method for Unobserved Data Exploration</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08539.html">Covariance Linkage Assimilation method for Unobserved Data Exploration</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Yosuke Harashima et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08539">2408.08539</a></td>
 </tr>
@@ -899,7 +905,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05735.html">Towards Autonomous Experimentation: Bayesian Optimization over Problem Formulation Space for Accelerated Alloy Development</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05735.html">Towards Autonomous Experimentation: Bayesian Optimization over Problem Formulation Space for Accelerated Alloy Development</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Danial Khatamsaz et al.</td>
 <td><a href="http://arxiv.org/abs/2502.05735">2502.05735</a></td>
 </tr>
@@ -1193,6 +1199,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06150.html">Physics-Informed Bayesian Optimization of Variational Quantum Circuits</a></div></td>
+<td>Kim A. Nicoli et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06150">2406.06150</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06459.html">How Useful is Intermittent, Asynchronous Expert Feedback for Bayesian Optimization?</a></div></td>
 <td>Agustinus Kristiadi et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06459">2406.06459</a></td>
@@ -1202,6 +1214,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19490.html">Bayesian optimization scheme for the design of a nanofibrous high power target</a></div></td>
 <td>W. Asztalos et al.</td>
 <td><a href="http://arxiv.org/abs/2405.19490">2405.19490</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.05015.html">A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?</a></div></td>
+<td>Agustinus Kristiadi et al.</td>
+<td><a href="http://arxiv.org/abs/2402.05015">2402.05015</a></td>
 </tr>
 <tr class="paper">
 <td>2024-05-25</td>
@@ -1217,7 +1235,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07130.html">Two-Shot Optimization of Compositionally Complex Refractory Alloys</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07130.html">Two-Shot Optimization of Compositionally Complex Refractory Alloys</a></div><div class="paper-tags"><a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>James D. Paramore et al.</td>
 <td><a href="http://arxiv.org/abs/2405.07130">2405.07130</a></td>
 </tr>

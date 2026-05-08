@@ -203,7 +203,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.08154.html">Fast Sampling of Protein Conformational Dynamics</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.08154.html">Fast Sampling of Protein Conformational Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Michael A. Sauer et al.</td>
 <td><a href="http://arxiv.org/abs/2411.08154">2411.08154</a></td>
 </tr>

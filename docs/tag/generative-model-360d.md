@@ -311,7 +311,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17374.html">Generative modeling of conditional probability distributions on the level-sets of collective variables</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17374.html">Generative modeling of conditional probability distributions on the level-sets of collective variables</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Fatima-Zahrae Akhyar et al.</td>
 <td><a href="http://arxiv.org/abs/2512.17374">2512.17374</a></td>
 </tr>
@@ -323,7 +323,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Hyukjun Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25980">2603.25980</a></td>
 </tr>
@@ -389,7 +389,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18076.html">Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18076.html">Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Shengjie Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18076">2603.18076</a></td>
 </tr>
@@ -605,7 +605,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Yuchen Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00614">2603.00614</a></td>
 </tr>
@@ -1079,7 +1079,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08115.html">Symmetry-aware Conditional Generation of Crystal Structures Using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08115.html">Symmetry-aware Conditional Generation of Crystal Structures Using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Takanori Ishii et al.</td>
 <td><a href="http://arxiv.org/abs/2601.08115">2601.08115</a></td>
 </tr>
@@ -1391,7 +1391,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02196.html">Beyond Ensembles: Simulating All-Atom Protein Dynamics in a Learned Latent Space</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02196.html">Beyond Ensembles: Simulating All-Atom Protein Dynamics in a Learned Latent Space</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Aditya Sengar et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02196">2509.02196</a></td>
 </tr>
@@ -1487,7 +1487,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08063.html">Scalable Multitemperature Free Energy Sampling of Classical Ising Spin States</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08063.html">Scalable Multitemperature Free Energy Sampling of Classical Ising Spin States</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Ping Tuo et al.</td>
 <td><a href="http://arxiv.org/abs/2503.08063">2503.08063</a></td>
 </tr>
@@ -1751,7 +1751,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08357.html">Hamiltonian replica exchange augmented with diffusion-based generative models and importance sampling to assess biomolecular conformational basins and barriers</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08357.html">Hamiltonian replica exchange augmented with diffusion-based generative models and importance sampling to assess biomolecular conformational basins and barriers</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Zakarya Benayad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08357">2505.08357</a></td>
 </tr>
@@ -1904,6 +1904,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00802.html">Guiding Evolutionary Molecular Design: Adding Reinforcement Learning for Mutation Selection</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Gaelle Milon-Harnois et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00802">2510.00802</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.09253.html">The generative quantum eigensolver (GQE) and its application for ground state search</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Kouhei Nakaji et al.</td>
+<td><a href="http://arxiv.org/abs/2401.09253">2401.09253</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-30</td>
@@ -2339,7 +2345,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20130.html">Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20130.html">Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Yi He et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20130">2507.20130</a></td>
 </tr>
@@ -2528,6 +2534,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18779.html">DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model</a></div></td>
 <td>Bao Thach et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18779">2506.18779</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17140.html">MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>David Jacob Drexlin et al.</td>
+<td><a href="http://arxiv.org/abs/2506.17140">2506.17140</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-19</td>
@@ -2894,17 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08774.html">Generative Molecular Design with Steerable and Granular Synthesizability Control</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Jeff Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08774">2505.08774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15587.html">MetaMolGen: A Neural Graph Motif Generation Model for De Novo Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Zimo Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15587">2504.15587</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07442.html">DiffCrysGen: A Score-Based Diffusion Model for Design of Diverse Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07442">2505.07442</a></td>
 </tr>
 </tbody></table>

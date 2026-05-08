@@ -137,7 +137,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05793.html">Generalized Path Reweighting and History-Dependent Free Energies</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05793.html">Generalized Path Reweighting and History-Dependent Free Energies</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Titus S. van Erp et al.</td>
 <td><a href="http://arxiv.org/abs/2602.05793">2602.05793</a></td>
 </tr>

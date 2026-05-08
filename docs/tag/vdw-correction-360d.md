@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,6 +116,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20713.html">Many-body electronic structure, self-doped double-exchange, and Hund metallicity in 1T-CrTe2 bulk and monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Dong Hyun David Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20713">2603.20713</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17582.html">Quantum Field Approaches to Chemical Systems</a></div></td>
+<td>Reza Karimpour et al.</td>
+<td><a href="http://arxiv.org/abs/2603.17582">2603.17582</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-17</td>
@@ -335,6 +341,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15149.html">Machine learning surrogate models of many-body dispersion interactions in polymer melts</a></div></td>
+<td>Zhaoxiang Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2503.15149">2503.15149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20444.html">Contrasting impurity-induced magnetism and dynamics in 2H-MoTe2</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Jonas A. Krieger et al.</td>
 <td><a href="http://arxiv.org/abs/2601.20444">2601.20444</a></td>
@@ -500,6 +512,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10140.html">Emergent electronic insulating states in a one-dimensional moiré superlattice</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Jianfeng Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10140">2511.10140</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08069.html">Repulsive Inverse-Distance Interatomic Interaction from Many-Body Quantum Electrodynamics</a></div></td>
+<td>Loris Di Cairano et al.</td>
+<td><a href="http://arxiv.org/abs/2511.08069">2511.08069</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-11</td>
@@ -850,6 +868,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2507.14435">2507.14435</a></td>
 </tr>
 <tr class="paper">
+<td>2025-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05383.html">Identifying the Origin of Thermal Modulation of Exchange Bias in MnPS3/Fe3GeTe2 van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td>Aravind Puthirath Balan et al.</td>
+<td><a href="http://arxiv.org/abs/2403.05383">2403.05383</a></td>
+</tr>
+<tr class="paper">
 <td>2025-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09658.html">Leveraging Conformational Diversity for Enhanced Structure-Based Virtual Screening: Insights from Molecular Dynamics Simulations of HIV-1 Protease-Ligand Complexes</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Pei-Kun Yang</td>
@@ -1016,17 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09151.html">Exploration of the potential energy surface for the conformational interconversion of the amyloid $β$ peptide at the fibril end</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Yasuhiro Oishi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09151">2505.09151</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07942.html">Electronic structure of monolayer-CrTe$_2$: an antiferromagnetic 2D van der Waals material</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Olivia Armitage et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07942">2505.07942</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07876.html">Quantum Algorithm for Structure-Based Virtual Drug Screening Using Classical Force Fields</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Pei-Kun Yang</td>
-<td><a href="http://arxiv.org/abs/2505.07876">2505.07876</a></td>
 </tr>
 </tbody></table>

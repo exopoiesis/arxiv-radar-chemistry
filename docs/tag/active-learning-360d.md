@@ -124,6 +124,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2603.22160">2603.22160</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21323.html">Machine-Learned Leftmost Hessian Eigenvectors for Robust Transition State Finding</a></div><div class="paper-tags"><a href="string-method-360d.html">string-method</a></div></td>
+<td>Guanchen Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2603.21323">2603.21323</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05976.html">Physics Enhanced Deep Surrogates for the Phonon Boltzmann Transport Equation</a></div></td>
 <td>Antonio Varagnolo et al.</td>
@@ -179,7 +185,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06953.html">Universal electronic manifolds for extrapolative alloy discovery</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06953.html">Universal electronic manifolds for extrapolative alloy discovery</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Pranoy Ray et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06953">2603.06953</a></td>
 </tr>
@@ -293,7 +299,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08185.html">Autonomous Materials Exploration by Integrating Automated Phase Identification and AI-Assisted Human Reasoning</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08185.html">Autonomous Materials Exploration by Integrating Automated Phase Identification and AI-Assisted Human Reasoning</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Ming-Chiang Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2601.08185">2601.08185</a></td>
 </tr>
@@ -323,7 +329,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03933.html">Material exploration through active learning -- METAL</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03933.html">Material exploration through active learning -- METAL</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Joakim Brorsson et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03933">2601.03933</a></td>
 </tr>
@@ -359,7 +365,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15958.html">Active Learning Discovery of High Temperature Oxidation Resistant Refractory Complex Concentrated Alloys</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15958.html">Active Learning Discovery of High Temperature Oxidation Resistant Refractory Complex Concentrated Alloys</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Akhil Bejjipurapu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15958">2512.15958</a></td>
 </tr>
@@ -407,7 +413,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Soumajit Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
 </tr>
@@ -713,7 +719,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Joe Pitfield et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18485">2507.18485</a></td>
 </tr>
@@ -863,7 +869,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10505.html">Weighted Active Space Protocol for Multireference Machine-Learned Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10505.html">Weighted Active Space Protocol for Multireference Machine-Learned Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Aniruddha Seal et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10505">2505.10505</a></td>
 </tr>
@@ -872,11 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18162.html">Accelerating Battery Material Optimization through iterative Machine Learning</a></div></td>
-<td>Seon-Hwa Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18162">2505.18162</a></td>
 </tr>
 </tbody></table>

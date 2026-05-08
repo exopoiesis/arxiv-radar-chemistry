@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,41 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03468.html">D-Garment: Physically Grounded Latent Diffusion for Dynamic Garment Deformations</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Antoine Dumoulin et al.</td>
 <td><a href="http://arxiv.org/abs/2504.03468">2504.03468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05929.html">ReLU Networks for Exact Generation of Similar Graphs</a></div></td>
-<td>Mamoona Ghafoor et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05929">2604.05929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09216.html">Controllable protein design with particle-based Feynman-Kac steering</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Erik Hartman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09216">2511.09216</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04453.html">Generative modeling of granular flow on inclined planes using conditional flow matching</a></div></td>
-<td>Xuyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04453">2604.04453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05181.html">General Multimodal Protein Design Enables DNA-Encoding of Chemistry</a></div></td>
-<td>Jarrid Rector-Brooks et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05181">2604.05181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21743.html">CellFluxRL: Biologically-Constrained Virtual Cell Modeling via Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Dongxia Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21743">2603.21743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03911.html">Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Aniketh Iyengar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03911">2604.03911</a></td>
 </tr>
 </tbody></table>

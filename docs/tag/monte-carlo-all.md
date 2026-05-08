@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">507 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -23,7 +23,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Sourav Baiju et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26264">2604.26264</a></td>
 </tr>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25199.html">Kohn-Sham Hamiltonian from Effective Field Theory: Quasiparticle Band Narrowing from Frozen Core Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Xiansheng Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25199">2604.25199</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25610.html">Optimizing ground state preparation protocols with autoresearch</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
+<td>Luis Mantilla Calderón et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25610">2604.25610</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-28</td>
@@ -131,7 +137,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12639.html">Exact tunneling splittings from path-integral hybrid Monte Carlo with enveloping bridging potentials</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12639.html">Exact tunneling splittings from path-integral hybrid Monte Carlo with enveloping bridging potentials</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Yu-Chen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12639">2604.12639</a></td>
 </tr>
@@ -218,6 +224,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18238.html">Origin of pressure-induced anomalies in the nodal-line ferrimagnet Mn$_3$Si$_2$Te$_6$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
 <td>Varun Venkatasubramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18238">2509.18238</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18802.html">Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data</a></div><div class="paper-tags"><a href="replica-exchange-all.html">replica-exchange</a></div></td>
+<td>Abigail N. Poteshman et al.</td>
+<td><a href="http://arxiv.org/abs/2506.18802">2506.18802</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-31</td>
@@ -317,7 +329,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21207.html">Towards Computational Microscope of Chemical Order-Disorder via ML-Accelerated Monte Carlo Simulation</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21207.html">Towards Computational Microscope of Chemical Order-Disorder via ML-Accelerated Monte Carlo Simulation</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Fanli Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21207">2603.21207</a></td>
 </tr>
@@ -401,7 +413,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08855.html">Ground-State Structure Search of Defective High-Entropy Alloys Using Machine-Learning Potentials and Monte Carlo Sampling</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08855.html">Ground-State Structure Search of Defective High-Entropy Alloys Using Machine-Learning Potentials and Monte Carlo Sampling</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Siya Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08855">2603.08855</a></td>
 </tr>
@@ -491,13 +503,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17889.html">Ab initio Monte Carlo prediction of order-to-disorder transitions in multicomponent MXenes</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17889.html">Ab initio Monte Carlo prediction of order-to-disorder transitions in multicomponent MXenes</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Noah Oyeniran et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17889">2602.17889</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06308.html">Resistance of refractory high-entropy alloys to ultrafast laser irradiation</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06308.html">Resistance of refractory high-entropy alloys to ultrafast laser irradiation</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Nikita Medvedev</td>
 <td><a href="http://arxiv.org/abs/2512.06308">2512.06308</a></td>
 </tr>
@@ -623,6 +635,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03439.html">QMeCha: quantum Monte Carlo package for fermions in embedding environments</a></div></td>
+<td>Matteo Barborini et al.</td>
+<td><a href="http://arxiv.org/abs/2511.03439">2511.03439</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21964.html">From Tokens to Blocks: A Block-Diffusion Perspective on Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="molecular-llm-all.html">molecular-llm</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Qianwei Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21964">2601.21964</a></td>
@@ -683,7 +701,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-01-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16528.html">Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16528.html">Electronic structure, phase stability, and transport properties of the AlTiVCr lightweight high-entropy alloy: A computational study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Christopher D. Woodgate et al.</td>
 <td><a href="http://arxiv.org/abs/2601.16528">2601.16528</a></td>
 </tr>
@@ -730,6 +748,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.18462">2502.18462</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08683.html">Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models</a></div></td>
+<td>Stefania Scheurer et al.</td>
+<td><a href="http://arxiv.org/abs/2505.08683">2505.08683</a></td>
+</tr>
+<tr class="paper">
 <td>2026-01-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10403.html">Discrete Feynman-Kac Correctors</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
 <td>Mohsin Hasan et al.</td>
@@ -740,6 +764,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19533.html">Quantum Monte Carlo study of low-dimensional Fermi fluids of dipolar atoms</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Clio Johnson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19533">2510.19533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12649.html">Energy calibration of LHAASO-KM2A using the cosmic ray Moon shadow</a></div></td>
+<td>Zhen Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2510.12649">2510.12649</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-07</td>
@@ -941,7 +971,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03825.html">Acceleration of Parallel Tempering for Markov Chain Monte Carlo methods</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03825.html">Acceleration of Parallel Tempering for Markov Chain Monte Carlo methods</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Aingeru Ramos et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03825">2512.03825</a></td>
 </tr>
@@ -953,7 +983,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00512.html">Dual Role of Nb in Defect-Mediated Strength and Ductility of γ-TiAl Alloys</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00512.html">Dual Role of Nb in Defect-Mediated Strength and Ductility of γ-TiAl Alloys</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Zhiqiang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00512">2512.00512</a></td>
 </tr>
@@ -1066,6 +1096,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2510.27446">2510.27446</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27482.html">Study of Central Exclusive Production of $π^+π^-$, $K^+K^-$ and $p \bar{p}$ Pairs in Proton-Proton Collisions at $\sqrt{s} = 510$ GeV with the STAR Detector at RHIC</a></div></td>
+<td>Tomas Truhlar</td>
+<td><a href="http://arxiv.org/abs/2510.27482">2510.27482</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02888.html">Acceleration of the CASINO quantum Monte Carlo software using graphics processing units and OpenACC</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>B. Thorpe et al.</td>
@@ -1073,7 +1109,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07433.html">Benchmarking Simulacra AI&#x27;s Quantum Accurate Synthetic Data Generation for Chemical Sciences</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07433.html">Benchmarking Simulacra AI&#x27;s Quantum Accurate Synthetic Data Generation for Chemical Sciences</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Fabio Falcioni et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07433">2511.07433</a></td>
 </tr>
@@ -1384,6 +1420,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2509.02953">2509.02953</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12950.html">Reproducibility of fixed-node diffusion Monte Carlo across diverse community codes: The case of water-methane dimer</a></div></td>
+<td>Flaviano Della Pia et al.</td>
+<td><a href="http://arxiv.org/abs/2501.12950">2501.12950</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21339.html">Quantum Monte Carlo Benchmarking of Molecular Adsorption on Graphene-Supported Single Pt Atom</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Jeonghwan Ahn et al.</td>
@@ -1427,7 +1469,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15942.html">Hybrid Monte Carlo Metadynamics (hybridMC-MetaD)</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15942.html">Hybrid Monte Carlo Metadynamics (hybridMC-MetaD)</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
 <td>Charlotte Shiqi Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15942">2508.15942</a></td>
 </tr>
@@ -1505,7 +1547,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20084.html">On the adsorption of oxygen to high entropy alloy surfaces up to 2ML coverage using Density Functional Theory and Monte Carlo calculations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20084.html">On the adsorption of oxygen to high entropy alloy surfaces up to 2ML coverage using Density Functional Theory and Monte Carlo calculations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Tyler D. Doležal et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20084">2507.20084</a></td>
 </tr>
@@ -1559,7 +1601,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14382.html">Atomistic Simulations of Short-range Ordering with Light Interstitials in Inconel Superalloys</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14382.html">Atomistic Simulations of Short-range Ordering with Light Interstitials in Inconel Superalloys</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Tyler D. Dolžal et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14382">2507.14382</a></td>
 </tr>
@@ -1679,7 +1721,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17984.html">Exploring the impact of Ti/Al on L12 nanoprecipitation and deformation behavior in CoNiFeAlTi multi-principal element alloys through atomistic simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05961.html">Quantum mechanical dataset of 836k neutral closed shell molecules with upto 5 heavy atoms from CNOFSiPSClBr</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
+<td>Danish Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2405.05961">2405.05961</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17984.html">Exploring the impact of Ti/Al on L12 nanoprecipitation and deformation behavior in CoNiFeAlTi multi-principal element alloys through atomistic simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Amin Esfandiarpour et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17984">2506.17984</a></td>
 </tr>
@@ -1688,6 +1736,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17800.html">CLAMM: a spin CLuster expansion--Monte Carlo toolkit for Alloys and Magnetic Materials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Brian Blankenau et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17800">2506.17800</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16955.html">Search for the in-situ production of $^{77}$Ge in the GERDA neutrinoless double-beta decay experiment</a></div></td>
+<td>M. Agostini et al.</td>
+<td><a href="http://arxiv.org/abs/2506.16955">2506.16955</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-20</td>
@@ -1942,6 +1996,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.13139">2504.13139</a></td>
 </tr>
 <tr class="paper">
+<td>2025-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12374.html">Resonances in reflective Hamiltonian Monte Carlo</a></div></td>
+<td>Namu Kroupa et al.</td>
+<td><a href="http://arxiv.org/abs/2504.12374">2504.12374</a></td>
+</tr>
+<tr class="paper">
 <td>2025-04-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07948.html">Pushing the Accuracy Limit of Foundation Neural Network Models with Quantum Monte Carlo Forces and Path Integrals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Anouar Benali et al.</td>
@@ -2087,13 +2147,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13235.html">Emergent B2 chemical orderings in the AlTiVNb and AlTiCrMo refractory high-entropy superalloys studied via first-principles theory and atomistic modelling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13235.html">Emergent B2 chemical orderings in the AlTiVNb and AlTiCrMo refractory high-entropy superalloys studied via first-principles theory and atomistic modelling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Christopher D. Woodgate et al.</td>
 <td><a href="http://arxiv.org/abs/2503.13235">2503.13235</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12413.html">Antiferromagnetic two-dimensional transition-metal nitride Co$_2$N$_2$ layer with high N$\rm \acute{\textbf e}$el temperature and Dirac fermions</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12413.html">Antiferromagnetic two-dimensional transition-metal nitride Co$_2$N$_2$ layer with high N$\rm \acute{\textbf e}$el temperature and Dirac fermions</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Lujia Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2503.12413">2503.12413</a></td>
 </tr>
@@ -2132,6 +2192,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16363.html">Multiferroic Metallic Monolayer Cu(CrSe2)2</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>Ke Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.16363">2408.16363</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05873.html">Procedural Synthesis of Synthesizable Molecules</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
+<td>Michael Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2409.05873">2409.05873</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20894.html">Shock-induced HCNH+ abundance enhancement in the heart of the starburst galaxy NGC 253 unveiled by ALCHEMI</a></div></td>
+<td>Y. Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2502.20894">2502.20894</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-28</td>
@@ -2243,7 +2315,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-01-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11891.html">3D structure and stability prediction of DNA with multi-way junctions in ionic solutions</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11891.html">3D structure and stability prediction of DNA with multi-way junctions in ionic solutions</a></div><div class="paper-tags"><a href="replica-exchange-all.html">replica-exchange</a> · <a href="umbrella-sampling-all.html">umbrella-sampling</a></div></td>
 <td>Xunxun Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2501.11891">2501.11891</a></td>
 </tr>
@@ -2489,7 +2561,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07960.html">Predicting Ti-Al Binary Phase Diagram with an Artificial Neural Network Potential</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07960.html">Predicting Ti-Al Binary Phase Diagram with an Artificial Neural Network Potential</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Micah Nichols et al.</td>
 <td><a href="http://arxiv.org/abs/2411.07960">2411.07960</a></td>
 </tr>
@@ -2693,7 +2765,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17621.html">Quasiphase transition of a single-file water chain influenced by atomic charges in a water model using orientational-biased replica exchange Monte Carlo simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17621.html">Quasiphase transition of a single-file water chain influenced by atomic charges in a water model using orientational-biased replica exchange Monte Carlo simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Liang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2406.17621">2406.17621</a></td>
 </tr>
@@ -2705,7 +2777,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01841.html">Short-range order and local distortions in entropy stabilized oxides</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01841.html">Short-range order and local distortions in entropy stabilized oxides</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Solveig S. Aamlid et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01841">2406.01841</a></td>
 </tr>
@@ -2723,7 +2795,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09914.html">Normalizing flows as an enhanced sampling method for atomistic supercooled liquids</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09914.html">Normalizing flows as an enhanced sampling method for atomistic supercooled liquids</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Gerhard Jung et al.</td>
 <td><a href="http://arxiv.org/abs/2404.09914">2404.09914</a></td>
 </tr>
@@ -3017,7 +3089,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14086.html">Simulated structure and thermodynamics of decagonal Al-Co-Cu quasicrystals</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14086.html">Simulated structure and thermodynamics of decagonal Al-Co-Cu quasicrystals</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Y. Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2404.14086">2404.14086</a></td>
 </tr>
@@ -3056,5 +3128,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02628.html">GPU acceleration of ab initio simulations of large-scale identical particles based on path integral molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Yunuo Xiong</td>
 <td><a href="http://arxiv.org/abs/2404.02628">2404.02628</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Amir Omranpour et al.</td>
+<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
 </tr>
 </tbody></table>

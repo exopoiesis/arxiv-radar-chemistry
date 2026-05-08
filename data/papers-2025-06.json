@@ -1,4 +1,90 @@
 {
+ "2401.13033": {
+  "abstract": "Since the formation of the first stars, most of the gas in the Universe has been ionized. Spatial variations in the density of this ionized gas generate cosmic microwave background anisotropies via Thomson scattering, a process known as the ``anisotropic screening'' effect. We propose and implement for the first time a new estimator to cross-correlate unWISE galaxies and anisotropic screening, as measured by the Atacama Cosmology Telescope and Planck satellite. We do not significantly detect the effect; the null hypothesis is consistent with the data at 1.7 $σ$ (resp. 0.016 $σ$) for the blue (resp. green) unWISE sample. We obtain an upper limit on the integrated optical depth within a 6 arcmin disk to be $\\barτ< 0.033$ arcmin$^2$ at 95\\% confidence for the blue sample and $\\barτ< 0.057$ arcmin$^2$ for the green sample. Future measurements with Simons Observatory and CMB-S4 should detect this effect significantly. Complementary to the kinematic Sunyaev-Zel'dovich effect, this probe of the gas distribution around halos will inform models of feedback in galaxy formation and baryonic effects in galaxy lensing.",
+  "authors": [
+   "William R. Coulton",
+   "Theo Schutt",
+   "Abhishek S. Maniyar",
+   "Emmanuel Schaan",
+   "Rui An",
+   "Zachary Atkins",
+   "Nicholas Battaglia",
+   "J Richard Bond",
+   "Erminia Calabrese",
+   "Steve K. Choi",
+   "Mark J. Devlin",
+   "Adriaan J. Duivenvoorden",
+   "Jo Dunkley",
+   "Simone Ferraro",
+   "Vera Gluscevic",
+   "J. Colin Hill",
+   "Matt Hilton",
+   "Adam D. Hincks",
+   "Arthur Kosowsky",
+   "Darby Kramer",
+   "Aleksandra Kusiak",
+   "Adrien La Posta",
+   "Thibaut Louis",
+   "Mathew S. Madhavacheril",
+   "Gabriela A. Marques",
+   "Fiona McCarthy",
+   "Jeff McMahon",
+   "Kavilan Moodley",
+   "Sigurd Naess",
+   "Lyman A. Page",
+   "Bruce Partridge",
+   "Frank J. Qu",
+   "Neelima Sehgal",
+   "Blake D. Sherwin",
+   "Cristóbal Sifón",
+   "David N. Spergel",
+   "Suzanne T. Staggs",
+   "Alexander Van Engelen",
+   "Cristian Vargas",
+   "Edward J. Wollack"
+  ],
+  "categories": [
+   "astro-ph.CO"
+  ],
+  "comment": "See Schutt et al for a detailed comparison of patchy screening estimators. Major revisions since v1",
+  "first_author": "William R. Coulton",
+  "pdf_url": "http://arxiv.org/pdf/2401.13033",
+  "primary_category": "astro-ph.CO",
+  "published": "2024-01-23",
+  "tags": [],
+  "title": "The Atacama Cosmology Telescope: A search for late-time anisotropic screening of the Cosmic Microwave Background",
+  "topics": [
+   "via:author-whitelist:SchNet, equivariant ML"
+  ],
+  "updated": "2025-06-23"
+ },
+ "2401.13040": {
+  "abstract": "Thomson scattering of cosmic microwave background (CMB) photons imprints various properties of the baryons around galaxies on the CMB. One such imprint, called patchy screening, is a direct probe of the gas density profile around galaxies. It usefully complements the information from the kinematic and thermal Sunyaev-Zel'dovich effects and does not require individual redshifts. In this paper, we derive new estimators of patchy screening called the \"temperature inversion\" (TI) and \"signed\" estimators, analogous to the gradient inversion estimator of CMB lensing. Pedagogically, we clarify the relation between these estimators and the standard patchy screening quadratic estimator (QE). The new estimators trade optimality for robustness to biases caused by the dominant CMB lensing and foreground contaminants, allowing the use of smaller angular scales. We perform a simulated analysis to realistically forecast the expected precision of patchy screening measurements from four CMB experiments, ACT, SPT, Simons Observatory (SO) and CMB-S4, cross-correlated with three galaxy samples from BOSS, unWISE and the simulated Rubin LSST Data Challenge 2 catalog. Our results give further confidence in the first detection of this effect from the ACT$\\times$unWISE data in the companion paper and show patchy screening will be a powerful observable for future surveys like SO, CMB-S4 and LSST. Implementations of the patchy screening QE and the TI and signed estimators are publicly available in our LensQuEst and ThumbStack software packages, available at https://github.com/EmmanuelSchaan/LensQuEst and https://github.com/EmmanuelSchaan/ThumbStack , respectively.",
+  "authors": [
+   "Theo Schutt",
+   "Abhishek S. Maniyar",
+   "Emmanuel Schaan",
+   "William R. Coulton",
+   "Nishant Mishra"
+  ],
+  "categories": [
+   "astro-ph.CO",
+   "astro-ph.GA"
+  ],
+  "comment": "Abstract & paper unchanged from published PRD version (2024/05/23). Appended erratum derives large lensing bias also affecting ACTxunWISE companion measurement paper and proposes mitigation approach",
+  "first_author": "Theo Schutt",
+  "pdf_url": "http://arxiv.org/pdf/2401.13040",
+  "primary_category": "astro-ph.CO",
+  "published": "2024-01-23",
+  "tags": [
+   "thermodynamic-integration"
+  ],
+  "title": "A new \"temperature inversion\" estimator to detect CMB patchy screening by large-scale structure",
+  "topics": [
+   "via:author-whitelist:SchNet, equivariant ML"
+  ],
+  "updated": "2025-06-20"
+ },
  "2403.03911": {
   "abstract": "Kagome metals offer a unique platform for investigating robust electron-correlation effects because of their lattice geometry, flat bands and multi-orbital nature. In the cases with active flat bands, recent theoretical studies have pointed to a rich phase diagram that contains not only electronic orders but also quantum criticality. Very recently, $\\rm CsCr_3Sb_5$ has emerged as a strong candidate for exploring such new physics. Here, using effective tight-binding models obtained from ab initio calculations, we study the effects of electronic correlations and symmetries on the electronic structure of $\\rm CsCr_3 Sb_5$. The effective tight-binding model and Fermi surface comprise multiple Cr-$d$ orbitals and Sb-$p$ orbitals. The introduction of Hubbard-Kanamori interactions leads to orbital-selective band renormalization dominated by the $d_{xz}$ band, concurrently producing emergent flat bands very close to the Fermi level. Our analysis sets the stage for further investigations into the electronic properties of $\\rm CsCr_3Sb_5$, including electronic orders, quantum criticality and unconventional superconductivity, which promise to shed much new light into the electronic materials with frustrated lattices and bring about new connections with the correlation physics of a variety of strongly correlated systems.",
   "authors": [
@@ -179,6 +265,34 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2025-06-30"
+ },
+ "2405.05961": {
+  "abstract": "We introduce the Vector-QM24 (VQM24) dataset comprehensively covering all possible neutral closed-shell small organic and inorganic molecules with up to five heavy (\\textit{p}-block) atoms: C, N, O, F, Si, P, S, Cl, Br. All valid stoichiometries, Lewis-rule-consistent graphs, and stable conformers (identified via GFN2-xTB) were enumerated combinatorially, yielding 577k conformational isomers spanning 258k constitutional isomers and 5,599 unique stoichiometries. DFT ($ω$B97X-D3/cc-pVDZ) optimizations were performed for all, and diffusion quantum Monte Carlo (DMC@PBE0(ccECP/cc-pVQZ)) energies are provided for 10,793 lowest-energy conformers with up to 4 heavy atoms. VQM24 includes structures, vibrational modes, rotational constants, thermodynamic properties (Gibbs free energies, enthalpies, ZPVEs, entropies, heat capacities), and electronic properties such as atomization, electron interaction, exchange-correlation, dispersion energies, multipole moments (dipole to hexadecapole), alchemical potentials, Mulliken charges, and wavefunctions. Machine learning models of atomization energies on this dataset reveal significantly higher complexity than QM9, with none achieving chemical accuracy. VQM24 offers a rigorous, high-fidelity benchmark for evaluating quantum machine learning models.",
+  "authors": [
+   "Danish Khan",
+   "Anouar Benali",
+   "Scott Y. H. Kim",
+   "Guido Falk von Rudorff",
+   "O. Anatole von Lilienfeld"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Danish Khan",
+  "pdf_url": "http://arxiv.org/pdf/2405.05961",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-09",
+  "tags": [
+   "dft",
+   "monte-carlo",
+   "quantum-computing"
+  ],
+  "title": "Quantum mechanical dataset of 836k neutral closed shell molecules with upto 5 heavy atoms from CNOFSiPSClBr",
+  "topics": [
+   "via:author-whitelist:ML chemistry, QM datasets"
+  ],
+  "updated": "2025-06-22"
  },
  "2405.06724": {
   "abstract": "Reasoning about hypotheses and updating knowledge through empirical observations are central to scientific discovery. In this work, we applied logic-based machine learning methods to drive biological discovery by guiding experimentation. Genome-scale metabolic network models (GEMs) - comprehensive representations of metabolic genes and reactions - are widely used to evaluate genetic engineering of biological systems. However, GEMs often fail to accurately predict the behaviour of genetically engineered cells, primarily due to incomplete annotations of gene interactions. The task of learning the intricate genetic interactions within GEMs presents computational and empirical challenges. To efficiently predict using GEM, we describe a novel approach called Boolean Matrix Logic Programming (BMLP) by leveraging Boolean matrices to evaluate large logic programs. We developed a new system, $BMLP_{active}$, which guides cost-effective experimentation and uses interpretable logic programs to encode a state-of-the-art GEM of a model bacterial organism. Notably, $BMLP_{active}$ successfully learned the interaction between a gene pair with fewer training examples than random experimentation, overcoming the increase in experimental design space. $BMLP_{active}$ enables rapid optimisation of metabolic models to reliably engineer biological systems for producing useful compounds. It offers a realistic approach to creating a self-driving lab for biological discovery, which would then facilitate microbial engineering for practical applications.",
@@ -1788,6 +1902,34 @@
   ],
   "updated": "2025-06-26"
  },
+ "2412.07978": {
+  "abstract": "Fully automated self-driving laboratories are promising to enable high-throughput and large-scale scientific discovery by reducing repetitive labour. However, effective automation requires deep integration of laboratory knowledge, which is often unstructured, multimodal, and difficult to incorporate into current AI systems. This paper introduces the k-agents framework, designed to support experimentalists in organizing laboratory knowledge and automating experiments with agents. Our framework employs large language model-based agents to encapsulate laboratory knowledge including available laboratory operations and methods for analyzing experiment results. To automate experiments, we introduce execution agents that break multi-step experimental procedures into agent-based state machines, interact with other agents to execute each step and analyze the experiment results. The analyzed results are then utilized to drive state transitions, enabling closed-loop feedback control. To demonstrate its capabilities, we applied the agents to calibrate and operate a superconducting quantum processor, where they autonomously planned and executed experiments for hours, successfully producing and characterizing entangled quantum states at the level achieved by human scientists. Our knowledge-based agent system opens up new possibilities for managing laboratory knowledge and accelerating scientific discovery.",
+  "authors": [
+   "Shuxiang Cao",
+   "Zijian Zhang",
+   "Mohammed Alghadeer",
+   "Simone D Fasciati",
+   "Michele Piscitelli",
+   "Mustafa Bakr",
+   "Peter Leek",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "cs.AI",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Shuxiang Cao",
+  "pdf_url": "http://arxiv.org/pdf/2412.07978",
+  "primary_category": "cs.AI",
+  "published": "2024-12-10",
+  "tags": [],
+  "title": "Agents for self-driving laboratories applied to quantum computing",
+  "topics": [
+   "via:author-whitelist:ML chemistry, autonomous discovery"
+  ],
+  "updated": "2025-06-05"
+ },
  "2412.09576": {
   "abstract": "Fermionic Hamiltonians play a critical role in quantum chemistry, one of the most promising use cases for near-term quantum computers. However, since encoding nonlocal fermionic statistics using conventional qubits results in significant computational overhead, fermionic quantum hardware, such as fermion atom arrays, were proposed as a more efficient platform. In this context, we here study the many-body entanglement structure of fermionic $N$-particle states by concentrating on $M$-body reduced density matrices (DMs) across various bipartitions in Fock space. The von Neumann entropy of the reduced DM is a basis independent entanglement measure which generalizes the traditional quantum chemistry concept of the one-particle DM entanglement, which characterizes how a single fermion is entangled with the rest. We carefully examine upper bounds on the $M$-body entanglement, which are analogous to the volume law of conventional entanglement measures. To this end we establish a connection between $M$-body reduced DM and the mathematical structure of hypergraphs. Specifically, we show that a special class of hypergraphs, known as $t$-designs, corresponds to maximally entangled fermionic states. Finally, we explore fermionic many-body entanglement in random states. We semianalytically demonstrate that the distribution of reduced DMs associated with random fermionic states corresponds to the trace-fixed Wishart-Laguerre random matrix ensemble. In the limit of large single-particle dimension $D$ and a non-zero filling fraction, random states asymptotically become absolutely maximally entangled.",
   "authors": [
@@ -2557,6 +2699,29 @@
   ],
   "updated": "2025-06-04"
  },
+ "2501.10886": {
+  "abstract": "Understanding which parts of a dynamical system cause each other is extremely relevant in fundamental and applied sciences. However, inferring causal links from observational data, namely without direct manipulations of the system, is still computationally challenging, especially if the data are high-dimensional. In this study we introduce a framework for constructing causal graphs from high-dimensional time series, whose computational cost scales linearly with the number of variables. The approach is based on the automatic identification of dynamical communities, groups of variables which mutually influence each other and can therefore be described as a single node in a causal graph. These communities are efficiently identified by optimizing the Information Imbalance, a statistical quantity that assigns a weight to each putative causal variable based on its information content relative to a target variable. The communities are then ordered starting from the fully autonomous ones, whose evolution is independent from all the others, to those that are progressively dependent on other communities, building in this manner a community causal graph. We demonstrate the computational efficiency and the accuracy of our approach on time-discrete and time-continuous dynamical systems including up to 80 variables.",
+  "authors": [
+   "Matteo Allione",
+   "Vittorio Del Tatto",
+   "Alessandro Laio"
+  ],
+  "categories": [
+   "physics.data-an",
+   "stat.ME"
+  ],
+  "comment": null,
+  "first_author": "Matteo Allione",
+  "pdf_url": "http://arxiv.org/pdf/2501.10886",
+  "primary_category": "physics.data-an",
+  "published": "2025-01-18",
+  "tags": [],
+  "title": "Linear scaling causal discovery from high-dimensional time series by dynamical community detection",
+  "topics": [
+   "via:author-whitelist:metadynamics co-creator"
+  ],
+  "updated": "2025-06-26"
+ },
  "2501.11008": {
   "abstract": "Cubic silicon carbide phonon thermal conductivity has been calculated using anharmonic phonon analysis. The atomic interaction model was built using displacement-force data obtained with the High Efficiency Configuration Space Sampling (HECSS) technique and density functional theory calculated forces. In the new version of HECSS we replaced the Markov chain scheme of Metropolis-Hastings Monte-Carlo with weighting of the final sampling according to the target distribution. This increased the efficiency of the method and allowed to use -- with appropriate weight -- all generated and ab-initio evaluated samples. The quality of the proposed method is confirmed by the accuracy with which the experimental results taken from the literature were reproduced.",
   "authors": [
@@ -2807,7 +2972,8 @@
   "tags": [
    "ab-initio",
    "dft",
-   "magnetic-properties"
+   "magnetic-properties",
+   "thermodynamic-integration"
   ],
   "title": "Quasiparticle interference on the surface of Bi$_{\\mathbf{2}}$Se$_{\\mathbf{3}}$ terminated (PbSe)$_{\\mathbf 5}$(Bi$_{\\mathbf 2}$Se$_{\\mathbf 3}$)$_{\\mathbf 6}$",
   "topics": [
@@ -3058,7 +3224,8 @@
   ],
   "title": "Disentangling Total-Variance and Signal-to-Noise-Ratio Improves Diffusion Models",
   "topics": [
-   "Generative Design & Molecule Optimization"
+   "Generative Design & Molecule Optimization",
+   "via:author-whitelist:ML force fields, SchNet"
   ],
   "updated": "2025-06-02"
  },
@@ -3388,6 +3555,32 @@
   ],
   "updated": "2025-06-25"
  },
+ "2502.21249": {
+  "abstract": "This paper introduces a novel algorithm for Mixed-Integer Nonlinear Programming (MINLP) problems with multilinear interpolations of look-up tables. These problems arise when objective or constraints contain black-box functions only known at a finite set of evaluations on a predefined grid. We derive a piecewise-linear relaxation for the multilinear constraints resulting from the multilinear interpolations used to approximate the true functions. Supported by the fact that our proposed relaxation defines the convex hull of the original problem, we propose a novel algorithm that iteratively solves the MILP relaxation and refines the solution space through variable fixing and exclusion strategies. This approach ensures convergence to an optimal solution, which we demonstrate, while maintaining computational efficiency. We apply the proposed algorithm to a real-world offshore oil production optimization problem. In comparison to the Gurobi solver, our algorithm was able to find the optimal solution at least four times faster, and to consistently provide better incumbents under limited time.",
+  "authors": [
+   "Bruno Machado Pacheco",
+   "Pedro Marcolin Antunes",
+   "Eduardo Camponogara",
+   "Laio Oriel Seman",
+   "Vinícius Ramos Rosa",
+   "Bruno Ferreira Vieira",
+   "Cesar Longhi"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": "33 pages, 6 figures",
+  "first_author": "Bruno Machado Pacheco",
+  "pdf_url": "http://arxiv.org/pdf/2502.21249",
+  "primary_category": "math.OC",
+  "published": "2025-02-28",
+  "tags": [],
+  "title": "A relax-fix-and-exclude algorithm for an MINLP problem with multilinear interpolations",
+  "topics": [
+   "via:author-whitelist:metadynamics co-creator"
+  ],
+  "updated": "2025-06-06"
+ },
  "2502.21274": {
   "abstract": "Designing RNA molecules that interact with specific proteins is a critical challenge in experimental and computational biology. Existing computational approaches require a substantial amount of previously known interacting RNA sequences for each specific protein or a detailed knowledge of RNA structure, restricting their utility in practice. To address this limitation, we develop RNA-BAnG, a deep learning-based model designed to generate RNA sequences for protein interactions without these requirements. Central to our approach is a novel generative method, Bidirectional Anchored Generation (BAnG), which leverages the observation that protein-binding RNA sequences often contain functional binding motifs embedded within broader sequence contexts. We first validate our method on generic synthetic tasks involving similar localized motifs to those appearing in RNAs, demonstrating its benefits over existing generative approaches. We then evaluate our model on biological sequences, showing its effectiveness for conditional RNA sequence design given a binding protein.",
   "authors": [
@@ -3656,7 +3849,8 @@
   "title": "Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts",
   "topics": [
    "Generative Design & Molecule Optimization",
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "via:author-whitelist:ML chemistry, autonomous discovery"
   ],
   "updated": "2025-06-08"
  },
@@ -4045,6 +4239,42 @@
   ],
   "updated": "2025-06-18"
  },
+ "2503.10538": {
+  "abstract": "Given the power of large language and large vision models, it is of profound and fundamental interest to ask if a foundational model based on data and parameter scaling laws and pre-training strategies is possible for learned simulations of chemistry and materials. The scaling of large and diverse datasets and highly expressive architectures for chemical and materials sciences should result in a foundation model that is more efficient and broadly transferable, robust to out-of-distribution challenges, and easily fine-tuned to a variety of downstream observables, when compared to specific training from scratch on targeted applications in atomistic simulation. In this Perspective we aim to cover the rapidly advancing field of machine learned interatomic potentials (MLIP), and to illustrate a path to create chemistry and materials MLIP foundation models at larger scale.",
+  "authors": [
+   "Eric C. -Y. Yuan",
+   "Yunsheng Liu",
+   "Junmin Chen",
+   "Peichen Zhong",
+   "Sanjeev Raja",
+   "Tobias Kreiman",
+   "Santiago Vargas",
+   "Wenbin Xu",
+   "Martin Head-Gordon",
+   "Chao Yang",
+   "Samuel M. Blau",
+   "Bingqing Cheng",
+   "Aditi Krishnapriyan",
+   "Teresa Head-Gordon"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Eric C. -Y. Yuan",
+  "pdf_url": "http://arxiv.org/pdf/2503.10538",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-03-13",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Foundation Models for Atomistic Simulation of Chemistry and Materials",
+  "topics": [
+   "via:author-whitelist:DFT, polarizable water",
+   "via:author-whitelist:MLIPs, water, free energy"
+  ],
+  "updated": "2025-06-24"
+ },
  "2503.10873": {
   "abstract": "State space models, such as Mamba, have recently garnered attention in time series forecasting due to their ability to capture sequence patterns. However, in electricity consumption benchmarks, Mamba forecasts exhibit a mean error of approximately 8\\%. Similarly, in traffic occupancy benchmarks, the mean error reaches 18\\%. This discrepancy leaves us to wonder whether the prediction is simply inaccurate or falls within error given spread in historical data. To address this limitation, we propose a method to quantify the predictive uncertainty of Mamba forecasts. Here, we propose a dual-network framework based on the Mamba architecture for probabilistic forecasting, where one network generates point forecasts while the other estimates predictive uncertainty by modeling variance. We abbreviate our tool, Mamba with probabilistic time series forecasting, as Mamba-ProbTSF and the code for its implementation is available on GitHub (https://github.com/PessoaP/Mamba-ProbTSF). Evaluating this approach on synthetic and real-world benchmark datasets, we find Kullback-Leibler divergence between the learned distributions and the data--which, in the limit of infinite data, should converge to zero if the model correctly captures the underlying probability distribution--reduced to the order of $10^{-3}$ for synthetic data and $10^{-1}$ for real-world benchmark, demonstrating its effectiveness. We find that in both the electricity consumption and traffic occupancy benchmark, the true trajectory stays within the predicted uncertainty interval at the two-sigma level about 95\\% of the time. We end with a consideration of potential limitations, adjustments to improve performance, and considerations for applying this framework to processes for purely or largely stochastic dynamics where the stochastic changes accumulate, as observed for example in pure Brownian motion or molecular dynamics trajectories.",
   "authors": [
@@ -4426,7 +4656,8 @@
   "primary_category": "nucl-th",
   "published": "2025-03-25",
   "tags": [
-   "molecular-dynamics"
+   "molecular-dynamics",
+   "thermodynamic-integration"
   ],
   "title": "Quantum molecular dynamics model based on relativistic mean field theory for light nucleus fragmentation in hadron therapy",
   "topics": [
@@ -4461,6 +4692,33 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2025-06-25"
+ },
+ "2503.20649": {
+  "abstract": "The emergence upon cooling of an ordered solid phase from a liquid is a remarkable example of self-assembly, which has also major practical relevance. Here, we use a recently developed committor-based enhanced sampling method [Kang et al., Nat. Comput. Sci. 4, 451-460 (2024); Trizio et al., Nat. Comput. Sci. 1-10 (2025)] to explore the crystallization transition in a Lennard-Jones fluid, using Kolmogorov's variational principle. In particular, we take advantage of the properties of our sampling method to harness a large number of configurations from the transition state ensemble. From this wealth of data, we achieve precise localization of the transition state region, revealing a nucleation pathway that deviates from idealized spherical growth assumptions. Furthermore, we take advantage of the probabilistic nature of the committor to detect and analyze the fluctuations that lead to nucleation. Our study nuances classical nucleation theory by showing that the growing nucleus has a complex structure, consisting of a solid core surrounded by an interface that is more disordered than bulk liquid. We also compute from the Kolmogorov's principle a nucleation rate that is consistent with the experimental results at variance with previous computational estimates.",
+  "authors": [
+   "Yuanpeng Deng",
+   "Peilin Kang",
+   "Xiang Xu",
+   "Hui Li",
+   "Michele Parrinello"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuanpeng Deng",
+  "pdf_url": "http://arxiv.org/pdf/2503.20649",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2025-03-26",
+  "tags": [
+   "enhanced-sampling"
+  ],
+  "title": "The role of fluctuations in the nucleation process",
+  "topics": [
+   "via:author-whitelist:metadynamics, Car-Parrinello"
+  ],
+  "updated": "2025-06-27"
  },
  "2503.21996": {
   "abstract": "Flexoelectricity, polarization induced by strain gradients, is especially pronounced in two-dimensional (2D) materials due to their mechanical flexibility and sensitivity to mechanical deformation. In nanostructures with sub-nm curvature, this effect is governed by quantum-mechanical polarization and electrostatic modulation, not merely classical lattice distortion. Here, we present the first direct experimental and theoretical demonstration of large intrinsic quantum flexoelectricity in graphene nanowrinkles, exhibiting polarization densities (P_{th} ~ 4 C/m^{2}, P_{exp} ~ 1 C/m^{2}) that exceed those of mesoscale systems by 5 to 7 orders of magnitude. These nanowrinkles, with sub-nm radii of curvature at their apex, undergo atomic-level buckling and result in localized strain fields, as confirmed by sub-micron Raman spectroscopy. These curvatures create an asymmetry to π-orbital interactions across the atomic layer, which, in turn, leads to localized polarization densities. Kelvin probe force microscopy reveals curvature-dependent work function shifts consistent with flexoelectric polarization, while conductive atomic force microscopy detects reproducible flexoelectric currents exhibiting a threshold voltage (Φth ~1 V) that matches the band offset predicted by ab initio calculations (~1.2 V). Together, these results confirm how flexoelectric dipoles reshape the local electronic potential. Graphene nanowrinkles thus provide a pristine platform for uncovering quantum-mechanical flexoelectricity: a fundamentally ubiquitous effect, whose study in the simplest crystalline material can illuminate electromechanical behavior across condensed matter, soft matter, and biological systems.",
@@ -5200,6 +5458,7 @@
   "primary_category": "cond-mat.soft",
   "published": "2025-05-01",
   "tags": [
+   "enhanced-sampling",
    "molecular-dynamics"
   ],
   "title": "Characterizing the embedded states of a fluorescent probe within a lipid bilayer using molecular dynamics simulations",
@@ -7045,7 +7304,8 @@
   "title": "Optimization of Robotic Liquid Handling as a Capacitated Vehicle Routing Problem",
   "topics": [
    "Large Language Models & Materials",
-   "Reaction, Synthesis & Catalysis"
+   "Reaction, Synthesis & Catalysis",
+   "via:author-whitelist:retrosynthesis, ML chemistry"
   ],
   "updated": "2025-06-03"
  },
@@ -8187,6 +8447,34 @@
   "title": "UniPTMs: The First Unified Multi-type PTM Site Prediction Model via Master-Slave Architecture-Based Multi-Stage Fusion Strategy and Hierarchical Contrastive Loss",
   "topics": [
    "Protein & Biomolecules"
+  ],
+  "updated": "2025-06-05"
+ },
+ "2506.05536": {
+  "abstract": "We introduce the \"quantum circuit daemon\" (QC-Daemon), a reinforcement learning agent for compiling quantum device operations aimed at efficient quantum hardware execution. We apply QC-Daemon to the move synthesis problem called the Atom Game, which involves orchestrating parallel circuits on reconfigurable neutral atom arrays. In our numerical simulation, the QC-Daemon is implemented by two different types of transformers with a physically motivated architecture and trained by a reinforcement learning algorithm. We observe a reduction of the logarithmic infidelity for various benchmark problems up to 100 qubits by intelligently changing the layout of atoms. Additionally, we demonstrate the transferability of our approach: a Transformer-based QC-Daemon trained on a diverse set of circuits successfully generalizes its learned strategy to previously unseen circuits.",
+  "authors": [
+   "Kouhei Nakaji",
+   "Jonathan Wurtz",
+   "Haozhe Huang",
+   "Luis Mantilla Calderón",
+   "Karthik Panicker",
+   "Elica Kyoseva",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "16 pages, 7 figures",
+  "first_author": "Kouhei Nakaji",
+  "pdf_url": "http://arxiv.org/pdf/2506.05536",
+  "primary_category": "quant-ph",
+  "published": "2025-06-05",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "Quantum circuits as a game: A reinforcement learning agent for quantum compilation and its application to reconfigurable neutral atom arrays",
+  "topics": [
+   "via:author-whitelist:ML chemistry, autonomous discovery"
   ],
   "updated": "2025-06-05"
  },
@@ -11426,7 +11714,8 @@
    "ab-initio",
    "battery-materials",
    "mlip",
-   "molecular-dynamics"
+   "molecular-dynamics",
+   "thermodynamic-integration"
   ],
   "title": "Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study",
   "topics": [
@@ -12588,7 +12877,8 @@
   "primary_category": "nucl-th",
   "published": "2025-06-16",
   "tags": [
-   "dft"
+   "dft",
+   "thermodynamic-integration"
   ],
   "title": "Two-neutrino $0^+ \\to 0^+$ double beta decay of $^{48}\\mathrm{Ca}$ within the DFT-NCCI framework",
   "topics": [
@@ -12776,6 +13066,34 @@
   ],
   "updated": "2025-06-16"
  },
+ "2506.14077": {
+  "abstract": "The similarities and differences between hole- and electron-doped cuprates are central to studies of high-temperature superconductivity. While electronic nematicity is found to be pervasive in hole-doped cuprates, iron-based superconductors, and other unconventional superconductors, evidence for electronic nematicity in electron-doped cuprates remains elusive. Here, we discover that the normal state of electron-doped Sr0.9La0.1CuO2 (SLCO) is nematic by the angle-resolved resistivity (ARR) method and the uncovered ground state at zero temperature is also nematic when superconductivity is suppressed by an applied magnetic field. As we deliberately change the substrate from tetragonal KTaO3(001) (KTO) to orthorhombic GdScO3(110) (GSO), the nematic director of SLCO is pinned by the epitaxial strain but the nematic amplitude remains roughly the same, implying that the nematicity originates from electron-electron correlations. The nematicity is significantly enhanced by the presence of superconducting fluctuations and its amplitude increases appreciably as the effective doping level of SLCO is lowered from optimal to underdoped. Thus, electronic nematicity is intrinsic to high-temperature superconductors regardless of differences in the structural and electronic configurations corresponding to hole or electron doping.",
+  "authors": [
+   "J. Y. Shen",
+   "G. F. Chen",
+   "Y. C. Zhang",
+   "G. Y. Xi",
+   "J. Y. He",
+   "X. B. Cheng",
+   "J. Wu"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": null,
+  "first_author": "J. Y. Shen",
+  "pdf_url": "http://arxiv.org/pdf/2506.14077",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2025-06-17",
+  "tags": [
+   "magnetic-properties"
+  ],
+  "title": "Electronic nematic normal and superconducting state in electron-doped copper-oxide superconductors",
+  "topics": [
+   "via:author-whitelist:MLIPs, water, free energy"
+  ],
+  "updated": "2025-06-17"
+ },
  "2506.14466": {
   "abstract": "Malicious package detection has become a critical task in ensuring the security and stability of the PyPI. Existing detection approaches have focused on advancing model selection, evolving from traditional machine learning (ML) models to large language models (LLMs). However, as the complexity of the model increases, the time consumption also increases, which raises the question of whether a lightweight model achieves effective detection. Through empirical research, we demonstrate that collecting a sufficiently comprehensive feature set enables even traditional ML models to achieve outstanding performance. However, with the continuous emergence of new malicious packages, considerable human and material resources are required for feature analysis. Also, traditional ML model-based approaches lack of explainability to malicious packages.Therefore, we propose a novel approach MalGuard based on graph centrality analysis and the LIME (Local Interpretable Model-agnostic Explanations) algorithm to detect malicious packages.To overcome the above two challenges, we leverage graph centrality analysis to extract sensitive APIs automatically to replace manual analysis. To understand the sensitive APIs, we further refine the feature set using LLM and integrate the LIME algorithm with ML models to provide explanations for malicious packages. We evaluated MalGuard against six SOTA baselines with the same settings. Experimental results show that our proposed MalGuard, improves precision by 0.5%-33.2% and recall by 1.8%-22.1%. With MalGuard, we successfully identified 113 previously unknown malicious packages from a pool of 64,348 newly-uploaded packages over a five-week period, and 109 out of them have been removed by the PyPI official.",
   "authors": [
@@ -12887,6 +13205,30 @@
   ],
   "updated": "2025-06-17"
  },
+ "2506.14698": {
+  "abstract": "Visual counterfactual explainers (VCEs) are a straightforward and promising approach to enhancing the transparency of image classifiers. VCEs complement other types of explanations, such as feature attribution, by revealing the specific data transformations to which a machine learning model responds most strongly. In this paper, we argue that existing VCEs focus too narrowly on optimizing sample quality or change minimality; they fail to consider the more holistic desiderata for an explanation, such as fidelity, understandability, and sufficiency. To address this shortcoming, we explore new mechanisms for counterfactual generation and investigate how they can help fulfill these desiderata. We combine these mechanisms into a novel 'smooth counterfactual explorer' (SCE) algorithm and demonstrate its effectiveness through systematic evaluations on synthetic and real data.",
+  "authors": [
+   "Sidney Bender",
+   "Jan Herrmann",
+   "Klaus-Robert Müller",
+   "Grégoire Montavon"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Sidney Bender",
+  "pdf_url": "http://arxiv.org/pdf/2506.14698",
+  "primary_category": "cs.LG",
+  "published": "2025-06-17",
+  "tags": [],
+  "title": "Towards Desiderata-Driven Design of Visual Counterfactual Explainers",
+  "topics": [
+   "via:author-whitelist:ML force fields, SchNet"
+  ],
+  "updated": "2025-06-17"
+ },
  "2506.14711": {
   "abstract": "Quantum simulations of electronic structure and strongly correlated quantum phases are widely regarded as among the most promising applications of quantum computing. These simulations require the accurate implementation of motion and entanglement of fermionic particles. Instead of the commonly applied costly mapping to qubits, fermionic quantum computers offer the prospect of directly implementing electronic structure problems. Ultracold neutral atoms have emerged as a powerful platform for spin-based quantum computing, but quantum information can also be processed via the motion of bosonic or fermionic atoms offering a distinct advantage by intrinsically conserving crucial symmetries like electron number. Here we demonstrate collisional entangling gates with fidelities up to 99.75(6)% and lifetimes of Bell states beyond $10\\,s$ via the control of fermionic atoms in an optical superlattice. Using quantum gas microscopy, we characterize both spin-exchange and pair-tunneling gates locally, and realize a robust, composite pair-exchange gate, a key building block for quantum chemistry simulations. Our results enable the preparation of complex quantum states and advanced readout protocols for a new class of scalable analog-digital hybrid quantum simulators. Once combined with local addressing, they mark a key step towards a fully digital fermionic quantum computer based on the controlled motion and entanglement of fermionic neutral atoms.",
   "authors": [
@@ -12970,6 +13312,29 @@
   ],
   "updated": "2025-06-17"
  },
+ "2506.15062": {
+  "abstract": "Interfaces can differ from their parent compounds in terms of charge, spin, and orbital orders and are fertile ground for emergent phenomena, strongly correlated physics, and device applications. Here, we discover that ferroelectric order resides at the interface of two oxides, LaAlO3/KTaO3(111) (LAO/KTO), where two seemingly mutually exclusive orders-ferroelectricity and superconductivity-coexist. Moreover, manipulating ferroelectricity can change the interfacial conductivity by more than 1000 times, simultaneously causing superconductivity to diminish and reappear due to the coupling between these phenomena. The ferroelectricity is confirmed by scanning transmission electron microscopy (STEM), second harmonic generation (SHG) microscopy, and piezoelectric force microscopy (PFM). STEM reveals K ions are displaced relative to Ta ions, with the help of oxygen vacancies at the LAO/KTO interface. The resultant electric polarization is locally switchable by applying a voltage between the PFM tip and the LAO film. The ferroelectric hysteresis correlates with hysteresis change in interfacial conductivity and the superconducting transition temperature (Tc). The loss and reentrance of superconductivity are accounted for by orders of magnitude change in the Hall mobility induced by the polarization switching. These findings open the door to ferroelectric superconductivity with broken inversion symmetry and non-volatile modulation of superconductivity.",
+  "authors": [
+   "M. D. Dong",
+   "X. B. Cheng",
+   "M. Zhang",
+   "J. Wu"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": null,
+  "first_author": "M. D. Dong",
+  "pdf_url": "http://arxiv.org/pdf/2506.15062",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2025-06-18",
+  "tags": [],
+  "title": "Strongly coupled interface ferroelectricity and interface superconductivity in LAO/KTO",
+  "topics": [
+   "via:author-whitelist:MLIPs, water, free energy"
+  ],
+  "updated": "2025-06-18"
+ },
  "2506.15109": {
   "abstract": "At room temperature, low frequency vibrations at far-infrared frequencies are thermally excited ($k_B T > h ν$) and not restricted to harmonic fluctuations around a single potential energy minimum. For folded proteins, these intrinsically anharmonic vibrations can contain information on slow conformational transitions. Recently, we have developed FREquency-SElective ANharmonic (FRESEAN) mode analysis, a method based on time correlation functions that isolates low-frequency vibrational motions from molecular dynamics simulation trajectories without relying on harmonic approximations. We recently showed that low-frequency vibrations obtained from FRESEAN mode analysis are effective collective variables in enhanced sampling simulations of conformational ensembles. However, FRESEAN mode analysis is based on velocity time correlations between all degrees of freedom, which creates computational challenges for large biomolecules. To facilitate future applications, we demonstrate here how coarse-graining of all-atom simulation trajectories can be combined with FRESEAN mode analysis to extract information on low-frequency vibrations at minimal computational cost.",
   "authors": [
@@ -12988,6 +13353,7 @@
   "primary_category": "cond-mat.stat-mech",
   "published": "2025-06-18",
   "tags": [
+   "enhanced-sampling",
    "free-energy",
    "molecular-dynamics",
    "thermal-properties"
@@ -13745,6 +14111,139 @@
   ],
   "updated": "2025-06-20"
  },
+ "2506.16955": {
+  "abstract": "The beta decay of $^{77}$Ge and $^{77\\mathrm{m}}$Ge, both produced by neutron capture on $^{76}$Ge, is a potential background for Germanium based neutrinoless double-beta decay search experiments such as GERDA or the LEGEND experiment. In this work we present a search for $^{77}$Ge decays in the full GERDA Phase II data set. A delayed coincidence method was employed to identify the decay of $^{77}$Ge via the isomeric state of $^{77}$As (9/2$^+$, 475 keV, ${T_{1/2} = 114}\\,μ$s, $^{77\\mathrm{m}}$As). New digital signal processing methods were employed to select and analyze pile-up signals. No signal was observed, and an upper limit on the production rate of was set at $<0.216$ nuc/(kg$\\cdot$yr) (90% CL). This corresponds to a total production rate of $^{77}$Ge and $^{77\\mathrm{m}}$Ge of $<0.38$ nuc/(kg$\\cdot$ yr) (90% CL), assuming equal production rates. A previous Monte Carlo study predicted a value for in-situ $^{77}$Ge and $^{77\\mathrm{m}}$Ge production of (0.21$\\pm$0.07) nuc/(kg$\\cdot$yr), a prediction that is now further corroborated by our experimental limit. Moreover, tagging the isomeric state of $^{77\\mathrm{m}}$As can be utilised to further suppress the $^{77}$Ge background. Considering the similar experimental configurations of LEGEND-1000 and GERDA, the cosmogenic background in LEGEND-1000 at LNGS is estimated to remain at a sub-dominant level.",
+  "authors": [
+   "M. Agostini",
+   "A. Alexander",
+   "G. Araujo",
+   "A. M. Bakalyarov",
+   "M. Balata",
+   "I. Barabanov",
+   "L. Baudis",
+   "C. Bauer",
+   "S. Belogurov",
+   "A. Bettini",
+   "L. Bezrukov",
+   "V. Biancacci",
+   "E. Bossio",
+   "V. Bothe",
+   "R. Brugnera",
+   "A. Caldwell",
+   "S. Calgaro",
+   "C. Cattadori",
+   "A. Chernogorov",
+   "P. -J. Chiu",
+   "T. Comellato",
+   "V. D'Andrea",
+   "E. V. Demidova",
+   "N. Di Marco",
+   "E. Doroshkevich",
+   "M. Fomina",
+   "A. Gangapshev",
+   "A. Garfagnini",
+   "C. Gooch",
+   "P. Grabmayr",
+   "V. Gurentsov",
+   "K. Gusev",
+   "J. Hakenmüller",
+   "S. Hemmer",
+   "W. Hofmann",
+   "J. Huang",
+   "M. Hult",
+   "L. V. Inzhechik",
+   "J. Janicskó Csáthy",
+   "J. Jochum",
+   "M. Junker",
+   "V. Kazalov",
+   "Y. Kermaïdic",
+   "H. Khushbakht",
+   "T. Kihm",
+   "K. Kilgus",
+   "I. V. Kirpichnikov",
+   "A. Klimenko",
+   "K. T. Knöpfle",
+   "O. Kochetov",
+   "V. N. Kornoukhov",
+   "P. Krause",
+   "V. V. Kuzminov",
+   "M. Laubenstein",
+   "M. Lindner",
+   "I. Lippi",
+   "A. Lubashevskiy",
+   "B. Lubsandorzhiev",
+   "G. Lutter",
+   "C. Macolino",
+   "B. Majorovits",
+   "W. Maneschg",
+   "G. Marshall",
+   "M. Misiaszek",
+   "M. Morella",
+   "Y. Müller",
+   "I. Nemchenok",
+   "M. Neuberger",
+   "L. Pandola",
+   "K. Pelczar",
+   "L. Pertoldi",
+   "P. Piseri",
+   "A. Pullia",
+   "C. Ransom",
+   "L. Rauscher",
+   "M. Redchuk",
+   "S. Riboldi",
+   "N. Rumyantseva",
+   "C. Sada",
+   "S. Sailer",
+   "F. Salamida",
+   "S. Schönert",
+   "J. Schreiner",
+   "M. Schütt",
+   "A-K. Schütz",
+   "O. Schulz",
+   "M. Schwarz",
+   "B. Schwingenheuer",
+   "O. Selivanenko",
+   "E. Shevchik",
+   "M. Shirchenko",
+   "L. Shtembari",
+   "H. Simgen",
+   "A. Smolnikov",
+   "D. Stukov",
+   "S. Sullivan",
+   "A. A. Vasenko",
+   "A. Veresnikova",
+   "C. Vignoli",
+   "K. von Sturm",
+   "T. Wester",
+   "C. Wiesinger",
+   "M. Wojcik",
+   "E. Yanovich",
+   "B. Zatschler",
+   "I. Zhitnikov",
+   "S. V. Zhukov",
+   "D. Zinatulina",
+   "A. Zschocke",
+   "K. Zuber",
+   "G. Zuzel"
+  ],
+  "categories": [
+   "nucl-ex",
+   "astro-ph.IM"
+  ],
+  "comment": "11 pages, 7 figures",
+  "first_author": "M. Agostini",
+  "pdf_url": "http://arxiv.org/pdf/2506.16955",
+  "primary_category": "nucl-ex",
+  "published": "2025-06-20",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Search for the in-situ production of $^{77}$Ge in the GERDA neutrinoless double-beta decay experiment",
+  "topics": [
+   "via:author-whitelist:SchNet, equivariant ML"
+  ],
+  "updated": "2025-06-20"
+ },
  "2506.16977": {
   "abstract": "We present a comprehensive ab initio study of the influence of band structure corrections, particularly the electron effective mass, on the phonon-limited electron drift and Hall mobilities of GaAs. Our approach is based on the DFT+$U$ method, combined with an iterative solution of the linearized Boltzmann transport equation using the Wannier interpolation technique. We show how this framework allows for accurate refinements of the electronic band structure and phonon dispersion, leading to improved predictions for transport properties. In particular, by varying the Hubbard parameters to purposefully tune the conduction band features, allowing us to reproduce bands with different electron effective mass, we systematically investigate the relationship between mobility and effective mass. In this context, our results show close agreement with semi-empirical relations that follow a power-law dependence. Moreover, this approach can be used to indirectly incorporate temperature effects into the band structure, enabling efficient evaluation of temperature-dependent electron mobilities. Our mobility results exhibit good agreement with experimental data and are comparable to previously reported values obtained using the computationally expensive GW method.",
   "authors": [
@@ -13826,6 +14325,37 @@
   "title": "Simulating Correlated Electrons with Symmetry-Enforced Normalizing Flows",
   "topics": [
    "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2025-06-20"
+ },
+ "2506.17140": {
+  "abstract": "Deep learning models have made significant advances in histological prediction tasks in recent years. However, for adaptation in clinical practice, their lack of robustness to varying conditions such as staining, scanner, hospital, and demographics is still a limiting factor: if trained on overrepresented subpopulations, models regularly struggle with less frequent patterns, leading to shortcut learning and biased predictions. Large-scale foundation models have not fully eliminated this issue. Therefore, we propose a novel approach explicitly modeling such metadata into a Metadata-guided generative Diffusion model framework (MeDi). MeDi allows for a targeted augmentation of underrepresented subpopulations with synthetic data, which balances limited training data and mitigates biases in downstream models. We experimentally show that MeDi generates high-quality histopathology images for unseen subpopulations in TCGA, boosts the overall fidelity of the generated images, and enables improvements in performance for downstream classifiers on datasets with subpopulation shifts. Our work is a proof-of-concept towards better mitigating data biases with generative models.",
+  "authors": [
+   "David Jacob Drexlin",
+   "Jonas Dippel",
+   "Julius Hense",
+   "Niklas Prenißl",
+   "Grégoire Montavon",
+   "Frederick Klauschen",
+   "Klaus-Robert Müller"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "David Jacob Drexlin",
+  "pdf_url": "http://arxiv.org/pdf/2506.17140",
+  "primary_category": "eess.IV",
+  "published": "2025-06-20",
+  "tags": [
+   "diffusion-model",
+   "generative-model"
+  ],
+  "title": "MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification",
+  "topics": [
+   "via:author-whitelist:ML force fields, SchNet"
   ],
   "updated": "2025-06-20"
  },
@@ -14435,7 +14965,8 @@
   "published": "2025-06-22",
   "tags": [
    "molecular-dynamics",
-   "monte-carlo"
+   "monte-carlo",
+   "thermodynamic-integration"
   ],
   "title": "Exploring the impact of Ti/Al on L12 nanoprecipitation and deformation behavior in CoNiFeAlTi multi-principal element alloys through atomistic simulations",
   "topics": [
@@ -14771,6 +15302,27 @@
   ],
   "updated": "2025-06-23"
  },
+ "2506.18685": {
+  "abstract": "In this study, we conducted an in-depth examination of the utility analysis of the differentially private mechanism (DPM). The authors of DPM have already established the probability of a good split being selected and of DPM halting. In this study, we expanded the analysis of the stopping criterion and provided an interpretation of these guarantees in the context of realistic input distributions. Our findings revealed constraints on the minimum cluster size and the metric weight for the scoring function. Furthermore, we introduced an interpretation of the utility of DPM through the lens of the clustering metric, the silhouette score. Our findings indicate that even when an optimal DPM-based split is employed, the silhouette score of the resulting clustering may still decline. This observation calls into question the suitability of the silhouette score as a clustering metric. Finally, we examined the potential of the underlying concept of DPM by linking it to a more theoretical view, that of $(ξ, ρ)$-separability. This extensive analysis of the theoretical guarantees of DPM allows a better understanding of its behaviour for arbitrary inputs. From these guarantees, we can analyse the impact of different hyperparameters and different input data sets, thereby promoting the application of DPM in practice for unknown settings and data sets.",
+  "authors": [
+   "Yara Schütt",
+   "Esfandiar Mohammadi"
+  ],
+  "categories": [
+   "cs.CR"
+  ],
+  "comment": null,
+  "first_author": "Yara Schütt",
+  "pdf_url": "http://arxiv.org/pdf/2506.18685",
+  "primary_category": "cs.CR",
+  "published": "2025-06-23",
+  "tags": [],
+  "title": "Understanding the Theoretical Guarantees of DPM",
+  "topics": [
+   "via:author-whitelist:SchNet, equivariant ML"
+  ],
+  "updated": "2025-06-23"
+ },
  "2506.18722": {
   "abstract": "Despite extensive research on piezoelectric polymers since the discovery of piezoelectric poly(vinylidene fluoride) (PVDF) in 1969, the fundamental physics of polymer piezoelectricity has remained elusive. Based on the classic principle of piezoelectricity, polymer piezoelectricity should originate from the polar crystalline phase. Surprisingly, the crystal contribution to the piezoelectric strain coefficient d31 is determined to be less than 10%, primarily owing to the difficulty in changing the molecular bond lengths and bond angles. Instead, >85% contribution is from Poisson's ratio, which is closely related to the oriented amorphous fraction (OAF) in uniaxially stretched films of semicrystalline ferroelectric (FE) polymers. In this perspective, the semicrystalline structure-piezoelectric property relationship is revealed using PVDF-based FE polymers as a model system. In melt-processed FE polymers, the OAF is often present and links the crystalline lamellae to the isotropic amorphous fraction. Molecular dynamics simulations demonstrate that the electrostrictive conformation transformation of the OAF chains induces a polarization change upon the application of either a stress (the direct piezoelectric effect) or an electric field (the converse piezoelectric effect). Meanwhile, relaxor-like secondary crystals in OAF (SCOAF), which are favored to grow in the extended-chain crystal (ECC) structure, can further enhance the piezoelectricity. However, the ECC structure is difficult to achieve in PVDF homopolymers without high-pressure crystallization. We have discovered that high-power ultrasonication can effectively induce SCOAF in PVDF homopolymers to improve its piezoelectric performance. Finally, we envision that the electrostrictive OAF mechanism should also be applicable for other FE polymers such as odd-numbered nylons and piezoelectric biopolymers.",
   "authors": [
@@ -14852,7 +15404,8 @@
   "tags": [
    "free-energy",
    "molecular-dynamics",
-   "protein-structure"
+   "protein-structure",
+   "string-method"
   ],
   "title": "Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins",
   "topics": [
@@ -14991,7 +15544,8 @@
   ],
   "title": "Optimized auxiliary functions for robust mitigation of finite-size errors in periodic hybrid density functional theory",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:DFT, polarizable water"
   ],
   "updated": "2025-06-23"
  },
@@ -15070,7 +15624,8 @@
   ],
   "title": "High-throughput spin-bath characterization of spin-defects in semiconductors",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:DFT water, defects"
   ],
   "updated": "2025-06-24"
  },
@@ -15216,7 +15771,8 @@
   "title": "Massive Atomic Diversity: a compact universal dataset for atomistic machine learning",
   "topics": [
    "Generative Design & Molecule Optimization",
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "via:author-whitelist:PIMD, MLIPs, water"
   ],
   "updated": "2025-06-24"
  },
@@ -15770,7 +16326,8 @@
   ],
   "title": "Impact of the damping function in dispersion-corrected density functional theory on the properties of liquid water",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:neural network potentials"
   ],
   "updated": "2025-06-25"
  },
@@ -16029,7 +16586,8 @@
   "published": "2025-06-25",
   "tags": [
    "dft",
-   "free-energy"
+   "free-energy",
+   "thermodynamic-integration"
   ],
   "title": "Quantum-Centric Alchemical Free Energy Calculations",
   "topics": [
@@ -16608,6 +17166,31 @@
   ],
   "updated": "2025-06-26"
  },
+ "2506.21751": {
+  "abstract": "Complicated boundary conditions are essential to accurately describe phenomena arising in nature and engineering. Recently, the investigation of a potential speedup through quantum algorithms in simulating the governing ordinary and partial differential equations of such phenomena has gained increasing attention. We design an efficient quantum algorithms for solving differential equations with arbitrary boundary conditions. Specifically, we propose an approach to enforce arbitrary boundary conditions and constraints through adding a penalty projection to the governing equations. Assuming a fast-forwardable representation of the projection to ensure an efficient interaction picture imulation, the cost of to enforce the constraints is at most $O(\\logλ)$ in the strength of the penalty $λ$ in the gate complexity; in the worst case, this goes as $O([\\|v(0)\\|^2\\|A_0\\| + \\|b\\|_{L^1[0;t]}^2)]t^2/\\varepsilon)$, for precision $\\varepsilon$ and a dynamical system $\\frac{\\rm d}{{\\rm d}t} v(t) = A_0(t) v(t) + b(t)$ with negative semidefinite $A_0(t)$ of size $n^d\\times n^d$. E.g., for the heat equation, this leads to a gate complexity overhead of $\\widetilde O(d\\log n + \\log t)$. We show constraint error bounds for the penalty approach and provide validating numerical experiments, and estimate the circuit complexity using the Linear Combination of Hamiltonian Simulation.",
+  "authors": [
+   "Philipp Schleich",
+   "Tyler Kharazi",
+   "Xiangyu Li",
+   "Jin-Peng Liu",
+   "Alán Aspuru-Guzik",
+   "Nathan Wiebe"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "59 pages, 9 figures",
+  "first_author": "Philipp Schleich",
+  "pdf_url": "http://arxiv.org/pdf/2506.21751",
+  "primary_category": "quant-ph",
+  "published": "2025-06-26",
+  "tags": [],
+  "title": "Arbitrary Boundary Conditions and Constraints in Quantum Algorithms for Differential Equations via Penalty Projections",
+  "topics": [
+   "via:author-whitelist:ML chemistry, autonomous discovery"
+  ],
+  "updated": "2025-06-26"
+ },
  "2506.21788": {
   "abstract": "Graph foundation models using graph neural networks promise sustainable, efficient atomistic modeling. To tackle challenges of processing multi-source, multi-fidelity data during pre-training, recent studies employ multi-task learning, in which shared message passing layers initially process input atomistic structures regardless of source, then route them to multiple decoding heads that predict data-specific outputs. This approach stabilizes pre-training and enhances a model's transferability to unexplored chemical regions. Preliminary results on approximately four million structures are encouraging, yet questions remain about generalizability to larger, more diverse datasets and scalability on supercomputers. We propose a multi-task parallelism method that distributes each head across computing resources with GPU acceleration. Implemented in the open-source HydraGNN architecture, our method was trained on over 24 million structures from five datasets and tested on the Perlmutter, Aurora, and Frontier supercomputers, demonstrating efficient scaling on all three highly heterogeneous super-computing architectures.",
   "authors": [
@@ -17016,6 +17599,32 @@
   "title": "Relaxation enhancement by controlling incompressible fluid flows",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2025-06-27"
+ },
+ "2506.22237": {
+  "abstract": "In this paper, we present a neural network approach for synchronizing audio recordings of human piano performances with their corresponding loosely aligned MIDI files. The task is addressed using a Convolutional Recurrent Neural Network (CRNN) architecture, which effectively captures spectral and temporal features by processing an unaligned piano roll and a spectrogram as inputs to estimate the aligned piano roll. To train the network, we create a dataset of piano pieces with augmented MIDI files that simulate common human timing errors. The proposed model achieves up to 20% higher alignment accuracy than the industry-standard Dynamic Time Warping (DTW) method across various tolerance windows. Furthermore, integrating DTW with the CRNN yields additional improvements, offering enhanced robustness and consistency. These findings demonstrate the potential of neural networks in advancing state-of-the-art MIDI-to-audio alignment.",
+  "authors": [
+   "Sebastian Murgul",
+   "Moritz Reiser",
+   "Michael Heizmann",
+   "Christoph Seibert"
+  ],
+  "categories": [
+   "cs.SD",
+   "cs.CL",
+   "cs.MM",
+   "eess.AS"
+  ],
+  "comment": "9 pages, 3 figures, 6 tables",
+  "first_author": "Sebastian Murgul",
+  "pdf_url": "http://arxiv.org/pdf/2506.22237",
+  "primary_category": "cs.SD",
+  "published": "2025-06-27",
+  "tags": [],
+  "title": "Fine-Tuning MIDI-to-Audio Alignment using a Neural Network on Piano Roll and CQT Representations",
+  "topics": [
+   "via:author-whitelist:GNN benchmarking, materials ML"
   ],
   "updated": "2025-06-27"
  },
@@ -18038,7 +18647,8 @@
   "published": "2025-06-30",
   "tags": [
    "ab-initio",
-   "crystal-structure"
+   "crystal-structure",
+   "thermodynamic-integration"
   ],
   "title": "Termination-Dependent Resistive Switching in SrTiO$_3$ Valence Change Memory Cells",
   "topics": [

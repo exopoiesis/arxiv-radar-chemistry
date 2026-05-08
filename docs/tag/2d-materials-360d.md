@@ -142,6 +142,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2602.17489">2602.17489</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15394.html">Atomic-scale order enables high thermal boundary conductance at $β$-Ga$_2$O$_3$/4H-SiC interfaces</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Hongao Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15394">2604.15394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07043.html">Uni2D: A Universal Machine Learning Interatomic Potential for Two-Dimensional Materials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Haidi Wang et al.</td>
@@ -635,13 +641,13 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04103.html">Machine learning assisted High-Throughput study of M$_4$X$_3$T$_x$ MXenes</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04103.html">Machine learning assisted High-Throughput study of M$_4$X$_3$T$_x$ MXenes</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Sakshi Goel et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04103">2603.04103</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04152.html">Machine-learned Interatomic Potential for Ti$_{n+1}$C$_n$ MXenes: Application to Ion Irradiation Simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04152.html">Machine-learned Interatomic Potential for Ti$_{n+1}$C$_n$ MXenes: Application to Ion Irradiation Simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Jesper Byggmästar</td>
 <td><a href="http://arxiv.org/abs/2603.04152">2603.04152</a></td>
 </tr>
@@ -659,7 +665,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03133.html">Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03133.html">Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Amal Raj Veluthedath Nair et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03133">2603.03133</a></td>
 </tr>
@@ -791,7 +797,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17889.html">Ab initio Monte Carlo prediction of order-to-disorder transitions in multicomponent MXenes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17889.html">Ab initio Monte Carlo prediction of order-to-disorder transitions in multicomponent MXenes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Noah Oyeniran et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17889">2602.17889</a></td>
 </tr>
@@ -803,7 +809,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16647.html">Growth and crystallographic structure of TiTe$_2$ on Au(111): From sub-monolayer structures to single- and multi-layer films</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16647.html">Growth and crystallographic structure of TiTe$_2$ on Au(111): From sub-monolayer structures to single- and multi-layer films</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Andreas Raabgrund et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16647">2602.16647</a></td>
 </tr>
@@ -827,7 +833,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12562.html">Mechanism-driven CO2 Capture and Activation on Two-dimensional Transition-metal Diborides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12562.html">Mechanism-driven CO2 Capture and Activation on Two-dimensional Transition-metal Diborides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12562">2602.12562</a></td>
 </tr>
@@ -857,7 +863,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11932.html">Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11932.html">Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Francisco Munoz et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11932">2602.11932</a></td>
 </tr>
@@ -1547,7 +1553,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05166.html">Mechanical Stability of 2D Ti2COx MXenes Under Compression Using Reactive Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05166.html">Mechanical Stability of 2D Ti2COx MXenes Under Compression Using Reactive Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Hossein Darban</td>
 <td><a href="http://arxiv.org/abs/2512.05166">2512.05166</a></td>
 </tr>
@@ -1751,7 +1757,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08350.html">Revealing the Hidden Third Dimension of Point Defects in Two-Dimensional MXenes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08350.html">Revealing the Hidden Third Dimension of Point Defects in Two-Dimensional MXenes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Grace Guinan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08350">2511.08350</a></td>
 </tr>
@@ -2045,7 +2051,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05543.html">Probing orbital currents through inverse orbital Hall and Rashba effects</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05543.html">Probing orbital currents through inverse orbital Hall and Rashba effects</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>E. Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05543">2510.05543</a></td>
 </tr>
@@ -2321,7 +2327,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11380.html">Si-Substituted MAX Phases and In-Situ Formation of Si-coated MXene Composites via Chlorosilane Etching</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11380.html">Si-Substituted MAX Phases and In-Situ Formation of Si-coated MXene Composites via Chlorosilane Etching</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Xudong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11380">2509.11380</a></td>
 </tr>
@@ -2482,6 +2488,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2508.21526">2508.21526</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00222.html">Strategies to search for two-dimensional materials with long spin qubit coherence time</a></div></td>
+<td>Michael Y. Toriyama et al.</td>
+<td><a href="http://arxiv.org/abs/2509.00222">2509.00222</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20679.html">Electric-field induced half-metallicity in a two-dimensional ferromagnetic Janus VSSe bilayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Khushboo Dange et al.</td>
@@ -2525,13 +2537,13 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18455.html">Exploration of Hexagonal, Layered Carbides and Nitrides as Ultra-High Temperature Ceramics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18455.html">Exploration of Hexagonal, Layered Carbides and Nitrides as Ultra-High Temperature Ceramics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Kat Nykiel et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18455">2508.18455</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11166.html">Molecular Cross-linking of MXenes: Tunable Interfaces and Chemiresistive Sensing</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11166.html">Molecular Cross-linking of MXenes: Tunable Interfaces and Chemiresistive Sensing</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Yudhajit Bhattacharjee et al.</td>
 <td><a href="http://arxiv.org/abs/2504.11166">2504.11166</a></td>
 </tr>
@@ -2621,7 +2633,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13034.html">How reactive is water at the nanoscale and how to control it?</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13034.html">How reactive is water at the nanoscale and how to control it?</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xavier R. Advincula et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13034">2508.13034</a></td>
 </tr>
@@ -2645,7 +2657,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09501.html">Mechanical Force-Driven Charge Redistribution for Hydrogen Release at Ambient Conditions in Transition Metal-Intercalated Bilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09501.html">Mechanical Force-Driven Charge Redistribution for Hydrogen Release at Ambient Conditions in Transition Metal-Intercalated Bilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Jongdeok Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09501">2508.09501</a></td>
 </tr>
@@ -2891,6 +2903,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05383.html">Identifying the Origin of Thermal Modulation of Exchange Bias in MnPS3/Fe3GeTe2 van der Waals Heterostructures</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Aravind Puthirath Balan et al.</td>
+<td><a href="http://arxiv.org/abs/2403.05383">2403.05383</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03288.html">Ambient condition superconductivity via engineered polaronic environment</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mof-360d.html">mof</a></div></td>
 <td>Krzysztof Kempa et al.</td>
 <td><a href="http://arxiv.org/abs/2408.03288">2408.03288</a></td>
@@ -2921,7 +2939,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19613.html">Anisotropic moiré band flattening in twisted bilayers of M-valley MXenes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19613.html">Anisotropic moiré band flattening in twisted bilayers of M-valley MXenes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Kejie Bao et al.</td>
 <td><a href="http://arxiv.org/abs/2412.19613">2412.19613</a></td>
 </tr>
@@ -2975,7 +2993,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03480.html">The morphology and interface structure of titanium on graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03480.html">The morphology and interface structure of titanium on graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Joachim Dahl Thomsen et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03480">2412.03480</a></td>
 </tr>
@@ -3407,7 +3425,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20169.html">Structure and Elastic properties of Titanium MXenes: evaluation of COMB3, REAXFF and MEAM force fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20169.html">Structure and Elastic properties of Titanium MXenes: evaluation of COMB3, REAXFF and MEAM force fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Luis F. V. Thomazini et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20169">2505.20169</a></td>
 </tr>
@@ -3506,23 +3524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08416.html">DFT Investigation of Magnetocrystalline Anisotropy in Fe, Co, Pd0.97Co0.03 and Pd0.97Fe0.03 systems: From Bulk to Thin-Films</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Irina I. Piyanzina et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08416">2505.08416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07732.html">Pyrite Bismuth Telluride Heterojunction for Hybrid Electromagnetic to Thermoelectric Energy Harvesting</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Karthik R et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07732">2505.07732</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07942.html">Electronic structure of monolayer-CrTe$_2$: an antiferromagnetic 2D van der Waals material</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Olivia Armitage et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07942">2505.07942</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07021.html">Ab-initio density-matrix approach to exciton coherence: phonon scattering, Coulomb interactions and radiative recombination</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Tomer Amit et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07021">2505.07021</a></td>
 </tr>
 </tbody></table>

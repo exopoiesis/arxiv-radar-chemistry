@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25782.html">EOS-Bench: A Comprehensive Benchmark for Earth Observation Satellite Scheduling</a></div></td>
+<td>Qian Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25782">2604.25782</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23061.html">C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-llm-360d.html">molecular-llm</a></div></td>
@@ -779,7 +785,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Kai Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04291">2509.04291</a></td>
 </tr>
@@ -902,6 +908,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07035.html">AnnoDPO: Protein Functional Annotation Learning with Direct Preference Optimization</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Zixuan Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07035">2506.07035</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05536.html">Quantum circuits as a game: A reinforcement learning agent for quantum compilation and its application to reconfigurable neutral atom arrays</a></div></td>
+<td>Kouhei Nakaji et al.</td>
+<td><a href="http://arxiv.org/abs/2506.05536">2506.05536</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-04</td>

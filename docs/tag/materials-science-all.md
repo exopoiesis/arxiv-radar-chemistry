@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-science — all</h1>
-  <span class="paper-count">757 papers</span>
+  <span class="paper-count">762 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,6 +482,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00776.html">Competing adsorption of H and CO on Pd-alloy surfaces: Mechanistic insight into the mitigating effect of Cu on CO poisoning</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Pernilla Ekborg-Tanner et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00776">2603.00776</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23489.html">Exploring the extremes: atomic basis for multi-elemental materials science under complex thermodynamic conditions</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Anton Bochkarev et al.</td>
+<td><a href="http://arxiv.org/abs/2602.23489">2602.23489</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-26</td>
@@ -1043,7 +1049,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12331.html">Active learning potentials for first-principles phase diagrams using replica-exchange nested sampling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12331.html">Active learning potentials for first-principles phase diagrams using replica-exchange nested sampling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
 <td>Nico Unglert et al.</td>
 <td><a href="http://arxiv.org/abs/2512.12331">2512.12331</a></td>
 </tr>
@@ -1103,7 +1109,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14294.html">An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14294.html">An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Liang Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14294">2503.14294</a></td>
 </tr>
@@ -1943,7 +1949,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09501.html">Mechanical Force-Driven Charge Redistribution for Hydrogen Release at Ambient Conditions in Transition Metal-Intercalated Bilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09501.html">Mechanical Force-Driven Charge Redistribution for Hydrogen Release at Ambient Conditions in Transition Metal-Intercalated Bilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Jongdeok Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09501">2508.09501</a></td>
 </tr>
@@ -2651,6 +2657,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01300.html">Weyl Semimetals: from Principles, Materials to Applications</a></div></td>
+<td>Mengyuan Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2504.01300">2504.01300</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15587.html">MetaMolGen: A Neural Graph Motif Generation Model for De Novo Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
 <td>Zimo Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2504.15587">2504.15587</a></td>
@@ -2705,7 +2717,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20211.html">A rigorous data-driven approach to the nucleation of defects in metals exploiting the link between kinetic properties and (dis)order parameters</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20211.html">A rigorous data-driven approach to the nucleation of defects in metals exploiting the link between kinetic properties and (dis)order parameters</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Mattia Perrone et al.</td>
 <td><a href="http://arxiv.org/abs/2504.20211">2504.20211</a></td>
 </tr>
@@ -3077,7 +3089,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05370.html">Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05370.html">Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="umbrella-sampling-all.html">umbrella-sampling</a></div></td>
 <td>Alea Miako Tokita et al.</td>
 <td><a href="http://arxiv.org/abs/2503.05370">2503.05370</a></td>
 </tr>
@@ -3110,6 +3122,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02393.html">Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
 <td>Markus J. Buehler</td>
 <td><a href="http://arxiv.org/abs/2501.02393">2501.02393</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03837.html">Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Tsz Wai Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2503.03837">2503.03837</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-04</td>
@@ -3286,8 +3304,14 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.06441">2502.06441</a></td>
 </tr>
 <tr class="paper">
+<td>2025-02-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07106.html">Towards MatCore: A Unified Metadata Standard for Materials Science</a></div></td>
+<td>Jane Greenberg et al.</td>
+<td><a href="http://arxiv.org/abs/2502.07106">2502.07106</a></td>
+</tr>
+<tr class="paper">
 <td>2025-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05735.html">Towards Autonomous Experimentation: Bayesian Optimization over Problem Formulation Space for Accelerated Alloy Development</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05735.html">Towards Autonomous Experimentation: Bayesian Optimization over Problem Formulation Space for Accelerated Alloy Development</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Danial Khatamsaz et al.</td>
 <td><a href="http://arxiv.org/abs/2502.05735">2502.05735</a></td>
 </tr>
@@ -3653,7 +3677,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07960.html">Predicting Ti-Al Binary Phase Diagram with an Artificial Neural Network Potential</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07960.html">Predicting Ti-Al Binary Phase Diagram with an Artificial Neural Network Potential</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Micah Nichols et al.</td>
 <td><a href="http://arxiv.org/abs/2411.07960">2411.07960</a></td>
 </tr>
@@ -3818,6 +3842,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08322.html">Extendibility of fermionic states and rigorous ground state approximations of interacting fermionic systems</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Christian Krumnow et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08322">2410.08322</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10304.html">Spiers Memorial Lecture: How to do impactful research in artificial intelligence for chemistry and materials science</a></div></td>
+<td>Austin Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2409.10304">2409.10304</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-07</td>
@@ -4379,7 +4409,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08964.html">Kinetics-Optimized Enhanced Sampling Using Mean First Passage Times</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08964.html">Kinetics-Optimized Enhanced Sampling Using Mean First Passage Times</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Tiejun Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2406.08964">2406.08964</a></td>
 </tr>

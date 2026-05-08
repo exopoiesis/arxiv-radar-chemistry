@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -311,7 +311,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17374.html">Generative modeling of conditional probability distributions on the level-sets of collective variables</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17374.html">Generative modeling of conditional probability distributions on the level-sets of collective variables</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a></div></td>
 <td>Fatima-Zahrae Akhyar et al.</td>
 <td><a href="http://arxiv.org/abs/2512.17374">2512.17374</a></td>
 </tr>
@@ -323,7 +323,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Hyukjun Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25980">2603.25980</a></td>
 </tr>
@@ -389,7 +389,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18076.html">Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18076.html">Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
 <td>Shengjie Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18076">2603.18076</a></td>
 </tr>
@@ -605,7 +605,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a></div></td>
 <td>Yuchen Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00614">2603.00614</a></td>
 </tr>
@@ -812,59 +812,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07351.html">AtomMOF: All-Atom Flow Matching for MOF-Adsorbate Structure Prediction</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="mof-90d.html">mof</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Nayoung Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07351">2602.07351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06418.html">Adaptive Protein Tokenization</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Rohit Dilip et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06418">2602.06418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06706.html">SaDiT: Efficient Protein Backbone Design via Latent Structural Tokenization and Diffusion Transformers</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Shentong Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06706">2602.06706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07272.html">VideoNeuMat: Neural Material Extraction from Generative Video Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Bowen Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07272">2602.07272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18647.html">STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Kiet Bennema ten Brinke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18647">2505.18647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05372.html">CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Minkyu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05372">2602.05372</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17914.html">Flexible MOF Generation with Torsion-Aware Flow Matching</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a></div></td>
-<td>Nayoung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17914">2505.17914</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18175.html">Amortized Sampling with Transferable Normalizing Flows</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Charlie B. Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18175">2508.18175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04119.html">Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Hyeonah Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04119">2602.04119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04734.html">DMFlow: Disordered Materials Generation by Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04734">2602.04734</a></td>
 </tr>
 </tbody></table>

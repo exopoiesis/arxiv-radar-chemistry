@@ -485,6 +485,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-02-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23489.html">Exploring the extremes: atomic basis for multi-elemental materials science under complex thermodynamic conditions</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Anton Bochkarev et al.</td>
+<td><a href="http://arxiv.org/abs/2602.23489">2602.23489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09584.html">Agentic Exploration of PDE Spaces using Latent Foundation Models for Parameterized Simulations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Abhijeet Vishwasrao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09584">2604.09584</a></td>
@@ -1043,7 +1049,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12331.html">Active learning potentials for first-principles phase diagrams using replica-exchange nested sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12331.html">Active learning potentials for first-principles phase diagrams using replica-exchange nested sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Nico Unglert et al.</td>
 <td><a href="http://arxiv.org/abs/2512.12331">2512.12331</a></td>
 </tr>
@@ -1103,7 +1109,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14294.html">An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14294.html">An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Liang Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14294">2503.14294</a></td>
 </tr>
@@ -1943,7 +1949,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09501.html">Mechanical Force-Driven Charge Redistribution for Hydrogen Release at Ambient Conditions in Transition Metal-Intercalated Bilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09501.html">Mechanical Force-Driven Charge Redistribution for Hydrogen Release at Ambient Conditions in Transition Metal-Intercalated Bilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Jongdeok Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09501">2508.09501</a></td>
 </tr>
@@ -2648,11 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08850.html">High-throughput Screening of the Mechanical Properties of Peptide Assemblies</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sarah K. Yorke et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15587.html">MetaMolGen: A Neural Graph Motif Generation Model for De Novo Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Zimo Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15587">2504.15587</a></td>
 </tr>
 </tbody></table>

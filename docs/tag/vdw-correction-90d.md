@@ -118,6 +118,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2603.20713">2603.20713</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17582.html">Quantum Field Approaches to Chemical Systems</a></div></td>
+<td>Reza Karimpour et al.</td>
+<td><a href="http://arxiv.org/abs/2603.17582">2603.17582</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16162.html">Optimizing Density Functional Theory for Strain-Dependent Magnetic Properties of Monolayer MnBi$_2$Te$_4$ with Diffusion Monte Carlo</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Jeonghwan Ahn et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09184.html">Adsorption of Water on Pristine Graphene: A van der Waals Density Functional Study with the vdW-C09 Approach</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Aline Oliveira Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09184">2602.09184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00785.html">Enhancement of the WS$_2$ A$_{1\text{g}}$ Raman Mode in MoS$_2$/WS$_2$ Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Annika Bergmann-Iwe et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00785">2510.00785</a></td>
 </tr>
 </tbody></table>

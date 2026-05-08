@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -95,7 +95,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Julian Cremer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02578">2510.02578</a></td>
 </tr>
@@ -215,7 +215,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18171.html">Computing solvation free energies of small molecules with experimental accuracy</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18171.html">Computing solvation free energies of small molecules with experimental accuracy</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>J. Harry Moore et al.</td>
 <td><a href="http://arxiv.org/abs/2405.18171">2405.18171</a></td>
 </tr>
@@ -242,17 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07735.html">TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Matteo Rossi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07735">2602.07735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14586.html">Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Daria Frolova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14586">2510.14586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04280.html">Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Fei Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04280">2602.04280</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -221,7 +221,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Elio Moreau et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22122">2602.22122</a></td>
 </tr>
@@ -278,47 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07735.html">TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Matteo Rossi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07735">2602.07735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22677.html">A Quantum Framework for Protein Binding-Site Structure Prediction on Utility-Level Quantum Processors</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Yuqi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22677">2506.22677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15226.html">Code Clone Detection via an AlphaFold-Inspired Framework</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Changguo Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15226">2507.15226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13746.html">Continuous invariant-based asymmetries of periodic crystals quantify deviations from higher symmetry</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Surya Majumder et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13746">2510.13746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05372.html">CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Minkyu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05372">2602.05372</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06172.html">Know Your Scientist: KYC as Biosecurity Infrastructure</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Jonathan Feldman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06172">2602.06172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03312.html">Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Daniel D. Richman et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03312">2512.03312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04734.html">DMFlow: Disordered Materials Generation by Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04734">2602.04734</a></td>
 </tr>
 </tbody></table>

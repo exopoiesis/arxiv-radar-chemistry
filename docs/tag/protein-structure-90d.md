@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -281,7 +281,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Polina V. Banushkina et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
 </tr>
@@ -317,7 +317,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="string-method-90d.html">string-method</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Elio Moreau et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22122">2602.22122</a></td>
 </tr>
@@ -335,7 +335,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Seonghyun Park et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07390">2507.07390</a></td>
 </tr>
@@ -359,7 +359,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
 <td>Yu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16634">2602.16634</a></td>
 </tr>
@@ -422,35 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06020.html">Mechanisms of AI Protein Folding in ESMFold</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Kevin Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.06020">2602.06020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22677.html">A Quantum Framework for Protein Binding-Site Structure Prediction on Utility-Level Quantum Processors</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Yuqi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22677">2506.22677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06418.html">Adaptive Protein Tokenization</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Rohit Dilip et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06418">2602.06418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15226.html">Code Clone Detection via an AlphaFold-Inspired Framework</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Changguo Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15226">2507.15226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06172.html">Know Your Scientist: KYC as Biosecurity Infrastructure</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Jonathan Feldman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06172">2602.06172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04637.html">RIGA-Fold: A General Framework for Protein Inverse Folding via Recurrent Interaction and Geometric Awareness</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Sisi Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04637">2602.04637</a></td>
 </tr>
 </tbody></table>

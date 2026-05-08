@@ -5,15 +5,57 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-05-05._
+_Updated 2026-05-08._
 
-**14352** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**14881** chemistry-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05746.html">Polarizable atomic multipoles for learning long-range electrostatics</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Dongjin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05746">2605.05746</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06215.html">FunctionalAgent: Towards end-to-end on-top functional design</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
+<td>Yuhao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06215">2605.06215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2507.08676.html">Magic Steady State Production: Non-Hermitian, Dissipative, and Stochastic Pathways</a></div></td>
+<td>Pablo Martinez-Azcona et al.</td>
+<td><a href="http://arxiv.org/abs/2507.08676">2507.08676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04965.html">Reliable Modeling of Distribution Shifts via Displacement-Reshaped Optimal Transport</a></div></td>
+<td>Philip Naumann et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04965">2605.04965</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05380.html">The Eye of Sauron in SN 2025ngs: a Short-plateau Cousin of SN 1998S with Evidence for a Ring-like Circumstellar Medium</a></div></td>
+<td>Conor L. Ransome et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05380">2605.05380</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04294.html">Spin Dynamics from Atomistic Quantum Simulations</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Enrico Drigo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04294">2605.04294</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27190.html">Excited States from Quasiparticle Hamiltonian Based on Density Functional Theory</a></div></td>
+<td>Yang Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2604.27190">2604.27190</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.02267.html">Composition-Weighted Symbolic Regression for General-Purpose Property Prediction</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
@@ -52,6 +94,18 @@ _Updated 2026-05-05._
 </tr>
 <tr class="paper">
 <td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2405.06341.html">Finite symplectic automorphism groups of supersingular K3 surfaces</a></div></td>
+<td>Hisanori Ohashi et al.</td>
+<td><a href="http://arxiv.org/abs/2405.06341">2405.06341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2601.03267.html">OpenAI GPT-5 System Card</a></div></td>
+<td>Aaditya Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2601.03267">2601.03267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00313.html">Beyond Structure: Revolutionising Materials Discovery via AI-Driven Synthesis Protocol-Property Relationships</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Guillaume Lambard</td>
 <td><a href="http://arxiv.org/abs/2605.00313">2605.00313</a></td>
@@ -76,13 +130,13 @@ _Updated 2026-05-05._
 </tr>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/replica-exchange-30d.html">replica-exchange</a></div></td>
 <td>Sourav Baiju et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26264">2604.26264</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26362.html">Molecular Dynamics simulations of Al-Ti metallic alloy melts using a transferable machine-learning potential</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26362.html">Molecular Dynamics simulations of Al-Ti metallic alloy melts using a transferable machine-learning potential</a></div><div class="paper-tags"><a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Yuna Kato et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26362">2604.26362</a></td>
 </tr>
@@ -94,7 +148,7 @@ _Updated 2026-05-05._
 </tr>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/excited-states-30d.html">excited-states</a> · <a href="tag/photocatalysis-30d.html">photocatalysis</a> · <a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/excited-states-30d.html">excited-states</a> · <a href="tag/photocatalysis-30d.html">photocatalysis</a> · <a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a> · <a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Nico Yannik Merkt</td>
 <td><a href="http://arxiv.org/abs/2604.26428">2604.26428</a></td>
 </tr>
@@ -136,62 +190,8 @@ _Updated 2026-05-05._
 </tr>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26636.html">Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26636.html">Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>C. Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26636">2604.26636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26663.html">Hardware-Efficient Hamiltonian Simulation via Trotter-Initialized Variational Optimization with Native Placement</a></div></td>
-<td>F. S. Luiz et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26663">2604.26663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26694.html">Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Jun Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26694">2604.26694</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26703.html">A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Yue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26703">2604.26703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26813.html">Classical simulation of free-fermionic dynamics and quantum chemistry with magic input</a></div><div class="paper-tags"><a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Changhun Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26813">2604.26813</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26861.html">Protein folding on a 64 qubit trapped-ion hardware via counterdiabatic quantum optimization</a></div></td>
-<td>Alejandro Gomez Cadavid et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26861">2604.26861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26914.html">Digital Simulation of Non-Hermitian Knotted Bands on Quantum Hardware</a></div></td>
-<td>Truman Yu Ng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26914">2604.26914</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25093.html">Ultrafast Energy Absorption in Silicon Controlled by Two-Color Double Pulses</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/excited-states-30d.html">excited-states</a></div></td>
-<td>Eiyu S. Gushiken et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25093">2604.25093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Yifan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25097">2604.25097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25104.html">Effect of neutron-proton asymmetry on the $^3$H clustering in Boron isotopes</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>J. L. Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25104">2604.25104</a></td>
 </tr>
 </tbody></table>

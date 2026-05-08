@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -233,7 +233,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Narjes Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
 </tr>
@@ -293,7 +293,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Julian Cremer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02578">2510.02578</a></td>
 </tr>
@@ -635,7 +635,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00614.html">Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Yuchen Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00614">2603.00614</a></td>
 </tr>
@@ -767,7 +767,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15236.html">BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15236.html">BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Anjie Qiao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15236">2602.15236</a></td>
 </tr>
@@ -878,59 +878,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07408.html">Progressive Multi-Agent Reasoning for Biological Perturbation Prediction</a></div></td>
 <td>Hyomin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07408">2602.07408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04916.html">AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design</a></div></td>
-<td>Ling Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04916">2602.04916</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06706.html">SaDiT: Efficient Protein Backbone Design via Latent Structural Tokenization and Diffusion Transformers</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Shentong Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06706">2602.06706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07103.html">scDFM: Distributional Flow Matching Model for Robust Single-Cell Perturbation Prediction</a></div></td>
-<td>Chenglei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07103">2602.07103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14586.html">Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Daria Frolova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14586">2510.14586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05372.html">CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Minkyu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05372">2602.05372</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00157.html">ProDCARL: Reinforcement Learning-Aligned Diffusion Models for De Novo Antimicrobial Peptide Design</a></div></td>
-<td>Fang Sheng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00157">2602.00157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04119.html">Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Hyeonah Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04119">2602.04119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04637.html">RIGA-Fold: A General Framework for Protein Inverse Folding via Recurrent Interaction and Geometric Awareness</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Sisi Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04637">2602.04637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04734.html">DMFlow: Disordered Materials Generation by Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04734">2602.04734</a></td>
 </tr>
 </tbody></table>

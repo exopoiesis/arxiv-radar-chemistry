@@ -1,4 +1,73 @@
 {
+ "2401.04079": {
+  "abstract": "Artificial intelligence has started to transform histopathology impacting clinical diagnostics and biomedical research. However, while many computational pathology approaches have been proposed, most current AI models are limited with respect to generalization, application variety, and handling rare diseases. Recent efforts introduced self-supervised foundation models to address these challenges, yet existing approaches do not leverage pathologist knowledge by design. In this study, we present a novel approach to designing foundation models for computational pathology, incorporating pathologist expertise, semi-automated data curation, and a diverse dataset from over 15 laboratories, including 58 tissue types, and encompassing 129 different histochemical and immunohistochemical staining modalities. We demonstrate that our model \"RudolfV\" surpasses existing state-of-the-art foundation models across different benchmarks focused on tumor microenvironment profiling, biomarker evaluation, and reference case search while exhibiting favorable robustness properties. Our study shows how domain-specific knowledge can increase the efficiency and performance of pathology foundation models and enable novel application areas.",
+  "authors": [
+   "Jonas Dippel",
+   "Barbara Feulner",
+   "Tobias Winterhoff",
+   "Timo Milbich",
+   "Stephan Tietz",
+   "Simon Schallenberg",
+   "Gabriel Dernbach",
+   "Andreas Kunft",
+   "Simon Heinke",
+   "Marie-Lisa Eich",
+   "Julika Ribbat-Idel",
+   "Rosemarie Krupar",
+   "Philipp Anders",
+   "Niklas Prenißl",
+   "Philipp Jurmeister",
+   "David Horst",
+   "Lukas Ruff",
+   "Klaus-Robert Müller",
+   "Frederick Klauschen",
+   "Maximilian Alber"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jonas Dippel",
+  "pdf_url": "http://arxiv.org/pdf/2401.04079",
+  "primary_category": "eess.IV",
+  "published": "2024-01-08",
+  "tags": [],
+  "title": "RudolfV: A Foundation Model by Pathologists for Pathologists",
+  "topics": [
+   "via:author-whitelist:ML force fields, SchNet"
+  ],
+  "updated": "2024-06-11"
+ },
+ "2401.12936": {
+  "abstract": "The vast amount of computational studies on electrical conduction in solid-state electrolytes is not mirrored by comparable efforts addressing thermal conduction, which has been scarcely investigated despite its relevance to thermal management and (over)heating of batteries. The reason for this lies in the complexity of the calculations: on one hand, the diffusion of ionic charge carriers makes lattice methods formally unsuitable, due to the lack of equilibrium atomic positions needed for normal-mode expansion. On the other hand, the prohibitive cost of large-scale molecular dynamics (MD) simulations of heat transport in large systems at ab initio levels has hindered the use of MD-based methods. In this paper, we leverage recently developed machine-learning potentials targeting different ab initio functionals (PBEsol, r$^2$SCAN, PBE0) and a state-of-the-art formulation of the Green-Kubo theory of heat transport in multicomponent systems to compute the thermal conductivity of a promising solid-state electrolyte, Li$_3$PS$_4$, in all its polymorphs ($α$, $β$, and $γ$). By comparing MD estimates with lattice methods on the low-temperature, nondiffusive $γ$-Li$_3$PS$_4$, we highlight strong anharmonicities and negligible nuclear quantum effects, hence further justifying MD-based methods even for nondiffusive phases. Finally, for the ion-conducting $α$ and $β$ phases, where the multicomponent Green-Kubo MD approach is mandatory, our simulations indicate a weak temperature dependence of the thermal conductivity, a glass-like behavior due to the effective local disorder characterizing these Li-diffusing phases.",
+  "authors": [
+   "Davide Tisi",
+   "Federico Grasselli",
+   "Lorenzo Gigli",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 5 figures",
+  "first_author": "Davide Tisi",
+  "pdf_url": "http://arxiv.org/pdf/2401.12936",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-01-23",
+  "tags": [
+   "ab-initio",
+   "battery-materials",
+   "molecular-dynamics",
+   "thermal-properties"
+  ],
+  "title": "Thermal conductivity of Li$_3$PS$_4$ solid electrolytes with ab initio accuracy",
+  "topics": [
+   "via:author-whitelist:PIMD, MLIPs, water"
+  ],
+  "updated": "2024-06-17"
+ },
  "2403.00703": {
   "abstract": "The widespread application of III-V colloidal quantum dots (QDs) as non-toxic, highly tunable emitters is stymied by their high density of trap states. Here, we utilize density functional theory (DFT) to investigate trap state formation in a diverse set of realistically passivated core-only InP and GaP QDs. Through orbital localization techniques, we deconvolute the dense manifold of trap states to allow for detailed assignment of surface defects. We find that the three-coordinate species dominate trapping in III-V QDs and identify features in the geometry and charge environment of trap centers capable of deepening, or sometimes passivating, traps. Furthermore, we observe stark differences in surface reconstruction between InP and GaP, where the more labile InP reconstructs to passivate three-coordinate indium at the cost of distortion elsewhere. These results offer explanations for experimentally observed trapping behavior and suggest new avenues for controlling trap states in III-V QDs.",
   "authors": [
@@ -1085,7 +1154,8 @@
   "primary_category": "physics.chem-ph",
   "published": "2024-05-01",
   "tags": [
-   "molecular-dynamics"
+   "molecular-dynamics",
+   "string-method"
   ],
   "title": "Quantum rates in dissipative systems with spatially varying friction",
   "topics": [
@@ -2146,6 +2216,157 @@
   ],
   "updated": "2024-06-03"
  },
+ "2406.01716": {
+  "abstract": "CHEOPS is a space telescope specifically designed to monitor transiting exoplanets orbiting bright stars. In September 2023, CHEOPS completed its nominal mission and remains in excellent operational conditions. The mission has been extended until the end of 2026. Scientific and instrumental data have been collected throughout in-orbit commissioning and nominal operations, enabling a comprehensive analysis of the mission's performance. In this article, we present the results of this analysis with a twofold goal. First, we aim to inform the scientific community about the present status of the mission and what can be expected as the instrument ages. Secondly, we intend for this publication to serve as a legacy document for future missions, providing insights and lessons learned from the successful operation of CHEOPS. To evaluate the instrument performance in flight, we developed a comprehensive monitoring and characterisation programme. It consists of dedicated observations that allow us to characterise the instrument's response. In addition to the standard collection of nominal science and housekeeping data, these observations provide input for detecting, modelling, and correcting instrument systematics, discovering and addressing anomalies, and comparing the instrument's actual performance with expectations. The precision of the CHEOPS measurements has enabled the mission objectives to be met and exceeded. Careful modelling of the instrumental systematics allows the data quality to be significantly improved during the light curve analysis phase, resulting in more precise scientific measurements. CHEOPS is compliant with the driving scientific requirements of the mission. Although visible, the ageing of the instrument has not affected the mission's performance.",
+  "authors": [
+   "A. Fortier",
+   "A. E. Simon",
+   "C. Broeg",
+   "G. Olofsson",
+   "A. Deline",
+   "T. G. Wilson",
+   "P. F. L. Maxted",
+   "A. Brandeker",
+   "A. Collier Cameron",
+   "M. Beck",
+   "A. Bekkelien",
+   "N. Billot",
+   "A. Bonfanti",
+   "G. Bruno",
+   "J. Cabrera",
+   "L. Delrez",
+   "B. -O. Demory",
+   "D. Futyan",
+   "H. -G. Florén",
+   "M. N. Günther",
+   "A. Heitzmann",
+   "S. Hoyer",
+   "K. G. Isaak",
+   "S. G. Sousa",
+   "M. Stalport",
+   "A. Turin",
+   "P. Verhoeve",
+   "B. Akinsanmi",
+   "Y. Alibert",
+   "R. Alonso",
+   "D. Bánhidi",
+   "T. Bárczy",
+   "D. Barrado",
+   "S. C. Barros",
+   "W. Baumjohann",
+   "T. Baycroft",
+   "T. Beck",
+   "W. Benz",
+   "B. I. Bíró",
+   "A. Bódi",
+   "X. Bonfils",
+   "L. Borsato",
+   "S. Charnoz",
+   "B. Cseh",
+   "Sz. Csizmadia",
+   "I. Csányi",
+   "P. E. Cubillos",
+   "M. B. Davies",
+   "Y. T. Davis",
+   "M. Deleuil",
+   "O. D. S. Demangeon",
+   "A. Derekas",
+   "G. Dransfield",
+   "E. Ducrot",
+   "D. Ehrenreich",
+   "A. Erikson",
+   "C. Fariña",
+   "L. Fossati",
+   "M. Fridlund",
+   "D. Gandolfi",
+   "Z. Garai",
+   "L. Garcia",
+   "M. Gillon",
+   "Y. Gómez Maqueo Chew",
+   "M. A. Gómez-Muñoz",
+   "V. Granata",
+   "M. Güdel",
+   "P. Guterman",
+   "T. Hegedüs",
+   "Ch. Helling",
+   "E. Jehin",
+   "Cs. Kalup",
+   "D. Kilkenny",
+   "L. Kiss",
+   "L. Kriskovics",
+   "K. W. F. Lam",
+   "J. Laskar",
+   "A. Lecavelier des Etangs",
+   "M. Lendl",
+   "A. Lopez Pina",
+   "A. Luntzer",
+   "D. Magrin",
+   "N. J. Miller",
+   "D. Modrego Contreras",
+   "C. Mordasini",
+   "M. Munari",
+   "C. A. Murray",
+   "V. Nascimbeni",
+   "H. Ottacher",
+   "R. Ottensamer",
+   "I. Pagano",
+   "A. Pál",
+   "E. Pallé",
+   "A. Pasetti",
+   "P. Pedersen",
+   "G. Peter",
+   "R. Petrucci",
+   "G. Piotto",
+   "A. Pizarro-Rubio",
+   "D. Pollacco",
+   "T. Pribulla",
+   "D. Queloz",
+   "R. Ragazzoni",
+   "N. Rando",
+   "H. Rauer",
+   "I. Ribas",
+   "L. Sabin",
+   "N. C. Santos",
+   "G. Scandariato",
+   "N. Schanche",
+   "U. Schroffenegger",
+   "O. J. Scutt",
+   "D. Sebastian",
+   "D. Ségransan",
+   "B. Seli",
+   "A. M. S. Smith",
+   "R. Southworth",
+   "M. R. Standing",
+   "M. Gy. Szabó",
+   "R. Szakáts",
+   "N. Thomas",
+   "M. Timmermans",
+   "A. H. M. J. Triaud",
+   "S. Udry",
+   "V. Van Grootel",
+   "J. Venturini",
+   "E. Villaver",
+   "J. Vinkó",
+   "N. A. Walton",
+   "R. Wells",
+   "D. Wolter"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted for publication in Astronomy and Astrophysics",
+  "first_author": "A. Fortier",
+  "pdf_url": "http://arxiv.org/pdf/2406.01716",
+  "primary_category": "astro-ph.IM",
+  "published": "2024-06-03",
+  "tags": [],
+  "title": "CHEOPS in-flight performance: A comprehensive look at the first 3.5 years of operations",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE"
+  ],
+  "updated": "2024-06-03"
+ },
  "2406.01808": {
   "abstract": "Large language models manifest the ability of few-shot adaptation to a sequence of provided examples. This behavior, known as in-context learning, allows for performing nontrivial machine learning tasks during inference only. In this work, we address the question: can we leverage in-context learning to predict out-of-distribution materials properties? However, this would not be possible for structure property prediction tasks unless an effective method is found to pass atomic-level geometric features to the transformer model. To address this problem, we employ a compound model in which GPT-2 acts on the output of geometry-aware graph neural networks to adapt in-context information. To demonstrate our model's capabilities, we partition the QM9 dataset into sequences of molecules that share a common substructure and use them for in-context learning. This approach significantly improves the performance of the model on out-of-distribution examples, surpassing the one of general graph neural network models.",
   "authors": [
@@ -2371,6 +2592,27 @@
   ],
   "updated": "2024-06-04"
  },
+ "2406.02274": {
+  "abstract": "We consider the problem of preserving positive Ricci curvature along connected sums. In this context, based on earlier work by Perelman, Burdick introduced the notion of core metrics and showed that the connected sum of manifolds with core metrics admits a Riemannian metric of positive Ricci curvature. He subsequently showed that core metrics exist on compact rank one symmetric spaces, certain sphere bundles and manifolds obtained as boundaries of certain plumbings. In this article, we show that core metrics can be lifted along general fibre bundles, including sphere bundles and projective bundles. Our techniques also apply to spaces that decompose as the union of two disc bundles such as the Wu manifold. As application we show that all classes in the torsion-free oriented bordism ring can be represented by connected manifolds of positive Ricci curvature.",
+  "authors": [
+   "Philipp Reiser"
+  ],
+  "categories": [
+   "math.DG",
+   "math.GT"
+  ],
+  "comment": "33 pages",
+  "first_author": "Philipp Reiser",
+  "pdf_url": "http://arxiv.org/pdf/2406.02274",
+  "primary_category": "math.DG",
+  "published": "2024-06-04",
+  "tags": [],
+  "title": "Positive Ricci curvature on connected sums of fibre bundles",
+  "topics": [
+   "via:author-whitelist:GNN benchmarking, materials ML"
+  ],
+  "updated": "2024-06-04"
+ },
  "2406.02341": {
   "abstract": "Due to rapid advancements in deep learning techniques, the demand for large-volume high-quality databases grows significantly in chemical research. We developed a quantum-chemistry database that includes 443,106 small organic molecules with sizes up to 10 heavy atoms including carbon (C), nitrogen (N), oxygen (O), and fluorine (F). Ground-state geometry optimizations and frequency calculations of all compounds were performed at the B3LYP/6-31G* level with the BJD3 dispersion correction, while the excited-state single-point calculations were conducted at the $ω$B97X-D/6-31G* level. Totally twenty seven molecular properties, such as geometric, thermodynamic, electronic and energetic properties, were gathered from these calculations. Meanwhile, we also established a comprehensive protocol for the construction of a high-volume quantum-chemistry database. Our QCDGE (Quantum Chemistry Database with Ground- and Excited-State Properties) database contains a substantial volume of data, exhibits high chemical diversity, and most importantly includes excited-state information. This database, along with its construction protocol, is expected to have a significant impact on the broad applications of machine learning studies across different fields of chemistry, especially in the area of excited-state research.",
   "authors": [
@@ -2393,6 +2635,49 @@
   "title": "QCDGE database, Quantum Chemistry Database with Ground- and Excited-state Properties of 450 Kilo Molecules",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2024-06-04"
+ },
+ "2406.02498": {
+  "abstract": "There is a growing number of peculiar events that cannot be assigned to any of the main supernova (SN) classes. SN 1987A and a handful of similar objects, thought to be explosive outcomes of blue supergiant stars, belong to them: while their spectra closely resemble those of H-rich (IIP) SNe, their light-curve (LC) evolution is very different. Here we present the detailed photometric and spectroscopic analysis of SN 2021aatd, a peculiar Type II explosion: while its early-time evolution resembles that of the slowly evolving, double-peaked SN 2020faa (however, at a lower luminosity scale), after $\\sim$40 days, its LC shape becomes similar to that of SN 1987A-like explosions. Beyond comparing LCs, color curves, and spectra of SN 2021aatd to that of SNe 2020faa, 1987A, and of other objects, we compare the observed spectra with our own SYN++ models and with the outputs of published radiative transfer models. We also modeled the pseudo-bolometric LCs of SNe 2021aatd and 1987A assuming a two-component (core+shell) ejecta, and involving the rotational energy of a newborn magnetar in addition to radioactive decay. We find that both the photometric and spectroscopic evolution of SN 2021aatd can be well described with the explosion of a $\\sim$15 $M_\\odot$ blue supergiant star. Nevertheless, SN 2021aatd shows higher temperatures and weaker Na ID and Ba II 6142 A lines than SN 1987A, which is reminiscent of rather to IIP-like atmospheres. With the applied two-component ejecta model (counting with both decay and magnetar energy), we can successfully describe the bolometric LC of SN 2021aatd, including the first $\\sim$40-day long phase showing an excess compared to 87A-like SNe but being strikingly similar to that of the long-lived SN 2020faa. Nevertheless, finding a unified model that also explains the LCs of more luminous events (like SN 2020faa) is still a matter of concern.",
+  "authors": [
+   "T. Szalai",
+   "R. Könyves-Tóth",
+   "A. P. Nagy",
+   "D. Hiramatsu",
+   "I. Arcavi",
+   "A. Bostroem",
+   "D. A. Howell",
+   "J. Farah",
+   "C. McCully",
+   "M. Newsome",
+   "E. Padilla Gonzalez",
+   "C. Pellegrino",
+   "G. Terreran",
+   "E. Berger",
+   "P. Blanchard",
+   "S. Gomez",
+   "P. Székely",
+   "D. Bánhidi",
+   "I. B. Bíró",
+   "I. Csányi",
+   "A. Pál",
+   "J. Rho",
+   "J. Vinkó"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.HE"
+  ],
+  "comment": "24 pages, 18 figures, 10 tables; accepted for publication in A&A",
+  "first_author": "T. Szalai",
+  "pdf_url": "http://arxiv.org/pdf/2406.02498",
+  "primary_category": "astro-ph.SR",
+  "published": "2024-06-04",
+  "tags": [],
+  "title": "The story of SN 2021aatd -- a peculiar 1987A-like supernova with an early-phase luminosity excess",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE"
   ],
   "updated": "2024-06-04"
  },
@@ -2977,7 +3262,8 @@
   "tags": [
    "2d-materials",
    "dft",
-   "electronic-structure"
+   "electronic-structure",
+   "thermodynamic-integration"
   ],
   "title": "Cooperative CO$_2$ capture via oxalate formation on metal-decorated graphene",
   "topics": [
@@ -3084,7 +3370,8 @@
   "primary_category": "cond-mat.mtrl-sci",
   "published": "2024-06-06",
   "tags": [
-   "ab-initio"
+   "ab-initio",
+   "thermodynamic-integration"
   ],
   "title": "Realization of higher coordinated Er in high-pressure cotunnite phase of Er$_2$Ti$_2$O$_7$",
   "topics": [
@@ -3881,6 +4168,38 @@
   ],
   "updated": "2024-06-17"
  },
+ "2406.06150": {
+  "abstract": "In this paper, we propose a novel and powerful method to harness Bayesian optimization for Variational Quantum Eigensolvers (VQEs) -- a hybrid quantum-classical protocol used to approximate the ground state of a quantum Hamiltonian. Specifically, we derive a VQE-kernel which incorporates important prior information about quantum circuits: the kernel feature map of the VQE-kernel exactly matches the known functional form of the VQE's objective function and thereby significantly reduces the posterior uncertainty. Moreover, we propose a novel acquisition function for Bayesian optimization called Expected Maximum Improvement over Confident Regions (EMICoRe) which can actively exploit the inductive bias of the VQE-kernel by treating regions with low predictive uncertainty as indirectly ``observed''. As a result, observations at as few as three points in the search domain are sufficient to determine the complete objective function along an entire one-dimensional subspace of the optimization landscape. Our numerical experiments demonstrate that our approach improves over state-of-the-art baselines.",
+  "authors": [
+   "Kim A. Nicoli",
+   "Christopher J. Anders",
+   "Lena Funcke",
+   "Tobias Hartung",
+   "Karl Jansen",
+   "Stefan Kühn",
+   "Klaus-Robert Müller",
+   "Paolo Stornati",
+   "Pan Kessel",
+   "Shinichi Nakajima"
+  ],
+  "categories": [
+   "cs.LG",
+   "quant-ph"
+  ],
+  "comment": "36 pages, 17 figures, 37th Conference on Neural Information Processing Systems (NeurIPS 2023)",
+  "first_author": "Kim A. Nicoli",
+  "pdf_url": "http://arxiv.org/pdf/2406.06150",
+  "primary_category": "cs.LG",
+  "published": "2024-06-10",
+  "tags": [
+   "bayesian-optimization"
+  ],
+  "title": "Physics-Informed Bayesian Optimization of Variational Quantum Circuits",
+  "topics": [
+   "via:author-whitelist:ML force fields, SchNet"
+  ],
+  "updated": "2024-06-10"
+ },
  "2406.06181": {
   "abstract": "Thin organic films and two-dimensional (2D) molecular assemblies on solid surfaces yield the potential for applications in molecular electronics, optoelectronics, catalysis, and sensing. These applications rely on the intrinsic electronic properties of the hybrid organic/inorganic interface. Here, we investigate the energy dispersion of 2D electronic states at the interface between an atomically thin self-assembled molecular film, comprised of flat, noncovalently bonded 9,10-dicyanoanthracene (DCA) molecules, and a Ag(111) surface. Using Fourier-transformed scanning tunnelling spectroscopy (FT-STS), we determined that the 2D electronic wave functions with wavevectors within ~80% of the first Brillouin zone (BZ) area close to the Gamma-point are free-electron-like, suggesting a weak electronic interaction between the 2D molecular film and the metal surface. Via a perturbative second-order correction to the free electron energy dispersion, we further established an upper bound for the amplitude of the scattering potential resulting from the self-assembled molecular film that the interface electrons are subject to, on the order of 1.5 eV. Our approach allows for quantifying electronic interactions at hybrid 2D interfaces and heterostructures.",
   "authors": [
@@ -4027,6 +4346,70 @@
   "title": "Tx-LLM: A Large Language Model for Therapeutics",
   "topics": [
    "Large Language Models & Materials"
+  ],
+  "updated": "2024-06-10"
+ },
+ "2406.06335": {
+  "abstract": "The industrial manufacturing of chemicals consumes a significant amount of energy and raw materials. In principle, the development of new catalysts could greatly improve the efficiency of chemical production. However, the discovery of viable catalysts can be exceedingly challenging because it is difficult to know the efficacy of a candidate without experimentally synthesizing and characterizing it. This study explores the feasibility of using fault-tolerant quantum computers to accelerate the discovery of homogeneous catalysts for nitrogen fixation, an industrially important chemical process. It introduces a set of ground-state energy estimation problems representative of calculations needed for the discovery of homogeneous catalysts and analyzes them on three dimensions: economic utility, classical hardness, and quantum resource requirements. For the highest utility problem considered, two steps of a catalytic cycle for the generation of cyanate anion from dinitrogen, the economic utility of running these computations is estimated to be $200,000, and the required runtime for double-factorized phase estimation on a fault-tolerant superconducting device is estimated under conservative assumptions to be 139,000 QPU-hours. The computational cost of an equivalent DMRG calculation is estimated to be about 400,000 CPU-hours. These results suggest that, with continued development, it will be feasible for fault-tolerant quantum computers to accelerate the discovery of homogeneous catalysts.",
+  "authors": [
+   "Nicole Bellonzi",
+   "Alexander Kunitsa",
+   "Joshua T. Cantin",
+   "Jorge A. Campos-Gonzalez-Angulo",
+   "Maxwell D. Radin",
+   "Yanbing Zhou",
+   "Peter D. Johnson",
+   "Luis A. Martínez-Martínez",
+   "Mohammad Reza Jangrouei",
+   "Aritra Sankar Brahmachari",
+   "Linjun Wang",
+   "Smik Patel",
+   "Monika Kodrycka",
+   "Ignacio Loaiza",
+   "Robert A. Lang",
+   "Alán Aspuru-Guzik",
+   "Artur F. Izmaylov",
+   "Jhonathan Romero Fontalvo",
+   "Yudong Cao"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "27 pages, 11 tables, 8 figures plus appendix",
+  "first_author": "Nicole Bellonzi",
+  "pdf_url": "http://arxiv.org/pdf/2406.06335",
+  "primary_category": "quant-ph",
+  "published": "2024-06-10",
+  "tags": [],
+  "title": "Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers",
+  "topics": [
+   "via:author-whitelist:ML chemistry, autonomous discovery"
+  ],
+  "updated": "2024-06-10"
+ },
+ "2406.06345": {
+  "abstract": "A new method for predicting core level binding energies (CLBEs) is developed by both localizing the core-level states and describing the screening effect. CLBEs contain important information about the electronic structure, elemental chemistry, and chemical environment of molecules and materials. Theoretical study of CLBEs can provide insights for analyzing and interpreting the experimental results obtained from the X-ray photoelectron spectroscopy, in which the overlapping of signals is very common. The localization of core-level holes is important for the theoretical calculation of CLBEs. Predicting CLBEs from commonly used density functional approximations (DFAs) is challenging, because conventional DFAs often produce delocalized core-level states, especially when degenerate core-level states exist. In this work, we combine the localization procedure from the localized orbital scaling correction method and the curvature matrix generalized from the exact second-order correction method that contains the screening effect, and the resulting approach can accurately predict CLBEs from ground-state density functional calculations.",
+  "authors": [
+   "Jincheng Yu",
+   "Yuncai Mei",
+   "Zehua Chen",
+   "Weitao Yang"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Jincheng Yu",
+  "pdf_url": "http://arxiv.org/pdf/2406.06345",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-06-10",
+  "tags": [
+   "dft",
+   "electronic-structure"
+  ],
+  "title": "Accurate Prediction of Core Level Binding Energies from Ground-State Density Functional Calculations: The Importance of Localization and Screening",
+  "topics": [
+   "via:author-whitelist:DFT methodology, dispersion"
   ],
   "updated": "2024-06-10"
  },
@@ -4244,6 +4627,37 @@
    "Property Prediction & ADMET",
    "Protein & Biomolecules",
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2024-06-11"
+ },
+ "2406.07306": {
+  "abstract": "An optimization-based image reconstruction algorithm is developed for contrast enhanced digital breast tomosynthesis (DBT) using dual-energy scanning. The algorithm minimizes directional total variation (TV) with a data discrepancy and non-negativity constraints. Iodinated contrast agent (ICA) imaging is performed by reconstructing images from dual-energy DBT data followed by weighted subtraction. Physical DBT data is acquired with a Siemens Mammomat scanner of a structured breast phantom with ICA inserts. Results are shown for both directional TV minimization and filtered back-projection for reference. It is seen that directional TV is able to substantially reduce depth blur for the ICA objects.",
+  "authors": [
+   "Emil Y. Sidky",
+   "Xiangyi Wu",
+   "Xiaoyu Duan",
+   "Hailing Huang",
+   "Wei Zhao",
+   "Leo Y. Zhang",
+   "John Paul Phillips",
+   "Zheng Zhang",
+   "Buxin Chen",
+   "Dan Xia",
+   "Ingrid S. Reiser",
+   "Xiaochuan Pan"
+  ],
+  "categories": [
+   "physics.med-ph"
+  ],
+  "comment": "Proceedings paper for accepted contribution to the 8th International Conference on Image Formation in X-Ray Computed Tomography (https://www.ct-meeting.org)",
+  "first_author": "Emil Y. Sidky",
+  "pdf_url": "http://arxiv.org/pdf/2406.07306",
+  "primary_category": "physics.med-ph",
+  "published": "2024-06-11",
+  "tags": [],
+  "title": "A directional total variation minimization algorithm for isotropic resolution in digital breast tomosynthesis",
+  "topics": [
+   "via:author-whitelist:GNN benchmarking, materials ML"
   ],
   "updated": "2024-06-11"
  },
@@ -4498,6 +4912,43 @@
   "title": "Role of Kinetic Exchange and Coulomb Interaction in Bonding of Hydrogen Molecular Systems and Excited States",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2024-06-11"
+ },
+ "2406.07762": {
+  "abstract": "We demonstrate nearly a microsecond of spin coherence in Er3+ ions doped in cerium dioxide nanocrystal hosts, despite a large gyromagnetic ratio and nanometric proximity of the spin defect to the nanocrystal surface. The long spin coherence is enabled by reducing the dopant density below the instantaneous diffusion limit in a nuclear spin-free host material, reaching the limit of a single erbium spin defect per nanocrystal. We observe a large Orbach energy in a highly symmetric cubic site, further protecting the coherence in a qubit that would otherwise rapidly decohere. Spatially correlated electron spectroscopy measurements reveal the presence of Ce3+ at the nanocrystal surface that likely acts as extraneous paramagnetic spin noise. Even with these factors, defect-embedded nanocrystal hosts show tremendous promise for quantum sensing and quantum communication applications, with multiple avenues, including core-shell fabrication, redox tuning of oxygen vacancies, and organic surfactant modification, available to further enhance their spin coherence and functionality in the future.",
+  "authors": [
+   "Joeson Wong",
+   "Mykyta Onizhuk",
+   "Jonah Nagura",
+   "Arashdeep S. Thind",
+   "Jasleen K. Bindra",
+   "Christina Wicker",
+   "Gregory D. Grant",
+   "Yuxuan Zhang",
+   "Jens Niklas",
+   "Oleg G. Poluektov",
+   "Robert F. Klie",
+   "Jiefei Zhang",
+   "Giulia Galli",
+   "F. Joseph Heremans",
+   "David D. Awschalom",
+   "A. Paul Alivisatos"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci",
+   "quant-ph"
+  ],
+  "comment": "26 pages, 5 figures",
+  "first_author": "Joeson Wong",
+  "pdf_url": "http://arxiv.org/pdf/2406.07762",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2024-06-11",
+  "tags": [],
+  "title": "Coherent Erbium Spin Defects in Colloidal Nanocrystal Hosts",
+  "topics": [
+   "via:author-whitelist:DFT water, defects"
   ],
   "updated": "2024-06-11"
  },
@@ -5087,6 +5538,7 @@
   "published": "2024-06-13",
   "tags": [
    "drug-discovery",
+   "enhanced-sampling",
    "materials-science",
    "molecular-dynamics"
   ],
@@ -5692,6 +6144,32 @@
   ],
   "updated": "2024-06-16"
  },
+ "2406.10915": {
+  "abstract": "A ubiquitous approach to obtain transferable machine learning-based models of potential energy surfaces for atomistic systems is to decompose the total energy into a sum of local atom-centred contributions. However, in many systems non-negligible long-range electrostatic effects must be taken into account as well. We introduce a general mathematical framework to study how such long-range effects can be included in a way that (i) allows charge equilibration and (ii) retains the locality of the learnable atom-centred contributions to ensure transferability. Our results give partial explanations for the success of existing machine learned potentials that include equilibriation and provide perspectives how to design such schemes in a systematic way. To complement the rigorous theoretical results, we describe a practical scheme for fitting the energy and electron density of water clusters.",
+  "authors": [
+   "Jack Thomas",
+   "William J. Baldwin",
+   "Gábor Csányi",
+   "Christoph Ortner"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "33 pages, 1 figure",
+  "first_author": "Jack Thomas",
+  "pdf_url": "http://arxiv.org/pdf/2406.10915",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-06-16",
+  "tags": [
+   "free-energy"
+  ],
+  "title": "Self-consistent Coulomb interactions for machine learning interatomic potentials",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE"
+  ],
+  "updated": "2024-06-16"
+ },
  "2406.11018": {
   "abstract": "Scanning Transmission Electron Microscopy (STEM) coupled with Electron Energy Loss Spectroscopy (EELS) presents a powerful platform for detailed material characterization via rich imaging and spectroscopic data. Modern electron microscopes can access multiple length scales and sampling rates far beyond human perception and reaction time. Recent advancements in machine learning (ML) offer a promising avenue to enhance these capabilities by integrating ML algorithms into the STEM-EELS framework, fostering an environment of active learning. This work enables the seamless integration of STEM with High-Performance Computing (HPC) systems. We present several implemented workflows that exemplify this integration. These workflows include sophisticated techniques such as object finding and Deep Kernel Learning (DKL). Through these developments, we demonstrate how the fusion of STEM-EELS with ML and HPC enhances the efficiency and scope of material characterization for 70% STEM available globally. The codes are available at GitHub link.",
   "authors": [
@@ -5982,7 +6460,8 @@
   ],
   "title": "The Role of Spin-Orbit Coupling on the Linear Absorption Spectrum and Intersystem Crossing Rate Coefficients of Ruthenium Polypyridyl Dyes",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:DFT, polarizable water"
   ],
   "updated": "2024-06-18"
  },
@@ -6172,6 +6651,41 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2024-06-14"
+ },
+ "2406.13029": {
+  "abstract": "In 2021, the high-mass X-ray binary EXO 2030+375 underwent a giant X-ray outburst, the first since 2006, that reached a peak flux of ${\\sim}600\\,\\mathrm{mCrab}$ (3-50\\,keV). The goal of this work is to study the spectral evolution over the course of the outburst, search for possible cyclotron resonance scattering features (CRSFs), and to associate spectral components with the emission pattern of the accretion column. We used broadband spectra taken with the Nuclear Spectroscopic Telescope Array (NuSTAR), the Neutron Star Interior Composition Explorer (NICER), and Chandra near the peak and during the decline phase of the outburst. We describe the data with established empirical continuum models and perform pulse-phase-resolved spectroscopy. We compare the spectral evolution with pulse phase using a proposed geometrical emission model. We find a significant spectral hardening toward lower luminosity, a behavior that is expected for super-critical sources. The continuum shape and evolution cannot be described by a simple power-law model with exponential cutoff; it requires additional absorption or emission components. We can confirm the presence of a narrow absorption feature at ${\\sim}10\\,\\mathrm{keV}$ in both NuSTAR observations. The absence of harmonics puts into question the interpretation of this feature as a CRSF. The empirical spectral components cannot be directly associated with identified emission components from the accretion column.",
+  "authors": [
+   "R. Ballhausen",
+   "P. Thalhammer",
+   "P. Pradhan",
+   "E. Sokolova-Lapa",
+   "J. Stierhof",
+   "K. Pottschmidt",
+   "J. Wilms",
+   "J. B. Coley",
+   "P. Kretschmar",
+   "F. Fuerst",
+   "P. Becker",
+   "B. West",
+   "C. Malacaria",
+   "M. T. Wolff",
+   "R. Rothschild",
+   "R. Staubert"
+  ],
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "comment": "12 pages, 8 figures, accepted in A&A",
+  "first_author": "R. Ballhausen",
+  "pdf_url": "http://arxiv.org/pdf/2406.13029",
+  "primary_category": "astro-ph.HE",
+  "published": "2024-06-18",
+  "tags": [],
+  "title": "The giant outburst of EXO 2030+375 II: Broadband spectroscopy and evolution",
+  "topics": [
+   "via:author-whitelist:retrosynthesis, ML chemistry"
+  ],
+  "updated": "2024-06-18"
  },
  "2406.13142": {
   "abstract": "Overcoming the challenge of limited data availability within materials science is crucial for the broad-based applicability of machine learning within materials science. One pathway to overcome this limited data availability is to use the framework of transfer learning (TL), where a pre-trained (PT) machine learning model (on a larger dataset) can be fine-tuned (FT) on a target (typically smaller) dataset. Our study systematically explores the effectiveness of various PT/FT strategies to learn and predict material properties with limited data. Specifically, we leverage graph neural networks (GNNs) to PT/FT on seven diverse curated materials datasets, encompassing sizes ranging from 941 to 132,752 datapoints. We consider datasets that cover a spectrum of material properties, ranging from band gaps (electronic) to formation energies (thermodynamic) and shear moduli (mechanical). We study the influence of PT and FT dataset sizes, strategies that can be employed for FT, and other hyperparameters on pair-wise TL among the datasets considered. We find our pair-wise PT-FT models to consistently outperform models trained from scratch on the target datasets. Importantly, we develop a GNN framework that is simultaneously PT on multiple properties (MPT), enabling the construction of generalized GNN models. Our MPT models outperform pair-wise PT-FT models on several datasets considered, and more significantly, on a 2D material band gap dataset that is completely out-of-distribution from the PT datasets. Finally, we expect our PT/FT and MPT frameworks to be generalizable to other GNNs and materials properties, which can accelerate materials design and discovery for various applications.",
@@ -6672,7 +7186,8 @@
   ],
   "title": "Efficient parameterization of transferable Atomic Cluster Expansion for water",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:ACE potentials"
   ],
   "updated": "2024-06-20"
  },
@@ -6971,6 +7486,28 @@
   ],
   "updated": "2024-06-20"
  },
+ "2406.14713": {
+  "abstract": "Frontier artificial intelligence (AI) systems could pose increasing risks to public safety and security. But what level of risk is acceptable? One increasingly popular approach is to define capability thresholds, which describe AI capabilities beyond which an AI system is deemed to pose too much risk. A more direct approach is to define risk thresholds that simply state how much risk would be too much. For instance, they might state that the likelihood of cybercriminals using an AI system to cause X amount of economic damage must not increase by more than Y percentage points. The main upside of risk thresholds is that they are more principled than capability thresholds, but the main downside is that they are more difficult to evaluate reliably. For this reason, we currently recommend that companies (1) define risk thresholds to provide a principled foundation for their decision-making, (2) use these risk thresholds to help set capability thresholds, and then (3) primarily rely on capability thresholds to make their decisions. Regulators should also explore the area because, ultimately, they are the most legitimate actors to define risk thresholds. If AI risk estimates become more reliable, risk thresholds should arguably play an increasingly direct role in decision-making.",
+  "authors": [
+   "Leonie Koessler",
+   "Jonas Schuett",
+   "Markus Anderljung"
+  ],
+  "categories": [
+   "cs.CY"
+  ],
+  "comment": "24 pages, 6 figures, 1 table",
+  "first_author": "Leonie Koessler",
+  "pdf_url": "http://arxiv.org/pdf/2406.14713",
+  "primary_category": "cs.CY",
+  "published": "2024-06-20",
+  "tags": [],
+  "title": "Risk thresholds for frontier AI",
+  "topics": [
+   "via:author-whitelist:SchNet, equivariant ML"
+  ],
+  "updated": "2024-06-20"
+ },
  "2406.14741": {
   "abstract": "We use lattice-Boltzmann molecular dynamics (LBMD) simulations to study the compression of a confined polymer immersed in a fluid and pushed by a large spherical colloid with a diameter comparable to the channel width. We examined the chain's deformation with both purely repulsive and weakly attractive Lennard-Jones (LJ) potentials applied between the monomers. The sphere's velocity was varied over 3 orders of magnitude. The chain is in a non-dense state at low pushing velocities for both repulsive and attractive monomer interactions. When the velocity of the spherical colloid exceeds a threshold $v^*$, the back end of the chain transitions to a high density state with low mean square monomer displacement (MSD) values. The front end, however, remains in a non-dense state with high MSD indicating a pseudo two-state coexistence. This crossover is also revealed through volume per monomer and MSD as a function of the sphere's velocity. We also studied polymer dynamics by investigating folding events at different times.",
   "authors": [
@@ -7044,6 +7581,39 @@
   "title": "Bayesian neural networks for predicting uncertainty in full-field material response",
   "topics": [
    "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2024-06-21"
+ },
+ "2406.14866": {
+  "abstract": "While previous studies have demonstrated the potential of AI to diagnose diseases in imaging data, clinical implementation is still lagging behind. This is partly because AI models require training with large numbers of examples only available for common diseases. In clinical reality, however, only few diseases are common, whereas the majority of diseases are less frequent (long-tail distribution). Current AI models overlook or misclassify these diseases. We propose a deep anomaly detection approach that only requires training data from common diseases to detect also all less frequent diseases. We collected two large real-world datasets of gastrointestinal biopsies, which are prototypical of the problem. Herein, the ten most common findings account for approximately 90% of cases, whereas the remaining 10% contained 56 disease entities, including many cancers. 17 million histological images from 5,423 cases were used for training and evaluation. Without any specific training for the diseases, our best-performing model reliably detected a broad spectrum of infrequent (\"anomalous\") pathologies with 95.0% (stomach) and 91.0% (colon) AUROC and generalized across scanners and hospitals. By design, the proposed anomaly detection can be expected to detect any pathological alteration in the diagnostic tail of gastrointestinal biopsies, including rare primary or metastatic cancers. This study establishes the first effective clinical application of AI-based anomaly detection in histopathology that can flag anomalous cases, facilitate case prioritization, reduce missed diagnoses and enhance the general safety of AI models, thereby driving AI adoption and automation in routine diagnostics and beyond.",
+  "authors": [
+   "Jonas Dippel",
+   "Niklas Prenißl",
+   "Julius Hense",
+   "Philipp Liznerski",
+   "Tobias Winterhoff",
+   "Simon Schallenberg",
+   "Marius Kloft",
+   "Oliver Buchstab",
+   "David Horst",
+   "Maximilian Alber",
+   "Lukas Ruff",
+   "Klaus-Robert Müller",
+   "Frederick Klauschen"
+  ],
+  "categories": [
+   "cs.AI",
+   "eess.IV"
+  ],
+  "comment": null,
+  "first_author": "Jonas Dippel",
+  "pdf_url": "http://arxiv.org/pdf/2406.14866",
+  "primary_category": "cs.AI",
+  "published": "2024-06-21",
+  "tags": [],
+  "title": "AI-based Anomaly Detection for Clinical-Grade Histopathological Diagnostics",
+  "topics": [
+   "via:author-whitelist:ML force fields, SchNet"
   ],
   "updated": "2024-06-21"
  },
@@ -7198,7 +7768,8 @@
    "dft",
    "electronic-structure",
    "magnetic-properties",
-   "phase-transition"
+   "phase-transition",
+   "thermodynamic-integration"
   ],
   "title": "Phase transitions, Dirac and WSM states in $\\mathrm{Mn}_{1-x} \\mathrm{Ge}_x \\mathrm{Bi}_2 \\mathrm{Te}_4$",
   "topics": [
@@ -7525,6 +8096,55 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2024-06-22"
+ },
+ "2406.15944": {
+  "abstract": "We introduce a general framework for many-body force field models, the Completely Multipolar Model (CMM), that utilizes multipolar electrical moments modulated by exponential decay of electron density as a common functional form for all piecewise terms of an energy decomposition analysis of intermolecular interactions. With this common functional form the CMM model establishes well-formulated damped tensors that reach the correct asymptotes at both long- and short-range while formally ensuring no short-range catastrophes. The CMM describes the separable EDA terms of dispersion, exchange polarization, and Pauli repulsion with short-ranged anisotropy, polarization as intramolecular charge fluctuations and induced dipoles, while charge transfer describes explicit movement of charge between molecules, and naturally describes many-body charge transfer by coupling into the polarization equations. We also utilize a new one-body potential that accounts for intramolecular polarization by including an electric field-dependent correction to the Morse potential to ensure that the CMM reproduces all physically relevant monomer properties including the dipole moment, molecular polarizability, and dipole and polarizability derivatives. The quality of the CMM is illustrated through agreement of individual terms of the EDA and excellent extrapolation to energies and geometries of an extensive validation set of water cluster data.",
+  "authors": [
+   "Joseph P. Heindel",
+   "Selim Sami",
+   "Teresa Head-Gordon"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.class-ph"
+  ],
+  "comment": null,
+  "first_author": "Joseph P. Heindel",
+  "pdf_url": "http://arxiv.org/pdf/2406.15944",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-06-22",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Completely Multipolar Model as a General Framework for Many-Body Interactions as Illustrated for Water",
+  "topics": [
+   "via:author-whitelist:DFT, polarizable water"
+  ],
+  "updated": "2024-06-22"
+ },
+ "2406.16056": {
+  "abstract": "Polyhedral semantics is a recently introduced branch of spatial modal logic, in which modal formulas are interpreted as piecewise linear subsets of an Euclidean space. Polyhedral semantics for the basic modal language has already been well investigated. However, for many practical applications of polyhedral semantics, it is advantageous to enrich the basic modal language with a reachability modality. Recently, a language with an Until-like spatial modality has been introduced, with demonstrated applicability to the analysis of 3D meshes via model checking. In this paper, we exhibit an axiom system for this logic, and show that it is complete with respect to polyhedral semantics. The proof consists of two major steps: First, we show that this logic, which is built over Grzegorczyk's system $\\mathsf{Grz}$, has the finite model property. Subsequently, we show that every formula satisfied in a finite poset is also satisfied in a polyhedral model, thereby establishing polyhedral completeness.",
+  "authors": [
+   "Nick Bezhanishvili",
+   "Laura Bussi",
+   "Vincenzo Ciancia",
+   "David Fernández-Duque",
+   "David Gabelaia"
+  ],
+  "categories": [
+   "cs.LO"
+  ],
+  "comment": "17 pages, 1 figure, Advances in Modal Logics Conference",
+  "first_author": "Nick Bezhanishvili",
+  "pdf_url": "http://arxiv.org/pdf/2406.16056",
+  "primary_category": "cs.LO",
+  "published": "2024-06-23",
+  "tags": [],
+  "title": "Logics of polyhedral reachability",
+  "topics": [
+   "via:author-whitelist:metadynamics, PLUMED"
+  ],
+  "updated": "2024-06-23"
  },
  "2406.16100": {
   "abstract": "The multipole modes of excitation for tetrahedrally deformed neutron-rich Zr isotopes are investigated using the quasiparticle finite amplitude method based on the covariant density functional theories. By employing the density-dependent point-coupling covariant density functional theory with the parameter set DD-PC1 in the particle-hole channel and a separable pairing interaction of finite range, it is observed that a distinct peak emerges at $ω= 9.0 - 10.0$ MeV in the isoscalar quadrupole $K=0$ strength when $β_{32}$ distortion is considered for $^{110,112}$Zr. This peak is absent when the deformation is limited to axially symmetric octuple or spherical case. It also does not appears in neighboring axially quadrople or octupole deformed nuclei, thus can be viewed as an indicator for the tetrahedral shape.",
@@ -8279,6 +8899,30 @@
   ],
   "updated": "2024-06-25"
  },
+ "2406.17747": {
+  "abstract": "Symmetry is one of the most central concepts in physics, and it is no surprise that it has also been widely adopted as an inductive bias for machine-learning models applied to the physical sciences. This is especially true for models targeting the properties of matter at the atomic scale. Both established and state-of-the-art approaches, with almost no exceptions, are built to be exactly equivariant to translations, permutations, and rotations of the atoms. Incorporating symmetries -- rotations in particular -- constrains the model design space and implies more complicated architectures that are often also computationally demanding. There are indications that non-symmetric models can easily learn symmetries from data, and that doing so can even be beneficial for the accuracy of the model. We put a model that obeys rotational invariance only approximately to the test, in realistic scenarios involving simulations of gas-phase, liquid, and solid water. We focus specifically on physical observables that are likely to be affected -- directly or indirectly -- by symmetry breaking, finding negligible consequences when the model is used in an interpolative, bulk, regime. Even for extrapolative gas-phase predictions, the model remains very stable, even though symmetry artifacts are noticeable. We also discuss strategies that can be used to systematically reduce the magnitude of symmetry breaking when it occurs, and assess their impact on the convergence of observables.",
+  "authors": [
+   "Marcel F. Langer",
+   "Sergey N. Pozdnyakov",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Marcel F. Langer",
+  "pdf_url": "http://arxiv.org/pdf/2406.17747",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-06-25",
+  "tags": [],
+  "title": "Probing the effects of broken symmetries in machine learning",
+  "topics": [
+   "via:author-whitelist:PIMD, MLIPs, water"
+  ],
+  "updated": "2024-06-25"
+ },
  "2406.17797": {
   "abstract": "Molecular representation learning is pivotal for various molecular property prediction tasks related to drug discovery. Robust and accurate benchmarks are essential for refining and validating current methods. Existing molecular property benchmarks derived from wet experiments, however, face limitations such as data volume constraints, unbalanced label distribution, and noisy labels. To address these issues, we construct a large-scale and precise molecular representation dataset of approximately 140,000 small molecules, meticulously designed to capture an extensive array of chemical, physical, and biological properties, derived through a robust computational ligand-target binding analysis pipeline. We conduct extensive experiments on various deep learning models, demonstrating that our dataset offers significant physicochemical interpretability to guide model development and design. Notably, the dataset's properties are linked to binding affinity metrics, providing additional insights into model performance in drug-target interaction tasks. We believe this dataset will serve as a more accurate and reliable benchmark for molecular representation learning, thereby expediting progress in the field of artificial intelligence-driven drug discovery.",
   "authors": [
@@ -8602,7 +9246,8 @@
   ],
   "title": "Particle-Particle Random Phase Approximation for Predicting Correlated Excited States of Point Defects",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:DFT methodology, dispersion"
   ],
   "updated": "2024-06-26"
  },
@@ -8772,7 +9417,8 @@
   "tags": [
    "band-gap",
    "crystal-structure",
-   "dft"
+   "dft",
+   "thermodynamic-integration"
   ],
   "title": "The local structure, electronic and optical properties of Pb(Mg$_{1/3}$Nb$_{2/3}$)O$_3$-PbTiO$_3$: first-principles study",
   "topics": [
@@ -9206,6 +9852,28 @@
   "title": "ProtSolM: Protein Solubility Prediction with Multi-modal Features",
   "topics": [
    "Protein & Biomolecules"
+  ],
+  "updated": "2024-06-28"
+ },
+ "2406.19750": {
+  "abstract": "A survey of the contributions to the Journal of Chemical Physics' Special Topic on Software for Atomistic Machine Learning.",
+  "authors": [
+   "Matthias Rupp",
+   "Emine Küçükbenli",
+   "Gábor Csányi"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Matthias Rupp",
+  "pdf_url": "http://arxiv.org/pdf/2406.19750",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-06-28",
+  "tags": [],
+  "title": "Guest Editorial: Special Topic on Software for Atomistic Machine Learning",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE"
   ],
   "updated": "2024-06-28"
  },
@@ -9751,7 +10419,8 @@
   ],
   "title": "Discovering one molecule out of a million: inverse design of molecular hole transporting semiconductors tailored for perovskite solar cells",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "via:author-whitelist:GNN benchmarking, materials ML"
   ],
   "updated": "2024-06-30"
  },

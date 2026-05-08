@@ -83,7 +83,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02894.html">Exploring the Electronic Nature of Spinel Oxides: A Review of Their Electron Interactions and Prospects</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02894.html">Exploring the Electronic Nature of Spinel Oxides: A Review of Their Electron Interactions and Prospects</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Jagadis Prasad Nayak et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02894">2512.02894</a></td>
 </tr>

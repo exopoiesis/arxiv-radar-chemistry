@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25782.html">EOS-Bench: A Comprehensive Benchmark for Earth Observation Satellite Scheduling</a></div></td>
+<td>Qian Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25782">2604.25782</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23061.html">C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a></div></td>
@@ -380,17 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08213.html">DrugR: Optimizing Molecular Drugs through LLM-based Explicit Reasoning</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Haoran Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08213">2602.08213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02075.html">MDAgent2: Large Language Model for Code Generation and Knowledge Q&amp;A in Molecular Dynamics</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zhuofan Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2601.02075">2601.02075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15617.html">A Differential and Pointwise Control Approach to Reinforcement Learning</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Minh Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15617">2404.15617</a></td>
 </tr>
 </tbody></table>

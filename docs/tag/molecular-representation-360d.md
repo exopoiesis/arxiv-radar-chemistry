@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -59,7 +59,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17357.html">A Chemical Space Perspective on Diastereomeric Barriers in Alkylperoxy-to-Hydroperoxyalkyl Isomerization</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17357.html">A Chemical Space Perspective on Diastereomeric Barriers in Alkylperoxy-to-Hydroperoxyalkyl Isomerization</a></div><div class="paper-tags"><a href="string-method-360d.html">string-method</a></div></td>
 <td>Raghunathan Ramakrishnan</td>
 <td><a href="http://arxiv.org/abs/2604.17357">2604.17357</a></td>
 </tr>
@@ -986,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08688.html">A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Aravindh Nivas Marimuthu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08688">2505.08688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05877.html">Multi-Modal Molecular Representation Learning via Structure Awareness</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Rong Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05877">2505.05877</a></td>
 </tr>
 </tbody></table>

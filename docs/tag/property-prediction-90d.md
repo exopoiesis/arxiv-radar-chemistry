@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,35 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07415.html">Learning Molecular Chirality via Chiral Determinant Kernels</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Runhan Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07415">2602.07415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18064.html">Learning Metal Microstructural Heterogeneity through Spatial Mapping of Diffraction Latent Space Features</a></div></td>
-<td>Mathieu Calvat et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18064">2501.18064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06692.html">Peeling Context from Cause for Molecular Property Prediction</a></div></td>
-<td>Tao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06692">2511.06692</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08458.html">Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Pallabee Das et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08458">2508.08458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04696.html">Beyond Learning on Molecules by Weakly Supervising on Molecules</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Gordan Prastalo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04696">2602.04696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17680.html">BioBridge: Bridging Proteins and Language for Enhanced Biological Reasoning with LLMs</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Yujia Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17680">2602.17680</a></td>
 </tr>
 </tbody></table>

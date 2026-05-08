@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,7 +17,7 @@ current_window: 30d
 <tbody>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="photocatalysis-30d.html">photocatalysis</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26428.html">A Theoretical Investigation of the Thermal and Photochemical Mechanisms of Ethylbenzene Dehydrogenation on Rutile TiO$_{2}$(110)</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="photocatalysis-30d.html">photocatalysis</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Nico Yannik Merkt</td>
 <td><a href="http://arxiv.org/abs/2604.26428">2604.26428</a></td>
 </tr>
@@ -164,29 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07704.html">Trotterization with Many-body Coulomb Interactions: Convergence for General Initial Conditions and State-Dependent Improvements</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Di Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07704">2604.07704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05345.html">End-to-End Differentiable Learning of a Single Functional for DFT and Linear-Response TDDFT</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Xiaoyu Zhang</td>
-<td><a href="http://arxiv.org/abs/2602.05345">2602.05345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05380.html">Molecular Excited States using Quantum Subspace Methods: Accuracy, Resource Reduction, and Error-Mitigated Hardware Implementation of q-sc-EOM</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Srivathsan Poyyapakkam Sundar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05380">2604.05380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05802.html">Valence and Rydberg excited state bond dissociation curves of CO2 from orbital-optimized density functional calculations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Darío Barreiro-Lage et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05802">2604.05802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03943.html">Photoelectron spectroscopy of 3s3p doubly excited helium dressed with strong near-infrared laser fields</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Mizuho Fushitani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03943">2604.03943</a></td>
 </tr>
 </tbody></table>

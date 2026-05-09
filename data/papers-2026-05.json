@@ -757,7 +757,8 @@
   "primary_category": "cond-mat.mtrl-sci",
   "published": "2026-05-01",
   "tags": [
-   "molecular-dynamics"
+   "molecular-dynamics",
+   "thermodynamic-integration"
   ],
   "title": "Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate",
   "topics": [
@@ -2356,6 +2357,7 @@
   "primary_category": "cond-mat.stat-mech",
   "published": "2026-05-05",
   "tags": [
+   "enhanced-sampling",
    "free-energy",
    "molecular-dynamics"
   ],
@@ -3204,7 +3206,8 @@
   "primary_category": "eess.SY",
   "published": "2026-05-06",
   "tags": [
-   "monte-carlo"
+   "monte-carlo",
+   "string-method"
   ],
   "title": "Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling",
   "topics": [

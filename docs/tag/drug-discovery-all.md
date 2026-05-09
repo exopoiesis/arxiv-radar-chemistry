@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">980 papers</span>
+  <span class="paper-count">990 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,70 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Laura van Weesep et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05770">2605.05770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05370.html">SPADE: Faster Drug Discovery by Learning from Sparse Data</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
+<td>Rahul Nandakumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05370">2605.05370</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01681.html">Benchmarking Single-Pose Docking, Consensus Rescoring, and Supervised ML on the LIT-PCBA Library: A Critical Evaluation of DiffDock, AutoDock-GPU, GNINA, and DiffDock-NMDN</a></div></td>
+<td>Youssef Abo-Dahab et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01681">2605.01681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02351.html">MolViBench: Evaluating LLMs on Molecular Vibe Coding</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Jiatong Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02351">2605.02351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03707.html">AgenticPosesRanker: An Agentic AI Framework for Physically Grounded Ranking of Protein-Ligand Docking Poses</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td>Sofiene Khiari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03707">2605.03707</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04118.html">ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Cong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04118">2605.04118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04265.html">Benchmarking open-source tools for in silico antiviral drug discovery</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td>Daniel C. Elton et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04265">2605.04265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02657.html">CARD: Coarse-to-fine Autoregressive Modeling with Radix-based Decomposition for Transferable Free Energy Estimation</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Ziyang Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02657">2605.02657</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02780.html">Fine-Grained Graph Generation through Latent Mixture Scheduling</a></div></td>
+<td>Nidhi Vakil et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02780">2605.02780</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00948.html">Co-Generative De Novo Functional Protein Design</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
 <td>Xinrui Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00948">2605.00948</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02937.html">Proteo-R1: Reasoning Foundation Models for De Novo Protein Design</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="multimodal-llm-all.html">multimodal-llm</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Fang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02937">2605.02937</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-29</td>

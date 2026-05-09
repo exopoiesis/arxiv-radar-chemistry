@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2105 papers</span>
+  <span class="paper-count">2100 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12614,35 +12614,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09717.html">Towards Atomic-Scale Control over Structural Modulations in Quasi-1D Chalcogenides for Colossal Optical Anisotropy</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Guodong Ren et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09717">2505.09717</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08165.html">Neural Network-Driven Molecular Insights into Alkaline Wet Etching of GaN: Toward Atomistic Precision in Nanostructure Fabrication</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Purun-hanul Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08165">2505.08165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08381.html">Elastic properties of silicene: Spinodal instabilities</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Carlos P. Herrero et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08381">2505.08381</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08416.html">DFT Investigation of Magnetocrystalline Anisotropy in Fe, Co, Pd0.97Co0.03 and Pd0.97Fe0.03 systems: From Bulk to Thin-Films</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Irina I. Piyanzina et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08416">2505.08416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08436.html">Strain dependence of the Bloch domain component in 180$^\circ$ domains in bulk PbTiO$_{3}$ from first-principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Stephen Chege et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08436">2505.08436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08684.html">First-principles dissociation pathways of BCl$_3$ on the Si(100)-2$\times$1 surface</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Quinn T. Campbell et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08684">2505.08684</a></td>
 </tr>
 </tbody></table>

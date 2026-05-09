@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">387 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2336,11 +2336,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09697.html">Stable Real-Space Invariants and Topology Beyond Symmetry Indicators</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Yoonseok Hwang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09697">2505.09697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08416.html">DFT Investigation of Magnetocrystalline Anisotropy in Fe, Co, Pd0.97Co0.03 and Pd0.97Fe0.03 systems: From Bulk to Thin-Films</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Irina I. Piyanzina et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08416">2505.08416</a></td>
 </tr>
 </tbody></table>

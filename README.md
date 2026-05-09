@@ -1,4 +1,4 @@
-## Updated on 2026.05.08
+## Updated on 2026.05.09
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
@@ -72,7 +72,7 @@
 |**2026-03-25**|**Nodal Hybrid Neural Solvers for Parametric PDE Systems**|Yun Liu et al.|[2511.21491](http://arxiv.org/abs/2511.21491)|[md](abstracts/2511.21491.md)|
 |**2026-03-25**|**Knowledge Distillation of a Protein Language Model Yields a Foundational Implicit Solvent Model**|Justin Airas et al.|[2601.05388](http://arxiv.org/abs/2601.05388)|[md](abstracts/2601.05388.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Generative Design & Molecule Optimization
 
@@ -129,7 +129,7 @@
 |**2026-04-23**|**TopoStyle: Supporting Iterative Design with Generative AI for 2.5D Topology Optimization**|Shuyue Feng et al.|[2604.21315](http://arxiv.org/abs/2604.21315)|[md](abstracts/2604.21315.md)|
 |**2026-04-23**|**Navigating Order-(Dis)Order Family Trees via Group-Subgroup Transitions**|Shuya Yamazaki et al.|[2604.21386](http://arxiv.org/abs/2604.21386)|[md](abstracts/2604.21386.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Property Prediction & ADMET
 
@@ -186,7 +186,7 @@
 |**2026-03-07**|**Benchmarking GNN Models on Molecular Regression Tasks with CKA-Based Representation Analysis**|Rajan et al.|[2602.20573](http://arxiv.org/abs/2602.20573)|[md](abstracts/2602.20573.md)|
 |**2026-03-04**|**Mozi: Governed Autonomy for Drug Discovery LLM Agents**|He Cao et al.|[2603.03655](http://arxiv.org/abs/2603.03655)|[md](abstracts/2603.03655.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Reaction, Synthesis & Catalysis
 
@@ -243,7 +243,7 @@
 |**2026-03-26**|**From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning**|Cheng Yang et al.|[2509.23768](http://arxiv.org/abs/2509.23768)|[md](abstracts/2509.23768.md)|
 |**2026-03-26**|**Decoding the Electronic and Structural Fingerprints of Single-Atom Catalysts via DFT-Assisted XANES Analysis**|Petr Lazar et al.|[2603.25179](http://arxiv.org/abs/2603.25179)|[md](abstracts/2603.25179.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Quantum Chemistry & Force Fields
 
@@ -300,7 +300,7 @@
 |**2026-05-03**|**Revisiting the Rheology of Neutron Star Crusts with Molecular Dynamics**|Matthew E Caplan et al.|[2605.02101](http://arxiv.org/abs/2605.02101)|[md](abstracts/2605.02101.md)|
 |**2026-05-03**|**Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning**|Yifan Li et al.|[2605.04102](http://arxiv.org/abs/2605.04102)|[md](abstracts/2605.04102.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Protein & Biomolecules
 
@@ -357,7 +357,7 @@
 |**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et al.|[2604.21930](http://arxiv.org/abs/2604.21930)|[md](abstracts/2604.21930.md)|
 |**2026-04-22**|**CEDAR: Context Engineering for Agentic Data Science**|Rishiraj Saha Roy et al.|[2601.06606](http://arxiv.org/abs/2601.06606)|[md](abstracts/2601.06606.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
 ## Large Language Models & Materials
 
@@ -414,4 +414,4 @@
 |**2026-04-23**|**BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature**|Jiaxian Yan et al.|[2604.21508](http://arxiv.org/abs/2604.21508)|[md](abstracts/2604.21508.md)|
 |**2026-04-23**|**Quotient-Space Diffusion Models**|Yixian Xu et al.|[2604.21809](http://arxiv.org/abs/2604.21809)|[md](abstracts/2604.21809.md)|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>

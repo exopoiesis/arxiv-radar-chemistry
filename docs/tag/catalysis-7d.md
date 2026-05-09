@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>catalysis — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04102.html">Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Yifan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04102">2605.04102</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00575.html">Plasmon Induced Delocalized Second-Harmonic Generation Towards Buried-Interface Spectroscopy</a></div></td>
-<td>Alan R. Bowman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00575">2605.00575</a></td>
 </tr>
 </tbody></table>

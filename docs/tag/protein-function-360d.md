@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-function — 360d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <strong>360d</strong> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11812.html">VenusX: Unlocking Fine-Grained Functional Understanding of Proteins</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Yang Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11812">2505.11812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22674.html">PSBench: a large-scale benchmark for estimating the accuracy of protein complex structural models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Pawan Neupane et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22674">2505.22674</a></td>
 </tr>
 </tbody></table>

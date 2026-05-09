@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">463 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2780,17 +2780,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08113.html">Design principles for III-nitride-nanocluster photocatalysts from region-resolved electronic structure</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
 <td>Shuaishuai Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08113">2602.08113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07317.html">Analyzing Band Gaps in Ensemble Density Functional Theory using Thermodynamic Limits of Finite One-Dimensional Model Systems</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Gregory G. V. Kenning et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07317">2602.07317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07516.html">Positron annihilation lifetime and Doppler broadening spectral calculations of oxygen-doped 3C-SiC</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Yi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07516">2602.07516</a></td>
 </tr>
 </tbody></table>

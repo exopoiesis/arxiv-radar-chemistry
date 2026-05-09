@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">559 papers</span>
+  <span class="paper-count">556 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3350,23 +3350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09442.html">Probing the Temporal Response of Liquid Water to a THz Pump Pulse Using Machine Learning-Accelerated Non-Equilibrium Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kit Joll et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09442">2505.09442</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01282.html">Efficient moment tensor machine-learning interatomic potential for accurate description of defects in Ni-Al Alloys</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jiantao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01282">2411.01282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09094.html">Selective Excitation of IR-Inactive Modes via Vibrational Polaritons: Insights from Atomistic Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xinwei Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09094">2501.09094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08165.html">Neural Network-Driven Molecular Insights into Alkaline Wet Etching of GaN: Toward Atomistic Precision in Nanostructure Fabrication</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Purun-hanul Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08165">2505.08165</a></td>
 </tr>
 </tbody></table>

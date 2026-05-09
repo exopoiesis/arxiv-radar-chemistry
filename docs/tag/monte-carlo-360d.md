@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">311 papers</span>
+  <span class="paper-count">310 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1874,11 +1874,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02646.html">Diagrammatic Monte Carlo for Finite Systems at Zero Temperature</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Stefano Brolli et al.</td>
 <td><a href="http://arxiv.org/abs/2501.02646">2501.02646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08684.html">First-principles dissociation pathways of BCl$_3$ on the Si(100)-2$\times$1 surface</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Quinn T. Campbell et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08684">2505.08684</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>tmd — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <strong>30d</strong> <a href="tmd-90d.html">90d</a> <a href="tmd-360d.html">360d</a> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07689.html">Symmetry-guided and AI-accelerated design of intercalated transition metal dichalcogenides for antiferromagnetic spintronics</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
 <td>Yu Pang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07689">2604.07689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06897.html">Excitonic Mott transition without population inversion</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Oleg Dogadov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06897">2604.06897</a></td>
 </tr>
 </tbody></table>

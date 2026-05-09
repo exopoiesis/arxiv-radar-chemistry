@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,41 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08058.html">Machine Learning the order-disorder Jahn-Teller transition in LaMnO$_3$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Lorenzo Celiberti et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08058">2604.08058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14205.html">Teachers that teach the irrelevant: Pre-training machine learned interaction potentials with classical force fields for robust molecular dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14205">2509.14205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03046.html">Bayesian E(3)-Equivariant Interatomic Potential with Iterative Restratification of Many-body Message Passing</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="active-learning-30d.html">active-learning</a></div></td>
-<td>Soohaeng Yoo Willow et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03046">2510.03046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06890.html">Microscopic contributions to the deviation from Amontons friction law</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Suresh Ravisankar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06890">2604.06890</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Zhoulin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07077">2604.07077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07197.html">Machine learning Hamiltonian enables scalable and accurate defect calculations: The case of oxygen vacancies in amorphous SiO$_2$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Zhenxing Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07197">2604.07197</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07276.html">Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Luca Pennati et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07276">2604.07276</a></td>
 </tr>
 </tbody></table>

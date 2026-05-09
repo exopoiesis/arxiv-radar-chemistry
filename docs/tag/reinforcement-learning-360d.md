@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,11 +980,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10822.html">Reinforcement Learning and Life Cycle Assessment for a Circular Economy -- Towards Progressive Computer Science</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Johannes Buchner</td>
 <td><a href="http://arxiv.org/abs/2503.10822">2503.10822</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08774.html">Generative Molecular Design with Steerable and Granular Synthesizability Control</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Jeff Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08774">2505.08774</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,23 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10402.html">Roadmap for electronic structure, anharmonicity, and electron-phonon calculations in locally disordered inorganic and hybrid halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Marios Zacharias et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10402">2506.10402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19611.html">Scene2Hap: Generating Scene-Wide Haptics for VR from Scene Context with Multimodal LLMs</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
-<td>Arata Jingu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19611">2504.19611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07471.html">Benchmarking the plasmon-pole and multipole approximations in the Yambo Code using the GW100 dataset</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>M. Bonacci et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07471">2602.07471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07491.html">GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design</a></div></td>
-<td>Isabella A. Stewart et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07491">2602.07491</a></td>
 </tr>
 </tbody></table>

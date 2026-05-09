@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1070,65 +1070,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08744.html">Active Learning for Generalizable Detonation Performance Prediction of Energetic Materials</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>R. Seaton Ullberg et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08744">2604.08744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13769.html">Optical Response of Graphene Quantum Dots in the Visible Spectrum: A Combined DFT-QED Approach</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>J. Olivo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13769">2510.13769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04975.html">Tracing the horizon of tetragonal-to-monoclinic distortion in pressurized trilayer nickelate La4Ni3O10</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Sitaram Ramakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04975">2512.04975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12827.html">Nonparabolic dispersion of charge carriers in CsPbI$_3$ in the orthorhombic phase</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>O. S. Sultanov et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12827">2602.12827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06539.html">The effects of dispersion damping and three-body interactions for accurate layered-material exfoliation energies</a></div></td>
-<td>Adrian F. Rumson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06539">2604.06539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06733.html">Bond-Strength-Based Understanding of Oxygen Vacancy Migration Barriers in Rutile Oxides</a></div></td>
-<td>Inseo Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06733">2604.06733</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07114.html">Photoexcited Hole States at the SrTiO3(001) Surface Imaged with Noncontact AFM</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
-<td>Igor Sokolovic et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07114">2604.07114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07197.html">Machine learning Hamiltonian enables scalable and accurate defect calculations: The case of oxygen vacancies in amorphous SiO$_2$</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Zhenxing Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07197">2604.07197</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07229.html">Nuclear giant resonances from first principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Sonia Bacca et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07229">2604.07229</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07271.html">Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xiaojun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07271">2604.07271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07623.html">The BOS-TMC Dataset: DFT Properties of 159k Experimentally Characterized Transition Metal Complexes Spanning Multiple Charge and Spin States</a></div></td>
-<td>Aaron G. Garrison et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07623">2604.07623</a></td>
 </tr>
 </tbody></table>

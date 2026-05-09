@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">592 papers</span>
+  <span class="paper-count">588 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3542,29 +3542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09106.html">Fragment-Masked Diffusion for Molecular Optimization</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Kun Li et al.</td>
 <td><a href="http://arxiv.org/abs/2408.09106">2408.09106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07081.html">COMRECGC: Global Graph Counterfactual Explainer through Common Recourse</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Gregoire Fournier et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07081">2505.07081</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08774.html">Generative Molecular Design with Steerable and Granular Synthesizability Control</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Jeff Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08774">2505.08774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11529.html">DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Dan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11529">2505.11529</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22674.html">PSBench: a large-scale benchmark for estimating the accuracy of protein complex structural models</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Pawan Neupane et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22674">2505.22674</a></td>
 </tr>
 </tbody></table>

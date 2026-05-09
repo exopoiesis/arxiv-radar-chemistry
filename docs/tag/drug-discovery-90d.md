@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,17 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07735.html">TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Matteo Rossi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.07735">2602.07735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13147.html">AgentDrug: Utilizing Large Language Models in An Agentic Workflow for Zero-Shot Molecular Editing</a></div></td>
-<td>Khiem Le et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13147">2410.13147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07408.html">Progressive Multi-Agent Reasoning for Biological Perturbation Prediction</a></div></td>
-<td>Hyomin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07408">2602.07408</a></td>
 </tr>
 </tbody></table>

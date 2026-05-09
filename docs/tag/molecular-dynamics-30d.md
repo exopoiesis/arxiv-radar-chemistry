@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">141 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,65 +800,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08187.html">Bulk versus interface nucleation of CO$_2$ hydrates from computer simulations</a></div></td>
 <td>Joanna Grabowska et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08187">2604.08187</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07568.html">$K^*(892)$ Resonance Suppression in Ar+Sc Collisions at SPS Energies</a></div></td>
-<td>Amine Chabane et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07568">2509.07568</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14205.html">Teachers that teach the irrelevant: Pre-training machine learned interaction potentials with classical force fields for robust molecular dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14205">2509.14205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13594.html">100-Billion-Atom Molecular Dynamics Simulation of Acoustic Cavitation in a Simple Liquid</a></div></td>
-<td>Yuta Asano</td>
-<td><a href="http://arxiv.org/abs/2601.13594">2601.13594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25617.html">Molecular dynamics study of the role of anisotropy in radiation-driven embrittlement</a></div></td>
-<td>Hojjat Mousavi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25617">2603.25617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06561.html">Accelerating 4D Hyperspectral Imaging through Physics-Informed Neural Representation and Adaptive Sampling</a></div></td>
-<td>Chi-Jui Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06561">2604.06561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06890.html">Microscopic contributions to the deviation from Amontons friction law</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Suresh Ravisankar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06890">2604.06890</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Zhoulin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07077">2604.07077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07271.html">Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Xiaojun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07271">2604.07271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07276.html">Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Luca Pennati et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07276">2604.07276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07646.html">Multiscale morphology and contact mechanics of physisorbed Al and Cu nanoparticles</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Mykola Prodanov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07646">2604.07646</a></td>
 </tr>
 </tbody></table>

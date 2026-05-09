@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">221 papers</span>
+  <span class="paper-count">220 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,12 +272,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05144.html">Revisiting ab-initio excited state forces from many-body Green&#x27;s function formalism: approximations and benchmark</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Rafael R. Del Grande et al.</td>
 <td><a href="http://arxiv.org/abs/2502.05144">2502.05144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15879.html">Velocity Gauge for Oscillator Strength in $Δ$SCF theory</a></div></td>
-<td>Yang Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15879">2603.15879</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-15</td>

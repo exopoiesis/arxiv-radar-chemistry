@@ -1,31 +1,4 @@
 {
- "2401.04157": {
-  "abstract": "Advancements in large language models (LLMs) have demonstrated their potential in facilitating high-level reasoning, logical reasoning and robotics planning. Recently, LLMs have also been able to generate reward functions for low-level robot actions, effectively bridging the interface between high-level planning and low-level robot control. However, the challenge remains that even with syntactically correct plans, robots can still fail to achieve their intended goals due to imperfect plans or unexpected environmental issues. To overcome this, Vision Language Models (VLMs) have shown remarkable success in tasks such as visual question answering. Leveraging the capabilities of VLMs, we present a novel framework called Robotic Replanning with Perception and Language Models (RePLan) that enables online replanning capabilities for long-horizon tasks. This framework utilizes the physical grounding provided by a VLM's understanding of the world's state to adapt robot actions when the initial plan fails to achieve the desired goal. We developed a Reasoning and Control (RC) benchmark with eight long-horizon tasks to test our approach. We find that RePLan enables a robot to successfully adapt to unforeseen obstacles while accomplishing open-ended, long-horizon goals, where baseline models cannot, and can be readily applied to real robots. Find more information at https://replan-lm.github.io/replan.github.io/",
-  "authors": [
-   "Marta Skreta",
-   "Zihan Zhou",
-   "Jia Lin Yuan",
-   "Kourosh Darvish",
-   "Alán Aspuru-Guzik",
-   "Animesh Garg"
-  ],
-  "categories": [
-   "cs.RO"
-  ],
-  "comment": null,
-  "first_author": "Marta Skreta",
-  "pdf_url": "http://arxiv.org/pdf/2401.04157",
-  "primary_category": "cs.RO",
-  "published": "2024-01-08",
-  "tags": [
-   "multimodal-llm"
-  ],
-  "title": "RePLan: Robotic Replanning with Perception and Language Models",
-  "topics": [
-   "via:author-whitelist:ML chemistry, autonomous discovery"
-  ],
-  "updated": "2024-02-20"
- },
  "2401.16062": {
   "abstract": "This letter gives results on improving protein-ligand binding affinity predictions based on molecular dynamics simulations using machine learning potentials with a hybrid neural network potential and molecular mechanics methodology (NNP/MM). We compute relative binding free energies (RBFE) with the Alchemical Transfer Method (ATM) and validate its performance against established benchmarks and find significant enhancements compared to conventional MM force fields like GAFF2.",
   "authors": [
@@ -56,33 +29,6 @@
   ],
   "updated": "2024-02-14"
  },
- "2402.01618": {
-  "abstract": "This research explores strategies for steering the output of large language models (LLMs) towards specific styles, such as sentiment, emotion, or writing style, by adding style vectors to the activations of hidden layers during text generation. We show that style vectors can be simply computed from recorded layer activations for input texts in a specific style in contrast to more complex training-based approaches. Through a series of experiments, we demonstrate the effectiveness of activation engineering using such style vectors to influence the style of generated text in a nuanced and parameterisable way, distinguishing it from prompt engineering. The presented research constitutes a significant step towards developing more adaptive and effective AI-empowered interactive systems.",
-  "authors": [
-   "Kai Konen",
-   "Sophie Jentzsch",
-   "Diaoulé Diallo",
-   "Peer Schütt",
-   "Oliver Bensch",
-   "Roxanne El Baff",
-   "Dominik Opitz",
-   "Tobias Hecking"
-  ],
-  "categories": [
-   "cs.CL"
-  ],
-  "comment": "Will be published as findings paper at EACL2024 - 18th Conference of the European Chapter of the Association for Computational Linguistics",
-  "first_author": "Kai Konen",
-  "pdf_url": "http://arxiv.org/pdf/2402.01618",
-  "primary_category": "cs.CL",
-  "published": "2024-02-02",
-  "tags": [],
-  "title": "Style Vectors for Steering Generative Large Language Model",
-  "topics": [
-   "via:author-whitelist:SchNet, equivariant ML"
-  ],
-  "updated": "2024-02-02"
- },
  "2402.03675": {
   "abstract": "Protein-protein interactions (PPIs) are crucial in regulating numerous cellular functions, including signal transduction, transportation, and immune defense. As the accuracy of multi-chain protein complex structure prediction improves, the challenge has shifted towards effectively navigating the vast complex universe to identify potential PPIs. Herein, we propose PPIretrieval, the first deep learning-based model for protein-protein interaction exploration, which leverages existing PPI data to effectively search for potential PPIs in an embedding space, capturing rich geometric and chemical information of protein surfaces. When provided with an unseen query protein with its associated binding site, PPIretrieval effectively identifies a potential binding partner along with its corresponding binding site in an embedding space, facilitating the formation of protein-protein complexes.",
   "authors": [
@@ -111,30 +57,6 @@
    "via:author-whitelist:retrosynthesis, ML chemistry"
   ],
   "updated": "2024-02-06"
- },
- "2402.07238": {
-  "abstract": "We are interested in the development of spherically symmetric geometries in $F(T)$ teleparallel gravity which are of physical importance. We first express the general forms for the spherically symmetric frame and the zero curvature, metric compatible, spin connection. We then analyse the antisymmetric field equations (the solutions of which split into two cases, which we subsequently consider separately), and derive and analyse the resulting symmetric field equations. In order to further study the applications of spherically symmetric teleparallel models, we study $3$ subcases in which there is an additional affine symmetry so that the resulting field equations reduce to a system of ordinary differential equations. First, we study static spherical symmetric geometries and solve the antisymmetric field equations and subsequently derive the full set of symmetric field equations. In particular, we investigate vacuum spacetimes and obtain a number of new solutions. Second, we consider an additional affine frame symmetry in order to expand the affine frame symmetry group to that of a spatially homogeneous Kantowski-Sachs geometry. Third, we study the special case of spherical symmetry with an additional fourth similarity affine vector.",
-  "authors": [
-   "A. A. Coley",
-   "A. Landry",
-   "R. J. van den Hoogen",
-   "D. D. McNutt"
-  ],
-  "categories": [
-   "gr-qc",
-   "math-ph"
-  ],
-  "comment": "53 pages, no figure, To appear in EPJC",
-  "first_author": "A. A. Coley",
-  "pdf_url": "http://arxiv.org/pdf/2402.07238",
-  "primary_category": "gr-qc",
-  "published": "2024-02-11",
-  "tags": [],
-  "title": "Spherically symmetric teleparallel geometries",
-  "topics": [
-   "via:author-whitelist:retrosynthesis, ML chemistry"
-  ],
-  "updated": "2024-02-22"
  },
  "2402.08210": {
   "abstract": "The discovery of small molecules with therapeutic potential is a long-standing challenge in chemistry and biology. Researchers have increasingly leveraged novel computational techniques to streamline the drug development process to increase hit rates and reduce the costs associated with bringing a drug to market. To this end, we introduce a quantum-classical generative model that seamlessly integrates the computational power of quantum algorithms trained on a 16-qubit IBM quantum computer with the established reliability of classical methods for designing small molecules. Our hybrid generative model was applied to designing new KRAS inhibitors, a crucial target in cancer therapy. We synthesized 15 promising molecules during our investigation and subjected them to experimental testing to assess their ability to engage with the target. Notably, among these candidates, two molecules, ISM061-018-2 and ISM061-22, each featuring unique scaffolds, stood out by demonstrating effective engagement with KRAS. ISM061-018-2 was identified as a broad-spectrum KRAS inhibitor, exhibiting a binding affinity to KRAS-G12D at $1.4 μM$. Concurrently, ISM061-22 exhibited specific mutant selectivity, displaying heightened activity against KRAS G12R and Q61H mutants. To our knowledge, this work shows for the first time the use of a quantum-generative model to yield experimentally confirmed biological hits, showcasing the practical potential of quantum-assisted drug discovery to produce viable therapeutics. Moreover, our findings reveal that the efficacy of distribution learning correlates with the number of qubits utilized, underlining the scalability potential of quantum computing resources. Overall, we anticipate our results to be a stepping stone towards developing more advanced quantum generative models in drug discovery.",
@@ -218,32 +140,6 @@
   ],
   "updated": "2024-02-13"
  },
- "2402.10010": {
-  "abstract": "Deep neural networks used for reconstructing sparse-view CT data are typically trained by minimizing a pixel-wise mean-squared error or similar loss function over a set of training images. However, networks trained with such pixel-wise losses are prone to wipe out small, low-contrast features that are critical for screening and diagnosis. To remedy this issue, we introduce a novel training loss inspired by the model observer framework to enhance the detectability of weak signals in the reconstructions. We evaluate our approach on the reconstruction of synthetic sparse-view breast CT data, and demonstrate an improvement in signal detectability with the proposed loss.",
-  "authors": [
-   "Megan Lantz",
-   "Emil Y. Sidky",
-   "Ingrid S. Reiser",
-   "Xiaochuan Pan",
-   "Gregory Ongie"
-  ],
-  "categories": [
-   "physics.med-ph",
-   "cs.CV",
-   "eess.IV"
-  ],
-  "comment": null,
-  "first_author": "Megan Lantz",
-  "pdf_url": "http://arxiv.org/pdf/2402.10010",
-  "primary_category": "physics.med-ph",
-  "published": "2024-02-15",
-  "tags": [],
-  "title": "Enhancing signal detectability in learning-based CT reconstruction with a model observer inspired loss function",
-  "topics": [
-   "via:author-whitelist:GNN benchmarking, materials ML"
-  ],
-  "updated": "2024-02-15"
- },
  "2402.12377": {
   "abstract": "While surface-based view synthesis algorithms are appealing due to their low computational requirements, they often struggle to reproduce thin structures. In contrast, more expensive methods that model the scene's geometry as a volumetric density field (e.g. NeRF) excel at reconstructing fine geometric detail. However, density fields often represent geometry in a \"fuzzy\" manner, which hinders exact localization of the surface. In this work, we modify density fields to encourage them to converge towards surfaces, without compromising their ability to reconstruct thin structures. First, we employ a discrete opacity grid representation instead of a continuous density field, which allows opacity values to discontinuously transition from zero to one at the surface. Second, we anti-alias by casting multiple rays per pixel, which allows occlusion boundaries and subpixel structures to be modelled without using semi-transparent voxels. Third, we minimize the binary entropy of the opacity values, which facilitates the extraction of surface geometry by encouraging opacity values to binarize towards the end of training. Lastly, we develop a fusion-based meshing strategy followed by mesh simplification and appearance model fitting. The compact meshes produced by our model can be rendered in real-time on mobile devices and achieve significantly higher view synthesis quality compared to existing mesh-based approaches.",
   "authors": [
@@ -319,34 +215,6 @@
   "title": "The Staggered Mesh Method: Accurate Exact Exchange towards the Thermodynamic Limit for Solids",
   "topics": [
    "via:author-whitelist:DFT, polarizable water"
-  ],
-  "updated": "2024-02-21"
- },
- "2403.14642": {
-  "abstract": "Generative AI is expected to have a vast, positive impact on education; however, at present, this potential has not yet been demonstrated at scale at university level. In this study, we present first evidence that generative AI can increase the speed of learning substantially in university students. We tested whether using the AI-powered teaching assistant Syntea affected the speed of learning of hundreds of distance learning students across more than 40 courses at the IU International University of Applied Sciences. Our analysis suggests that using Syntea reduced their study time substantially--by about 27\\% on average--in the third month after the release of Syntea. Taken together, the magnitude of the effect and the scalability of the approach implicate generative AI as a key lever to significantly improve and accelerate learning by personalisation.",
-  "authors": [
-   "Moritz Möller",
-   "Gargi Nirmal",
-   "Dario Fabietti",
-   "Quintus Stierstorfer",
-   "Mark Zakhvatkin",
-   "Holger Sommerfeld",
-   "Sven Schütt"
-  ],
-  "categories": [
-   "cs.CY",
-   "cs.AI",
-   "cs.LG"
-  ],
-  "comment": null,
-  "first_author": "Moritz Möller",
-  "pdf_url": "http://arxiv.org/pdf/2403.14642",
-  "primary_category": "cs.CY",
-  "published": "2024-02-21",
-  "tags": [],
-  "title": "Revolutionising Distance Learning: A Comparative Study of Learning Progress with AI-Driven Tutoring",
-  "topics": [
-   "via:author-whitelist:SchNet, equivariant ML"
   ],
   "updated": "2024-02-21"
  }

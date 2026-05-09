@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multimodal-llm — all</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -394,12 +394,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2509.21079">2509.21079</a></td>
 </tr>
 <tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04531.html">AnyPlace: Learning Generalized Object Placement for Robot Manipulation</a></div></td>
-<td>Yuchi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04531">2502.04531</a></td>
-</tr>
-<tr class="paper">
 <td>2025-09-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09307.html">Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on Materials Characterization</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
 <td>Zhengzhao Lai et al.</td>
@@ -662,11 +656,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02838.html">I-Design: Personalized LLM Interior Designer</a></div></td>
 <td>Ata Çelen et al.</td>
 <td><a href="http://arxiv.org/abs/2404.02838">2404.02838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.04157.html">RePLan: Robotic Replanning with Perception and Language Models</a></div></td>
-<td>Marta Skreta et al.</td>
-<td><a href="http://arxiv.org/abs/2401.04157">2401.04157</a></td>
 </tr>
 </tbody></table>

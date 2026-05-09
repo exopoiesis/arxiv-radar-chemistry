@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>replica-exchange — all</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="replica-exchange-7d.html">7d</a> <a href="replica-exchange-30d.html">30d</a> <a href="replica-exchange-90d.html">90d</a> <a href="replica-exchange-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,12 +20,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Sourav Baiju et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26264">2604.26264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18802.html">Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Abigail N. Poteshman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18802">2506.18802</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-24</td>

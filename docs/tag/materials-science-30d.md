@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,23 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02538.html">Temperature-dependent Raman spectra of 2H-MoS2 from Machine Learning-driven statistical sampling</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a></div></td>
 <td>Samuel Longo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02538">2604.02538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03468.html">D-Garment: Physically Grounded Latent Diffusion for Dynamic Garment Deformations</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Antoine Dumoulin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03468">2504.03468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13769.html">Optical Response of Graphene Quantum Dots in the Visible Spectrum: A Combined DFT-QED Approach</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>J. Olivo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13769">2510.13769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07584.html">From Papers to Property Tables: A Priority-Based LLM Workflow for Materials Data Extraction</a></div></td>
-<td>Koushik Rameshbabu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07584">2604.07584</a></td>
 </tr>
 </tbody></table>

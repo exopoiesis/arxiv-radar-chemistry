@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2536,12 +2536,6 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2506.18779">2506.18779</a></td>
 </tr>
 <tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17140.html">MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>David Jacob Drexlin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17140">2506.17140</a></td>
-</tr>
-<tr class="paper">
 <td>2025-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16102.html">Fast Training-free Perceptual Image Compression</a></div></td>
 <td>Ziran Zhu et al.</td>
@@ -2894,17 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02668.html">Introduction to Machine Learning</a></div></td>
-<td>Laurent Younes</td>
-<td><a href="http://arxiv.org/abs/2409.02668">2409.02668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08774.html">Generative Molecular Design with Steerable and Granular Synthesizability Control</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Jeff Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08774">2505.08774</a></td>
 </tr>
 </tbody></table>

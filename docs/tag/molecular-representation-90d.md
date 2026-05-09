@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15792.html">Deep Learning Foundation Models from Classical Molecular Descriptors</a></div></td>
 <td>Jackson W. Burns et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15792">2506.15792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07415.html">Learning Molecular Chirality via Chiral Determinant Kernels</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Runhan Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07415">2602.07415</a></td>
 </tr>
 </tbody></table>

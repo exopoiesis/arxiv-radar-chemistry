@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">315 papers</span>
+  <span class="paper-count">309 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,12 +224,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18238.html">Origin of pressure-induced anomalies in the nodal-line ferrimagnet Mn$_3$Si$_2$Te$_6$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Varun Venkatasubramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18238">2509.18238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18802.html">Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data</a></div><div class="paper-tags"><a href="replica-exchange-360d.html">replica-exchange</a></div></td>
-<td>Abigail N. Poteshman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18802">2506.18802</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-31</td>
@@ -748,12 +742,6 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2502.18462">2502.18462</a></td>
 </tr>
 <tr class="paper">
-<td>2026-01-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08683.html">Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models</a></div></td>
-<td>Stefania Scheurer et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08683">2505.08683</a></td>
-</tr>
-<tr class="paper">
 <td>2026-01-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10403.html">Discrete Feynman-Kac Correctors</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Mohsin Hasan et al.</td>
@@ -764,12 +752,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19533.html">Quantum Monte Carlo study of low-dimensional Fermi fluids of dipolar atoms</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Clio Johnson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19533">2510.19533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12649.html">Energy calibration of LHAASO-KM2A using the cosmic ray Moon shadow</a></div></td>
-<td>Zhen Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12649">2510.12649</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-07</td>
@@ -1094,12 +1076,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27446.html">Modeling partially-ionized dense plasma using wavepacket molecular dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Daniel Plummer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27446">2510.27446</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27482.html">Study of Central Exclusive Production of $π^+π^-$, $K^+K^-$ and $p \bar{p}$ Pairs in Proton-Proton Collisions at $\sqrt{s} = 510$ GeV with the STAR Detector at RHIC</a></div></td>
-<td>Tomas Truhlar</td>
-<td><a href="http://arxiv.org/abs/2510.27482">2510.27482</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
@@ -1739,12 +1715,6 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16955.html">Search for the in-situ production of $^{77}$Ge in the GERDA neutrinoless double-beta decay experiment</a></div></td>
-<td>M. Agostini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16955">2506.16955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17015.html">Simulating Correlated Electrons with Symmetry-Enforced Normalizing Flows</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Dominic Schuh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17015">2506.17015</a></td>
@@ -1898,11 +1868,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02646.html">Diagrammatic Monte Carlo for Finite Systems at Zero Temperature</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Stefano Brolli et al.</td>
 <td><a href="http://arxiv.org/abs/2501.02646">2501.02646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08684.html">First-principles dissociation pathways of BCl$_3$ on the Si(100)-2$\times$1 surface</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Quinn T. Campbell et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08684">2505.08684</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">520 papers</span>
+  <span class="paper-count">514 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,12 +224,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18238.html">Origin of pressure-induced anomalies in the nodal-line ferrimagnet Mn$_3$Si$_2$Te$_6$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
 <td>Varun Venkatasubramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18238">2509.18238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18802.html">Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data</a></div><div class="paper-tags"><a href="replica-exchange-all.html">replica-exchange</a></div></td>
-<td>Abigail N. Poteshman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18802">2506.18802</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-31</td>
@@ -748,12 +742,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.18462">2502.18462</a></td>
 </tr>
 <tr class="paper">
-<td>2026-01-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08683.html">Uncertainty-Aware Surrogate-based Amortized Bayesian Inference for Computationally Expensive Models</a></div></td>
-<td>Stefania Scheurer et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08683">2505.08683</a></td>
-</tr>
-<tr class="paper">
 <td>2026-01-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10403.html">Discrete Feynman-Kac Correctors</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
 <td>Mohsin Hasan et al.</td>
@@ -764,12 +752,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19533.html">Quantum Monte Carlo study of low-dimensional Fermi fluids of dipolar atoms</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Clio Johnson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19533">2510.19533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12649.html">Energy calibration of LHAASO-KM2A using the cosmic ray Moon shadow</a></div></td>
-<td>Zhen Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12649">2510.12649</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-07</td>
@@ -1094,12 +1076,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27446.html">Modeling partially-ionized dense plasma using wavepacket molecular dynamics</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Daniel Plummer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27446">2510.27446</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27482.html">Study of Central Exclusive Production of $π^+π^-$, $K^+K^-$ and $p \bar{p}$ Pairs in Proton-Proton Collisions at $\sqrt{s} = 510$ GeV with the STAR Detector at RHIC</a></div></td>
-<td>Tomas Truhlar</td>
-<td><a href="http://arxiv.org/abs/2510.27482">2510.27482</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
@@ -1739,12 +1715,6 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16955.html">Search for the in-situ production of $^{77}$Ge in the GERDA neutrinoless double-beta decay experiment</a></div></td>
-<td>M. Agostini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16955">2506.16955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17015.html">Simulating Correlated Electrons with Symmetry-Enforced Normalizing Flows</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
 <td>Dominic Schuh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17015">2506.17015</a></td>
@@ -1994,12 +1964,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13139.html">Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo</a></div></td>
 <td>João Loula et al.</td>
 <td><a href="http://arxiv.org/abs/2504.13139">2504.13139</a></td>
-</tr>
-<tr class="paper">
-<td>2025-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12374.html">Resonances in reflective Hamiltonian Monte Carlo</a></div></td>
-<td>Namu Kroupa et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12374">2504.12374</a></td>
 </tr>
 <tr class="paper">
 <td>2025-04-14</td>

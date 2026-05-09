@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,12 +224,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18238.html">Origin of pressure-induced anomalies in the nodal-line ferrimagnet Mn$_3$Si$_2$Te$_6$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Varun Venkatasubramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18238">2509.18238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18802.html">Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data</a></div><div class="paper-tags"><a href="replica-exchange-90d.html">replica-exchange</a></div></td>
-<td>Abigail N. Poteshman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18802">2506.18802</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-31</td>
@@ -590,11 +584,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08641.html">Modeling Protein Evolution via Generative Inference From Monte Carlo Chains to Population Genetics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Leonardo Di Bari et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08641">2602.08641</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07351.html">AtomMOF: All-Atom Flow Matching for MOF-Adsorbate Structure Prediction</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="mlip-90d.html">mlip</a> · <a href="mof-90d.html">mof</a></div></td>
-<td>Nayoung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07351">2602.07351</a></td>
 </tr>
 </tbody></table>

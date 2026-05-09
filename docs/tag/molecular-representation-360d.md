@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,11 +980,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10120.html">All You Need Is Synthetic Task Augmentation</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Guillaume Godin</td>
 <td><a href="http://arxiv.org/abs/2505.10120">2505.10120</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08688.html">A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Aravindh Nivas Marimuthu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08688">2505.08688</a></td>
 </tr>
 </tbody></table>

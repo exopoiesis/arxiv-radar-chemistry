@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">910 papers</span>
+  <span class="paper-count">908 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3346,12 +3346,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2505.12698">2505.12698</a></td>
 </tr>
 <tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12958.html">Nanoindentation simulations for copper and tungsten with adaptive-precision potentials</a></div></td>
-<td>David Immel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12958">2505.12958</a></td>
-</tr>
-<tr class="paper">
 <td>2025-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12447.html">HORM: A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Taoyong Cui et al.</td>
@@ -4520,12 +4514,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05019.html">Enhancing Accuracy and Feature Insights in Hydration Free Energy Predictions for Small Molecules with Machine Learning</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Mingjun Han et al.</td>
 <td><a href="http://arxiv.org/abs/2411.05019">2411.05019</a></td>
-</tr>
-<tr class="paper">
-<td>2024-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.17675.html">Nuclear Quantum Effects in Liquid Water Are Negligible for Structure but Significant for Dynamics</a></div></td>
-<td>Nore Stolte et al.</td>
-<td><a href="http://arxiv.org/abs/2410.17675">2410.17675</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-22</td>

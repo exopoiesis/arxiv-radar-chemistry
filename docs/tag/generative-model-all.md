@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">748 papers</span>
+  <span class="paper-count">745 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2536,12 +2536,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.18779">2506.18779</a></td>
 </tr>
 <tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17140.html">MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>David Jacob Drexlin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17140">2506.17140</a></td>
-</tr>
-<tr class="paper">
 <td>2025-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16102.html">Fast Training-free Perceptual Image Compression</a></div></td>
 <td>Ziran Zhu et al.</td>
@@ -3406,12 +3400,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2501.16051">2501.16051</a></td>
 </tr>
 <tr class="paper">
-<td>2025-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16986.html">Generative quantum combinatorial optimization by means of a novel conditional generative quantum eigensolver</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Shunya Minami et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16986">2501.16986</a></td>
-</tr>
-<tr class="paper">
 <td>2025-01-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15522.html">Estimating Committor Functions via Deep Adaptive Sampling on Rare Transition Paths</a></div></td>
 <td>Yueyang Wang et al.</td>
@@ -4238,12 +4226,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03428.html">NEBULA: Neural Empirical Bayes Under Latent Representations for Efficient and Controllable Design of Molecular Libraries</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Ewa M. Nowara et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03428">2407.03428</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.17404.html">Generative diffusion model for surface structure discovery</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Nikolaj Rønne et al.</td>
-<td><a href="http://arxiv.org/abs/2402.17404">2402.17404</a></td>
 </tr>
 <tr class="paper">
 <td>2024-07-02</td>

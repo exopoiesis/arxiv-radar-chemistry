@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">381 papers</span>
+  <span class="paper-count">378 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,12 +272,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05144.html">Revisiting ab-initio excited state forces from many-body Green&#x27;s function formalism: approximations and benchmark</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Rafael R. Del Grande et al.</td>
 <td><a href="http://arxiv.org/abs/2502.05144">2502.05144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15879.html">Velocity Gauge for Oscillator Strength in $Δ$SCF theory</a></div></td>
-<td>Yang Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15879">2603.15879</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-15</td>
@@ -2236,12 +2230,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2403.17815">2403.17815</a></td>
 </tr>
 <tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05437.html">Measurement of Coherent Vibrational Dynamics with X-ray Transient Absorption Spectroscopy Simultaneously at the Carbon K- and Chlorine L$_{2,3}$- Edges</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
-<td>Andrew D. Ross et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05437">2405.05437</a></td>
-</tr>
-<tr class="paper">
 <td>2024-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01382.html">Benchmarking DFT-based excited-state methods for intermolecular charge-transfer excitations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Nicola Bogo et al.</td>
@@ -2288,12 +2276,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12933.html">Analytic Nuclear Gradients for Complete Active Space Linearized Pair-Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
 <td>Matthew R. Hennefarth et al.</td>
 <td><a href="http://arxiv.org/abs/2401.12933">2401.12933</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.04604.html">Foundation for the ΔSCF Approach in Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Weitao Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.04604">2403.04604</a></td>
 </tr>
 <tr class="paper">
 <td>2024-01-12</td>

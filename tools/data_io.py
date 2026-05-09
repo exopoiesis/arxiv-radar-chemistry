@@ -411,3 +411,17 @@ def is_whitelisted_author(authors, whitelist=None):
                 if n in a.lower():
                     return entry.get("note", needle) or needle
     return None
+
+
+def has_domain_or_method(abstract):
+    """True if abstract has any domain/method signal.
+
+    Alias for is_chemistry_paper() — this repo uses one broad regex (no
+    direct/method/domain split) so the gate is the same as relevance.
+    Effect: author-whitelist admits in daily_arxiv only fire on papers
+    that ALREADY passed relevance, which means whitelist becomes
+    effectively a metadata-tagger here. backfill_authors.py uses this
+    gate as the sole admit criterion (since author backfill bypasses
+    relevance entirely).
+    """
+    return is_chemistry_paper(abstract)

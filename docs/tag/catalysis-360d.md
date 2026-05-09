@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">300 papers</span>
+  <span class="paper-count">297 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1796,23 +1796,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09580.html">Phase Diagram Magnetic Features of Holographic Anisotropic Model for $z^4$-term Heavy Quarks</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Kristina Rannu</td>
 <td><a href="http://arxiv.org/abs/2505.09580">2505.09580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06248.html">Carbon accretion and desorption by interstellar polycyclic aromatic hydrocarbons</a></div></td>
-<td>Alain Omont et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06248">2502.06248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06026.html">Engineering Morphologies of Metal-Based Colloidal Assemblies via Colloid Jamming at Liquid-Liquid Interfaces</a></div></td>
-<td>Jiyuan Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06026">2505.06026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08225.html">Nitrogen oxidation on a plasma-exposed surface</a></div></td>
-<td>S. C. L. Vervloedt et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08225">2505.08225</a></td>
 </tr>
 </tbody></table>

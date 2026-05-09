@@ -27,6 +27,7 @@ import arxiv
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from data_io import (
+    has_domain_or_method,
     load_all_months,
     load_authors_whitelist,
     paper_to_record,
@@ -115,21 +116,30 @@ def main():
 
             added = 0
             already = 0
+            rejected_no_signal = 0
             for r in results:
                 pid, rec = paper_to_record(r)
                 if pid in pid_to_month:
                     # Already in corpus (via topical or earlier author run).
-                    # Optionally union the via:author-whitelist topic.
+                    # Tag with via:author-whitelist topic ONLY if existing abstract
+                    # has domain/method signal — protects against accidentally
+                    # branding off-topic papers that snuck in earlier.
                     existing_month = pid_to_month[pid]
                     existing = by_month[existing_month][pid]
                     via_topic = f"via:author-whitelist:{note}" if note else "via:author-whitelist"
-                    if via_topic not in existing.get("topics", []):
-                        existing["topics"] = sorted(set(existing.get("topics", []) + [via_topic]))
-                        touched_months.add(existing_month)
+                    if has_domain_or_method(existing.get("abstract", "")):
+                        if via_topic not in existing.get("topics", []):
+                            existing["topics"] = sorted(set(existing.get("topics", []) + [via_topic]))
+                            touched_months.add(existing_month)
                     already += 1
                     continue
                 # Filter by submitted-date window (arxiv may return slight overflow).
                 paper_month = rec["updated"][:7]
+                # B-gate: paper must show domain/method signal in abstract;
+                # otherwise it's almost certainly a same-surname false positive.
+                if not has_domain_or_method(rec.get("abstract", "")):
+                    rejected_no_signal += 1
+                    continue
                 rec["topics"] = [f"via:author-whitelist:{note}" if note else "via:author-whitelist"]
                 rec["tags"] = tag_matcher.match_tags(rec.get("abstract", ""), matchers)
                 by_month[paper_month][pid] = rec
@@ -139,7 +149,7 @@ def main():
                     write_abstract_html(pid, rec)
                 added += 1
 
-            LOG.info(f"    fetched={len(results)} new={added} already_in_corpus={already}")
+            LOG.info(f"    fetched={len(results)} new={added} already_in_corpus={already} rejected_no_signal={rejected_no_signal}")
             total_new += added
             total_skipped += already
 

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-model — all</h1>
-  <span class="paper-count">730 papers</span>
+  <span class="paper-count">727 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,12 +1184,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15737.html">Enzyme-Substrate Complex Formation Modulates Diffusion-Driven Patterning In Metabolic Pathways</a></div></td>
 <td>Faezeh Farivar</td>
 <td><a href="http://arxiv.org/abs/2512.15737">2512.15737</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20003.html">Control Variate Score Matching for Diffusion Models</a></div></td>
-<td>Khaled Kahouli et al.</td>
-<td><a href="http://arxiv.org/abs/2512.20003">2512.20003</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-20</td>
@@ -2438,12 +2432,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00751.html">InstructAttribute: Fine-grained Object Attributes editing with Instruction</a></div></td>
 <td>Xingxi Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00751">2505.00751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17140.html">MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>David Jacob Drexlin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17140">2506.17140</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-19</td>
@@ -4064,12 +4052,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03300.html">DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Yilun Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03300">2407.03300</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.17404.html">Generative diffusion model for surface structure discovery</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Nikolaj Rønne et al.</td>
-<td><a href="http://arxiv.org/abs/2402.17404">2402.17404</a></td>
 </tr>
 <tr class="paper">
 <td>2024-07-01</td>

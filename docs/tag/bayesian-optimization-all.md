@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,12 +518,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01092.html">Machine Learning-Driven Insights into Excitonic Effects in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Ahsan Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01092">2501.01092</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06546.html">RAISE: A self-driving laboratory for interfacial property formulation discovery</a></div></td>
-<td>Mohammad Nazeri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06546">2510.06546</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-08</td>
@@ -1196,12 +1190,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16651.html">Variational Quantum Framework for Partial Differential Equation Constrained Optimization</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
 <td>Amit Surana et al.</td>
 <td><a href="http://arxiv.org/abs/2405.16651">2405.16651</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06150.html">Physics-Informed Bayesian Optimization of Variational Quantum Circuits</a></div></td>
-<td>Kim A. Nicoli et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06150">2406.06150</a></td>
 </tr>
 <tr class="paper">
 <td>2024-06-10</td>

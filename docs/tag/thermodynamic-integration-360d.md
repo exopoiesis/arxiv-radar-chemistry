@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,12 +770,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17984.html">Exploring the impact of Ti/Al on L12 nanoprecipitation and deformation behavior in CoNiFeAlTi multi-principal element alloys through atomistic simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Amin Esfandiarpour et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17984">2506.17984</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.13040.html">A new &quot;temperature inversion&quot; estimator to detect CMB patchy screening by large-scale structure</a></div></td>
-<td>Theo Schutt et al.</td>
-<td><a href="http://arxiv.org/abs/2401.13040">2401.13040</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-16</td>

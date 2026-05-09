@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,41 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08845.html">Antitopological magnetic textures in an antiferromagnetically coupled bilayer with frustration</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Lewei Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08845">2604.08845</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13769.html">Optical Response of Graphene Quantum Dots in the Visible Spectrum: A Combined DFT-QED Approach</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>J. Olivo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13769">2510.13769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07585.html">Turning non-superconducting elements into superconductors by quantum confinement and proximity</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Giovanni A. Ummarino et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07585">2602.07585</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06890.html">Microscopic contributions to the deviation from Amontons friction law</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Suresh Ravisankar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06890">2604.06890</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06897.html">Excitonic Mott transition without population inversion</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Oleg Dogadov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06897">2604.06897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07271.html">Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xiaojun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07271">2604.07271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07646.html">Multiscale morphology and contact mechanics of physisorbed Al and Cu nanoparticles</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Mykola Prodanov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07646">2604.07646</a></td>
 </tr>
 </tbody></table>

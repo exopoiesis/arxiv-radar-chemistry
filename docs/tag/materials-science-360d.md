@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">440 papers</span>
+  <span class="paper-count">437 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2636,23 +2636,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Xiao-Qi Han et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01282.html">Efficient moment tensor machine-learning interatomic potential for accurate description of defects in Ni-Al Alloys</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jiantao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01282">2411.01282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13517.html">CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Hao Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13517">2503.13517</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08850.html">High-throughput Screening of the Mechanical Properties of Peptide Assemblies</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sarah K. Yorke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
 </tr>
 </tbody></table>

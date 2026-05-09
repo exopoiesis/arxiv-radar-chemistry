@@ -1,48 +1,4 @@
 {
- "2405.06341": {
-  "abstract": "We give a complete classification of finite groups acting symplectically on supersingular K3 surfaces of Artin invariant one. Using work of Dolgachev and Keum, this provides the full classification of tame finite symplectic automorphism groups on any K3 surface, and in particular of all finite symplectic automorphism groups on K3 surfaces in characteristic p>11.",
-  "authors": [
-   "Hisanori Ohashi",
-   "Matthias Schütt"
-  ],
-  "categories": [
-   "math.AG"
-  ],
-  "comment": "v2: 45 pages, 2 figures; major revision, improving exposition, correcting typos and addressing a gap in the literature needed for Thm 4.4 (now Thm 4.1); main results unchanged",
-  "first_author": "Hisanori Ohashi",
-  "pdf_url": "http://arxiv.org/pdf/2405.06341",
-  "primary_category": "math.AG",
-  "published": "2024-05-10",
-  "tags": [],
-  "title": "Finite symplectic automorphism groups of supersingular K3 surfaces",
-  "topics": [
-   "via:author-whitelist:SchNet, equivariant ML"
-  ],
-  "updated": "2026-05-01"
- },
- "2507.08676": {
-  "abstract": "Universal quantum computers require entanglement and non-stabilizerness, a resource known as \\textit{quantum magic}. Here, we introduce a protocol that prepares magic steady states by leveraging non-Hermitian dynamics, which, contrary to unitary dynamics, can host pure-state attractors. By studying the dissipative qubit, we find the optimal parameters to prepare $|H\\rangle$ and $|T\\rangle$ steady states. Interestingly, this approach does not require knowledge or preparation of a particular initial state, since all the states of the Bloch sphere converge to the engineered target steady state. We also consider the addition of classical noise in the anti-hermitian part and provide the regimes for which the noisy dynamics still converges to high magic states. We also introduce a dissipative protocol to prepare magic steady states, compare the approaches with magic state cultivation and provide a particular realization of the non-Hermitian scheme in a cat qubit.",
-  "authors": [
-   "Pablo Martinez-Azcona",
-   "Matthieu Sarkis",
-   "Alexandre Tkatchenko",
-   "Aurélia Chenu"
-  ],
-  "categories": [
-   "quant-ph"
-  ],
-  "comment": "Major revision: Different magic monotones and witnesses (sec 4), new dissipative protocol (sec 5), and application to cat qubits (sec 6.2). 14+7 pages, 6+2 figures",
-  "first_author": "Pablo Martinez-Azcona",
-  "pdf_url": "http://arxiv.org/pdf/2507.08676",
-  "primary_category": "quant-ph",
-  "published": "2025-07-11",
-  "tags": [],
-  "title": "Magic Steady State Production: Non-Hermitian, Dissipative, and Stochastic Pathways",
-  "topics": [
-   "via:author-whitelist:vdW, ML force fields"
-  ],
-  "updated": "2026-05-06"
- },
  "2601.03267": {
   "abstract": "This is the system card published alongside the OpenAI GPT-5 launch, August 2025.   GPT-5 is a unified system with a smart and fast model that answers most questions, a deeper reasoning model for harder problems, and a real-time router that quickly decides which model to use based on conversation type, complexity, tool needs, and explicit intent (for example, if you say 'think hard about this' in the prompt). The router is continuously trained on real signals, including when users switch models, preference rates for responses, and measured correctness, improving over time. Once usage limits are reached, a mini version of each model handles remaining queries.   This system card focuses primarily on gpt-5-thinking and gpt-5-main, while evaluations for other models are available in the appendix. The GPT-5 system not only outperforms previous models on benchmarks and answers questions more quickly, but -- more importantly -- is more useful for real-world queries. We've made significant advances in reducing hallucinations, improving instruction following, and minimizing sycophancy, and have leveled up GPT-5's performance in three of ChatGPT's most common uses: writing, coding, and health. All of the GPT-5 models additionally feature safe-completions, our latest approach to safety training to prevent disallowed content.   Similarly to ChatGPT agent, we have decided to treat gpt-5-thinking as High capability in the Biological and Chemical domain under our Preparedness Framework, activating the associated safeguards. While we do not have definitive evidence that this model could meaningfully help a novice to create severe biological harm -- our defined threshold for High capability -- we have chosen to take a precautionary approach.",
   "authors": [
@@ -549,28 +505,6 @@
   ],
   "updated": "2026-05-01"
  },
- "2604.27190": {
-  "abstract": "Recent advances in occupancy extrapolation (OE) show that potential of orbital-occupation based energy functions can describe electronic excitations. Here, the OE method in the particle-hole channel is extended to an effective quasiparticle Hamiltonian, enabling a multi-configurational description beyond single-determinant OE and $Δ$SCF. The method performs comparably to the Bethe-Salpeter equation for valence singlet and charge-transfer excitations, and better for valence triplet and Rydberg states, supporting its accuracy and broad applicability.",
-  "authors": [
-   "Yang Shen",
-   "Yichen Fan",
-   "Weitao Yang"
-  ],
-  "categories": [
-   "physics.chem-ph"
-  ],
-  "comment": null,
-  "first_author": "Yang Shen",
-  "pdf_url": "http://arxiv.org/pdf/2604.27190",
-  "primary_category": "physics.chem-ph",
-  "published": "2026-04-29",
-  "tags": [],
-  "title": "Excited States from Quasiparticle Hamiltonian Based on Density Functional Theory",
-  "topics": [
-   "via:author-whitelist:DFT methodology, dispersion"
-  ],
-  "updated": "2026-05-04"
- },
  "2605.00313": {
   "abstract": "The current structure-centric paradigm in artificial intelligence (AI)-driven materials discovery, despite delivering thousands of candidate structures, is stalling at a critical barrier: the synthesizability gap. We argue that closing this gap demands a pivot to a synthesis-first paradigm in which executable synthesis protocols, not just atomic configurations, are treated as primary design variables. We outline a roadmap built on three pillars: (i) representing synthesis procedures as machine-readable protocols, (ii) deploying generative and inverse-design models to propose actionable reaction pathways and recipes, and (iii) integrating closed-loop optimisation to refine protocols against experimental realities and sustainability constraints. Framed in terms of the causal backbone P->X->y from protocol P to structure X and properties y, this perspective sets out methodological building blocks, standards needs and self-driving laboratory (SDL) integration strategies to accelerate reproducible, data-first materials discovery.",
   "authors": [
@@ -878,30 +812,6 @@
    "via:author-whitelist:DFT water, defects"
   ],
   "updated": "2026-05-05"
- },
- "2605.04965": {
-  "abstract": "Optimal transport (OT) is a central framework for modeling distribution shifts. Because OT compares distributions directly in input space, a well-designed ground metric between observations is essential to ensure that the optimizer does not violate the true geometry of change. We propose Displacement-Reshaped Optimal Transport (ReshapeOT), a method that reshapes the ground metric by integrating observed sample displacements as an additional source of knowledge. Technically, ReshapeOT replaces the Euclidean metric with a Mahalanobis distance estimated from displacement second moments. This effectively carves expressways through the input space, inviting transport solutions that better align with observed displacements. Our method is computationally lightweight, integrates seamlessly into any OT solver that operates on a cost matrix, and can be kernelized for further flexibility. Experiments on synthetic and real-world data show that ReshapeOT achieves substantial gains in transport reliability. We further demonstrate our method's usefulness in two practical use cases.",
-  "authors": [
-   "Philip Naumann",
-   "Jacob Kauffmann",
-   "Klaus-Robert Müller",
-   "Grégoire Montavon"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Philip Naumann",
-  "pdf_url": "http://arxiv.org/pdf/2605.04965",
-  "primary_category": "cs.LG",
-  "published": "2026-05-06",
-  "tags": [],
-  "title": "Reliable Modeling of Distribution Shifts via Displacement-Reshaped Optimal Transport",
-  "topics": [
-   "via:author-whitelist:ML force fields, SchNet"
-  ],
-  "updated": "2026-05-06"
  },
  "2605.05380": {
   "abstract": "Interacting supernovae probe the twilight years of massive stars, exhibiting signatures of interaction between the supernova ejecta and surrounding material expelled from the progenitor. We present the peculiar interacting supernova, SN\\,2025ngs in NGC5961 (37.8 Mpc). This transient toes the line between strongly interacting supernovae (type IIn) and type IIP supernovae. SN 2025ngs presents photometrically as a short-plateau supernova, with a plateau duration, t$_{\\mathrm{PT}}^{}\\approx70$ days. Interaction features subside within a week post-explosion, consistent with the growing number of flash supernovae, giving way to a short period where a typical IIP spectrum is exhibited. Towards the drop off the plateau, interaction features re-emerge, exhibiting complex H$α$ profiles throughout the rest of the transient evolution. We compare with models of early spectra, finding the abundances generally consistent with a supergiant progenitor with a high mass-loss rate (10$^{-3}$ M$_\\odot$ yr$^{-1}$). Early, high-resolution spectra reveal a double-horned H$α$ profile, providing strong evidence for shock interaction with a proximate disk-like circumstellar medium. Spectroscopically, SN 2025ngs closely resembles the luminous SN 1998S, despite photometric differences, with SN 2025ngs having a relatively modest peak magnitude of $M_\\mathrm{V}=-17.9$ mag, adding another member to the surprisingly diverse 98S-like group.",

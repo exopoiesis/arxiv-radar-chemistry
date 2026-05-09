@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,95 +608,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08695.html">A metallic CrS$_2$ phase bridging the gap between two- and three-dimensional dichalcogenides</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Hicham Moutaabbid et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08695">2604.08695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14205.html">Teachers that teach the irrelevant: Pre-training machine learned interaction potentials with classical force fields for robust molecular dynamics simulations</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="metadynamics-30d.html">metadynamics</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14205">2509.14205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03046.html">Bayesian E(3)-Equivariant Interatomic Potential with Iterative Restratification of Many-body Message Passing</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Soohaeng Yoo Willow et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03046">2510.03046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19598.html">Zero-field identification and control of hydrogen-related electron-nuclear spin registers in diamond</a></div></td>
-<td>Alexander Ungar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19598">2510.19598</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04975.html">Tracing the horizon of tetragonal-to-monoclinic distortion in pressurized trilayer nickelate La4Ni3O10</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Sitaram Ramakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04975">2512.04975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07585.html">Turning non-superconducting elements into superconductors by quantum confinement and proximity</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Giovanni A. Ummarino et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07585">2602.07585</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24175.html">Theoretical Studies of alpha Clustering in Nuclei and Beyond</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Takaharu Otsuka et al.</td>
-<td><a href="http://arxiv.org/abs/2602.24175">2602.24175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02576.html">Meta-optimization of maximally-localized Wannier functions</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Sabyasachi Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02576">2604.02576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06706.html">Directional Andreev-Reflection Signatures of Inter-Orbital Pairing in Sr$_2$RuO$_4$</a></div></td>
-<td>G. Csire et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06706">2604.06706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06841.html">Spin-adapted neural network backflow for strongly correlated electrons</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Yunzhi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06841">2604.06841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06897.html">Excitonic Mott transition without population inversion</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Oleg Dogadov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06897">2604.06897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06927.html">Development of ab initio Hubbard parameter calculation schemes in the k-point sampling real-time TDDFT program in CP2K</a></div></td>
-<td>Kota Hanasaki et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06927">2604.06927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="metadynamics-30d.html">metadynamics</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Zhoulin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07077">2604.07077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07229.html">Nuclear giant resonances from first principles</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Sonia Bacca et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07229">2604.07229</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07276.html">Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Luca Pennati et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07276">2604.07276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07315.html">Topological Magneto-Optical Switching in Even-Layered MnBi$_2$Te$_4$</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Shahid Sattar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07315">2604.07315</a></td>
 </tr>
 </tbody></table>

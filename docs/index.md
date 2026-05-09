@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-05-08._
+_Updated 2026-05-09._
 
-**14881** chemistry-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**14557** chemistry-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -28,18 +28,6 @@ _Updated 2026-05-08._
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2507.08676.html">Magic Steady State Production: Non-Hermitian, Dissipative, and Stochastic Pathways</a></div></td>
-<td>Pablo Martinez-Azcona et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08676">2507.08676</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04965.html">Reliable Modeling of Distribution Shifts via Displacement-Reshaped Optimal Transport</a></div></td>
-<td>Philip Naumann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04965">2605.04965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05380.html">The Eye of Sauron in SN 2025ngs: a Short-plateau Cousin of SN 1998S with Evidence for a Ring-like Circumstellar Medium</a></div></td>
 <td>Conor L. Ransome et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05380">2605.05380</a></td>
@@ -49,12 +37,6 @@ _Updated 2026-05-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04294.html">Spin Dynamics from Atomistic Quantum Simulations</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Enrico Drigo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04294">2605.04294</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27190.html">Excited States from Quasiparticle Hamiltonian Based on Density Functional Theory</a></div></td>
-<td>Yang Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27190">2604.27190</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -91,12 +73,6 @@ _Updated 2026-05-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.01367.html">From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>King Yiu Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01367">2605.01367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2405.06341.html">Finite symplectic automorphism groups of supersingular K3 surfaces</a></div></td>
-<td>Hisanori Ohashi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06341">2405.06341</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-01</td>
@@ -193,5 +169,29 @@ _Updated 2026-05-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26636.html">Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>C. Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26636">2604.26636</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26663.html">Hardware-Efficient Hamiltonian Simulation via Trotter-Initialized Variational Optimization with Native Placement</a></div></td>
+<td>F. S. Luiz et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26663">2604.26663</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26694.html">Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Jun Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26694">2604.26694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26703.html">A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a></div></td>
+<td>Yue Li et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26703">2604.26703</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26813.html">Classical simulation of free-fermionic dynamics and quantum chemistry with magic input</a></div><div class="paper-tags"><a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Changhun Oh et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26813">2604.26813</a></td>
 </tr>
 </tbody></table>

@@ -24,31 +24,6 @@
   ],
   "updated": "2024-04-04"
  },
- "2401.12595": {
-  "abstract": "The behavior of K-V, waterbag, parabolic, conical and Gaussian distributions in periodic quadrupole channels is studied by particle simulations. It is found that all these different distributions exhibit the known K-V instabilities. But the action of the K-V type modes becomes more and more damped in the order of the types of distributions quoted above. This damping is so strong for the Gaussian distribution that the emittance growth factor after a large number of periods is considerably lower than in the case of an equivalent K-V distribution. In addition, the non K-V distributions experience in only one period of the channel a rapid initial emittance growth, which becomes very significant at high beam intensities. This growth is attributed to the homogenization of the space-charge density, resulting in a conversion of electric-field energy into transverse kinetic and potential energy. Two simple analytical formulae are derived to estimate the upper and lower boundary values for this effect and are compared with the results obtained from particle simulations.",
-  "authors": [
-   "Jürgen Struckmeier",
-   "Jürgen Klabunde",
-   "Martin Reiser"
-  ],
-  "categories": [
-   "physics.plasm-ph",
-   "physics.acc-ph"
-  ],
-  "comment": "20 pages, 10 figures",
-  "first_author": "Jürgen Struckmeier",
-  "pdf_url": "http://arxiv.org/pdf/2401.12595",
-  "primary_category": "physics.plasm-ph",
-  "published": "2024-01-23",
-  "tags": [
-   "free-energy"
-  ],
-  "title": "On the stability and emittance growth of different particle phase-space distributions in a long magnetic quadrupole channel",
-  "topics": [
-   "via:author-whitelist:GNN benchmarking, materials ML"
-  ],
-  "updated": "2024-04-09"
- },
  "2402.00572": {
   "abstract": "The Open Databases Integration for Materials Design (OPTIMADE) application programming interface (API) empowers users with holistic access to a growing federation of databases, enhancing the accessibility and discoverability of materials and chemical data. Since the first release of the OPTIMADE specification (v1.0), the API has undergone significant development, leading to the upcoming v1.2 release, and has underpinned multiple scientific studies. In this work, we highlight the latest features of the API format, accompanying software tools, and provide an update on the implementation of OPTIMADE in contributing materials databases. We end by providing several use cases that demonstrate the utility of the OPTIMADE API in materials research that continue to drive its ongoing development.",
   "authors": [
@@ -1648,30 +1623,6 @@
   ],
   "updated": "2024-04-03"
  },
- "2404.02870": {
-  "abstract": "While there is extensive literature on approximation, deterministic as well as random, of general convex bodies $K$ in the symmetric difference metric, or other metrics arising from intrinsic volumes, very little is known for corresponding random results in the Hausdorff distance when the approximant $K_n$ is given by the convex hull of $n$ independent random points chosen uniformly on the boundary or in the interior of $K$. When $K$ is a polygon and the points are chosen on its boundary, we determine the exact limiting behavior of the expected Hausdorff distance between a polygon as $n\\to\\infty$. From this we derive the behavior of the asymptotic constant for a regular polygon in the number of vertices.",
-  "authors": [
-   "Joscha Prochno",
-   "Carsten Schütt",
-   "Mathias Sonnleitner",
-   "Elisabeth M. Werner"
-  ],
-  "categories": [
-   "math.MG",
-   "math.PR"
-  ],
-  "comment": "17 pages, 2 figures",
-  "first_author": "Joscha Prochno",
-  "pdf_url": "http://arxiv.org/pdf/2404.02870",
-  "primary_category": "math.MG",
-  "published": "2024-04-03",
-  "tags": [],
-  "title": "Random approximation of convex bodies in Hausdorff metric",
-  "topics": [
-   "via:author-whitelist:SchNet, equivariant ML"
-  ],
-  "updated": "2024-04-03"
- },
  "2404.02899": {
   "abstract": "We present MatAtlas, a method for consistent text-guided 3D model texturing. Following recent progress we leverage a large scale text-to-image generation model (e.g., Stable Diffusion) as a prior to texture a 3D model. We carefully design an RGB texturing pipeline that leverages a grid pattern diffusion, driven by depth and edges. By proposing a multi-step texture refinement process, we significantly improve the quality and 3D consistency of the texturing output. To further address the problem of baked-in lighting, we move beyond RGB colors and pursue assigning parametric materials to the assets. Given the high-quality initial RGB texture, we propose a novel material retrieval method capitalized on Large Language Models (LLM), enabling editabiliy and relightability. We evaluate our method on a wide variety of geometries and show that our method significantly outperform prior arts. We also analyze the role of each component through a detailed ablation study.",
   "authors": [
@@ -3134,30 +3085,6 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2024-04-11"
- },
- "2404.07137": {
-  "abstract": "Iron (Fe) reduction is one of Earth's most ancient microbial metabolisms, but after atmosphere-ocean oxygenation, this anaerobic process was relegated to niche anoxic environments below the water and soil surface. However, new technologies to monitor redox processes at the microscale relevant to microbial cells have recently revealed that the oxygen (O2) concentrations controlling the distribution of aerobic and anaerobic metabolisms are more heterogeneous than previously believed. To explore how O2 levels regulate microbial Fe reduction, we cultivated a facultative Fe-reducing bacterium using a cutting-edge microfluidic reactor integrated with transparent planar O2 sensors. Contrary to expectations, microbial growth induced Fe(III)-oxide (ferrihydrite) reduction under fully oxygenated conditions without forming O2-depleted microsites. Batch incubations highlighted the importance of the process at a larger scale, fundamentally changing our understanding of Fe cycling from the conceptualization of metal and nutrient mobility in the subsurface to our interpretation of Fe mineralogy in the rock record.",
-  "authors": [
-   "Giulia Ceriotti",
-   "Alice Bosco-Santos",
-   "Sergey M. Borisov",
-   "Jasmine S. Berg"
-  ],
-  "categories": [
-   "physics.bio-ph",
-   "physics.geo-ph"
-  ],
-  "comment": null,
-  "first_author": "Giulia Ceriotti",
-  "pdf_url": "http://arxiv.org/pdf/2404.07137",
-  "primary_category": "physics.bio-ph",
-  "published": "2024-04-10",
-  "tags": [],
-  "title": "Microbial iron reduction under oxic conditions: implications for subsurface biogeochemistry",
-  "topics": [
-   "via:author-whitelist:PIMD, MLIPs, water"
-  ],
-  "updated": "2024-04-10"
  },
  "2404.07165": {
   "abstract": "Recent experiments in twisted bilayer transition-metal dichalcogenides have revealed a variety of strongly correlated phenomena. To theoretically explore their origin, we combine here ab initio calculations with correlated model approaches to describe and study many-body effects in twisted bilayer WSe$_2$ under pressure. We find that the interlayer distance is a key factor for the electronic structure, as it tunes the relative energetic positions between the K and the $Γ$ valleys of the valence band maximum of the untwisted bilayer. As a result, applying uniaxial pressure to a twisted bilayer induces a charge-transfer from the K valley to the flat bands in the $Γ$ valley. Upon Wannierizing moiré bands from both valleys, we establish the relevant tight-binding model parameters and calculate the effective interaction strengths using the constrained random phase approximation. With this, we approximate the interacting pressure-doping phase diagram of WSe$_2$ moiré bilayers using self-consistent mean field theory. Our results establish twisted bilayer WSe$_2$ as a platform that allows the direct pressure-tuning of different correlated phases, ranging from Mott insulators, charge-valley-transfer insulators to Kondo lattice-like systems.",
@@ -4638,50 +4565,6 @@
   ],
   "updated": "2024-04-22"
  },
- "2404.11724": {
-  "abstract": "Despite its amazing quantitative successes and contributions to revolutionary technologies, physics currently faces many unsolved mysteries ranging from the meaning of quantum mechanics to the nature of the dark energy that will determine the future of the Universe. It is clearly prohibitive for the general reader, and even the best informed physicists, to follow the vast number of technical papers published in the thousands of specialized journals. For this reason, we have asked the leading experts across many of the most important areas of physics to summarise their global assessment of some of the most important issues. In lieu of an extremely long abstract summarising the contents, we invite the reader to look at the section headings and their authors, and then to indulge in a feast of stimulating topics spanning the current frontiers of fundamental physics from The Future of Physics by William D Phillips and What characterises topological effects in physics? by Gerard t Hooft through the contributions of the widest imaginable range of world leaders in their respective areas. This paper is presented as a preface to exciting developments by senior and young scientists in the years that lie ahead, and a complement to the less authoritative popular accounts by journalists.",
-  "authors": [
-   "Gerard t Hooft",
-   "William D Phillips",
-   "Anton Zeilinger",
-   "Roland Allen",
-   "Jim Baggott",
-   "Francois R Bouchet",
-   "Solange M G Cantanhede",
-   "Lazaro A M Castanedo",
-   "Ana Maria Cetto",
-   "Alan A Coley",
-   "Bryan J Dalton",
-   "Peyman Fahimi",
-   "Sharon Franks",
-   "Alex Frano",
-   "Edward S Fry",
-   "Steven Goldfarb",
-   "Karlheinz Langanke",
-   "Cherif F Matta",
-   "Dimitri Nanopoulos",
-   "Chad Orzel",
-   "Sam Patrick",
-   "Viraj A A Sanghai",
-   "Ivan K Schuller",
-   "Oleg Shpyrko",
-   "Suzy Lidstrom"
-  ],
-  "categories": [
-   "physics.soc-ph"
-  ],
-  "comment": "54 pages, 13 figures",
-  "first_author": "Gerard t Hooft",
-  "pdf_url": "http://arxiv.org/pdf/2404.11724",
-  "primary_category": "physics.soc-ph",
-  "published": "2024-04-17",
-  "tags": [],
-  "title": "The sounds of science a symphony for many instruments and voices part II",
-  "topics": [
-   "via:author-whitelist:retrosynthesis, ML chemistry"
-  ],
-  "updated": "2024-04-17"
- },
  "2404.11751": {
   "abstract": "HoNiSi$_{3}$ is an intermetallic compound characterized by two successive antiferromagnetic transitions at $T_{N1} = 6.3$ K and $T_{N2} = 10.4$ K. Here, its zero-field microscopic magnetic structure is inferred from resonant x-ray magnetic diffraction experiments on a single crystalline sample that complement previous bulk magnetic susceptibility data. For $T < T_{N2}$, the primitive magnetic unit cell matches the chemical cell. The magnetic structure features ferromagnetic {\\it ac} planes stacked in an antiferromagnetic $\\uparrow \\downarrow \\uparrow \\downarrow$ pattern. For $T_{N1} < T < T_{N2}$, the ordered magnetic moment points along $\\vec{a}$, and for $T < T_{N1}$ a component along $\\vec{c}$ also orders. A symmetry analysis indicates that the magnetic structure for $T<T_{N1}$ is not compatible with the presumed orthorhombic $Cmmm$ space group of the chemical structure, and therefore a slight lattice distortion is implied. Mean-field calculations using a simplified magnetic Hamiltonian, including a reduced set of three independent exchange coupling parameters determined by density functional theory calculations and two crystal electric field terms taken as free-fitting parameters, are able to reproduce the main experimental observations. An alternative approach using a more complete model including seven exchange coupling and nine crystal electric field terms is also explored, where the search of the ground state magnetic structure compatible with the available anisotropic magnetic susceptibility and magnetization data is carried out with the help of an unsupervised machine learning algorithm. The possible magnetic configurations are grouped into five clusters, and the cluster that yields the best comparison with the experimental macroscopic data contains the parameters previously found with the simplified model and also predicts the correct ground-state magnetic structure.",
   "authors": [
@@ -5756,36 +5639,6 @@
   ],
   "updated": "2024-04-22"
  },
- "2404.14275": {
-  "abstract": "Clinical databases typically include, for each patient, many heterogeneous features, for example blood exams, the clinical history before the onset of the disease, the evolution of the symptoms, the results of imaging exams, and many others. We here propose to exploit a recently developed statistical approach, the Information Imbalance, to compare different subsets of patient features, and automatically select the set of features which is maximally informative for a given clinical purpose, especially in minority classes. We adapt the Information Imbalance approach to work in a clinical framework, where patient features are often categorical and are generally available only for a fraction of the patients. We apply this algorithm to a data set of ~ 1,300 patients treated for COVID-19 in Udine hospital before October 2021. Using this approach, we find combinations of features which, if used in combination, are maximally informative of the clinical fate and of the severity of the disease. The optimal number of features, which is determined automatically, turns out to be between 10 and 15. These features can be measured at admission. The approach can be used also if the features are available only for a fraction of the patients, does not require imputation and, importantly, is able to automatically select features with small inter-feature correlation. Clinical insights deriving from this study are also discussed.",
-  "authors": [
-   "Romina Wild",
-   "Emanuela Sozio",
-   "Riccardo G. Margiotta",
-   "Fabiana Dellai",
-   "Angela Acquasanta",
-   "Fabio Del Ben",
-   "Carlo Tascini",
-   "Francesco Curcio",
-   "Alessandro Laio"
-  ],
-  "categories": [
-   "stat.ME",
-   "q-bio.QM",
-   "stat.AP"
-  ],
-  "comment": null,
-  "first_author": "Romina Wild",
-  "pdf_url": "http://arxiv.org/pdf/2404.14275",
-  "primary_category": "stat.ME",
-  "published": "2024-04-22",
-  "tags": [],
-  "title": "Maximally informative feature selection using Information Imbalance: Application to COVID-19 severity prediction",
-  "topics": [
-   "via:author-whitelist:metadynamics co-creator"
-  ],
-  "updated": "2024-04-22"
- },
  "2404.14316": {
   "abstract": "We introduce a new area of study in the field of educational Natural Language Processing: Automated Long Answer Grading (ALAG). Distinguishing itself from Automated Short Answer Grading (ASAG) and Automated Essay Grading (AEG), ALAG presents unique challenges due to the complexity and multifaceted nature of fact-based long answers. To study ALAG, we introduce RiceChem, a dataset derived from a college chemistry course, featuring real student responses to long-answer questions with an average word count notably higher than typical ASAG datasets. We propose a novel approach to ALAG by formulating it as a rubric entailment problem, employing natural language inference models to verify whether each criterion, represented by a rubric item, is addressed in the student's response. This formulation enables the effective use of MNLI for transfer learning, significantly improving the performance of models on the RiceChem dataset. We demonstrate the importance of rubric-based formulation in ALAG, showcasing its superiority over traditional score-based approaches in capturing the nuances of student responses. We also investigate the performance of models in cold start scenarios, providing valuable insights into the practical deployment considerations in educational settings. Lastly, we benchmark state-of-the-art open-sourced Large Language Models (LLMs) on RiceChem and compare their results to GPT models, highlighting the increased complexity of ALAG compared to ASAG. Despite leveraging the benefits of a rubric-based approach and transfer learning from MNLI, the lower performance of LLMs on RiceChem underscores the significant difficulty posed by the ALAG task. With this work, we offer a fresh perspective on grading long, fact-based answers and introduce a new dataset to stimulate further research in this important area. Code: \\url{https://github.com/luffycodes/Automated-Long-Answer-Grading}.",
   "authors": [
@@ -6849,28 +6702,6 @@
   "title": "Converging TDDFT calculations in 5 iterations with minimal auxiliary preconditioning",
   "topics": [
    "Quantum Chemistry & Force Fields"
-  ],
-  "updated": "2024-04-26"
- },
- "2404.17224": {
-  "abstract": "Verifying highly automated driving functions can be challenging, requiring identifying relevant test scenarios. Scenario-based testing will likely play a significant role in verifying these systems, predominantly occurring within simulation. In our approach, we use traffic scenes as a starting point (seed-scene) to address the individuality of various highly automated driving functions and to avoid the problems associated with a predefined test traffic scenario. Different highly autonomous driving functions, or their distinct iterations, may display different behaviors under the same operating conditions. To make a generalizable statement about a seed-scene, we simulate possible outcomes based on various behavior profiles. We utilize our lightweight simulation environment and populate it with rule-based and machine learning behavior models for individual actors in the scenario. We analyze resulting scenarios using a variety of criticality metrics. The density distributions of the resulting criticality values enable us to make a profound statement about the significance of a particular scene, considering various eventualities.",
-  "authors": [
-   "Maximilian Zipfl",
-   "Barbara Schütt",
-   "J. Marius Zöllner"
-  ],
-  "categories": [
-   "cs.RO"
-  ],
-  "comment": null,
-  "first_author": "Maximilian Zipfl",
-  "pdf_url": "http://arxiv.org/pdf/2404.17224",
-  "primary_category": "cs.RO",
-  "published": "2024-04-26",
-  "tags": [],
-  "title": "Scene-Extrapolation: Generating Interactive Traffic Scenarios",
-  "topics": [
-   "via:author-whitelist:SchNet, equivariant ML"
   ],
   "updated": "2024-04-26"
  },

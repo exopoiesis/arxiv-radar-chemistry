@@ -26,6 +26,7 @@ TOOLS = Path(__file__).resolve().parent
 sys.path.insert(0, str(TOOLS))
 from data_io import (
     is_chemistry_paper,
+    has_domain_or_method,
     is_whitelisted_author,
     load_authors_whitelist,
     load_all_months,
@@ -99,6 +100,8 @@ def fetch_current_month(client, queries):
             wl_note = None
             if not relevant:
                 wl_note = is_whitelisted_author(rec.get("authors", []), whitelist)
+                if wl_note is not None and not has_domain_or_method(rec.get("abstract", "")):
+                    wl_note = None  # gate: no domain/method signal
                 if wl_note is None:
                     chem_skipped += 1
                     continue

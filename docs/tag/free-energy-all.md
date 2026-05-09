@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>free-energy — all</h1>
-  <span class="paper-count">601 papers</span>
+  <span class="paper-count">596 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1529,12 +1529,6 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19015.html">Learning with springs and sticks</a></div></td>
-<td>Luis Mantilla Calderón et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19015">2508.19015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="structure-prediction-all.html">structure-prediction</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Stephan Thaler et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19385">2508.19385</a></td>
@@ -2246,12 +2240,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22372.html">A Morphotropic Phase Boundary in MA$_{1-x}$FA$_x$PbI$_3$: Linking Structure, Dynamics, and Electronic Properties</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Tobias Hainer et al.</td>
 <td><a href="http://arxiv.org/abs/2503.22372">2503.22372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.17029.html">Everything everywhere all at once: a probability-based enhanced sampling approach to rare events</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="metadynamics-all.html">metadynamics</a></div></td>
-<td>Enrico Trizio et al.</td>
-<td><a href="http://arxiv.org/abs/2410.17029">2410.17029</a></td>
 </tr>
 <tr class="paper">
 <td>2025-03-27</td>
@@ -3352,12 +3340,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.11705">2406.11705</a></td>
 </tr>
 <tr class="paper">
-<td>2024-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10915.html">Self-consistent Coulomb interactions for machine learning interatomic potentials</a></div></td>
-<td>Jack Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10915">2406.10915</a></td>
-</tr>
-<tr class="paper">
 <td>2024-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00201.html">Quantum Molecular Charge-Transfer Model for Multi-step Auger-Meitner Decay Cascade Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Adam E. A. Fouda et al.</td>
@@ -3490,12 +3472,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2405.08929">2405.08929</a></td>
 </tr>
 <tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05437.html">Measurement of Coherent Vibrational Dynamics with X-ray Transient Absorption Spectroscopy Simultaneously at the Carbon K- and Chlorine L$_{2,3}$- Edges</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
-<td>Andrew D. Ross et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05437">2405.05437</a></td>
-</tr>
-<tr class="paper">
 <td>2024-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04644.html">Lipid-mediated hydrophobic gating in the BK potassium channel</a></div></td>
 <td>Lucia Coronel et al.</td>
@@ -3584,12 +3560,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07793.html">First-Principles Study of Penta-CN2 Quantum Dots for Efficient Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Rupali Jindal et al.</td>
 <td><a href="http://arxiv.org/abs/2404.07793">2404.07793</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12595.html">On the stability and emittance growth of different particle phase-space distributions in a long magnetic quadrupole channel</a></div></td>
-<td>Jürgen Struckmeier et al.</td>
-<td><a href="http://arxiv.org/abs/2401.12595">2401.12595</a></td>
 </tr>
 <tr class="paper">
 <td>2024-04-07</td>

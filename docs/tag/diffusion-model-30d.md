@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,23 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09511.html">Spin and orbital-to-charge conversion in noncentrosymmetric materials: Hall versus Rashba-Edelstein effects</a></div></td>
 <td>Diego Garcia Ovalle et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09511">2511.09511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03468.html">D-Garment: Physically Grounded Latent Diffusion for Dynamic Garment Deformations</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Antoine Dumoulin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03468">2504.03468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11037.html">Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Ruiqing Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11037">2505.11037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11703.html">EvoFlows: Evolutionary Edit-Based Flow-Matching for Protein Engineering</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
-<td>Nicolas Deutschmann et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11703">2603.11703</a></td>
 </tr>
 </tbody></table>

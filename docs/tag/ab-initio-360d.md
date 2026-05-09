@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1602 papers</span>
+  <span class="paper-count">1597 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3356,12 +3356,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08750.html">Screened superexchange mechanism for superconductivity applied to cuprates</a></div></td>
 <td>Patrick Navez</td>
 <td><a href="http://arxiv.org/abs/2507.08750">2507.08750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17822.html">Fluid-inertia torques from particle-shape symmetry</a></div></td>
-<td>L. Sundberg et al.</td>
-<td><a href="http://arxiv.org/abs/2512.17822">2512.17822</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-13</td>
@@ -9602,29 +9596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09762.html">Unconventional polaronic ground state in superconducting LiTi$_2$O$_4$</a></div></td>
 <td>Zubia Hasan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09762">2505.09762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08065.html">InvDesFlow: An AI-driven materials inverse design workflow to explore possible high-temperature superconductors</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Xiao-Qi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08065">2409.08065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08398.html">Nonlocal electrodynamics of two-dimensional anisotropic magneto-plasmons</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>A. J. Chaves et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08398">2505.08398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08428.html">The present-day cosmic phosphorus abundance</a></div></td>
-<td>P. Aschenbrenner et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08428">2505.08428</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08436.html">Strain dependence of the Bloch domain component in 180$^\circ$ domains in bulk PbTiO$_{3}$ from first-principles</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Stephen Chege et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08436">2505.08436</a></td>
 </tr>
 </tbody></table>

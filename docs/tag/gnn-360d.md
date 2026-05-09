@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">398 papers</span>
+  <span class="paper-count">396 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,12 +260,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24360.html">Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Ian Störmer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24360">2603.24360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24638.html">How unconstrained machine-learning models learn physical symmetries</a></div></td>
-<td>Michelangelo Domina et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24638">2603.24638</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
@@ -2396,11 +2390,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09174.html">Quotient Complex Transformer (QCformer) for Perovskite Data Analysis</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Xinyu You et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09174">2505.09174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07081.html">COMRECGC: Global Graph Counterfactual Explainer through Common Recourse</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Gregoire Fournier et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07081">2505.07081</a></td>
 </tr>
 </tbody></table>

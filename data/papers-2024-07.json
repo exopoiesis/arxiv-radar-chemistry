@@ -23,57 +23,6 @@
   ],
   "updated": "2024-07-30"
  },
- "2402.08829": {
-  "abstract": "Directed percolation (DP), a universality class of continuous phase transitions, has recently been established as a possible route to turbulence in subcritical wall-bounded flows. In canonical straight pipe or planar flows, the transition occurs via discrete large-scale turbulent structures, known as puffs in pipe flow or bands in planar flows, which either self-replicate or laminarize. However, these processes might not be universal to all subcritical shear flows. Here, we design a numerical experiment that eliminates discrete structures in plane Couette flow and show that it follows a different, simpler transition scenario: turbulence proliferates via expanding fronts and decays via spontaneous creation of laminar zones. We map this phase transition onto a stochastic one-variable system. The level of turbulent fluctuations dictates whether moving-front transition is discontinuous, or continuous and within the DP universality class, with profound implications for other hydrodynamic systems.",
-  "authors": [
-   "Sébastien Gomé",
-   "Aliénor Rivière",
-   "Laurette S. Tuckerman",
-   "Dwight Barkley"
-  ],
-  "categories": [
-   "physics.flu-dyn"
-  ],
-  "comment": null,
-  "first_author": "Sébastien Gomé",
-  "pdf_url": "http://arxiv.org/pdf/2402.08829",
-  "primary_category": "physics.flu-dyn",
-  "published": "2024-02-13",
-  "tags": [
-   "phase-transition"
-  ],
-  "title": "Phase transition to turbulence via moving fronts",
-  "topics": [
-   "via:author-whitelist:Grotthuss, AIMD"
-  ],
-  "updated": "2024-07-02"
- },
- "2402.17404": {
-  "abstract": "We present a generative diffusion model specifically tailored to the discovery of surface structures. The generative model takes into account substrate registry and periodicity by including masked atoms and $z$-directional confinement. Using a rotational equivariant neural network architecture, we design a method that trains a denoiser-network for diffusion alongside a force-field for guided sampling of low-energy surface phases. An effective data-augmentation scheme for training the denoiser-network is proposed to scale generation far beyond structure sizes represented in the training data. We showcase the generative model by investigating multiple surface systems and propose an atomistic structure model for a previously unknown silver-oxide domain-boundary of unprecedented size.",
-  "authors": [
-   "Nikolaj Rønne",
-   "Alán Aspuru-Guzik",
-   "Bjørk Hammer"
-  ],
-  "categories": [
-   "physics.comp-ph",
-   "cond-mat.mtrl-sci"
-  ],
-  "comment": null,
-  "first_author": "Nikolaj Rønne",
-  "pdf_url": "http://arxiv.org/pdf/2402.17404",
-  "primary_category": "physics.comp-ph",
-  "published": "2024-02-27",
-  "tags": [
-   "diffusion-model",
-   "generative-model"
-  ],
-  "title": "Generative diffusion model for surface structure discovery",
-  "topics": [
-   "via:author-whitelist:ML chemistry, autonomous discovery"
-  ],
-  "updated": "2024-07-02"
- },
  "2403.00925": {
   "abstract": "In this work we examine the nucleation from NaCl aqueous solutions within nano-confined environments, employing enhanced sampling molecular dynamics simulations integrated with machine learning-derived reaction coordinates. Through our simulations, we successfully induce phase transitions between solid, liquid, and a hydrated phase, typically observed at lower temperatures in bulk environments. Interestingly, nano-confinement serves to stabilize the solid phase and elevate melting points. Our simulations explain these findings by underscoring the significant role of water, alongside ion aggregation and subtle, anistropic dielectric behavior, in driving nucleation within nano-constrained environments. This letter thus provides a framework for sampling, analyzing and understanding nucleation processes under nano-confinement.",
   "authors": [
@@ -7388,34 +7337,6 @@
    "Protein & Biomolecules"
   ],
   "updated": "2024-07-02"
- },
- "2407.13903": {
-  "abstract": "The combined structural and electronic complexity of iron oxides poses many challenges to atomistic modeling. To leverage limitations in terms of the accessible length and time scales, one requires a physically justified interatomic potential which is accurate to correctly account for the complexity of iron-oxygen systems. Such a potential is not yet available in the literature. In this work, we propose a machine-learning potential based on the Atomic Cluster Expansion for modeling the iron-oxygen system, which explicitly accounts for magnetism. We test the potential on a wide range of properties of iron and its oxides, and demonstrate its ability to describe the thermodynamics of systems spanning the whole range of oxygen content and including magnetic degrees of freedom.",
-  "authors": [
-   "Baptiste Bienvenu",
-   "Mira Todorova",
-   "Jörg Neugebauer",
-   "Dierk Raabe",
-   "Matous Mrovec",
-   "Yury Lysogorskiy",
-   "Ralf Drautz"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci"
-  ],
-  "comment": "Manuscript: 14 pages, 9 figures, SI: 6 pages, 7 figures",
-  "first_author": "Baptiste Bienvenu",
-  "pdf_url": "http://arxiv.org/pdf/2407.13903",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2024-07-18",
-  "tags": [
-   "magnetic-properties"
-  ],
-  "title": "Development of an Atomic Cluster Expansion potential for iron and its oxides",
-  "topics": [
-   "via:author-whitelist:ACE potentials"
-  ],
-  "updated": "2024-07-18"
  },
  "2407.13935": {
   "abstract": "Dynamics of coarse-grained particle systems derived via the Mori-Zwanzig projection formalism commonly take the form of a (generalized) Langevin equation with configuration-dependent friction and diffusion tensors. In this article, we introduce a class of equivariant representations of tensor-valued functions based on the Atomic Cluster Expansion (ACE) framework that allows for efficient learning of such configuration-dependent friction and diffusion tensors from data. Besides satisfying the correct equivariance properties with respect to the Euclidean group E(3), the resulting heat bath models satisfy a fluctuation-dissipation relation. Moreover, our models can be extended to include additional symmetries, such as momentum conservation, to preserve the hydrodynamic properties of the particle system. We demonstrate the capabilities of the model by constructing a model of configuration-dependent tensorial electronic friction calculated from first principles that arises during reactive molecular dynamics at metal surfaces.",

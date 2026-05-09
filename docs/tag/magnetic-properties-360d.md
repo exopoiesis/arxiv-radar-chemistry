@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">391 papers</span>
+  <span class="paper-count">385 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -815,27 +815,9 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-01-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09499.html">Deep view of Composite SNR CTA1 with LHAASO in $γ$-rays up to 300 TeV</a></div></td>
-<td>Zhen Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09499">2409.09499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17223.html">Electronic structures and multi-orbital models of La$_3$Ni$_2$O$_7$ thin films at ambient pressure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Xunwu Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17223">2503.17223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18401.html">Energy-Dependent Shifts of Medium-Scale Anisotropies in Very-High-Energy Cosmic Rays Observed by LHAASO-KM2A</a></div></td>
-<td>The LHAASO collabration et al.</td>
-<td><a href="http://arxiv.org/abs/2512.18401">2512.18401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02801.html">Transient Large-Scale Anisotropy in TeV Cosmic Rays due to an Interplanetary Coronal Mass Ejection</a></div></td>
-<td>Zhen Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2601.02801">2601.02801</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-05</td>
@@ -908,12 +890,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19427.html">Measuring the Hall effect in hysteretic materials</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Jaime M. Moya et al.</td>
 <td><a href="http://arxiv.org/abs/2512.19427">2512.19427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19876.html">Double-hump spectrum, pulse profile dip, and pulsed fraction spectra from the low-accretion regime in the X-ray pulsar MAXI J0655-013</a></div></td>
-<td>C. Malacaria et al.</td>
-<td><a href="http://arxiv.org/abs/2512.19876">2512.19876</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-22</td>
@@ -2116,12 +2092,6 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2506.15631">2506.15631</a></td>
 </tr>
 <tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14077.html">Electronic nematic normal and superconducting state in electron-doped copper-oxide superconductors</a></div></td>
-<td>J. Y. Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14077">2506.14077</a></td>
-</tr>
-<tr class="paper">
 <td>2025-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13454.html">A first-principles investigation of altermagnetism in CrSb2 under applied pressure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>R. Tamang et al.</td>
@@ -2354,11 +2324,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09697.html">Stable Real-Space Invariants and Topology Beyond Symmetry Indicators</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Yoonseok Hwang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09697">2505.09697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08416.html">DFT Investigation of Magnetocrystalline Anisotropy in Fe, Co, Pd0.97Co0.03 and Pd0.97Fe0.03 systems: From Bulk to Thin-Films</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Irina I. Piyanzina et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08416">2505.08416</a></td>
 </tr>
 </tbody></table>

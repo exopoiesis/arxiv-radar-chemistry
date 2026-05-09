@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -274,12 +274,6 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2502.05144">2502.05144</a></td>
 </tr>
 <tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15879.html">Velocity Gauge for Oscillator Strength in $Δ$SCF theory</a></div></td>
-<td>Yang Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15879">2603.15879</a></td>
-</tr>
-<tr class="paper">
 <td>2026-03-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14802.html">Ultrafast optically induced tunneling in narrow metallic gaps from the time dependent density functional perspective</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Boyang Ma et al.</td>
@@ -422,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09440.html">Three-dimensional real-space electron dynamics in graphene driven by strong laser fields</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>S. Li et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09440">2602.09440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07317.html">Analyzing Band Gaps in Ensemble Density Functional Theory using Thermodynamic Limits of Finite One-Dimensional Model Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Gregory G. V. Kenning et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07317">2602.07317</a></td>
 </tr>
 </tbody></table>

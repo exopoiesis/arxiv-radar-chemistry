@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transition — all</h1>
-  <span class="paper-count">428 papers</span>
+  <span class="paper-count">424 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1181,12 +1181,6 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09488.html">Foundation Neural-Networks Quantum States as a Unified Ansatz for Multiple Hamiltonians</a></div></td>
-<td>Riccardo Rende et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09488">2502.09488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04401.html">Why are LLMs&#x27; abilities emergent?</a></div></td>
 <td>Vladimír Havlík</td>
 <td><a href="http://arxiv.org/abs/2508.04401">2508.04401</a></td>
@@ -1486,12 +1480,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2505.17991">2505.17991</a></td>
 </tr>
 <tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02126.html">Unsupervised detection of semantic correlations in big data</a></div></td>
-<td>Santiago Acevedo et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02126">2411.02126</a></td>
-</tr>
-<tr class="paper">
 <td>2025-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12622.html">Unconventional band splitting of CeSb in the devil&#x27;s staircase transition</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Tongrui Li et al.</td>
@@ -1550,12 +1538,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01529.html">Ferroelasticity, shear modulus softening, and the tetragonal-cubic transition in davemaoite</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Tianqi Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.01529">2505.01529</a></td>
-</tr>
-<tr class="paper">
-<td>2025-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20766.html">The specific heat anomaly stems from a third-order phase transition in the 2D lattice sine-Gordon model</a></div></td>
-<td>Loris Di Cairano et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20766">2504.20766</a></td>
 </tr>
 <tr class="paper">
 <td>2025-04-25</td>
@@ -2384,12 +2366,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09317.html">Bonding states underpinning structural transitions in IrTe$_2$ observed with micro-ARPES</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
 <td>C. W. Nicholson et al.</td>
 <td><a href="http://arxiv.org/abs/2407.09317">2407.09317</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08829.html">Phase transition to turbulence via moving fronts</a></div></td>
-<td>Sébastien Gomé et al.</td>
-<td><a href="http://arxiv.org/abs/2402.08829">2402.08829</a></td>
 </tr>
 <tr class="paper">
 <td>2024-06-30</td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">457 papers</span>
+  <span class="paper-count">453 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,12 +1184,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15737.html">Enzyme-Substrate Complex Formation Modulates Diffusion-Driven Patterning In Metabolic Pathways</a></div></td>
 <td>Faezeh Farivar</td>
 <td><a href="http://arxiv.org/abs/2512.15737">2512.15737</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20003.html">Control Variate Score Matching for Diffusion Models</a></div></td>
-<td>Khaled Kahouli et al.</td>
-<td><a href="http://arxiv.org/abs/2512.20003">2512.20003</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-20</td>
@@ -2440,12 +2434,6 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2505.00751">2505.00751</a></td>
 </tr>
 <tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17140.html">MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>David Jacob Drexlin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17140">2506.17140</a></td>
-</tr>
-<tr class="paper">
 <td>2025-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17340.html">Revisiting Sampling Strategies for Molecular Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Yuyan Ni et al.</td>
@@ -2744,17 +2732,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09106.html">Fragment-Masked Diffusion for Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Kun Li et al.</td>
 <td><a href="http://arxiv.org/abs/2408.09106">2408.09106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08065.html">InvDesFlow: An AI-driven materials inverse design workflow to explore possible high-temperature superconductors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Xiao-Qi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08065">2409.08065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08531.html">Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Chenru Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08531">2505.08531</a></td>
 </tr>
 </tbody></table>

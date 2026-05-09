@@ -54,28 +54,6 @@
   ],
   "updated": "2024-03-20"
  },
- "2401.17938": {
-  "abstract": "Computationally feasible multipartite entanglement measures are needed to advance our understanding of complex quantum systems. An entanglement measure based on the Fubini-Study metric has been recently introduced by Cocchiarella and co-workers, showing several advantages over existing methods, including ease of computation, a deep geometrical interpretation, and applicability to multipartite entanglement. Here, we present the Gaussian Entanglement Measure (GEM), a generalization of geometric entanglement measure for multimode Gaussian states, based on the purity of fragments of the whole systems. Our analysis includes the application of GEM to a two-mode Gaussian state coupled through a combined beamsplitter and a squeezing transformation. Additionally, we explore 3-mode and 4-mode graph states, where each vertex represents a bosonic mode, and each edge represents a quadratic transformation for various graph topologies. Interestingly, the ratio of the geometric entanglement measures for graph states with different topologies naturally captures properties related to the connectivity of the underlying graphs. Finally, by providing a computable multipartite entanglement measure for systems with a large number of degrees of freedom, we show that our definition can be used to obtain insights into a free bosonic field theory on $\\mathbb R_t\\times S^1$, going beyond the standard bipartite entanglement entropy approach between different regions of spacetime. The results presented herein suggest how the GEM paves the way for using quantum information-theoretical tools to study the topological properties of the space on which a quantum field theory is defined.",
-  "authors": [
-   "Matteo Gori",
-   "Matthieu Sarkis",
-   "Alexandre Tkatchenko"
-  ],
-  "categories": [
-   "quant-ph"
-  ],
-  "comment": "23 pages, 4 figures, corrected typos, reformatted introduction, added figure",
-  "first_author": "Matteo Gori",
-  "pdf_url": "http://arxiv.org/pdf/2401.17938",
-  "primary_category": "quant-ph",
-  "published": "2024-01-31",
-  "tags": [],
-  "title": "Gaussian Entanglement Measure: Applications to Multipartite Entanglement of Graph States and Bosonic Field Theory",
-  "topics": [
-   "via:author-whitelist:vdW, ML force fields"
-  ],
-  "updated": "2024-03-13"
- },
  "2403.02155": {
   "abstract": "Machine learning potentials (MLP) have revolutionized the field of atomistic simulations by describing the atomic interactions with the accuracy of electronic structure methods at a small fraction of the costs. Most current MLPs construct the energy of a system as a sum of atomic energies, which depend on information about the atomic environments provided in form of predefined or learnable feature vectors. If, in addition, non-local phenomena like long-range charge transfer are important, fourth-generation MLPs need to be used, which include a charge equilibration (Qeq) step to take the global structure of the system into account. This Qeq can significantly increase the computational cost and thus can become the computational bottleneck for large systems. In this paper we present a highly efficient formulation of Qeq that does not require the explicit computation of the Coulomb matrix elements resulting in a quasi-linearly scaling method. Moreover, our approach also allows for the efficient calculation of energy derivatives, which explicitly consider the global structure-dependence of the atomic charges as obtained from Qeq. Due to its generality, the method is not restricted to MLPs but can also be applied within a variety of other force fields.",
   "authors": [
@@ -127,31 +105,6 @@
   ],
   "updated": "2024-03-04"
  },
- "2403.02925": {
-  "abstract": "The purpose of this paper is to introduce the new concept of weighted floating functions associated with log concave or $s$-concave functions. This leads to new notions of weighted functional affine surface areas. Their relation to more traditional versions of functional affine surface areas as well as to the classical affine surface areas for convex bodies is discussed in detail.",
-  "authors": [
-   "Carsten Schütt",
-   "Christoph Thaele",
-   "Nicola Turchi",
-   "Elisabeth M. Werner"
-  ],
-  "categories": [
-   "math.MG",
-   "math.DG",
-   "math.FA"
-  ],
-  "comment": "arXiv admin note: text overlap with arXiv:1711.11088",
-  "first_author": "Carsten Schütt",
-  "pdf_url": "http://arxiv.org/pdf/2403.02925",
-  "primary_category": "math.MG",
-  "published": "2024-03-05",
-  "tags": [],
-  "title": "Weighted floating functions and weighted functional affine surface areas",
-  "topics": [
-   "via:author-whitelist:SchNet, equivariant ML"
-  ],
-  "updated": "2024-03-05"
- },
  "2403.03364": {
   "abstract": "DFT calculations yield useful ground-state energies and densities, while Green's function techniques (such as $GW$) are mostly used to produce spectral functions. From the Galitskii-Migdal formula, we extract the exchange-correlation of DFT directly from a Green's function. This spectral representation provides an alternative to the fluctuation-dissipation theorem of DFT, identifying distinct single-particle and many-particle contributions. Results are illustrated on the uniform electron gas and the two-site Hubbard model.",
   "authors": [
@@ -199,31 +152,6 @@
   "title": "Beyond Major Product Prediction: Reproducing Reaction Mechanisms with Machine Learning Models Trained on a Large-Scale Mechanistic Dataset",
   "topics": [
    "via:author-whitelist:retrosynthesis, ML chemistry"
-  ],
-  "updated": "2024-03-07"
- },
- "2403.04604": {
-  "abstract": "We extend ground-state density-functional theory to excited states and provide the theoretical formulation for the widely used $ΔSCF$ method for calculating excited-state energies and densities. As the electron density alone is insufficient to characterize excited states, we formulate excited-state theory using the defining variables of a noninteracting reference system, namely (1) the excitation quantum number $n_{s}$ and the potential $w_{s}(\\mathbf{r})$ (excited-state potential-functional theory, $n$PFT), (2) the noninteracting wavefunction $Φ$ ($Φ$-functional theory, $Φ$FT), or (3) the noninteracting one-electron reduced density matrix $γ_{s}(\\mathbf{r},\\mathbf{r}')$ (density-matrix-functional theory, $γ_{s}$FT). We show the equivalence of these three sets of variables and their corresponding energy functionals. Importantly, the ground and excited-state exchange-correlation energy use the \\textit{same} universal functional, regardless of whether $\\left(n_{s},w_{s}(\\boldsymbol{r})\\right)$, $Φ$, or $γ_{s}(\\mathbf{r},\\mathbf{r}')$ is selected as the fundamental descriptor of the system. We derive the excited-state (generalized) Kohn-Sham equations. The minimum of all three functionals is the ground-state energy and, for ground states, they are all equivalent to the Hohenberg-Kohn-Sham method. The other stationary points of the functionals provide the excited-state energies and electron densities, establishing the foundation for the $ΔSCF$ method.",
-  "authors": [
-   "Weitao Yang",
-   "Paul W. Ayers"
-  ],
-  "categories": [
-   "physics.chem-ph",
-   "cond-mat.other"
-  ],
-  "comment": null,
-  "first_author": "Weitao Yang",
-  "pdf_url": "http://arxiv.org/pdf/2403.04604",
-  "primary_category": "physics.chem-ph",
-  "published": "2024-03-07",
-  "tags": [
-   "dft",
-   "excited-states"
-  ],
-  "title": "Foundation for the ΔSCF Approach in Density Functional Theory",
-  "topics": [
-   "via:author-whitelist:DFT methodology, dispersion"
   ],
   "updated": "2024-03-07"
  },
@@ -294,97 +222,6 @@
    "via:author-whitelist:GAP, MACE, ACE"
   ],
   "updated": "2024-03-11"
- },
- "2403.08064": {
-  "abstract": "We prove that there are at most $(24-r_0)$ low-degree rational curves on high-degree models of K3 surfaces with at most Du Val singularities, where $r_0$ is the number of exceptional divisors on the minimal resolution. We also provide several existence results in the above setting (i.e. for rational curves on quasi-polarized K3 surfaces), which imply that for various values of $r_0$ our bound cannot be improved.",
-  "authors": [
-   "Sławomir Rams",
-   "Matthias Schütt"
-  ],
-  "categories": [
-   "math.AG"
-  ],
-  "comment": "24 pages",
-  "first_author": "Sławomir Rams",
-  "pdf_url": "http://arxiv.org/pdf/2403.08064",
-  "primary_category": "math.AG",
-  "published": "2024-03-12",
-  "tags": [],
-  "title": "Low degree rational curves on quasi-polarized K3 surfaces",
-  "topics": [
-   "via:author-whitelist:SchNet, equivariant ML"
-  ],
-  "updated": "2024-03-12"
- },
- "2403.10544": {
-  "abstract": "Process mining in healthcare presents a range of challenges when working with different types of data within the healthcare domain. There is high diversity considering the variety of data collected from healthcare processes: operational processes given by claims data, a collection of events during surgery, data related to pre-operative and post-operative care, and high-level data collections based on regular ambulant visits with no apparent events. In this case study, a data set from the last category is analyzed. We apply process-mining techniques on sparse patient heart failure data and investigate whether an information gain towards several research questions is achievable. Here, available data are transformed into an event log format, and process discovery and conformance checking are applied. Additionally, patients are split into different cohorts based on comorbidities, such as diabetes and chronic kidney disease, and multiple statistics are compared between the cohorts. Conclusively, we apply decision mining to determine whether a patient will have a cardiovascular outcome and whether a patient will die.",
-  "authors": [
-   "Harry H. Beyel",
-   "Marlo Verket",
-   "Viki Peeva",
-   "Christian Rennert",
-   "Marco Pegoraro",
-   "Katharina Schütt",
-   "Wil M. P. van der Aalst",
-   "Nikolaus Marx"
-  ],
-  "categories": [
-   "stat.AP",
-   "cs.AI"
-  ],
-  "comment": "10 pages, 3 figures, 9 tables, 31 references",
-  "first_author": "Harry H. Beyel",
-  "pdf_url": "http://arxiv.org/pdf/2403.10544",
-  "primary_category": "stat.AP",
-  "published": "2024-03-11",
-  "tags": [],
-  "title": "Process-Aware Analysis of Treatment Paths in Heart Failure Patients: A Case Study",
-  "topics": [
-   "via:author-whitelist:SchNet, equivariant ML"
-  ],
-  "updated": "2024-03-11"
- },
- "2403.12041": {
-  "abstract": "We have identified nearly a hundred close triply eclipsing hierarchical triple star systems from data taken with the space telescope TESS. These systems are noteworthy in that we can potentially determine their dynamical and astrophysical parameters with a high precision. In the present paper, we report the comprehensive study of seven new compact triply eclipsing triple star systems taken from this larger sample: TICs 133771812, 176713425, 185615681, 287756035, 321978218, 323486857, and 650024463. Most of the data for this study come from TESS observations, but two of them have Gaia measurements of their outer orbits, and we obtained supplemental radial velocity (RV) measurements for three of the systems. The eclipse timing variation curves extracted from the TESS data, the photometric light curves, the RV points, and the spectral energy distribution (SED) are combined in a complex photodynamical analysis to yield the stellar and orbital parameters of all seven systems. Four of the systems are quite compact with outer periods in the range of 41-56 days. All of the systems are substantially flat, with mutual inclination angles of < ~2 degrees. Including the systems reported in this work, we have now studied in considerable detail some 30 triply eclipsing triples with TESS, and are accumulating a meaningful census of these systems.",
-  "authors": [
-   "S. A. Rappaport",
-   "T. Borkovits",
-   "T. Mitnyan",
-   "R. Gagliano",
-   "N. Eisner",
-   "T. Jacobs",
-   "A. Tokovinin",
-   "B. Powell",
-   "V. Kostov",
-   "M. Omohundro",
-   "M. H. Kristiansen",
-   "R. Jayaraman",
-   "I. Terentev",
-   "H. M. Schwengeler",
-   "D. LaCourse",
-   "Z. Gara",
-   "T. Pribulla",
-   "P. F. L. Maxted",
-   "I. B. Bíró",
-   "I. Csányi",
-   "A. Pál",
-   "A. Vanderburg"
-  ],
-  "categories": [
-   "astro-ph.SR",
-   "astro-ph.EP"
-  ],
-  "comment": "33 pages, 23 figures, and 19 tables; accepted for publication in Astronomy & Astrophysics",
-  "first_author": "S. A. Rappaport",
-  "pdf_url": "http://arxiv.org/pdf/2403.12041",
-  "primary_category": "astro-ph.SR",
-  "published": "2024-03-18",
-  "tags": [],
-  "title": "Seven new triply eclipsing triple star systems",
-  "topics": [
-   "via:author-whitelist:GAP, MACE, ACE"
-  ],
-  "updated": "2024-03-18"
  },
  "2403.15334": {
   "abstract": "Simulations of chemical reaction probabilities in gas surface dynamics require the calculation of ensemble averages over many tens of thousands of reaction events to predict dynamical observables that can be compared to experiments. At the same time, the energy landscapes need to be accurately mapped, as small errors in barriers can lead to large deviations in reaction probabilities. This brings a particularly interesting challenge for machine learning interatomic potentials, which are becoming well-established tools to accelerate molecular dynamics simulations. We compare state-of-the-art machine learning interatomic potentials with a particular focus on their inference performance on CPUs and suitability for high throughput simulation of reactive chemistry at surfaces. The considered models include polarizable atom interaction neural networks (PaiNN), recursively embedded atom neural networks (REANN), the MACE equivariant graph neural network, and atomic cluster expansion potentials (ACE). The models are applied to a dataset on reactive molecular hydrogen scattering on low-index surface facets of copper. All models are assessed for their accuracy, time-to-solution, and ability to simulate reactive sticking probabilities as a function of the rovibrational initial state and kinetic incidence energy of the molecule. REANN and MACE models provide the best balance between accuracy and time-to-solution and can be considered the current state-of-the-art in gas-surface dynamics. PaiNN models require many features for the best accuracy, which causes significant losses in computational efficiency. ACE models provide the fastest time-to-solution, however, models trained on the existing dataset were not able to achieve sufficiently accurate predictions in all cases.",

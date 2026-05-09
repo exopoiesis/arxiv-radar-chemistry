@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft — all</h1>
-  <span class="paper-count">3628 papers</span>
+  <span class="paper-count">3627 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -21758,12 +21758,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05724.html">From electrons to phase diagrams with classical and machine learning potentials: automated workflows for materials science with pyiron</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
 <td>Sarath Menon et al.</td>
 <td><a href="http://arxiv.org/abs/2403.05724">2403.05724</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.04604.html">Foundation for the ΔSCF Approach in Density Functional Theory</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
-<td>Weitao Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.04604">2403.04604</a></td>
 </tr>
 <tr class="paper">
 <td>2024-02-20</td>

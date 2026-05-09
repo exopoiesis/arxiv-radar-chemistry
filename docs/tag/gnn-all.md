@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">701 papers</span>
+  <span class="paper-count">698 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,12 +260,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24360.html">Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Ian Störmer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24360">2603.24360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24638.html">How unconstrained machine-learning models learn physical symmetries</a></div></td>
-<td>Michelangelo Domina et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24638">2603.24638</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-25</td>
@@ -3070,12 +3064,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.05169">2409.05169</a></td>
 </tr>
 <tr class="paper">
-<td>2025-01-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13515.html">Observation of a rare beta decay of the charmed baryon with a Graph Neural Network</a></div></td>
-<td>BESIII Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13515">2410.13515</a></td>
-</tr>
-<tr class="paper">
 <td>2025-01-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08729.html">GRAPPA -- A Hybrid Graph Neural Network for Predicting Pure Component Vapor Pressures</a></div></td>
 <td>Marco Hoffmann et al.</td>
@@ -3338,12 +3326,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10720.html">Multi Scale Graph Neural Network for Alzheimer&#x27;s Disease</a></div></td>
 <td>Anya Chauhan et al.</td>
 <td><a href="http://arxiv.org/abs/2411.10720">2411.10720</a></td>
-</tr>
-<tr class="paper">
-<td>2024-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07643.html">xCG: Explainable Cell Graphs for Survival Prediction in Non-Small Cell Lung Cancer</a></div></td>
-<td>Marvin Sextro et al.</td>
-<td><a href="http://arxiv.org/abs/2411.07643">2411.07643</a></td>
 </tr>
 <tr class="paper">
 <td>2024-11-09</td>

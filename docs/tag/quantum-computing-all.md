@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-computing — all</h1>
-  <span class="paper-count">233 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,12 +26,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25610.html">Optimizing ground state preparation protocols with autoresearch</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Luis Mantilla Calderón et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25610">2604.25610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25884.html">QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding</a></div></td>
-<td>Shuxiang Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25884">2604.25884</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-23</td>
@@ -413,12 +407,6 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.09131.html">Artificial Intelligence for Quantum Computing</a></div></td>
-<td>Yuri Alexeev et al.</td>
-<td><a href="http://arxiv.org/abs/2411.09131">2411.09131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13138.html">A Joint Quantum Computing, Neural Network and Embedding Theory Approach for the Derivation of the Universal Functional</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Martin J. Uttendorfer et al.</td>
 <td><a href="http://arxiv.org/abs/2512.13138">2512.13138</a></td>
@@ -518,12 +506,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26688.html">FlowQ-Net: A Generative Framework for Automated Quantum Circuit Design</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
 <td>Jun Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26688">2510.26688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.16714.html">Quantum Transformer: Accelerating model inference via quantum linear algebra</a></div></td>
-<td>Naixu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2402.16714">2402.16714</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-28</td>
@@ -1042,12 +1024,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.04603">2502.04603</a></td>
 </tr>
 <tr class="paper">
-<td>2025-01-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16986.html">Generative quantum combinatorial optimization by means of a novel conditional generative quantum eigensolver</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Shunya Minami et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16986">2501.16986</a></td>
-</tr>
-<tr class="paper">
 <td>2025-01-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08413.html">Lowering the Exponential Wall: Accelerating High-Entropy Alloy Catalysts Screening using Local Surface Energy Descriptors from Neural Network Potentials</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Tomoya Shiota et al.</td>
@@ -1076,12 +1052,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05060.html">Electron-phonon coupling in lattice engineering of lithium niobate single crystal thin films</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Guoqiang Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2501.05060">2501.05060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-01-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02522.html">Quantum Linear System Solvers: A Survey of Algorithms and Applications</a></div></td>
-<td>Mauro E. S. Morales et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02522">2411.02522</a></td>
 </tr>
 <tr class="paper">
 <td>2025-01-07</td>
@@ -1142,12 +1112,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03852.html">Self-consistent Quantum Linear Response with a Polarizable Embedding environment</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Peter Reinholdt et al.</td>
 <td><a href="http://arxiv.org/abs/2411.03852">2411.03852</a></td>
-</tr>
-<tr class="paper">
-<td>2024-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23940.html">Quantum Deep Equilibrium Models</a></div></td>
-<td>Philipp Schleich et al.</td>
-<td><a href="http://arxiv.org/abs/2410.23940">2410.23940</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-17</td>

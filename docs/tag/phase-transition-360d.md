@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">248 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1181,12 +1181,6 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09488.html">Foundation Neural-Networks Quantum States as a Unified Ansatz for Multiple Hamiltonians</a></div></td>
-<td>Riccardo Rende et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09488">2502.09488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04401.html">Why are LLMs&#x27; abilities emergent?</a></div></td>
 <td>Vladimír Havlík</td>
 <td><a href="http://arxiv.org/abs/2508.04401">2508.04401</a></td>
@@ -1484,12 +1478,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17991.html">Efficient local atomic cluster expansion for BaTiO$_3$ close to equilibrium</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Anna Grünebohm et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17991">2505.17991</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02126.html">Unsupervised detection of semantic correlations in big data</a></div></td>
-<td>Santiago Acevedo et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02126">2411.02126</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-19</td>

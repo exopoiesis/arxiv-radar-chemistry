@@ -16,6 +16,30 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04879.html">Catalytic advantage in asymptotic entanglement manipulation</a></div></td>
+<td>Ray Ganardi</td>
+<td><a href="http://arxiv.org/abs/2605.04879">2605.04879</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02065.html">Multiscale computational approaches to magnetic behaviour in Cobalt Ferrite (CoFe$_2$O$_4$) nanostructures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Soham Chandra et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02065">2605.02065</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04102.html">Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Yifan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04102">2605.04102</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00575.html">Plasmon Induced Delocalized Second-Harmonic Generation Towards Buried-Interface Spectroscopy</a></div></td>
+<td>Alan R. Bowman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00575">2605.00575</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25454.html">Thermodynamic surface reconstruction governs catalytic behavior in high-entropy alloys</a></div></td>
 <td>Taegyeong Kim et al.</td>

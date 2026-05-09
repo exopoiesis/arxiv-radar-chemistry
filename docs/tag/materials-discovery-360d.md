@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.02267">2605.02267</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03081.html">Building a physics-aware AI ecosystem for solid-state hydrogen storage materials</a></div></td>
+<td>Seong-Hoon Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03081">2605.03081</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00313.html">Beyond Structure: Revolutionising Materials Discovery via AI-Driven Synthesis Protocol-Property Relationships</a></div></td>
 <td>Guillaume Lambard</td>

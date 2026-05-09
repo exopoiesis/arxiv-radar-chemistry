@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03964.html">Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Eszter Varga-Umbrich et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03964">2605.03964</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19027.html">Neural Operator Representation of Granular Micromechanics-based Failure Envelope</a></div></td>
 <td>Jinkyo Han et al.</td>

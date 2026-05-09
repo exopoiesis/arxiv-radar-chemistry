@@ -16,6 +16,12 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05370.html">SPADE: Faster Drug Discovery by Learning from Sparse Data</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Rahul Nandakumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05370">2605.05370</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21732.html">Tailoring Germanium Heterostructures for Quantum Devices with Machine Learning</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
 <td>Patrick Del Vecchio et al.</td>

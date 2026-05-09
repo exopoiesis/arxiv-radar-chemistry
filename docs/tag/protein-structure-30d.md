@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05829.html">MP2D: Constrained Monte Carlo Tree-Guided Diffusion for Multi-Objective Protein Sequence Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Zitai Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05829">2605.05829</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04762.html">TCRTransBench: A Comprehensive Benchmark for Bidirectional TCR-Peptide Sequence Generation</a></div></td>
+<td>Yiming Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04762">2605.04762</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00948.html">Co-Generative De Novo Functional Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Xinrui Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00948">2605.00948</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02937.html">Proteo-R1: Reasoning Foundation Models for De Novo Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Fang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.02937">2605.02937</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-22</td>

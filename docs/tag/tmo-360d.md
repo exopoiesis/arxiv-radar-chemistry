@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmo — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="tmo-7d.html">7d</a> <a href="tmo-30d.html">30d</a> <a href="tmo-90d.html">90d</a> <strong>360d</strong> <a href="tmo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03526.html">Influence of ligand field and correlation on the electronic structure of NiO and CoO from DFT+DMFT calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Daniel Mutter et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03526">2605.03526</a></td>
+</tr>
 <tr class="paper">
 <td>2026-03-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20635.html">Reducing Self-Interaction Error in Transition-Metal Oxides with Different Exact-Exchange Fractions for Energy and Density</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>

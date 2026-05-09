@@ -16,6 +16,30 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03515.html">Scale-Dependent Input Representation and Confidence Estimation for LLMs in Materials Property Prediction</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Shuichiro Ozawa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03515">2605.03515</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04278.html">Material Database Agent: A Multimodal Agentic Framework for Scientific Literature Mining</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
+<td>Achuth Chandrasekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04278">2605.04278</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03205.html">From Knowledge to Action: Outcomes of the 2025 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry</a></div></td>
+<td>Aritra Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03205">2605.03205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01881.html">Polymorphic crystallites model for monolayer amorphous materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Le-Ye Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01881">2605.01881</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00803.html">Can Coding Agents Reproduce Findings in Computational Materials Science?</a></div></td>
 <td>Ziyang Huang et al.</td>

@@ -71,7 +71,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03394.html">From Enhanced Sampling to Human-Readable Representations of Protein Dynamics</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03394.html">From Enhanced Sampling to Human-Readable Representations of Protein Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a></div></td>
 <td>Souvik Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03394">2605.03394</a></td>
 </tr>
@@ -143,7 +143,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00801.html">Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00801.html">Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate</a></div><div class="paper-tags"><a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Min-Chul Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00801">2605.00801</a></td>
 </tr>

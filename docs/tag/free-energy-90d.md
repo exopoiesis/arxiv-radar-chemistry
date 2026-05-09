@@ -23,7 +23,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03394.html">From Enhanced Sampling to Human-Readable Representations of Protein Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03394.html">From Enhanced Sampling to Human-Readable Representations of Protein Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Souvik Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03394">2605.03394</a></td>
 </tr>

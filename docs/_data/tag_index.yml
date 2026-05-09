@@ -111,6 +111,10 @@
   count: 14
   total: 304
   group: bio
+- name: thermodynamic-integration
+  count: 13
+  total: 219
+  group: methods
 - name: chemical-space
   count: 12
   total: 200
@@ -123,10 +127,6 @@
   count: 12
   total: 263
   group: tasks
-- name: thermodynamic-integration
-  count: 12
-  total: 218
-  group: methods
 - name: multimodal-llm
   count: 11
   total: 109
@@ -163,13 +163,17 @@
   count: 6
   total: 114
   group: tasks
+- name: string-method
+  count: 4
+  total: 38
+  group: methods
 - name: electrocatalysis
   count: 3
   total: 57
   group: domain
-- name: string-method
+- name: enhanced-sampling
   count: 3
-  total: 37
+  total: 82
   group: methods
 - name: tmd
   count: 3
@@ -179,10 +183,6 @@
   count: 2
   total: 32
   group: llm
-- name: enhanced-sampling
-  count: 2
-  total: 81
-  group: methods
 - name: protein-function
   count: 2
   total: 73

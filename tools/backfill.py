@@ -169,7 +169,7 @@ def main():
                     topic_merges += 1
                     touched.add(existing_month)
                 continue
-            relevant = is_chemistry_paper(rec.get("abstract", ""))
+            relevant = has_domain_or_method(rec.get("abstract", ""))
             wl_note = None
             if not relevant:
                 wl_note = is_whitelisted_author(rec.get("authors", []), whitelist)

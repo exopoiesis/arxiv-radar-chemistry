@@ -29,7 +29,7 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04751.html">Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04751.html">Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling</a></div><div class="paper-tags"><a href="string-method-30d.html">string-method</a></div></td>
 <td>Onel L. A. López et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04751">2605.04751</a></td>
 </tr>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">572 papers</span>
+  <span class="paper-count">570 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3434,17 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10505.html">Weighted Active Space Protocol for Multireference Machine-Learned Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Aniruddha Seal et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10505">2505.10505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.13952.html">Considerations in the use of ML interaction potentials for free energy calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Orlando A. Mendible et al.</td>
-<td><a href="http://arxiv.org/abs/2403.13952">2403.13952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09442.html">Probing the Temporal Response of Liquid Water to a THz Pump Pulse Using Machine Learning-Accelerated Non-Equilibrium Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kit Joll et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09442">2505.09442</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,11 +842,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21686.html">Molecular Quantum Transformer</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Yuichi Kamata et al.</td>
 <td><a href="http://arxiv.org/abs/2503.21686">2503.21686</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09441.html">Zassenhaus Expansion in Solving the Schrödinger Equation</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Molena Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09441">2505.09441</a></td>
 </tr>
 </tbody></table>

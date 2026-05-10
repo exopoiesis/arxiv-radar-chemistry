@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>crystal-structure — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <strong>90d</strong> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13312.html">PeroMAS: A Multi-agent System of Perovskite Material Discovery</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Yishu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13312">2602.13312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09673.html">Electron-phonon couplings in polymorphous crystals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Marios Zacharias et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09673">2506.09673</a></td>
 </tr>
 </tbody></table>

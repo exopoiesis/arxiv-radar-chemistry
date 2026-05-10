@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,41 +764,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09230.html">Limitations of MRSF-TDDFT for Applications in Photochemistry</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Jiří Janoš et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09230">2604.09230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05020.html">Comparing fine-tuning strategies of MACE machine learning force field for modeling Li-ion diffusion in LiF for batteries</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Nada Alghamdi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05020">2510.05020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04516.html">Approaching the thermodynamic limit of a bounded one-component plasma</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>D. I. Zhukhovitskii et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04516">2511.04516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11891.html">Transition Metal Dichalcogenide MoS${}_2$: oxygen and fluorine functionalization for selective plasma processing</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Yury Polyachenko et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11891">2601.11891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07979.html">Differentiable hybrid force fields support scalable autonomous electrolyte discovery</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Xintian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07979">2604.07979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08058.html">Machine Learning the order-disorder Jahn-Teller transition in LaMnO$_3$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Lorenzo Celiberti et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08058">2604.08058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08187.html">Bulk versus interface nucleation of CO$_2$ hydrates from computer simulations</a></div></td>
-<td>Joanna Grabowska et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08187">2604.08187</a></td>
 </tr>
 </tbody></table>

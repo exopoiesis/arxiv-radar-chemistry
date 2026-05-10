@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">347 papers</span>
+  <span class="paper-count">344 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2078,23 +2078,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11124.html">Topological Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yujuan Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11124">2505.11124</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.13952.html">Considerations in the use of ML interaction potentials for free energy calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Orlando A. Mendible et al.</td>
-<td><a href="http://arxiv.org/abs/2403.13952">2403.13952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09151.html">Exploration of the potential energy surface for the conformational interconversion of the amyloid $β$ peptide at the fibril end</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Yasuhiro Oishi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09151">2505.09151</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09480.html">Glassy dynamics and a growing structural length scale in supercooled nanoparticles</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Weikai Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09480">2505.09480</a></td>
 </tr>
 </tbody></table>

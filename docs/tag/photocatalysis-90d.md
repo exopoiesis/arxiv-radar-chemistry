@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>photocatalysis — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <a href="photocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="photocatalysis-360d.html">360d</a> <a href="photocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17228.html">Photocatalytic methanol dehydrogenation promoted synergistically by atomically dispersed Pd and clustered Pd</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Zhuyan Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17228">2602.17228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08113.html">Design principles for III-nitride-nanocluster photocatalysts from region-resolved electronic structure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Shuaishuai Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08113">2602.08113</a></td>
 </tr>
 </tbody></table>

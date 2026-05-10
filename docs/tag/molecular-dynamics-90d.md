@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">474 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,29 +2834,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22592.html">Machine-Learned Interatomic Potentials for Structural and Defect Properties of YBa$_2$Cu$_3$O$_{7-δ}$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Niccolò Di Eugenio et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22592">2511.22592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09673.html">Electron-phonon couplings in polymorphous crystals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Marios Zacharias et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09673">2506.09673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10402.html">Roadmap for electronic structure, anharmonicity, and electron-phonon calculations in locally disordered inorganic and hybrid halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Marios Zacharias et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10402">2506.10402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07948.html">dewi-kadita: A Python Library for Idealized Fish Schooling Simulation with Entropy-Based Diagnostics</a></div></td>
-<td>Sandy H. S. Herho et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07948">2602.07948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08089.html">From Connectivity to Rupture: A Coarse-Grained Stochastic Network Dynamics Approach to Polymer Network Mechanics</a></div></td>
-<td>Shaswat Mohanty et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08089">2602.08089</a></td>
 </tr>
 </tbody></table>

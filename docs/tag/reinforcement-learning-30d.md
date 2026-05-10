@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <strong>30d</strong> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02231.html">SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Joseph M. Cavanagh et al.</td>
 <td><a href="http://arxiv.org/abs/2409.02231">2409.02231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07951.html">Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Ryo Suzuki et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07951">2604.07951</a></td>
 </tr>
 </tbody></table>

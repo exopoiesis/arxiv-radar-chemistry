@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">277 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1676,29 +1676,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10959.html">Novel high symmetry super-hard C48 and C32 allotropes with ana and ukc original topologies: Crystal chemistry and DFT investigations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Samir F Matar</td>
 <td><a href="http://arxiv.org/abs/2505.10959">2505.10959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Yu Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09161">2505.09161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09174.html">Quotient Complex Transformer (QCformer) for Perovskite Data Analysis</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Xinyu You et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09174">2505.09174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Xiao-Qi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09362.html">Optoelectronic properties and performance optimization for photovoltaic applications of R3m-RbGeX$_3$ (X = Cl, Br, I) perovskites: A combined DFT and SCAPS-1D study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Piyush Kumar Dash et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09362">2505.09362</a></td>
 </tr>
 </tbody></table>

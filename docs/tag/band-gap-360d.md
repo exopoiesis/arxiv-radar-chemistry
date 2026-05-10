@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">485 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2912,17 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09946.html">Coupling between magnetism and band structure in a 2D semiconductor</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Lihuan Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09946">2505.09946</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09362.html">Optoelectronic properties and performance optimization for photovoltaic applications of R3m-RbGeX$_3$ (X = Cl, Br, I) perovskites: A combined DFT and SCAPS-1D study</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Piyush Kumar Dash et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09362">2505.09362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09717.html">Towards Atomic-Scale Control over Structural Modulations in Quasi-1D Chalcogenides for Colossal Optical Anisotropy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Guodong Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09717">2505.09717</a></td>
 </tr>
 </tbody></table>

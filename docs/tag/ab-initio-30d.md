@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -668,77 +668,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09891.html">How Does Intercalation Reshape Layered Structures? A First-Principles Study of Sodium Insertion in Layered Potassium Birnessite</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Adriana Lee Punaro et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09891">2604.09891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04110.html">Accelerating Discovery of Ternary Chiral Materials via Large-Scale Random Crystal Structure Prediction</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="mlip-30d.html">mlip</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Jiexi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04110">2508.04110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13036.html">Quantum Many-Body Simulations of Catalytic Metal Surfaces</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Changsu Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13036">2508.13036</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11891.html">Transition Metal Dichalcogenide MoS${}_2$: oxygen and fluorine functionalization for selective plasma processing</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Yury Polyachenko et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11891">2601.11891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08265.html">Stochastic many-body perturbation theory for high-order calculations</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Xin Zhen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08265">2602.08265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07340.html">Controlling Projection-Space Artifacts in DFT+U via Projection-Consistent U_{eff}</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Manjula Raman et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07340">2603.07340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02538.html">Temperature-dependent Raman spectra of 2H-MoS2 from Machine Learning-driven statistical sampling</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Samuel Longo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02538">2604.02538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07979.html">Differentiable hybrid force fields support scalable autonomous electrolyte discovery</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Xintian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07979">2604.07979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08058.html">Machine Learning the order-disorder Jahn-Teller transition in LaMnO$_3$</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Lorenzo Celiberti et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08058">2604.08058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08143.html">Equivariant Many-body Message Passing Interatomic Potentials for Magnetic Materials</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Cheuk Hin Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08143">2604.08143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08253.html">High-precision ab initio nuclear theory: Learning to overcome model-space limitations</a></div></td>
-<td>Marco Knöll</td>
-<td><a href="http://arxiv.org/abs/2604.08253">2604.08253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08273.html">Chemistry and ro-vibrational excitation of CH$^+$ in the Planetary Nebula NGC 7027</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Milan Sil et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08273">2604.08273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08695.html">A metallic CrS$_2$ phase bridging the gap between two- and three-dimensional dichalcogenides</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Hicham Moutaabbid et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08695">2604.08695</a></td>
 </tr>
 </tbody></table>

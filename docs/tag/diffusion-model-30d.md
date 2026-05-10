@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07512.html">Rhizome OS-1: Rhizome&#x27;s Semi-Autonomous Operating System for Small Molecule Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Yiwen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07512">2604.07512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09511.html">Spin and orbital-to-charge conversion in noncentrosymmetric materials: Hall versus Rashba-Edelstein effects</a></div></td>
-<td>Diego Garcia Ovalle et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09511">2511.09511</a></td>
 </tr>
 </tbody></table>

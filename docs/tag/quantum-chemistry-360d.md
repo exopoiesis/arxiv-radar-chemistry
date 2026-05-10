@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">391 papers</span>
+  <span class="paper-count">387 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2336,29 +2336,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21686.html">Molecular Quantum Transformer</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Yuichi Kamata et al.</td>
 <td><a href="http://arxiv.org/abs/2503.21686">2503.21686</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02646.html">Diagrammatic Monte Carlo for Finite Systems at Zero Temperature</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Stefano Brolli et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02646">2501.02646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20006.html">Exploiting a Shortcoming of Coupled-Cluster Theory: The Extent of non-Hermiticity as a Diagnostic Indicator of Computational Accuracy</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Kaila E. Weflen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20006">2503.20006</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09441.html">Zassenhaus Expansion in Solving the Schrödinger Equation</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Molena Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09441">2505.09441</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09697.html">Stable Real-Space Invariants and Topology Beyond Symmetry Indicators</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Yoonseok Hwang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09697">2505.09697</a></td>
 </tr>
 </tbody></table>

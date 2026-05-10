@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">248 papers</span>
+  <span class="paper-count">246 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1490,17 +1490,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12698.html">A Deep Learning Potential for Accurate Shock Response Simulations in Tin</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Yixin Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12698">2505.12698</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Yu Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09161">2505.09161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09580.html">Phase Diagram Magnetic Features of Holographic Anisotropic Model for $z^4$-term Heavy Quarks</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Kristina Rannu</td>
-<td><a href="http://arxiv.org/abs/2505.09580">2505.09580</a></td>
 </tr>
 </tbody></table>

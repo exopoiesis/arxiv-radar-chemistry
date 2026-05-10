@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 90d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10190.html">Semiclassical Routes to the $α$-RuCl$_3$ Scattering Continuum via Model Meta$-$Analysis</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Chaebin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10190">2602.10190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07753.html">Sequential versus Manifold Bayesian Optimization under Realistic Experimental Time Constraints</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Boris Slautin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07753">2602.07753</a></td>
 </tr>
 </tbody></table>

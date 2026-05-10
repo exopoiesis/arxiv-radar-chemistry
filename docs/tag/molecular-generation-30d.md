@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-generation — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11483.html">CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Yanting Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11483">2604.11483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00170.html">We Still Don&#x27;t Understand High-Dimensional Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Colin Doumont et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00170">2512.00170</a></td>
 </tr>
 </tbody></table>

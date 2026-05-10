@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>band-gap — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <strong>30d</strong> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,17 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09842.html">Self-compensation by silicon $DX$ centers in ultrawide-bandgap nitrides</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>John L. Lyons et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09842">2604.09842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04110.html">Accelerating Discovery of Ternary Chiral Materials via Large-Scale Random Crystal Structure Prediction</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="mlip-30d.html">mlip</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Jiexi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04110">2508.04110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13995.html">Systematically Improvable Numerical Atomic Orbital Basis Using Contracted Truncated Spherical Waves</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Yike Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13995">2603.13995</a></td>
 </tr>
 </tbody></table>

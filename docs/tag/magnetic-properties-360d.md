@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">389 papers</span>
+  <span class="paper-count">384 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2318,35 +2318,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09946.html">Coupling between magnetism and band structure in a 2D semiconductor</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Lihuan Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09946">2505.09946</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09195.html">Study of magneto-thermal resistance effect in a Co50Fe50/Cu multilayer through the analysis of electron and lattice thermal conductivities</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Fuya Makino et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09195">2505.09195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09362.html">Optoelectronic properties and performance optimization for photovoltaic applications of R3m-RbGeX$_3$ (X = Cl, Br, I) perovskites: A combined DFT and SCAPS-1D study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Piyush Kumar Dash et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09362">2505.09362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09401.html">A unified bonding entropy model to determine magnetic properties in graphene nanoflakes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Chang-Chun He et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09401">2505.09401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09580.html">Phase Diagram Magnetic Features of Holographic Anisotropic Model for $z^4$-term Heavy Quarks</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Kristina Rannu</td>
-<td><a href="http://arxiv.org/abs/2505.09580">2505.09580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09697.html">Stable Real-Space Invariants and Topology Beyond Symmetry Indicators</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Yoonseok Hwang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09697">2505.09697</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -812,17 +812,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10967.html">Exploration of amorphous V$_2$O$_5$ as cathode for magnesium batteries</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Vijay Choyal et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10967">2505.10967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Yu Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09161">2505.09161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09717.html">Towards Atomic-Scale Control over Structural Modulations in Quasi-1D Chalcogenides for Colossal Optical Anisotropy</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Guodong Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09717">2505.09717</a></td>
 </tr>
 </tbody></table>

@@ -1034,7 +1034,9 @@
   ],
   "title": "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors",
   "topics": [
-   "Large Language Models & Materials"
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials",
+   "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-05-02"
  },
@@ -1233,7 +1235,8 @@
   ],
   "title": "Molecular Representations for Large Language Models",
   "topics": [
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-05-03"
  },
@@ -3025,6 +3028,7 @@
   ],
   "title": "Spin Dynamics from Atomistic Quantum Simulations",
   "topics": [
+   "Quantum Chemistry & Force Fields",
    "via:author-whitelist:DFT water, defects"
   ],
   "updated": "2026-05-05"
@@ -4095,6 +4099,7 @@
   ],
   "title": "FunctionalAgent: Towards end-to-end on-top functional design",
   "topics": [
+   "Quantum Chemistry & Force Fields",
    "via:author-whitelist:DFT functionals, transition state"
   ],
   "updated": "2026-05-07"

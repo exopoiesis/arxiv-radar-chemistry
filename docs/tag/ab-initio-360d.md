@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1619 papers</span>
+  <span class="paper-count">1613 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9692,41 +9692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10452.html">Exotic Harmonium Model: Exploring Correlation Effects of Attractive Coulomb Interaction</a></div></td>
 <td>Nahid Sadat Riyahi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10452">2505.10452</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.13952.html">Considerations in the use of ML interaction potentials for free energy calculations</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Orlando A. Mendible et al.</td>
-<td><a href="http://arxiv.org/abs/2403.13952">2403.13952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02646.html">Diagrammatic Monte Carlo for Finite Systems at Zero Temperature</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Stefano Brolli et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02646">2501.02646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09084.html">Polarization switching in sliding ferroelectrics: the roles of fluctuation and domain wall</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ziwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09084">2505.09084</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Yu Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09161">2505.09161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09442.html">Probing the Temporal Response of Liquid Water to a THz Pump Pulse Using Machine Learning-Accelerated Non-Equilibrium Molecular Dynamics</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kit Joll et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09442">2505.09442</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09762.html">Unconventional polaronic ground state in superconducting LiTi$_2$O$_4$</a></div></td>
-<td>Zubia Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09762">2505.09762</a></td>
 </tr>
 </tbody></table>

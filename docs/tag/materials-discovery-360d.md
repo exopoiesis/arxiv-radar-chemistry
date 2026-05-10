@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">263 papers</span>
+  <span class="paper-count">262 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1586,11 +1586,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17866.html">Artificial Intelligence, Scientific Discovery, and Product Innovation</a></div></td>
 <td>Aidan Toner-Rodgers</td>
 <td><a href="http://arxiv.org/abs/2412.17866">2412.17866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09161.html">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Yu Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09161">2505.09161</a></td>
 </tr>
 </tbody></table>

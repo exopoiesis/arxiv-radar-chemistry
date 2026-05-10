@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,23 +128,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04102.html">Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
 <td>Yifan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04102">2605.04102</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01181.html">Grain boundary segregation of light elements and their effects on cohesion in ferritic steels</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Han Lin Mai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01181">2605.01181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01286.html">Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Ibuki Okuda et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01286">2605.01286</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01308.html">Multireference Covariant Density Functional Theory with Stochastic Basis</a></div></td>
-<td>Xin. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01308">2605.01308</a></td>
 </tr>
 </tbody></table>

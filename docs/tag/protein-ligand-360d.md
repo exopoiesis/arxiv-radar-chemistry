@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,17 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09052.html">Llama-Affinity: A Predictive Antibody Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture</a></div></td>
 <td>Delower Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09052">2506.09052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07086.html">Multi-Objective-Guided Discrete Flow Matching for Controllable Biological Sequence Design</a></div></td>
-<td>Tong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07086">2505.07086</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20301.html">Sequence-Only Prediction of Binding Affinity Changes: A Robust and Interpretable Model for Antibody Engineering</a></div></td>
-<td>Chen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20301">2505.20301</a></td>
 </tr>
 </tbody></table>

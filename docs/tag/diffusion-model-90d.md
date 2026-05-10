@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,11 +932,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18472.html">Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Shunqi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18472">2602.18472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08012.html">A Unified Density Operator View of Flow Control and Merging</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Riccardo De Santi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08012">2602.08012</a></td>
 </tr>
 </tbody></table>

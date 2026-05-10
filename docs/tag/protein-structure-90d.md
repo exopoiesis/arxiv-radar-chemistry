@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,17 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02883.html">DISPROTBENCH: Uncovering the Functional Limits of Protein Structure Prediction Models in Intrinsically Disordered Regions</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-function-90d.html">protein-function</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Xinyue Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02883">2507.02883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18435.html">The Quantum Cliff: A Critical Proton Tunneling Threshold Determines Clinical Severity in RPE65-Mediated Retinal Disease</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Biraja Ghoshal et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18435">2601.18435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06020.html">Mechanisms of AI Protein Folding in ESMFold</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Kevin Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06020">2602.06020</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">301 papers</span>
+  <span class="paper-count">299 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1808,17 +1808,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13032.html">MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix</a></div></td>
 <td>Ziyang Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13032">2505.13032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Xiao-Qi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09580.html">Phase Diagram Magnetic Features of Holographic Anisotropic Model for $z^4$-term Heavy Quarks</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Kristina Rannu</td>
-<td><a href="http://arxiv.org/abs/2505.09580">2505.09580</a></td>
 </tr>
 </tbody></table>

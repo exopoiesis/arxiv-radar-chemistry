@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1574 papers</span>
+  <span class="paper-count">1569 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9428,35 +9428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10400.html">Computer simulations show that liquid-liquid phase separation enhances self-assembly</a></div></td>
 <td>Layne B. Frechette et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10400">2505.10400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.13952.html">Considerations in the use of ML interaction potentials for free energy calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Orlando A. Mendible et al.</td>
-<td><a href="http://arxiv.org/abs/2403.13952">2403.13952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09195.html">Study of magneto-thermal resistance effect in a Co50Fe50/Cu multilayer through the analysis of electron and lattice thermal conductivities</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Fuya Makino et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09195">2505.09195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09442.html">Probing the Temporal Response of Liquid Water to a THz Pump Pulse Using Machine Learning-Accelerated Non-Equilibrium Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Kit Joll et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09442">2505.09442</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09480.html">Glassy dynamics and a growing structural length scale in supercooled nanoparticles</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Weikai Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09480">2505.09480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09726.html">Role of structural biaxiality on the phase behaviour of chiral liquid crystals</a></div></td>
-<td>Sayantan Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09726">2505.09726</a></td>
 </tr>
 </tbody></table>

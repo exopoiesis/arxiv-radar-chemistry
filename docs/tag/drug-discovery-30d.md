@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09369.html">Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Simon J. Crouzet</td>
 <td><a href="http://arxiv.org/abs/2604.09369">2604.09369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07669.html">Reinforcement Learning with LLM-Guided Action Spaces for Synthesizable Lead Optimization</a></div></td>
-<td>Tao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07669">2604.07669</a></td>
 </tr>
 </tbody></table>

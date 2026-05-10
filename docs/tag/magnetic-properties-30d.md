@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09794.html">Ferromagnetic interlayer exchange coupling in a few layers of CrSBr on a gold thin film</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Rixt Bosma et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09794">2604.09794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08143.html">Equivariant Many-body Message Passing Interatomic Potentials for Magnetic Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Cheuk Hin Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08143">2604.08143</a></td>
 </tr>
 </tbody></table>

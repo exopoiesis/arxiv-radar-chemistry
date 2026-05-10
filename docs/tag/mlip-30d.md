@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,29 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09084.html">Force Field-Agnostic Phase Classification of Zeolitic Imidazolate Framework Polymorphs</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Emilio Méndez et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09084">2604.09084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04110.html">Accelerating Discovery of Ternary Chiral Materials via Large-Scale Random Crystal Structure Prediction</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Jiexi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04110">2508.04110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05020.html">Comparing fine-tuning strategies of MACE machine learning force field for modeling Li-ion diffusion in LiF for batteries</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Nada Alghamdi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05020">2510.05020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07979.html">Differentiable hybrid force fields support scalable autonomous electrolyte discovery</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Xintian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07979">2604.07979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08058.html">Machine Learning the order-disorder Jahn-Teller transition in LaMnO$_3$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Lorenzo Celiberti et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08058">2604.08058</a></td>
 </tr>
 </tbody></table>

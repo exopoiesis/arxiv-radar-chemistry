@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,23 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10173.html">Continuous PT-Symmetry Breaking as a Design Variable for Giant Altermagnetic Spin Splitting</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Kichan Chun et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10173">2604.10173</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00170.html">We Still Don&#x27;t Understand High-Dimensional Bayesian Optimization</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Colin Doumont et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00170">2512.00170</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08390.html">Closing the Loop in Epitaxy with Machine Learning: Joint Optimization of Growth and Geometry in On-Chip Lasers</a></div></td>
-<td>Mihir R. Athavale et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08390">2604.08390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08744.html">Active Learning for Generalizable Detonation Performance Prediction of Energetic Materials</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>R. Seaton Ullberg et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08744">2604.08744</a></td>
 </tr>
 </tbody></table>

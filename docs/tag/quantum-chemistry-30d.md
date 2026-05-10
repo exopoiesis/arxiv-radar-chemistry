@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,29 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07742.html">Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Joona Pankkonen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07742">2507.07742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03647.html">Optimizing two-qubit gates for ultracold fermions in optical lattices</a></div></td>
-<td>Jan A. P. Reuter et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03647">2512.03647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07704.html">Trotterization with Many-body Coulomb Interactions: Convergence for General Initial Conditions and State-Dependent Improvements</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Di Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07704">2604.07704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07909.html">A Review of Variational Quantum Algorithms: Insights into Fault-Tolerant Quantum Computing</a></div></td>
-<td>Zhirao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07909">2604.07909</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07951.html">Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Ryo Suzuki et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07951">2604.07951</a></td>
 </tr>
 </tbody></table>

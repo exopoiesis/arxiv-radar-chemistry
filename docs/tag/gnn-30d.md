@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,23 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09320.html">Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Siqi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09320">2604.09320</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00773.html">OpenGLT: A Comprehensive Benchmark of Graph Neural Networks for Graph-Level Tasks</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Haoyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2501.00773">2501.00773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07689.html">Symmetry-guided and AI-accelerated design of intercalated transition metal dichalcogenides for antiferromagnetic spintronics</a></div><div class="paper-tags"><a href="tmd-30d.html">tmd</a></div></td>
-<td>Yu Pang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07689">2604.07689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08143.html">Equivariant Many-body Message Passing Interatomic Potentials for Magnetic Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Cheuk Hin Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08143">2604.08143</a></td>
 </tr>
 </tbody></table>

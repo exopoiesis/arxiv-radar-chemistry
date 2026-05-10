@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">456 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2750,35 +2750,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08773.html">Emergent altermagnetism at surfaces of antiferromagnets: full symmetry classification and material identification</a></div></td>
 <td>Colin Lange et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08773">2602.08773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09673.html">Electron-phonon couplings in polymorphous crystals</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Marios Zacharias et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09673">2506.09673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10402.html">Roadmap for electronic structure, anharmonicity, and electron-phonon calculations in locally disordered inorganic and hybrid halide perovskites</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Marios Zacharias et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10402">2506.10402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18435.html">The Quantum Cliff: A Critical Proton Tunneling Threshold Determines Clinical Severity in RPE65-Mediated Retinal Disease</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Biraja Ghoshal et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18435">2601.18435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03509.html">Radial gradient of superionic hydrogen in Earth&#x27;s inner core</a></div></td>
-<td>Zepeng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03509">2602.03509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08113.html">Design principles for III-nitride-nanocluster photocatalysts from region-resolved electronic structure</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Shuaishuai Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08113">2602.08113</a></td>
 </tr>
 </tbody></table>

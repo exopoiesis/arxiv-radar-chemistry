@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,35 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04388.html">Dynamic properties in a collisional model for confined granular fluids. A review</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Ricardo Brito et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04388">2603.04388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13036.html">Quantum Many-Body Simulations of Catalytic Metal Surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Changsu Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13036">2508.13036</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05233.html">Ab initio study of the neutron and Fermi polarons on the lattice</a></div></td>
-<td>Ryan Curry et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05233">2510.05233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04516.html">Approaching the thermodynamic limit of a bounded one-component plasma</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>D. I. Zhukhovitskii et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04516">2511.04516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08265.html">Stochastic many-body perturbation theory for high-order calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Xin Zhen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08265">2602.08265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08273.html">Chemistry and ro-vibrational excitation of CH$^+$ in the Planetary Nebula NGC 7027</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Milan Sil et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08273">2604.08273</a></td>
 </tr>
 </tbody></table>

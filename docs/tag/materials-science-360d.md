@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">441 papers</span>
+  <span class="paper-count">439 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2648,17 +2648,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03080.html">Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model</a></div></td>
 <td>Yanpeng Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2404.03080">2404.03080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09174.html">Quotient Complex Transformer (QCformer) for Perovskite Data Analysis</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Xinyu You et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09174">2505.09174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09203.html">InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Xiao-Qi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09203">2505.09203</a></td>
 </tr>
 </tbody></table>

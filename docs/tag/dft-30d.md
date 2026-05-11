@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07227.html">Physics Aware Representation Learning on Electronic Charge Density for Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Kammampati Sai Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07227">2605.07227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07337.html">Water adsorption on a model silicate surface: wollastonite (100)</a></div></td>
+<td>Luca Lezuo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07337">2605.07337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07437.html">Spin-lattice coupling enables adaptive adsorption in magneticallydriven electrocatalysts</a></div><div class="paper-tags"><a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Arnold Gaje et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07437">2605.07437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07540.html">Noncollinear antiferromagnetic structure and physical properties of CrRhAs with distorted kagome lattice</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Chenglin Shang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07540">2605.07540</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Sreehari M S et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07862.html">Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Tariq Leinen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07862">2605.07862</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05612.html">Tuning charge-transport properties and magnetic order in metallic EuTiO$_{3-δ}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
@@ -56,6 +92,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06545.html">Emergence of a correlated insulating state in bulk 1T-NbSe$_2$ via metal intercalation</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
 <td>M. Tomlinson et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06545">2605.06545</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Maria H. Visscher et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -938,95 +980,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10355.html">Miscibility and Transport Properties in Hydrogen-Neon Mixtures</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Armin Bergermann et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10355">2604.10355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10769.html">Smooth Overlap of Spin Orientations: Machine Learning Exchange Fields for Ab-initio Spin Dynamics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Yuqiang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2403.10769">2403.10769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18468.html">Multiscale simulations guided advances for all-optical phase-change waveguides</a></div></td>
-<td>Hanyi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18468">2603.18468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01017.html">Parameter-Efficient Fine-Tuning of Machine-Learning Interatomic Potentials for Phonon and Thermal Properties</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Jonas Grandel et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01017">2604.01017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02790.html">A Route to Nonrelativistic Altermagnetic Spin Splitting via Ultrafast Light</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Huang-Zhao-Xiang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02790">2604.02790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09010.html">Shape transitions and ground-state properties of tungsten isotopes in covariant density functional theory</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Usuf Rahaman</td>
-<td><a href="http://arxiv.org/abs/2604.09010">2604.09010</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09140.html">Effects of Compression on the Local Iodine Environment in Dipotassium Zinc Tetraiodate(V) Dihydrate K2Zn(IO3)4.2H2O</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Daniel Errandonea et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09140">2604.09140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Sikander Azam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09226">2604.09226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09228.html">Methanimine as a sink in the HCN and HNC solid state hydrogenation network</a></div></td>
-<td>Joan Enrique-Romero et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09228">2604.09228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09230.html">Limitations of MRSF-TDDFT for Applications in Photochemistry</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jiří Janoš et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09230">2604.09230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09287.html">Synthesis mechanism of superheavy element 120: a dinuclear system model approach with microscopic inputs</a></div><div class="paper-tags"><a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09287">2604.09287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09291.html">Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO$_2$(110)</a></div><div class="paper-tags"><a href="photocatalysis-30d.html">photocatalysis</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Manoj Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09291">2604.09291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09794.html">Ferromagnetic interlayer exchange coupling in a few layers of CrSBr on a gold thin film</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Rixt Bosma et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09794">2604.09794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09842.html">Self-compensation by silicon $DX$ centers in ultrawide-bandgap nitrides</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
-<td>John L. Lyons et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09842">2604.09842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09864.html">Structural Motif Selection in Fluorinated Metal-Organic Chalcogenides Driven by Ligand Electrostatics</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a></div></td>
-<td>Md. Saiful Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09864">2604.09864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09891.html">How Does Intercalation Reshape Layered Structures? A First-Principles Study of Sodium Insertion in Layered Potassium Birnessite</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Adriana Lee Punaro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09891">2604.09891</a></td>
 </tr>
 </tbody></table>

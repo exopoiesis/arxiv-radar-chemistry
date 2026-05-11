@@ -28,6 +28,18 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.06658">2605.06658</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
+<td>Justin Sanders et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07030.html">Scalable Active Metamaterials for Shape-Morphing</a></div></td>
+<td>Jipeng Cui et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07030">2605.07030</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04772.html">MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education</a></div></td>
 <td>Miguel Diaz Benito et al.</td>
@@ -194,17 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07773.html">Symmetry-Aware Generative Modeling through Learned Canonicalization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Kusha Sareen et al.</td>
 <td><a href="http://arxiv.org/abs/2501.07773">2501.07773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02781.html">DynFOA: Generating First-Order Ambisonics with Conditional Diffusion for Dynamic and Acoustically Complex 360-Degree Videos</a></div></td>
-<td>Ziyu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02781">2604.02781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07512.html">Rhizome OS-1: Rhizome&#x27;s Semi-Autonomous Operating System for Small Molecule Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Yiwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07512">2604.07512</a></td>
 </tr>
 </tbody></table>

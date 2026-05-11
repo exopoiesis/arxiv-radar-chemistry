@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08055.html">Anisotropic Defect Diffusion in Layered CsPbBr$_\mathrm{x}$I$_\mathrm{3-x}$ Perovskites</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
+<td>Konrad Wilke et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08055">2605.08055</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="mlip-7d.html">mlip</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
@@ -110,17 +116,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02685.html">A Unified microscopic picture of cation and anion migration in MAPbI$_3$</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Viren Tyagi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02685">2605.02685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01863.html">Surface segregation of liquid metal plasma-facing component alloys: A ReaxFF investigation</a></div></td>
-<td>Md Adnan Mahathir Munshi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01863">2605.01863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02101.html">Revisiting the Rheology of Neutron Star Crusts with Molecular Dynamics</a></div></td>
-<td>Matthew E Caplan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02101">2605.02101</a></td>
 </tr>
 </tbody></table>

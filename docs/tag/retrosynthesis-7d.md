@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01822.html">Molecular Representations for Large Language Models</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Nicholas T. Runcie et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01822">2605.01822</a></td>
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07521.html">From Feasible to Practical: Pareto-Optimal Synthesis Planning</a></div></td>
+<td>Friedrich Hastedt et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07521">2605.07521</a></td>
 </tr>
 </tbody></table>

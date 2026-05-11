@@ -40,6 +40,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.06303">2605.06303</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07020.html">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Xinyuan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07020">2605.07020</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04604.html">Generative Quantum-inspired Kolmogorov-Arnold Eigensolver</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Yu-Cheng Lin et al.</td>
@@ -218,11 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10650.html">A Deep Generative Approach to Stratified Learning</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Randy Martinez et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10650">2604.10650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09369.html">Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
-<td>Simon J. Crouzet</td>
-<td><a href="http://arxiv.org/abs/2604.09369">2604.09369</a></td>
 </tr>
 </tbody></table>

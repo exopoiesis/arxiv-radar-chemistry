@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07714.html">Selectivity- and Activity-Aware Catalyst Descriptors for CO$_2$ Hydrogenation on Alloy Nanocatalysts using Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>Prajwal Pisal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07714">2605.07714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08055.html">Anisotropic Defect Diffusion in Layered CsPbBr$_\mathrm{x}$I$_\mathrm{3-x}$ Perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Konrad Wilke et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08055">2605.08055</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Wei-Fan Huang et al.</td>
@@ -3422,17 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00169.html">GEOM-Drugs Revisited: Toward More Chemically Accurate Benchmarks for 3D Molecule Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Filipp Nikitin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00169">2505.00169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05084.html">Thermal boundary conductance in standalone and non-standalone GaN/AlN heterostructures predicted using machine learning interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Hao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05084">2503.05084</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10505.html">Weighted Active Space Protocol for Multireference Machine-Learned Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
-<td>Aniruddha Seal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10505">2505.10505</a></td>
 </tr>
 </tbody></table>

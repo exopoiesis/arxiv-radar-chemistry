@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06303.html">Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces</a></div></td>
 <td>Zakaria Elabid et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06303">2605.06303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07020.html">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
+<td>Xinyuan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07020">2605.07020</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -818,17 +824,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09424.html">Reward-Guided Discrete Diffusion via Clean-Sample Markov Chain for Molecule and Biological Sequence Design</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Prin Phunyaphibarn et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09424">2602.09424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01318.html">AffectGPT-R1: Leveraging Reinforcement Learning for Open-Vocabulary Multimodal Emotion Recognition</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Zheng Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01318">2508.01318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08641.html">Modeling Protein Evolution via Generative Inference From Monte Carlo Chains to Population Genetics</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Leonardo Di Bari et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08641">2602.08641</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>tmd — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <strong>90d</strong> <a href="tmd-360d.html">360d</a> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09938.html">Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Zekun Lou et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09938">2602.09938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08663.html">Enhanced third harmonic response of the PtTe$_2$ transition metal dichalcogenide</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Leone Di Mauro Villari et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08663">2602.08663</a></td>
 </tr>
 </tbody></table>

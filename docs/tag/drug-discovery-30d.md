@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07439.html">CA-DEL: An Open Multi-Target, Multi-Modal Benchmark for Learning from DNA-Encoded Library Screens</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Mutian He et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07439">2605.07439</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Laura van Weesep et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05770">2605.05770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07020.html">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Xinyuan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07020">2605.07020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07048.html">Unlocking High-Fidelity Molecular Generation from Mass Spectra via Dual-Stream Line Graph Diffusion</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Xujun Che et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07048">2605.07048</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -248,29 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11827.html">Inverse Design of Inorganic Compounds with Generative AI</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Hannes Kneiding et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11827">2604.11827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02231.html">SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Joseph M. Cavanagh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02231">2409.02231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07512.html">Rhizome OS-1: Rhizome&#x27;s Semi-Autonomous Operating System for Small Molecule Drug Discovery</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Yiwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07512">2604.07512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09308.html">Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents</a></div></td>
-<td>Maochen Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09308">2604.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09369.html">Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
-<td>Simon J. Crouzet</td>
-<td><a href="http://arxiv.org/abs/2604.09369">2604.09369</a></td>
 </tr>
 </tbody></table>

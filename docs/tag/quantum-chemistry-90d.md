@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,11 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12465.html">Probabilistic Design of Parametrized Quantum Circuits through Local Gate Modifications</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Grier M. Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12465">2602.12465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09020.html">Hybrid Method of Efficient Simulation of Physics Applications for a Quantum Computer</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Carla Rieger et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09020">2602.09020</a></td>
 </tr>
 </tbody></table>

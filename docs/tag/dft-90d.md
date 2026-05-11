@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">618 papers</span>
+  <span class="paper-count">612 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07227.html">Physics Aware Representation Learning on Electronic Charge Density for Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Kammampati Sai Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07227">2605.07227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07337.html">Water adsorption on a model silicate surface: wollastonite (100)</a></div></td>
+<td>Luca Lezuo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07337">2605.07337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07437.html">Spin-lattice coupling enables adaptive adsorption in magneticallydriven electrocatalysts</a></div><div class="paper-tags"><a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Arnold Gaje et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07437">2605.07437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07540.html">Noncollinear antiferromagnetic structure and physical properties of CrRhAs with distorted kagome lattice</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Chenglin Shang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07540">2605.07540</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Sreehari M S et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07862.html">Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Tariq Leinen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07862">2605.07862</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05612.html">Tuning charge-transport properties and magnetic order in metallic EuTiO$_{3-δ}$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
@@ -56,6 +92,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06545.html">Emergence of a correlated insulating state in bulk 1T-NbSe$_2$ via metal intercalation</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
 <td>M. Tomlinson et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06545">2605.06545</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Maria H. Visscher et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -3644,83 +3686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10313.html">Possible Proximity to Ferromagnetism in the V$_2$Ga$_5$ Superconductor</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
 <td>Szymon Królak et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10313">2602.10313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09470.html">Impact of the Center of Mass Fluctuations on the Ground State Properties of Nuclei</a></div></td>
-<td>Matthew Kafker et al.</td>
-<td><a href="http://arxiv.org/abs/2503.09470">2503.09470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14306.html">Machine-learning interatomic potentials achieving CCSD(T) accuracy for systems with extended covalent networks and van der Waals interactions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Yuji Ikeda et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14306">2508.14306</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10307.html">Vibrational frequencies and stark tuning rate with continuum electro-chemical models and grand canonical density functional theory</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Mouyi Weng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10307">2509.10307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18602.html">Defect thermodynamics of orthorhombic Ba$_2$In$_2$O$_5$: First-principles calculations on the role of oxygen dumbbell interstitials</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Rachele Sciotto et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18602">2510.18602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22504.html">Screening novel cathode materials from the Energy-GNoME database using MACE machine learning force field and DFT</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Nada Alghamdi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22504">2511.22504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22592.html">Machine-Learned Interatomic Potentials for Structural and Defect Properties of YBa$_2$Cu$_3$O$_{7-δ}$</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Niccolò Di Eugenio et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22592">2511.22592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11206.html">DFT modelling of stacking faults in hexagonal and cubic GaN</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Zijie Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11206">2601.11206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11388.html">An exciting approach to theoretical spectroscopy</a></div></td>
-<td>Martí Raya-Moreno et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11388">2601.11388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08547.html">Pressure induced electronic band evolution and observation of superconductivity in the Dirac semimetal ZrTe5</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Sanskar Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08547">2602.08547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08663.html">Enhanced third harmonic response of the PtTe$_2$ transition metal dichalcogenide</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Leone Di Mauro Villari et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08663">2602.08663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08900.html">Anisotropy, frustration and saddle point in the twisted Kagome antiferromagnet ErPdPb</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Resham Babu Regmi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08900">2602.08900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08982.html">W-SLDA Toolkit: A simulation platform for ultracold Fermi gases</a></div></td>
-<td>Gabriel Wlazłowski et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08982">2602.08982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09184.html">Adsorption of Water on Pristine Graphene: A van der Waals Density Functional Study with the vdW-C09 Approach</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Aline Oliveira Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09184">2602.09184</a></td>
 </tr>
 </tbody></table>

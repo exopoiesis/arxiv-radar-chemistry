@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">439 papers</span>
+  <span class="paper-count">438 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2642,11 +2642,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03049.html">34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Yoel Zimmermann et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03049">2505.03049</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03080.html">Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model</a></div></td>
-<td>Yanpeng Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03080">2404.03080</a></td>
 </tr>
 </tbody></table>

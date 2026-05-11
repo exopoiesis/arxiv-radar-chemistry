@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">519 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Javad Komijani et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="protein-llm-all.html">protein-llm</a></div></td>
+<td>Justin Sanders et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>

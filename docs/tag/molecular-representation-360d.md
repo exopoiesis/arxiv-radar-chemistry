@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07713.html">High-Q Fano resonance in all-dielectric metasurfaces for molecular fingerprint detection</a></div></td>
+<td>S. Hadi Badri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07713">2605.07713</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01822.html">Molecular Representations for Large Language Models</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Nicholas T. Runcie et al.</td>
@@ -980,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18181.html">2DNMRGym: An Annotated Experimental Dataset for Atom-Level Molecular Representation Learning in 2D NMR via Surrogate Supervision</a></div></td>
 <td>Yunrui Li et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18181">2505.18181</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10120.html">All You Need Is Synthetic Task Augmentation</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Guillaume Godin</td>
-<td><a href="http://arxiv.org/abs/2505.10120">2505.10120</a></td>
 </tr>
 </tbody></table>

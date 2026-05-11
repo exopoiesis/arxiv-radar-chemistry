@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07714.html">Selectivity- and Activity-Aware Catalyst Descriptors for CO$_2$ Hydrogenation on Alloy Nanocatalysts using Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Prajwal Pisal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07714">2605.07714</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04879.html">Catalytic advantage in asymptotic entanglement manipulation</a></div></td>
 <td>Ray Ganardi</td>
@@ -500,11 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02042.html">Catalytic Activation of Bell Nonlocality</a></div></td>
 <td>Jessica Bavaresco et al.</td>
 <td><a href="http://arxiv.org/abs/2504.02042">2504.02042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09184.html">Adsorption of Water on Pristine Graphene: A van der Waals Density Functional Study with the vdW-C09 Approach</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Aline Oliveira Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09184">2602.09184</a></td>
 </tr>
 </tbody></table>

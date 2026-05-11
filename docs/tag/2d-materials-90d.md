@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Sreehari M S et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06545.html">Emergence of a correlated insulating state in bulk 1T-NbSe$_2$ via metal intercalation</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>M. Tomlinson et al.</td>
@@ -938,11 +944,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09938.html">Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="structure-prediction-90d.html">structure-prediction</a> · <a href="tmd-90d.html">tmd</a></div></td>
 <td>Zekun Lou et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09938">2602.09938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09184.html">Adsorption of Water on Pristine Graphene: A van der Waals Density Functional Study with the vdW-C09 Approach</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Aline Oliveira Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09184">2602.09184</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-ligand — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <strong>30d</strong> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07439.html">CA-DEL: An Open Multi-Target, Multi-Modal Benchmark for Learning from DNA-Encoded Library Screens</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Mutian He et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07439">2605.07439</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
+<td>Justin Sanders et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03707.html">AgenticPosesRanker: An Agentic AI Framework for Physically Grounded Ranking of Protein-Ligand Docking Poses</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
@@ -80,23 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11483.html">CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Yanting Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11483">2604.11483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02231.html">SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Joseph M. Cavanagh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02231">2409.02231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07512.html">Rhizome OS-1: Rhizome&#x27;s Semi-Autonomous Operating System for Small Molecule Drug Discovery</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Yiwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07512">2604.07512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09540.html">A Physically-Informed Subgraph Isomorphism Approach to Molecular Docking Using Quantum Annealers</a></div><div class="paper-tags"><a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Francesco Micucci et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09540">2604.09540</a></td>
 </tr>
 </tbody></table>

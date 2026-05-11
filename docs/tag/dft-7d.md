@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07227.html">Physics Aware Representation Learning on Electronic Charge Density for Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
+<td>Kammampati Sai Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07227">2605.07227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07337.html">Water adsorption on a model silicate surface: wollastonite (100)</a></div></td>
+<td>Luca Lezuo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07337">2605.07337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07437.html">Spin-lattice coupling enables adaptive adsorption in magneticallydriven electrocatalysts</a></div><div class="paper-tags"><a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Arnold Gaje et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07437">2605.07437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07540.html">Noncollinear antiferromagnetic structure and physical properties of CrRhAs with distorted kagome lattice</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Chenglin Shang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07540">2605.07540</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Sreehari M S et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07862.html">Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Tariq Leinen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07862">2605.07862</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05612.html">Tuning charge-transport properties and magnetic order in metallic EuTiO$_{3-δ}$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
@@ -56,6 +92,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06545.html">Emergence of a correlated insulating state in bulk 1T-NbSe$_2$ via metal intercalation</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
 <td>M. Tomlinson et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06545">2605.06545</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Maria H. Visscher et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -110,23 +152,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02685.html">A Unified microscopic picture of cation and anion migration in MAPbI$_3$</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Viren Tyagi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02685">2605.02685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02065.html">Multiscale computational approaches to magnetic behaviour in Cobalt Ferrite (CoFe$_2$O$_4$) nanostructures</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Soham Chandra et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02065">2605.02065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02082.html">Ab initio evidence for spin-polarized and soft-mode instabilities in D-type carbon schwarzite C136</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Eugene Yashin</td>
-<td><a href="http://arxiv.org/abs/2605.02082">2605.02082</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04102.html">Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
-<td>Yifan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04102">2605.04102</a></td>
 </tr>
 </tbody></table>

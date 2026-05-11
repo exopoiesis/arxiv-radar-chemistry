@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07437.html">Spin-lattice coupling enables adaptive adsorption in magneticallydriven electrocatalysts</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
+<td>Arnold Gaje et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07437">2605.07437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07862.html">Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Tariq Leinen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07862">2605.07862</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05612.html">Tuning charge-transport properties and magnetic order in metallic EuTiO$_{3-δ}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Xing He et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05612">2605.05612</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Maria H. Visscher et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -158,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12571.html">Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Kacho Imtiyaz Ali Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12571">2604.12571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08845.html">Antitopological magnetic textures in an antiferromagnetically coupled bilayer with frustration</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Lewei Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08845">2604.08845</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09794.html">Ferromagnetic interlayer exchange coupling in a few layers of CrSBr on a gold thin film</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Rixt Bosma et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09794">2604.09794</a></td>
 </tr>
 </tbody></table>

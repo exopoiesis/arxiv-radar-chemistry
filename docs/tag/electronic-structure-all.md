@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">807 papers</span>
+  <span class="paper-count">808 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06489.html">TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Cheng Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06489">2605.06489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td>Maria H. Visscher et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>

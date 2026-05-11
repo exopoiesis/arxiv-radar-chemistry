@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07775.html">POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles</a></div></td>
+<td>Nicolas Menet et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07775">2605.07775</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Laura van Weesep et al.</td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06126.html">AffectGPT-RL: Revealing Roles of Reinforcement Learning in Open-Vocabulary Emotion Recognition</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Zheng Lian et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06126">2605.06126</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07039.html">PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents</a></div></td>
+<td>Minghao Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07039">2605.07039</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -386,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10163.html">Beyond SMILES: Evaluating Agentic Systems for Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-llm-90d.html">protein-llm</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
 <td>Edward Wijaya</td>
 <td><a href="http://arxiv.org/abs/2602.10163">2602.10163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01318.html">AffectGPT-R1: Leveraging Reinforcement Learning for Open-Vocabulary Multimodal Emotion Recognition</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Zheng Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01318">2508.01318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08213.html">DrugR: Optimizing Molecular Drugs through LLM-based Explicit Reasoning</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Haoran Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08213">2602.08213</a></td>
 </tr>
 </tbody></table>

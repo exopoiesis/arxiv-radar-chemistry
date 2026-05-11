@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>chemical-llm — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="chemical-llm-7d.html">7d</a> <strong>30d</strong> <a href="chemical-llm-90d.html">90d</a> <a href="chemical-llm-360d.html">360d</a> <a href="chemical-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21990.html">ChemDFM-R: A Chemical Reasoning LLM Enhanced with Atomized Chemical Knowledge</a></div></td>
 <td>Zihan Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21990">2507.21990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02231.html">SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Joseph M. Cavanagh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02231">2409.02231</a></td>
 </tr>
 </tbody></table>

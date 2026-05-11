@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2105 papers</span>
+  <span class="paper-count">2106 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07227.html">Physics Aware Representation Learning on Electronic Charge Density for Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Kammampati Sai Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07227">2605.07227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07337.html">Water adsorption on a model silicate surface: wollastonite (100)</a></div></td>
+<td>Luca Lezuo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07337">2605.07337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07437.html">Spin-lattice coupling enables adaptive adsorption in magneticallydriven electrocatalysts</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Arnold Gaje et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07437">2605.07437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07540.html">Noncollinear antiferromagnetic structure and physical properties of CrRhAs with distorted kagome lattice</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Chenglin Shang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07540">2605.07540</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Sreehari M S et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07862.html">Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Tariq Leinen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07862">2605.07862</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05612.html">Tuning charge-transport properties and magnetic order in metallic EuTiO$_{3-δ}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
@@ -56,6 +92,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06545.html">Emergence of a correlated insulating state in bulk 1T-NbSe$_2$ via metal intercalation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
 <td>M. Tomlinson et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06545">2605.06545</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Maria H. Visscher et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -12608,41 +12650,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11443.html">Combined Experimental and Computational Analysis of Lithium Diffusion in Isostructural Pair VNb9O25 and VTa9O25</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Manish Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11443">2505.11443</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05084.html">Thermal boundary conductance in standalone and non-standalone GaN/AlN heterostructures predicted using machine learning interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Hao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05084">2503.05084</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09891.html">Complex electronic topography and magnetotransport in an in-plane ferromagnetic kagome metal</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Anup Pradhan Sakhya et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09891">2505.09891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09946.html">Coupling between magnetism and band structure in a 2D semiconductor</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Lihuan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09946">2505.09946</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10127.html">A High Throughput Virtual Screening Approach for Identifying Thermally Activated Delayed Fluorescence-Based Emitters</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Kritam Thapa et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10127">2505.10127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10505.html">Weighted Active Space Protocol for Multireference Machine-Learned Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Aniruddha Seal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10505">2505.10505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10549.html">Computational screening and experimental validation of promising Wadsley-Roth Niobates</a></div></td>
-<td>Zachary J. L. Bare et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10549">2505.10549</a></td>
 </tr>
 </tbody></table>

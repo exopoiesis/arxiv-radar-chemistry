@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Laura van Weesep et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05770">2605.05770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07020.html">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Xinyuan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07020">2605.07020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07048.html">Unlocking High-Fidelity Molecular Generation from Mass Spectra via Dual-Stream Line Graph Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Xujun Che et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07048">2605.07048</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-27</td>
@@ -848,11 +860,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00169.html">GEOM-Drugs Revisited: Toward More Chemically Accurate Benchmarks for 3D Molecule Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Filipp Nikitin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00169">2505.00169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10545.html">Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Amira Alakhdar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10545">2505.10545</a></td>
 </tr>
 </tbody></table>

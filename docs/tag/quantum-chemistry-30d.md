@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10487.html">CovAngelo: A hybrid quantum-classical computing platform for accurate and scalable drug discovery</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Linn Evenseth et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10487">2604.10487</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07742.html">Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Joona Pankkonen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07742">2507.07742</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Sreehari M S et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07927.html">MatterSim-MT: A multi-task foundation model for in silico materials characterization</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="active-learning-90d.html">active-learning</a> · <a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Han Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07927">2605.07927</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05746.html">Polarizable atomic multipoles for learning long-range electrostatics</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -626,11 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24095.html">Protocellular energetics: Free energy estimates for all metabolic, self-assembly and vesicle fission processes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Steen Rasmussen et al.</td>
 <td><a href="http://arxiv.org/abs/2512.24095">2512.24095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10307.html">Vibrational frequencies and stark tuning rate with continuum electro-chemical models and grand canonical density functional theory</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Mouyi Weng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10307">2509.10307</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">456 papers</span>
+  <span class="paper-count">455 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07440.html">On the single-Hessian Gaussian wavepacket dynamics</a></div></td>
+<td>Davide Barbiero et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07440">2605.07440</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07927.html">MatterSim-MT: A multi-task foundation model for in silico materials characterization</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Han Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07927">2605.07927</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
@@ -50,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06489.html">TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Cheng Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06489">2605.06489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06926.html">Many-body theory predictions of positron binding energies in five-membered heterocycles involving N, O, S and NH substituents</a></div></td>
+<td>S. K. Gregg et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06926">2605.06926</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -2726,29 +2744,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10034.html">Multiscale Modeling of Metal/Oxide/Metal Conductive Bridging Random Access Memory Cells: from Ab Initio to Finite Element Calculations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jan Aeschlimann et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10034">2602.10034</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08711.html">Two-body currents at finite momentum transfer and applications to M1 transitions</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>C. Brase et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08711">2504.08711</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14306.html">Machine-learning interatomic potentials achieving CCSD(T) accuracy for systems with extended covalent networks and van der Waals interactions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Yuji Ikeda et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14306">2508.14306</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08455.html">First Extraction of the Matter Radius of $^{132}$Sn via Proton Elastic Scattering at 200 MeV/Nucleon</a></div></td>
-<td>Y. Hijikata et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08455">2602.08455</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08773.html">Emergent altermagnetism at surfaces of antiferromagnets: full symmetry classification and material identification</a></div></td>
-<td>Colin Lange et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08773">2602.08773</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">397 papers</span>
+  <span class="paper-count">398 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07156.html">Hierarchical Perfusion Graphs for Tumor Heterogeneity Modeling in Glioma Molecular Subtyping</a></div></td>
+<td>Han Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07156">2605.07156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07838.html">PPI-Net connects molecular protein interactions to functional processes in disease</a></div></td>
+<td>Kyle Higgins et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07838">2605.07838</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06814.html">From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning</a></div></td>
+<td>Debolina Halder Lina et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06814">2605.06814</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04376.html">GraphPI: Efficient Protein Inference with Graph Neural Networks</a></div></td>
@@ -2384,17 +2402,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07972.html">Learning Equivariant Non-Local Electron Density Functionals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Nicholas Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2410.07972">2410.07972</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10711.html">GNN-Suite: a Graph Neural Network Benchmarking Framework for Biomedical Informatics</a></div></td>
-<td>Sebestyén Kamp et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10711">2505.10711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00009.html">MolTextNet: A Two-Million Molecule-Text Dataset for Multimodal Molecular Learning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Yihan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00009">2506.00009</a></td>
 </tr>
 </tbody></table>

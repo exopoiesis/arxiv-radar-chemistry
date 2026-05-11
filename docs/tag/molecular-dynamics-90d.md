@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">469 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08055.html">Anisotropic Defect Diffusion in Layered CsPbBr$_\mathrm{x}$I$_\mathrm{3-x}$ Perovskites</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Konrad Wilke et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08055">2605.08055</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
@@ -2822,17 +2828,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10064.html">PySlice: Routine Vibrational Electron Energy Loss Spectroscopy Prediction with Universal Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Harrison A. Walker et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10064">2602.10064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21663.html">Reducing Weighted Ensemble Variance With Optimal Trajectory Management</a></div></td>
-<td>Won Hee Ryu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21663">2504.21663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22592.html">Machine-Learned Interatomic Potentials for Structural and Defect Properties of YBa$_2$Cu$_3$O$_{7-δ}$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Niccolò Di Eugenio et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22592">2511.22592</a></td>
 </tr>
 </tbody></table>

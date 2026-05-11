@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07713.html">High-Q Fano resonance in all-dielectric metasurfaces for molecular fingerprint detection</a></div></td>
+<td>S. Hadi Badri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07713">2605.07713</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01822.html">Molecular Representations for Large Language Models</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
 <td>Nicholas T. Runcie et al.</td>
@@ -266,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16507.html">Small molecule retrieval from tandem mass spectrometry: what are we optimizing for?</a></div></td>
 <td>Gaetan De Waele et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16507">2602.16507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15792.html">Deep Learning Foundation Models from Classical Molecular Descriptors</a></div></td>
-<td>Jackson W. Burns et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15792">2506.15792</a></td>
 </tr>
 </tbody></table>

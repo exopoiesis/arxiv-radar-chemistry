@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08055.html">Anisotropic Defect Diffusion in Layered CsPbBr$_\mathrm{x}$I$_\mathrm{3-x}$ Perovskites</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Konrad Wilke et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08055">2605.08055</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
@@ -734,35 +740,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10355.html">Miscibility and Transport Properties in Hydrogen-Neon Mixtures</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Armin Bergermann et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10355">2604.10355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23875.html">Thermodynamic effects of solid electrolyte interphase formation from solvation and ionic association in water-in-salt electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
-<td>Daniel M. Markiewitz et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23875">2602.23875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04388.html">Dynamic properties in a collisional model for confined granular fluids. A review</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Ricardo Brito et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04388">2603.04388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08128.html">Crossing Seam Blockade</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Ruoxi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08128">2604.08128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09084.html">Force Field-Agnostic Phase Classification of Zeolitic Imidazolate Framework Polymorphs</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Emilio Méndez et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09084">2604.09084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09230.html">Limitations of MRSF-TDDFT for Applications in Photochemistry</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Jiří Janoš et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09230">2604.09230</a></td>
 </tr>
 </tbody></table>

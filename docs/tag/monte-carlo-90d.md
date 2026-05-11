@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
+<td>Justin Sanders et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04751.html">Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling</a></div><div class="paper-tags"><a href="string-method-90d.html">string-method</a></div></td>
 <td>Onel L. A. López et al.</td>
@@ -608,11 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11006.html">Noise-balanced multilevel on-the-fly sparse grid surrogates for coupling Monte Carlo models into continuum models with application to heterogeneous catalysis</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Tobias Hülser et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11006">2602.11006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08641.html">Modeling Protein Evolution via Generative Inference From Monte Carlo Chains to Population Genetics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Leonardo Di Bari et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08641">2602.08641</a></td>
 </tr>
 </tbody></table>

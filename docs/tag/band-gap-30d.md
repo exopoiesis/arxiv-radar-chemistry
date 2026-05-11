@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>band-gap — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <strong>30d</strong> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,23 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10157.html">Accelerated Dopant Screening in Oxide Semiconductors via Multi-Fidelity Contextual Bandits and a Three-Tier DFT Validation Funnel</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
 <td>Abhinaba Basu</td>
 <td><a href="http://arxiv.org/abs/2604.10157">2604.10157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Sikander Azam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09226">2604.09226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09794.html">Ferromagnetic interlayer exchange coupling in a few layers of CrSBr on a gold thin film</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Rixt Bosma et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09794">2604.09794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09842.html">Self-compensation by silicon $DX$ centers in ultrawide-bandgap nitrides</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>John L. Lyons et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09842">2604.09842</a></td>
 </tr>
 </tbody></table>

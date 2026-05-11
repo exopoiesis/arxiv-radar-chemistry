@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-function — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <strong>30d</strong> <a href="protein-function-90d.html">90d</a> <a href="protein-function-360d.html">360d</a> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06830.html">ProtSent: Protein Sentence Transformers</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Dan Ofer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06830">2605.06830</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19936.html">Guiding Peptide Kinetics via Collective-Variable Tuning of Free-Energy Barriers</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>

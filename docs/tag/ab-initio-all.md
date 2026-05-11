@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">2715 papers</span>
+  <span class="paper-count">2718 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07440.html">On the single-Hessian Gaussian wavepacket dynamics</a></div></td>
+<td>Davide Barbiero et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07440">2605.07440</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07927.html">MatterSim-MT: A multi-task foundation model for in silico materials characterization</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>Han Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07927">2605.07927</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
@@ -50,6 +62,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06489.html">TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="excited-states-all.html">excited-states</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Cheng Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06489">2605.06489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06926.html">Many-body theory predictions of positron binding energies in five-membered heterocycles involving N, O, S and NH substituents</a></div></td>
+<td>S. K. Gregg et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06926">2605.06926</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>

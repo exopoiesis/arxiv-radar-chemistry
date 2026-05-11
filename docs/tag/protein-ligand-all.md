@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">304 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07439.html">CA-DEL: An Open Multi-Target, Multi-Modal Benchmark for Learning from DNA-Encoded Library Screens</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Mutian He et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07439">2605.07439</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="protein-llm-all.html">protein-llm</a></div></td>
+<td>Justin Sanders et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03707.html">AgenticPosesRanker: An Agentic AI Framework for Physically Grounded Ranking of Protein-Ligand Docking Poses</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>

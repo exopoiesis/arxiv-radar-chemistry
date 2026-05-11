@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
+<td>Justin Sanders et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04751.html">Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling</a></div><div class="paper-tags"><a href="string-method-30d.html">string-method</a></div></td>
 <td>Onel L. A. López et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10489.html">The effect of grain boundaries on magnetic exchange interactions in iron</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Martin Zelený et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10489">2604.10489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04388.html">Dynamic properties in a collisional model for confined granular fluids. A review</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ricardo Brito et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04388">2603.04388</a></td>
 </tr>
 </tbody></table>

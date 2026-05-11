@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07439.html">CA-DEL: An Open Multi-Target, Multi-Modal Benchmark for Learning from DNA-Encoded Library Screens</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Mutian He et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07439">2605.07439</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Laura van Weesep et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05770">2605.05770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07020.html">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Xinyuan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07020">2605.07020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07048.html">Unlocking High-Fidelity Molecular Generation from Mass Spectra via Dual-Stream Line Graph Diffusion</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Xujun Che et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07048">2605.07048</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -3524,23 +3542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17656.html">NaFM: Pre-training a Foundation Model for Small-Molecule Natural Products</a></div></td>
 <td>Yuheng Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17656">2503.17656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10127.html">A High Throughput Virtual Screening Approach for Identifying Thermally Activated Delayed Fluorescence-Based Emitters</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Kritam Thapa et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10127">2505.10127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10545.html">Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Amira Alakhdar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10545">2505.10545</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00009.html">MolTextNet: A Two-Million Molecule-Text Dataset for Multimodal Molecular Learning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Yihan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00009">2506.00009</a></td>
 </tr>
 </tbody></table>

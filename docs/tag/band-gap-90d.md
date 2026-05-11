@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,23 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10313.html">Possible Proximity to Ferromagnetism in the V$_2$Ga$_5$ Superconductor</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Szymon Królak et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10313">2602.10313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18602.html">Defect thermodynamics of orthorhombic Ba$_2$In$_2$O$_5$: First-principles calculations on the role of oxygen dumbbell interstitials</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Rachele Sciotto et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18602">2510.18602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08547.html">Pressure induced electronic band evolution and observation of superconductivity in the Dirac semimetal ZrTe5</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Sanskar Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08547">2602.08547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08663.html">Enhanced third harmonic response of the PtTe$_2$ transition metal dichalcogenide</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Leone Di Mauro Villari et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08663">2602.08663</a></td>
 </tr>
 </tbody></table>

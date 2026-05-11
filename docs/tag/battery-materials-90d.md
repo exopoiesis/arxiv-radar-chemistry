@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>battery-materials — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <strong>90d</strong> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07927.html">MatterSim-MT: A multi-task foundation model for in silico materials characterization</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="active-learning-90d.html">active-learning</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Han Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07927">2605.07927</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
@@ -344,23 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10600.html">Interplay of ion availability and mobility in the loss of cation selectivity for CaCl\textsubscript{2} in negatively charged nanopores: molecular dynamics using scaled-charge models</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Salman Shabbir et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10600">2602.10600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10307.html">Vibrational frequencies and stark tuning rate with continuum electro-chemical models and grand canonical density functional theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Mouyi Weng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10307">2509.10307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18602.html">Defect thermodynamics of orthorhombic Ba$_2$In$_2$O$_5$: First-principles calculations on the role of oxygen dumbbell interstitials</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Rachele Sciotto et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18602">2510.18602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22504.html">Screening novel cathode materials from the Energy-GNoME database using MACE machine learning force field and DFT</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Nada Alghamdi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22504">2511.22504</a></td>
 </tr>
 </tbody></table>

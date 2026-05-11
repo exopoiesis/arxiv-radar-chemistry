@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1613 papers</span>
+  <span class="paper-count">1614 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07440.html">On the single-Hessian Gaussian wavepacket dynamics</a></div></td>
+<td>Davide Barbiero et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07440">2605.07440</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07927.html">MatterSim-MT: A multi-task foundation model for in silico materials characterization</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Han Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07927">2605.07927</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
@@ -50,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06489.html">TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Cheng Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06489">2605.06489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06926.html">Many-body theory predictions of positron binding energies in five-membered heterocycles involving N, O, S and NH substituents</a></div></td>
+<td>S. K. Gregg et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06926">2605.06926</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -9680,17 +9698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11319.html">Time-dependent Hole States in Multiconfigurational Time-Dependent Hartree-Fock Approaches: Applications in Photoionization of Water Molecule</a></div></td>
 <td>Zhao-Han Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11319">2505.11319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.14920.html">Inversion of Dislocation-Impurity Interactions in $α$-Fe under Magnetic State Changes</a></div></td>
-<td>Franco Moitzi et al.</td>
-<td><a href="http://arxiv.org/abs/2412.14920">2412.14920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10452.html">Exotic Harmonium Model: Exploring Correlation Effects of Attractive Coulomb Interaction</a></div></td>
-<td>Nahid Sadat Riyahi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10452">2505.10452</a></td>
 </tr>
 </tbody></table>

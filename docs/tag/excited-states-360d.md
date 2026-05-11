@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">222 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1340,11 +1340,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13415.html">Optical signatures of bulk g-wave altermagnetism in MnTe</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Luca Haag et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13415">2505.13415</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10127.html">A High Throughput Virtual Screening Approach for Identifying Thermally Activated Delayed Fluorescence-Based Emitters</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Kritam Thapa et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10127">2505.10127</a></td>
 </tr>
 </tbody></table>

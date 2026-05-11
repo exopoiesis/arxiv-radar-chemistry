@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <strong>30d</strong> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07775.html">POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles</a></div></td>
+<td>Nicolas Menet et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07775">2605.07775</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06126.html">AffectGPT-RL: Revealing Roles of Reinforcement Learning in Open-Vocabulary Emotion Recognition</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Zheng Lian et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06126">2605.06126</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07039.html">PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents</a></div></td>
+<td>Minghao Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07039">2605.07039</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -116,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07286.html">Evolutionary Profiles for Protein Fitness Prediction</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Jigang Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07286">2510.07286</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02231.html">SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Joseph M. Cavanagh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02231">2409.02231</a></td>
 </tr>
 </tbody></table>

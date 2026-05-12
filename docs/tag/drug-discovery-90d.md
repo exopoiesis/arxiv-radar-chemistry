@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,35 +896,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02346.html">DrugPlayGround: Benchmarking Large Language Models and Embeddings for Drug Discovery</a></div></td>
 <td>Tianyu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02346">2604.02346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16821.html">General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Yue Jian et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16821">2406.16821</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13981.html">Decomposed Direct Preference Optimization for Structure-Based Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Xiwei Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13981">2407.13981</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02883.html">DISPROTBENCH: Uncovering the Functional Limits of Protein Structure Prediction Models in Intrinsically Disordered Regions</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Xinyue Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02883">2507.02883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10163.html">Beyond SMILES: Evaluating Agentic Systems for Drug Discovery</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Edward Wijaya</td>
-<td><a href="http://arxiv.org/abs/2602.10163">2602.10163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02215.html">RxnNano:Training Compact LLMs for Chemical Reaction and Retrosynthesis Prediction via Hierarchical Curriculum Learning</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Ran Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02215">2603.02215</a></td>
 </tr>
 </tbody></table>

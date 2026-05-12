@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,29 +590,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10879.html">Staggered Dzyaloshinskii-Moriya and canting angle in centrosymmetric altermagnetic and ferromagnetic phases: influence on the anomalous Hall effect and Weyl points</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Mathews Benny et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10879">2602.10879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09938.html">Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Zekun Lou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09938">2602.09938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10002.html">Emergence of a Luttinger Liquid Phase in an Array of Chiral Molecules</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Muhammad Arsalan Ali Akbar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10002">2602.10002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10190.html">Semiclassical Routes to the $α$-RuCl$_3$ Scattering Continuum via Model Meta$-$Analysis</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Chaebin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10190">2602.10190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10281.html">Atomically-sharp magnetic soliton in the square-net lattice EuRhAl$_{4}$Si$_{2}$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Kevin Allen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10281">2602.10281</a></td>
 </tr>
 </tbody></table>

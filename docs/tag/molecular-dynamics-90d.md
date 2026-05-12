@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2792,41 +2792,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13337.html">StrAPS: Structural Angular Power Spectrum for Discovering Novel Morphologies in Block Copolymers</a></div></td>
 <td>Dominic M. Robe et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13337">2602.13337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18171.html">Computing solvation free energies of small molecules with experimental accuracy</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>J. Harry Moore et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18171">2405.18171</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15485.html">Polymer translocation through extended patterned pores in two dimensions: scaling of the total translocation time</a></div></td>
-<td>Andri Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15485">2508.15485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24328.html">From Disorder to Function: Entropy-Engineered Broadband Photonics with Ion-Transport-Stabilized Spectral Fidelity</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Yuxiang Xin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.24328">2512.24328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09688.html">High Photovoltaic Efficiency in Bulk-Stacked One-Dimensional GeSe$_{2}$ van der Waals Crystal</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Seoung-Hun Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09688">2602.09688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10034.html">Multiscale Modeling of Metal/Oxide/Metal Conductive Bridging Random Access Memory Cells: from Ab Initio to Finite Element Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Jan Aeschlimann et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10034">2602.10034</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10064.html">PySlice: Routine Vibrational Electron Energy Loss Spectroscopy Prediction with Universal Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Harrison A. Walker et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10064">2602.10064</a></td>
 </tr>
 </tbody></table>

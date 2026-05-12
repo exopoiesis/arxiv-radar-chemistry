@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2106 papers</span>
+  <span class="paper-count">2096 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12590,65 +12590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12140.html">Efficient and Accurate Machine Learning Interatomic Potential for Graphene: Capturing Stress-Strain and Vibrational Properties</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Felipe Hawthorne et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12140">2505.12140</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08077.html">Large anomalous Hall conductivity in Weyl ferrimagnet Cs$_{2}$Co$_{3}$S$_4$ predicted by density-functional calculations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Gang Bahadur Acharya et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08077">2407.08077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07972.html">Learning Equivariant Non-Local Electron Density Functionals</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Nicholas Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2410.07972">2410.07972</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10385.html">Field-induced spin liquid in the decorated square-kagome antiferromagnet nabokoite KCu$_7$TeO$_4$(SO$_4$)$_5$Cl</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Matías G. Gonzalez et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10385">2410.10385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14800.html">Discovery of transient topological crystalline order in optically driven SnSe</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Masataka Mogi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14800">2502.14800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10817.html">Observation of unexpected band splitting and magnetically-induced band structure reconstruction in TbTi$_3$Bi$_4$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Yevhen Kushnirenko et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10817">2505.10817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10904.html">Effects of Coupling Between Chiral Vibrations and Spins in Molecular Magnets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Aman Ullah et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10904">2505.10904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10959.html">Novel high symmetry super-hard C48 and C32 allotropes with ana and ukc original topologies: Crystal chemistry and DFT investigations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Samir F Matar</td>
-<td><a href="http://arxiv.org/abs/2505.10959">2505.10959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10972.html">Inelastic tunneling into multipolaronic bound states in single-layer MoS$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Camiel van Efferen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10972">2505.10972</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11101.html">Nonlocal dielectric properties of water: the role of electronic delocalisation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Darka Labavić et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11101">2505.11101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11443.html">Combined Experimental and Computational Analysis of Lithium Diffusion in Isostructural Pair VNb9O25 and VTa9O25</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Manish Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11443">2505.11443</a></td>
 </tr>
 </tbody></table>

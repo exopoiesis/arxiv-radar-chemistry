@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,41 +890,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02128.html">Scalable Spatio-Temporal SE(3) Diffusion for Long-Horizon Protein Dynamics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
 <td>Nima Shoghi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02128">2602.02128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16821.html">General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Yue Jian et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16821">2406.16821</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13981.html">Decomposed Direct Preference Optimization for Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Xiwei Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13981">2407.13981</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04468.html">Iterative Importance Fine-tuning of Diffusion Models</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Alexander Denker et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04468">2502.04468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01859.html">Bayesian Parameter Estimation for Predictive Modeling of Illumination-Dependent Current-Voltage Curves</a></div></td>
-<td>Eunchi Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01859">2602.01859</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09424.html">Reward-Guided Discrete Diffusion via Clean-Sample Markov Chain for Molecule and Biological Sequence Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Prin Phunyaphibarn et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09424">2602.09424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09534.html">AUHead: Realistic Emotional Talking Head Generation via Action Units Control</a></div></td>
-<td>Jiayi Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09534">2602.09534</a></td>
 </tr>
 </tbody></table>

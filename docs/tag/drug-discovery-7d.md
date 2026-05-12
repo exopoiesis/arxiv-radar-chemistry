@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04265.html">Benchmarking open-source tools for in silico antiviral drug discovery</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a></div></td>
 <td>Daniel C. Elton et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04265">2605.04265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02657.html">CARD: Coarse-to-fine Autoregressive Modeling with Radix-based Decomposition for Transferable Free Energy Estimation</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Ziyang Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02657">2605.02657</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02780.html">Fine-Grained Graph Generation through Latent Mixture Scheduling</a></div></td>
-<td>Nidhi Vakil et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02780">2605.02780</a></td>
 </tr>
 </tbody></table>

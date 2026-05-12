@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">477 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2876,35 +2876,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13415.html">Optical signatures of bulk g-wave altermagnetism in MnTe</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Luca Haag et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13415">2505.13415</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08077.html">Large anomalous Hall conductivity in Weyl ferrimagnet Cs$_{2}$Co$_{3}$S$_4$ predicted by density-functional calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Gang Bahadur Acharya et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08077">2407.08077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14800.html">Discovery of transient topological crystalline order in optically driven SnSe</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Masataka Mogi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14800">2502.14800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10817.html">Observation of unexpected band splitting and magnetically-induced band structure reconstruction in TbTi$_3$Bi$_4$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Yevhen Kushnirenko et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10817">2505.10817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10959.html">Novel high symmetry super-hard C48 and C32 allotropes with ana and ukc original topologies: Crystal chemistry and DFT investigations</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Samir F Matar</td>
-<td><a href="http://arxiv.org/abs/2505.10959">2505.10959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10972.html">Inelastic tunneling into multipolaronic bound states in single-layer MoS$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Camiel van Efferen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10972">2505.10972</a></td>
 </tr>
 </tbody></table>

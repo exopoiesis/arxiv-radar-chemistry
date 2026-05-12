@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">314 papers</span>
+  <span class="paper-count">312 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1886,17 +1886,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16021.html">Auxiliary Field Quantum Monte Carlo for Electron-Photon Correlation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Braden M. Weight et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16021">2505.16021</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10385.html">Field-induced spin liquid in the decorated square-kagome antiferromagnet nabokoite KCu$_7$TeO$_4$(SO$_4$)$_5$Cl</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Matías G. Gonzalez et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10385">2410.10385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11150.html">Second roton feature in the strongly coupled electron liquid</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Thomas M. Chuna et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11150">2505.11150</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,17 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10630.html">Electrochemical stability and lithium insertion at the Li|Li3OCl solid electrolyte interface</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Deobrat Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10630">2604.10630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24093.html">Tunable Carrier Dynamics in Carbide Antiperovskites via A-Site Cation Substitution</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Sanchi Monga et al.</td>
-<td><a href="http://arxiv.org/abs/2512.24093">2512.24093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11827.html">Inverse Design of Inorganic Compounds with Generative AI</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Hannes Kneiding et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11827">2604.11827</a></td>
 </tr>
 </tbody></table>

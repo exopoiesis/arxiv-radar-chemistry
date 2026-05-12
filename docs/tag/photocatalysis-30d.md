@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>photocatalysis — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <strong>30d</strong> <a href="photocatalysis-90d.html">90d</a> <a href="photocatalysis-360d.html">360d</a> <a href="photocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14831.html">Discovering structural, electronic and excitonic properties of bulk, nanostructured and doped C3N4 in diamond- and graphitic-like phases</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Da Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14831">2604.14831</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10157.html">Accelerated Dopant Screening in Oxide Semiconductors via Multi-Fidelity Contextual Bandits and a Three-Tier DFT Validation Funnel</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Abhinaba Basu</td>
-<td><a href="http://arxiv.org/abs/2604.10157">2604.10157</a></td>
 </tr>
 </tbody></table>

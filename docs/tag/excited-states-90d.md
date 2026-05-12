@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09625.html">Macroscopic Spin-Orbit Interaction through Strong-Field Pumping of Inhomogeneously Aligned Molecular Ensemble</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Uriel Zanzuri et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09625">2602.09625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09440.html">Three-dimensional real-space electron dynamics in graphene driven by strong laser fields</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>S. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09440">2602.09440</a></td>
 </tr>
 </tbody></table>

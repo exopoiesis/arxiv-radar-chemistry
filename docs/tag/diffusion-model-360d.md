@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">459 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2768,17 +2768,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08006.html">Greed is Good: A Unifying Perspective on Guided Generation</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Zander W. Blasingame et al.</td>
 <td><a href="http://arxiv.org/abs/2502.08006">2502.08006</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01917.html">Discrete Spatial Diffusion: Intensity-Preserving Diffusion Modeling</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Javier E. Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01917">2505.01917</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11278.html">A Fourier Space Perspective on Diffusion Models</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Fabian Falck et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11278">2505.11278</a></td>
 </tr>
 </tbody></table>

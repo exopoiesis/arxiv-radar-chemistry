@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,17 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12055.html">Prediction of Novel CXCR7 Inhibitors Using QSAR Modeling and Validation via Molecular Docking</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Belaguppa Manjunath Ashwin Desai et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12055">2505.12055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11185.html">VitaGraph: Building a Knowledge Graph for Biologically Relevant Learning Tasks</a></div></td>
-<td>Francesco Madeddu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11185">2505.11185</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18181.html">2DNMRGym: An Annotated Experimental Dataset for Atom-Level Molecular Representation Learning in 2D NMR via Surrogate Supervision</a></div></td>
-<td>Yunrui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18181">2505.18181</a></td>
 </tr>
 </tbody></table>

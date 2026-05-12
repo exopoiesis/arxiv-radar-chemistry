@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,29 +920,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11050.html">Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Anant Vaishnav et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11050">2602.11050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09361.html">Interplay of Quantum Size Effect and Tensile Strain on Surface Morphology of Sn(100) Islands</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Bing Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09361">2602.09361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09440.html">Three-dimensional real-space electron dynamics in graphene driven by strong laser fields</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>S. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09440">2602.09440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09858.html">Refined DFT recipe and renormalisation of band-edge parameters for electrons in monolayer MoS$_2$ informed by the measured spin-orbit splitting</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Igor Rozhansky et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09858">2602.09858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09938.html">Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="structure-prediction-90d.html">structure-prediction</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Zekun Lou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09938">2602.09938</a></td>
 </tr>
 </tbody></table>

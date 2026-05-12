@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1614 papers</span>
+  <span class="paper-count">1608 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9662,41 +9662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12152.html">Inclusion of sulfur chemistry in a validated C/H/O/N chemical network: identification of key C/S coupling pathways</a></div></td>
 <td>R. Veillet et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12152">2505.12152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10904.html">Effects of Coupling Between Chiral Vibrations and Spins in Molecular Magnets</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Aman Ullah et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10904">2505.10904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10967.html">Exploration of amorphous V$_2$O$_5$ as cathode for magnesium batteries</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Vijay Choyal et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10967">2505.10967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10972.html">Inelastic tunneling into multipolaronic bound states in single-layer MoS$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Camiel van Efferen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10972">2505.10972</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11101.html">Nonlocal dielectric properties of water: the role of electronic delocalisation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Darka Labavić et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11101">2505.11101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11150.html">Second roton feature in the strongly coupled electron liquid</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Thomas M. Chuna et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11150">2505.11150</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11319.html">Time-dependent Hole States in Multiconfigurational Time-Dependent Hartree-Fock Approaches: Applications in Photoionization of Water Molecule</a></div></td>
-<td>Zhao-Han Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11319">2505.11319</a></td>
 </tr>
 </tbody></table>

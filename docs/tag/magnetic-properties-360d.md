@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">385 papers</span>
+  <span class="paper-count">381 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2300,29 +2300,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12622.html">Unconventional band splitting of CeSb in the devil&#x27;s staircase transition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Tongrui Li et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12622">2505.12622</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08077.html">Large anomalous Hall conductivity in Weyl ferrimagnet Cs$_{2}$Co$_{3}$S$_4$ predicted by density-functional calculations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Gang Bahadur Acharya et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08077">2407.08077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10385.html">Field-induced spin liquid in the decorated square-kagome antiferromagnet nabokoite KCu$_7$TeO$_4$(SO$_4$)$_5$Cl</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Matías G. Gonzalez et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10385">2410.10385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14800.html">Discovery of transient topological crystalline order in optically driven SnSe</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Masataka Mogi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14800">2502.14800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10817.html">Observation of unexpected band splitting and magnetically-induced band structure reconstruction in TbTi$_3$Bi$_4$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Yevhen Kushnirenko et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10817">2505.10817</a></td>
 </tr>
 </tbody></table>

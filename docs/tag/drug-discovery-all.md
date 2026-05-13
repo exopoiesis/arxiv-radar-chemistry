@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">993 papers</span>
+  <span class="paper-count">1002 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12181.html">MolDeTox: Evaluating Language Model&#x27;s Stepwise Fragment Editing for Molecular Detoxification</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a> · <a href="multimodal-llm-all.html">multimodal-llm</a></div></td>
+<td>Jueon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12181">2605.12181</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10189.html">ProteinOPD: Towards Effective and Efficient Preference Alignment for Protein Design</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a></div></td>
+<td>Yulin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10189">2605.10189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10654.html">Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="free-energy-all.html">free-energy</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Jixiang Qing et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10654">2605.10654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10722.html">On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td>Sam Money-Kyrle et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10722">2605.10722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08659.html">Pushing Biomolecular Utility-Diversity Frontiers with Supergroup Relative Policy Optimization</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Xinwu Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08659">2605.08659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08767.html">From Holo Pockets to Electron Density: GPT-style Drug Design with Density</a></div></td>
+<td>Jiahao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08767">2605.08767</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08954.html">MolWorld: Molecule World Models for Actionable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Yang Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08954">2605.08954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08988.html">Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Amir Masoud Nourollah et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08988">2605.08988</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07439.html">CA-DEL: An Open Multi-Target, Multi-Modal Benchmark for Learning from DNA-Encoded Library Screens</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
@@ -38,6 +86,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07048.html">Unlocking High-Fidelity Molecular Generation from Mass Spectra via Dual-Stream Line Graph Diffusion</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>
 <td>Xujun Che et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07048">2605.07048</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08262.html">SLayerGen: a Crystal Generative Model for all Space and Layer Groups</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Rees Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08262">2605.08262</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>

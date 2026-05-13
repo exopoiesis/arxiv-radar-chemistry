@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -752,11 +752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04758.html">Exploration of stable atomic configurations in graphene-like BCN systems by Bayesian optimization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Taichi Hara et al.</td>
 <td><a href="http://arxiv.org/abs/2411.04758">2411.04758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13517.html">Data-driven Design of Isotropic and High-Stiffness TPMS-based Amorphousness-Induced Architected Material (TAAM)</a></div></td>
-<td>Minwoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13517">2505.13517</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12181.html">MolDeTox: Evaluating Language Model&#x27;s Stepwise Fragment Editing for Molecular Detoxification</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a> · <a href="multimodal-llm-7d.html">multimodal-llm</a></div></td>
+<td>Jueon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12181">2605.12181</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10189.html">ProteinOPD: Towards Effective and Efficient Preference Alignment for Protein Design</a></div><div class="paper-tags"><a href="protein-llm-7d.html">protein-llm</a></div></td>
+<td>Yulin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10189">2605.10189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10654.html">Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Jixiang Qing et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10654">2605.10654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10722.html">On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="protein-ligand-7d.html">protein-ligand</a></div></td>
+<td>Sam Money-Kyrle et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10722">2605.10722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08659.html">Pushing Biomolecular Utility-Diversity Frontiers with Supergroup Relative Policy Optimization</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
+<td>Xinwu Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08659">2605.08659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08767.html">From Holo Pockets to Electron Density: GPT-style Drug Design with Density</a></div></td>
+<td>Jiahao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08767">2605.08767</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08954.html">MolWorld: Molecule World Models for Actionable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a></div></td>
+<td>Yang Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08954">2605.08954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08988.html">Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Amir Masoud Nourollah et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08988">2605.08988</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07439.html">CA-DEL: An Open Multi-Target, Multi-Modal Benchmark for Learning from DNA-Encoded Library Screens</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a></div></td>
@@ -40,39 +88,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.07048">2605.07048</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08262.html">SLayerGen: a Crystal Generative Model for all Space and Layer Groups</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Rees Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08262">2605.08262</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05370.html">SPADE: Faster Drug Discovery by Learning from Sparse Data</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a></div></td>
 <td>Rahul Nandakumar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05370">2605.05370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01681.html">Benchmarking Single-Pose Docking, Consensus Rescoring, and Supervised ML on the LIT-PCBA Library: A Critical Evaluation of DiffDock, AutoDock-GPU, GNINA, and DiffDock-NMDN</a></div></td>
-<td>Youssef Abo-Dahab et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01681">2605.01681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02351.html">MolViBench: Evaluating LLMs on Molecular Vibe Coding</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Jiatong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02351">2605.02351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03707.html">AgenticPosesRanker: An Agentic AI Framework for Physically Grounded Ranking of Protein-Ligand Docking Poses</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a></div></td>
-<td>Sofiene Khiari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03707">2605.03707</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04118.html">ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Cong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04118">2605.04118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04265.html">Benchmarking open-source tools for in silico antiviral drug discovery</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a></div></td>
-<td>Daniel C. Elton et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04265">2605.04265</a></td>
 </tr>
 </tbody></table>

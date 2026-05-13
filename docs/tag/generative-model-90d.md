@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11610.html">Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Zeyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11610">2605.11610</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09997.html">GraphInstruct: A Progressive Benchmark for Diagnosing Capability Gaps in LLM Graph Generation</a></div></td>
+<td>Zihe Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09997">2605.09997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10115.html">Generating Symmetric Materials using Latent Flow Matching</a></div></td>
+<td>Anmar Karmush et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10115">2605.10115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08777.html">Measuring and Decomposing Mode Separation via the Canonical Diffusion</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Shaul Tolkovsky et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08777">2605.08777</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08960.html">CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Chengqian Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08960">2605.08960</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
@@ -44,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07020.html">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Xinyuan Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07020">2605.07020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08262.html">SLayerGen: a Crystal Generative Model for all Space and Layer Groups</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Rees Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08262">2605.08262</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -776,35 +812,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12045.html">Fourier Transformers for Latent Crystallographic Diffusion and Generative Modeling</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Jed A. Duersch et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12045">2602.12045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17981.html">Crystal Representation in the Reciprocal Space</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Osman Goni Ridwan et al.</td>
-<td><a href="http://arxiv.org/abs/2601.17981">2601.17981</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02128.html">Scalable Spatio-Temporal SE(3) Diffusion for Long-Horizon Protein Dynamics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
-<td>Nima Shoghi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02128">2602.02128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02310.html">FragmentFlow: Scalable Transition State Generation for Large Molecules</a></div></td>
-<td>Ron Shprints et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02310">2602.02310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10422.html">Navigating heterogeneous protein landscapes through geometry-aware smoothing</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Srinivas Anumasa et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10422">2602.10422</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10637.html">Coarse-Grained Boltzmann Generators</a></div></td>
-<td>Weilong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10637">2602.10637</a></td>
 </tr>
 </tbody></table>

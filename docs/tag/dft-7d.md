@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,126 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11512.html">$G^0W^0$ implementation based on the pseudopotential and numerical-atomic-orbital basis-set framework: Algorithms and benchmarks</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
+<td>Huanjing Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11512">2605.11512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11589.html">Unification of Signal Transform Theory</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
+<td>Mitchell A. Thornton</td>
+<td><a href="http://arxiv.org/abs/2605.11589">2605.11589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11650.html">Schur Products of Constacyclic Codes via the Constacyclic Discrete Fourier Transform</a></div></td>
+<td>Peifeng Lin</td>
+<td><a href="http://arxiv.org/abs/2605.11650">2605.11650</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12045.html">Magnetism and spin dynamics of Na\textsubscript{5}Yb(MoO\textsubscript{4})\textsubscript{4}: A weakly interacting rare-earth stretched diamond lattice</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>N. Rajeesh Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12045">2605.12045</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12067.html">Discovery of High-Voltage Magnesium-Ion Cathodes using Machine Learning and First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Jhon Rogelnor A. Florida et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12067">2605.12067</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12186.html">Asymmetric Planar-to-Dewar Isomerisation in BN-Doped Naphthalene: Mechanistic Implications for Molecular Solar Thermal Storage</a></div></td>
+<td>Michael Bühler et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12186">2605.12186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10265.html">Expander attention as exchange-correlation</a></div><div class="paper-tags"><a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
+<td>Karim K. Alaa El-Din et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10265">2605.10265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10266.html">Overfitting by design: neural network density functionals for water</a></div></td>
+<td>Karim K. Alaa El-Din et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10266">2605.10266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10363.html">Accelerating Locality-Driven Integration in Quantum Chemistry with Block-Structured Matrix Multiplication</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
+<td>Xinran Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10363">2605.10363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10636.html">Oxygen vacancies beyond the dilute limit in doped CaMnO3 perovskites and implications for screening materials in thermochemical applications</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
+<td>Harender S. Dhattarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10636">2605.10636</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10667.html">Quantum Simulation of Magnetic Materials: from Ab-Initio to NISQ</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="quantum-computing-7d.html">quantum-computing</a></div></td>
+<td>Pascal Stadler et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10667">2605.10667</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10700.html">Transverse Magnetic Response from Orbitally Polarized Cooper Pairs in Elemental Superconductors</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Gabor Csire et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10700">2605.10700</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11094.html">Application of the exact-factorization density-functional perturbation approach to pentacene crystal and monolayer MoS2</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
+<td>Rachel Steinitz-Eliyahu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11094">2605.11094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11183.html">Symmetry Guided Band-Gap Opening via Periodic Topological Defects in Graphene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>D. N. Garzon et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11183">2605.11183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11211.html">First-principles real-space embedding theory of the superconducting proximity effect</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Nicolas Baù et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11211">2605.11211</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11308.html">Capturing many-body effects in electrical conductivity of warm dense matter</a></div></td>
+<td>Brian P. Robinson et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11308">2605.11308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09327.html">First-Principles Study of the Temperature Dependence of Structural, Electronic, and Hyperfine Properties of the Cu(100) Surface</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Germán N. Darriba et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09327">2605.09327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09752.html">Polarizable Embedding QM/MM for Periodic Systems</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Julian Bessner et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09752">2605.09752</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08691.html">Post-pulse dipole instability in adiabatic TDDFT: fact or artifact?</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Davood B. Dar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08691">2605.08691</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08728.html">Multi-Fidelity Computational Screening of High-Entropy MBenes for CO$_2$ Electroreduction</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
+<td>Sree Harsha Bharadwaj H et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08728">2605.08728</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07227.html">Physics Aware Representation Learning on Electronic Charge Density for Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
@@ -112,27 +232,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.05460">2605.05460</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00802.html">Determination of Density Functional Tight Binding Models for Cerium Allotropes</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Nir Goldman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00802">2605.00802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03526.html">Influence of ligand field and correlation on the electronic structure of NiO and CoO from DFT+DMFT calculations</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="tmo-7d.html">tmo</a></div></td>
-<td>Daniel Mutter et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03526">2605.03526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03539.html">Gauge-Field-Mediated Symmetry Breaking of Matters Under Electromagnetic Fields and Its Impact on Spin Dynamics</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Uiseok Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03539">2605.03539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03737.html">Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Ashique Lal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03737">2605.03737</a></td>
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08228.html">Rashba engineering at van der Waals interfaces</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="tmd-7d.html">tmd</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Rahul Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08228">2605.08228</a></td>
 </tr>
 </tbody></table>

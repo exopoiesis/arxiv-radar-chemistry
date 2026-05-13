@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-llm — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="chemical-llm-7d.html">7d</a> <a href="chemical-llm-30d.html">30d</a> <a href="chemical-llm-90d.html">90d</a> <strong>360d</strong> <a href="chemical-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09949.html">From Syntax to Semantics: Unveiling the Emergence of Chirality in SMILES Translation Models</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Zehao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09949">2605.09949</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21990.html">ChemDFM-R: A Chemical Reasoning LLM Enhanced with Atomized Chemical Knowledge</a></div></td>

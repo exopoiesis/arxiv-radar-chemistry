@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11764.html">Decomposing the Generalization Gap in PROTAC Activity Prediction: Variance Attribution and the Inter-Laboratory Ceiling</a></div></td>
+<td>Thor Klamt et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11764">2605.11764</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10189.html">ProteinOPD: Towards Effective and Efficient Preference Alignment for Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Yulin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10189">2605.10189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11022.html">SCOPE: Siamese Contrastive Operon Pair Embeddings for Functional Sequence Representation and Classification</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
+<td>Akarsh Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11022">2605.11022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10985.html">Structural Interpretations of Protein Language Model Representations via Differentiable Graph Partitioning</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
+<td>Siddhant Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10985">2605.10985</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07554.html">ProteinJEPA: Latent prediction complements protein language models</a></div></td>
@@ -704,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04453.html">Prot42: a Novel Family of Protein Language Models for Target-aware Protein Binder Generation</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Mohammad Amaan Sayeed et al.</td>
 <td><a href="http://arxiv.org/abs/2504.04453">2504.04453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11812.html">VenusX: Unlocking Fine-Grained Functional Understanding of Proteins</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Yang Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11812">2505.11812</a></td>
 </tr>
 </tbody></table>

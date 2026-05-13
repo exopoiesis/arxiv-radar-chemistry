@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09949.html">From Syntax to Semantics: Unveiling the Emergence of Chirality in SMILES Translation Models</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a></div></td>
+<td>Zehao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09949">2605.09949</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10429.html">Physical probes expose and alleviate chemical-environment collapse in molecular representations</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Jiebin Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10429">2605.10429</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07713.html">High-Q Fano resonance in all-dielectric metasurfaces for molecular fingerprint detection</a></div></td>
 <td>S. Hadi Badri et al.</td>
@@ -962,17 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17198.html">LengthLogD: A Length-Stratified Ensemble Framework for Enhanced Peptide Lipophilicity Prediction via Multi-Scale Feature Integration</a></div></td>
 <td>Shuang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17198">2505.17198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11878.html">AdaptMol: Adaptive Fusion from Sequence String to Topological Structure for Few-shot Drug Discovery</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Yifan Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11878">2505.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12055.html">Prediction of Novel CXCR7 Inhibitors Using QSAR Modeling and Validation via Molecular Docking</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Belaguppa Manjunath Ashwin Desai et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12055">2505.12055</a></td>
 </tr>
 </tbody></table>

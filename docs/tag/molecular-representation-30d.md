@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09949.html">From Syntax to Semantics: Unveiling the Emergence of Chirality in SMILES Translation Models</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a></div></td>
+<td>Zehao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09949">2605.09949</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10429.html">Physical probes expose and alleviate chemical-environment collapse in molecular representations</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Jiebin Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10429">2605.10429</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07713.html">High-Q Fano resonance in all-dielectric metasurfaces for molecular fingerprint detection</a></div></td>
@@ -86,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16586.html">A Systematic Survey and Benchmark of Deep Learning for Molecular Property Prediction in the Foundation Model Era</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Zongru Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16586">2604.16586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10568.html">ReadMOF: Structure-Free Semantic Embeddings from Systematic MOF Nomenclature for Machine Learning</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mof-30d.html">mof</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Kewei Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10568">2604.10568</a></td>
 </tr>
 </tbody></table>

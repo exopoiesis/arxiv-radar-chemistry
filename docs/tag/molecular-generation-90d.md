@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-generation — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12181.html">MolDeTox: Evaluating Language Model&#x27;s Stepwise Fragment Editing for Molecular Detoxification</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
+<td>Jueon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12181">2605.12181</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10035.html">From Single-Step Edit Response to Multi-Step Molecular Optimization</a></div></td>
+<td>Haojie Rao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10035">2605.10035</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10230.html">FORGE: Fragment-Oriented Ranking and Generation for Context-Aware Molecular Optimization</a></div></td>
+<td>Qingchuan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10230">2605.10230</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08954.html">MolWorld: Molecule World Models for Actionable Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Yang Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08954">2605.08954</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
@@ -248,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07139.html">Notation-level confounding: When inconsistent molecular notations mislead chemical language models</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Yosuke Kikuchi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.07139">2505.07139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10984.html">Sample Efficient Generative Molecular Optimization with Joint Self-Improvement</a></div></td>
-<td>Serra Korkmaz et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10984">2602.10984</a></td>
 </tr>
 </tbody></table>

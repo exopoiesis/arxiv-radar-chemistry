@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11589.html">Unification of Signal Transform Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Mitchell A. Thornton</td>
+<td><a href="http://arxiv.org/abs/2605.11589">2605.11589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11735.html">U-STS-LLM A Unified Spatio-Temporal Steered Large Language Model for Traffic Prediction and Imputation</a></div></td>
+<td>Yichen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11735">2605.11735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10458.html">QT-Net: Rethinking Evaluation of AI Models in Atomic Chemical Space</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Pablo Martínez Crespo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10458">2605.10458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>H. Ibrahim Erdogan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10551">2605.10551</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10722.html">On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Sam Money-Kyrle et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10722">2605.10722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09495.html">Enabling Structure-Only Initialization and Out-of-Distribution Generalization in GNN-based Molecular Dynamics Simulators</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>S. A. Shteingolts et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09495">2605.09495</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07156.html">Hierarchical Perfusion Graphs for Tumor Heterogeneity Modeling in Glioma Molecular Subtyping</a></div></td>
@@ -26,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07838.html">PPI-Net connects molecular protein interactions to functional processes in disease</a></div></td>
 <td>Kyle Higgins et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07838">2605.07838</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10975.html">Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation</a></div></td>
+<td>Md Sazzad Hossen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10975">2605.10975</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -578,11 +620,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11621.html">Differentiable Graph Neural Network Simulator for the Back-Analysis of Post-Liquefaction Residual Strength from Flow Failure Runout</a></div></td>
 <td>Yongjin Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11621">2602.11621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11050.html">Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Anant Vaishnav et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11050">2602.11050</a></td>
 </tr>
 </tbody></table>

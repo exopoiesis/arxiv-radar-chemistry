@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-function — 360d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <strong>360d</strong> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09810.html">TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Hanqun Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09810">2605.09810</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11022.html">SCOPE: Siamese Contrastive Operon Pair Embeddings for Functional Sequence Representation and Classification</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
+<td>Akarsh Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11022">2605.11022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10985.html">Structural Interpretations of Protein Language Model Representations via Differentiable Graph Partitioning</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
+<td>Siddhant Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10985">2605.10985</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06830.html">ProtSent: Protein Sentence Transformers</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
@@ -278,11 +296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20098.html">Transformers in Protein: A Survey</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Xiaowen Ling et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20098">2505.20098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11812.html">VenusX: Unlocking Fine-Grained Functional Understanding of Proteins</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Yang Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11812">2505.11812</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13354.html">Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Auguste de Lambilly et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13354">2604.13354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10887.html">A Lightweight Universal Machine-Learning Interatomic Potential via Knowledge Distillation for Scalable Atomistic Simulations</a></div></td>
-<td>Sangmin Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10887">2604.10887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12140.html">XANE(3): An E(3)-Equivariant Graph Neural Network for Accurate Prediction of XANES Spectra from Atomic Structures</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Vitor F. Grizzi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12140">2604.12140</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,11 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13140.html">FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Pingzhi Li et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13140">2602.13140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11621.html">Differentiable Graph Neural Network Simulator for the Back-Analysis of Post-Liquefaction Residual Strength from Flow Failure Runout</a></div></td>
-<td>Yongjin Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11621">2602.11621</a></td>
 </tr>
 </tbody></table>

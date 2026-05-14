@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13226.html">Conditional probability density functional theory for solids</a></div></td>
+<td>Peiwei You et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13226">2605.13226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13559.html">Correlation-driven tunability of altermagnetism in RuO$_2$</a></div></td>
+<td>Ina Park et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13559">2605.13559</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="tmd-7d.html">tmd</a></div></td>
+<td>Maciej Bazarnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11512.html">$G^0W^0$ implementation based on the pseudopotential and numerical-atomic-orbital basis-set framework: Algorithms and benchmarks</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
@@ -50,6 +74,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12186.html">Asymmetric Planar-to-Dewar Isomerisation in BN-Doped Naphthalene: Mechanistic Implications for Molecular Solar Thermal Storage</a></div></td>
 <td>Michael Bühler et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12186">2605.12186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12711.html">Negative Differential Resistance and Ultra-High TMR in Altermagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Sajjan Sheoran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12711">2605.12711</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -218,23 +248,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Maria H. Visscher et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04942.html">From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Matúš Kaintz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04942">2605.04942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05460.html">Agentic Discovery of Exchange-Correlation Density Functionals</a></div></td>
-<td>Titouan Duston et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05460">2605.05460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08228.html">Rashba engineering at van der Waals interfaces</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="tmd-7d.html">tmd</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Rahul Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08228">2605.08228</a></td>
 </tr>
 </tbody></table>

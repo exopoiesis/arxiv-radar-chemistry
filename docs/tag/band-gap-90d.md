@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
+<td>Maciej Bazarnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11512.html">$G^0W^0$ implementation based on the pseudopotential and numerical-atomic-orbital basis-set framework: Algorithms and benchmarks</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -776,29 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13365.html">Tuning Optoelectronic Properties and Photoelectrochemical Performance of \b{eta}-TaON via Vanadium Doping</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Mirabbos Hojamberdiev et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13365">2602.13365</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20093.html">Photoluminescence Quenching in WSe$_2$ via p-Doping Induced by Functionalized Rylene Dyes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Ana M. Valencia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20093">2511.20093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07747.html">Electronic Structure of Epitaxial Films of the Bilayer Strontium Ruthenate: Sr$_{3}$Ru$_2$O$_{7}$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Sethulakshmi Sajeev et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07747">2602.07747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11552.html">Enhanced and Tunable Superconductivity Enabled by Mechanically Stable Halogen-Functionalized Mo2C MXenes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11552">2602.11552</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11781.html">Stacking-dependent magnetic ordering in bilayer ScI$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumyajit Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11781">2602.11781</a></td>
 </tr>
 </tbody></table>

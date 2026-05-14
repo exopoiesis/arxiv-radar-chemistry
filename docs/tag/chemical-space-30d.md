@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>chemical-space — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <strong>30d</strong> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15985.html">Machine Learning and Deep Learning in Quantum Materials: Symmetry, Topology, and the Rise of Altermagnets</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Mahyar Hassani-Vasmejani et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15985">2604.15985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11483.html">CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Yanting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11483">2604.11483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11957.html">Agentic LLM Reasoning in a Self-Driving Laboratory for Air-Sensitive Lithium Halide Spinel Conductors</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Yuxing Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11957">2604.11957</a></td>
 </tr>
 </tbody></table>

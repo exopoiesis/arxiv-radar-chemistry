@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13788.html">Force-Aware Neural Tangent Kernels for Scalable and Robust Active Learning of MLIPs</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a></div></td>
+<td>Eszter Varga-Umbrich et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13788">2605.13788</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11610.html">Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
@@ -326,17 +332,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13897.html">MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Adam Lahouari et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13897">2604.13897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10984.html">opt-DDAP: Optimisable density-derived atomic point charges via automatic differentiation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Mohith H. et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10984">2604.10984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11513.html">Machine-learning modeling of magnetization dynamics in quasi-equilibrium and driven metallic spin systems</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Gia-Wei Chern et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11513">2604.11513</a></td>
 </tr>
 </tbody></table>

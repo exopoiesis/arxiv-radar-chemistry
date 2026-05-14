@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">274 papers</span>
+  <span class="paper-count">273 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Kaiwen Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13789">2605.13789</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11347.html">Gradient-Free Noise Optimization for Reward Alignment in Generative Models</a></div></td>
@@ -1646,17 +1652,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11091.html">AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Maximilian G. Schuh et al.</td>
 <td><a href="http://arxiv.org/abs/2504.11091">2504.11091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04453.html">Prot42: a Novel Family of Protein Language Models for Target-aware Protein Binder Generation</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Mohammad Amaan Sayeed et al.</td>
-<td><a href="http://arxiv.org/abs/2504.04453">2504.04453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12511.html">DS-ProGen: A Dual-Structure Deep Language Model for Functional Protein Design</a></div></td>
-<td>Yanting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12511">2505.12511</a></td>
 </tr>
 </tbody></table>

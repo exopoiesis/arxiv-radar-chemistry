@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,11 +722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20052.html">Ankh3: Multi-Task Pretraining with Sequence Denoising and Completion Enhances Protein Representations</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Hazem Alsamkary et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20052">2505.20052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04453.html">Prot42: a Novel Family of Protein Language Models for Target-aware Protein Binder Generation</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Mohammad Amaan Sayeed et al.</td>
-<td><a href="http://arxiv.org/abs/2504.04453">2504.04453</a></td>
 </tr>
 </tbody></table>

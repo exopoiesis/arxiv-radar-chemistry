@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Zeyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13024">2605.13024</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10157.html">MolSight: Molecular Property Prediction with Images</a></div></td>
 <td>Aaditya Baranwal et al.</td>
@@ -440,11 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13958.html">Chemical Language Models for Natural Products: A State-Space Model Approach</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Ho-Hsuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13958">2602.13958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07139.html">Notation-level confounding: When inconsistent molecular notations mislead chemical language models</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Yosuke Kikuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07139">2505.07139</a></td>
 </tr>
 </tbody></table>

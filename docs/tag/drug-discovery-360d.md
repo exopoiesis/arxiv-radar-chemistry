@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Zeyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13024">2605.13024</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12181.html">MolDeTox: Evaluating Language Model&#x27;s Stepwise Fragment Editing for Molecular Detoxification</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
 <td>Jueon Park et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12181">2605.12181</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Andrew Y. Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12784">2605.12784</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -3584,17 +3596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12913.html">Active Learning on Synthons for Molecular Design</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
 <td>Tom George Grigg et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12913">2505.12913</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04044.html">Experimental Quantum Simulation of Chemical Dynamics</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>T. Navickas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04044">2409.04044</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17656.html">NaFM: Pre-training a Foundation Model for Small-Molecule Natural Products</a></div></td>
-<td>Yuheng Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17656">2503.17656</a></td>
 </tr>
 </tbody></table>

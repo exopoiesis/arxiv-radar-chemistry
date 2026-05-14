@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13000.html">Neural Network Generalized Parton Distributions (NNGPD)</a></div></td>
+<td>Zaki Panjsheeri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13000">2605.13000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13577.html">Anisotropic Dopant and Strain Architectures in WS$_2$ Nanocrystals Driven by Growth Kinetics</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Frederico B. Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13577">2605.13577</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13594.html">Assessing foundational atomistic models for iron alloys under Earth&#x27;s core conditions</a></div></td>
+<td>Tianqi Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13594">2605.13594</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11353.html">Ab initio calculation of symmetry-breaking observables</a></div></td>
@@ -656,41 +680,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13228.html">X-ray Absorption and Resonant X-ray Emission at the Carbon Edge of Li$_2$CO$_3$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>John Vinson et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13228">2604.13228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11878.html">Development of an uncertainty-aware equation of state for gold</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Lin H. Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11878">2501.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17709.html">UBio-MolFM: A Universal Molecular Foundation Model for Bio-Systems</a></div></td>
-<td>Lin Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17709">2602.17709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08587.html">Covariant quantum error correction in a three-layer quantum brain model: computational analysis of layer-specific coherence dynamics</a></div></td>
-<td>Hikaru Wakaura</td>
-<td><a href="http://arxiv.org/abs/2604.08587">2604.08587</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10987.html">Microscopic mechanism for resonant light-enhanced pair correlations in K$_3$C$_{60}$</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Juan I. Aranzadi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10987">2604.10987</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11358.html">Emulator-Assisted Nuclear DFT Inference and Its Consequences for the Structure of Neutron Stars</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Pietro Klausner et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11358">2604.11358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12008.html">Surface Plasmons in the Continuum</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Mohit Chaudhary et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12008">2604.12008</a></td>
 </tr>
 </tbody></table>

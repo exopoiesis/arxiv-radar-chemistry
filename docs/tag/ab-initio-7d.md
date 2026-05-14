@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13000.html">Neural Network Generalized Parton Distributions (NNGPD)</a></div></td>
+<td>Zaki Panjsheeri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13000">2605.13000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13577.html">Anisotropic Dopant and Strain Architectures in WS$_2$ Nanocrystals Driven by Growth Kinetics</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a></div></td>
+<td>Frederico B. Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13577">2605.13577</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13594.html">Assessing foundational atomistic models for iron alloys under Earth&#x27;s core conditions</a></div></td>
+<td>Tianqi Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13594">2605.13594</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11353.html">Ab initio calculation of symmetry-breaking observables</a></div></td>
@@ -164,35 +188,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06926.html">Many-body theory predictions of positron binding energies in five-membered heterocycles involving N, O, S and NH substituents</a></div></td>
 <td>S. K. Gregg et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06926">2605.06926</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04483.html">CDFCI: High-Performance Parallel Software for Many-Body Large-Scale Eigenvalue Problems</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Yuejia Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04483">2605.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04942.html">From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Matúš Kaintz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04942">2605.04942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04969.html">Temperature dependence of the Gibbs energies of formation of point defects in B2 MoTa from ab initio calculations</a></div></td>
-<td>Xiang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04969">2605.04969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05356.html">Ag I model atom and the 3D non-LTE solar silver abundance</a></div></td>
-<td>Sema Caliskan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05356">2605.05356</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Zheng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
 </tr>
 </tbody></table>

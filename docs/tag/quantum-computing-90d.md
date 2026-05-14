@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12614.html">A Quantum Multi-Programming Framework to Maximize Quantum Resources for the LUCJ Ansatz</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Milana Bazayeva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12614">2605.12614</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10667.html">Quantum Simulation of Magnetic Materials: from Ab-Initio to NISQ</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Pascal Stadler et al.</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16435.html">Quantum-Inspired Ising Machines for Quantum Chemistry Calculations</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Mahmood Hasani et al.</td>
 <td><a href="http://arxiv.org/abs/2512.16435">2512.16435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12465.html">Probabilistic Design of Parametrized Quantum Circuits through Local Gate Modifications</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Grier M. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12465">2602.12465</a></td>
 </tr>
 </tbody></table>

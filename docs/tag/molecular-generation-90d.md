@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.12181">2605.12181</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Andrew Y. Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12784">2605.12784</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10035.html">From Single-Step Edit Response to Multi-Step Molecular Optimization</a></div></td>
 <td>Haojie Rao et al.</td>
@@ -266,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00663.html">SEISMO: Increasing Sample Efficiency in Molecular Optimization with a Trajectory-Aware LLM Agent</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Fabian P. Krüger et al.</td>
 <td><a href="http://arxiv.org/abs/2602.00663">2602.00663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07139.html">Notation-level confounding: When inconsistent molecular notations mislead chemical language models</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Yosuke Kikuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07139">2505.07139</a></td>
 </tr>
 </tbody></table>

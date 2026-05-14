@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,23 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12638.html">Exact tunneling splittings of rotationally excited states from symmetrized path-integral molecular dynamics</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Lea Zupan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12638">2604.12638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10987.html">Microscopic mechanism for resonant light-enhanced pair correlations in K$_3$C$_{60}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Juan I. Aranzadi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10987">2604.10987</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11191.html">Ensemble density functional theory of excited states: Exact N-centered formalism and practical opportunities</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Lucien Dupuy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11191">2604.11191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19804.html">Capturing electron correlation at mean-field cost: Assessment of i-DMFT and the underlying correlation conjecture</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Paul G. Graf et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19804">2604.19804</a></td>
 </tr>
 </tbody></table>

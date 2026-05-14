@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Andrew Y. Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12784">2605.12784</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10654.html">Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Jixiang Qing et al.</td>
@@ -632,11 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13190.html">Disorder viscosity correction approach to calculate spinodal temperature and wavelength</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Simon Divilov et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13190">2602.13190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12031.html">Thermodynamic Stability and Hydrogen Bonds in Mixed Halide Perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Liz Camayo-Gutierrez et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12031">2602.12031</a></td>
 </tr>
 </tbody></table>

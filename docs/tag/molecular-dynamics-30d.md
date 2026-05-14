@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div></td>
+<td>Philipp Höllmer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12870">2605.12870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12959.html">A detailed algorithmic study on a reuse-aware, near memory, all-digital Ising machine</a></div></td>
+<td>Siddhartha Raman Sundara Raman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12959">2605.12959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13164.html">Helium Bubbles in Liquid Lead Lithium Solutions: Pressure Inhomogeneities at Interfaces and Non Ideal Mixture Effects</a></div></td>
+<td>Edgar Alvarez-Galera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13164">2605.13164</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div></td>
+<td>F. E. Garbuzov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Kaiwen Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13789">2605.13789</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11604.html">Gel-Chemistry-Dependent Heavy-Metal Ion Transport and Immobilization in Cementitious Nanopores: A Molecular Dynamics Study</a></div></td>
@@ -38,6 +68,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12489.html">Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Yanyu Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12489">2605.12489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12823.html">Hessian Matching for Machine-Learned Coarse-Grained Molecular Dynamics</a></div></td>
+<td>Sanya Murdeshwar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12823">2605.12823</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -806,23 +842,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19806.html">Improving Molecular Force Fields with Minimal Temporal Information</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Ali Mollahosseini et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19806">2604.19806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11370.html">Ru Alloying in Ni/Al Reactive Multilayers: Experimental Observations and Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Nensi Toncich et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11370">2604.11370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11513.html">Machine-learning modeling of magnetization dynamics in quasi-equilibrium and driven metallic spin systems</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Gia-Wei Chern et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11513">2604.11513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11706.html">Effect of Pre-Shear and Dispersity on Crystallization of a Model Polymer with Soft Pair Interactions using Molecular Dynamics Simulations</a></div></td>
-<td>Tzortzis Koulaxizis et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11706">2604.11706</a></td>
 </tr>
 </tbody></table>

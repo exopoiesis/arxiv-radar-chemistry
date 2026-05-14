@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13364.html">Predicting Endocrine Disruptors: A Deep Learning QSAR Model for Estrogen Receptor Activity</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Belaguppa Manjunath Ashwin Desai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13364">2605.13364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Andrew Y. Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12784">2605.12784</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10722.html">On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a></div></td>
 <td>Sam Money-Kyrle et al.</td>
@@ -92,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05472.html">Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Peidong Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2411.05472">2411.05472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04849.html">El Agente Estructural: An Artificially Intelligent Molecular Editor</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Changhyeok Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04849">2602.04849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11483.html">CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Yanting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11483">2604.11483</a></td>
 </tr>
 </tbody></table>

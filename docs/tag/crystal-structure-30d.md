@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>crystal-structure — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <strong>30d</strong> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12249.html">Orbital-selective correlations and angular momentum coupling in heavy actinides Am, Cm, Bk, and Cf under pressure: A many-body perspective</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Haiyan Lu</td>
 <td><a href="http://arxiv.org/abs/2604.12249">2604.12249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02189.html">deCIFer: Crystal Structure Prediction from Powder Diffraction Data using Autoregressive Language Models</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Frederik Lizak Johansen et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02189">2502.02189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11194.html">Density Functional Theory Study of Lanthanide Monoxides under High Pressure: Pressure-Induced B1-B2 Transition</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Sergio Ferrari et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11194">2604.11194</a></td>
 </tr>
 </tbody></table>

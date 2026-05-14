@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Maciej Bazarnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11094.html">Application of the exact-factorization density-functional perturbation approach to pentacene crystal and monolayer MoS2</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Rachel Steinitz-Eliyahu et al.</td>
@@ -3554,11 +3560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13747.html">Beyond Dielectrics: Interfacial Water Polarization Governs Graphene-Based Electrochemical Interfaces</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Peiyao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2411.13747">2411.13747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12230.html">Predicting and understanding diffusion lengths and lifetimes in solids via a many-body \textit{ab initio} method: The role of coupled dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Junqing Xu</td>
-<td><a href="http://arxiv.org/abs/2505.12230">2505.12230</a></td>
 </tr>
 </tbody></table>

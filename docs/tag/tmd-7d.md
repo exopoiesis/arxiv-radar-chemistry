@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08228.html">Rashba engineering at van der Waals interfaces</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Rahul Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08228">2605.08228</a></td>
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Maciej Bazarnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>battery-materials — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <strong>90d</strong> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,17 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13116.html">Unveiling the origin of the capacity fade in MnO$_{2}$ zinc-ion battery cathodes through an analysis of the Mn vacancy formation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Caio Miranda Miliante et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13116">2602.13116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11579.html">Coupling Lattice Distortion and Cation Disorder to Control Li-ion Transport in Cation-Disordered Rocksalt Oxides</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Zichang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11579">2602.11579</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12378.html">Investigating the Electronic and Magnetic Properties of Na$_x$Fe$_{1/2}$Mn$_{1/2}$O$_2$ Cathode Materials with X-ray Compton Scattering</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Veenavee Nipunika Kothalawala et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12378">2602.12378</a></td>
 </tr>
 </tbody></table>

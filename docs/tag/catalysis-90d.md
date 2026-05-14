@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13747.html">Optimal Quantum Illumination with Nonlocal Non-Gaussian Operations</a></div></td>
+<td>Luis D. Zambrano Palma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13747">2605.13747</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11724.html">Theory and Discovery of Electrides</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Chengcheng Xiao et al.</td>
@@ -500,11 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16552.html">The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)</a></div></td>
 <td>Alberto Turoldo et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16552">2602.16552</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12037.html">Markov State Models for Tracking Reaction Dynamics on Catalytic Nanoparticles</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Caitlin A. McCandler et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12037">2602.12037</a></td>
 </tr>
 </tbody></table>

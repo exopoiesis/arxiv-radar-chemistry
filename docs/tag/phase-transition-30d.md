@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transition — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <strong>30d</strong> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12489.html">Directional selection of field-induced phases by weak anisotropy in triangular-lattice K$_2$Mn(SeO$_3$)$_2$</a></div></td>
 <td>Bin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12489">2604.12489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11194.html">Density Functional Theory Study of Lanthanide Monoxides under High Pressure: Pressure-Induced B1-B2 Transition</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Sergio Ferrari et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11194">2604.11194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11370.html">Ru Alloying in Ni/Al Reactive Multilayers: Experimental Observations and Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Nensi Toncich et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11370">2604.11370</a></td>
 </tr>
 </tbody></table>

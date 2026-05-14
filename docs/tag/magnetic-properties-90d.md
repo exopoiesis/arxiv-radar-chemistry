@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12045.html">Magnetism and spin dynamics of Na\textsubscript{5}Yb(MoO\textsubscript{4})\textsubscript{4}: A weakly interacting rare-earth stretched diamond lattice</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -578,23 +584,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13768.html">Relativistic spin-momentum locking in ferromagnets</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Xujia Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13768">2602.13768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11781.html">Stacking-dependent magnetic ordering in bilayer ScI$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumyajit Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11781">2602.11781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11932.html">Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Francisco Munoz et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11932">2602.11932</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12378.html">Investigating the Electronic and Magnetic Properties of Na$_x$Fe$_{1/2}$Mn$_{1/2}$O$_2$ Cathode Materials with X-ray Compton Scattering</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Veenavee Nipunika Kothalawala et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12378">2602.12378</a></td>
 </tr>
 </tbody></table>

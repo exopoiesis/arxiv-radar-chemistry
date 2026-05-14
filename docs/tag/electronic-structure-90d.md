@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12067.html">Discovery of High-Voltage Magnesium-Ion Cathodes using Machine Learning and First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Jhon Rogelnor A. Florida et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12067">2605.12067</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12711.html">Negative Differential Resistance and Ultra-High TMR in Altermagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Sajjan Sheoran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12711">2605.12711</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -872,29 +878,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13365.html">Tuning Optoelectronic Properties and Photoelectrochemical Performance of \b{eta}-TaON via Vanadium Doping</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Mirabbos Hojamberdiev et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13365">2602.13365</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20093.html">Photoluminescence Quenching in WSe$_2$ via p-Doping Induced by Functionalized Rylene Dyes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Ana M. Valencia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20093">2511.20093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11552.html">Enhanced and Tunable Superconductivity Enabled by Mechanically Stable Halogen-Functionalized Mo2C MXenes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11552">2602.11552</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11702.html">A Hardware-Native Realisation of Semi-Empirical Electronic Structure Theory on Field-Programmable Gate Arrays</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Xincheng Miao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11702">2602.11702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11781.html">Stacking-dependent magnetic ordering in bilayer ScI$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumyajit Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11781">2602.11781</a></td>
 </tr>
 </tbody></table>

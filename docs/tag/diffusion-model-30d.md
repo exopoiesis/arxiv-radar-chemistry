@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13577.html">Anisotropic Dopant and Strain Architectures in WS$_2$ Nanocrystals Driven by Growth Kinetics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Frederico B. Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13577">2605.13577</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12431.html">GaitProtector: Impersonation-Driven Gait De-Identification via Training-Free Diffusion Latent Optimization</a></div></td>
 <td>Huiran Duan et al.</td>
@@ -248,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13354.html">Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Auguste de Lambilly et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13354">2604.13354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03015.html">Discrete Bayesian Sample Inference for Graph Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Ole Petersen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03015">2511.03015</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-generation — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12181.html">MolDeTox: Evaluating Language Model&#x27;s Stepwise Fragment Editing for Molecular Detoxification</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
 <td>Jueon Park et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12181">2605.12181</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Andrew Y. Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12784">2605.12784</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -122,23 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12350.html">Scaffold-Conditioned Preference Triplets for Controllable Molecular Optimization with Large Language Models</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Yi Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12350">2604.12350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03015.html">Discrete Bayesian Sample Inference for Graph Generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Ole Petersen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03015">2511.03015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04849.html">El Agente Estructural: An Artificially Intelligent Molecular Editor</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Changhyeok Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04849">2602.04849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11483.html">CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Yanting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11483">2604.11483</a></td>
 </tr>
 </tbody></table>

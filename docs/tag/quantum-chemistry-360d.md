@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">386 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12614.html">A Quantum Multi-Programming Framework to Maximize Quantum Resources for the LUCJ Ansatz</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Milana Bazayeva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12614">2605.12614</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10265.html">Expander attention as exchange-correlation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -2324,23 +2330,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13683.html">Genesis: A Compiler Framework for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Zihan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13683">2505.13683</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04044.html">Experimental Quantum Simulation of Chemical Dynamics</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>T. Navickas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04044">2409.04044</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23034.html">OpenOrbitalOptimizer -- a reusable open source library for self-consistent field calculations</a></div></td>
-<td>Susi Lehtola et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23034">2503.23034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12447.html">HORM: A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Taoyong Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12447">2505.12447</a></td>
 </tr>
 </tbody></table>

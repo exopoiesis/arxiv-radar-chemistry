@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Zeyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13024">2605.13024</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10157.html">MolSight: Molecular Property Prediction with Images</a></div></td>
 <td>Aaditya Baranwal et al.</td>
@@ -134,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12350.html">Scaffold-Conditioned Preference Triplets for Controllable Molecular Optimization with Large Language Models</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Yi Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12350">2604.12350</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11540.html">A collaborative agent with two lightweight synergistic models for autonomous crystal materials research</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Tongyu Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11540">2604.11540</a></td>
 </tr>
 </tbody></table>

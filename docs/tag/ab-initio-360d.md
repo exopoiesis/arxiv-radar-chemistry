@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1620 papers</span>
+  <span class="paper-count">1623 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13000.html">Neural Network Generalized Parton Distributions (NNGPD)</a></div></td>
+<td>Zaki Panjsheeri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13000">2605.13000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13577.html">Anisotropic Dopant and Strain Architectures in WS$_2$ Nanocrystals Driven by Growth Kinetics</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Frederico B. Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13577">2605.13577</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13594.html">Assessing foundational atomistic models for iron alloys under Earth&#x27;s core conditions</a></div></td>
+<td>Tianqi Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13594">2605.13594</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11353.html">Ab initio calculation of symmetry-breaking observables</a></div></td>
@@ -9728,11 +9752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13594.html">Fantômas: epistemic and nuclear uncertainties for the parton distributions of the pion</a></div></td>
 <td>Lucas Kotz et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13594">2505.13594</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12230.html">Predicting and understanding diffusion lengths and lifetimes in solids via a many-body \textit{ab initio} method: The role of coupled dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Junqing Xu</td>
-<td><a href="http://arxiv.org/abs/2505.12230">2505.12230</a></td>
 </tr>
 </tbody></table>

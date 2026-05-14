@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>thermal-properties — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Wei-Fan Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05603">2605.05603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04942.html">From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Matúš Kaintz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04942">2605.04942</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.12067">2605.12067</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12711.html">Negative Differential Resistance and Ultra-High TMR in Altermagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Sajjan Sheoran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12711">2605.12711</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10667.html">Quantum Simulation of Magnetic Materials: from Ab-Initio to NISQ</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="quantum-computing-7d.html">quantum-computing</a></div></td>
 <td>Pascal Stadler et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Maria H. Visscher et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04483.html">CDFCI: High-Performance Parallel Software for Many-Body Large-Scale Eigenvalue Problems</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Yuejia Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04483">2605.04483</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2115 papers</span>
+  <span class="paper-count">2119 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13226.html">Conditional probability density functional theory for solids</a></div></td>
+<td>Peiwei You et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13226">2605.13226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13559.html">Correlation-driven tunability of altermagnetism in RuO$_2$</a></div></td>
+<td>Ina Park et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13559">2605.13559</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Maciej Bazarnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11512.html">$G^0W^0$ implementation based on the pseudopotential and numerical-atomic-orbital basis-set framework: Algorithms and benchmarks</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
@@ -50,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12186.html">Asymmetric Planar-to-Dewar Isomerisation in BN-Doped Naphthalene: Mechanistic Implications for Molecular Solar Thermal Storage</a></div></td>
 <td>Michael Bühler et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12186">2605.12186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12711.html">Negative Differential Resistance and Ultra-High TMR in Altermagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Sajjan Sheoran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12711">2605.12711</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -12698,11 +12728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13720.html">Solving Lyapunov equations for electrically driven ternary electrolytes -- application to long-range van der Waals interactions</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Guangle Du et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13720">2505.13720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12447.html">HORM: A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Taoyong Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12447">2505.12447</a></td>
 </tr>
 </tbody></table>

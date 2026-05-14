@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <strong>90d</strong> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12562.html">Mechanism-driven CO2 Capture and Activation on Two-dimensional Transition-metal Diborides</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12562">2602.12562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11932.html">Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Francisco Munoz et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11932">2602.11932</a></td>
 </tr>
 </tbody></table>

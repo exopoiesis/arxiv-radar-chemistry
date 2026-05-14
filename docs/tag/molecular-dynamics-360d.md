@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1583 papers</span>
+  <span class="paper-count">1589 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div></td>
+<td>Philipp Höllmer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12870">2605.12870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12959.html">A detailed algorithmic study on a reuse-aware, near memory, all-digital Ising machine</a></div></td>
+<td>Siddhartha Raman Sundara Raman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12959">2605.12959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13164.html">Helium Bubbles in Liquid Lead Lithium Solutions: Pressure Inhomogeneities at Interfaces and Non Ideal Mixture Effects</a></div></td>
+<td>Edgar Alvarez-Galera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13164">2605.13164</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div></td>
+<td>F. E. Garbuzov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Kaiwen Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13789">2605.13789</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11604.html">Gel-Chemistry-Dependent Heavy-Metal Ion Transport and Immobilization in Cementitious Nanopores: A Molecular Dynamics Study</a></div></td>
@@ -38,6 +68,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12489.html">Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Yanyu Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12489">2605.12489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12823.html">Hessian Matching for Machine-Learned Coarse-Grained Molecular Dynamics</a></div></td>
+<td>Sanya Murdeshwar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12823">2605.12823</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>

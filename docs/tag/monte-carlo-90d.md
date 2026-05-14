@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,17 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13187.html">Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jo S. Kurian et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13187">2602.13187</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11579.html">Coupling Lattice Distortion and Cation Disorder to Control Li-ion Transport in Cation-Disordered Rocksalt Oxides</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zichang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11579">2602.11579</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11781.html">Stacking-dependent magnetic ordering in bilayer ScI$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumyajit Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11781">2602.11781</a></td>
 </tr>
 </tbody></table>

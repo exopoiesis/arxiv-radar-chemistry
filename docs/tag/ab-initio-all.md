@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">2734 papers</span>
+  <span class="paper-count">2738 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13000.html">Neural Network Generalized Parton Distributions (NNGPD)</a></div></td>
+<td>Zaki Panjsheeri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13000">2605.13000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13577.html">Anisotropic Dopant and Strain Architectures in WS$_2$ Nanocrystals Driven by Growth Kinetics</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
+<td>Frederico B. Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13577">2605.13577</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13594.html">Assessing foundational atomistic models for iron alloys under Earth&#x27;s core conditions</a></div></td>
+<td>Tianqi Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13594">2605.13594</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11353.html">Ab initio calculation of symmetry-breaking observables</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
+<td>Maciej Bazarnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11094.html">Application of the exact-factorization density-functional perturbation approach to pentacene crystal and monolayer MoS2</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -920,29 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12582.html">Strain-enhanced edge ferromagnetism and bipolar magnetic semiconducting behavior in Janus graphene nanoribbons</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Ran Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12582">2602.12582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20093.html">Photoluminescence Quenching in WSe$_2$ via p-Doping Induced by Functionalized Rylene Dyes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Ana M. Valencia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20093">2511.20093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11552.html">Enhanced and Tunable Superconductivity Enabled by Mechanically Stable Halogen-Functionalized Mo2C MXenes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11552">2602.11552</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11781.html">Stacking-dependent magnetic ordering in bilayer ScI$_{2}$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumyajit Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11781">2602.11781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11932.html">Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Francisco Munoz et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11932">2602.11932</a></td>
 </tr>
 </tbody></table>

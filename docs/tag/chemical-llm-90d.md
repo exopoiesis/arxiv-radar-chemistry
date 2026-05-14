@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13262.html">Chem-GMNet: A Sphere-Native Geometric Transformer for Molecular Property Prediction</a></div></td>
+<td>Deepak Warrier et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13262">2605.13262</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09949.html">From Syntax to Semantics: Unveiling the Emergence of Chirality in SMILES Translation Models</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Zehao Li et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13958.html">Chemical Language Models for Natural Products: A State-Space Model Approach</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Ho-Hsuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13958">2602.13958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07139.html">Notation-level confounding: When inconsistent molecular notations mislead chemical language models</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Yosuke Kikuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07139">2505.07139</a></td>
 </tr>
 </tbody></table>

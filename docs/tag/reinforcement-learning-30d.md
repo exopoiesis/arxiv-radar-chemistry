@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <strong>30d</strong> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13175.html">Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Aadyot Bhatnagar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13175">2604.13175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11483.html">CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Yanting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11483">2604.11483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11742.html">Discourse Diversity in Multi-Turn Empathic Dialogue</a></div></td>
-<td>Hongli Zhan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11742">2604.11742</a></td>
 </tr>
 </tbody></table>

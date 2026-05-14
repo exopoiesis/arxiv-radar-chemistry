@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div></td>
+<td>Philipp Höllmer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12870">2605.12870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12959.html">A detailed algorithmic study on a reuse-aware, near memory, all-digital Ising machine</a></div></td>
+<td>Siddhartha Raman Sundara Raman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12959">2605.12959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13164.html">Helium Bubbles in Liquid Lead Lithium Solutions: Pressure Inhomogeneities at Interfaces and Non Ideal Mixture Effects</a></div></td>
+<td>Edgar Alvarez-Galera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13164">2605.13164</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div></td>
+<td>F. E. Garbuzov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Kaiwen Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13789">2605.13789</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11604.html">Gel-Chemistry-Dependent Heavy-Metal Ion Transport and Immobilization in Cementitious Nanopores: A Molecular Dynamics Study</a></div></td>
@@ -38,6 +68,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12489.html">Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a></div></td>
 <td>Yanyu Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12489">2605.12489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12823.html">Hessian Matching for Machine-Learned Coarse-Grained Molecular Dynamics</a></div></td>
+<td>Sanya Murdeshwar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12823">2605.12823</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -176,29 +212,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06574.html">Molecular dynamics simulation study of mechanical properties of 3C-SiC with extended defects</a></div></td>
 <td>Serhii Shmahlii et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06574">2605.06574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04521.html">Unveiling the Atomistic Mechanisms of Shear-Induced LDA$\leftrightarrow$HDA Transformations and Shear Banding in Amorphous Silicon under High Pressures</a></div></td>
-<td>Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04521">2605.04521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Zheng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05376.html">Frustrated Dynamics of Distance Matrices</a></div></td>
-<td>Igor Halperin</td>
-<td><a href="http://arxiv.org/abs/2605.05376">2605.05376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05524.html">MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series</a></div></td>
-<td>Shicheng Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05524">2605.05524</a></td>
 </tr>
 </tbody></table>

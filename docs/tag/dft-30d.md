@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13226.html">Conditional probability density functional theory for solids</a></div></td>
+<td>Peiwei You et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13226">2605.13226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13559.html">Correlation-driven tunability of altermagnetism in RuO$_2$</a></div></td>
+<td>Ina Park et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13559">2605.13559</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="tmd-30d.html">tmd</a></div></td>
+<td>Maciej Bazarnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11512.html">$G^0W^0$ implementation based on the pseudopotential and numerical-atomic-orbital basis-set framework: Algorithms and benchmarks</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
@@ -50,6 +74,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12186.html">Asymmetric Planar-to-Dewar Isomerisation in BN-Doped Naphthalene: Mechanistic Implications for Molecular Solar Thermal Storage</a></div></td>
 <td>Michael Bühler et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12186">2605.12186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12711.html">Negative Differential Resistance and Ultra-High TMR in Altermagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Sajjan Sheoran et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12711">2605.12711</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -1004,65 +1034,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13354.html">Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Auguste de Lambilly et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13354">2604.13354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11878.html">Development of an uncertainty-aware equation of state for gold</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Lin H. Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11878">2501.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20535.html">De-excitation effects on entanglement in multi-nucleon transfer reactions</a></div></td>
-<td>Y. C. Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20535">2601.20535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06042.html">Spin-Phonon Renormalization in CrSBr</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Jayajeewana N. Ranhili et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06042">2604.06042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10984.html">opt-DDAP: Optimisable density-derived atomic point charges via automatic differentiation</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Mohith H. et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10984">2604.10984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11139.html">GPU acceleration of plane-wave density functional theory calculations in Abinit</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Ioanna-Maria Lygatsika et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11139">2604.11139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11191.html">Ensemble density functional theory of excited states: Exact N-centered formalism and practical opportunities</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Lucien Dupuy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11191">2604.11191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11194.html">Density Functional Theory Study of Lanthanide Monoxides under High Pressure: Pressure-Induced B1-B2 Transition</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Sergio Ferrari et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11194">2604.11194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11358.html">Emulator-Assisted Nuclear DFT Inference and Its Consequences for the Structure of Neutron Stars</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Pietro Klausner et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11358">2604.11358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11850.html">Surface-enhanced Raman scattering and density functional theory study of selected-lanthanide-citrate complexes (lanthanide: Tb, Dy, Ho, Er, Tm, Yb and Lu)</a></div></td>
-<td>Hao Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11850">2604.11850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12008.html">Surface Plasmons in the Continuum</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Mohit Chaudhary et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12008">2604.12008</a></td>
 </tr>
 </tbody></table>

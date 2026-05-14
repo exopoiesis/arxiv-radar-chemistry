@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12614.html">A Quantum Multi-Programming Framework to Maximize Quantum Resources for the LUCJ Ansatz</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
+<td>Milana Bazayeva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12614">2605.12614</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10265.html">Expander attention as exchange-correlation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
@@ -164,29 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04850.html">El Agente Quntur: A research collaborator agent for quantum chemistry</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Juan B. Pérez-Sánchez et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04850">2602.04850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04849.html">El Agente Estructural: An Artificially Intelligent Molecular Editor</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Changhyeok Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04849">2602.04849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11063.html">An Adaptive Log-Laguerre Spectral Method for the Radial Dirac Equation: Resolving Asymptotic Decay and Core Singularities in Atomic Calculations</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Sheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11063">2604.11063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11191.html">Ensemble density functional theory of excited states: Exact N-centered formalism and practical opportunities</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Lucien Dupuy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11191">2604.11191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19804.html">Capturing electron correlation at mean-field cost: Assessment of i-DMFT and the underlying correlation conjecture</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Paul G. Graf et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19804">2604.19804</a></td>
 </tr>
 </tbody></table>

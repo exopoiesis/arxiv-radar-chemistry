@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12045.html">Magnetism and spin dynamics of Na\textsubscript{5}Yb(MoO\textsubscript{4})\textsubscript{4}: A weakly interacting rare-earth stretched diamond lattice</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>N. Rajeesh Kumar et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Maria H. Visscher et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08228.html">Rashba engineering at van der Waals interfaces</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="tmd-7d.html">tmd</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Rahul Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08228">2605.08228</a></td>
 </tr>
 </tbody></table>

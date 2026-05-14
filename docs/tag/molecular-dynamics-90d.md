@@ -16,6 +16,36 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div></td>
+<td>Philipp Höllmer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12870">2605.12870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12959.html">A detailed algorithmic study on a reuse-aware, near memory, all-digital Ising machine</a></div></td>
+<td>Siddhartha Raman Sundara Raman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12959">2605.12959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13164.html">Helium Bubbles in Liquid Lead Lithium Solutions: Pressure Inhomogeneities at Interfaces and Non Ideal Mixture Effects</a></div></td>
+<td>Edgar Alvarez-Galera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13164">2605.13164</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div></td>
+<td>F. E. Garbuzov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Kaiwen Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13789">2605.13789</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11604.html">Gel-Chemistry-Dependent Heavy-Metal Ion Transport and Immobilization in Cementitious Nanopores: A Molecular Dynamics Study</a></div></td>
 <td>Weiqiang Chen et al.</td>
@@ -38,6 +68,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12489.html">Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Yanyu Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12489">2605.12489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12823.html">Hessian Matching for Machine-Learned Coarse-Grained Molecular Dynamics</a></div></td>
+<td>Sanya Murdeshwar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12823">2605.12823</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -2846,41 +2882,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13187.html">Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Jo S. Kurian et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13187">2602.13187</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11489.html">Intermediate Thermal Equilibrium Stages in Molecular Dynamics Simulations of two Bodies in Contact</a></div></td>
-<td>Jonathas N. da Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11489">2602.11489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11526.html">Nonmonotonic Magnetic Friction from Collective Rotor Dynamics</a></div></td>
-<td>Hongri Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11526">2602.11526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11548.html">Efficient molecular dynamics simulation of 2D penta-silicene materials using machine learning potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Le Huu Nghia et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11548">2602.11548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11579.html">Coupling Lattice Distortion and Cation Disorder to Control Li-ion Transport in Cation-Disordered Rocksalt Oxides</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Zichang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11579">2602.11579</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12031.html">Thermodynamic Stability and Hydrogen Bonds in Mixed Halide Perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Liz Camayo-Gutierrez et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12031">2602.12031</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12037.html">Markov State Models for Tracking Reaction Dynamics on Catalytic Nanoparticles</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Caitlin A. McCandler et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12037">2602.12037</a></td>
 </tr>
 </tbody></table>

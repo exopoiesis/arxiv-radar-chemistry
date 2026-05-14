@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13000.html">Neural Network Generalized Parton Distributions (NNGPD)</a></div></td>
+<td>Zaki Panjsheeri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13000">2605.13000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Yetkin Pulcu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13577.html">Anisotropic Dopant and Strain Architectures in WS$_2$ Nanocrystals Driven by Growth Kinetics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Frederico B. Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13577">2605.13577</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13594.html">Assessing foundational atomistic models for iron alloys under Earth&#x27;s core conditions</a></div></td>
+<td>Tianqi Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13594">2605.13594</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11353.html">Ab initio calculation of symmetry-breaking observables</a></div></td>
 <td>A Belley et al.</td>
@@ -2732,29 +2756,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13190.html">Disorder viscosity correction approach to calculate spinodal temperature and wavelength</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Simon Divilov et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13190">2602.13190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20093.html">Photoluminescence Quenching in WSe$_2$ via p-Doping Induced by Functionalized Rylene Dyes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Ana M. Valencia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20093">2511.20093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11552.html">Enhanced and Tunable Superconductivity Enabled by Mechanically Stable Halogen-Functionalized Mo2C MXenes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11552">2602.11552</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11781.html">Stacking-dependent magnetic ordering in bilayer ScI$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumyajit Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11781">2602.11781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12031.html">Thermodynamic Stability and Hydrogen Bonds in Mixed Halide Perovskites</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Liz Camayo-Gutierrez et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12031">2602.12031</a></td>
 </tr>
 </tbody></table>

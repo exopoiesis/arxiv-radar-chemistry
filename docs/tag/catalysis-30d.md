@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13747.html">Optimal Quantum Illumination with Nonlocal Non-Gaussian Operations</a></div></td>
+<td>Luis D. Zambrano Palma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13747">2605.13747</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11724.html">Theory and Discovery of Electrides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
@@ -146,17 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14784.html">Interfacial Electric Fields in Water Nanodroplets are Weakly Dependent on Curvature and pH</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Gabriele Amante et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14784">2604.14784</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11540.html">A collaborative agent with two lightweight synergistic models for autonomous crystal materials research</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a> · <a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Tongyu Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11540">2604.11540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11778.html">General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks</a></div></td>
-<td>Junlin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11778">2604.11778</a></td>
 </tr>
 </tbody></table>

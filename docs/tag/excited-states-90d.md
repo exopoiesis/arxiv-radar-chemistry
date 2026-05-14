@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16436.html">Quantifying the Role of Higher-Lying Excited States in Organic Emitters via Multistate Ab Initio Kinetic Modeling</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Yue He et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16436">2508.16436</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11702.html">A Hardware-Native Realisation of Semi-Empirical Electronic Structure Theory on Field-Programmable Gate Arrays</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Xincheng Miao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11702">2602.11702</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">339 papers</span>
+  <span class="paper-count">333 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2012,41 +2012,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14506.html">Phonon Mean Free Path Spectroscopy By Raman Thermometry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Katharina Dudde et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14506">2505.14506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16051.html">Tracing Ion Migration in Halide Perovskites with Machine Learned Force Fields</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Viren Tyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16051">2409.16051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.08668.html">Heat Transport in Ionic Liquids</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Cillian Cockrell et al.</td>
-<td><a href="http://arxiv.org/abs/2412.08668">2412.08668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19772.html">Machine-Learning Force Fields Reveal Shallow Electronic States on Dynamic Halide Perovskite Surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Frederico P. Delgado et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19772">2502.19772</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03385.html">On the possibility of chiral symmetry breaking in liquid hydrogen peroxide</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Roberto Menta et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03385">2503.03385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13107.html">Electronic and optical and topological properties of defects in bismuthene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Gabriel Elyas Gama Araujo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13107">2505.13107</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13179.html">Lattice thermal conductivity of 16 elemental metals from molecular dynamics simulations with a unified neuroevolution potential</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Shuo Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13179">2505.13179</a></td>
 </tr>
 </tbody></table>

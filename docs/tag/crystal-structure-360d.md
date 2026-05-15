@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14344.html">CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Yuyang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14344">2605.14344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10636.html">Oxygen vacancies beyond the dilute limit in doped CaMnO3 perovskites and implications for screening materials in thermochemical applications</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Harender S. Dhattarwal et al.</td>
@@ -1670,17 +1682,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15266.html">Bonding relay for room-temperature oxide plasticity like metals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xiangkai Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15266">2505.15266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16051.html">Tracing Ion Migration in Halide Perovskites with Machine Learned Force Fields</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Viren Tyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16051">2409.16051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19772.html">Machine-Learning Force Fields Reveal Shallow Electronic States on Dynamic Halide Perovskite Surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Frederico P. Delgado et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19772">2502.19772</a></td>
 </tr>
 </tbody></table>

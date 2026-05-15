@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14344.html">CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Yuyang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14344">2605.14344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11610.html">Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
@@ -218,17 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14241.html">Polyformer: a generative framework for thermodynamic modeling of polymeric molecules</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Alessio Valentini et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14241">2604.14241</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12607.html">Hierarchical generative modeling for the design of multi-component systems</a></div></td>
-<td>Rhyan Barrett et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12607">2604.12607</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13354.html">Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Auguste de Lambilly et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13354">2604.13354</a></td>
 </tr>
 </tbody></table>

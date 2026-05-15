@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14745.html">Functional and Density-Driven Errors in Density Functional Theory: Quantum Monte Carlo Benchmarks for Solids</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Ayoub Aouina et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14745">2605.14745</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14006.html">Quantum Monte Carlo calculation of $δ_C$ in the superallowed beta decay of $^{10}$C</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Maria Piarulli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14006">2605.14006</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10654.html">Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
@@ -590,23 +602,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13725.html">MLIP-MC: A Framework for Adsorption Simulations using Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="mof-90d.html">mof</a></div></td>
 <td>Connor W. Edwards et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13725">2602.13725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12582.html">Strain-enhanced edge ferromagnetism and bipolar magnetic semiconducting behavior in Janus graphene nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Ran Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12582">2602.12582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12993.html">Neural Quantum States Based on Selected Configurations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Marco Julian Solanki et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12993">2602.12993</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13187.html">Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jo S. Kurian et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13187">2602.13187</a></td>
 </tr>
 </tbody></table>

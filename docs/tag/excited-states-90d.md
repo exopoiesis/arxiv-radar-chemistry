@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14617.html">Full-Dimensional Reactive Potential Energy Surfaces for OCS$^+$ $\rightarrow$ CO+S$^+$ Dissociation: Ground and Excited States</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Cangtao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14617">2605.14617</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08691.html">Post-pulse dipole instability in adiabatic TDDFT: fact or artifact?</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Davood B. Dar et al.</td>
@@ -416,11 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01875.html">Enhancing the Efficiency of Time-Dependent Density Functional Theory Calculations of Dynamic Response Properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Zhandos A. Moldabekov et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01875">2510.01875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16436.html">Quantifying the Role of Higher-Lying Excited States in Organic Emitters via Multistate Ab Initio Kinetic Modeling</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Yue He et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16436">2508.16436</a></td>
 </tr>
 </tbody></table>

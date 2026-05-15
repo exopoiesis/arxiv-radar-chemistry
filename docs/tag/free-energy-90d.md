@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
+<td>Rao Uzair Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14496.html">Detection of residual native state entropy changes upon mutation in Fyn SH3</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Kresten Lindorff-Larsen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14496">2605.14496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14617.html">Full-Dimensional Reactive Potential Energy Surfaces for OCS$^+$ $\rightarrow$ CO+S$^+$ Dissociation: Ground and Excited States</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
+<td>Cangtao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14617">2605.14617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14974.html">Categorification of Chemical Reactions: a bottom-up tower from stoichiometry to quantum structure</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Kyunghoon Han</td>
+<td><a href="http://arxiv.org/abs/2605.14974">2605.14974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14154.html">TSAgent: An Agentic Workflow for Autonomous Transition State Search</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Varun Madhavan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14154">2605.14154</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
@@ -626,17 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14022.html">Monomeric machine learning potential for general covalent molecules: linear alkanes as an example</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Xinze Li et al.</td>
 <td><a href="http://arxiv.org/abs/2602.14022">2602.14022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12835.html">Estimating Full Path Lengths and Kinetics from Partial Path Transition Interface Sampling Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
-<td>Wouter Vervust et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12835">2602.12835</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13190.html">Disorder viscosity correction approach to calculate spinodal temperature and wavelength</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Simon Divilov et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13190">2602.13190</a></td>
 </tr>
 </tbody></table>

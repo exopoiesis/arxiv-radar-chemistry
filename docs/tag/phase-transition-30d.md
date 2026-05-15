@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transition — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <strong>30d</strong> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14674.html">Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Shijun Mao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14674">2605.14674</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -74,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13848.html">NEPMaker: Active learning of neuroevolution machine learning potential for large cells</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="active-learning-30d.html">active-learning</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Junjie Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13848">2604.13848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23851.html">Coupling of phase transition, anharmonicity, and thermal transport in CaSnF$_6$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Daxue Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23851">2603.23851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12489.html">Directional selection of field-induced phases by weak anisotropy in triangular-lattice K$_2$Mn(SeO$_3$)$_2$</a></div></td>
-<td>Bin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12489">2604.12489</a></td>
 </tr>
 </tbody></table>

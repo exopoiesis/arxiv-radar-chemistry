@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.11735">2605.11735</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13899.html">Frequency-Space Mechanics: A Sequence and Coordinate-Free Representation for Protein Function Prediction</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="protein-function-7d.html">protein-function</a></div></td>
+<td>Charles B Reilly</td>
+<td><a href="http://arxiv.org/abs/2605.13899">2605.13899</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10458.html">QT-Net: Rethinking Evaluation of AI Models in Atomic Chemical Space</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
 <td>Pablo Martínez Crespo et al.</td>
@@ -68,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10975.html">Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation</a></div></td>
 <td>Md Sazzad Hossen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10975">2605.10975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06814.html">From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning</a></div></td>
-<td>Debolina Halder Lina et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06814">2605.06814</a></td>
 </tr>
 </tbody></table>

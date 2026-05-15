@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14617.html">Full-Dimensional Reactive Potential Energy Surfaces for OCS$^+$ $\rightarrow$ CO+S$^+$ Dissociation: Ground and Excited States</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Cangtao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14617">2605.14617</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08691.html">Post-pulse dipole instability in adiabatic TDDFT: fact or artifact?</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Davood B. Dar et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13766.html">Spectroscopy of $^{11}$Be from the $^{10}$Be($d,p$) reaction measured in inverse kinematics by the AT-TPC in SOLARIS</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>M. Z. Serikow et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13766">2604.13766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12638.html">Exact tunneling splittings of rotationally excited states from symmetrized path-integral molecular dynamics</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Lea Zupan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12638">2604.12638</a></td>
 </tr>
 </tbody></table>

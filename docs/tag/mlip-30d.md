@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14527.html">Lang2MLIP: End-to-End Language-to-Machine Learning Interatomic Potential Development with Autonomous Agentic Workflows</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="battery-materials-30d.html">battery-materials</a></div></td>
+<td>Wenwen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14527">2605.14527</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14745.html">Functional and Density-Driven Errors in Density Functional Theory: Quantum Monte Carlo Benchmarks for Solids</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Ayoub Aouina et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14745">2605.14745</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Francesca Menescardi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14974.html">Categorification of Chemical Reactions: a bottom-up tower from stoichiometry to quantum structure</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Kyunghoon Han</td>
+<td><a href="http://arxiv.org/abs/2605.14974">2605.14974</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13788.html">Force-Aware Neural Tangent Kernels for Scalable and Robust Active Learning of MLIPs</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a></div></td>

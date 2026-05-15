@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <strong>30d</strong> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16005.html">Autonomous Multi-objective Alloy Design through Simulation-guided Optimization</a></div></td>
 <td>Penghui Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16005">2507.16005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12639.html">Exact tunneling splittings from path-integral hybrid Monte Carlo with enveloping bridging potentials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Yu-Chen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12639">2604.12639</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13339.html">Uncovering the role of ionic doping in hydroxyapatite: The building blocks of tooth enamel and bones</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Mahdi Tavakol et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13339">2604.13339</a></td>
 </tr>
 </tbody></table>

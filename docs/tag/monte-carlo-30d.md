@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14745.html">Functional and Density-Driven Errors in Density Functional Theory: Quantum Monte Carlo Benchmarks for Solids</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Ayoub Aouina et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14745">2605.14745</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14006.html">Quantum Monte Carlo calculation of $δ_C$ in the superallowed beta decay of $^{10}$C</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Maria Piarulli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14006">2605.14006</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10654.html">Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
@@ -182,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14377.html">Configuration-dependent electronic and optical properties of 2D Mo$_{1-x}$W$_x$S$_2$ alloys across the full composition range</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>M. Szyszko et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14377">2604.14377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12639.html">Exact tunneling splittings from path-integral hybrid Monte Carlo with enveloping bridging potentials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Yu-Chen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12639">2604.12639</a></td>
 </tr>
 </tbody></table>

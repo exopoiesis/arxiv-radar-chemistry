@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14527.html">Lang2MLIP: End-to-End Language-to-Machine Learning Interatomic Potential Development with Autonomous Agentic Workflows</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Wenwen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14527">2605.14527</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13788.html">Force-Aware Neural Tangent Kernels for Scalable and Robust Active Learning of MLIPs</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Eszter Varga-Umbrich et al.</td>
@@ -260,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13911.html">Machine Learning-integrated Multiscale Simulation Framework: Bridging Scales in Associative Polymer-Colloid Suspensions</a></div></td>
 <td>Jalal Abdolahi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13911">2602.13911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17576.html">Atomistic modeling of uranium monocarbide with a machine learning interatomic potential</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Lorena Alzate-Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17576">2507.17576</a></td>
 </tr>
 </tbody></table>

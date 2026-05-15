@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>band-gap — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <strong>30d</strong> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Rao Uzair Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
@@ -230,17 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13768.html">Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Erik Fransson et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13768">2604.13768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12367.html">Kinetic instability and superconductivity in Li$_2$AuH$_6$ and Li$_2$AgH$_6$ at ambient pressure</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yucheng Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12367">2604.12367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12539.html">Thermal Characterization of Buried Interfaces in Multilayer Heterostructures via TDTR with Periodic Waveform Analysis</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Mingzhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12539">2604.12539</a></td>
 </tr>
 </tbody></table>

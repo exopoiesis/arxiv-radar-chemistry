@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14812.html">MetaGEM: Bottom-Up Reconstruction of Genome-Scale Metabolic Networks via Deep Enzyme-Metabolite Anchoring</a></div></td>
+<td>Weiyu Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14812">2605.14812</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11764.html">Decomposing the Generalization Gap in PROTAC Activity Prediction: Variance Attribution and the Inter-Laboratory Ceiling</a></div></td>
 <td>Thor Klamt et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16851.html">Applications of deep generative models to DNA reaction kinetics and to cryogenic electron microscopy</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Chenwei Zhang</td>
 <td><a href="http://arxiv.org/abs/2604.16851">2604.16851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13175.html">Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Aadyot Bhatnagar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13175">2604.13175</a></td>
 </tr>
 </tbody></table>

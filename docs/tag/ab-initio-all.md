@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">2738 papers</span>
+  <span class="paper-count">2746 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>Rao Uzair Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14472.html">Accurate computation of the electron-phonon interaction contribution to the total energy</a></div></td>
+<td>Shilpa Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14472">2605.14472</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14617.html">Full-Dimensional Reactive Potential Energy Surfaces for OCS$^+$ $\rightarrow$ CO+S$^+$ Dissociation: Ground and Excited States</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>Cangtao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14617">2605.14617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Wael Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Francesca Menescardi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13000.html">Neural Network Generalized Parton Distributions (NNGPD)</a></div></td>
@@ -38,6 +68,24 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13594.html">Assessing foundational atomistic models for iron alloys under Earth&#x27;s core conditions</a></div></td>
 <td>Tianqi Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13594">2605.13594</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13984.html">Engineering topological flat bands in $Γ$-valley moiré systems with Ising-type SOC: twisted 1T-ZrS$_2$ and 1T-SnSe$_2$</a></div></td>
+<td>Hanqi Pi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13984">2605.13984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13985.html">Taming nuclear size and shape effects in superallowed beta-decay</a></div></td>
+<td>Bingcheng He et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13985">2605.13985</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14006.html">Quantum Monte Carlo calculation of $δ_C$ in the superallowed beta decay of $^{10}$C</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Maria Piarulli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14006">2605.14006</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>

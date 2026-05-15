@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">472 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14638.html">A DFT+DMFT study of the electronic structure of Samarium</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Shengsong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14638">2605.14638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14974.html">Categorification of Chemical Reactions: a bottom-up tower from stoichiometry to quantum structure</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Kyunghoon Han</td>
+<td><a href="http://arxiv.org/abs/2605.14974">2605.14974</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12067.html">Discovery of High-Voltage Magnesium-Ion Cathodes using Machine Learning and First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
@@ -2834,11 +2846,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13786.html">Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Yu Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13786">2505.13786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12622.html">Unconventional band splitting of CeSb in the devil&#x27;s staircase transition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Tongrui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12622">2505.12622</a></td>
 </tr>
 </tbody></table>

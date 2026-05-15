@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14671.html">Agentic Design of Compositional Descriptors via Autoresearch for Materials Science Applications</a></div></td>
+<td>Matteo Cobelli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14671">2605.14671</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
 <td>Zeyu Wang et al.</td>
@@ -62,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07227.html">Physics Aware Representation Learning on Electronic Charge Density for Materials Property Prediction</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Kammampati Sai Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07227">2605.07227</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06641.html">GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation</a></div></td>
-<td>Ziyu Zhai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06641">2605.06641</a></td>
 </tr>
 </tbody></table>

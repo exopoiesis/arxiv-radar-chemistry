@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13911.html">Rongzai agent: A Large Language Model-Based Autonomous Assistant for Rietveld Refinement of Neutron Diffraction Data</a></div></td>
+<td>Qingmeng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13911">2605.13911</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12489.html">Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yanyu Duan et al.</td>
@@ -650,11 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16435.html">Quantum-Inspired Ising Machines for Quantum Chemistry Calculations</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Mahmood Hasani et al.</td>
 <td><a href="http://arxiv.org/abs/2512.16435">2512.16435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12539.html">Predicting properties of quantum thermal states from a single trajectory</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Jiaqing Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12539">2602.12539</a></td>
 </tr>
 </tbody></table>

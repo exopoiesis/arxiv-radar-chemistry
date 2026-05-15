@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrocatalysis — all</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <a href="electrocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>Rao Uzair Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08728.html">Multi-Fidelity Computational Screening of High-Entropy MBenes for CO$_2$ Electroreduction</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">489 papers</span>
+  <span class="paper-count">490 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14344.html">CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Yuyang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14344">2605.14344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11610.html">Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
@@ -2936,17 +2954,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14901.html">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</a></div></td>
 <td>Tuan-Nghia Bui et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14901">2505.14901</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12848.html">A Comprehensive Benchmarking Platform for Deep Generative Models in Molecular Design</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Adarsh Singh</td>
-<td><a href="http://arxiv.org/abs/2505.12848">2505.12848</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13007.html">Generative Modeling of Random Fields from Limited Data via Constrained Latent Flow Matching</a></div></td>
-<td>James E. Warner et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13007">2505.13007</a></td>
 </tr>
 </tbody></table>

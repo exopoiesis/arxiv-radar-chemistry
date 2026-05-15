@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14674.html">Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Shijun Mao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14674">2605.14674</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1478,17 +1484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17991.html">Efficient local atomic cluster expansion for BaTiO$_3$ close to equilibrium</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Anna Grünebohm et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17991">2505.17991</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12622.html">Unconventional band splitting of CeSb in the devil&#x27;s staircase transition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Tongrui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12622">2505.12622</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12698.html">A Deep Learning Potential for Accurate Shock Response Simulations in Tin</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yixin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12698">2505.12698</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14769.html">Composable Crystals: Controllable Materials Discovery via Concept Learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14769">2605.14769</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Zeyu Wang et al.</td>
@@ -3584,17 +3596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18463.html">Hotspot-Driven Peptide Design via Multi-Fragment Autoregressive Extension</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Jiahan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2411.18463">2411.18463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12848.html">A Comprehensive Benchmarking Platform for Deep Generative Models in Molecular Design</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Adarsh Singh</td>
-<td><a href="http://arxiv.org/abs/2505.12848">2505.12848</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12913.html">Active Learning on Synthons for Molecular Design</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Tom George Grigg et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12913">2505.12913</a></td>
 </tr>
 </tbody></table>

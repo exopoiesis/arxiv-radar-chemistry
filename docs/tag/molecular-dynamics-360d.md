@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1589 papers</span>
+  <span class="paper-count">1585 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14496.html">Detection of residual native state entropy changes upon mutation in Fyn SH3</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Kresten Lindorff-Larsen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14496">2605.14496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Wael Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14655.html">Malleable Molecular Dynamics Simulations with GROMACS and DMR</a></div></td>
+<td>Petter Sandås et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14655">2605.14655</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14687.html">Generalized Suzuki-Chin Factorization in Bosonic Path Integral Molecular Dynamics</a></div></td>
+<td>Jacob Higer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14687">2605.14687</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Francesca Menescardi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div></td>
@@ -74,6 +104,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12823.html">Hessian Matching for Machine-Learned Coarse-Grained Molecular Dynamics</a></div></td>
 <td>Sanya Murdeshwar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12823">2605.12823</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13899.html">Frequency-Space Mechanics: A Sequence and Coordinate-Free Representation for Protein Function Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
+<td>Charles B Reilly</td>
+<td><a href="http://arxiv.org/abs/2605.13899">2605.13899</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -9488,65 +9524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14576.html">Structural States of Filamentary Microgravity Dusty Plasma</a></div></td>
 <td>Emerson Gehr et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14576">2505.14576</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16051.html">Tracing Ion Migration in Halide Perovskites with Machine Learned Force Fields</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Viren Tyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16051">2409.16051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13747.html">Beyond Dielectrics: Interfacial Water Polarization Governs Graphene-Based Electrochemical Interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Peiyao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13747">2411.13747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.08668.html">Heat Transport in Ionic Liquids</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Cillian Cockrell et al.</td>
-<td><a href="http://arxiv.org/abs/2412.08668">2412.08668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03385.html">On the possibility of chiral symmetry breaking in liquid hydrogen peroxide</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Roberto Menta et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03385">2503.03385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12645.html">An improved guess for the variational calculation of charge-transfer excitations in large systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Nicola Bogo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12645">2505.12645</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12962.html">The Importance of Layer-Dependent Molecular Twisting for the Structural Anisotropy of Interfacial Water</a></div></td>
-<td>Alexander P. Fellows et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12962">2505.12962</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13107.html">Electronic and optical and topological properties of defects in bismuthene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Gabriel Elyas Gama Araujo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13107">2505.13107</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13179.html">Lattice thermal conductivity of 16 elemental metals from molecular dynamics simulations with a unified neuroevolution potential</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Shuo Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13179">2505.13179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13330.html">Ionic strength-driven cavitation nucleation: from energy deposition-based to tension-based cavitation</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Junhao Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13330">2505.13330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13707.html">Real-time dynamics with bead-Fourier path integrals I: Bead-Fourier CMD</a></div></td>
-<td>Nathan London et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13707">2505.13707</a></td>
 </tr>
 </tbody></table>

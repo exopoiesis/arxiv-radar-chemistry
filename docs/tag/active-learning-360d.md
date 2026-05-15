@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14527.html">Lang2MLIP: End-to-End Language-to-Machine Learning Interatomic Potential Development with Autonomous Agentic Workflows</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Wenwen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14527">2605.14527</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13788.html">Force-Aware Neural Tangent Kernels for Scalable and Robust Active Learning of MLIPs</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Eszter Varga-Umbrich et al.</td>
@@ -884,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14245.html">Path-integral molecular dynamics with actively-trained and universal machine learning force fields</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>A. A. Solovykh et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14245">2505.14245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12913.html">Active Learning on Synthons for Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Tom George Grigg et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12913">2505.12913</a></td>
 </tr>
 </tbody></table>

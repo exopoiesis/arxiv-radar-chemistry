@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">759 papers</span>
+  <span class="paper-count">762 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14344.html">CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Yuyang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14344">2605.14344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11610.html">Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>

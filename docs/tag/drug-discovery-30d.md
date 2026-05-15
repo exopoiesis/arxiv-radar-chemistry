@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14769.html">Composable Crystals: Controllable Materials Discovery via Concept Learning</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14769">2605.14769</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Zeyu Wang et al.</td>
@@ -296,17 +308,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13980.html">BOAT: Navigating the Sea of In Silico Predictors for Antibody Design via Multi-Objective Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
 <td>Jackie Rao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13980">2604.13980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12237.html">MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Ziqing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12237">2604.12237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12350.html">Scaffold-Conditioned Preference Triplets for Controllable Molecular Optimization with Large Language Models</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Yi Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12350">2604.12350</a></td>
 </tr>
 </tbody></table>

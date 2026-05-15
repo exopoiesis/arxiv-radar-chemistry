@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>vdw-correction — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <strong>30d</strong> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15952.html">Machine-Learned Interatomic Potential for Predictive Simulation of MoS2 Epitaxy</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Emir Bilgili et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15952">2512.15952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12571.html">Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Kacho Imtiyaz Ali Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12571">2604.12571</a></td>
 </tr>
 </tbody></table>

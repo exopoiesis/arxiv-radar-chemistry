@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14674.html">Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Shijun Mao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14674">2605.14674</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Dileep Singh et al.</td>
@@ -416,11 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16871.html">BaFe2Se3 a quasi-unidimensional non-centrosymmetric superconductor</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>S. Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16871">2602.16871</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12620.html">Room-Temperature Terahertz Photoconductivity Polarity Switching in High Entropy Nickelates with Implications for Photonic Synapses</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Sanjeev Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12620">2602.12620</a></td>
 </tr>
 </tbody></table>

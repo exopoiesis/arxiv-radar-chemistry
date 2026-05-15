@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Kaiwen Shi et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17175.html">RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Meghana Kshirsagar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17175">2604.17175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10471.html">Siamese Foundation Models for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10471">2503.10471</a></td>
 </tr>
 </tbody></table>

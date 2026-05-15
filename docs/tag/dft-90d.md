@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">608 papers</span>
+  <span class="paper-count">609 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14336.html">Ward identities and orbital magnetization in current density functional theory</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Giovanni Vignale et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14336">2605.14336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Rao Uzair Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="mlip-90d.html">mlip</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14638.html">A DFT+DMFT study of the electronic structure of Samarium</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Shengsong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14638">2605.14638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Wael Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14745.html">Functional and Density-Driven Errors in Density Functional Theory: Quantum Monte Carlo Benchmarks for Solids</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Ayoub Aouina et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14745">2605.14745</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
@@ -38,6 +74,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="tmd-90d.html">tmd</a></div></td>
 <td>Maciej Bazarnik et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14130.html">The Role of Hydrogen Bridging Bonds in the Shear-Thickening and Jamming of Dense Suspensions</a></div></td>
+<td>Hojin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14130">2605.14130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14154.html">TSAgent: An Agentic Workflow for Autonomous Transition State Search</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Varun Madhavan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14154">2605.14154</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -3620,47 +3668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13768.html">Relativistic spin-momentum locking in ferromagnets</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Xujia Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13768">2602.13768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12562.html">Mechanism-driven CO2 Capture and Activation on Two-dimensional Transition-metal Diborides</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12562">2602.12562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12582.html">Strain-enhanced edge ferromagnetism and bipolar magnetic semiconducting behavior in Janus graphene nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Ran Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12582">2602.12582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12620.html">Room-Temperature Terahertz Photoconductivity Polarity Switching in High Entropy Nickelates with Implications for Photonic Synapses</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Sanjeev Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12620">2602.12620</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12993.html">Neural Quantum States Based on Selected Configurations</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Marco Julian Solanki et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12993">2602.12993</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12997.html">Quantitative Photoemission Predictions of Semiconducting Photocathodes from Many-Body Ab Initio Theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Richard Schier et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12997">2602.12997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13116.html">Unveiling the origin of the capacity fade in MnO$_{2}$ zinc-ion battery cathodes through an analysis of the Mn vacancy formation</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Caio Miranda Miliante et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13116">2602.13116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13365.html">Tuning Optoelectronic Properties and Photoelectrochemical Performance of \b{eta}-TaON via Vanadium Doping</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Mirabbos Hojamberdiev et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13365">2602.13365</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14671.html">Agentic Design of Compositional Descriptors via Autoresearch for Materials Science Applications</a></div></td>
+<td>Matteo Cobelli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14671">2605.14671</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
@@ -128,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16586.html">A Systematic Survey and Benchmark of Deep Learning for Molecular Property Prediction in the Foundation Model Era</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Zongru Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16586">2604.16586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21942.html">Suiren-1.0 Technical Report: A Family of Molecular Foundation Models</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Junyi An et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21942">2603.21942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12350.html">Scaffold-Conditioned Preference Triplets for Controllable Molecular Optimization with Large Language Models</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Yi Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12350">2604.12350</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14496.html">Detection of residual native state entropy changes upon mutation in Fyn SH3</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Kresten Lindorff-Larsen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14496">2605.14496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Wael Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14655.html">Malleable Molecular Dynamics Simulations with GROMACS and DMR</a></div></td>
+<td>Petter Sandås et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14655">2605.14655</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14687.html">Generalized Suzuki-Chin Factorization in Bosonic Path Integral Molecular Dynamics</a></div></td>
+<td>Jacob Higer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14687">2605.14687</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Francesca Menescardi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div></td>
@@ -74,6 +104,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12823.html">Hessian Matching for Machine-Learned Coarse-Grained Molecular Dynamics</a></div></td>
 <td>Sanya Murdeshwar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12823">2605.12823</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13899.html">Frequency-Space Mechanics: A Sequence and Coordinate-Free Representation for Protein Function Prediction</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="protein-function-30d.html">protein-function</a></div></td>
+<td>Charles B Reilly</td>
+<td><a href="http://arxiv.org/abs/2605.13899">2605.13899</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -800,47 +836,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14241.html">Polyformer: a generative framework for thermodynamic modeling of polymeric molecules</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Alessio Valentini et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14241">2604.14241</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23851.html">Coupling of phase transition, anharmonicity, and thermal transport in CaSnF$_6$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Daxue Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23851">2603.23851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12367.html">Kinetic instability and superconductivity in Li$_2$AuH$_6$ and Li$_2$AgH$_6$ at ambient pressure</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Yucheng Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12367">2604.12367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12638.html">Exact tunneling splittings of rotationally excited states from symmetrized path-integral molecular dynamics</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Lea Zupan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12638">2604.12638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12639.html">Exact tunneling splittings from path-integral hybrid Monte Carlo with enveloping bridging potentials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Yu-Chen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12639">2604.12639</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12730.html">Stress field modification near linear complexions increases the effective obstacle size and strengthening effect</a></div></td>
-<td>Zhengyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12730">2604.12730</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13339.html">Uncovering the role of ionic doping in hydroxyapatite: The building blocks of tooth enamel and bones</a></div><div class="paper-tags"><a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Mahdi Tavakol et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13339">2604.13339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19806.html">Improving Molecular Force Fields with Minimal Temporal Information</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Ali Mollahosseini et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19806">2604.19806</a></td>
 </tr>
 </tbody></table>

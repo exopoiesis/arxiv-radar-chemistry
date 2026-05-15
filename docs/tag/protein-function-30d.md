@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-function — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <strong>30d</strong> <a href="protein-function-90d.html">90d</a> <a href="protein-function-360d.html">360d</a> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13899.html">Frequency-Space Mechanics: A Sequence and Coordinate-Free Representation for Protein Function Prediction</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Charles B Reilly</td>
+<td><a href="http://arxiv.org/abs/2605.13899">2605.13899</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09810.html">TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>

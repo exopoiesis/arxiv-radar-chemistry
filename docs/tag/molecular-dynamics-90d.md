@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">477 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14496.html">Detection of residual native state entropy changes upon mutation in Fyn SH3</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Kresten Lindorff-Larsen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14496">2605.14496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Wael Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14655.html">Malleable Molecular Dynamics Simulations with GROMACS and DMR</a></div></td>
+<td>Petter Sandås et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14655">2605.14655</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14687.html">Generalized Suzuki-Chin Factorization in Bosonic Path Integral Molecular Dynamics</a></div></td>
+<td>Jacob Higer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14687">2605.14687</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Francesca Menescardi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div></td>
@@ -74,6 +104,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12823.html">Hessian Matching for Machine-Learned Coarse-Grained Molecular Dynamics</a></div></td>
 <td>Sanya Murdeshwar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12823">2605.12823</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13899.html">Frequency-Space Mechanics: A Sequence and Coordinate-Free Representation for Protein Function Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
+<td>Charles B Reilly</td>
+<td><a href="http://arxiv.org/abs/2605.13899">2605.13899</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -2840,47 +2876,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13931.html">Geometry Challenges Entropy: Regime-DependentRectification in Nanofluidic Cascades</a></div></td>
 <td>Ting Peng</td>
 <td><a href="http://arxiv.org/abs/2602.13931">2602.13931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17576.html">Atomistic modeling of uranium monocarbide with a machine learning interatomic potential</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Lorena Alzate-Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17576">2507.17576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12558.html">Electrohydrodynamic instability of Cu, W and Ti metal nanomelts under radiofrequency E-fields from multiphysics molecular dynamics simulations with coarse-grained density field analysis</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Shangyong Wua et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12558">2602.12558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12562.html">Mechanism-driven CO2 Capture and Activation on Two-dimensional Transition-metal Diborides</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12562">2602.12562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12835.html">Estimating Full Path Lengths and Kinetics from Partial Path Transition Interface Sampling Simulations</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
-<td>Wouter Vervust et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12835">2602.12835</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13101.html">Physics-Informed Glass-Structure Descriptors for Assessing the Intrinsic Reactivity of Mixed Amorphous-Crystalline Precursors in Alkali-Activated Materials</a></div></td>
-<td>Zhu Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13101">2602.13101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13140.html">FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Pingzhi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13140">2602.13140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13187.html">Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Jo S. Kurian et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13187">2602.13187</a></td>
 </tr>
 </tbody></table>

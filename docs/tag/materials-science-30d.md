@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13911.html">Rongzai agent: A Large Language Model-Based Autonomous Assistant for Rietveld Refinement of Neutron Diffraction Data</a></div></td>
+<td>Qingmeng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13911">2605.13911</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12489.html">Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -158,35 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02688.html">MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Chenmu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02688">2604.02688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10471.html">Siamese Foundation Models for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10471">2503.10471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08209.html">Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models</a></div></td>
-<td>Rongji Li et al.</td>
-<td><a href="http://arxiv.org/abs/2601.08209">2601.08209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04850.html">El Agente Quntur: A research collaborator agent for quantum chemistry</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Juan B. Pérez-Sánchez et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04850">2602.04850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07805.html">Machine Learning for Electrode Materials: Property Prediction via Composition</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Hao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07805">2603.07805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13354.html">Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Auguste de Lambilly et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13354">2604.13354</a></td>
 </tr>
 </tbody></table>

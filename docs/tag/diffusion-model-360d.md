@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2822,11 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01781.html">DEFT: Efficient Fine-Tuning of Diffusion Models by Learning the Generalised $h$-transform</a></div></td>
 <td>Alexander Denker et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01781">2406.01781</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08006.html">Greed is Good: A Unifying Perspective on Guided Generation</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Zander W. Blasingame et al.</td>
-<td><a href="http://arxiv.org/abs/2502.08006">2502.08006</a></td>
 </tr>
 </tbody></table>

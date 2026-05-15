@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">347 papers</span>
+  <span class="paper-count">351 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
+<td>Rao Uzair Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14496.html">Detection of residual native state entropy changes upon mutation in Fyn SH3</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Kresten Lindorff-Larsen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14496">2605.14496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14617.html">Full-Dimensional Reactive Potential Energy Surfaces for OCS$^+$ $\rightarrow$ CO+S$^+$ Dissociation: Ground and Excited States</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Cangtao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14617">2605.14617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14974.html">Categorification of Chemical Reactions: a bottom-up tower from stoichiometry to quantum structure</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Kyunghoon Han</td>
+<td><a href="http://arxiv.org/abs/2605.14974">2605.14974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14154.html">TSAgent: An Agentic Workflow for Autonomous Transition State Search</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Varun Madhavan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14154">2605.14154</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
@@ -2090,11 +2120,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13786.html">Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Yu Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13786">2505.13786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12989.html">Ultrafast Laser Induces Macroscopic Symmetry-Breaking of Diamond Color Centers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Yang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12989">2505.12989</a></td>
 </tr>
 </tbody></table>

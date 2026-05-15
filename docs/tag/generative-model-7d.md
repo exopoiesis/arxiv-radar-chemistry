@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14344.html">CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
+<td>Yuyang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14344">2605.14344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11610.html">Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
@@ -44,41 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08960.html">CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
 <td>Chengqian Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08960">2605.08960</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05770.html">Confidence is the key: how conformal prediction enhances the generative design of permeable peptides</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-generation-7d.html">molecular-generation</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Laura van Weesep et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05770">2605.05770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05829.html">MP2D: Constrained Monte Carlo Tree-Guided Diffusion for Multi-Objective Protein Sequence Design</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Zitai Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05829">2605.05829</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06126.html">AffectGPT-RL: Revealing Roles of Reinforcement Learning in Open-Vocabulary Emotion Recognition</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Zheng Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06126">2605.06126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06303.html">Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces</a></div></td>
-<td>Zakaria Elabid et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06303">2605.06303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07020.html">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
-<td>Xinyuan Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07020">2605.07020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08262.html">SLayerGen: a Crystal Generative Model for all Space and Layer Groups</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
-<td>Rees Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08262">2605.08262</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14638.html">A DFT+DMFT study of the electronic structure of Samarium</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Shengsong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14638">2605.14638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14974.html">Categorification of Chemical Reactions: a bottom-up tower from stoichiometry to quantum structure</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Kyunghoon Han</td>
+<td><a href="http://arxiv.org/abs/2605.14974">2605.14974</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12067.html">Discovery of High-Voltage Magnesium-Ion Cathodes using Machine Learning and First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Jhon Rogelnor A. Florida et al.</td>
@@ -866,17 +878,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14887.html">Identifying open-orbit topological surface states in dual topological semimetal TaSb$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Susmita Changdar et al.</td>
 <td><a href="http://arxiv.org/abs/2602.14887">2602.14887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12993.html">Neural Quantum States Based on Selected Configurations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Marco Julian Solanki et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12993">2602.12993</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13365.html">Tuning Optoelectronic Properties and Photoelectrochemical Performance of \b{eta}-TaON via Vanadium Doping</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Mirabbos Hojamberdiev et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13365">2602.13365</a></td>
 </tr>
 </tbody></table>

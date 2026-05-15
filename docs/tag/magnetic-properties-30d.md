@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14336.html">Ward identities and orbital magnetization in current density functional theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Giovanni Vignale et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14336">2605.14336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14674.html">Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
+<td>Shijun Mao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14674">2605.14674</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
@@ -182,23 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14377.html">Configuration-dependent electronic and optical properties of 2D Mo$_{1-x}$W$_x$S$_2$ alloys across the full composition range</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>M. Szyszko et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14377">2604.14377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10956.html">A first-principles study of bcc chromium beyond the generalized gradient approximation (GGA)</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Alma Partos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10956">2604.10956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12249.html">Orbital-selective correlations and angular momentum coupling in heavy actinides Am, Cm, Bk, and Cf under pressure: A many-body perspective</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Haiyan Lu</td>
-<td><a href="http://arxiv.org/abs/2604.12249">2604.12249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12571.html">Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Kacho Imtiyaz Ali Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12571">2604.12571</a></td>
 </tr>
 </tbody></table>

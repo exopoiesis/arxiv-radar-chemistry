@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14344.html">CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Yuyang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14344">2605.14344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mlip-30d.html">mlip</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10636.html">Oxygen vacancies beyond the dilute limit in doped CaMnO3 perovskites and implications for screening materials in thermochemical applications</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Harender S. Dhattarwal et al.</td>
@@ -98,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13768.html">Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Erik Fransson et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13768">2604.13768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10471.html">Siamese Foundation Models for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10471">2503.10471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12249.html">Orbital-selective correlations and angular momentum coupling in heavy actinides Am, Cm, Bk, and Cf under pressure: A many-body perspective</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Haiyan Lu</td>
-<td><a href="http://arxiv.org/abs/2604.12249">2604.12249</a></td>
 </tr>
 </tbody></table>

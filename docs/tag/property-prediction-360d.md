@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14671.html">Agentic Design of Compositional Descriptors via Autoresearch for Materials Science Applications</a></div></td>
+<td>Matteo Cobelli et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14671">2605.14671</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Zeyu Wang et al.</td>
@@ -1544,11 +1550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15132.html">Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
 <td>Adib Bazgir et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15132">2505.15132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12650.html">AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Yaotian Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12650">2505.12650</a></td>
 </tr>
 </tbody></table>

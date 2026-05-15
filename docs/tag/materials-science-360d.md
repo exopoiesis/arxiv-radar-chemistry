@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13911.html">Rongzai agent: A Large Language Model-Based Autonomous Assistant for Rietveld Refinement of Neutron Diffraction Data</a></div></td>
+<td>Qingmeng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13911">2605.13911</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12489.html">Designing Coulombic Contact Interactions between Polarizable Particles through Asymmetry</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yanyu Duan et al.</td>
@@ -2648,11 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14245.html">Path-integral molecular dynamics with actively-trained and universal machine learning force fields</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>A. A. Solovykh et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14245">2505.14245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12650.html">AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Yaotian Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12650">2505.12650</a></td>
 </tr>
 </tbody></table>

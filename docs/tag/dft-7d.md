@@ -16,6 +16,42 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14336.html">Ward identities and orbital magnetization in current density functional theory</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Giovanni Vignale et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14336">2605.14336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Rao Uzair Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="mlip-7d.html">mlip</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14638.html">A DFT+DMFT study of the electronic structure of Samarium</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Shengsong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14638">2605.14638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Wael Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14745.html">Functional and Density-Driven Errors in Density Functional Theory: Quantum Monte Carlo Benchmarks for Solids</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Ayoub Aouina et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14745">2605.14745</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Yetkin Pulcu et al.</td>
@@ -38,6 +74,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="tmd-7d.html">tmd</a></div></td>
 <td>Maciej Bazarnik et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14130.html">The Role of Hydrogen Bridging Bonds in the Shear-Thickening and Jamming of Dense Suspensions</a></div></td>
+<td>Hojin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14130">2605.14130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14154.html">TSAgent: An Agentic Workflow for Autonomous Transition State Search</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
+<td>Varun Madhavan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14154">2605.14154</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -200,53 +248,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07862.html">Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Tariq Leinen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07862">2605.07862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05612.html">Tuning charge-transport properties and magnetic order in metallic EuTiO$_{3-δ}$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Xing He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05612">2605.05612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06013.html">Assessing excited-state geometry optimization strategies for adiabatic photophysical energies</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Amrita Bera et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06013">2605.06013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06215.html">FunctionalAgent: Towards end-to-end on-top functional design</a></div></td>
-<td>Yuhao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06215">2605.06215</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06293.html">Solvent-induced memory effects in a model electrolyte</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Sleeba Varghese et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06293">2605.06293</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06348.html">From Deposition Stress to Surface Reactivity: Strain-Dependent Hydrogen Evolution on Sputtered Platinum Thin Films</a></div><div class="paper-tags"><a href="electrocatalysis-7d.html">electrocatalysis</a></div></td>
-<td>Sabrina Baha et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06348">2605.06348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06489.html">TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Cheng Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06489">2605.06489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06545.html">Emergence of a correlated insulating state in bulk 1T-NbSe$_2$ via metal intercalation</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
-<td>M. Tomlinson et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06545">2605.06545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06798.html">Disentangling bulk and surface electronic structure using targeted cleave planes in RuO$_2$</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Maria H. Visscher et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06798">2605.06798</a></td>
 </tr>
 </tbody></table>

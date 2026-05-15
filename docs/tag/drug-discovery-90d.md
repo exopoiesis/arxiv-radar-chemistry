@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14769.html">Composable Crystals: Controllable Materials Discovery via Concept Learning</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14769">2605.14769</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Zeyu Wang et al.</td>
@@ -938,17 +950,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18367.html">A Novel 4-D Dataset Paradigm for Studying Complete Ligand-Protein Dissociation Dynamics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Maodong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18367">2504.18367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13503.html">Hermes: Large DEL Datasets Train Generalizable Protein-Ligand Binding Prediction Models</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Maxwell Kleinsasser et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13503">2602.13503</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20176.html">Cross-Chirality Generalization by Axial Vectors for Hetero-Chiral Protein-Peptide Interaction Design</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Ziyi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20176">2602.20176</a></td>
 </tr>
 </tbody></table>

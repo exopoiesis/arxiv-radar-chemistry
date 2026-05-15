@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14287.html">A quantum chemistry dataset containing ground-state and conical-intersection structures of 260k molecules</a></div></td>
+<td>Jiahui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14287">2605.14287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14608.html">On the effective rank of canonical polyadic decomposition of electron repulsion integrals</a></div></td>
+<td>Aleksandra Oszmian et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14608">2605.14608</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14154.html">TSAgent: An Agentic Workflow for Autonomous Transition State Search</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Varun Madhavan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14154">2605.14154</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12614.html">A Quantum Multi-Programming Framework to Maximize Quantum Resources for the LUCJ Ansatz</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
@@ -698,29 +716,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17722.html">Identification of Solid-Electrolyte Interphase Species by Joint Characterization of Li-ion Battery Chemistry by Mass Spectrometry and Electro-Chemical Reaction Networks</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
 <td>Mona Abdelgaid et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17722">2602.17722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12539.html">Predicting properties of quantum thermal states from a single trajectory</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Jiaqing Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12539">2602.12539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12560.html">Graph Neural Network Prediction of Infrared Spectra of Interstellar Polycyclic Aromatic Hydrocarbons</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Guoqing Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12560">2602.12560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12993.html">Neural Quantum States Based on Selected Configurations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Marco Julian Solanki et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12993">2602.12993</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13374.html">Adaptive Pseudoboson Density-Matrix Renormalization Group for Dilute 2D Systems</a></div></td>
-<td>Fabian J. Pauw et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13374">2602.13374</a></td>
 </tr>
 </tbody></table>

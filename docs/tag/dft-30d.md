@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14336.html">Ward identities and orbital magnetization in current density functional theory</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Giovanni Vignale et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14336">2605.14336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Rao Uzair Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mlip-30d.html">mlip</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14638.html">A DFT+DMFT study of the electronic structure of Samarium</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Shengsong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14638">2605.14638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Wael Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14745.html">Functional and Density-Driven Errors in Density Functional Theory: Quantum Monte Carlo Benchmarks for Solids</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Ayoub Aouina et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14745">2605.14745</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
@@ -38,6 +74,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="tmd-30d.html">tmd</a></div></td>
 <td>Maciej Bazarnik et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14130.html">The Role of Hydrogen Bridging Bonds in the Shear-Thickening and Jamming of Dense Suspensions</a></div></td>
+<td>Hojin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14130">2605.14130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14154.html">TSAgent: An Agentic Workflow for Autonomous Transition State Search</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Varun Madhavan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14154">2605.14154</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -992,47 +1040,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14377.html">Configuration-dependent electronic and optical properties of 2D Mo$_{1-x}$W$_x$S$_2$ alloys across the full composition range</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>M. Szyszko et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14377">2604.14377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10471.html">Siamese Foundation Models for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10471">2503.10471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21942.html">Suiren-1.0 Technical Report: A Family of Molecular Foundation Models</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Junyi An et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21942">2603.21942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10956.html">A first-principles study of bcc chromium beyond the generalized gradient approximation (GGA)</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Alma Partos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10956">2604.10956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12249.html">Orbital-selective correlations and angular momentum coupling in heavy actinides Am, Cm, Bk, and Cf under pressure: A many-body perspective</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Haiyan Lu</td>
-<td><a href="http://arxiv.org/abs/2604.12249">2604.12249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12571.html">Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Kacho Imtiyaz Ali Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12571">2604.12571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13228.html">X-ray Absorption and Resonant X-ray Emission at the Carbon Edge of Li$_2$CO$_3$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>John Vinson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13228">2604.13228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13354.html">Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Auguste de Lambilly et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13354">2604.13354</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">304 papers</span>
+  <span class="paper-count">301 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1820,23 +1820,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18338.html">Strain Modulated Catalytic Activity of Pt2XSe3 (X = Hg, Zn) for Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Caique C. Oliveira et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18338">2505.18338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13786.html">Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Yu Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13786">2505.13786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14095.html">Reactive Glass Metal Interaction under Ambient Conditions Enables Surface Modification of Gold Nanoislands</a></div></td>
-<td>Sinorul Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14095">2505.14095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14116.html">Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst</a></div></td>
-<td>Hongru Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14116">2505.14116</a></td>
 </tr>
 </tbody></table>

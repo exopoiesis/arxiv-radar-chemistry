@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,11 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09055.html">Learn Like Feynman: Developing and Testing an AI-Driven Feynman Bot</a></div></td>
 <td>Akshaya Rajesh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09055">2506.09055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14245.html">Path-integral molecular dynamics with actively-trained and universal machine learning force fields</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>A. A. Solovykh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14245">2505.14245</a></td>
 </tr>
 </tbody></table>

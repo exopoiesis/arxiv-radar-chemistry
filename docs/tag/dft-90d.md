@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">609 papers</span>
+  <span class="paper-count">606 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3650,23 +3650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14887.html">Identifying open-orbit topological surface states in dual topological semimetal TaSb$_2$</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Susmita Changdar et al.</td>
 <td><a href="http://arxiv.org/abs/2602.14887">2602.14887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19079.html">First-principles calculation of electronic and topological properties of low-dimensional tellurium</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Gabriel Elyas Gama Araujo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19079">2510.19079</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13725.html">MLIP-MC: A Framework for Adsorption Simulations using Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="mof-90d.html">mof</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Connor W. Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13725">2602.13725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13768.html">Relativistic spin-momentum locking in ferromagnets</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Xujia Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13768">2602.13768</a></td>
 </tr>
 </tbody></table>

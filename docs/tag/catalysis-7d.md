@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>catalysis — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09148.html">Sensitivity Analysis in the Face of Rare Events</a></div></td>
 <td>John Strahan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09148">2605.09148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07714.html">Selectivity- and Activity-Aware Catalyst Descriptors for CO$_2$ Hydrogenation on Alloy Nanocatalysts using Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Prajwal Pisal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07714">2605.07714</a></td>
 </tr>
 </tbody></table>

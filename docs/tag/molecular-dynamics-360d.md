@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1585 papers</span>
+  <span class="paper-count">1581 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9500,29 +9500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15665.html">Analysis and Simulation of Generalized Langevin Equations with Non-Gaussian Orthogonal Forces</a></div></td>
 <td>Henrik Kiefer et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15665">2505.15665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10994.html">Picocavity-Enhanced Raman Spectroscopy of Physisorbed H$_2$ and D$_2$ Molecules</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Akitoshi Shiotari et al.</td>
-<td><a href="http://arxiv.org/abs/2411.10994">2411.10994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14245.html">Path-integral molecular dynamics with actively-trained and universal machine learning force fields</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>A. A. Solovykh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14245">2505.14245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14520.html">Influence of active breathing on rheology and jamming of amorphous solids: insights from microscopic and mesoscale analysis</a></div></td>
-<td>Sayantan Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14520">2505.14520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14576.html">Structural States of Filamentary Microgravity Dusty Plasma</a></div></td>
-<td>Emerson Gehr et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14576">2505.14576</a></td>
 </tr>
 </tbody></table>

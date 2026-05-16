@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">597 papers</span>
+  <span class="paper-count">596 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3590,11 +3590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11041.html">ChemHGNN: A Hierarchical Hypergraph Neural Network for Reaction Virtual Screening and Discovery</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Xiaobao Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11041">2506.11041</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18463.html">Hotspot-Driven Peptide Design via Multi-Fragment Autoregressive Extension</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Jiahan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2411.18463">2411.18463</a></td>
 </tr>
 </tbody></table>

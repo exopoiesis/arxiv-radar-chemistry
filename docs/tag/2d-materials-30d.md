@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,17 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15394.html">Atomic-scale order enables high thermal boundary conductance at $β$-Ga$_2$O$_3$/4H-SiC interfaces</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>Hongao Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15394">2604.15394</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07043.html">Uni2D: A Universal Machine Learning Interatomic Potential for Two-Dimensional Materials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Haidi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07043">2506.07043</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14470.html">Environment-dependent tight-binding models from ab initio pseudo-atomic orbital Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Marco Buongiorno Nardelli</td>
-<td><a href="http://arxiv.org/abs/2604.14470">2604.14470</a></td>
 </tr>
 </tbody></table>

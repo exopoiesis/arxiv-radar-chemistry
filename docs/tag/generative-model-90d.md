@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,17 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15022.html">Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation</a></div></td>
 <td>Cai Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15022">2602.15022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18367.html">A Novel 4-D Dataset Paradigm for Studying Complete Ligand-Protein Dissociation Dynamics</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Maodong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18367">2504.18367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04338.html">Riemannian Denoising Diffusion Probabilistic Models</a></div></td>
-<td>Zichen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04338">2505.04338</a></td>
 </tr>
 </tbody></table>

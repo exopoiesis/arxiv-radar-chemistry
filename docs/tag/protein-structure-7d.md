@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>protein-structure — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10978.html">VibeProteinBench: An Evaluation Benchmark for Language-interfaced Vibe Protein Design</a></div></td>
 <td>Hyunjin Seo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10978">2605.10978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07627.html">A Unified Local Light-shifts Encoding For Solving Optimization Problems on a Rydberg Annealer</a></div></td>
-<td>Kapil Goswami et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07627">2605.07627</a></td>
 </tr>
 </tbody></table>

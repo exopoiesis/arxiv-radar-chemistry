@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,29 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20886.html">KinetiDiff: Docking-Guided Diffusion for De Novo ACVR1 Inhibitor Design in Fibrodysplasia Ossificans Progressiva</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Aaryan Patel</td>
 <td><a href="http://arxiv.org/abs/2604.20886">2604.20886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13471.html">Computational framework for multistep metabolic pathway design</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Peter Zhiping Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13471">2604.13471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13520.html">LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Chaoran Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13520">2604.13520</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13877.html">Scalable Quantum Molecular Generation via GPU-Accelerated Tensor-Network Simulation</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Yu-Cheng Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13877">2604.13877</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13980.html">BOAT: Navigating the Sea of In Silico Predictors for Antibody Design via Multi-Objective Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Jackie Rao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13980">2604.13980</a></td>
 </tr>
 </tbody></table>

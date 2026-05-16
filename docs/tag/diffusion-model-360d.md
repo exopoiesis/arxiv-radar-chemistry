@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2810,17 +2810,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17130.html">Acceleration of enzymatic reaction-diffusion kinetics by intermediate state</a></div></td>
 <td>Akihiro Fukuda et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17130">2505.17130</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.11340.html">StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining</a></div></td>
-<td>Tushar Kataria et al.</td>
-<td><a href="http://arxiv.org/abs/2403.11340">2403.11340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01781.html">DEFT: Efficient Fine-Tuning of Diffusion Models by Learning the Generalised $h$-transform</a></div></td>
-<td>Alexander Denker et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01781">2406.01781</a></td>
 </tr>
 </tbody></table>

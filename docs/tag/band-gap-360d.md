@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">480 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2888,11 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17292.html">Self-consistent layer-projected scissors operator for band structures of complex 2D van der Waals materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Dario A. Leon et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17292">2505.17292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17799.html">Rapid low-temperature synthesis of graphene-coated SiC substrates for remote and van der Waals epitaxy</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Se H. Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17799">2502.17799</a></td>
 </tr>
 </tbody></table>

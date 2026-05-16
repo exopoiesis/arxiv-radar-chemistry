@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multimodal-llm — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <strong>360d</strong> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15132.html">Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Adib Bazgir et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15132">2505.15132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.15863.html">Task-oriented Robotic Manipulation with Vision Language Models</a></div></td>
-<td>Nurhan Bulus Guran et al.</td>
-<td><a href="http://arxiv.org/abs/2410.15863">2410.15863</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">268 papers</span>
+  <span class="paper-count">267 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1616,11 +1616,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15132.html">Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Adib Bazgir et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15132">2505.15132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17866.html">Artificial Intelligence, Scientific Discovery, and Product Innovation</a></div></td>
-<td>Aidan Toner-Rodgers</td>
-<td><a href="http://arxiv.org/abs/2412.17866">2412.17866</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">351 papers</span>
+  <span class="paper-count">350 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2114,11 +2114,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15474.html">Entropy exchange in an inter-correlating binary quasi-classical system: Concept of entropy-bath accelerated molecular dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Projesh Kumar Roy</td>
 <td><a href="http://arxiv.org/abs/2505.15474">2505.15474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13786.html">Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Yu Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13786">2505.13786</a></td>
 </tr>
 </tbody></table>

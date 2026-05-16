@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,29 +1028,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15268.html">High-throughput screening and mechanistic insights into solid acid proton conductors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Jonas Hänseroth et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15268">2602.15268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02457.html">How individual vs shared coordination governs the degree of correlation in rotational vs residence times in a high-viscosity lithium electrolyte</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Vinay Thakur et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02457">2505.02457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20164.html">Massive Discovery of Low-Dimensional Materials from Universal Computational Strategy</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Mohammad Bagheri et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20164">2509.20164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13553.html">fix pimd/langevin: An Efficient Implementation of Path Integral Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Yifan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13553">2602.13553</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13725.html">MLIP-MC: A Framework for Adsorption Simulations using Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mof-90d.html">mof</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Connor W. Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13725">2602.13725</a></td>
 </tr>
 </tbody></table>

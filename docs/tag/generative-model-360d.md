@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">490 papers</span>
+  <span class="paper-count">487 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2936,23 +2936,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11091.html">AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Maximilian G. Schuh et al.</td>
 <td><a href="http://arxiv.org/abs/2504.11091">2504.11091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10431.html">Diversity-Aware Reinforcement Learning for de novo Drug Design</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Hampus Gummesson Svensson et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10431">2410.10431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18463.html">Hotspot-Driven Peptide Design via Multi-Fragment Autoregressive Extension</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Jiahan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2411.18463">2411.18463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14901.html">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</a></div></td>
-<td>Tuan-Nghia Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14901">2505.14901</a></td>
 </tr>
 </tbody></table>

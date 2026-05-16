@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,17 +590,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21244.html">Physics Constrained Neural Collision Operators for Variable Hard Sphere Surrogates and Ab Initio Angle Prediction in Direct Simulation Monte Carlo</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Ehsan Roohi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21244">2602.21244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22927.html">Two-Electron Correlations in the Metallic Electron Gas</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Zhiyi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22927">2511.22927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13725.html">MLIP-MC: A Framework for Adsorption Simulations using Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="mof-90d.html">mof</a></div></td>
-<td>Connor W. Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13725">2602.13725</a></td>
 </tr>
 </tbody></table>

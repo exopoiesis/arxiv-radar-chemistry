@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mof — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <strong>90d</strong> <a href="mof-360d.html">360d</a> <a href="mof-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17730.html">Clever Materials: When Models Identify Good Materials for the Wrong Reasons</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Kevin Maik Jablonka</td>
 <td><a href="http://arxiv.org/abs/2602.17730">2602.17730</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13725.html">MLIP-MC: A Framework for Adsorption Simulations using Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Connor W. Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13725">2602.13725</a></td>
 </tr>
 </tbody></table>

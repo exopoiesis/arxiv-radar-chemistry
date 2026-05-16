@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">220 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1328,11 +1328,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16926.html">Photo-induced electronic excitations drive polymerization of carbon monoxide: A first-principles study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Rasool Ahmad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16926">2505.16926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14794.html">Time-dependent density-functional study of intermolecular Coulombic decay for 2a$_1$ ionized water dimer</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Kedong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14794">2505.14794</a></td>
 </tr>
 </tbody></table>

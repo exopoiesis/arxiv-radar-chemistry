@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>gnn — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,23 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09495.html">Enabling Structure-Only Initialization and Out-of-Distribution Generalization in GNN-based Molecular Dynamics Simulators</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>S. A. Shteingolts et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09495">2605.09495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07156.html">Hierarchical Perfusion Graphs for Tumor Heterogeneity Modeling in Glioma Molecular Subtyping</a></div></td>
-<td>Han Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07156">2605.07156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07838.html">PPI-Net connects molecular protein interactions to functional processes in disease</a></div></td>
-<td>Kyle Higgins et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07838">2605.07838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10975.html">Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation</a></div></td>
-<td>Md Sazzad Hossen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10975">2605.10975</a></td>
 </tr>
 </tbody></table>

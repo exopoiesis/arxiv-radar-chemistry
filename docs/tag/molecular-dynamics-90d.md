@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">477 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2852,29 +2852,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14328.html">Conformational landscapes in cryo-ET data based on MD simulations</a></div></td>
 <td>Slavica Jonic</td>
 <td><a href="http://arxiv.org/abs/2602.14328">2602.14328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02457.html">How individual vs shared coordination governs the degree of correlation in rotational vs residence times in a high-viscosity lithium electrolyte</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Vinay Thakur et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02457">2505.02457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13553.html">fix pimd/langevin: An Efficient Implementation of Path Integral Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Yifan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13553">2602.13553</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13827.html">Ion Implantation Enhanced Nucleation Facilitates Heat Transport across Atomically-Sharp Semiconductor Interfaces</a></div></td>
-<td>Jinwen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13827">2602.13827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13931.html">Geometry Challenges Entropy: Regime-DependentRectification in Nanofluidic Cascades</a></div></td>
-<td>Ting Peng</td>
-<td><a href="http://arxiv.org/abs/2602.13931">2602.13931</a></td>
 </tr>
 </tbody></table>

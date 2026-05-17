@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,11 +842,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06770.html">Vibrational ADAPT-VQE: Critical points leads to problematic convergence</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Marco Majland et al.</td>
 <td><a href="http://arxiv.org/abs/2404.06770">2404.06770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11091.html">Calculating the energy profile of an enzymatic reaction on a quantum computer</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Patrick Ettenhuber et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11091">2408.11091</a></td>
 </tr>
 </tbody></table>

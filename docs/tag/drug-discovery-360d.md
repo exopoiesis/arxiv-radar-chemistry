@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">596 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3572,23 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17154.html">Can Large Language Models Design Biological Weapons? Evaluating Moremi Bio</a></div></td>
 <td>Gertrude Hattoh et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17154">2505.17154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16639.html">Mechanistic rules for de novo design of enzymes</a></div></td>
-<td>Michalis Chatzittofi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16639">2408.16639</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11091.html">AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Maximilian G. Schuh et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11091">2504.11091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11041.html">ChemHGNN: A Hierarchical Hypergraph Neural Network for Reaction Virtual Screening and Discovery</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Xiaobao Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11041">2506.11041</a></td>
 </tr>
 </tbody></table>

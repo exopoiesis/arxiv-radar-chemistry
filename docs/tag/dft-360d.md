@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2111 papers</span>
+  <span class="paper-count">2109 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12668,17 +12668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17292.html">Self-consistent layer-projected scissors operator for band structures of complex 2D van der Waals materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Dario A. Leon et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17292">2505.17292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15864.html">Ambient-pressure superconductivity onset at 10 K and robust Tc under high pressure in TiNbTaN3 medium-entropy nitride</a></div></td>
-<td>Lingyong Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15864">2505.15864</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16021.html">Auxiliary Field Quantum Monte Carlo for Electron-Photon Correlation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Braden M. Weight et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16021">2505.16021</a></td>
 </tr>
 </tbody></table>

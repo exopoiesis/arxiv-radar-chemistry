@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">273 papers</span>
+  <span class="paper-count">272 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1646,11 +1646,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17237.html">Predicting protein folding dynamics using sequence information</a></div></td>
 <td>Ezequiel A. Galpern et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17237">2505.17237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11091.html">AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Maximilian G. Schuh et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11091">2504.11091</a></td>
 </tr>
 </tbody></table>

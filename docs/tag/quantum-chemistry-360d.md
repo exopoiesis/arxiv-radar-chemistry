@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">385 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2324,23 +2324,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06770.html">Vibrational ADAPT-VQE: Critical points leads to problematic convergence</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Marco Majland et al.</td>
 <td><a href="http://arxiv.org/abs/2404.06770">2404.06770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11091.html">Calculating the energy profile of an enzymatic reaction on a quantum computer</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Patrick Ettenhuber et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11091">2408.11091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04145.html">Connectivity matters: Impact of bath modes ordering and geometry in open quantum system simulation with Tensor Network States</a></div></td>
-<td>Thibaut Lacroix et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04145">2409.04145</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16021.html">Auxiliary Field Quantum Monte Carlo for Electron-Photon Correlation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Braden M. Weight et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16021">2505.16021</a></td>
 </tr>
 </tbody></table>

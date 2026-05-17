@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">256 papers</span>
+  <span class="paper-count">254 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1538,17 +1538,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03360.html">Transformers for molecular property prediction: Domain adaptation efficiently improves performance</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Afnan Sultan et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03360">2503.03360</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11970.html">DARWIN 1.5: Large Language Models as Materials Science Adapted Learners</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Tong Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11970">2412.11970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15132.html">Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Adib Bazgir et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15132">2505.15132</a></td>
 </tr>
 </tbody></table>

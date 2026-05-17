@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">439 papers</span>
+  <span class="paper-count">434 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2618,35 +2618,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11055.html">PolyMicros: Bootstrapping a Foundation Model for Polycrystalline Material Structure</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Michael Buzzy et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11055">2506.11055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11970.html">DARWIN 1.5: Large Language Models as Materials Science Adapted Learners</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Tong Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11970">2412.11970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15094.html">SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models</a></div></td>
-<td>Jing Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15094">2505.15094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15523.html">Exciton-defect interaction and optical properties from a first-principles T-matrix approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Yang-hao Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15523">2505.15523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15663.html">Lithium Intercalation in the Anisotropic van der Waals Magnetic Semiconductor CrSBr</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Kseniia Mosina et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15663">2505.15663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11041.html">ChemHGNN: A Hierarchical Hypergraph Neural Network for Reaction Virtual Screening and Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Xiaobao Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11041">2506.11041</a></td>
 </tr>
 </tbody></table>

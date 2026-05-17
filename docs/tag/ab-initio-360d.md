@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1625 papers</span>
+  <span class="paper-count">1620 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9734,35 +9734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16870.html">First-principles study of metal-biphenylene interfaces: structural, electronic, and catalytic properties</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Maicon P. Lebre et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16870">2505.16870</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11320.html">Reconstructing Primordial Curvature Perturbations via Scalar-Induced Gravitational Waves with LISA</a></div></td>
-<td>Jonas El Gammal et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11320">2501.11320</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11912.html">Uncovering the atomic structure of substitutional platinum dopants in MoS$_2$ with single-sideband ptychography</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>David Lamprecht et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11912">2502.11912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15266.html">Bonding relay for room-temperature oxide plasticity like metals</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xiangkai Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15266">2505.15266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15523.html">Exciton-defect interaction and optical properties from a first-principles T-matrix approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Yang-hao Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15523">2505.15523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16021.html">Auxiliary Field Quantum Monte Carlo for Electron-Photon Correlation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Braden M. Weight et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16021">2505.16021</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>free-energy — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10654.html">Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>Jixiang Qing et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10654">2605.10654</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08780.html">Concentration-Dependent Membrane Destabilization in DPPC Bilayers: Distinct Insertion Mechanisms and Stress Redistribution by Chloroform and Alkanols</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Anirban Polley</td>
-<td><a href="http://arxiv.org/abs/2605.08780">2605.08780</a></td>
 </tr>
 </tbody></table>

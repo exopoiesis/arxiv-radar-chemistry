@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>free-energy — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <strong>30d</strong> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05717.html">Comparing the latent features of universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Sofiia Chorna et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05717">2512.05717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10992.html">Bayesian Optimization with Gaussian Processes to Accelerate Stationary Point Searches</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Rohit Goswami</td>
-<td><a href="http://arxiv.org/abs/2603.10992">2603.10992</a></td>
 </tr>
 </tbody></table>

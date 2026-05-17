@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -650,29 +650,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16013.html">Multi-reference GW approximation for strongly correlated molecules</a></div></td>
 <td>Yuqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16013">2604.16013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14784.html">Interfacial Electric Fields in Water Nanodroplets are Weakly Dependent on Curvature and pH</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Gabriele Amante et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14784">2604.14784</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14859.html">Unconventional plasmon dynamics due to strong correlations in Sr$_2$RuO$_4$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Juraj Krsnik et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14859">2604.14859</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15156.html">Lattice dynamics and complete polarization analysis of Raman-active modes in LaInO$_3$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Jonas Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15156">2604.15156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15518.html">Lorentz and CPT violation and the hydrogen and antihydrogen molecular ions III -- rovibrational spectrum and the non-minimal SME</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Graham M Shore</td>
-<td><a href="http://arxiv.org/abs/2604.15518">2604.15518</a></td>
 </tr>
 </tbody></table>

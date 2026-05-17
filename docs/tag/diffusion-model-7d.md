@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09810.html">TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation</a></div><div class="paper-tags"><a href="protein-function-7d.html">protein-function</a> · <a href="protein-ligand-7d.html">protein-ligand</a></div></td>
 <td>Hanqun Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09810">2605.09810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08953.html">A putative, computationally stable structure of homotrimeric BP180/collagen XVII</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Congzhou M Sha</td>
-<td><a href="http://arxiv.org/abs/2605.08953">2605.08953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09065.html">Dependency-Aware Discrete Diffusion for Scene Graph Generation</a></div></td>
-<td>Rajalaxmi Rajagopalan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09065">2605.09065</a></td>
 </tr>
 </tbody></table>

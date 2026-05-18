@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,29 +908,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15451.html">Molecular Design beyond Training Data with Novel Extended Objective Functionals of Generative AI Models Driven by Quantum Annealing Computer</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Hayato Kunugi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15451">2602.15451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11439.html">Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Nianze Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11439">2412.11439</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01055.html">FGBench: A Dataset and Benchmark for Molecular Property Reasoning at Functional Group-Level in Large Language Models</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Xuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01055">2508.01055</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15236.html">BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Anjie Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15236">2602.15236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17712.html">HBAT 2: A Python Package to Analyse Hydrogen Bonds and Other Non-covalent Interactions in Macromolecular Structures</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Abhishek Tiwari</td>
-<td><a href="http://arxiv.org/abs/2602.17712">2602.17712</a></td>
 </tr>
 </tbody></table>

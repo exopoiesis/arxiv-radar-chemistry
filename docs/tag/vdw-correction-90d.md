@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vdw-correction — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <strong>90d</strong> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21419.html">Electrostatic Gating of Ionic Conductance Through Heterogeneous van der Waals Nanopores</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Aaron H. Barajas-Aguilar et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21419">2602.21419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15002.html">Stacking-Engineered Thermal Transport and Phonon Filtering in Rhenium Disulfide</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Yongjian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15002">2602.15002</a></td>
 </tr>
 </tbody></table>

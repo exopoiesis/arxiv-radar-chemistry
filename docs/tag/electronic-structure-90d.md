@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,17 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15923.html">A fully differentiable framework for training proxy Exchange Correlation Functionals for periodic systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Rakshit Kumar Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15923">2602.15923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04508.html">Low-temperature transport in high-conductivity correlated metals: a density-functional plus dynamical mean-field study of cubic perovskites</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Harrison LaBollita et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04508">2505.04508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14887.html">Identifying open-orbit topological surface states in dual topological semimetal TaSb$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Susmita Changdar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14887">2602.14887</a></td>
 </tr>
 </tbody></table>

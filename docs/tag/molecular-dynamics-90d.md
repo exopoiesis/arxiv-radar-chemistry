@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2792,41 +2792,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16007.html">Stochastic Modeling of Anisotropic Strength Surfaces from Atomistic Simulations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
 <td>Alexander Bonacci et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16007">2602.16007</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21065.html">Hollow Beam Optical Ponderomotive Trap for Ultracold Neutral Plasma</a></div></td>
-<td>S. A. Saakyan</td>
-<td><a href="http://arxiv.org/abs/2410.21065">2410.21065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20886.html">Quantum algorithm for Ewald summation based computation of long-range electrostatics</a></div></td>
-<td>Mansur Ziiatdinov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.20886">2512.20886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10954.html">Coarse-Grained Molecular Dynamics Simulations of Oxidative Aging and Stabilization in Polymer Melts with Primary Antioxidants: Effects of Antioxidant Concentration and Molecular Architecture</a></div></td>
-<td>Takato Ishida et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10954">2602.10954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14531.html">Scaling Transferable Coarse-graining with Mean Force Matching</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Abigail Park et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14531">2602.14531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14867.html">Fast and accurate quasi-atom method for simultaneous atomistic and continuum simulation of solids</a></div></td>
-<td>Artem Chuprov et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14867">2602.14867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15002.html">Stacking-Engineered Thermal Transport and Phonon Filtering in Rhenium Disulfide</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Yongjian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15002">2602.15002</a></td>
 </tr>
 </tbody></table>

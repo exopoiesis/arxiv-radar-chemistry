@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1526,17 +1526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02810.html">Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Chanhui Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02810">2502.02810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.09795.html">WGFormer: An SE(3)-Transformer Driven by Wasserstein Gradient Flows for Molecular Ground-State Conformation Prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Fanmeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.09795">2410.09795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03360.html">Transformers for molecular property prediction: Domain adaptation efficiently improves performance</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Afnan Sultan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03360">2503.03360</a></td>
 </tr>
 </tbody></table>

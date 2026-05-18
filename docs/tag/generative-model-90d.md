@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,23 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16065.html">Can Generative Artificial Intelligence Survive Data Contamination? Theoretical Guarantees under Contaminated Recursive Training</a></div></td>
 <td>Kevin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16065">2602.16065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14926.html">MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Gen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14926">2602.14926</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14977.html">MacroGuide: Topological Guidance for Macrocycle Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Alicja Maksymiuk et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14977">2602.14977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15022.html">Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation</a></div></td>
-<td>Cai Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15022">2602.15022</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,47 +680,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18622.html">MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research</a></div></td>
 <td>Zhenyu Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18622">2604.18622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09727.html">Accelerating Molecular Dynamics Simulations using Fast Ewald Summation with Prolates</a></div></td>
-<td>Jiuyang Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09727">2505.09727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15952.html">Machine-Learned Interatomic Potential for Predictive Simulation of MoS2 Epitaxy</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Emir Bilgili et al.</td>
-<td><a href="http://arxiv.org/abs/2512.15952">2512.15952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16591.html">Fast Ewald Summation using Prolate Spheroidal Wave Functions</a></div></td>
-<td>Erik Boström et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16591">2602.16591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16617.html">Fluctuation-induced acceleration of inter-ligand exciton transfer in bis(dipyrrinato)Zn(II) complex</a></div><div class="paper-tags"><a href="string-method-30d.html">string-method</a></div></td>
-<td>Hiroki Uratani et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16617">2602.16617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15852.html">Voids in liquids: peculiarities of molecular dynamics simulation of fluid systems</a></div></td>
-<td>Yu. D. Fomin</td>
-<td><a href="http://arxiv.org/abs/2604.15852">2604.15852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16261.html">Atomistic Mechanisms of Stress-Dependent Molten Salt Corrosion in NiCr Alloys</a></div></td>
-<td>Hamdy Arkoub et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16261">2604.16261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16692.html">Revealing full molecular orientation distributions in organic thin films by nonlinear polarimetry</a></div></td>
-<td>Pierre-Luc Thériault et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16692">2604.16692</a></td>
 </tr>
 </tbody></table>

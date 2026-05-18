@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">453 papers</span>
+  <span class="paper-count">450 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2714,23 +2714,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15923.html">A fully differentiable framework for training proxy Exchange Correlation Functionals for periodic systems</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Rakshit Kumar Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15923">2602.15923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01875.html">Enhancing the Efficiency of Time-Dependent Density Functional Theory Calculations of Dynamic Response Properties</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Zhandos A. Moldabekov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01875">2510.01875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14923.html">Auxiliary field quantum Monte Carlo at the basis set limit: application to lattice constants</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Moritz Humer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14923">2602.14923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15268.html">High-throughput screening and mechanistic insights into solid acid proton conductors</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15268">2602.15268</a></td>
 </tr>
 </tbody></table>

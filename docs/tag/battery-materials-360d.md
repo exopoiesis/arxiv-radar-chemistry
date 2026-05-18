@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1034,11 +1034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15685.html">There is Nothing Anomalous about &#x27;Anomalous&#x27; Underscreening in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sophie Baker et al.</td>
 <td><a href="http://arxiv.org/abs/2408.15685">2408.15685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16816.html">The Interplay Between Electron Localization, Magnetic Order, and Jahn-Teller Distortion that Dictates LiMnO$_2$ Phase Stability</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Ronald L. Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16816">2412.16816</a></td>
 </tr>
 </tbody></table>

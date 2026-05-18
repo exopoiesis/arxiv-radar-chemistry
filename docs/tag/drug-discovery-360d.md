@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">593 papers</span>
+  <span class="paper-count">590 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3554,23 +3554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18392.html">Applications of Modular Co-Design for De Novo 3D Molecule Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Danny Reidenbach et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18392">2505.18392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03360.html">Transformers for molecular property prediction: Domain adaptation efficiently improves performance</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Afnan Sultan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03360">2503.03360</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16982.html">Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine</a></div></td>
-<td>Adib Bazgir et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16982">2505.16982</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17154.html">Can Large Language Models Design Biological Weapons? Evaluating Moremi Bio</a></div></td>
-<td>Gertrude Hattoh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17154">2505.17154</a></td>
 </tr>
 </tbody></table>

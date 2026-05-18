@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2822,17 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19341.html">Review of point defect structures in hexagonal close packed metals and across the Periodic Table</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Andrew Ralph Warwick et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19341">2505.19341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06770.html">Vibrational ADAPT-VQE: Critical points leads to problematic convergence</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Marco Majland et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06770">2404.06770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16544.html">Phonon-limited carrier transport in the Weyl semimetal TaAs</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zhe Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16544">2505.16544</a></td>
 </tr>
 </tbody></table>

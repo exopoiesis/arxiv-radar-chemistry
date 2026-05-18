@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,17 +188,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11308.html">Capturing many-body effects in electrical conductivity of warm dense matter</a></div></td>
 <td>Brian P. Robinson et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11308">2605.11308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09327.html">First-Principles Study of the Temperature Dependence of Structural, Electronic, and Hyperfine Properties of the Cu(100) Surface</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Germán N. Darriba et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09327">2605.09327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09752.html">Polarizable Embedding QM/MM for Periodic Systems</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Julian Bessner et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09752">2605.09752</a></td>
 </tr>
 </tbody></table>

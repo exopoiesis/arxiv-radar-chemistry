@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1620 papers</span>
+  <span class="paper-count">1612 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9686,53 +9686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18390.html">Project For Advancement of Software Usability in Materials Science</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Kazuyoshi Yoshimi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18390">2505.18390</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04758.html">Exploration of stable atomic configurations in graphene-like BCN systems by Bayesian optimization</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Taichi Hara et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04758">2411.04758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16816.html">The Interplay Between Electron Localization, Magnetic Order, and Jahn-Teller Distortion that Dictates LiMnO$_2$ Phase Stability</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Ronald L. Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16816">2412.16816</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00625.html">SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Junchi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00625">2505.00625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16273.html">Symmetries and selection rules in photoelectron chiral dichroism from tailored light</a></div></td>
-<td>Ofer Neufeld</td>
-<td><a href="http://arxiv.org/abs/2505.16273">2505.16273</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16382.html">Electronic and Vibrational Properties of Layered Boron Nitride Polymorphs</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Priyanka Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16382">2505.16382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16544.html">Phonon-limited carrier transport in the Weyl semimetal TaAs</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zhe Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16544">2505.16544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16799.html">Synthesis of Y$_3$Fe$_4$H$_{20}$ as a new prototype structure for ternary superhydrides recoverable at ambient pressure</a></div></td>
-<td>M. Caussé et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16799">2505.16799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16870.html">First-principles study of metal-biphenylene interfaces: structural, electronic, and catalytic properties</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Maicon P. Lebre et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16870">2505.16870</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">589 papers</span>
+  <span class="paper-count">586 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3530,23 +3530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09842.html">Symphony of Symmetry Selective Resonances in Fe-MgO-ZnO-MgO-Fe</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Sabarna Chakraborti et al.</td>
 <td><a href="http://arxiv.org/abs/2504.09842">2504.09842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16627.html">Tailored Vapor Deposition Unlocks Large-Grain, Wafer-Scale Epitaxial Growth of 2D Magnetic CrCl3</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Vivek Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16627">2505.16627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17200.html">Resolving Intervalley Gaps and Many-Body Resonances in Moiré Superconductor</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Hyunjin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17200">2505.17200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17292.html">Self-consistent layer-projected scissors operator for band structures of complex 2D van der Waals materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Dario A. Leon et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17292">2505.17292</a></td>
 </tr>
 </tbody></table>

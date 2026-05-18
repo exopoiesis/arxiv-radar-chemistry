@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <strong>30d</strong> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16896.html">ProtoCycle: Reflective Tool-Augmented Planning for Text-Guided Protein Design</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Yutang Ge et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16896">2604.16896</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16279.html">Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-representation-30d.html">molecular-representation</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Shriram Chennakesavalu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16279">2604.16279</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">479 papers</span>
+  <span class="paper-count">474 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2858,35 +2858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09842.html">Symphony of Symmetry Selective Resonances in Fe-MgO-ZnO-MgO-Fe</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Sabarna Chakraborti et al.</td>
 <td><a href="http://arxiv.org/abs/2504.09842">2504.09842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04758.html">Exploration of stable atomic configurations in graphene-like BCN systems by Bayesian optimization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Taichi Hara et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04758">2411.04758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16382.html">Electronic and Vibrational Properties of Layered Boron Nitride Polymorphs</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Priyanka Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16382">2505.16382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16544.html">Phonon-limited carrier transport in the Weyl semimetal TaAs</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zhe Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16544">2505.16544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17200.html">Resolving Intervalley Gaps and Many-Body Resonances in Moiré Superconductor</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Hyunjin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17200">2505.17200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17292.html">Self-consistent layer-projected scissors operator for band structures of complex 2D van der Waals materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Dario A. Leon et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17292">2505.17292</a></td>
 </tr>
 </tbody></table>

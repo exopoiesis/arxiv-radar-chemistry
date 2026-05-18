@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2109 papers</span>
+  <span class="paper-count">2103 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12632,41 +12632,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18089.html">Explaining the extra crystal field mode in ACeX2</a></div></td>
 <td>Allen O. Scheie et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18089">2505.18089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16695.html">Small hole polarons in yellow phase $δ$-CsPbI$_3$</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yun Liu</td>
-<td><a href="http://arxiv.org/abs/2501.16695">2501.16695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16382.html">Electronic and Vibrational Properties of Layered Boron Nitride Polymorphs</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Priyanka Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16382">2505.16382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16627.html">Tailored Vapor Deposition Unlocks Large-Grain, Wafer-Scale Epitaxial Growth of 2D Magnetic CrCl3</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Vivek Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16627">2505.16627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16870.html">First-principles study of metal-biphenylene interfaces: structural, electronic, and catalytic properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Maicon P. Lebre et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16870">2505.16870</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16926.html">Photo-induced electronic excitations drive polymerization of carbon monoxide: A first-principles study</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Rasool Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16926">2505.16926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17292.html">Self-consistent layer-projected scissors operator for band structures of complex 2D van der Waals materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Dario A. Leon et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17292">2505.17292</a></td>
 </tr>
 </tbody></table>

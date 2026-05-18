@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">385 papers</span>
+  <span class="paper-count">384 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2318,11 +2318,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21641.html">Enhancing the Harrow-Hassidim-Lloyd (HHL) algorithm in systems with large condition numbers</a></div></td>
 <td>Peniel Bertrand Tsemo et al.</td>
 <td><a href="http://arxiv.org/abs/2407.21641">2407.21641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06770.html">Vibrational ADAPT-VQE: Critical points leads to problematic convergence</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Marco Majland et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06770">2404.06770</a></td>
 </tr>
 </tbody></table>

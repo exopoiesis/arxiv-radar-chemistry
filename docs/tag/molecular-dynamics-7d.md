@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,35 +146,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11253.html">Low-rank compression of two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Kemal Atalar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11253">2605.11253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09311.html">Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="property-prediction-7d.html">property-prediction</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Jiyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09311">2605.09311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Nima Karimitari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09394">2605.09394</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09495.html">Enabling Structure-Only Initialization and Out-of-Distribution Generalization in GNN-based Molecular Dynamics Simulators</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
-<td>S. A. Shteingolts et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09495">2605.09495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09708.html">Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon</a></div></td>
-<td>Víctor Gallego</td>
-<td><a href="http://arxiv.org/abs/2605.09708">2605.09708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09752.html">Polarizable Embedding QM/MM for Periodic Systems</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Julian Bessner et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09752">2605.09752</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">102 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -626,17 +626,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15923.html">A fully differentiable framework for training proxy Exchange Correlation Functionals for periodic systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Rakshit Kumar Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15923">2602.15923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01875.html">Enhancing the Efficiency of Time-Dependent Density Functional Theory Calculations of Dynamic Response Properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Zhandos A. Moldabekov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01875">2510.01875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14650.html">Data-Efficient Machine learning for Predicting Dopant Formation Energies in TiO$_2$ Monolayer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Kati Asikainen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14650">2602.14650</a></td>
 </tr>
 </tbody></table>

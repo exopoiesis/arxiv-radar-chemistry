@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,29 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18022.html">Boltzmann Machine Learning with a Parallel, Persistent Markov chain Monte Carlo method for Estimating Evolutionary Fields and Couplings from a Protein Multiple Sequence Alignment</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Sanzo Miyazawa</td>
 <td><a href="http://arxiv.org/abs/2604.18022">2604.18022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15709.html">Bilevel Optimization of Agent Skills via Monte Carlo Tree Search</a></div></td>
-<td>Chenyi Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15709">2604.15709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15888.html">Enhancing Neural-Network Variational Monte Carlo through Basis Transformation</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Zhixuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15888">2604.15888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15934.html">Reweighting Estimators for Density Response in Path Integral Monte Carlo: Applications to linear, nonlinear and cross-species density response</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Pontus Svensson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15934">2604.15934</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16267.html">Improved Desalination by Polymer Grafting</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Mamta Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16267">2604.16267</a></td>
 </tr>
 </tbody></table>

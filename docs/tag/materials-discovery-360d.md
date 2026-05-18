@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">265 papers</span>
+  <span class="paper-count">264 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1598,11 +1598,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18319.html">Seeing Beyond Words: MatVQA for Challenging Visual-Scientific Reasoning in Materials Science</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
 <td>Sifan Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18319">2505.18319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16379.html">Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Zhixun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16379">2505.16379</a></td>
 </tr>
 </tbody></table>

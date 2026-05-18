@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,17 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16641.html">Hybrid Reward-Driven Reinforcement Learning for Efficient Quantum Circuit Synthesis</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Sara Giordano et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16641">2507.16641</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11439.html">Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Nianze Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11439">2412.11439</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14926.html">MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Gen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14926">2602.14926</a></td>
 </tr>
 </tbody></table>

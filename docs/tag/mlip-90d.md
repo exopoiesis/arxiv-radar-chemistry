@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,17 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15747.html">How to Train a Shallow Ensemble</a></div></td>
 <td>Moritz Schäfer et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15747">2602.15747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14603.html">DFT and MLIP study of solute segregation to coherent and semi-coherent α-Fe/Fe$_3$C interfaces</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Amin Reiners-Sakic et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14603">2602.14603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15268.html">High-throughput screening and mechanistic insights into solid acid proton conductors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15268">2602.15268</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">102 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -626,29 +626,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17076.html">Predicting Solvation Free Energies of Molecules and Ions via First-Principles and Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Junting Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17076">2604.17076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04811.html">Statistical Insight into the Correlation of Geometry and Spectral Emission in Network Lasers</a></div></td>
-<td>Camillo Tassi et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04811">2512.04811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15934.html">Reweighting Estimators for Density Response in Path Integral Monte Carlo: Applications to linear, nonlinear and cross-species density response</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Pontus Svensson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15934">2604.15934</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15985.html">Machine Learning and Deep Learning in Quantum Materials: Symmetry, Topology, and the Rise of Altermagnets</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Mahyar Hassani-Vasmejani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15985">2604.15985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16013.html">Multi-reference GW approximation for strongly correlated molecules</a></div></td>
-<td>Yuqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16013">2604.16013</a></td>
 </tr>
 </tbody></table>

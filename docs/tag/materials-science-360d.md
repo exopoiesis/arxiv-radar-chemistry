@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">434 papers</span>
+  <span class="paper-count">432 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2606,17 +2606,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18390.html">Project For Advancement of Software Usability in Materials Science</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Kazuyoshi Yoshimi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18390">2505.18390</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00625.html">SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Junchi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00625">2505.00625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11055.html">PolyMicros: Bootstrapping a Foundation Model for Polycrystalline Material Structure</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Michael Buzzy et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11055">2506.11055</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,11 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12128.html">Multimodal Fusion with Relational Learning for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Zhengyang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2410.12128">2410.12128</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17198.html">LengthLogD: A Length-Stratified Ensemble Framework for Enhanced Peptide Lipophilicity Prediction via Multi-Scale Feature Integration</a></div></td>
-<td>Shuang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17198">2505.17198</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">606 papers</span>
+  <span class="paper-count">598 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3602,53 +3602,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15923.html">A fully differentiable framework for training proxy Exchange Correlation Functionals for periodic systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Rakshit Kumar Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15923">2602.15923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.11821.html">A variational formulation of the free energy of mixed quantum-classical systems: coupling classical and electronic density functional theories</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Guillaume Jeanmairet et al.</td>
-<td><a href="http://arxiv.org/abs/2411.11821">2411.11821</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16363.html">Fermi-Liquid $T^2$ Resistivity: Dynamical Mean-Field Theory Meets Experiment</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Fabian B. Kugler et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16363">2412.16363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04508.html">Low-temperature transport in high-conductivity correlated metals: a density-functional plus dynamical mean-field study of cubic perovskites</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Harrison LaBollita et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04508">2505.04508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01875.html">Enhancing the Efficiency of Time-Dependent Density Functional Theory Calculations of Dynamic Response Properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Zhandos A. Moldabekov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01875">2510.01875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14419.html">WavePhaseNet: A DFT-Based Method for Constructing Semantic Conceptual Hierarchy Structures (SCHS)</a></div></td>
-<td>Kiyotaka Kasubuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14419">2602.14419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14603.html">DFT and MLIP study of solute segregation to coherent and semi-coherent α-Fe/Fe$_3$C interfaces</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Amin Reiners-Sakic et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14603">2602.14603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14650.html">Data-Efficient Machine learning for Predicting Dopant Formation Energies in TiO$_2$ Monolayer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Kati Asikainen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14650">2602.14650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14887.html">Identifying open-orbit topological surface states in dual topological semimetal TaSb$_2$</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Susmita Changdar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14887">2602.14887</a></td>
 </tr>
 </tbody></table>

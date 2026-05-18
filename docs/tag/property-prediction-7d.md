@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>property-prediction — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
 <td>H. Ibrahim Erdogan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10551">2605.10551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09311.html">Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Jiyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09311">2605.09311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09624.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Dongming Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09624">2605.09624</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">486 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2912,23 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18392.html">Applications of Modular Co-Design for De Novo 3D Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Danny Reidenbach et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18392">2505.18392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08859.html">PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Fanmeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08859">2504.08859</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16379.html">Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Zhixun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16379">2505.16379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11055.html">PolyMicros: Bootstrapping a Foundation Model for Polycrystalline Material Structure</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Michael Buzzy et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11055">2506.11055</a></td>
 </tr>
 </tbody></table>

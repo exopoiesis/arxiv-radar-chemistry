@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">598 papers</span>
+  <span class="paper-count">592 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3566,41 +3566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16871.html">BaFe2Se3 a quasi-unidimensional non-centrosymmetric superconductor</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>S. Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16871">2602.16871</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11013.html">Initial Guesses for Multicomponent Mean-Field Methods: Assessment and New Developments</a></div></td>
-<td>Denis G. Artiukhin</td>
-<td><a href="http://arxiv.org/abs/2602.11013">2602.11013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15345.html">Machine learning electronic structure and atomistic properties from the external potential</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jigyasa Nigam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15345">2602.15345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15444.html">Resonant inelastic x-ray scattering in layered trimer iridate Ba4Ir3 O10 : the density functional approach</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>D. A. Kukusta et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15444">2602.15444</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15446.html">On the origin of in-gap states in amorphous Ge$_2$Sb$_2$Te$_5$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Omar Abou El Kheir et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15446">2602.15446</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15624.html">Generalized local potential functional embedding theory of localized orbitals</a></div></td>
-<td>Wafa Makhlouf et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15624">2602.15624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15923.html">A fully differentiable framework for training proxy Exchange Correlation Functionals for periodic systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Rakshit Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15923">2602.15923</a></td>
 </tr>
 </tbody></table>

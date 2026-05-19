@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,23 +890,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03342.html">Cryo-SWAN: the Multi-Scale Wavelet-decomposition-inspired Autoencoder Network for molecular density representation of molecular volumes</a></div></td>
 <td>Rui Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03342">2603.03342</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23607.html">ZeroScene: A Zero-Shot Framework for 3D Scene Generation from a Single Image and Controllable Texture Editing</a></div></td>
-<td>Xiang Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23607">2509.23607</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15648.html">Guided Diffusion by Optimized Loss Functions on Relaxed Parameters for Inverse Material Design</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Jens U. Kreber et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15648">2602.15648</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15984.html">Verifier-Constrained Flow Expansion for Discovery Beyond the Data</a></div></td>
-<td>Riccardo De Santi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15984">2602.15984</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2103 papers</span>
+  <span class="paper-count">2100 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12614,23 +12614,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18620.html">AI-predicted PT-symmetric magnets</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Hao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18620">2505.18620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17742.html">Polarization Vortices in a Ferromagnetic Metal via Twistronics</a></div></td>
-<td>Yingzhuo Lun et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17742">2505.17742</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17888.html">Anisotropic spin-polarized conductivity in collinear altermagnets</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Mingbo Dou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17888">2505.17888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18089.html">Explaining the extra crystal field mode in ACeX2</a></div></td>
-<td>Allen O. Scheie et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18089">2505.18089</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>gnn — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,23 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13899.html">Frequency-Space Mechanics: A Sequence and Coordinate-Free Representation for Protein Function Prediction</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="protein-function-7d.html">protein-function</a></div></td>
 <td>Charles B Reilly</td>
 <td><a href="http://arxiv.org/abs/2605.13899">2605.13899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10458.html">QT-Net: Rethinking Evaluation of AI Models in Atomic Chemical Space</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Pablo Martínez Crespo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10458">2605.10458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>H. Ibrahim Erdogan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10551">2605.10551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10722.html">On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-ligand-7d.html">protein-ligand</a></div></td>
-<td>Sam Money-Kyrle et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10722">2605.10722</a></td>
 </tr>
 </tbody></table>

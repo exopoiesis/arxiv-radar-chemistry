@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,65 +128,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12711.html">Negative Differential Resistance and Ultra-High TMR in Altermagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Sajjan Sheoran et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12711">2605.12711</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10265.html">Expander attention as exchange-correlation</a></div><div class="paper-tags"><a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Karim K. Alaa El-Din et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10265">2605.10265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10266.html">Overfitting by design: neural network density functionals for water</a></div></td>
-<td>Karim K. Alaa El-Din et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10266">2605.10266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10363.html">Accelerating Locality-Driven Integration in Quantum Chemistry with Block-Structured Matrix Multiplication</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Xinran Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10363">2605.10363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10636.html">Oxygen vacancies beyond the dilute limit in doped CaMnO3 perovskites and implications for screening materials in thermochemical applications</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>Harender S. Dhattarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10636">2605.10636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10667.html">Quantum Simulation of Magnetic Materials: from Ab-Initio to NISQ</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="quantum-computing-7d.html">quantum-computing</a></div></td>
-<td>Pascal Stadler et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10667">2605.10667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10700.html">Transverse Magnetic Response from Orbitally Polarized Cooper Pairs in Elemental Superconductors</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Gabor Csire et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10700">2605.10700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11094.html">Application of the exact-factorization density-functional perturbation approach to pentacene crystal and monolayer MoS2</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Rachel Steinitz-Eliyahu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11094">2605.11094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11183.html">Symmetry Guided Band-Gap Opening via Periodic Topological Defects in Graphene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>D. N. Garzon et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11183">2605.11183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11211.html">First-principles real-space embedding theory of the superconducting proximity effect</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Nicolas Baù et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11211">2605.11211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11308.html">Capturing many-body effects in electrical conductivity of warm dense matter</a></div></td>
-<td>Brian P. Robinson et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11308">2605.11308</a></td>
 </tr>
 </tbody></table>

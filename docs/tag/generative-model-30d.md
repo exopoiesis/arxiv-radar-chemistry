@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17310.html">Interpolating Discrete Diffusion Models with Controllable Resampling</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Marcel Kollovieh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17310">2604.17310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16851.html">Applications of deep generative models to DNA reaction kinetics and to cryogenic electron microscopy</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Chenwei Zhang</td>
-<td><a href="http://arxiv.org/abs/2604.16851">2604.16851</a></td>
 </tr>
 </tbody></table>

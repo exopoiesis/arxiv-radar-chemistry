@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,11 +434,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17730.html">Clever Materials: When Models Identify Good Materials for the Wrong Reasons</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mof-90d.html">mof</a></div></td>
 <td>Kevin Maik Jablonka</td>
 <td><a href="http://arxiv.org/abs/2602.17730">2602.17730</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02201.html">Cardinality-Preserving Attention Channels for Graph Transformers in Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Abhijit Gupta</td>
-<td><a href="http://arxiv.org/abs/2602.02201">2602.02201</a></td>
 </tr>
 </tbody></table>

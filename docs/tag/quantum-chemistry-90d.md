@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,23 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12887.html">Many-body post-processing of density functional calculations using the variational quantum eigensolver for Bader charge analysis</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="tmo-90d.html">tmo</a></div></td>
 <td>Erik Schultheis et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12887">2510.12887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17557.html">The Moving Born-Oppenheimer Approximation</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Bernardo Barrera et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17557">2502.17557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15706.html">Meta-Learning for GPU-Accelerated Quantum Many-Body Problems</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Yun-Hsuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15706">2602.15706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17722.html">Identification of Solid-Electrolyte Interphase Species by Joint Characterization of Li-ion Battery Chemistry by Mass Spectrometry and Electro-Chemical Reaction Networks</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Mona Abdelgaid et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17722">2602.17722</a></td>
 </tr>
 </tbody></table>

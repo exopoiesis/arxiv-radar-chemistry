@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">432 papers</span>
+  <span class="paper-count">429 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2588,23 +2588,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05635.html">Mesoscopic theory of the Josephson junction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Thomas J. Maldonado et al.</td>
 <td><a href="http://arxiv.org/abs/2411.05635">2411.05635</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05230.html">DiffNMR2: NMR Guided Sampling Acquisition Through Diffusion Model Uncertainty</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Etienne Goffinet et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05230">2502.05230</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18319.html">Seeing Beyond Words: MatVQA for Challenging Visual-Scientific Reasoning in Materials Science</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Sifan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18319">2505.18319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18390.html">Project For Advancement of Software Usability in Materials Science</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Kazuyoshi Yoshimi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18390">2505.18390</a></td>
 </tr>
 </tbody></table>

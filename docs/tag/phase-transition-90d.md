@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17492.html">A variational multi-phase model for elastoplastic materials with microstructure evolution</a></div></td>
 <td>Sarah Dinkelacker-Steinhoff et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17492">2602.17492</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16871.html">BaFe2Se3 a quasi-unidimensional non-centrosymmetric superconductor</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>S. Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16871">2602.16871</a></td>
 </tr>
 </tbody></table>

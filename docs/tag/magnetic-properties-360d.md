@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">385 papers</span>
+  <span class="paper-count">383 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2312,17 +2312,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20544.html">Metallic layered materials with magnetic frustration: An ARPES view of the SmAuAl$_4$Ge$_2$ and TbAuAl$_4$Ge$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>P. Rezende-Gonçalves et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20544">2505.20544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18616.html">Ligand-SOC enhanced $4f^5$ Kitaev antiferromagnet: Application to $\mathrm{SmI}_3$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Li-Hao Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18616">2505.18616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18620.html">AI-predicted PT-symmetric magnets</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Hao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18620">2505.18620</a></td>
 </tr>
 </tbody></table>

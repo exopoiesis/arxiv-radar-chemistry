@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,35 +860,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17602.html">MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Hojung Jung et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17602">2602.17602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18454.html">Out-of-Distribution Detection in Molecular Complexes via Diffusion Models for Irregular Graphs</a></div></td>
-<td>David Graber et al.</td>
-<td><a href="http://arxiv.org/abs/2512.18454">2512.18454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16133.html">Generative Inverse Estimation of 3D Atomic Coordination from Near-Edge Spectra via Equivariant Diffusion Models</a></div></td>
-<td>Ren Okubo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16133">2602.16133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
-<td>Yu Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16634">2602.16634</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16851.html">MxDiffusion: A Physics-Aware Maxwells Law-Guided Diffusion Model Strategy for Inverse Photonic Metasurface Design</a></div></td>
-<td>Sujoy Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16851">2602.16851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03342.html">Cryo-SWAN: the Multi-Scale Wavelet-decomposition-inspired Autoencoder Network for molecular density representation of molecular volumes</a></div></td>
-<td>Rui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03342">2603.03342</a></td>
 </tr>
 </tbody></table>

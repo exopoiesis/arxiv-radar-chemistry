@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">449 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2708,71 +2708,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17740.html">Fracture Properties of Green Nano Fibrous Network with Random and Aligned Fibre Distribution: A Hierarchical Molecular Dynamics and Peridynamics Approach</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Razie Izadi et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17740">2602.17740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06308.html">Resistance of refractory high-entropy alloys to ultrafast laser irradiation</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Nikita Medvedev</td>
-<td><a href="http://arxiv.org/abs/2512.06308">2512.06308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16121.html">Enhanced Graphene-Water Thermal Transport via Edge Functionalization without Compromising In-Plane Thermal Conductivity</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>John Crosby et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16121">2602.16121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16250.html">Unveiling and quantifying the topology-dependent pre-melting of nanoparticles</a></div></td>
-<td>Marthe Bideault et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16250">2602.16250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16405.html">Computation of thermal conductivity based on Path Integral Monte Carlo methods</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Vladislav Efremkin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16405">2602.16405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16474.html">When Is Structural Lubricity Load Independent? The Role of Contact Geometry and Elastic Compliance</a></div></td>
-<td>Hongyu Gao</td>
-<td><a href="http://arxiv.org/abs/2602.16474">2602.16474</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16628.html">Stoichiometry Dependent Properties of Cerium Hydride: An Active Learning Developed Interatomic Potential Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="active-learning-90d.html">active-learning</a></div></td>
-<td>Brenden W. Hamilton et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16628">2602.16628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16634.html">Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
-<td>Yu Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16634">2602.16634</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16636.html">Universal Framework for Decomposing Ionic Transport into Interpretable Mechanisms</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>KyuJung Jun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16636">2602.16636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16649.html">Design Principles for Fluid Molecular Ferroelectrics</a></div></td>
-<td>Calum J Gibb et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16649">2602.16649</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16883.html">Strain-Rate- and Line-Length-Dependent Screw Dislocation Glide Mechanisms in BCC Refractory Metals and Alloys</a></div></td>
-<td>Subhendu Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16883">2602.16883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16912.html">Quantifying Chirality in Helical Polymers via a Geometric Extension of the Kremer-Grest Model</a></div></td>
-<td>Michael Grant et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16912">2602.16912</a></td>
 </tr>
 </tbody></table>

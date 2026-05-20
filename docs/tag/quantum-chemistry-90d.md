@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,11 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17902.html">El Agente Gráfico: Structured Execution Graphs for Scientific Agents</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a></div></td>
 <td>Jiaru Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17902">2602.17902</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12887.html">Many-body post-processing of density functional calculations using the variational quantum eigensolver for Bader charge analysis</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="tmo-90d.html">tmo</a></div></td>
-<td>Erik Schultheis et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12887">2510.12887</a></td>
 </tr>
 </tbody></table>

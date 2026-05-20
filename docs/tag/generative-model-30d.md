@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,17 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18467.html">An Integrated Deep-Learning Framework for Peptide-Protein Interaction Prediction and Target-Conditioned Peptide Generation with ConGA-PePPI and TC-PepGen</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Chupei Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18467">2604.18467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03122.html">EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Seunghee Han et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03122">2511.03122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17310.html">Interpolating Discrete Diffusion Models with Controllable Resampling</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Marcel Kollovieh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17310">2604.17310</a></td>
 </tr>
 </tbody></table>

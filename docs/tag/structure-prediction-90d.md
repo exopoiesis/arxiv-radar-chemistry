@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20195.html">OrgFlow: Generative Modeling of Organic Crystal Structures from Molecular Graphs</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Mohammadmahdi Vahediahmar et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20195">2602.20195</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20345.html">Statistical Inference Leveraging Synthetic Data with Distribution-Free Guarantees</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Meshi Bashari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20345">2509.20345</a></td>
 </tr>
 </tbody></table>

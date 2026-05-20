@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18031.html">How Creative Are Large Language Models in Generating Molecules?</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Wen Tao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18031">2604.18031</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17357.html">A Chemical Space Perspective on Diastereomeric Barriers in Alkylperoxy-to-Hydroperoxyalkyl Isomerization</a></div><div class="paper-tags"><a href="string-method-30d.html">string-method</a></div></td>
-<td>Raghunathan Ramakrishnan</td>
-<td><a href="http://arxiv.org/abs/2604.17357">2604.17357</a></td>
 </tr>
 </tbody></table>

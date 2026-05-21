@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15927.html">Data-driven complete basis set limit estimates from a minimal auxiliary basis</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Nicolas Grimblat et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15927">2605.15927</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16189.html">Quantum Solvers for Nonlinear Matrix Equations in Quantum Chemistry</a></div></td>
+<td>Pablo Rodenas-Ruiz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16189">2605.16189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18877.html">Logical Resource Estimation for Quantum State Preparation with Compilation</a></div></td>
+<td>Diyi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18877">2605.18877</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14287.html">A quantum chemistry dataset containing ground-state and conical-intersection structures of 260k molecules</a></div></td>
@@ -26,6 +44,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14608.html">On the effective rank of canonical polyadic decomposition of electron repulsion integrals</a></div></td>
 <td>Aleksandra Oszmian et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14608">2605.14608</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15237.html">A3D: Agentic AI flow for autonomous Accelerator Design</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Abinand Nallathambi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15237">2605.15237</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15277.html">Beyond Unitary Quantum Simulation: Open-System Approaches to Quantum Chemistry toward Quantum Advantage</a></div></td>
+<td>Michael Marthaler et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15277">2605.15277</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-13</td>
@@ -674,23 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18156.html">Determining Molecular Ground State with Quantum Imaginary Time Evolution using Broken-Symmetry Wave Function</a></div></td>
 <td>Pawan Sharma Poudel et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18156">2504.18156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17158.html">Stochastic tensor contraction for quantum chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Jiace Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17158">2602.17158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17886.html">El Agente Sólido: A New Age(nt) for Solid State Simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Sai Govind Hari Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17886">2602.17886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17902.html">El Agente Gráfico: Structured Execution Graphs for Scientific Agents</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a></div></td>
-<td>Jiaru Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17902">2602.17902</a></td>
 </tr>
 </tbody></table>

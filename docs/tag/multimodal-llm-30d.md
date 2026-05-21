@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>multimodal-llm — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <strong>30d</strong> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19559.html">EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs</a></div></td>
+<td>Yang Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19559">2605.19559</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20416.html">Miller-Index-Based Latent Crystallographic Fracture Plane Reasoning with Vision-Language Models</a></div></td>
+<td>Qinwu Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20416">2605.20416</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17254.html">CatalyticMLLM: A Graph-Text Multimodal Large Language Model for Catalytic Materials</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Yanjie Li</td>
+<td><a href="http://arxiv.org/abs/2605.17254">2605.17254</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12181.html">MolDeTox: Evaluating Language Model&#x27;s Stepwise Fragment Editing for Molecular Detoxification</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
@@ -68,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19697.html">Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks</a></div></td>
 <td>Jing Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19697">2604.19697</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02871.html">Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning</a></div></td>
-<td>Yibo Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02871">2502.02871</a></td>
 </tr>
 </tbody></table>

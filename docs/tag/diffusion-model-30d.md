@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21042.html">Dynamic Video Generation: Shaping Video Generation Across Time and Space</a></div></td>
+<td>Shikang Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21042">2605.21042</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18217.html">3D CO-TALIF distribution above a micro cavity discharge: A systematic approach for plasma catalysis</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
+<td>Henrik van Impel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18217">2605.18217</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19050.html">Generative Pseudo-Force Fields for Molecular Generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Stefaan Simon Pierre Hessmann et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19050">2605.19050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17693.html">Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Yuan Xue et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17693">2605.17693</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20235.html">Provably Learning Diffusion Models under the Manifold Hypothesis: Collapse and Refine</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Wei Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20235">2605.20235</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16104.html">StateXDiff: Cell State-Contextualized Multimodal Diffusion for Single-Cell Perturbation Prediction</a></div></td>
+<td>Peiting Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16104">2605.16104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16420.html">Video Reconstruction using Diffusion-based Image-to-Video Generation with Trajectory Guidance</a></div></td>
+<td>Stelio Bompai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16420">2605.16420</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13577.html">Anisotropic Dopant and Strain Architectures in WS$_2$ Nanocrystals Driven by Growth Kinetics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
@@ -74,6 +116,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09065.html">Dependency-Aware Discrete Diffusion for Scene Graph Generation</a></div></td>
 <td>Rajalaxmi Rajagopalan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09065">2605.09065</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16355.html">Generative 3D Gaussians with Learned Density Control</a></div></td>
+<td>Runjie Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16355">2605.16355</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-07</td>
@@ -194,17 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19842.html">Energy gradients as potential drivers of pre-cellular chemical organization</a></div></td>
 <td>Arturo Tozzi</td>
 <td><a href="http://arxiv.org/abs/2604.19842">2604.19842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06987.html">OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Emily Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06987">2512.06987</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17838.html">Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Kijung Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17838">2604.17838</a></td>
 </tr>
 </tbody></table>

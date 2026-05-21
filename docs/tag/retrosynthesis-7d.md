@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13101.html">Margin-calibrated Classifier Guidance for Property-driven Synthesis Planning</a></div></td>
-<td>Najwa Laabid et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13101">2605.13101</a></td>
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21420.html">HiRes: Inspectable Precedent Memory for Reaction Condition Recommendation</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
+<td>Shreyas Vinaya Sathyanarayana et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21420">2605.21420</a></td>
 </tr>
 </tbody></table>

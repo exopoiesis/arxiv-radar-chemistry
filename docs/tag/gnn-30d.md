@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21454.html">ProtoPathway: Biologically Structured Prototype-Pathway Fusion for Multimodal Cancer Survival Prediction</a></div></td>
+<td>Amaya Gallagher-Syed et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21454">2605.21454</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-llm-30d.html">protein-llm</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Mansoor Ahmed et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21485">2605.21485</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19405.html">A complete discussion on fully reconfigurable, digital, scalable, graph and sparsity-aware near-memory accelerator for graph neural networks</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Siddhartha Raman Sundara Raman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19405">2605.19405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19579.html">TACK: A statistical evaluation of degradation activity on a novel TArgeting Chimeras Knowledge dataset</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Stefano Ribes et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19579">2605.19579</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18893.html">Position: Graph Condensation Needs a Reset -- Move Beyond Full-dataset Training and Model-Dependence</a></div></td>
+<td>Mridul Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18893">2605.18893</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16823.html">Atoms as Language: VQ-Atom: Semantic Discretization for Molecular Representation Learning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-representation-30d.html">molecular-representation</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Takayuki Kimura</td>
+<td><a href="http://arxiv.org/abs/2605.16823">2605.16823</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16891.html">Tensor Channel Equivariant Graph Neural Networks for Molecular Polarizability Prediction</a></div></td>
+<td>Jean Philip Filling et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16891">2605.16891</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15511.html">OgBench: A Framework for Evaluating Graph Neural Networks on Omics Data</a></div></td>
+<td>Louisa Cornelis et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15511">2605.15511</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16230.html">Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Abhijatmedhi Chotrattanapituk et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16230">2605.16230</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11589.html">Unification of Signal Transform Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
@@ -152,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20518.html">Using Graph Neural Networks for hadronic clustering and to reduce beam background in the Belle~II electromagnetic calorimeter</a></div></td>
 <td>Jonas Eppelt et al.</td>
 <td><a href="http://arxiv.org/abs/2604.20518">2604.20518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08469.html">Persistence-Augmented Neural Networks</a></div></td>
-<td>Elena Xinyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08469">2604.08469</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multimodal-llm — all</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19559.html">EgoCoT-Bench: Benchmarking Grounded and Verifiable Operation-Centric Chain of Thought Reasoning for MLLMs</a></div></td>
+<td>Yang Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19559">2605.19559</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20416.html">Miller-Index-Based Latent Crystallographic Fracture Plane Reasoning with Vision-Language Models</a></div></td>
+<td>Qinwu Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20416">2605.20416</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17254.html">CatalyticMLLM: A Graph-Text Multimodal Large Language Model for Catalytic Materials</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Yanjie Li</td>
+<td><a href="http://arxiv.org/abs/2605.17254">2605.17254</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12181.html">MolDeTox: Evaluating Language Model&#x27;s Stepwise Fragment Editing for Molecular Detoxification</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>

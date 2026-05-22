@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21452.html">Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Xiangxin Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21452">2505.21452</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20052.html">Ankh3: Multi-Task Pretraining with Sequence Denoising and Completion Enhances Protein Representations</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Hazem Alsamkary et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20052">2505.20052</a></td>
 </tr>
 </tbody></table>

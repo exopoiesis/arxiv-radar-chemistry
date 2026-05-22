@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1526,35 +1526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09606.html">Comparative Analysis of GFN Methods in Geometry Optimization of Small Organic Semiconductor Molecules: A DFT Benchmarking Study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Steve Cabrel Teguia Kouam et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09606">2505.09606</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13791.html">Multi-Type Point Cloud Autoencoder: A Complete Equivariant Embedding for Molecule Conformation and Pose</a></div></td>
-<td>Michael Kilgour et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13791">2405.13791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04520.html">Advancing Molecular Machine Learning Representations with Stereoelectronics-Infused Molecular Graphs</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Daniil A. Boiko et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04520">2408.04520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12128.html">Multimodal Fusion with Relational Learning for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Zhengyang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2410.12128">2410.12128</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.18084.html">Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</a></div></td>
-<td>Xuan Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2412.18084">2412.18084</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02810.html">Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Chanhui Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02810">2502.02810</a></td>
 </tr>
 </tbody></table>

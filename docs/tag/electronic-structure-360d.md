@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">475 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2864,23 +2864,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12451.html">Neural Canonical Transformations for Quantum Anharmonic Solids of Lithium</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Qi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2412.12451">2412.12451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19730.html">Composition dependent $\mathbf{k}\cdot\mathbf{p}$ band parameters for wurtzite (Al,Ga)N alloys from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Amit Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19730">2505.19730</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20228.html">Theoretical Study of Charge Transport Properties of Curved PAH Organic Semiconductors</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Hengyu Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20228">2505.20228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20544.html">Metallic layered materials with magnetic frustration: An ARPES view of the SmAuAl$_4$Ge$_2$ and TbAuAl$_4$Ge$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>P. Rezende-Gonçalves et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20544">2505.20544</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">609 papers</span>
+  <span class="paper-count">604 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3638,35 +3638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19289.html">AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Jiangjie Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19289">2602.19289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01300.html">Exploring the Thermodynamic, Elastic, and Optical properties of LaRh2X2 (X = Al, Ga, In) low Tc Superconductors through First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Md. Hasan Shahriar Rifat et al.</td>
-<td><a href="http://arxiv.org/abs/2601.01300">2601.01300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18852.html">MAD-SURF: a machine learning interatomic potential for molecular adsorption on coinage metal surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Manuel González Lastre et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18852">2601.18852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18052.html">Lattice and Orbital-Resolved Fermiology of Metallenes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Kameyab Raza Abidi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18052">2602.18052</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18132.html">Physical Pictures for Quasisymmetry in Crystals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Bryan D. Assunção et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18132">2602.18132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18200.html">A Computational Study of Organic Molecular Crystals for Photocatalytic Water Splitting</a></div><div class="paper-tags"><a href="photocatalysis-90d.html">photocatalysis</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>James D. Green et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18200">2602.18200</a></td>
 </tr>
 </tbody></table>

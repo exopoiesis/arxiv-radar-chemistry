@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,17 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21773.html">Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Dustin Vivod et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21773">2604.21773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24630.html">On peculiarities of the annealing process for highly transparent silica-based aerogel tiles manufactured in Novosibirsk</a></div></td>
-<td>A. Yu. Barnyakov et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24630">2603.24630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20897.html">Watts-per-Intelligence Part II: Algorithmic Catalysis</a></div></td>
-<td>Elija Perrier</td>
-<td><a href="http://arxiv.org/abs/2604.20897">2604.20897</a></td>
 </tr>
 </tbody></table>

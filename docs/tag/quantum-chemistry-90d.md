@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05804.html">Genetic optimization of ansatz expressibility for enhanced variational quantum algorithm performance</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Manish Mallapur et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05804">2509.05804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18156.html">Determining Molecular Ground State with Quantum Imaginary Time Evolution using Broken-Symmetry Wave Function</a></div></td>
-<td>Pawan Sharma Poudel et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18156">2504.18156</a></td>
 </tr>
 </tbody></table>

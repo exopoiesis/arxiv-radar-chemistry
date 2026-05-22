@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,17 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19289.html">AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Jiangjie Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19289">2602.19289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18150.html">Generative Distribution Embeddings: Lifting autoencoders to the space of distributions for multiscale representation learning</a></div></td>
-<td>Nic Fishman et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18150">2505.18150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09043.html">GAGA: Gaussianity-Aware Gaussian Approximation for Efficient 3D Molecular Generation</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Jingxiang Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09043">2507.09043</a></td>
 </tr>
 </tbody></table>

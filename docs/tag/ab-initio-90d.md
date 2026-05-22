@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">459 papers</span>
+  <span class="paper-count">453 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2732,41 +2732,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18849.html">Exact Attention Sensitivity and the Geometry of Transformer Stability</a></div></td>
 <td>Seyed Morteza Emadi</td>
 <td><a href="http://arxiv.org/abs/2602.18849">2602.18849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09079.html">Bayesian approach for many-body uncertainties in nuclear structure: Many-body perturbation theory for finite nuclei</a></div></td>
-<td>Isak Svensson et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09079">2507.09079</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18849.html">Multi-neutron correlations in light nuclei via ab-initio lattice simulations</a></div></td>
-<td>Shuang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.18849">2512.18849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01300.html">Exploring the Thermodynamic, Elastic, and Optical properties of LaRh2X2 (X = Al, Ga, In) low Tc Superconductors through First-Principles Calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Md. Hasan Shahriar Rifat et al.</td>
-<td><a href="http://arxiv.org/abs/2601.01300">2601.01300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18852.html">MAD-SURF: a machine learning interatomic potential for molecular adsorption on coinage metal surfaces</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Manuel González Lastre et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18852">2601.18852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18132.html">Physical Pictures for Quasisymmetry in Crystals</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Bryan D. Assunção et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18132">2602.18132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18162.html">Light antiproton-nucleus systems at low energies with the ab initio NCSM/RGM method</a></div></td>
-<td>Alireza Dehghani et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18162">2602.18162</a></td>
 </tr>
 </tbody></table>

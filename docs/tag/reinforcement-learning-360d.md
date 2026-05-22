@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21666.html">Efficient Controllable Diffusion via Optimal Classifier Guidance</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Owen Oertell et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21666">2505.21666</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20131.html">MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Yuanxin Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20131">2505.20131</a></td>
 </tr>
 </tbody></table>

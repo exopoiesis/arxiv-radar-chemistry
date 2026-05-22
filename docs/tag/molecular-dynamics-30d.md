@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,65 +674,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20642.html">Polaron transport and Verwey transition in magnetite</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Nikita Fominykh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.20642">2604.20642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21506.html">Fast-Reconfiguring Liquid-Crystal RIS for Pervasive Wireless Networks</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Luis F. Abanto-Leon et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21506">2410.21506</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13146.html">Multi-scale Modeling of the Electro-viscoelasticity of Charged Polymers in Combined Flow and Electric Fields</a></div></td>
-<td>Zachary Wolfgram et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13146">2509.13146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05019.html">Geometry of particle emission in UrQMD Ar+Sc collisions at SPS energies</a></div></td>
-<td>Barnabas Porfy et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05019">2512.05019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18139.html">Evaluating dispersion models for ab initio simulation of G-I and G-II molten fluoride salts</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Shubhojit Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18139">2604.18139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19319.html">An Oracle-Free Quantum Algorithm for Nonadiabatic Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Joshua Courtney</td>
-<td><a href="http://arxiv.org/abs/2604.19319">2604.19319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19491.html">Causality in Liquid Water as a Hallmark of Emergent Glassy Dynamics</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Leon Huet et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19491">2604.19491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19615.html">Lattice thermal transport from phonon spectra beyond perturbation theory</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Zezhu Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19615">2604.19615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19637.html">Ion wake-mediated dust interactions under PK-4 conditions: a generalized and compact potential formulation</a></div></td>
-<td>Diana Jimenez Marti et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19637">2604.19637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19912.html">A Statistical-Mechanical Model for Dipolar Chain Formation</a></div></td>
-<td>Zhongqi Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19912">2604.19912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20040.html">VPT2 Calculations of Vibrational Energies of CH3COOC6H4COOH Done in Seconds on a Laptop Using a Machine Learned Potential</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Saikiran Kotaru et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20040">2604.20040</a></td>
 </tr>
 </tbody></table>

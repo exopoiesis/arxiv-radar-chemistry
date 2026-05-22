@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">405 papers</span>
+  <span class="paper-count">404 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2438,11 +2438,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21754.html">Visual Loop Closure Detection Through Deep Graph Consensus</a></div></td>
 <td>Martin Büchner et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21754">2505.21754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04520.html">Advancing Molecular Machine Learning Representations with Stereoelectronics-Infused Molecular Graphs</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Daniil A. Boiko et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04520">2408.04520</a></td>
 </tr>
 </tbody></table>

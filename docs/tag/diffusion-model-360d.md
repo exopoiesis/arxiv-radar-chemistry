@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">465 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2804,23 +2804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21833.html">A Graph Completion Method that Jointly Predicts Geometry and Topology Enables Effective Molecule Assembly</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Rohan V. Koodli et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21833">2505.21833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19300.html">UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Xiangzhe Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19300">2503.19300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20131.html">MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Yuanxin Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20131">2505.20131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20367.html">DiffNMR: Advancing Inpainting of Randomly Sampled Nuclear Magnetic Resonance Signals</a></div></td>
-<td>Sen Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20367">2505.20367</a></td>
 </tr>
 </tbody></table>

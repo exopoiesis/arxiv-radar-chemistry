@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,23 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21508.html">BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature</a></div></td>
 <td>Jiaxian Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21508">2604.21508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19335.html">When Active Learning Falls Short: An Empirical Study on Chemical Reaction Extraction</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a></div></td>
-<td>Simin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19335">2604.19335</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19562.html">Structure-guided molecular design with contrastive 3D protein-ligand learning</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Carles Navarro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19562">2604.19562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20019.html">Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Renee Gil</td>
-<td><a href="http://arxiv.org/abs/2604.20019">2604.20019</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1626 papers</span>
+  <span class="paper-count">1618 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9722,53 +9722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04560.html">Nonlinear electron-phonon interactions in Migdal-Eliashberg theory</a></div></td>
 <td>Ingvar Zappacosta et al.</td>
 <td><a href="http://arxiv.org/abs/2503.04560">2503.04560</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05635.html">Mesoscopic theory of the Josephson junction</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Thomas J. Maldonado et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05635">2411.05635</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19071.html">Visualization of spin-splitter effect in altermagnets via non-equilibrium Green functions on a lattice</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Karl Bergson Hallberg et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19071">2503.19071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19485.html">Universal Symmetries in Twisted Moiré Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mohammed M. Al Ezzi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19485">2505.19485</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19681.html">Coherent Control of Ion-Photoelectron Dynamics through Rabi Oscillations: An ab initio study</a></div></td>
-<td>Bo-Ren Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19681">2505.19681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19730.html">Composition dependent $\mathbf{k}\cdot\mathbf{p}$ band parameters for wurtzite (Al,Ga)N alloys from density functional theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Amit Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19730">2505.19730</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19909.html">Local Pseudopotential Unlocks the True Potential of Neural Network-based Quantum Monte Carlo</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Weizhong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19909">2505.19909</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20092.html">Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr$_3$ perovskite</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Junwen Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20092">2505.20092</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20169.html">Structure and Elastic properties of Titanium MXenes: evaluation of COMB3, REAXFF and MEAM force fields</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Luis F. V. Thomazini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20169">2505.20169</a></td>
 </tr>
 </tbody></table>

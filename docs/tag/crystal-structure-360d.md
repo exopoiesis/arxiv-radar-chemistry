@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">282 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1700,11 +1700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22817.html">Enhanced Stability and Linearly Polarized Emission from CsPbI$_3$ Perovskite Nanoplatelets through A-site Cation Engineering</a></div></td>
 <td>Woo Hyeon Jeong et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22817">2505.22817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20092.html">Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr$_3$ perovskite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Junwen Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20092">2505.20092</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">476 papers</span>
+  <span class="paper-count">475 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2864,11 +2864,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21096.html">Ultrafast atomic dimerization of Peierls distortion in semimetal molybdenum ditelluride</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Zhong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21096">2505.21096</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20039.html">Exploring Aperiodic Order in Photonic Time Crystals</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Marino Coppolaro et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20039">2505.20039</a></td>
 </tr>
 </tbody></table>

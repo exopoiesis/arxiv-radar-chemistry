@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2126 papers</span>
+  <span class="paper-count">2121 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12740,35 +12740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21428.html">Interpretable machine learned predictions of adsorption energies at the metal--oxide interface</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="tmo-360d.html">tmo</a></div></td>
 <td>Marius Juul Nielsen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21428">2505.21428</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19730.html">Composition dependent $\mathbf{k}\cdot\mathbf{p}$ band parameters for wurtzite (Al,Ga)N alloys from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Amit Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19730">2505.19730</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19908.html">Toward Unraveling Cyanopolyyne Surface Chemistry: A Preview on Isolated Systems From HC_{3}N to Ethyl Cyanide and Propylamine</a></div></td>
-<td>Marten T. Raaphorst et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19908">2505.19908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20169.html">Structure and Elastic properties of Titanium MXenes: evaluation of COMB3, REAXFF and MEAM force fields</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Luis F. V. Thomazini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20169">2505.20169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20228.html">Theoretical Study of Charge Transport Properties of Curved PAH Organic Semiconductors</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Hengyu Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20228">2505.20228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20544.html">Metallic layered materials with magnetic frustration: An ARPES view of the SmAuAl$_4$Ge$_2$ and TbAuAl$_4$Ge$_2$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>P. Rezende-Gonçalves et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20544">2505.20544</a></td>
 </tr>
 </tbody></table>

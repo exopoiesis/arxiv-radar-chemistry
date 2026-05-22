@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,23 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19289.html">AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Jiangjie Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19289">2602.19289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.16189.html">Co-Evolution-Based Metal-Binding Residue Prediction with Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
-<td>Sayedmohammadreza Rastegari et al.</td>
-<td><a href="http://arxiv.org/abs/2502.16189">2502.16189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19397.html">Photon catalysis for general multimode multi-photon quantum state preparation</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Andrei Aralov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19397">2507.19397</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18052.html">Lattice and Orbital-Resolved Fermiology of Metallenes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Kameyab Raza Abidi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18052">2602.18052</a></td>
 </tr>
 </tbody></table>

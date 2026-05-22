@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">596 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3572,23 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21833.html">A Graph Completion Method that Jointly Predicts Geometry and Topology Enables Effective Molecule Assembly</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Rohan V. Koodli et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21833">2505.21833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12128.html">Multimodal Fusion with Relational Learning for Molecular Property Prediction</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Zhengyang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2410.12128">2410.12128</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19300.html">UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Xiangzhe Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19300">2503.19300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20036.html">Beyond Simple Concatenation: Fairly Assessing PLM Architectures for Multi-Chain Protein-Protein Interactions Prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Hazem Alsamkary et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20036">2505.20036</a></td>
 </tr>
 </tbody></table>

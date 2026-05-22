@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18880.html">Reshaping MOFs text mining with a dynamic multi-agents framework of large language model</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a></div></td>
 <td>Zuhong Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18880">2504.18880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18054.html">Achieving Robust Extrapolation in Materials Property Prediction via Decoupled Transfer Learning</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Tasuku Sugiura et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18054">2602.18054</a></td>
 </tr>
 </tbody></table>

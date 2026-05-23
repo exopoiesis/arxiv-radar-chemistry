@@ -16,6 +16,42 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22167.html">High-throughput study of electrical conductivity in ordered metals</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Thalis H. B. da Silva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22167">2605.22167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22196.html">Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Federico Ravera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22196">2605.22196</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22367.html">Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Nitik Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22367">2605.22367</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22394.html">Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Michał Hapka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22394">2605.22394</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22453.html">Harnessing Linear and Nonlinear Optical Responses in Ferroelectric LaMoN$_3$ for Enhanced Photovoltaic Efficiency</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Surajit Adhikari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22453">2605.22453</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22698.html">Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Christoph Brunken et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22698">2605.22698</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21231.html">Destructive interference of second harmonic generation in AA stacked MoTe$_2$/WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
 <td>Yiduo Wang et al.</td>
@@ -32,6 +68,24 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21389.html">Huge ultrafast spin Seebeck effect mediated by laser-excited superdiffusive magnon currents</a></div></td>
 <td>Luca Mikadze et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21389">2605.21389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21575.html">First-Principles Turbulence-Driven Deflagration-to-Detonation Transition Mechanism for Near-Chandrasekhar Mass White Dwarf Progenitors</a></div></td>
+<td>Krut Patel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21575">2605.21575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21720.html">A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="metadynamics-30d.html">metadynamics</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Christopher Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21720">2605.21720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21767.html">Uncovering Antipolar Ordering and Pressure-Tunable Phases in Hexagonal LaN</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Atanu Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21767">2605.21767</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -614,59 +668,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22044.html">Spin-polarized Energy Density Method from Spin-Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Yang Dan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22044">2604.22044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.20095.html">Glauber-theory calculations of high-energy nuclear scattering observables using variational Monte Carlo wave functions</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>W. Horiuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2512.20095">2512.20095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06076.html">Temperature dependence of electronic conductivity from ab initio thermal simulation</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ridwan Hussein et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06076">2602.06076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14682.html">Giant anomalous Hall conductivity in frustrated magnet EuCo2Al9</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Sheng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14682">2603.14682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20230.html">Crystal structure prediction with nuclear quantum and finite-temperature effects via deep free energy learning</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Xiaoyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20230">2604.20230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20355.html">Fluctuation-driven multi-step charge density wave transition in monolayer TiSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Luka Benić et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20355">2604.20355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20642.html">Polaron transport and Verwey transition in magnetite</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Nikita Fominykh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20642">2604.20642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20681.html">Cutoff-independent predictions from nuclear lattice effective field theory</a></div></td>
-<td>Chen-Can Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20681">2604.20681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21068.html">Expanding the extreme-k dielectric materials space through physics-validated generative reasoning</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Hossain Hridoy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21068">2604.21068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21073.html">Generative Discovery of Magnetic Insulators under Competing Physical Constraints</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Qiulin Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21073">2604.21073</a></td>
 </tr>
 </tbody></table>

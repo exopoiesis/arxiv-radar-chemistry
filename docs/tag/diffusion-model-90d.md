@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,17 +878,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19202.html">UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models</a></div></td>
 <td>Gang Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19202">2602.19202</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21655.html">DriftLite: Lightweight Drift Control for Inference-Time Scaling of Diffusion Models</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Yinuo Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21655">2509.21655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18695.html">Insertion Based Sequence Generation with Learnable Order Dynamics</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Dhruvesh Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18695">2602.18695</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">465 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2780,29 +2780,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22926.html">Leveraging Diffusion Models for Synthetic Data Augmentation in Protein Subcellular Localization Classification</a></div></td>
 <td>Sylvey Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22926">2505.22926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10193.html">Simple Guidance Mechanisms for Discrete Diffusion Models</a></div></td>
-<td>Yair Schiff et al.</td>
-<td><a href="http://arxiv.org/abs/2412.10193">2412.10193</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09571.html">DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Montgomery Bohde et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09571">2502.09571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21666.html">Efficient Controllable Diffusion via Optimal Classifier Guidance</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Owen Oertell et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21666">2505.21666</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21833.html">A Graph Completion Method that Jointly Predicts Geometry and Topology Enables Effective Molecule Assembly</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Rohan V. Koodli et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21833">2505.21833</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22394.html">Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Michał Hapka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22394">2605.22394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15927.html">Data-driven complete basis set limit estimates from a minimal auxiliary basis</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Nicolas Grimblat et al.</td>
@@ -2318,11 +2324,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.14968.html">Quantum Measurement for Quantum Chemistry on a Quantum Computer</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Smik Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2501.14968">2501.14968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09606.html">Comparative Analysis of GFN Methods in Geometry Optimization of Small Organic Semiconductor Molecules: A DFT Benchmarking Study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Steve Cabrel Teguia Kouam et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09606">2505.09606</a></td>
 </tr>
 </tbody></table>

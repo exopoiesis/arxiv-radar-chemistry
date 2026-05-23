@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22415.html">Emergent magnetic and charge ordered phases in freestanding ultrathin \ce{LaVO3}</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="tmo-30d.html">tmo</a></div></td>
+<td>Ashutosh Anand et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22415">2605.22415</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Souvik Chakraborty et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21245.html">Octupole correlation effects on two-neutron transfer intensity in rare-earth nuclei</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Kosuke Nomura</td>
 <td><a href="http://arxiv.org/abs/2604.21245">2604.21245</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20355.html">Fluctuation-driven multi-step charge density wave transition in monolayer TiSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Luka Benić et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20355">2604.20355</a></td>
 </tr>
 </tbody></table>

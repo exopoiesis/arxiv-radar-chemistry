@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22367.html">Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Nitik Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22367">2605.22367</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19579.html">TACK: A statistical evaluation of degradation activity on a novel TArgeting Chimeras Knowledge dataset</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Stefano Ribes et al.</td>
@@ -980,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00223.html">Enhancing Drug Discovery: Autoencoder-Based Latent Space Augmentation for Improved Molecular Solubility Prediction using LatMixSol</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Mohammad Saleh Hasankhani</td>
 <td><a href="http://arxiv.org/abs/2506.00223">2506.00223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20820.html">MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Hyomin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20820">2505.20820</a></td>
 </tr>
 </tbody></table>

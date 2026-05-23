@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">273 papers</span>
+  <span class="paper-count">272 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1646,11 +1646,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22869.html">CFP-Gen: Combinatorial Functional Protein Generation via Diffusion Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Junbo Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22869">2505.22869</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20098.html">Transformers in Protein: A Survey</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-function-360d.html">protein-function</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Xiaowen Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20098">2505.20098</a></td>
 </tr>
 </tbody></table>

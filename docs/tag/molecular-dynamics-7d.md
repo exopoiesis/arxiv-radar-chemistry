@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22094.html">A path-finding algorithm for computing minimal-weight-matching centrosymmetry parameter</a></div></td>
+<td>Vasily V. Pisarev</td>
+<td><a href="http://arxiv.org/abs/2605.22094">2605.22094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22196.html">Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Federico Ravera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22196">2605.22196</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22225.html">Silicate cosmic dust grain collisions in the interstellar medium: A molecular dynamics study</a></div></td>
+<td>C. J. Esmerian et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22225">2605.22225</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22229.html">Delineating the interplay effects of microstructure topology and residual stresses in ultrafast laser irradiated thin films</a></div></td>
+<td>Hariprasath Ganesan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22229">2605.22229</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22367.html">Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
+<td>Nitik Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22367">2605.22367</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Adam Hložný et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22601">2605.22601</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15305.html">WorldParticle: Unified World Simulation of Lagrangian Particle Dynamics via Transformer</a></div></td>
@@ -50,6 +86,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21298.html">Interaction Controlled Molecular Probing of Length Scale Dependent Glassy Dynamics in Polymer Melts</a></div></td>
 <td>Suyeon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21298">2605.21298</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21720.html">A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="metadynamics-7d.html">metadynamics</a></div></td>
+<td>Christopher Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21720">2605.21720</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -110,29 +152,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16957.html">An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization of Hydroxyapatite as a Case Study</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
 <td>Mahdi Tavakol et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16957">2605.16957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15805.html">Markov State Model for the forced unfolding of a small peptide</a></div></td>
-<td>Marco Oestereich et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15805">2605.15805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16070.html">Biophysical Considerations for Rational Antibody and ADC Design</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Alberto Ocana et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16070">2605.16070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16123.html">Thermal conductivity of seifertite and pyrite-type SiO$_2$: A comparative study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="phase-transition-7d.html">phase-transition</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Doyoon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16123">2605.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16214.html">Bridging Atomistic Simulation and Experimental Processing Timescales with Goal-Directed Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Wonseok Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16214">2605.16214</a></td>
 </tr>
 </tbody></table>

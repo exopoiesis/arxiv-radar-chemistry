@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22394.html">Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Michał Hapka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22394">2605.22394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15927.html">Data-driven complete basis set limit estimates from a minimal auxiliary basis</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Nicolas Grimblat et al.</td>
@@ -692,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20232.html">Coupled Cluster con MōLe: Molecular Orbital Learning for Neural Wavefunctions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Luca Thiede et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20232">2602.20232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05804.html">Genetic optimization of ansatz expressibility for enhanced variational quantum algorithm performance</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Manish Mallapur et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05804">2509.05804</a></td>
 </tr>
 </tbody></table>

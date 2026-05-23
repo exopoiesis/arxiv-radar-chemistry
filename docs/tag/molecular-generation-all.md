@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-generation — all</h1>
-  <span class="paper-count">208 papers</span>
+  <span class="paper-count">210 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22287.html">SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
+<td>Yuxuan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22287">2605.22287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21770.html">Manifold-Guided Attention Steering</a></div></td>
+<td>Ian Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21770">2605.21770</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18381.html">Generating Physically Consistent Molecules with Energy-Based Models</a></div><div class="paper-tags"><a href="replica-exchange-all.html">replica-exchange</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">604 papers</span>
+  <span class="paper-count">612 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22294.html">Odd-Parity Chiral Magnons in Collinear Antiferromagnetic Multiferroics: Symmetry Classification and Ferroelectric Switching</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Quanchao Du et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22294">2605.22294</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22394.html">Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Michał Hapka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22394">2605.22394</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22415.html">Emergent magnetic and charge ordered phases in freestanding ultrathin \ce{LaVO3}</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="tmo-90d.html">tmo</a></div></td>
+<td>Ashutosh Anand et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22415">2605.22415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22453.html">Harnessing Linear and Nonlinear Optical Responses in Ferroelectric LaMoN$_3$ for Enhanced Photovoltaic Efficiency</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Surajit Adhikari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22453">2605.22453</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22522.html">Competing incommensurability, electronic correlations, and superconductivity in a hybrid transition metal dichalcogenide</a></div><div class="paper-tags"><a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Jean C. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22522">2605.22522</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Adam Hložný et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22601">2605.22601</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
@@ -38,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21037.html">Configuration-interaction time-dependent density functional theory for nuclear dynamics</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Y. P. Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21037">2605.21037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21767.html">Uncovering Antipolar Ordering and Pressure-Tunable Phases in Hexagonal LaN</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Atanu Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21767">2605.21767</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -116,6 +158,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18501.html">Quantum Emitters at Telecommunication Wavelengths based on Carbon Defects in Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="tmd-90d.html">tmd</a></div></td>
 <td>Chanaprom Cholsuk et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18501">2605.18501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21520.html">Dominant vibronic relaxation channels in a europium-based molecular qubit</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Neil Iyer</td>
+<td><a href="http://arxiv.org/abs/2605.21520">2605.21520</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-16</td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22287.html">SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
+<td>Yuxuan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22287">2605.22287</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="protein-llm-90d.html">protein-llm</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Mansoor Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21485">2605.21485</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21740.html">SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
+<td>Kevin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21740">2605.21740</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -914,23 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22236.html">CrossLLM-Mamba: Multimodal State Space Fusion of LLMs for RNA Interaction Prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Rabeya Tus Sadia et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22236">2602.22236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18695.html">Insertion Based Sequence Generation with Learnable Order Dynamics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Dhruvesh Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18695">2602.18695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18769.html">GLaDiGAtor: Language-Model-Augmented Multi-Relation Graph Learning for Predicting Disease-Gene Associations</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Osman Onur Kuzucu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18769">2602.18769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18915.html">AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Mohammadreza Ghaffarzadeh-Esfahani et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18915">2602.18915</a></td>
 </tr>
 </tbody></table>

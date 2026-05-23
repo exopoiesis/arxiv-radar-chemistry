@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">593 papers</span>
+  <span class="paper-count">590 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22287.html">SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
+<td>Yuxuan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22287">2605.22287</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Mansoor Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21485">2605.21485</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21740.html">SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
+<td>Kevin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21740">2605.21740</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -3542,35 +3554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23823.html">RAGPPI: RAG Benchmark for Protein-Protein Interactions in Drug Discovery</a></div></td>
 <td>Youngseung Jeon et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23823">2505.23823</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09571.html">DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Montgomery Bohde et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09571">2502.09571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17349.html">HybridLinker: Topology-Guided Posterior Sampling for Enhanced Diversity and Validity in 3D Molecular Linker Generation</a></div></td>
-<td>Minyeong Hwang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17349">2502.17349</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20098.html">Transformers in Protein: A Survey</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Xiaowen Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20098">2505.20098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21241.html">BindEnergyCraft: Casting Protein Structure Predictors as Energy-Based Models for Binder Design</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Divya Nori et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21241">2505.21241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21833.html">A Graph Completion Method that Jointly Predicts Geometry and Topology Enables Effective Molecule Assembly</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Rohan V. Koodli et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21833">2505.21833</a></td>
 </tr>
 </tbody></table>

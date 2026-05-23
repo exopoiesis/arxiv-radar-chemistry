@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22287.html">SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
+<td>Yuxuan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22287">2605.22287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21770.html">Manifold-Guided Attention Steering</a></div></td>
+<td>Ian Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21770">2605.21770</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18381.html">Generating Physically Consistent Molecules with Energy-Based Models</a></div><div class="paper-tags"><a href="replica-exchange-360d.html">replica-exchange</a></div></td>
@@ -872,11 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22948.html">Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Michael Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22948">2505.22948</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20820.html">MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Hyomin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20820">2505.20820</a></td>
 </tr>
 </tbody></table>

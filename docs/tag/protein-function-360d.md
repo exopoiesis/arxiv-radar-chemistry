@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-function — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <strong>360d</strong> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10015.html">Identifying critical residues of a protein using meaningfully-thresholded Random Geometric Graphs</a></div></td>
 <td>Chuqiao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10015">2506.10015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20098.html">Transformers in Protein: A Survey</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Xiaowen Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20098">2505.20098</a></td>
 </tr>
 </tbody></table>

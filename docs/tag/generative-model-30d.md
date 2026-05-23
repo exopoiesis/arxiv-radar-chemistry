@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22252.html">LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation</a></div></td>
+<td>Langzhang Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22252">2605.22252</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21237.html">RePCM: Region-Specific and Phenotype-Adaptive Bi-Ventricular Cardiac Motion Synthesis</a></div></td>
 <td>Xuan Yang et al.</td>
@@ -212,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21809.html">Quotient-Space Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Yixian Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21809">2604.21809</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21008.html">Linear Image Generation by Synthesizing Exposure Brackets</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Yuekun Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21008">2604.21008</a></td>
 </tr>
 </tbody></table>

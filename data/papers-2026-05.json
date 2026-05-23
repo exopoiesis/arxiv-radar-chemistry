@@ -14898,5 +14898,893 @@
    "Protein & Biomolecules"
   ],
   "updated": "2026-05-20"
+ },
+ "2605.21502": {
+  "abstract": "Graph neural networks (GNNs) are increasingly used to model biological systems, yet the reliability of post-hoc explanation methods for recovering meaningful molecular mechanisms remains unclear. Here, we systematically evaluate four widely used approaches: Saliency Attribution (SA), Integrated Gradients (IG), GNNExplainer, and Layer-wise Relevance Propagation (LRP) for identifying disease-relevant structure in breast cancer RNA-seq data projected onto a protein-protein interaction network. Using synthetic benchmarks with known ground-truth motifs, we show that explanation methods recover distinct signal organizations: SA performs best for sparse single-node drivers, whereas IG and LRP preferentially recover distributed pathway-like and cascade-like signals. In TCGA BRCA data, we identify a consistent topological signature of disease-associated hubs in which attribution peaks in the immediate 1-hop neighborhood and decays across successive network shells, a pattern most pronounced for IG and LRP and associated with strong enrichment of known cancer hubs. We further observe a trade-off between local hub enrichment and global gene ranking performance, with IG optimizing local enrichment and SA achieving superior global discrimination. Motivated by these complementary behaviors, we introduce a framework combining a shell-based hub score with consensus ranking across explainers. Consensus scores improve prioritization of canonical cancer genes (TP53, BRCA1, ESR1, MYC), reduce dependence on node degree, and, especially when tuned, outperform individual methods. Pathway enrichment further reveals improved recovery of biologically coherent cancer programs, including ERBB2, RTK, MAPK, immune, and cytokine signaling. Together, these results demonstrate that topology-aware integration of graph explanations can improve biological interpretability and biologically relevant molecular recovery.",
+  "authors": [
+   "Kyle Higgins",
+   "Ivan Laponogov",
+   "Dennis Veselkov",
+   "Kirill Veselkov"
+  ],
+  "categories": [
+   "q-bio.MN",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "25 pages (excluding supplement), 7 figures, 7 supplementary tables",
+  "first_author": "Kyle Higgins",
+  "pdf_url": "http://arxiv.org/pdf/2605.21502",
+  "primary_category": "q-bio.MN",
+  "published": "2026-05-08",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Graph neural network explanations reveal a topological signature of disease-associated hubs in biological networks",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-05-08"
+ },
+ "2605.21520": {
+  "abstract": "Molecular spin qubits offer a versatile platform for quantum information processing due to their synthetic tunability and well-defined electronic structure. Here, a fitted-parameter-free computational framework combining density functional theory (DFT), time-dependent DFT (TD-DFT), and Redfield theory is applied to investigate the longitudinal spin-lattice relaxation time $T_1$ of the Eu nuclear spin qubit Eu(dpphen)(NO3)3. Using a single-molecule gas-phase model, the experimental long relaxation component $T_{1,\\mathrm{long}} = 41.39$ s is reproduced within a factor of 1.4 (calculated: 55.88 s at 4.2 K), indicating that the slow relaxation channel is governed by intramolecular vibronic coupling. In contrast, the calculated $T_{1,\\mathrm{short}}$ deviates by a factor of 66, highlighting the importance of crystal lattice and intermolecular effects absent from the model. The experimental $^5D_0 \\rightarrow {}^7F_0$ optical transition is reproduced to within 1.1%, supporting the accuracy of the electronic structure description. Vibrational analysis identifies a large-amplitude dpphen rocking mode at a frequency of $332.02~\\mathrm{cm}^{-1}$ as the dominant vibronic coupling channel, while electric field gradient (EFG) derivative analysis independently identifies another nitrate-rocking mode at $180.57~\\mathrm{cm}^{-1}$ as the primary modulator of the nuclear spin environment via nitrate motion. These results are consistent with a near-maximal quadrupole asymmetry parameter $η= 0.941$, which creates state mixing through off-diagonal quadrupolar terms. Overall, the results establish a single-molecule relaxation baseline and suggest targeted ligand rigidification and substitution strategies to suppress decoherence.",
+  "authors": [
+   "Neil Iyer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other",
+   "quant-ph"
+  ],
+  "comment": "8 pages, 6 figures",
+  "first_author": "Neil Iyer",
+  "pdf_url": "http://arxiv.org/pdf/2605.21520",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-18",
+  "tags": [
+   "dft",
+   "electronic-structure"
+  ],
+  "title": "Dominant vibronic relaxation channels in a europium-based molecular qubit",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.21522": {
+  "abstract": "Protein-protein interactions (PPIs) govern nearly all cellular processes, yet computational methods for identifying binding partners typically produce ranked predictions without mechanistic justification. This creates a fundamental barrier to adoption because biologists cannot assess whether predictions reflect genuine biochemical insight or spurious correlations. We present \\textbf{Protein Thoughts}, a framework that reformulates PPI discovery as an interpretable search problem with explicit reasoning. The system decomposes binding evidence into four biologically meaningful signals: sequence similarity reflecting evolutionary relationships, structural complementarity capturing geometric fit, interface balance, and chemical compatibility encoding residue-level interactions. Rather than collapsing these signals into an opaque score, we preserve their individual contributions through a transparent value function that enables both ranking and auditing. To navigate large candidate spaces efficiently, we introduce hypothesis-guided entropy-regularized Tree-of-Thoughts search. A fine-tuned language model generates search directives from embedding-derived features, classifying candidates as high-priority, exploratory, or skippable. These directives condition a Boltzmann policy that balances exploitation with entropy-driven exploration, while hypothesis-aware pruning prevents premature abandonment of promising candidates. For candidates exhibiting score disagreement, hypothesis-conditioned embedding-space flow matching transports protein embeddings toward the binder manifold. On the SHS148k benchmark, Protein Thoughts achieves mean best-binder rank of 11.2 versus 47.7 for an entropic tree search baseline, a 76% improvement, and for binding prediction the trained value function achieves $91.08 \\pm 0.19$ Micro-F1, outperforming existing PPI methods on the same dataset.",
+  "authors": [
+   "Kingsley Yeon",
+   "Xuefeng Liu",
+   "Promit Ghosal"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.AI",
+   "cs.CE",
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Kingsley Yeon",
+  "pdf_url": "http://arxiv.org/pdf/2605.21522",
+  "primary_category": "q-bio.QM",
+  "published": "2026-05-19",
+  "tags": [],
+  "title": "Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.21575": {
+  "abstract": "Type Ia supernovae (SNe Ia) play an important role throughout astrophysics, most notably as standardizable cosmological candles. Yet, their stellar progenitors and explosion mechanism remain areas of active investigation. For decades, the canonical model for normal brightness SNe Ia used in cosmology was a carbon-oxygen white dwarf (WD) accreting from a non-degenerate stellar companion, approaching the Chandrasekhar mass (M_Ch). Previously, all models of near-M_Ch SNe Ia invoked an ad hoc assumption on the critical process of detonation initiation, and could therefore be tuned to a variety of outcomes. Here, we present global 3D hydrodynamical simulations of near-M_Ch progenitors, which incorporate, for the first time, a laboratory-validated ab initio mechanism for the turbulence-driven deflagration-to-detonation transition (tDDT). The tDDT detonation mechanism is highly efficient, leading to detonation initiation which is prompt in comparison to most prior work. Despite spanning a factor of six in central ignition density and qualitatively distinct ignition topologies, all models converge on nearly identical synthetic spectra at peak luminosity, spectroscopically matched to the overluminous SN 1999aa. The turbulence-driven Chapman-Jouguet criterion drives each progenitor to a common detonation configuration from diverse initial conditions, providing a physical foundation for the ignition-insensitive detonation outcomes implicit in the empirical standardizability of SNe Ia. This provides the first physically motivated, self-consistent pathway for delayed detonation in SNe Ia simulations. Further work is necessary to understand how this mechanism might produce more delayed detonation initiation and potentially fail, thereby yielding SNe Iax.",
+  "authors": [
+   "Krut Patel",
+   "Akshay Dongre",
+   "Robert Fisher",
+   "Alexei Poludnenko",
+   "Vadim Gamezo",
+   "Mark Ugalino",
+   "Chris Byrohl"
+  ],
+  "categories": [
+   "astro-ph.HE",
+   "astro-ph.SR"
+  ],
+  "comment": null,
+  "first_author": "Krut Patel",
+  "pdf_url": "http://arxiv.org/pdf/2605.21575",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-05-20",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "First-Principles Turbulence-Driven Deflagration-to-Detonation Transition Mechanism for Near-Chandrasekhar Mass White Dwarf Progenitors",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21610": {
+  "abstract": "Antibody design methods condition on antigen structure to generate complementarity-determining regions (CDR), yet a systematic evaluation of baseline methods reveals that they largely ignore the antigen input. We identify three failure modes that explain this behavior. Antigen blindness arises because models derive predictions from antibody framework context rather than antigen information, producing nearly identical CDRs regardless of the target. Vocabulary collapse reduces predicted amino acids to three to five per position, far below the ground truth distribution in native sequences. Moreover, any model trained with standard per-position cross-entropy converges to the positional marginal distribution, making it provably unable to produce antigen-specific sequence predictions. We propose a novel encoder-decoder architecture called AgForce, that uses a graph neural network (GNN) as the encoder and specialized decoders for sequence-structure co-design. Specifically, we apply framework dropout, gated bottlenecks, and hyperbolic cross attention that prevent the antibody shortcut path. In the decoder, a Mixture Density Network (MDN) sequence head with Potts-like pairwise coupling and annealed Multiple Choice Learning (aMCL) replaces the cross-entropy objective with a multi-component distribution whose optimal solution differs from the positional marginal. An antigen cycle consistency head routes gradients through the sequence decoder, forcing predicted distributions to encode antigen identity. AgForce achieves the best binding quality and sequence recovery simultaneously on the CHIMERA-Bench dataset, improving amino acid recovery by 8% over the strongest sequence baseline while surpassing the baselines across all interface metrics, and nearly doubling the effective vocabulary of GNN methods. The source code is available at: https://github.com/mansoor181/ag-force.git",
+  "authors": [
+   "Mansoor Ahmed",
+   "Murray Patterson"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mansoor Ahmed",
+  "pdf_url": "http://arxiv.org/pdf/2605.21610",
+  "primary_category": "cs.LG",
+  "published": "2026-05-20",
+  "tags": [
+   "gnn"
+  ],
+  "title": "AgForce Enables Antigen-conditioned Generative Antibody Design",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21720": {
+  "abstract": "We introduce force-kernel extended-system adaptive biasing force (FK-eABF), a force-based kernel reformulation of eABF that replaces the histogram-based mean-force accumulator of conventional eABF with a sparse population of Gaussian kernels storing local running-mean forces. Biasing forces are recovered by Nadaraya-Watson regression, yielding smooth estimates from the earliest stages of a simulation without a minimum-count threshold, while the same kernel population also defines an auxiliary, self-attenuating exploration force that requires no prior knowledge of barrier heights. On N-acetyl-N'-methylalanylamide in explicit water, FK-eABF achieves full free-energy landscape coverage faster than well-tempered metadynamics (WT-MetaD), on-the-fly probability enhanced sampling (OPES), and WTM-eABF, while all four methods converge to comparable accuracy given sufficient time. FK-eABF also retains long-time accuracy: on the DFG-in/out transition of Abl1 kinase, multi-microsecond simulations recover the established near-isoenergetic balance between states. At the opposite extreme, applied to the electrocyclic ring closure of 1,3-butadiene at the ab initio molecular dynamics level, FK-eABF recovers the free-energy landscape within 30 ps. Together, these benchmarks, spanning more than four orders of magnitude in simulation time, establish FK-eABF as more than a kernelized implementation of eABF: A force-based kernel reformulation that delivers faster early-time convergence without sacrificing long-time quantitative accuracy.",
+  "authors": [
+   "Christopher Kang",
+   "Rahul Verma",
+   "Aditya Sonpal",
+   "Alyson Shoji",
+   "Christophe Chipot",
+   "Jim Pfaendtner"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Christopher Kang",
+  "pdf_url": "http://arxiv.org/pdf/2605.21720",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-20",
+  "tags": [
+   "ab-initio",
+   "enhanced-sampling",
+   "metadynamics",
+   "molecular-dynamics"
+  ],
+  "title": "A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21731": {
+  "abstract": "Deep learning models are increasingly used in scientific prediction tasks where strong benchmark performance is often interpreted as evidence of scientifically meaningful behavior. This interpretation is fragile, as models may exploit shortcut features, dataset-specific regularities, or distributional biases that are predictive on held-out data but not aligned with domain-relevant structure. To address this limitation, we introduce the \\textsc{I-SAFE} (Interventional Secure, Accurate, Fair and Explainable) framework, a post-hoc distributional auditing framework for scientific AI models centered on the Wasserstein Coherence Metric (WCM). Given a trained black-box predictor and an external structural prior encoding domain knowledge about task-relevant input structure, \\textsc{I-SAFE} evaluates raw model outputs under structurally guided perturbations of the input. The proposed audit measures output-distribution coherence through three complementary metrics: a Quantile-Based Metric (QBM) for location-level coherence, the WCM for ordinal coherence, and a translation-invariant WCM variant for shape coherence. We instantiate \\textsc{I-SAFE} on drug--target interaction (DTI) prediction using the Davis kinase benchmark, KLIFS (Kinase--Ligand Interaction Fingerprints and Structures) binding-pocket annotations, and three sequence-based DTI models: DeepConvDTI, DeepDTA, and TAPB. Although the models operate in a comparable predictive regime, \\textsc{I-SAFE} reveals substantially different distributional response profiles, a distinction invisible to accuracy-based evaluation. The framework is model-agnostic and applicable to any domain where inputs admit a structured decomposition and an external prior is available.",
+  "authors": [
+   "Barbara Tarantino",
+   "Gennaro Auricchio",
+   "Paolo Giudici"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Barbara Tarantino",
+  "pdf_url": "http://arxiv.org/pdf/2605.21731",
+  "primary_category": "cs.LG",
+  "published": "2026-05-20",
+  "tags": [],
+  "title": "I-SAFE: Wasserstein Coherence Metrics for Structural Auditing of Scientific AI Models",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21735": {
+  "abstract": "The element abundances of Milky Way disc stars encode entangled imprints of multiple enrichment processes, making it difficult to uncover the underlying chemical evolution. Here we re-project 16 stellar abundances for 199,290 red giant stars ([Fe/H]$ > -1$) into a set of (4) shared enrichment patterns, providing a generative framework for learning the organising structure of the Milky Way disc. The relative contributions of these patterns vary systematically across the disc, revealing a low-dimensional enrichment basis that responds coherently to global drivers of disc evolution. By grouping stars according to their pattern contributions, we identify coherent enrichment pathways that exhibit strong chemo-spatial correlations and are stratified in both age and height above the plane, linking radial growth to vertical disc structure. Stars occupying similar positions along these enrichment pathways also show coherent vertical deviations across radius, indicating that the low-dimensional chemical structure captures the disc's response to dynamical perturbations. We identify a transition in enrichment behaviour at approximately 6 Gyr, marking the onset of a more chemically mixed regime with increasing contributions from delayed sources. Within this connected system, the observed $α$-bimodality arises within a shared, low-dimensional abundance structure, with stars populating continuous sequences of changing enrichment fractions that are tightly coupled to spatial, temporal, and orbital coordinates across the Milky Way disc.",
+  "authors": [
+   "Melissa K. Ness",
+   "Sarah Aquilina",
+   "Jennifer Mead",
+   "Emily Griffith",
+   "Catherine Manea",
+   "Jonathan Bird",
+   "Andrew R. Casey",
+   " Lucy",
+   " Lu",
+   "Kathryn V. Johnston",
+   "Michael R. Blanton",
+   "James W. Johnson",
+   "Maja Jablonska",
+   "Leticia Carigi",
+   "José G. Fernández-Trincado",
+   "Ricardo López Valdivia",
+   "Ying-Yi Song",
+   "Juna Kollmeier"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "accepted MNRAS",
+  "first_author": "Melissa K. Ness",
+  "pdf_url": "http://arxiv.org/pdf/2605.21735",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-05-20",
+  "tags": [],
+  "title": "Milky Way Mapper decoded abundances -- II: From patterns to paths",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21740": {
+  "abstract": "LLM agents have incredible potential for scientific discovery applications. However, the performance of LLM agents on real-world, small molecule drug design (SMDD) tasks across diverse chemistries and targets is unclear. Current evaluation methods are either ad hoc, too simple for real-world discovery, limited in scale, or restricted to single-turn question answering. In effort to standardize the evaluation of LLM agents on small molecule design, we introduce SMDD-Bench, a challenging, multi-turn, long-horizon agentic benchmark consisting of 502 guaranteed-solvable task instances spanning 5 task types: 2D Pharmacophore Identification, Interaction Point Discovery, Scaffold Hopping, Lead Optimization, and Fragment Assembly. SMDD-Bench tasks span a wide region of chemical space and involve 102 unique protein targets. Completely solving the benchmark would require having strong chemical and biological reasoning and 3D intuition, understanding specialized tool use, and displaying planning expertise over a limited number of oracle calls. We benchmark 7 frontier open and closed source LLMs and find even the most performant LLM, GPT5.4, solves only 40.2\\% of tasks. We hope SMDD-Bench provides a standardized testbed to invigorate the field towards training and evaluating LLM agents for fully autonomous computational drug design. We host a public leaderboard at smddbench.com .",
+  "authors": [
+   "Kevin Han",
+   "Renfei Zhang",
+   "Kathy Wei",
+   "Hamed Mahdavi",
+   "Niloofar Mireshghallah",
+   "Amir Farimani"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Kevin Han",
+  "pdf_url": "http://arxiv.org/pdf/2605.21740",
+  "primary_category": "cs.AI",
+  "published": "2026-05-20",
+  "tags": [
+   "chemical-space",
+   "drug-discovery"
+  ],
+  "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21767": {
+  "abstract": "We predict an antipolar instability in hexagonal LaN using first-principles density functional theory. Starting from a nonpolar hexagonal phase, we identify competing polar and antipolar zone-center phonon instabilities. Condensation of the polar and antipolar modes stabilizes, respectively, dynamically stable wurtzite (WZ) phase and an hexagonal antipolar (AP) phase which is characterized by alternating local polarization and zero net macroscopic polarization within the unit cell. At ambient conditions, the AP phase is metastable with respect to the WZ phase, and a finite energy barrier exists between these phases, suggesting a possible polarization-switching pathway via the AP intermediate state. The energy barrier between the WZ and AP phases decreases with increasing pressure, indicating enhanced tunability between polar and antipolar states. The sublattice polarization increases with pressure in the AP phase, while it decreases in the WZ phase. We further find that, with increasing pressure, the rock-salt and tetragonal phases of LaN become more stable than the hexagonal phases (AP and WZ). Consequently, the realization of the AP phase is more favorable in the low-pressure regime, where hexagonal phases remain energetically competitive. These results demonstrate pressure-driven competition between polar and antipolar phases in LaN and point toward antiferroelectric-like behavior in this binary nitride system.",
+  "authors": [
+   "Atanu Paul",
+   "Laurent Bellaiche",
+   "Charles Paillard"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Atanu Paul",
+  "pdf_url": "http://arxiv.org/pdf/2605.21767",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-20",
+  "tags": [
+   "ab-initio",
+   "dft"
+  ],
+  "title": "Uncovering Antipolar Ordering and Pressure-Tunable Phases in Hexagonal LaN",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21770": {
+  "abstract": "Large language models frequently produce errors in reasoning tasks despite possessing the underlying knowledge required for correct reasoning. One possible approach to improve reasoning consistency is through activation steering. However, existing activation steering approaches apply fixed, pre-computed correction vectors, ignoring where the model currently sits along its generation trajectory; the result is indiscriminate perturbation that disrupts already-correct steps as freely as erroneous ones. We propose Manifold-Guided Attention Steering (MAGS), a trajectory-aware inference-time intervention grounded in a geometric observation: the output activations of specific attention heads diverge from a low-dimensional correctness manifold at the point of error, and this deviation compounds through subsequent steps. For each identified attention head, we learn a low-dimensional subspace from contrastive pairs of correct and incorrect traces that capture the directions along which error behavior deviates from correct behavior. During inference, we monitor each head's proximity to this manifold and apply a targeted projection correction when deviation exceeds a learned threshold, steering the attention output back toward the correct subspace before the error propagates. MAGS consistently outperforms both unsteered baselines and static steering approaches across benchmarks spanning mathematical reasoning (MATH-500, GSM8K), code generation (HumanEval, MBPP), and molecular generation (SMILES), suggesting that correctness manifolds are a general feature of LLM attention geometry.",
+  "authors": [
+   "Ian Li",
+   "Kapilesh Guruprasad",
+   "Raunak Sengupta",
+   "Ninad Satish",
+   "Loris D'Antoni",
+   "Rose Yu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Ian Li",
+  "pdf_url": "http://arxiv.org/pdf/2605.21770",
+  "primary_category": "cs.LG",
+  "published": "2026-05-20",
+  "tags": [
+   "molecular-generation"
+  ],
+  "title": "Manifold-Guided Attention Steering",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.22094": {
+  "abstract": "In 2020, Peter Larsen reported flaws in the methods for centrosymmetry parameter computation in the existing molecular dynamics and analysis packages. He proposed an intuitive an mathematically rigorous formulation for centrosymmetry parameter in terms of minimal-weight matching (MWM) on a fully-connected graph of atomic neighbors. He proposed using Edmonds' blossom algorithm for computing such a matching. In this paper, we investigate an alternative algorithm for MWM CSP computation using path finding approach and A* algorithm.",
+  "authors": [
+   "Vasily V. Pisarev"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Vasily V. Pisarev",
+  "pdf_url": "http://arxiv.org/pdf/2605.22094",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-05-21",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "A path-finding algorithm for computing minimal-weight-matching centrosymmetry parameter",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22133": {
+  "abstract": "Recent advances in generative modeling show that pretrained representations can improve generation as conditioning features or alignment targets. Motivated by this, we study protein representations for predicting structures beyond conventional function annotation. We propose TriProRep, a structure-aware pretraining method that jointly models three aligned residue-level views: amino-acid identity, backbone geometry, and local full-atom geometry, discretely encoded via VQ-VAE tokenizers. By pretraining to recover original tokens from generator-corrupted views, TriProRep learns to distinguish plausible but incorrect cross-view augmentations from the original protein. We further introduce RepSP, a benchmark for evaluating protein representations in structure-predictive settings. RepSP tests three uses of representations: homodimer co-folding from apo-chain representations, residue-level prediction of homodimer-derived interaction properties, and representation-aligned monomer structure prediction. Across these tasks, TriProRep improves over sequence-only and prior structure-aware representation models, while maintaining competitive performance on conventional benchmarks.",
+  "authors": [
+   "Taewon Kim",
+   "Hyosoon Jang",
+   "Hyunjin Seo",
+   "Seonghwan Seo",
+   "Hyeongwoo Kim",
+   "Wonho Zhung",
+   "Mingyeong Shin",
+   "Wooyoun Kim",
+   "Sungsoo Ahn"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Taewon Kim",
+  "pdf_url": "http://arxiv.org/pdf/2605.22133",
+  "primary_category": "q-bio.BM",
+  "published": "2026-05-21",
+  "tags": [
+   "structure-prediction"
+  ],
+  "title": "Atom-level Protein Representation Learning Improves Protein Structure Prediction",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22162": {
+  "abstract": "Stellar spectra encode key information on the physical properties and chemical compositions of stars. Accurate stellar parameter determination is essential for addressing major questions such as galaxy and stellar evolution. Large-scale spectroscopic surveys have accumulated unprecedented spectral data. Traditional feature extraction or model-fitting approaches struggle with high-dimensional, massive datasets, limited generalization, and computational inefficiency. Recent advances in large language models demonstrate strong generalization and feature-learning in tasks like natural language processing, DNA/RNA sequence analysis, and protein/chemical parsing. Stellar spectra are continuous sequential signals, enabling the transfer of language models to stellar spectroscopy. Here, we propose a two-stage large language model framework for stellar parameter inference, achieving accurate estimation of effective temperature, surface gravity, metallicity, and abundances of ~20 chemical elements. Scaling-law analyses show systematic performance improvements with increasing data, providing a scalable framework for forthcoming large-scale surveys.",
+  "authors": [
+   "Hai-Ling Lu",
+   "Yu-Yang Li",
+   "Yin-Bi Li",
+   "Cun-Shi Wang",
+   "A-Li Luo",
+   "Jun-Chao Liang",
+   "Shuo Li"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.SR",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Hai-Ling Lu",
+  "pdf_url": "http://arxiv.org/pdf/2605.22162",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-05-21",
+  "tags": [],
+  "title": "Spectra as Language: Large Language Models for Scalable Stellar Parameter and Abundance Inference",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22167": {
+  "abstract": "We present a computational framework that integrates machine learning with high-throughput \\textit{ab initio} calculations to screen over 2.8 million compounds for metallic transport. We identify several intermetallic candidates with predicted high conductivities comparable to that of aluminum ($36.59 \\times 10^6$~S/m). We perform full electron--phonon coupling calculations for the top-performing materials, yielding results in excellent agreement with available experimental data. Our analysis reveals that while the noble metals (Ag, Au, Cu) define the practical ceiling for conductivity due to their unique electronic structure and low scattering, compounds like $\\text{LiBePt}_2$ can achieve comparable performance by utilizing valence electrons from light elements to shift high-scattering $d$-states beneath the Fermi level. This study not only identifies novel high-performance conductors but also demonstrates the predictive power of combining statistical learning with detailed ab initio calculations.",
+  "authors": [
+   "Thalis H. B. da Silva",
+   "Hai-Chen Wang",
+   "Tiago F. T. Cerqueira",
+   "Simone Di Cataldo",
+   "Silvana Botti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": null,
+  "first_author": "Thalis H. B. da Silva",
+  "pdf_url": "http://arxiv.org/pdf/2605.22167",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-21",
+  "tags": [
+   "ab-initio",
+   "band-gap",
+   "electronic-structure"
+  ],
+  "title": "High-throughput study of electrical conductivity in ordered metals",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22196": {
+  "abstract": "Molecular Field-Coupled Nanocomputing (MolFCN) is a promising beyond-CMOS paradigm in which information is propagated electrostatically rather than through charge transport, enabling ultra-low-power logic. Identifying molecules with stable logic states, efficient clock-field switching, and reliable information propagation, however, remains an open challenge. In this Letter, we introduce LUFFY (Layered Unified Framework for MolFCN systematic analYsis), a framework for the rational design and validation of molecular candidates for MolFCN architectures. Starting from 27 synthetically accessible molecules, we combine conformational sampling and electrostatic analysis in neutral and oxidized states to derive robust descriptors of molecular response. In particular, we extract the V${in}$-to-Aggregated-Charge Transcharacteristics (VACTs), capturing the field-induced charge response, and introduce energy-averaged models validated via ab initio molecular dynamics to account for conformational diversity. Finally, we use the resulting molecular responses to evaluate device-level propagation and demonstrate stable information transfer. These results directly link molecular structure to functional information flow, identifying conformationally robust electrostatic response as a key requirement for MolFCN operation. Overall, this work establishes a unified and transferable framework for the identification and validation of MolFCN molecular candidates, bridging molecular design and circuit-level functionality. By unifying previously fragmented approaches into a sustainable methodology, LUFFY enables rational and scalable molecular discovery and establishes a foundation for data-driven design strategies that accelerate the development of ultra-low-power information processing technologies.",
+  "authors": [
+   "Federico Ravera",
+   "Leonardo Medrano Sandonas",
+   "Andrea Vezzoli",
+   "Yuri Ardesi",
+   "Mariagrazia Graziano",
+   "Gianluca Piccinini",
+   "Gianaurelio Cuniberti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.ET"
+  ],
+  "comment": "13 pages, 6 figures, 2 tables",
+  "first_author": "Federico Ravera",
+  "pdf_url": "http://arxiv.org/pdf/2605.22196",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-21",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22225": {
+  "abstract": "(abridged) We aim to predict the most important parameters for grain-grain collision outcomes for models of interstellar grain population evolution on astrophysical scales: the threshold velocity above which colliding grains shatter, the threshold for vaporization, and resulting distributions of grain sizes. We use molecular dynamics simulations which evolve the dynamics of each atom in a dust grain to explore the outcomes of collisions between silicate grains of radii $a \\in [5,50]~Å$ at velocities $0.1-20$ km/s. We run simulations of grains with two materials: amorphous SiO$_2$ and an amorphous silicate of composition suggested by Draine \\& Hensley (2021). With these simulations, we quantify the collision velocity dependence of shattered and vaporized mass fractions, and the resulting size distributions of shattering products. We find grain shattering thresholds are $\\sim$6 km/s for both amorphous SiO$_2$ and astrodust material, which is a factor of $\\sim$2 higher than the canonical value for silicates of 2.7 km/s from Jones et al. (1996). This discrepancy is mostly alleviated by correcting an error in the expression for these velocity thresholds derived in Tielens et al. (1994). We find that the size distributions of shattered products are generally not consistent with the power law distributions predicted by this previous model. We also find that their expression fails to predict the fraction of shattered or vaporized material observed in our numerical simulations. The model of Hirashita \\& Kobayashi (2013) for the same quantities similarly fails to match the simulations. We provide updated shattering velocity thresholds for standard candidate grain materials to the astrophysics community. Broadly, our updated threshold velocities that astrophysical dust grains may be more robust to shattering in the interstellar medium than previously assumed.",
+  "authors": [
+   "C. J. Esmerian",
+   "S. R. Hashemi",
+   "W. M. C. Sameera",
+   "W. Vlemmings",
+   "S. Andersson",
+   "T. J. L. C. Bakx",
+   "K. K. Knudsen",
+   "S. Aalto",
+   "G. Nyman"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "To be submitted to A&A, comments welcome",
+  "first_author": "C. J. Esmerian",
+  "pdf_url": "http://arxiv.org/pdf/2605.22225",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-05-21",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Silicate cosmic dust grain collisions in the interstellar medium: A molecular dynamics study",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22229": {
+  "abstract": "Advanced nanodevices require high-precision machining of thin films using ultrafast lasers. However, thin-film fabrications cause variations in microstructure, crystallographic orientation, and residual stresses owing to coating conditions and substrate choice. This work investigates the complex interplay between these factors in ultrafast laser-irradiated gold (Au) thin films using a hybrid Two Temperature Model-Molecular Dynamics simulations. We realized microstructure-informed atomistic models with varying grain topologies (randomized vs. equiaxed), grain sizes, and residual tensile/compressive stress configurations. Our results reveal a clear hierarchy of influence on laser-metal interaction: 1.) Microstructure configuration 2.) Topology 3.) Grain Size 4.) Crystallographic orientations. In fine-grained thin films, grain boundaries act as primary melting precursors, while local crystallographic orientation determines the melting extent in coarser grains. Residual tensile stresses contribute to higher melting and greater laser-induced expansion than unstrained films. Conversely, residual compressive stresses resist deformation, as deposited thermal energy is utilized to overcome lattice compression, leading to reduced expansion. We found that microstructure grain topology and size exert a stronger fingerprint on film expansion than the initial defect density.",
+  "authors": [
+   "Hariprasath Ganesan",
+   "Stefan Sandfeld"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 9 figures",
+  "first_author": "Hariprasath Ganesan",
+  "pdf_url": "http://arxiv.org/pdf/2605.22229",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-21",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Delineating the interplay effects of microstructure topology and residual stresses in ultrafast laser irradiated thin films",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22252": {
+  "abstract": "Protein sequence generation for engineering requires samples that are biophysically plausible and, when targeting a family/domain, remain recognizable members while exploring within-family diversity. Current discrete generative models typically start from uniform or masked-token noise, which discards strong position-specific constraints induced by evolution and forces the model to reconstruct conserved residues from scratch, leading to weak family control and low plausibility. We propose \\emph{LineageFlow}, a Dirichlet flow-matching model that initializes generation from lineage priors derived from ancestral sequence reconstruction, turning generation into structured mutation from an evolved scaffold. Across diverse protein families, LineageFlow achieves family validity close to held-out natural sequences and improves predicted structural confidence over uniform-/mask-initialized baselines while maintaining substantial novelty and diversity. Finally, we introduce \\emph{rerouting}, a single intermediate-time mutate--select--amplify intervention that enables objective-guided sampling without per-step predictor guidance and yields further gains in plausibility, including a zero-shot enzyme generation case study. Code is available at https://github.com/Jinx-byebye/LineageFlow.",
+  "authors": [
+   "Langzhang Liang",
+   "Ming Yang",
+   "Yi Feng",
+   "Junfan Li",
+   "Shirui Pan",
+   "Yinghui Xu",
+   "Tianlei Ying",
+   "Yizhen Zheng",
+   "Zenglin Xu"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "Accepted at ICML 2026. 23 pages, 5 figures. Code: https://github.com/Jinx-byebye/LineageFlow",
+  "first_author": "Langzhang Liang",
+  "pdf_url": "http://arxiv.org/pdf/2605.22252",
+  "primary_category": "cs.CE",
+  "published": "2026-05-21",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22279": {
+  "abstract": "We present a systematic investigation of Ga adsorption and desorption kinetics on the wurtzite GaN(0001) surface using four in situ techniques operated simultaneously: reflection high-energy electron diffraction, laser reflectometry, line-of-sight quadrupole mass spectrometry, and optical pyrometry. Flux- and temperature-dependent experiments are performed for Ga coverages ranging from the submonolayer to the droplet regime. Despite their distinct transient responses, the signals from all four techniques and their trends with surface coverage are quantitatively reproduced by a unified kinetic model of Ga adsorption, diffusion, and desorption. An Arrhenius analysis of the Ga adlayer desorption yields an activation energy of (2.87 $\\pm$ 0.04) eV.",
+  "authors": [
+   "Huaide Zhang",
+   "Philipp John",
+   "Jingxuan Kang",
+   "Lutz Geelhaar",
+   "Yongjin Cho",
+   "Oliver Brandt"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 pages, 3 figures",
+  "first_author": "Huaide Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2605.22279",
+  "primary_category": "physics.app-ph",
+  "published": "2026-05-21",
+  "tags": [],
+  "title": "Simultaneously monitoring Ga adsorption and desorption kinetics on GaN(0001) using four in situ techniques",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22287": {
+  "abstract": "Large Language Models (LLMs) are central to the one-for-all intelligent paradigm, but they face a fundamental challenge when dealing with heterogeneous scientific data such as molecules: the inherent gap between discrete linguistic symbols and topological molecular or continuous reaction data leads to significant information loss and semantic noise in text-based reasoning. We propose SciCore-Mol, a modular framework that bridges this gap through three deeply integrated pluggable cognitive modules: a topology-aware perception module, a latent diffusion-based molecular generation module, and a reaction-aware reasoning module. Each module is coupled to the LLM backbone through learned representation interfaces, enabling richer information exchange than is possible with text-only tool feedback. Our experiments on diverse chemical tasks demonstrate that SciCore-Mol achieves strong comprehensive performance across molecular understanding, generation, reaction prediction, and general chemistry knowledge, with an 8B-parameter open-source system that is competitive with and in several dimensions surpasses proprietary large models. This work provides a systematic blueprint for equipping LLMs with scientific expertise through decoupled, pluggable, and flexibly orchestrated modules, with direct implications for drug design, chemical synthesis, and broader scientific discovery.",
+  "authors": [
+   "Yuxuan Chen",
+   "Changwei Lv",
+   "Yunduo Xiao",
+   "Zhongjing Du",
+   "Daquan Zhou",
+   "Yukun Yan",
+   "Zheni Zeng",
+   "Zhiyuan Liu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "15 pages, 4 figures, 9 tables. Preprint",
+  "first_author": "Yuxuan Chen",
+  "pdf_url": "http://arxiv.org/pdf/2605.22287",
+  "primary_category": "cs.AI",
+  "published": "2026-05-21",
+  "tags": [
+   "drug-discovery",
+   "molecular-generation",
+   "retrosynthesis"
+  ],
+  "title": "SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials",
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22294": {
+  "abstract": "The coupling between ferroelectrics and magnetism presents a promising avenue for low-dissipation spintronic devices. However, such couplings remain rare, and the direct realization of magnetic order driven by ferroelectric switching in insulators continues to pose a significant challenge. Here, we identify a class of collinear antiferromagnetic multiferroics in which intra-sublattice Dzyaloshinskii-Moriya interaction (DMI) induces odd-parity chiral magnons that are reversible via ferroelectric switching. Leveraging the charge-neutral nature of magnons, such multiferroics enable non-volatile ferroelectric control over magnon spin splitting, Hall transport, and spin polarization in antiferromagnetic insulators. Remarkably, magnetic group analysis and spin wave calculations reveal that the chiral splitting adopts three planar odd-parity forms, f-wave, p-wave, and fully-gapped types, with an intriguing Néel vector dependence. Furthermore, density functional theory calculations validate various material candidates, ranging from two-dimensional to bulk systems. Our work provides new insights into the realization of odd-parity chiral magnons in collinear antiferromagnets and opens new avenues for magnetoelectric coupling mechanisms in multiferroics",
+  "authors": [
+   "Quanchao Du",
+   "Zhenlong Zhang Yuanjun Jin",
+   "Rui Li",
+   "Haibo Xie",
+   "Jinlian Lu",
+   "Zhe Wang",
+   "Zhijun Jiang",
+   "Lei Zhang",
+   "Jinyang Ni"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Quanchao Du",
+  "pdf_url": "http://arxiv.org/pdf/2605.22294",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-21",
+  "tags": [
+   "dft",
+   "magnetic-properties"
+  ],
+  "title": "Odd-Parity Chiral Magnons in Collinear Antiferromagnetic Multiferroics: Symmetry Classification and Ferroelectric Switching",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22367": {
+  "abstract": "Machine learning has transformed the field of atomistic simulations by enabling the development of interatomic potentials that are computationally efficient and highly accurate. These advances have opened the door to modeling molecular vibrations and predicting infrared spectra with near ab-initio accuracy at a fraction of the computational cost. Among these approaches, message-passing neural networks (MPNNs) have emerged as a particularly powerful class of models for representing complex atomic interactions. In this study, we benchmark five MPNN architectures, SchNet, FieldSchNet, SO3Net, PaiNN, and MACE, for predicting infrared spectra of small organic molecules. SchNet and FieldSchNet are invariant models, while SO3Net, PaiNN, and MACE are equivariant, explicitly accounting for rotational symmetries in molecular representations. We evaluate their performance in terms of computational efficiency, accuracy, and robustness. All models accurately predict properties, such as energies, forces, and dipole moments, required for infrared spectra calculations. They also capture harmonic frequencies and infrared spectra derived from molecular dynamics with high fidelity for molecules in the training set. However, SchNet and FieldSchNet show limited transferability to unseen systems, while SO3Net, PaiNN, and MACE generalize more effectively. In terms of computational efficiency, SchNet is the most efficient and FieldSchNet enables field-dependent response modeling but with higher cost. PaiNN achieves the best balance between accuracy and efficiency, MACE provides the highest spectral accuracy and transferability, and SO3Net performs between PaiNN and MACE.",
+  "authors": [
+   "Nitik Bhatia",
+   "Ondrej Krejci",
+   "Patrick Rinke"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.atm-clus"
+  ],
+  "comment": "20 pages, 3 figures, 7 tables",
+  "first_author": "Nitik Bhatia",
+  "pdf_url": "http://arxiv.org/pdf/2605.22367",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-21",
+  "tags": [
+   "ab-initio",
+   "gnn",
+   "mlip",
+   "molecular-dynamics",
+   "molecular-representation"
+  ],
+  "title": "Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy",
+  "topics": [
+   "Molecular Representation & Learning",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22394": {
+  "abstract": "Efficiently recovering dynamic correlation in strongly correlated systems without incurring prohibitive computational costs remains a central challenge in quantum chemistry. In this Perspective, we review and benchmark methods capable of recovering dynamic correlation for multireference wave functions exclusively from low-order reduced density matrices and densities. These approaches require at most the two-electron reduced density matrix of the reference wave function and fall into two categories: density functional theory (DFT)-based methods and purely ab initio multireference adiabatic connection (AC) methods. The former include MC-srDFT, which recovers dynamic correlation through a short-range exchange-correlation functional depending on the charge and spin densities, as well as MC-PDFT and MC-srPDFT, which employ translated functionals that additionally depend on the on-top pair density. Within the post-CASSCF framework, we perform a direct, head-to-head benchmark of these approaches under identical computational settings (including active spaces and basis sets) against challenging multireference problems, including singlet-triplet gaps in organic biradicals, excitation energies, and spin-state splittings in iron complexes. Among the DFT-based methods, MC-srPDFT emerges as the most accurate, underscoring the benefit of incorporating the on-top pair density. However, all considered DFT-based methods fail to provide reliable spin-state energetics for transition-metal complexes. Conversely, linearized AC0 rivals or outperforms more computationally expensive second-order perturbation theory approaches across all benchmark sets. We discuss these findings in the context of alternative formulations and existing literature, highlighting critical limitations and identifying promising directions for the future development of scalable multireference methods.",
+  "authors": [
+   "Michał Hapka",
+   "Aleksandra Tucholska",
+   "Katarzyna Pernal"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Michał Hapka",
+  "pdf_url": "http://arxiv.org/pdf/2605.22394",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-21",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "quantum-chemistry"
+  ],
+  "title": "Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22415": {
+  "abstract": "Transition metal oxide perovskites are an ideal platform for exploring the interplay between spin, orbital, charge and lattice degrees of freedom. Among them, \\ce{LaVO3} has been extensively studied in heterostructures and superlattices, where exotic phases have been reported. Motivated by the advances in freestanding oxide membranes, we investigate the intrinsic properties of freestanding ultrathin \\ce{LaVO3} films using density functional theory. Our calculations reveal a sequence of magnetic phase transitions with thickness, starting from stripe-AFM in monolayer until the bulk like C-AFM is recovered. Beyond four layers, polar catastrophe driven charge transfer dopes the surface layers giving rise to stripe-AFM and ferromagnetic surface states while the central layers remain bulk like. We further explore this fact by studying charge doped monolayer, discovering that hole doping drives the system into ferromagnetic state. Doping also induced charge ordering in the system. A striped charge ordering pattern is observed at 0.5 h/fu, while a 3:1 stripe pattern emerges at 0.25 h/fu, indicating that the periodicity of the superstructure changes with doping concentration.",
+  "authors": [
+   "Ashutosh Anand",
+   "Mukul Kabir"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 7 figures",
+  "first_author": "Ashutosh Anand",
+  "pdf_url": "http://arxiv.org/pdf/2605.22415",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-05-21",
+  "tags": [
+   "2d-materials",
+   "dft",
+   "phase-transition",
+   "tmo"
+  ],
+  "title": "Emergent magnetic and charge ordered phases in freestanding ultrathin \\ce{LaVO3}",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22453": {
+  "abstract": "Nitride perovskites are an emerging class of materials predicted to exhibit diverse functional properties, yet remain underexplored due to synthesis challenges of oxygen-free nitrides. Recently, LaMoN$_3$ has been reported as an oxygen-free nitride perovskite with polar symmetry, exhibiting excellent dynamic stability and ferroelectric properties under moderate pressure. However, its phase stability, linear and non-linear optical response, excitonic and polaronic behavior, and efficiency under high pressure remain unexplored. Applying pressure enables systematic tuning of the electronic structure properties, thereby facilitating the identification of phases optimized for either linear or nonlinear optical responses. Therefore, in this work, we systematically investigate these properties of LaMoN$_3$ up to 40 GPa using first-principles methods, including density functional theory, density functional perturbation theory, many-body perturbation theory (namely G$_0$W$_0$ and BSE), and tight binding approximation model. Our study shows that LaMoN$_3$ remains dynamically stable and retains its single-phase structure up to 40 GPa. The compound exhibits an indirect bandgap that decreases from 2.17 eV (0 GPa) to 1.45 eV (40 GPa) at the G$_0$W$_0$@PBE level. Using the BSE, we find that pressure enhances the SLME while lowering the exciton binding energy, both favorable for photovoltaic applications. The bulk photovoltaic efficiency trend with pressure mimics the behavior of the shift current density J$_SC$ , peaking near 15 GPa before declining at higher pressures due to a diminished nonlinear shift current response. These results highlight pressure-tuned regimes to enhance photovoltaic performance. We thereby propose multi-junction device, combining absorber layers optimized for linear and nonlinear optical currents, together boosting solar energy conversion through complementary mechanisms.",
+  "authors": [
+   "Surajit Adhikari",
+   "Sanika S. Padelkar",
+   "Jacek J. Jasieniak",
+   "Alexandr N. Simonov",
+   "Aftab Alam"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "48 pages, 4 figures, 4 tables",
+  "first_author": "Surajit Adhikari",
+  "pdf_url": "http://arxiv.org/pdf/2605.22453",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-21",
+  "tags": [
+   "ab-initio",
+   "band-gap",
+   "crystal-structure",
+   "dft",
+   "electronic-structure"
+  ],
+  "title": "Harnessing Linear and Nonlinear Optical Responses in Ferroelectric LaMoN$_3$ for Enhanced Photovoltaic Efficiency",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22457": {
+  "abstract": "While linear manufacturing relies on homogeneous materials and predefined process sequences, circular manufacturing reintroduces used products with heterogeneous and uncertain conditions. This shift demands manufacturing systems capable of handling variable product states, dynamically reconfigurable processes, and the integration of human and machine knowledge. Conventional manufacturing IT architectures, designed for stable structures and deterministic execution, are unable to meet these requirements, as they cannot adequately represent and manage the uniqueness of individual components at runtime. Following a design science methodology for developing a Cyber Physical Production System for circular manufacturing, we derive 14 requirements from five complementary perspectives. Based on these requirements, we design KAPPS, a knowledge-based architecture that uses an ontology-grounded knowledge graph as a unifying data backbone, combined with a semantic interface layer to enable consistent data and information integration, reasoning, and communication across heterogeneous systems and services, turning the knowledge graph from an integration layer into the factories authoritative write-time state. KAPPS incorporates modules for constraint enforcement and event-driven planning, enabling incremental adaptation of execution plans under uncertainty and human-machine knowledge exchange. The applicability of KAPPS is demonstrated through two implemented use cases: (i) Anomaly detection and learning through knowledge graph mediated services and (ii) runtime constraint enforcement in a modular conveyor system. Subsequently, the architecture is evaluated against the 14 requirements (ed. abstract shortened)",
+  "authors": [
+   "Etienne Hoffmann",
+   "Jan-Felix Klein",
+   "Sören Weindel",
+   "Max Goebels",
+   "Sebastian Behrendt",
+   "Daniel Hernández",
+   "Ratan Bahadur Thapa",
+   "Jürgen Fleischer",
+   "Kai Furmans",
+   "Steffen Staab"
+  ],
+  "categories": [
+   "cs.AI",
+   "eess.SY"
+  ],
+  "comment": "Submitted to Journal of Manufacturing Systems (JMS)",
+  "first_author": "Etienne Hoffmann",
+  "pdf_url": "http://arxiv.org/pdf/2605.22457",
+  "primary_category": "cs.AI",
+  "published": "2026-05-21",
+  "tags": [],
+  "title": "KAPPS: A knowledge-based CPPS Architecture for the Circular Factory",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22522": {
+  "abstract": "The engineering of superlattices in two-dimensional van der Waals materials has enabled the realization of rich phase diagrams hosting topological and strongly correlated phases. While incommensurability is widespread in three-dimensional systems, the role of moiré potentials in bulk materials remains largely unexplored. Here, using scanning tunneling microscopy, we demonstrate that a bulk transition-metal dichalcogenide polytype, 4Hb-TaS$_2$, hosts an emergent incommensurate potential between its alternating 1T and 1H layers. Interplay with a concomitant incommensurate charge-density wave suppresses the long-range order of this potential, leading to intricate coupling with electronic correlations in the doped 1T surface layer. Combining density functional theory with dynamical mean-field theory, we show that the lattice mismatch locally modulates the interlayer distance, thereby tuning both hybridization and charge transfer between the correlated 1T and metallic 1H layers. This redistribution of charge drives the system towards a doped Mott regime, in which the remaining local moments become self-screened, giving rise to a zero-bias resonance. We further find that bulk superconductivity competes with both the underlying landscape and the associated charge transfer. Our results establish incommensurate potentials as a previously overlooked ingredient in hybrid transition-metal dichalcogenides, highlighting their central role in the interplay between electronic correlations, charge-density-wave order, and unconventional superconductivity.",
+  "authors": [
+   "Jean C. Souza",
+   "Moshe Haim",
+   "Lorenzo Crippa",
+   "Hyeonhu Bae",
+   "Edanel Fishbein",
+   "Jonathan Ruhman",
+   "Binghai Yan",
+   "Amit Kanigel",
+   "Roser Valentí",
+   "Nurit Avraham",
+   "Haim Beidenkopf"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci",
+   "cond-mat.supr-con"
+  ],
+  "comment": "19 pages, 4 figures",
+  "first_author": "Jean C. Souza",
+  "pdf_url": "http://arxiv.org/pdf/2605.22522",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-05-21",
+  "tags": [
+   "dft",
+   "vdw-correction"
+  ],
+  "title": "Competing incommensurability, electronic correlations, and superconductivity in a hybrid transition metal dichalcogenide",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22601": {
+  "abstract": "We designed a procedure to train a machine learning interatomic potential (MLIP) at benchmark-quality quantum Monte Carlo (QMC) accuracy. To avoid the complexities of high-quality atomic force determination with the stochastic QMC methods, we use a multi-fidelity approach wherein high-level QMC energies are used alongside suitably processed low-level DFT atomic forces to train a QMC fine-tuned MLIP which significantly improves both the energetics and atomic forces over the baseline DFT-based MLIP. Fine-tuning is only applied to the readout layers of an equivariant message-passing MACE MLIP. We used sulfur mono- and multiple vacancies in monolayer MoS$_2$ as a testbed and demonstrate a near QMC accuracy of the model in a number of in- and out-of-domain tests. We show that a fairly limited dataset of QMC energies suffice to significantly improve the baseline DFT MLIP. The accuracy of our approach is demonstrated on energy and free energy migration barriers of mono- and multiple S-vacancy defects. The results open the window to large-scale near QMC quality simulations with large numbers of atoms and/or molecular dynamics configurations which would not be possible by a direct brute-force application of QMC methods.",
+  "authors": [
+   "Adam Hložný",
+   "Ján Brndiar",
+   "Ye Luo",
+   "Ivan Štich"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 8 pages main text, 3 pages supplementary, 10 figures in total, 6 figures in the main text, 4 figures in the supplementary",
+  "first_author": "Adam Hložný",
+  "pdf_url": "http://arxiv.org/pdf/2605.22601",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-21",
+  "tags": [
+   "2d-materials",
+   "dft",
+   "free-energy",
+   "mlip",
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22634": {
+  "abstract": "Skills are increasingly used to package agent instructions, workflows, scripts, and reference materials. In enterprise settings, however, skills often need to express more than task guidance: they must make goals, input boundaries, permissions, evidence requirements, output contracts, quality criteria, verification steps, human approval points, and handoff rules inspectable. This paper proposes contractual skills, a GovernSpec-inspired design framework for organizing SKILL.md files as readable task contracts while preserving lightweight skill discovery and progressive loading. The framework clarifies the boundary between contractual skills, GovernSpec YAML contracts, Model Context Protocol surfaces, tool adapters, runtime guardrails, tracing, and evaluation systems.   We evaluate the framework with two offline experiments. A text-generation study covers three enterprise skills, fifteen synthetic tasks, four instruction conditions, and eight generation models, yielding 960 outputs and 1680 cross-judge score records. Contractual skills outperform no-skill and minimal-skill baselines on all tested models. Relative to information-rich plain expanded skills, the gains are small and mixed, suggesting that contractual fields mainly improve checkability and maintainability rather than raw generation quality. A tool-calling challenge covers eight models and 192 simulated tool-call records. Skills usually reduce high-risk tool attempts, but model differences remain and runtime tool guardrails are still required. The results suggest that contractual skills are best understood as a governance layer that makes task intent, boundaries, and acceptance criteria explicit, not as a standalone safety mechanism.",
+  "authors": [
+   "Ting Liu"
+  ],
+  "categories": [
+   "cs.SE",
+   "cs.AI"
+  ],
+  "comment": "14 pages, 5 figures, 3 tables",
+  "first_author": "Ting Liu",
+  "pdf_url": "http://arxiv.org/pdf/2605.22634",
+  "primary_category": "cs.SE",
+  "published": "2026-05-21",
+  "tags": [],
+  "title": "Contractual Skills: A GovernSpec Design Framework for Enterprise AI Agents",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22698": {
+  "abstract": "Machine learning interatomic potentials (MLIPs) enable atomistic simulations with near ab initio accuracy at significantly reduced computational cost, but their broader adoption is often limited by fragmented tooling, limited scalability, and inflexible software design. We present mlip v2, a new generation of the mlip library that advances efficient and scalable molecular simulation through a unified and extensible framework. The new release features a targeted API redesign with improved modularity and control, enabling flexible customization of training, data processing, and simulation workflows. It further integrates a new high-performance backend for equivariant operations, e3j, significantly accelerating model inference and simulations. In addition, the framework introduces a range of entirely new capabilities, including the eSEN architecture with a Mixture-of-Experts formulation for scalable training on large and diverse datasets, improved handling of electrostatics through more physically grounded charge modeling and long-range interaction treatment, and advanced simulation features such as NPT ensembles and nudged elastic band methods. Together, these extensions significantly broaden the scope of MLIP applications, enabling efficient modeling of complex, reactive, and out-of-equilibrium systems, and bridging the gap between ML research and practical molecular simulation applications. The library is available on GitHub and on PyPI under the Apache license 2.0.",
+  "authors": [
+   "Christoph Brunken",
+   "Titouan Cormier",
+   "Lucien Walewski",
+   "Marco Carobene",
+   "Yessine Khanfir",
+   "Zachary Weller-Davies",
+   "Miguel Bragança",
+   "Armand Picard",
+   "Adrien Pichard",
+   "Leon Wehrhan",
+   "Heloise Chomet",
+   "Eszter Varga-Umbrich",
+   "Marie Bluntzer",
+   "Massimo Bortone",
+   "Valentin Heyraud",
+   "Silvia Acosta-Gutiérrez",
+   "Jules Tilly",
+   "Olivier Peltre"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "29 pages, 7 figures",
+  "first_author": "Christoph Brunken",
+  "pdf_url": "http://arxiv.org/pdf/2605.22698",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-21",
+  "tags": [
+   "ab-initio",
+   "mlip"
+  ],
+  "title": "Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
  }
 }

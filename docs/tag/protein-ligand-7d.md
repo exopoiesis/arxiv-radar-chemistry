@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>protein-ligand — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16823.html">Atoms as Language: VQ-Atom: Semantic Discretization for Molecular Representation Learning</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="gnn-7d.html">gnn</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
 <td>Takayuki Kimura</td>
 <td><a href="http://arxiv.org/abs/2605.16823">2605.16823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16466.html">An exponential logarithmic measure of drug receptor binding and saturation</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Arturo Tozzi</td>
-<td><a href="http://arxiv.org/abs/2605.16466">2605.16466</a></td>
 </tr>
 </tbody></table>

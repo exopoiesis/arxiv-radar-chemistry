@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">453 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22167.html">High-throughput study of electrical conductivity in ordered metals</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Thalis H. B. da Silva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22167">2605.22167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22196.html">Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Federico Ravera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22196">2605.22196</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22367.html">Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Nitik Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22367">2605.22367</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22394.html">Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Michał Hapka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22394">2605.22394</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22453.html">Harnessing Linear and Nonlinear Optical Responses in Ferroelectric LaMoN$_3$ for Enhanced Photovoltaic Efficiency</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Surajit Adhikari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22453">2605.22453</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22698.html">Machine Learning Interatomic Potentials: Advancing Open-Source Software for Efficient and Scalable Molecular Simulation</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Christoph Brunken et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22698">2605.22698</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21231.html">Destructive interference of second harmonic generation in AA stacked MoTe$_2$/WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
@@ -32,6 +68,24 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21389.html">Huge ultrafast spin Seebeck effect mediated by laser-excited superdiffusive magnon currents</a></div></td>
 <td>Luca Mikadze et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21389">2605.21389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21575.html">First-Principles Turbulence-Driven Deflagration-to-Detonation Transition Mechanism for Near-Chandrasekhar Mass White Dwarf Progenitors</a></div></td>
+<td>Krut Patel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21575">2605.21575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21720.html">A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Christopher Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21720">2605.21720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21767.html">Uncovering Antipolar Ordering and Pressure-Tunable Phases in Hexagonal LaN</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Atanu Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21767">2605.21767</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -2726,11 +2780,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19356.html">The X-ray absorption spectrum of the propargyl radical, C$_3$H$_3^{\cdot}$</a></div></td>
 <td>Dorothee Schaffner et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19356">2602.19356</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18849.html">Exact Attention Sensitivity and the Geometry of Transformer Stability</a></div></td>
-<td>Seyed Morteza Emadi</td>
-<td><a href="http://arxiv.org/abs/2602.18849">2602.18849</a></td>
 </tr>
 </tbody></table>

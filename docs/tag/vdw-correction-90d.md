@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vdw-correction — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <strong>90d</strong> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22522.html">Competing incommensurability, electronic correlations, and superconductivity in a hybrid transition metal dichalcogenide</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Jean C. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22522">2605.22522</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20972.html">In-Plane Ferromagnetism and Critical Dynamics in Alkali-Deficient K$_{1-x}$CrTe$_2$ (with $x \approx$ 0.3) Single Crystals</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>

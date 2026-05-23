@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22415.html">Emergent magnetic and charge ordered phases in freestanding ultrathin \ce{LaVO3}</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Ashutosh Anand et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22415">2605.22415</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03526.html">Influence of ligand field and correlation on the electronic structure of NiO and CoO from DFT+DMFT calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Daniel Mutter et al.</td>
@@ -86,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09761.html">Single Cu Atom Sites on Co3O4 Activate Interfacial Oxygen for Enhanced Reactivity and Selective Gas Sensing at Low Temperature</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Hamin Shin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09761">2506.09761</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21428.html">Interpretable machine learned predictions of adsorption energies at the metal--oxide interface</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Marius Juul Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21428">2505.21428</a></td>
 </tr>
 </tbody></table>

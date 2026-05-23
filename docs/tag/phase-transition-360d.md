@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">253 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22415.html">Emergent magnetic and charge ordered phases in freestanding ultrathin \ce{LaVO3}</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="tmo-360d.html">tmo</a></div></td>
+<td>Ashutosh Anand et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22415">2605.22415</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1514,23 +1520,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23909.html">Fully Generalized Spin Models with Strain Effects of Kitaev Spin Liquid Candidate Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Pureum Noh et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23909">2505.23909</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00267.html">A combined statistical mechanical and ab initio approach to understanding H2O/CO2 co-adsorption in mmen-Mg2(dobpdc)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Jonathan R. Owens et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00267">2502.00267</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21096.html">Ultrafast atomic dimerization of Peierls distortion in semimetal molybdenum ditelluride</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Zhong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21096">2505.21096</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21826.html">Breaking the Curse of Dimensionality: Solving Configurational Integrals for Crystalline Solids by Tensor Networks</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Duc P. Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21826">2505.21826</a></td>
 </tr>
 </tbody></table>

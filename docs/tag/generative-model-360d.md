@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">491 papers</span>
+  <span class="paper-count">490 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22252.html">LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation</a></div></td>
+<td>Langzhang Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22252">2605.22252</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21237.html">RePCM: Region-Specific and Phenotype-Adaptive Bi-Ventricular Cardiac Motion Synthesis</a></div></td>
@@ -2948,17 +2954,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22394.html">PacTure: Efficient PBR Texture Generation on Packed Views with Visual Autoregressive Models</a></div></td>
 <td>Fan Fei et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22394">2505.22394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12451.html">Neural Canonical Transformations for Quantum Anharmonic Solids of Lithium</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Qi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.12451">2412.12451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21452.html">Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Xiangxin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21452">2505.21452</a></td>
 </tr>
 </tbody></table>

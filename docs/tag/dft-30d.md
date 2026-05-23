@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22294.html">Odd-Parity Chiral Magnons in Collinear Antiferromagnetic Multiferroics: Symmetry Classification and Ferroelectric Switching</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Quanchao Du et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22294">2605.22294</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22394.html">Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Michał Hapka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22394">2605.22394</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22415.html">Emergent magnetic and charge ordered phases in freestanding ultrathin \ce{LaVO3}</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="tmo-30d.html">tmo</a></div></td>
+<td>Ashutosh Anand et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22415">2605.22415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22453.html">Harnessing Linear and Nonlinear Optical Responses in Ferroelectric LaMoN$_3$ for Enhanced Photovoltaic Efficiency</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Surajit Adhikari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22453">2605.22453</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22522.html">Competing incommensurability, electronic correlations, and superconductivity in a hybrid transition metal dichalcogenide</a></div><div class="paper-tags"><a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Jean C. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22522">2605.22522</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Adam Hložný et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22601">2605.22601</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
@@ -38,6 +74,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21037.html">Configuration-interaction time-dependent density functional theory for nuclear dynamics</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
 <td>Y. P. Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21037">2605.21037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21767.html">Uncovering Antipolar Ordering and Pressure-Tunable Phases in Hexagonal LaN</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Atanu Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21767">2605.21767</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -116,6 +158,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18501.html">Quantum Emitters at Telecommunication Wavelengths based on Carbon Defects in Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="tmd-30d.html">tmd</a></div></td>
 <td>Chanaprom Cholsuk et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18501">2605.18501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21520.html">Dominant vibronic relaxation channels in a europium-based molecular qubit</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Neil Iyer</td>
+<td><a href="http://arxiv.org/abs/2605.21520">2605.21520</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-16</td>
@@ -848,59 +896,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22874.html">Dynamical stability and multifunctional properties of Ni2+/Pr3+ co-doped CsPbCl3 perovskite: insights from first-principles lattice dynamics and carrier transport</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Sikander Azam et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22874">2604.22874</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03902.html">Electronic Structure of UGe$_{2\pm x}$ Thin Films from Photoelectron Spectroscopy</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Sonu George Alex et al.</td>
-<td><a href="http://arxiv.org/abs/2601.03902">2601.03902</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20230.html">Crystal structure prediction with nuclear quantum and finite-temperature effects via deep free energy learning</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Xiaoyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20230">2604.20230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20458.html">Surrogate Functionals for Machine-Learned Orbital-Free Density Functional Theory</a></div></td>
-<td>Roman Remme et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20458">2604.20458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20476.html">Restoring the Conical Intersection Topology using Convex Density Functional Theory</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Federico Rossi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20476">2604.20476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20515.html">Accurate and Efficient Interatomic Potentials for Dislocations in InP</a></div></td>
-<td>Thomas Rocke et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20515">2604.20515</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20547.html">A computational alloy design framework for the promotion of amorphous grain boundary complexions</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Prince Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20547">2604.20547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20725.html">Interaction between nuclear clusters and superfluid phonons in the neutron-star inner crust</a></div></td>
-<td>Masayuki Matsuo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20725">2604.20725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21069.html">Accelerating point defect simulations using data-driven and machine learning approaches</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Arun Mannodi-Kanakkithodi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21069">2604.21069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21073.html">Generative Discovery of Magnetic Insulators under Competing Physical Constraints</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Qiulin Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21073">2604.21073</a></td>
 </tr>
 </tbody></table>

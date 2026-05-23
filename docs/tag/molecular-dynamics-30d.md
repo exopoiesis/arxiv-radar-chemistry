@@ -16,6 +16,42 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22094.html">A path-finding algorithm for computing minimal-weight-matching centrosymmetry parameter</a></div></td>
+<td>Vasily V. Pisarev</td>
+<td><a href="http://arxiv.org/abs/2605.22094">2605.22094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22196.html">Toward the Rational Design of Molecular Field-Coupled Nanocomputing Candidates</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Federico Ravera et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22196">2605.22196</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22225.html">Silicate cosmic dust grain collisions in the interstellar medium: A molecular dynamics study</a></div></td>
+<td>C. J. Esmerian et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22225">2605.22225</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22229.html">Delineating the interplay effects of microstructure topology and residual stresses in ultrafast laser irradiated thin films</a></div></td>
+<td>Hariprasath Ganesan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22229">2605.22229</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22367.html">Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Nitik Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22367">2605.22367</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Adam Hložný et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22601">2605.22601</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15305.html">WorldParticle: Unified World Simulation of Lagrangian Particle Dynamics via Transformer</a></div></td>
 <td>Caoliwen Wang et al.</td>
@@ -50,6 +86,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21298.html">Interaction Controlled Molecular Probing of Length Scale Dependent Glassy Dynamics in Polymer Melts</a></div></td>
 <td>Suyeon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21298">2605.21298</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21720.html">A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="metadynamics-30d.html">metadynamics</a></div></td>
+<td>Christopher Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21720">2605.21720</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -632,47 +674,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21773.html">Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
 <td>Dustin Vivod et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21773">2604.21773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25629.html">A Transferable Model of Molecular Exchange-Repulsion Interaction from Anisotropic Valence Density Overlap</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Dahvyd Wing et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25629">2510.25629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06076.html">Temperature dependence of electronic conductivity from ab initio thermal simulation</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Ridwan Hussein et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06076">2602.06076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20277.html">Domain-Wall-Mediated Ultralow-Barrier Sliding and Pinning in Ferroelectric Moiré Superlattices Revealed by Machine Learning</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20277">2604.20277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20355.html">Fluctuation-driven multi-step charge density wave transition in monolayer TiSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Luka Benić et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20355">2604.20355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20476.html">Restoring the Conical Intersection Topology using Convex Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Federico Rossi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20476">2604.20476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20593.html">Predicting co-segregation in multicomponent alloys with solute-solute interactions</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Zuoyong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20593">2604.20593</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20642.html">Polaron transport and Verwey transition in magnetite</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Nikita Fominykh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20642">2604.20642</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22394.html">Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Michał Hapka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22394">2605.22394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15927.html">Data-driven complete basis set limit estimates from a minimal auxiliary basis</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
 <td>Nicolas Grimblat et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07890.html">Quantum circuit synthesis for fermionic excitations in coupled cluster theory using the Jordan-Wigner mapping</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Yu-Hao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2601.07890">2601.07890</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02340.html">Perturbative Variational Quantum Eigensolver via Reduced Density Matrices</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Yuhan Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2504.02340">2504.02340</a></td>
 </tr>
 </tbody></table>

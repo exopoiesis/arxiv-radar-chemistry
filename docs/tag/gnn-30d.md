@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22367.html">Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Nitik Bhatia et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22367">2605.22367</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21454.html">ProtoPathway: Biologically Structured Prototype-Pathway Fusion for Multimodal Cancer Survival Prediction</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-llm-30d.html">protein-llm</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Mansoor Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21485">2605.21485</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21610.html">AgForce Enables Antigen-conditioned Generative Antibody Design</a></div></td>
+<td>Mansoor Ahmed et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21610">2605.21610</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -130,6 +142,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.10975">2605.10975</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21502.html">Graph neural network explanations reveal a topological signature of disease-associated hubs in biological networks</a></div></td>
+<td>Kyle Higgins et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21502">2605.21502</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06814.html">From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning</a></div></td>
 <td>Debolina Halder Lina et al.</td>
@@ -194,17 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21473.html">Drug Synergy Prediction via Residual Graph Isomorphism Networks and Attention Mechanisms</a></div></td>
 <td>Jiyan Song et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21473">2604.21473</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20308.html">Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning</a></div></td>
-<td>Yuhan Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20308">2604.20308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20518.html">Using Graph Neural Networks for hadronic clustering and to reduce beam background in the Belle~II electromagnetic calorimeter</a></div></td>
-<td>Jonas Eppelt et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20518">2604.20518</a></td>
 </tr>
 </tbody></table>

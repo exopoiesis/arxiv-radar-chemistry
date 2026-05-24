@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">592 papers</span>
+  <span class="paper-count">591 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3560,11 +3560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21995.html">Sr$_2$NbO$_4$: A $4d$ analogue of the layered perovskite Sr$_2$VO$_4$</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Leonid S. Taran et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21995">2505.21995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05438.html">Data-Driven Molecular Dynamics and TEM Analysis of Crystal Growth and Hydrogen Sensing in Pt-Functionalized Graphene Chemiresistive Sensors</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Akram Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05438">2504.05438</a></td>
 </tr>
 </tbody></table>

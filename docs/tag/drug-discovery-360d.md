@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">590 papers</span>
+  <span class="paper-count">585 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3524,35 +3524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23987.html">Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization</a></div></td>
 <td>Vishal Dey et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23987">2505.23987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13344.html">K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Tassallah Abdullahi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13344">2502.13344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14637.html">ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Angxiao Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14637">2502.14637</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22252.html">B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Magdalena Proszewska et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22252">2505.22252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22869.html">CFP-Gen: Combinatorial Functional Protein Generation via Diffusion Language Models</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Junbo Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22869">2505.22869</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23823.html">RAGPPI: RAG Benchmark for Protein-Protein Interactions in Drug Discovery</a></div></td>
-<td>Youngseung Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23823">2505.23823</a></td>
 </tr>
 </tbody></table>

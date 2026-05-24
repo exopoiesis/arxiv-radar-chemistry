@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">458 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2762,23 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23283.html">RSFAKE-1M: A Large-Scale Dataset for Detecting Diffusion-Generated Remote Sensing Forgeries</a></div></td>
 <td>Zhihong Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23283">2505.23283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06999.html">Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Siddarth Venkatraman et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06999">2502.06999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01195.html">Towards Signed Distance Function based Metamaterial Design: Neural Operator Transformer for Forward Prediction and Diffusion Model for Inverse Design</a></div></td>
-<td>Qibang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.01195">2504.01195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22926.html">Leveraging Diffusion Models for Synthetic Data Augmentation in Protein Subcellular Localization Classification</a></div></td>
-<td>Sylvey Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22926">2505.22926</a></td>
 </tr>
 </tbody></table>

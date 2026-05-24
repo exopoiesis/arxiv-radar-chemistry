@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1034,17 +1034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19014.html">Tokenizing Electron Cloud in Protein-Ligand Interaction Learning</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Haitao Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19014">2505.19014</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21873.html">HelixDesign-Binder: A Scalable Production-Grade Platform for Binder Design Built on HelixFold3</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Jie Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21873">2505.21873</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22786.html">Topological Machine Learning for Protein-Nucleic Acid Binding Affinity Changes Upon Mutation</a></div></td>
-<td>Xiang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22786">2505.22786</a></td>
 </tr>
 </tbody></table>

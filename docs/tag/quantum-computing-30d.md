@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-computing — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <strong>30d</strong> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25610.html">Optimizing ground state preparation protocols with autoresearch</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Luis Mantilla Calderón et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25610">2604.25610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07890.html">Quantum circuit synthesis for fermionic excitations in coupled cluster theory using the Jordan-Wigner mapping</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Yu-Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07890">2601.07890</a></td>
 </tr>
 </tbody></table>

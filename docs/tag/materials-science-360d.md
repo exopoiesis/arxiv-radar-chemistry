@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">435 papers</span>
+  <span class="paper-count">433 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2612,17 +2612,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23982.html">MSQA: Benchmarking LLMs on Graduate-Level Materials Science Reasoning and Knowledge</a></div></td>
 <td>Jerry Junyang Cheung et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23982">2505.23982</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22208.html">LaMM: Semi-Supervised Pre-Training of Large-Scale Materials Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yosuke Oyama et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22208">2505.22208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04243.html">Triple Attention Transformer Architecture for Time-Dependent Concrete Creep Prediction</a></div></td>
-<td>Warayut Dokduea et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04243">2506.04243</a></td>
 </tr>
 </tbody></table>

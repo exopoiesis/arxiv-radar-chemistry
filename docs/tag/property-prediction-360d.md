@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">251 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1514,11 +1514,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22948.html">Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Michael Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22948">2505.22948</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22560.html">Geometric Hyena Networks for Large-scale Equivariant Learning</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Artem Moskalev et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22560">2505.22560</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">459 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2768,17 +2768,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20320.html">Environment-Induced Exciton Renormalization in the Photosystem II Reaction Center</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Tucker Allen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20320">2602.20320</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19153.html">Constrained Diffusion for Accelerated Structure Relaxation of Inorganic Solids with Point Defects</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Jingyi Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19153">2602.19153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19356.html">The X-ray absorption spectrum of the propargyl radical, C$_3$H$_3^{\cdot}$</a></div></td>
-<td>Dorothee Schaffner et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19356">2602.19356</a></td>
 </tr>
 </tbody></table>

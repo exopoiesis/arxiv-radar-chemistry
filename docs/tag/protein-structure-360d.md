@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">272 papers</span>
+  <span class="paper-count">268 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1622,29 +1622,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03791.html">INRFlow: Flow Matching for INRs in Ambient Space</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Yuyang Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03791">2412.03791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19200.html">A Variational Perspective on Generative Protein Fitness Optimization</a></div></td>
-<td>Lea Bogensperger et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19200">2501.19200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06999.html">Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Siddarth Venkatraman et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06999">2502.06999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14637.html">ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Angxiao Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14637">2502.14637</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22869.html">CFP-Gen: Combinatorial Functional Protein Generation via Diffusion Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Junbo Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22869">2505.22869</a></td>
 </tr>
 </tbody></table>

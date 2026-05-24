@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">612 papers</span>
+  <span class="paper-count">608 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3662,29 +3662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20232.html">Coupled Cluster con MōLe: Molecular Orbital Learning for Neural Wavefunctions</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Luca Thiede et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20232">2602.20232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15906.html">Pairing mechanism and superconductivity in pressurized La$_5$Ni$_3$O$_{11}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Ming Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15906">2505.15906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05758.html">Ferroelectricity in dipolar liquids: the role of annealed positional disorder</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>M. G. Izzo</td>
-<td><a href="http://arxiv.org/abs/2512.05758">2512.05758</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19147.html">Precompression engineering of metal-insulator transition and magnetism in designed breathing kagome systems</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Qingzhuo Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19147">2602.19147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19289.html">AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Jiangjie Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19289">2602.19289</a></td>
 </tr>
 </tbody></table>

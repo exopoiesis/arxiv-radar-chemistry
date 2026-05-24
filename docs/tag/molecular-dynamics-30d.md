@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">105 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -644,35 +644,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22726.html">Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles</a></div></td>
 <td>J. I. Ramallo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22726">2604.22726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05482.html">ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Luke Thompson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05482">2510.05482</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20538.html">Different perspectives on the exact factorization for photon-electron-nuclear systems</a></div></td>
-<td>Claudia Magi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20538">2604.20538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21222.html">Neutron and X-ray Diffraction Reveal the Limits of Long-Range Machine Learning Potentials for Medium-Range Order in Silica Glass</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Sai Harshit Balantrapu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21222">2604.21222</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21441.html">Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Lukas Müllender et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21441">2604.21441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21773.html">Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
-<td>Dustin Vivod et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21773">2604.21773</a></td>
 </tr>
 </tbody></table>

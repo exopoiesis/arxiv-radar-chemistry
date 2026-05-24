@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">490 papers</span>
+  <span class="paper-count">487 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2936,23 +2936,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22948.html">Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Michael Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22948">2505.22948</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06999.html">Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Siddarth Venkatraman et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06999">2502.06999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14637.html">ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Angxiao Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14637">2502.14637</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22394.html">PacTure: Efficient PBR Texture Generation on Packed Views with Visual Autoregressive Models</a></div></td>
-<td>Fan Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22394">2505.22394</a></td>
 </tr>
 </tbody></table>

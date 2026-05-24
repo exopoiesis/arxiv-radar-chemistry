@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2798,29 +2798,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20058.html">The effect of the A-site cation on the phase transition temperature of metal halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Tom Braeckevelt et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20058">2602.20058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07390.html">Learning Collective Variables from BioEmu with Time-Lagged Generation</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Seonghyun Park et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07390">2507.07390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06856.html">Contact Wasserstein Geodesics for Non-Conservative Schrödinger Bridges</a></div></td>
-<td>Andrea Testa et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06856">2511.06856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19039.html">Constraining the nuclear symmetry energy from electric dipole polarizability and neutron skin in $^{208}\mathrm{Pb}$ within antisymmetrized molecular dynamics</a></div></td>
-<td>Dandan Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19039">2602.19039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19205.html">Microgel Translocation Through Narrow Capillaries</a></div></td>
-<td>Subhadip Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19205">2602.19205</a></td>
 </tr>
 </tbody></table>

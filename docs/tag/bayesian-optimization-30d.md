@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05370.html">SPADE: Faster Drug Discovery by Learning from Sparse Data</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Rahul Nandakumar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05370">2605.05370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21732.html">Tailoring Germanium Heterostructures for Quantum Devices with Machine Learning</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Patrick Del Vecchio et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21732">2604.21732</a></td>
 </tr>
 </tbody></table>

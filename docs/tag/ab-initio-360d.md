@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1624 papers</span>
+  <span class="paper-count">1618 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9722,41 +9722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08674.html">Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Tobias Kreiman et al.</td>
 <td><a href="http://arxiv.org/abs/2503.08674">2503.08674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01071.html">Nanoscale and Element-Specific Lattice Temperature Measurements using Core-Loss Electron Energy-Loss Spectroscopy</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Levi D. Palmer et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01071">2411.01071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.17191.html">Generator of Neural Network Potential for Molecular Dynamics: Constructing Robust and Accurate Potentials with Active Learning for Nanosecond-scale Simulations</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Naoki Matsumura et al.</td>
-<td><a href="http://arxiv.org/abs/2411.17191">2411.17191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18171.html">Machine-Learning Potentials Predict Orientation- and Mode-Dependent Fracture in Refractory Diborides</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Shuyao Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.18171">2503.18171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08696.html">Quantum confinement theory of ultra-thin films: electronic, thermal and superconducting properties</a></div></td>
-<td>Alessio Zaccone</td>
-<td><a href="http://arxiv.org/abs/2505.08696">2505.08696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22056.html">Systematic generation of electron models for Second-Principles Density Functional Theory Methods</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Nayara Carral-Sainz et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22056">2505.22056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22546.html">Prediction and Synthesis of Mg$_4$Pt$_3$H$_6$: A Metallic Complex Transition Metal Hydride Stabilized at Ambient Pressure</a></div></td>
-<td>Wencheng Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22546">2505.22546</a></td>
 </tr>
 </tbody></table>

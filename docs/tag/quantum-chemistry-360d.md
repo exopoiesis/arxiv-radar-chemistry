@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">385 papers</span>
+  <span class="paper-count">384 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2318,11 +2318,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13394.html">Multireference Embedding and Fragmentation Methods for Classical and Quantum Computers: from Model Systems to Realistic Applications</a></div></td>
 <td>Shreya Verma et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13394">2505.13394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.14968.html">Quantum Measurement for Quantum Chemistry on a Quantum Computer</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Smik Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2501.14968">2501.14968</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.22252">2605.22252</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22990.html">Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields</a></div><div class="paper-tags"><a href="string-method-90d.html">string-method</a></div></td>
+<td>Rémi Schlama et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22990">2605.22990</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21237.html">RePCM: Region-Specific and Phenotype-Adaptive Bi-Ventricular Cardiac Motion Synthesis</a></div></td>
 <td>Xuan Yang et al.</td>
@@ -812,11 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21601.html">Deep Clustering based Boundary-Decoder Net for Inter and Intra Layer Stress Prediction of Heterogeneous Integrated IC Chip</a></div></td>
 <td>Kart Leong Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21601">2602.21601</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20210.html">Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Kiyoung Seong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20210">2602.20210</a></td>
 </tr>
 </tbody></table>

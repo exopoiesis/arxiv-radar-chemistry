@@ -15786,5 +15786,546 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-05-21"
+ },
+ "2605.22845": {
+  "abstract": "Finite element simulations of large-deformation sheet material forming involve node-element coupling between nodal kinematics and element-level deformation measures. Machine-learning surrogates can accelerate such simulations, but most graph-based models use node-centred representations. This representation is indirect for element-level quantities, which are often recovered from nodal predictions by interpolation or post-processing. It may also obscure the node-element coupling structure that underlies the finite element update. This work proposes a cross-attention-based bipartite graph neural network (CAtt-BiGNN) for coupled prediction of nodal displacement increments and elemental thinning. The graph represents mesh nodes and elements as distinct but connected entities, linked by directed node-element edges, so that nodal and elemental fields are predicted on their native discretisation domains. An edge-aware cross-attention processor conditions adaptive node-element coupling weights on geometric edge features, enabling bidirectional message passing between nodal kinematic states and elemental deformation states. A hierarchical extension, CAtt-BiUGNN, combines the CAtt-BiGNN with graph downsampling-upsampling to improve information propagation on larger meshes. Adaptive Gaussian noise is further evaluated as an optional rollout-stabilisation strategy. The models are tested on two representative forming cases with different graph sizes. CAtt-BiGNN improves the balance between displacement and thinning prediction relative to node-centred baselines and bipartite ablation variants, while CAtt-BiUGNN gives the strongest overall performance in the larger-graph setting. The results indicate that the proposed model provides an effective surrogate framework for large-deformation sheet material forming.",
+  "authors": [
+   "Yingxue Zhao",
+   "Haoran Li",
+   "Haosu Zhou",
+   "Tobias Pfaff",
+   "Nan Li"
+  ],
+  "categories": [
+   "cs.CE",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yingxue Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2605.22845",
+  "primary_category": "cs.CE",
+  "published": "2026-05-14",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Cross-attention-based bipartite graph neural network for coupled nodal and elemental field prediction in large-deformation sheet material forming",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.22923": {
+  "abstract": "Large language models can answer questions about textbooks, lecture notes, and programming exercises more reliably when their answers are grounded in an explicit knowledge source. Retrieval-augmented generation (RAG) is a common approach: relevant fragments of a document are retrieved and inserted into the model context before answering. For mathematical and technical material, the original LaTeX source can be a better starting point than a PDF, because it contains structural information, labels, sectioning commands, macros, and authorial intent that are often lost or distorted in PDF extraction. However, LaTeX source is not automatically AI-friendly. Cross-references must be resolved, custom macros must be interpreted, exercises and examples must be identified, and author-supplied semantic metadata may be needed. This article describes a focused preprocessing approach for turning LaTeX source, together with its compiled auxiliary files and optional author annotations, into Markdown and JSONL chunks suitable for indexing in a vector database.",
+  "authors": [
+   "Tom Verhoeff"
+  ],
+  "categories": [
+   "cs.IR",
+   "cs.CL"
+  ],
+  "comment": "19 pages, 3 figures",
+  "first_author": "Tom Verhoeff",
+  "pdf_url": "http://arxiv.org/pdf/2605.22923",
+  "primary_category": "cs.IR",
+  "published": "2026-05-21",
+  "tags": [],
+  "title": "AI-Friendly LaTeX: Using LaTeX Code as a Knowledge Source for Retrieval-Augmented Generation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22951": {
+  "abstract": "We investigate the thermodynamic, structural, and dynamic behavior of a three-dimensional coarse-grained ramp-shoulder fluid derived from effective interactions between polymer-grafted nanoparticles. The interaction combines a softened repulsive ramp with a shallow attractive shoulder, stabilizing competing local organizations over a broad pressure interval. Molecular dynamics simulations reveal density, diffusion, and structural anomalies together with crystalline, amorphous, and fluid regions in the phase diagram. Unlike conventional isotropic core-softened fluids, the anomalous hierarchy becomes partially decoupled: the density anomaly extends beyond the structural anomaly, while the diffusion anomaly becomes closely connected to amorphization and shell migration processes. Analysis of radial distribution functions, excess entropy, translational and orientational order, and coordination-shell organization shows that the anomalies are not controlled solely by shell competition. Instead, they emerge from cooperative radial restructuring in a regime where radial correlations increase without the development of crystalline orientational order. The results indicate that the detailed shape of the softened interaction region strongly influences the structural pathways explored under compression, leading to a regime of amorphous radial frustration associated with anomalous diffusion and frustrated shell reorganization.",
+  "authors": [
+   "Murilo S. Marques",
+   "Lucas Axel R. Santana",
+   "Gabriel San R. R. Câmara",
+   "José Rafael Bordin"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Murilo S. Marques",
+  "pdf_url": "http://arxiv.org/pdf/2605.22951",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-21",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Amorphous Radial Frustration and Water-Like Anomalies in a Ramp-Shoulder Fluid",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22990": {
+  "abstract": "Mapping reaction pathways and transition states (TS) is fundamental to chemistry but computationally expensive at scale. The minimum energy pathway (MEP) dictates reaction rates and mechanisms, yet recovering it via electronic-structure methods requires thousands of costly force evaluations. Recent generative models accelerate TS identification but rely on iterative inference and only predict isolated saddle-point snapshots, missing the continuous reaction trajectory. We introduce Drift-React, an $\\mathrm{SE}(3)$-equivariant generative framework that predicts complete reaction pathways in a single forward pass from only reactant and product geometries. By shifting distribution evolution to training via a Sinkhorn-weighted drifting field, Drift-React eliminates both the iterative force evaluations of NEB-style methods and the sequential ODE/SDE integration of diffusion and flow matching models. Evaluated on the Transition1x and Halo8 datasets, our one-step model generates physically consistent MEPs that accurately capture energetic bottlenecks and enable arbitrary-resolution sampling along the reaction coordinate. For isolated TS prediction, Drift-React matches the sub-Ångström accuracy of state-of-the-art iterative models while delivering orders-of-magnitude acceleration, clearing a major computational bottleneck for large-scale reaction network exploration.",
+  "authors": [
+   "Rémi Schlama",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Rémi Schlama",
+  "pdf_url": "http://arxiv.org/pdf/2605.22990",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-21",
+  "tags": [
+   "generative-model",
+   "string-method"
+  ],
+  "title": "Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.23021": {
+  "abstract": "We investigate finite-size effects in the $T$-$μ$ phase diagram of magnetized quark matter within the framework of a nonlocal extension of the Polyakov--Nambu--Jona-Lasinio (PNJL) model. Finite-size corrections are incorporated through the multiple reflection expansion (MRE) formalism, which describes a spherical quark droplet of radius $R$ and modifies the density of states by including surface and curvature contributions. We consider two-flavor quark matter at finite temperature and chemical potential in the presence of a uniform magnetic field with strengths ranging from $eB=0$ to $1$ GeV$^{2}$, and droplet radii from $R=3$ fm to the bulk limit. The nonlocal PNJL (nlPNJL) model naturally reproduces both magnetic catalysis at low temperatures and inverse magnetic catalysis near the chiral transition, in agreement with lattice QCD results. We analyze the chiral condensate, the traced Polyakov loop, the normalized quark condensate, and the corresponding susceptibilities. We find that finite-size effects do not modify the overall structure of the phase diagram, and that the coincidence of the chiral restoration and deconfinement transitions persists for all magnetic field strengths and system sizes explored, within the present implementation in which finite-size corrections are restricted to the fermionic sector. However, the critical end point (CEP) is notably shifted as a function of both the magnetic field strength and the system size: it moves toward higher chemical potentials and lower temperatures as the system size decreases, an effect that is significantly amplified by strong magnetic fields. Our results have potential implications for the physics of phase conversion in compact stars and for the interpretation of relativistic heavy-ion collision experiments.",
+  "authors": [
+   "G. Lugones",
+   "S. A. Ferraris",
+   "A. G. Grunfeld"
+  ],
+  "categories": [
+   "hep-ph"
+  ],
+  "comment": null,
+  "first_author": "G. Lugones",
+  "pdf_url": "http://arxiv.org/pdf/2605.23021",
+  "primary_category": "hep-ph",
+  "published": "2026-05-21",
+  "tags": [
+   "catalysis",
+   "magnetic-properties"
+  ],
+  "title": "Finite-Size Effects on the Critical End Point of Magnetized Quark Matter in the Nonlocal PNJL Model",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.23212": {
+  "abstract": "Interstitial hydrogen and deuterium in body-centered-cubic metals constitute archetypal quantum tunneling systems. Their relevance has been renewed by the connection between hydrogenic tunneling in Nb and defect-induced decoherence in superconducting qubits, motivating a predictive microscopic theory. Existing theoretical treatments invoke an adiabatic separation between the light interstitial and the host lattice, an assumption whose validity has not been rigorously established for hydrogenic species. Here, we show that the experimentally measured tunnel splittings of O-trapped H and D in bcc Nb are quantitatively reproduced only within a five-dimensional (5D) Lattice-Renormalized Born-Oppenheimer (LRBO) framework. This approach treats three interstitial modes and two judiciously selected lattice modes, which includes a transition-state mode, on equal quantum footing. By recasting nested Born-Oppenheimer hierarchies within this same formalism and benchmarking against modern \\textit{ab initio} potential energy surfaces, we show that adiabatic separation of the light particle from lattice dynamics is satisfied only in the positive-muon ($μ^{+}$) mass limit. In contrast, tunneling for H and D is fundamentally a collective, nonadiabatic process mediated by anharmonic lattice couplings. Finally, we show that the breakdown of adiabaticity can be anticipated from simple energy estimates involving the ground-state light-particle energy evaluated at a small number of fixed lattice configurations, providing a practical criterion for assessing the validity of adiabatic tunneling theories in other systems.",
+  "authors": [
+   "P. Graham Pritchard",
+   "James M. Rondinelli"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 6 figures",
+  "first_author": "P. Graham Pritchard",
+  "pdf_url": "http://arxiv.org/pdf/2605.23212",
+  "primary_category": "quant-ph",
+  "published": "2026-05-22",
+  "tags": [
+   "ab-initio",
+   "free-energy"
+  ],
+  "title": "Transition-state lattice modes and the breakdown of adiabatic tunneling for hydrogen and deuterium in bcc Nb",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23332": {
+  "abstract": "The integration of large language models into political discourse analysis creates new opportunities for comparative research, policy analysis, and civic technology, while introducing material risks for democratic accountability. This paper argues that cultural adaptation is a prerequisite for trustworthy deployment of large language models in political communication across diverse linguistic and institutional contexts. Current systems remain shaped by English dominant data, uneven multilingual coverage, and assumptions grounded in a narrow range of political institutions and discourse conventions, producing systematic errors when applied across cultures. We formalize cultural adaptation across translation, discourse, and ontology levels, identify recurring cultural failure modes in political NLP, and propose an operational evaluation matrix grounded in cultural fidelity, calibration, and democratic safety. Building on political text analysis, sociotechnical auditing, and cross cultural pragmatics, we outline methodological pathways including participatory dataset development, culturally aware transfer learning, and benchmark design that makes cultural adaptation empirically measurable. We conclude by clarifying governance constraints and scope conditions under which culturally adaptive political NLP can support democratic legitimacy.",
+  "authors": [
+   "Wajdi Zaghouani"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Wajdi Zaghouani",
+  "pdf_url": "http://arxiv.org/pdf/2605.23332",
+  "primary_category": "cs.CL",
+  "published": "2026-05-22",
+  "tags": [],
+  "title": "Cultural Adaptation in Large Language Models for Political Discourse",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23346": {
+  "abstract": "Discrete diffusion models have emerged as powerful frameworks for generating structured categorical data. However, efficiently sampling from reward-tilted distributions remains a fundamental challenge. While Twisted Sequential Monte Carlo (SMC) offers asymptotic exactness for this task, estimating the optimal twist function in discrete state spaces necessitates costly Monte Carlo approximations, resulting a severe computational bottleneck at inference. To overcome this limitation, we introduce Contrastive Distribution Matching (CDM), a novel framework that amortizes the cost of SMC inference by learning a parameterized twist function via positive and negative samples. For efficient training, we reformulate the gradient estimator to leverage the closed-form forward kernels of discrete diffusion models. In practice, evaluating our learned twist function incurs less than 5% additional computational overhead compared to a single forward pass of the base model. Through extensive empirical evaluations, we demonstrate that CDM consistently outperforms existing baselines under matched wall-clock time. We validate the effectiveness and versatility of our approach across a diverse range of applications, including toxic text generation, regulatory DNA sequence design, protein designability, and diffusion large language model alignment.",
+  "authors": [
+   "Jaihoon Kim",
+   "Taehoon Yoon",
+   "Prin Phunyaphibarn",
+   "Seungjun Kim",
+   "Morteza Mardani",
+   "Minhyuk Sung"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Project Page: https://cdm-smc.github.io/",
+  "first_author": "Jaihoon Kim",
+  "pdf_url": "http://arxiv.org/pdf/2605.23346",
+  "primary_category": "cs.LG",
+  "published": "2026-05-22",
+  "tags": [
+   "diffusion-model",
+   "monte-carlo"
+  ],
+  "title": "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23360": {
+  "abstract": "We propose two metadynamics (MetaD)-based methodologies for efficiently mapping free energy surfaces (FESs) of multiple interacting carriers diffusing in crystalline solids. Our approaches circumvent the challenges of high-dimensional collective variables (CVs) by employing replica state exchange MetaD and parallel bias MetaD, both of which decompose the high-dimensional CVs into multiple lower-dimensional ones. As a benchmark, we investigate two-dimensional lithium (Li) diffusion in LixTiS2 across a wide range of Li concentrations. The Li jump frequencies estimated from the obtained FESs exhibit concentration- and temperature-dependent trends consistent with previous kinetic Monte Carlo simulations and nuclear magnetic resonance measurements. Our approaches provide a promising framework for capturing the slow dynamics of diffusive carriers that are typically inaccessible to conventional molecular dynamics simulations.",
+  "authors": [
+   "Shunya Yamada",
+   "Kazuaki Toyoura"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Shunya Yamada",
+  "pdf_url": "http://arxiv.org/pdf/2605.23360",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-22",
+  "tags": [
+   "free-energy",
+   "metadynamics",
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "A Metadynamics-Based Framework for Free Energy Surface Mapping of Multiparticle Diffusion in Crystals",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23434": {
+  "abstract": "Approximate inference over inducing variables is the central computational bottleneck of Deep Gaussian Processes (DGPs). Existing methods either fit an explicit density $q_φ(\\bU)$ by an ELBO (DSVI, IPVI, DDVI, DBVI) or sample by MCMC (SGHMC). We instead frame DGP inference as \\emph{posterior transport}: learn a deterministic sampler that maps a tractable reference measure to posterior-relevant inducing variables, regularised by a path prior derived from the Doob-bridged reference diffusion. Our realisation, \\textbf{OM-Path} (formally FBVI-bridge-Path), uses Song's probability-flow ODE applied to DBVI's Doob-bridged forward SDE; the reference drift is closed-form from the bridge marginal coefficients (no score matching) and the path regulariser is the \\textbf{Onsager--Machlup action}. At the finite-$ε$ value used at training, the objective is the negative log unnormalised density of a tempered Doob-bridge path posterior, and Theorem 1 identifies it with the same posterior's small-noise MAP path via the Freidlin--Wentzell LDP. Two strict path-space ELBO variants on the same bridge backbone (FFJORD log-det; OM-regularised CNF) are derived as ablations. Under a matched-seed paired Wilcoxon test against DBVI on seven UCI regression benchmarks, OM-Path delivers statistically significant wins on the two largest datasets (\\textit{power}: $p\\!=\\!0.014$, NLL $\\mathbf{0.012}$ matching the DSVI baseline of $0.017$; \\textit{protein}: $p\\!=\\!0.002$, RMSE $\\mathbf{0.716}$ vs.\\ $0.764$, NLL $\\mathbf{1.086}$ vs.\\ $1.149$), statistical ties on \\textit{yacht} / \\textit{qsar}, and concedes \\textit{boston} / \\textit{energy} / \\textit{concrete} to DBVI on small-$N$ noisy data. The strict-ELBO variants do not clear DBVI on any UCI metric: in this regime, reducing the variance of the path objective dominates exact-density tracking.",
+  "authors": [
+   "Jian Xu",
+   "Delu Zeng",
+   "John Paisley",
+   "Qibin Zhao"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jian Xu",
+  "pdf_url": "http://arxiv.org/pdf/2605.23434",
+  "primary_category": "cs.LG",
+  "published": "2026-05-22",
+  "tags": [],
+  "title": "Onsager-Machlup Posterior Transport for Deep Gaussian Processes",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23462": {
+  "abstract": "Cyclic animation is widely used in computer graphics and interactive content.It supports seamless playback in games, VR, and interactive simulation,where short clips must repeat smoothly over long durations. Achievingphysically plausible cyclic synthesis from an input sequence is challengingbecause the endpoint states of the observed sequence rarely match exactly,and the governing equations of the underlying system are often unavailable.We therefore propose an equation-free framework that identiffes a Koopmansurrogate from the observed trajectory and computes a cyclic trajectory byapplying a Fourier-parameterized, time-varying control force under a hardtemporal periodicity constraint. The resulting formulation reduces cyclicsynthesis to a linearly constrained quadratic program that can be solvedefffciently through a structured KKT system. Our method is applicable toa diverse range of examples, including N-body systems, cloth, deformableobjects, shallow water, etc.",
+  "authors": [
+   "Shixun Huang",
+   "Siyuan Chen",
+   "Yue Chang",
+   "Zhecheng Wang",
+   "Peter Yichen Chen"
+  ],
+  "categories": [
+   "cs.GR"
+  ],
+  "comment": null,
+  "first_author": "Shixun Huang",
+  "pdf_url": "http://arxiv.org/pdf/2605.23462",
+  "primary_category": "cs.GR",
+  "published": "2026-05-22",
+  "tags": [],
+  "title": "Closing Trajectories: Equation-Free Cyclic Animation via Koopman Surrogates",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23479": {
+  "abstract": "This study investigates the ground-state energetics and thermodynamics of intrinsic point defects in zinc phosphide Zn$_3$P$_2$ using \\emph{ab initio} density functional theory combined with an extensive potential energy landscape search. Our analysis reveals that the defect chemistry is dominated by zinc vacancies $V_\\mathrm{Zn}$ and zinc interstitials Zn$_i$, with equilibrium concentrations significantly surpassing those of other intrinsic species. Notably, we find that phosphorus interstitials P$_i$, previously suggested to be significant, possess high formation energies and likely exist only in negligible quantities. The characteristic $p$-type conductivity of undoped Zn$_3$P$_2$ is shown to be a direct consequence of zinc vacancies, which act as shallow acceptors and pull the Fermi level toward the valence band. Furthermore, we identify a positive binding energy between $V_\\mathrm{Zn}$ and Zn$_i$, leading to the formation of electrically benign Frenkel pairs that partially compensate the intrinsic p-type conductivity. Our results suggest that achieving $n$-type conductivity is fundamentally limited by these thermodynamic constraints. We conclude that hole densities can be optimized through phosphorus-rich growth conditions and high-temperature annealing, and suggest that future photovoltaic strategies should prioritize interface engineering over bulk $n$-type doping.",
+  "authors": [
+   "Nico Kawashima",
+   "Silvana Botti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "11 pages, 12 figures",
+  "first_author": "Nico Kawashima",
+  "pdf_url": "http://arxiv.org/pdf/2605.23479",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-22",
+  "tags": [
+   "ab-initio",
+   "band-gap",
+   "dft",
+   "free-energy"
+  ],
+  "title": "Intrinsic Point Defects and Frenkel Pair Formation in Photovoltaic Absorber Zn$_3$P$_2$: Regulating $p$-type Conductivity through Growth and Annealing Conditions",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23558": {
+  "abstract": "The ordering of cations in the B sublattice remains a challenging issue in double perovskites. In this work, a combined experimental and theoretical approach was employed to investigate the Co/Nb distribution in Ca$_2$CoNbO$_6$ and its influence on magnetic and transport properties. The density functional theory, supported by magnetic susceptibility measurements, indicates that Co adopts a high-spin Co$^{3+}$ state. No long-range magnetic ordering was observed down to low temperatures; however, the presence of short-range correlations points to the partial disorder in the Co/Nb sublattice. This interpretation is further supported by electron paramagnetic resonance, which also reveals slight oxygen nonstoichiometry. Electrical transport follows a small-polaron hopping mechanism with an activation energy of 0.25 eV. The Seebeck coefficient reaches 0.4 mV/K at 600 K.",
+  "authors": [
+   "Svetlana A. Artiukova",
+   "Ivan V. Yatsyk",
+   "Ruslan G. Batulin",
+   "Yulia A. Deeva",
+   "Tatiana I. Chupakhina",
+   "Vladislav V. Bazhal",
+   "Alexandr I. Balitskiy",
+   "Rushana M. Eremina",
+   "Dina I. Fazlizhanova"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 12 figures",
+  "first_author": "Svetlana A. Artiukova",
+  "pdf_url": "http://arxiv.org/pdf/2605.23558",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-22",
+  "tags": [
+   "dft",
+   "thermal-properties"
+  ],
+  "title": "Ambiguity in B-Site cation ordering: A Case study of the double perovskite Ca$_2$CoNbO$_6$",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23596": {
+  "abstract": "Understanding the formation and evolution of galaxy populations requires robust classification and characterisation techniques that jointly account for internal galaxy properties and environment. We analyse $5,306$ galaxies from the Galaxy And Mass Assembly (GAMA) survey, described by stellar mass, specific star formation rate, $u-r$ colour, half-light radius, Sérsic index, and a combined environmental measure given by the optimal density. Unlike distance-based unsupervised clustering methods, our framework provides a probabilistic characterisation of galaxy populations, accommodates heavy-tailed feature distributions, and captures dependence among observables through latent factors. We model the sample using a $t$-mixture of factor analysers with group-specific latent structures (M$t$FAD), and then apply model-estimated overlap-based syncytial clustering (MOBSynC) to merge weakly separated groups and recover higher-level population structure. The first stage identifies eight simple clusters. The third and the fourth groups lie on the red, low-star-forming sequence and correspond to environmentally quenched and mass-quenched systems, respectively, while the sixth group traces the massive end of the star-forming sequence, and the seventh group appears to represent a more heterogeneous population that may include transition objects. The remaining groups populate the low- to intermediate-mass blue sequence, including both compact and more extended star-forming galaxies. The second MOBSynC stage merges the simple clusters into two compound groups: a red sequence formed by the third and the fourth groups, and the rest merging to form a broad blue sequence. Our results show that the familiar red-blue bimodality of local galaxies contains additional physically meaningful substructure linked to quenching pathway, morphology, and environment.",
+  "authors": [
+   "Fan Dai",
+   "Ranjan Maitra",
+   "Ivan K. Baldry"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "14 pages, 9 files, 4 tables; accepted for publication in the Monthly Notices of the Royal Astronomical Society",
+  "first_author": "Fan Dai",
+  "pdf_url": "http://arxiv.org/pdf/2605.23596",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-05-22",
+  "tags": [],
+  "title": "Multi-layered model-based characterisation of the local-Universe galaxy data from the GAMA survey",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23612": {
+  "abstract": "Predicting diffusion in chemically complex alloys remains challenging due to the strong dependence of migration barriers on local atomic environments. Here, we develop a first-principles-informed framework that directly learns environment-dependent migration barriers without relying on reduced kinetic approximations such as the kinetically resolved activation (KRA) model. Migration barriers computed using density functional theory and nudged elastic band calculations are represented via a tensorial cluster expansion including transition states and deployed in on-lattice kinetic Monte Carlo simulations. Applied to the Ta-W system, the framework captures nontrivial composition-dependent diffusion behavior arising from a crossover between solute trapping and percolated low-barrier transport pathways, yielding a maximum in the apparent activation energy near intermediate compositions. This approach establishes a general and scalable route for integrating first-principles transition-state energetics into mesoscale kinetic simulations, enabling predictive multiscale modeling of diffusion in chemically complex materials and providing a pathway for uncovering emergent transport phenomena.",
+  "authors": [
+   "Jacob Jeffries",
+   "Brianna Sebastian-Olazabal",
+   "Enrique Martinez"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 11 figures",
+  "first_author": "Jacob Jeffries",
+  "pdf_url": "http://arxiv.org/pdf/2605.23612",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-22",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "monte-carlo"
+  ],
+  "title": "First-principles transition-state tensorial cluster expansion of vacancy diffusion in Ta-W beyond the kinetically-resolved activation approximation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23640": {
+  "abstract": "Large Language Models (LLMs) rely on Key-Value (KV) caching to accelerate inference, and many serving systems further share the KV cache across users' requests to reduce redundant computation. While widely adopted, unrestricted cross-user sharing introduces side-channel vulnerabilities, allowing an adversary to infer user inputs by probing for cache reuse. Existing defenses disable sharing entirely to prevent leakage; yet such a coarse-grained strategy sacrifices substantial reuse potential, since prompts often include large portions of privacy-irrelevant segments, such as system instructions or publicly accessible materials. Building on this, we present CachePrune, a privacy-aware KV cache sharing mechanism that enables fine-grained reuse of KV entries across requests. Realizing such fine granularity requires token-level cache management, as reusable segments vary in length and position due to sensitivity masking, making reuse more complex than the fixed-size or sentence-level chunking used in existing coarse-grained schemes. Specifically, CachePrune makes fine-grained reuse practical by addressing two key challenges: accurately and efficiently deriving reusable KV segments and efficiently retrieving them over variable-length spans. We implement CachePrune on top of vLLM and evaluate it on three datasets, showing that it eliminates direct leakage through KV cache reuse side channels while reducing TTFT by 4.5x and increasing cache hit rates by 44% compared with state-of-the-art approaches.",
+  "authors": [
+   "Guanlong Wu",
+   "Zhaohan li",
+   "Yao Zhang",
+   "Zheng Zhang",
+   "Jianyu Niu",
+   "Ye Wu",
+   "Yinqian Zhang"
+  ],
+  "categories": [
+   "cs.CR"
+  ],
+  "comment": null,
+  "first_author": "Guanlong Wu",
+  "pdf_url": "http://arxiv.org/pdf/2605.23640",
+  "primary_category": "cs.CR",
+  "published": "2026-05-22",
+  "tags": [],
+  "title": "CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23673": {
+  "abstract": "Graph Neural Networks (GNNs) have become important machine learning tools for graph analysis, and its explainability is crucial for safety, fairness, and robustness. Layer-wise relevance propagation for GNNs (GNN-LRP) evaluates the relevance of \\emph{walks} to reveal important information flows in the network, and provides higher-order explanations, which have been shown to be superior to the lower-order, i.e., node-/edge-level, explanations. However, identifying relevant walks by GNN-LRP requires {\\em exponential} computational complexity with respect to the network depth, which we will remedy in this paper. Specifically, we propose {\\em polynomial-time} algorithms for finding top-$K$ relevant walks, which drastically reduces the computation and thus increases the applicability of GNN-LRP to large-scale problems. Our proposed algorithms are based on the \\emph{max-product} algorithm -- a common tool for finding the maximum likelihood configurations in probabilistic graphical models -- and can find the most relevant walks exactly at the neuron level and approximately at the node level. Our experiments demonstrate the performance of our algorithms at scale and their utility across application domains, i.e., on epidemiology, molecular, and natural language benchmarks. We provide our codes under \\href{https://github.com/xiong-ping/rel_walk_gnnlrp}{github.com/xiong-ping/rel\\_walk\\_gnnlrp}.",
+  "authors": [
+   "Ping Xiong",
+   "Thomas Schnake",
+   "Michael Gastegger",
+   "Grégoire Montavon",
+   "Klaus-Robert Müller",
+   "Shinichi Nakajima"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Published in ICML 2023",
+  "first_author": "Ping Xiong",
+  "pdf_url": "http://arxiv.org/pdf/2605.23673",
+  "primary_category": "cs.LG",
+  "published": "2026-05-22",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Relevant Walk Search for Explaining Graph Neural Networks",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23754": {
+  "abstract": "Developing constitutive models that capture how materials deform under load traditionally requires years of specialized expertise in continuum mechanics, machine learning, and scientific programming. Large language models (LLMs) have recently been shown to lower this barrier by generating constitutive models on demand, but existing single-agent pipelines lack systematic checks that the resulting models respect fundamental physical laws. To close this gap, we introduce the first multi-agent LLM-driven approach for constitutive model generation: a Creator agent proposes a model tailored to the data, while an Inspector agent critically audits each proposal against nine physical constraints and returns it for refinement whenever a violation is detected. We demonstrate this concept with constitutive artificial neural networks (CANNs) and benchmark it on brain tissue, experimental rubber, and synthetic rubber, using two different LLM backbones (Claude Opus 4.7 and Kimi K2.5). Adding the Inspector raises the share of exported models that truly satisfy all physical constraints from 91% to a perfect 100% for Opus and from 37% to 56% for Kimi, while preserving near-baseline accuracy and remarkable generalization to unseen loading paths. In combination, the generated models are physically valid, highly accurate, and extrapolate reliably beyond the training data - properties that together make them directly usable in practice. Separating generation from inspection thus turns LLM-driven constitutive modeling into a genuinely trustworthy process. The paradigm is deliberately technique-agnostic and scales automatically with advances in LLM capability, opening a promising path toward automated, physics-aware model discovery.",
+  "authors": [
+   "Marius Tacke",
+   "Matthias Busch",
+   "Kian Abdolazizi",
+   "Jonas Eichinger",
+   "Kevin Linka",
+   "Roland Aydin",
+   "Christian Cyron"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Marius Tacke",
+  "pdf_url": "http://arxiv.org/pdf/2605.23754",
+  "primary_category": "cs.LG",
+  "published": "2026-05-22",
+  "tags": [],
+  "title": "LLM-driven design of physics-constrained constitutive models: two agents are better than one",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23789": {
+  "abstract": "Thin liquid films are ubiquitous across many natural and engineering systems, including films which are laden with surface active molecules, i.e. surfactants. The presence of surfactants may have a destabilising effect on the film owing to their influence on surface tension, the so-called Marangoni effect, which in turn can induce flows in the film. Classical thin-film models for surfactant-laden films lead to paradigmatic gradient dynamics equations governing the film height and surfactant concentration and have been widely studied. However, in all these works, which are based on fluid dynamics or nonequilibrium thermodynamics, the shape of surfactants is neglected, and they have been treated as symmetric point-like particles. In general, this is a drastic oversimplification, as surfactants are amphiphilic with a polar head-tail structure. To account for this effect we use elements from the statistical mechanics of classical fluids, namely density-functional theory (DFT), and its dynamic extension (DDFT). Starting from DDFT and under the long-wave approximation, we derive the pertinent thin-film equations with the surfactants treated as polar uniaxial particles. These are equations which govern the film height, as well as the surfactant concentration and polarisation field. They preserve the gradient dynamics form by appropriately defining the free energy, which contains the usual interfacial contributions, as well as further contributions from the polarisation field. In doing so, we uncover a novel form of a generalised surface tension that is dependent on the surfactant polarisation as well as concentration, and show that it arises in a thermodynamically consistent way.",
+  "authors": [
+   "Toby Kay",
+   "Serafim Kalliadasis"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "16 pages, 1 figure",
+  "first_author": "Toby Kay",
+  "pdf_url": "http://arxiv.org/pdf/2605.23789",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-22",
+  "tags": [
+   "dft",
+   "free-energy"
+  ],
+  "title": "Orientable Surfactants on Thin Liquid Films: A Dynamic Density-Functional Theory Approach",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23836": {
+  "abstract": "Magnetic topological semimetals provide a promising platform for emergent quantum phenomena driven by the interplay between magnetism and relativistic fermions, including anomalous transport effects and tunable topological phases. Here, we investigate the electronic structure and orbital character of EuAgAs, a magnetic topological Dirac semimetal candidate, using density functional theory (DFT) and polarization dependent angle resolved photoemission spectroscopy (ARPES). Fermi surface mapping and constant energy contours measured at 9 eV reveal ring like features that systematically expand with increasing binding energy, consistent with nearly linear low energy Dirac like dispersion. ARPES measurements at different photon energies hint at the presence of a van Hove singularity predicted by DFT calculations. Furthermore, this indicates that the photoemission matrix elements are highly sensitive to the excitation energy, allowing different photon energies to selectively probe distinct orbital characters. Polarization dependent ARPES measurements performed in s- and p-polarized geometries exhibit pronounced variations in spectral intensity, indicating symmetry selective orbital contributions to electronic states. These matrix element driven intensity modulations are well reproduced by DFT calculations. Furthermore, the observed Dirac like states remain nearly unchanged over the temperature range from 9 K to 30 K, suggesting that the magnetic ordering has minimal influence on the electronic structure. Our combined experimental and theoretical results provide detailed insight into the orbital selective electronic structure of EuAgAs and its implications for magnetic topological quantum states.",
+  "authors": [
+   "Mohit Mudgal",
+   "Suman Nandi",
+   "Mohamed El Gazzah",
+   "Masashi Arita",
+   "Shin-ichiro Ideta",
+   "Nirmal J. Ghimire",
+   "Kenya Shimada",
+   "Anup Pradhan Sakhya"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Mohit Mudgal",
+  "pdf_url": "http://arxiv.org/pdf/2605.23836",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-05-22",
+  "tags": [
+   "dft",
+   "electronic-structure",
+   "magnetic-properties"
+  ],
+  "title": "Orbital Selective Dirac-like States in EuAgAs Revealed by Polarization Dependent ARPES and DFT",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-22"
+ },
+ "2605.23855": {
+  "abstract": "Intercalation at the graphene/SiC interface provides a controlled route to stabilize atomically thin layers with properties distinct from their bulk counterparts. In this platform, the structure and stability of the intercalated phase depend sensitively on the defect landscape of the starting substrate. For intercalated two-dimensional silver at the graphene/SiC interface, two phases have been observed: a phase epitaxial to the SiC lattice, Ag$_{(1)}$, readily obtained following the conventional intercalation method under ultra-high-vacuum conditions and extensively characterized, and a more densely packed phase, called Ag$_{(2)}$, which has remained largely unexplored. Here we report an in situ ultra-high-vacuum preparation method of the second phase intercalated at the graphene/SiC interface; this phase previously was prepared via high-pressure confinement heteroepitaxy. Low-energy electron diffraction shows that Ag$_{(2)}$ is rotated by 30 degree relative to the SiC lattice and forms supercells, in contrast to the $(1\\times 1)$ epitaxial relation of Ag$_{(1)}$ with SiC. High-resolution angle-resolved photoemission spectroscopy reveals a more rich Ag$_{(2)}$ band dispersion compared to the Ag$_{(1)}$. In density functional theory calculations, by defining the unfolding entropy which, in a quantified way, finds that the band structure of Ag$_{(2)}$ is more suitable to be unfolded to the SiC primitive cell, and the resulting unfolded band dispersion is in great agreement with the experimental data. We further show that the different intercalated Ag phases tune the electronic properties of the overlying quasi-free-standing graphene layer differently: compared with Ag$_{(1)}$, Ag$_{(2)}$ yields an $\\sim$1.75 times higher charge carrier density and modifies the charge-plasmon interaction of the graphene layer, indicating a change in effective screening at the interface.",
+  "authors": [
+   "Sawani Datta",
+   "Boyang Zheng",
+   "Arpit Jain",
+   "Kathrin Küster",
+   "Joshua A. Robinson",
+   "Vincent H. Crespi",
+   "Ulrich Starke"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 7 figures, Supplementary information is in the ancillary file",
+  "first_author": "Sawani Datta",
+  "pdf_url": "http://arxiv.org/pdf/2605.23855",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-22",
+  "tags": [
+   "2d-materials",
+   "band-gap",
+   "dft"
+  ],
+  "title": "Phase-dependent electronic structure of two-dimensional Ag layers at the graphene/SiC interface",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-05-22"
  }
 }

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">102 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23360.html">A Metadynamics-Based Framework for Free Energy Surface Mapping of Multiparticle Diffusion in Crystals</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="metadynamics-30d.html">metadynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Shunya Yamada et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23360">2605.23360</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22094.html">A path-finding algorithm for computing minimal-weight-matching centrosymmetry parameter</a></div></td>
@@ -50,6 +56,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Adam Hložný et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22601">2605.22601</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22951.html">Amorphous Radial Frustration and Water-Like Anomalies in a Ramp-Shoulder Fluid</a></div></td>
+<td>Murilo S. Marques et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22951">2605.22951</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-20</td>
@@ -614,35 +626,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25037.html">Thermal conductivity of aligned polymers with kinks</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Igor V. Parshin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25037">2604.25037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Izabela A. Wrona et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22434.html">The influence of implantation conditions on dopant activation in Al-implanted 4H-SiC: A MD study applying an Al potential fitted to DFT barriers</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Sabine Leroch et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22434">2604.22434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22674.html">Unveiling the Molecular Driving Forces of Pollutant Extraction by Hydrophobic Eutectic Solvents</a></div></td>
-<td>S. Gomez et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22674">2604.22674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22696.html">Pressure-Temperature Phase Diagram and $λ$-Transition in Liquid Sulfur</a></div></td>
-<td>Sonia Salomoni et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22696">2604.22696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22726.html">Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles</a></div></td>
-<td>J. I. Ramallo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22726">2604.22726</a></td>
 </tr>
 </tbody></table>

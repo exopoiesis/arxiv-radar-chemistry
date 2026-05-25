@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">585 papers</span>
+  <span class="paper-count">583 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3512,17 +3512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00297.html">Improving Protein Sequence Design through Designability Preference Optimization</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Fanglei Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00297">2506.00297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11975.html">Fast uncovering of protein sequence diversity from structure</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Luca Alessandro Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11975">2406.11975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23987.html">Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization</a></div></td>
-<td>Vishal Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23987">2505.23987</a></td>
 </tr>
 </tbody></table>

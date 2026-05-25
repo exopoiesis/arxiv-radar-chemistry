@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22252.html">LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation</a></div></td>
 <td>Langzhang Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22252">2605.22252</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22990.html">Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields</a></div><div class="paper-tags"><a href="string-method-7d.html">string-method</a></div></td>
+<td>Rémi Schlama et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22990">2605.22990</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-20</td>
@@ -50,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19124.html">Atomistic Modeling of Chemical Disorder in Materials: Bridging Classical Methods and AI-Assisted Approaches</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>Jiayu Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19124">2605.19124</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17254.html">CatalyticMLLM: A Graph-Text Multimodal Large Language Model for Catalytic Materials</a></div><div class="paper-tags"><a href="multimodal-llm-7d.html">multimodal-llm</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Yanjie Li</td>
-<td><a href="http://arxiv.org/abs/2605.17254">2605.17254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17693.html">Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-ligand-7d.html">protein-ligand</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Yuan Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17693">2605.17693</a></td>
 </tr>
 </tbody></table>

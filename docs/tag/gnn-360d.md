@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23673.html">Relevant Walk Search for Explaining Graph Neural Networks</a></div></td>
+<td>Ping Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23673">2605.23673</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22367.html">Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Nitik Bhatia et al.</td>
@@ -80,6 +86,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16230.html">Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Abhijatmedhi Chotrattanapituk et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16230">2605.16230</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22845.html">Cross-attention-based bipartite graph neural network for coupled nodal and elemental field prediction in large-deformation sheet material forming</a></div></td>
+<td>Yingxue Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22845">2605.22845</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -2426,17 +2438,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12156.html">FragNet: A Graph Neural Network for Molecular Property Prediction with Four Levels of Interpretability</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Gihan Panapitiya et al.</td>
 <td><a href="http://arxiv.org/abs/2410.12156">2410.12156</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23034.html">Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction</a></div></td>
-<td>Guangyi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23034">2505.23034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23875.html">A Benchmark Dataset for Graph Regression with Homogeneous and Multi-Relational Variants</a></div></td>
-<td>Peter Samoaa et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23875">2505.23875</a></td>
 </tr>
 </tbody></table>

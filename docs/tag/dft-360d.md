@@ -16,6 +16,42 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23479.html">Intrinsic Point Defects and Frenkel Pair Formation in Photovoltaic Absorber Zn$_3$P$_2$: Regulating $p$-type Conductivity through Growth and Annealing Conditions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Nico Kawashima et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23479">2605.23479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23558.html">Ambiguity in B-Site cation ordering: A Case study of the double perovskite Ca$_2$CoNbO$_6$</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Svetlana A. Artiukova et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23558">2605.23558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23612.html">First-principles transition-state tensorial cluster expansion of vacancy diffusion in Ta-W beyond the kinetically-resolved activation approximation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Jacob Jeffries et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23612">2605.23612</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23789.html">Orientable Surfactants on Thin Liquid Films: A Dynamic Density-Functional Theory Approach</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Toby Kay et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23789">2605.23789</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23836.html">Orbital Selective Dirac-like States in EuAgAs Revealed by Polarization Dependent ARPES and DFT</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Mohit Mudgal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23836">2605.23836</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23855.html">Phase-dependent electronic structure of two-dimensional Ag layers at the graphene/SiC interface</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td>Sawani Datta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23855">2605.23855</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22294.html">Odd-Parity Chiral Magnons in Collinear Antiferromagnetic Multiferroics: Symmetry Classification and Ferroelectric Switching</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Quanchao Du et al.</td>
@@ -12698,41 +12734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00198.html">MOFGPT: Generative Design of Metal-Organic Frameworks using Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mof-360d.html">mof</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Srivathsan Badrinarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00198">2506.00198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05971.html">Thermodynamic Favorability of the 1T Phase over the 1H Phase in Group III Metal Monochalcogenide Zigzag Nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Emin Aliyev et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05971">2412.05971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16162.html">Quantum Transport with Spin Orbit Coupling: New Developments in TranSIESTA</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Nils Wittemeier et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16162">2501.16162</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04053.html">Regional chemical potential analysis for material surfaces</a></div></td>
-<td>Masahiro Fukuda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04053">2505.04053</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21995.html">Sr$_2$NbO$_4$: A $4d$ analogue of the layered perovskite Sr$_2$VO$_4$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Leonid S. Taran et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21995">2505.21995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23307.html">Higher-order thermal transport theory for phonon thermal transport in semiconductors using lattice dynamics calculations and the Boltzmann transport equation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ankit Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23307">2505.23307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23909.html">Fully Generalized Spin Models with Strain Effects of Kitaev Spin Liquid Candidate Materials</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Pureum Noh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23909">2505.23909</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00544.html">Best Practices for Multi-Fidelity Bayesian Optimization in Materials and Molecular Research</a></div></td>
 <td>Víctor Sabanza-Gil et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00544">2410.00544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08562.html">Rethinking Gradient-Based Methods: Multi-Property Materials Design Beyond Differentiable Targets</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Akihiro Fujii et al.</td>
-<td><a href="http://arxiv.org/abs/2410.08562">2410.08562</a></td>
 </tr>
 </tbody></table>

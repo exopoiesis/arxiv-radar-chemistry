@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23021.html">Finite-Size Effects on the Critical End Point of Magnetized Quark Matter in the Nonlocal PNJL Model</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>G. Lugones et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23021">2605.23021</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21176.html">Oxygen-Pressure-Limited Recovery of the Hematite α-Fe$_2$O$_3$(0001) Surface from a Reduced Fe$_3$O$_4$(111)-Like Layer</a></div></td>
 <td>Nishant Kumar et al.</td>
@@ -500,11 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22086.html">MBD-ML: Many-body dispersion from machine learning for molecules and materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Evgeny Moerman et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22086">2602.22086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24176.html">Effects of Hydrogen Transport on the Kinetic Regimes of 4-Nitrophenol Reduction by Sodium Borohydride</a></div></td>
-<td>Tatiana Nizkaia et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24176">2510.24176</a></td>
 </tr>
 </tbody></table>

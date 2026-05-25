@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">458 papers</span>
+  <span class="paper-count">457 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23346.html">Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Jaihoon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23346">2605.23346</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21042.html">Dynamic Video Generation: Shaping Video Generation Across Time and Space</a></div></td>
@@ -2750,17 +2756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24301.html">Category-aware EEG image generation based on wavelet transform and contrast semantic loss</a></div></td>
 <td>Enshang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24301">2505.24301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04532.html">BrainMRDiff: A Diffusion Model for Anatomically Consistent Brain MRI Synthesis</a></div></td>
-<td>Moinak Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2504.04532">2504.04532</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23283.html">RSFAKE-1M: A Large-Scale Dataset for Detecting Diffusion-Generated Remote Sensing Forgeries</a></div></td>
-<td>Zhihong Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23283">2505.23283</a></td>
 </tr>
 </tbody></table>

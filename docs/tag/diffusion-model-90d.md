@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23346.html">Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Jaihoon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23346">2605.23346</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21042.html">Dynamic Video Generation: Shaping Video Generation Across Time and Space</a></div></td>
@@ -848,23 +854,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21345.html">RelA-Diffusion: Relativistic Adversarial Diffusion for Multi-Tracer PET Synthesis from Multi-Sequence MRI</a></div></td>
 <td>Minhui Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21345">2602.21345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08011.html">Training-Free Safe Denoisers for Safe Use of Diffusion Models</a></div></td>
-<td>Mingyu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2502.08011">2502.08011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15796.html">Monte Carlo Tree Diffusion with Multiple Experts for Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Xuefeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15796">2509.15796</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20209.html">Regressor-guided Diffusion Model for De Novo Peptide Sequencing with Explicit Mass Control</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Shaorong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20209">2602.20209</a></td>
 </tr>
 </tbody></table>

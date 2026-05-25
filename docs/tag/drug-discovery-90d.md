@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,47 +884,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24192.html">SeedProteo: Accurate De Novo All-Atom Design of Protein Binders</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Wei Qu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.24192">2512.24192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06199.html">Benchmarking Pretrained Molecular Embedding Models For Molecular Representation Learning</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Mateusz Praski et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06199">2508.06199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15796.html">Monte Carlo Tree Diffusion with Multiple Experts for Protein Design</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Xuefeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15796">2509.15796</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16947.html">Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Chuqin Geng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16947">2602.16947</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19411.html">MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Ilyes Batatia et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19411">2602.19411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20209.html">Regressor-guided Diffusion Model for De Novo Peptide Sequencing with Explicit Mass Control</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Shaorong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20209">2602.20209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20210.html">Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Kiyoung Seong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20210">2602.20210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22236.html">CrossLLM-Mamba: Multimodal State Space Fusion of LLMs for RNA Interaction Prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Rabeya Tus Sadia et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22236">2602.22236</a></td>
 </tr>
 </tbody></table>

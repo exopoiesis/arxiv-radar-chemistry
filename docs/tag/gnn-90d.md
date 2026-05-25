@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23673.html">Relevant Walk Search for Explaining Graph Neural Networks</a></div></td>
+<td>Ping Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23673">2605.23673</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22367.html">Benchmarking machine-learned interatomic potentials for molecular infrared spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Nitik Bhatia et al.</td>
@@ -80,6 +86,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16230.html">Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Abhijatmedhi Chotrattanapituk et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16230">2605.16230</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22845.html">Cross-attention-based bipartite graph neural network for coupled nodal and elemental field prediction in large-deformation sheet material forming</a></div></td>
+<td>Yingxue Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22845">2605.22845</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -626,17 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21092.html">Probing Graph Neural Network Activation Patterns Through Graph Topology</a></div></td>
 <td>Floriano Tori et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21092">2602.21092</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17762.html">Can You Hear Me Now? A Benchmark for Long-Range Graph Propagation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Luca Miglior et al.</td>
-<td><a href="http://arxiv.org/abs/2512.17762">2512.17762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16947.html">Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Chuqin Geng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16947">2602.16947</a></td>
 </tr>
 </tbody></table>

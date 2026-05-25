@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,11 +464,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21533.html">Reasoning-Driven Design of Single Atom Catalysts via a Multi-Agent Large Language Model Framework</a></div><div class="paper-tags"><a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
 <td>Dong Hyeon Mok et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21533">2602.21533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19932.html">Automated structure discovery for Tip Enhanced Raman Spectroscopy</a></div></td>
-<td>Harshit Sethi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19932">2602.19932</a></td>
 </tr>
 </tbody></table>

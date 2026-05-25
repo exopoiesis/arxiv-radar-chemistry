@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">251 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1514,11 +1514,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00511.html">Topological phase control in Mn1-xGexBi2Te4 via spin-orbit coupling and magnetic configuration engineering</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>A. M. Shikin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00511">2506.00511</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23909.html">Fully Generalized Spin Models with Strain Effects of Kitaev Spin Liquid Candidate Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Pureum Noh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23909">2505.23909</a></td>
 </tr>
 </tbody></table>

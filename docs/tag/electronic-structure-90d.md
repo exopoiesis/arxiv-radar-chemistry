@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,23 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22390.html">A Reduced Order Model approach for First-Principles Molecular Dynamics Computations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Siu Wun Cheung et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22390">2602.22390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11105.html">Optical conductivity of layered topological semimetal TaNiTe$_5$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Jakov Budić et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11105">2511.11105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20778.html">Machine Learning Modeling of Temperature-Dependent Optoelectronic Properties of Anharmonic Solid Solutions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Pol Benítez et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20778">2602.20778</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21299.html">Ab Initio Random Matrix Theory of Molecular Electronic Structure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Zhen Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21299">2602.21299</a></td>
 </tr>
 </tbody></table>

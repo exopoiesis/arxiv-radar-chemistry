@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">583 papers</span>
+  <span class="paper-count">578 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3482,35 +3482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13667.html">Exploring Multi-Modal Data with Tool-Augmented LLM Agents for Precise Causal Discovery</a></div></td>
 <td>ChengAo Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2412.13667">2412.13667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14106.html">Advancing Molecular Graph-Text Pre-training via Fine-grained Alignment</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Yibo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14106">2409.14106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24203.html">Aligning Protein Conformation Ensemble Generation with Physical Feedback</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Jiarui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24203">2505.24203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00198.html">MOFGPT: Generative Design of Metal-Organic Frameworks using Language Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mof-360d.html">mof</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Srivathsan Badrinarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00198">2506.00198</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00223.html">Enhancing Drug Discovery: Autoencoder-Based Latent Space Augmentation for Improved Molecular Solubility Prediction using LatMixSol</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Mohammad Saleh Hasankhani</td>
-<td><a href="http://arxiv.org/abs/2506.00223">2506.00223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00297.html">Improving Protein Sequence Design through Designability Preference Optimization</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Fanglei Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00297">2506.00297</a></td>
 </tr>
 </tbody></table>

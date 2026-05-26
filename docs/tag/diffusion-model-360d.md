@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">457 papers</span>
+  <span class="paper-count">455 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2744,17 +2744,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01121.html">Neuro-Symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Jacob K. Christopher et al.</td>
 <td><a href="http://arxiv.org/abs/2506.01121">2506.01121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24203.html">Aligning Protein Conformation Ensemble Generation with Physical Feedback</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Jiarui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24203">2505.24203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24301.html">Category-aware EEG image generation based on wavelet transform and contrast semantic loss</a></div></td>
-<td>Enshang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24301">2505.24301</a></td>
 </tr>
 </tbody></table>

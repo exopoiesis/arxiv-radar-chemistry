@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,35 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23028.html">Tracking the Lithiation State of Li$_x$Si from Machine-Learned XPS Binding Energies</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Michael Alejandro Hernandez Bertran et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23028">2602.23028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12673.html">Imprint of $α$-Clustering on Ab Initio Correlations in Relativistic Light Ion Collisions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Hadi Mehrabpour</td>
-<td><a href="http://arxiv.org/abs/2506.12673">2506.12673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00346.html">Entropy-driven physical amplification in multivalent biosensing</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Xiuyang Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00346">2508.00346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16679.html">Ab Initio Auxiliary-Field Quantum Monte Carlo in the Thermodynamic Limit</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Jinghong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16679">2602.16679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20725.html">Bridging Physically Based Rendering and Diffusion Models with Stochastic Differential Equation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Junwei Shu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20725">2602.20725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21111.html">Density Functional Theory Predictions of Derivative Thermodynamic Properties of a Confined Fluid</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Gennady Y. Gor et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21111">2602.21111</a></td>
 </tr>
 </tbody></table>

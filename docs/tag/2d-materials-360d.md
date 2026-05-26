@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">590 papers</span>
+  <span class="paper-count">587 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3536,23 +3536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00609.html">TPHE-Graphene: A First-Principles Study of a New 2D Carbon Allotrope for Hydrogen Storage</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>José A. S. Laranjeira et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00609">2506.00609</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13795.html">Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Zheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13795">2505.13795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24152.html">The understanding of the penetration and clusterization of 1-alkanol in bilayer membrane: An open outlook based on atomistic molecular dynamics simulation</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Anirban Polley</td>
-<td><a href="http://arxiv.org/abs/2505.24152">2505.24152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24644.html">Structural Stability of Sulfur Depleted MoS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Ygor M. Jaques et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24644">2505.24644</a></td>
 </tr>
 </tbody></table>

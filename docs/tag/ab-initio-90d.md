@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">453 papers</span>
+  <span class="paper-count">441 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2660,77 +2660,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22390.html">A Reduced Order Model approach for First-Principles Molecular Dynamics Computations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Siu Wun Cheung et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22390">2602.22390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15541.html">A general recursion for integrals involving products of Hermite polynomials and its applications</a></div></td>
-<td>Tran Duong Anh-Tai et al.</td>
-<td><a href="http://arxiv.org/abs/2411.15541">2411.15541</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19501.html">First-Principles Evidence for Strongly Correlated Superconductivity Driven by Structural Variations in La$_3$Ni$_2$O$_7$</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Daan Verraes et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19501">2502.19501</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12673.html">Imprint of $α$-Clustering on Ab Initio Correlations in Relativistic Light Ion Collisions</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Hadi Mehrabpour</td>
-<td><a href="http://arxiv.org/abs/2506.12673">2506.12673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21581.html">Electronic localization and optical activity of strain-engineered transition-metal dichalcogenide nanobubbles</a></div></td>
-<td>Stefan Velja et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21581">2507.21581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06120.html">Preferential Positron Acceleration in Relativistic Magnetized Electron-Positron-Ion Shocks</a></div></td>
-<td>Shori Arai et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06120">2508.06120</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00556.html">Excitons and Optical Response in Excitonic Insulator Candidate TiSe$_2$</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Dino Novko</td>
-<td><a href="http://arxiv.org/abs/2510.00556">2510.00556</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11105.html">Optical conductivity of layered topological semimetal TaNiTe$_5$</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jakov Budić et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11105">2511.11105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.15072.html">Regularity Priors for the Linear Atomic Cluster Expansion</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>James P. Darby et al.</td>
-<td><a href="http://arxiv.org/abs/2601.15072">2601.15072</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16679.html">Ab Initio Auxiliary-Field Quantum Monte Carlo in the Thermodynamic Limit</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Jinghong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16679">2602.16679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20621.html">Combining Quasiparticle Self-Consistent $GW$ and Machine-Learned DFT+$U$ in Search of Half-Metallic Heuslers</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Zefeng Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20621">2602.20621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20778.html">Machine Learning Modeling of Temperature-Dependent Optoelectronic Properties of Anharmonic Solid Solutions</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Pol Benítez et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20778">2602.20778</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21299.html">Ab Initio Random Matrix Theory of Molecular Electronic Structure</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Zhen Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21299">2602.21299</a></td>
 </tr>
 </tbody></table>

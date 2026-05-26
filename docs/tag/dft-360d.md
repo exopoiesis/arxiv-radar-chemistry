@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2120 papers</span>
+  <span class="paper-count">2115 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12704,35 +12704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00609.html">TPHE-Graphene: A First-Principles Study of a New 2D Carbon Allotrope for Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>José A. S. Laranjeira et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00609">2506.00609</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13795.html">Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Zheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13795">2505.13795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24439.html">Magnetic Circular Dichroism at the Oxygen K edge in Microcrystals of Spinels Grown on Ru(0001)</a></div></td>
-<td>A. Mandziak et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24439">2505.24439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24547.html">Accelerated ultrafast demagnetization of an interlayer-exchange-coupled Co/Mn/Co trilayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Jendrik Gördes et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24547">2505.24547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24747.html">First principles computations of the Stark shift of a defect-bound exciton: the case of the T center in silicon</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Louis Alaerts et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24747">2505.24747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00198.html">MOFGPT: Generative Design of Metal-Organic Frameworks using Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mof-360d.html">mof</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Srivathsan Badrinarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00198">2506.00198</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05503.html">MolFORM: Preference-Aligned Multimodal Flow Matching for Structure-Based Drug Design</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Daiheng Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05503">2507.05503</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12033.html">EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation</a></div></td>
-<td>Jiahe Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12033">2511.12033</a></td>
 </tr>
 </tbody></table>

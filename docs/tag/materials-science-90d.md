@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,23 +602,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09584.html">Agentic Exploration of PDE Spaces using Latent Foundation Models for Parameterized Simulations</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Abhijeet Vishwasrao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09584">2604.09584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00944.html">Training speedups via batching for geometric learning: an analysis of static and dynamic algorithms</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Daniel T. Speckhard et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00944">2502.00944</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20725.html">Bridging Physically Based Rendering and Diffusion Models with Stochastic Differential Equation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Junwei Shu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20725">2602.20725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20959.html">Determining Atomic Structure from Spectroscopy via an Active Learning Framework</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Ian Slagle et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20959">2602.20959</a></td>
 </tr>
 </tbody></table>

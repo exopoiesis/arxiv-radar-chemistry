@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">303 papers</span>
+  <span class="paper-count">300 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1814,23 +1814,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05088.html">Effect of particle and substrate wettability on evaporation-driven assembly of colloidal monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Qingguang Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2501.05088">2501.05088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14106.html">Advancing Molecular Graph-Text Pre-training via Fine-grained Alignment</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Yibo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14106">2409.14106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16704.html">Challenges in the Theory and Atomistic Simulation of Metal Electrodeposition</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Shayantan Chaudhuri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16704">2409.16704</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24644.html">Structural Stability of Sulfur Depleted MoS2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Ygor M. Jaques et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24644">2505.24644</a></td>
 </tr>
 </tbody></table>

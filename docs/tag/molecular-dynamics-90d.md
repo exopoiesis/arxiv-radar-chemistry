@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">462 papers</span>
+  <span class="paper-count">455 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2744,47 +2744,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22460.html">Mimicking the earth core conditions with ultrafast laser materials interaction</a></div></td>
 <td>Mohamed Yaseen Noor et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22460">2602.22460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19501.html">First-Principles Evidence for Strongly Correlated Superconductivity Driven by Structural Variations in La$_3$Ni$_2$O$_7$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Daan Verraes et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19501">2502.19501</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17432.html">Probing in-medium effect via giant dipole resonance in the extended quantum molecular dynamics model</a></div></td>
-<td>Chen-Zhong Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17432">2508.17432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.15072.html">Regularity Priors for the Linear Atomic Cluster Expansion</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>James P. Darby et al.</td>
-<td><a href="http://arxiv.org/abs/2601.15072">2601.15072</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20716.html">The Kovacs memory effect in a thin granular layer: experimental evidence and its physical origin</a></div></td>
-<td>Francisco Vega Reyes et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20716">2602.20716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21006.html">Lost in Projection? Gaussian Filtering Recovers Hidden Conformational States</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Sofia Sartore et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21006">2602.21006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21367.html">Chapman-Enskog expansion for chirally colliding disks</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Ruben Lier et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21367">2602.21367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21419.html">Electrostatic Gating of Ionic Conductance Through Heterogeneous van der Waals Nanopores</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Aaron H. Barajas-Aguilar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21419">2602.21419</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1617 papers</span>
+  <span class="paper-count">1610 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9674,47 +9674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00604.html">Potassium Decoration on Graphenyldiene Monolayer for Advanced Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jose A. S. Laranjeira et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00604">2506.00604</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13795.html">Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Zheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13795">2505.13795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24272.html">$g$ Factor of Boron-like Tin</a></div></td>
-<td>J. Morgner et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24272">2505.24272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24286.html">Testing inter-electronic interaction in lithium-like tin</a></div></td>
-<td>Jonathan Morgner et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24286">2505.24286</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24359.html">Revisiting the Topological Nature of TaIrTe4, SrSi2, and Cu2XY3: An ab-initio Investigation</a></div></td>
-<td>Prakash Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24359">2505.24359</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24547.html">Accelerated ultrafast demagnetization of an interlayer-exchange-coupled Co/Mn/Co trilayer</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Jendrik Gördes et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24547">2505.24547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24644.html">Structural Stability of Sulfur Depleted MoS2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Ygor M. Jaques et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24644">2505.24644</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24747.html">First principles computations of the Stark shift of a defect-bound exciton: the case of the T center in silicon</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Louis Alaerts et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24747">2505.24747</a></td>
 </tr>
 </tbody></table>

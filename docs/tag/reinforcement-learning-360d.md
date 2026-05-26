@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,17 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03672.html">Latent Guided Sampling for Combinatorial Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Sobihan Surendran et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03672">2506.03672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12929.html">Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options</a></div></td>
-<td>Lakshmi Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12929">2502.12929</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00198.html">MOFGPT: Generative Design of Metal-Organic Frameworks using Language Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Srivathsan Badrinarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00198">2506.00198</a></td>
 </tr>
 </tbody></table>

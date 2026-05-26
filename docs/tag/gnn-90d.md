@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,29 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22086.html">MBD-ML: Many-body dispersion from machine learning for molecules and materials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Evgeny Moerman et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22086">2602.22086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00944.html">Training speedups via batching for geometric learning: an analysis of static and dynamic algorithms</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Daniel T. Speckhard et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00944">2502.00944</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10997.html">Data-driven Prediction of Ionic Conductivity in Solid-State Electrolytes with Machine Learning and Large Language Models</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Haewon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2601.10997">2601.10997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20959.html">Determining Atomic Structure from Spectroscopy via an Active Learning Framework</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Ian Slagle et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20959">2602.20959</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21092.html">Probing Graph Neural Network Activation Patterns Through Graph Topology</a></div></td>
-<td>Floriano Tori et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21092">2602.21092</a></td>
 </tr>
 </tbody></table>

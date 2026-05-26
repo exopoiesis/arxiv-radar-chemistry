@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">607 papers</span>
+  <span class="paper-count">597 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3596,65 +3596,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22390.html">A Reduced Order Model approach for First-Principles Molecular Dynamics Computations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Siu Wun Cheung et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22390">2602.22390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00407.html">Augmenting Molecular Graphs with Geometries via Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Cong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00407">2507.00407</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07329.html">Two-dimensional RMSD projections for reaction path visualization and validation</a></div></td>
-<td>Rohit Goswami</td>
-<td><a href="http://arxiv.org/abs/2512.07329">2512.07329</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07193.html">Full symmetry-breaking of electronic and nuclear dynamics for low attosecond resolution of electronic chirality</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Tianlv Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07193">2601.07193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20621.html">Combining Quasiparticle Self-Consistent $GW$ and Machine-Learned DFT+$U$ in Search of Half-Metallic Heuslers</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Zefeng Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20621">2602.20621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20907.html">Collective Phonon Mixing and Eigenvector Transport Under Isotope Substitution</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Jeff Armstrong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20907">2602.20907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20940.html">Ferromagnetism above 200 K in organic-ion intercalated CrSBr</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Sofia Ferreira-Teixeira et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20940">2602.20940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20982.html">Zandpack: A General Tool for Time-dependent Transport Simulation of Nanoelectronics</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Aleksander Bach Lorentzen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20982">2602.20982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21111.html">Density Functional Theory Predictions of Derivative Thermodynamic Properties of a Confined Fluid</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Gennady Y. Gor et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21111">2602.21111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21299.html">Ab Initio Random Matrix Theory of Molecular Electronic Structure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Zhen Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21299">2602.21299</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21438.html">Rotational Phonons Drive Low-Energy Kinks in Cuprate Superconductors</a></div></td>
-<td>Yanyong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21438">2602.21438</a></td>
 </tr>
 </tbody></table>

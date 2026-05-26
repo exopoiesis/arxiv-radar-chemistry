@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">266 papers</span>
+  <span class="paper-count">263 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1592,23 +1592,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01559.html">hqQUBO: A Hybrid-querying Quantum Optimization Model Validated with 16-qubits on an Ion Trap Quantum Computer for Life Science Applications</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Rong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.01559">2506.01559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24203.html">Aligning Protein Conformation Ensemble Generation with Physical Feedback</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Jiarui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24203">2505.24203</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24426.html">P: A Universal Measure of Predictive Intelligence</a></div></td>
-<td>David Gamez</td>
-<td><a href="http://arxiv.org/abs/2505.24426">2505.24426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00297.html">Improving Protein Sequence Design through Designability Preference Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Fanglei Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00297">2506.00297</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,23 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22122.html">Probing the Geometry of Diffusion Models with the String Method</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="string-method-90d.html">string-method</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Elio Moreau et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22122">2602.22122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19430.html">TherA: Thermal-Aware Visual-Language Prompting for Controllable RGB-to-Thermal Infrared Translation</a></div></td>
-<td>Dong-Guw Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19430">2602.19430</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20725.html">Bridging Physically Based Rendering and Diffusion Models with Stochastic Differential Equation</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Junwei Shu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20725">2602.20725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21345.html">RelA-Diffusion: Relativistic Adversarial Diffusion for Multi-Tracer PET Synthesis from Multi-Sequence MRI</a></div></td>
-<td>Minhui Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21345">2602.21345</a></td>
 </tr>
 </tbody></table>

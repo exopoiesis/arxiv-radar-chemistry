@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03481.html">PoolPy: Automated combinatorial pooling for high-throughput molecular profiling</a></div></td>
 <td>Lorenzo Talamanca et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03481">2509.03481</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00346.html">Entropy-driven physical amplification in multivalent biosensing</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Xiuyang Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00346">2508.00346</a></td>
 </tr>
 </tbody></table>

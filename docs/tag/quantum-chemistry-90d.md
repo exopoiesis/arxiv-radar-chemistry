@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,17 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03556.html">Quantum error mitigation using energy sampling and extrapolation enhanced Clifford data regression</a></div></td>
 <td>Zhongqi Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03556">2511.03556</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07193.html">Full symmetry-breaking of electronic and nuclear dynamics for low attosecond resolution of electronic chirality</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Tianlv Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07193">2601.07193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18637.html">Universality of Many-body Projected Ensemble for Learning Quantum Data Distribution</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Quoc Hoan Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18637">2601.18637</a></td>
 </tr>
 </tbody></table>

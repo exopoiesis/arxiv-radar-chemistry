@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -686,23 +686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14843.html">Ground and low-lying excited state potential energy surfaces of diiodomethane in four dimensions</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yijue Ding</td>
 <td><a href="http://arxiv.org/abs/2508.14843">2508.14843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.15072.html">Regularity Priors for the Linear Atomic Cluster Expansion</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>James P. Darby et al.</td>
-<td><a href="http://arxiv.org/abs/2601.15072">2601.15072</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20907.html">Collective Phonon Mixing and Eigenvector Transport Under Isotope Substitution</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Jeff Armstrong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20907">2602.20907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21006.html">Lost in Projection? Gaussian Filtering Recovers Hidden Conformational States</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Sofia Sartore et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21006">2602.21006</a></td>
 </tr>
 </tbody></table>

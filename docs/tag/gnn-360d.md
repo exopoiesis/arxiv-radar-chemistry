@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">404 papers</span>
+  <span class="paper-count">403 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2432,11 +2432,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00936.html">Uncertainty-Aware Metabolic Stability Prediction with Dual-View Contrastive Learning</a></div></td>
 <td>Peijin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00936">2506.00936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12156.html">FragNet: A Graph Neural Network for Molecular Property Prediction with Four Levels of Interpretability</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Gihan Panapitiya et al.</td>
-<td><a href="http://arxiv.org/abs/2410.12156">2410.12156</a></td>
 </tr>
 </tbody></table>

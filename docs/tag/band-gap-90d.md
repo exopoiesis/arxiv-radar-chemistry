@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23441.html">Band Renormalization in Metal-Organic Framework/Au(111) Epitaxial Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="mof-90d.html">mof</a></div></td>
 <td>Xiaoqing Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23441">2602.23441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21812.html">ML-guided screening of chalcogenide perovskites as solar energy materials</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Diego A. Garzón et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21812">2602.21812</a></td>
 </tr>
 </tbody></table>

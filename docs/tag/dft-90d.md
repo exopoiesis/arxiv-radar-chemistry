@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">597 papers</span>
+  <span class="paper-count">587 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3536,65 +3536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23493.html">Defect-Engineered h-BN as a Platform for Single-Atom HER Catalysts: Descriptor Screening Refined by Electrochemical Stability Analysis</a></div></td>
 <td>Ana S. Dobrota et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23493">2602.23493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19205.html">First principles band structure of interacting phosphorus and boron/aluminum $δ$-doped layers in silicon</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Quinn T. Campbell et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19205">2509.19205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02544.html">Active-Learning Inspired $\textit{Ab Initio}$ Theory-Experiment Loop Approach for Management of Material Defects: Application to Superconducting Qubits</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Sarvesh Chaudhari et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02544">2510.02544</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04458.html">General spin models from noncollinear spin density functional theory and spin-cluster expansion</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Tomonori Tanaka et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04458">2512.04458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21455.html">Designing heterostructures to control oxygen stoichiometry in helimagnetic perovskite strontium ferrite</a></div></td>
-<td>Jennifer Fowlie et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21455">2602.21455</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21695.html">Combining matrix product states and mean-field theory to capture magnetic order in quasi-1D cuprates</a></div></td>
-<td>Quentin Staelens et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21695">2602.21695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21986.html">Quantum Resistance in Multilayer Graphene-BiFeO3 Memristor for Brain-Inspired Computing</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Suman Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21986">2602.21986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22086.html">MBD-ML: Many-body dispersion from machine learning for molecules and materials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Evgeny Moerman et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22086">2602.22086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22156.html">High-Pressure X-Ray Diffraction Study of Scheelite-type Perrhenates</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Neha Bura et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22156">2602.22156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22169.html">High-pressure single-crystal X-ray diffraction study of ErVO4</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Josu Sanchez-Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22169">2602.22169</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22390.html">A Reduced Order Model approach for First-Principles Molecular Dynamics Computations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Siu Wun Cheung et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22390">2602.22390</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">266 papers</span>
+  <span class="paper-count">265 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1604,11 +1604,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02795.html">Optimization of Robotic Liquid Handling as a Capacitated Vehicle Routing Problem</a></div></td>
 <td>Guangqi Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02795">2506.02795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11568.html">Probing the Limit of Heat Transfer in Inorganic Crystals with Deep Learning</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jielan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11568">2503.11568</a></td>
 </tr>
 </tbody></table>

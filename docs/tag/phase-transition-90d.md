@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,23 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23756.html">Modeling of polymer phase transition from crystalline to conformationally disordered phase</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>V. V. Atrazhev et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23756">2602.23756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22156.html">High-Pressure X-Ray Diffraction Study of Scheelite-type Perrhenates</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Neha Bura et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22156">2602.22156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22169.html">High-pressure single-crystal X-ray diffraction study of ErVO4</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Josu Sanchez-Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22169">2602.22169</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22440.html">An Information-theoretic Collective Variable for Configurational Entropy</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ashley Z. Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22440">2602.22440</a></td>
 </tr>
 </tbody></table>

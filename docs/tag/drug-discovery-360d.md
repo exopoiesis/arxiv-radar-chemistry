@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">578 papers</span>
+  <span class="paper-count">577 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3476,11 +3476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02051.html">Phenotypic Profile-Informed Generation of Drug-Like Molecules via Dual-Channel Variational Autoencoders</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Hui Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02051">2506.02051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13667.html">Exploring Multi-Modal Data with Tool-Augmented LLM Agents for Precise Causal Discovery</a></div></td>
-<td>ChengAo Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13667">2412.13667</a></td>
 </tr>
 </tbody></table>

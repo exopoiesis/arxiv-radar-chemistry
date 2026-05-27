@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>gnn — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21610.html">AgForce Enables Antigen-conditioned Generative Antibody Design</a></div></td>
 <td>Mansoor Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21610">2605.21610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19405.html">A complete discussion on fully reconfigurable, digital, scalable, graph and sparsity-aware near-memory accelerator for graph neural networks</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
-<td>Siddhartha Raman Sundara Raman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19405">2605.19405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19579.html">TACK: A statistical evaluation of degradation activity on a novel TArgeting Chimeras Knowledge dataset</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Stefano Ribes et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19579">2605.19579</a></td>
 </tr>
 </tbody></table>

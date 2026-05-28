@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24428.html">Representation-Guided Discrete Molecular Graph Retrosynthesis</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
+<td>Jiahai Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24428">2605.24428</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22287.html">SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
 <td>Yuxuan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22287">2605.22287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21420.html">HiRes: Inspectable Precedent Memory for Reaction Condition Recommendation</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
-<td>Shreyas Vinaya Sathyanarayana et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21420">2605.21420</a></td>
 </tr>
 </tbody></table>

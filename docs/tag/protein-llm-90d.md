@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.16581">2605.16581</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27413.html">Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Chen Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27413">2605.27413</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14812.html">MetaGEM: Bottom-Up Reconstruction of Genome-Scale Metabolic Networks via Deep Enzyme-Metabolite Anchoring</a></div></td>
 <td>Weiyu Xiao et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00193.html">Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology</a></div></td>
 <td>Ekaterina Redekop et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00193">2603.00193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04724.html">Understanding protein function with a multimodal retrieval-augmented foundation model</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Timothy Fei Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04724">2508.04724</a></td>
 </tr>
 </tbody></table>

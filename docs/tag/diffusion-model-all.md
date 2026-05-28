@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-model — all</h1>
-  <span class="paper-count">756 papers</span>
+  <span class="paper-count">760 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
+<td>Corentin Guigot et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26850.html">Learning Energy-Based Models from Stochastic Interpolants using Spatiotemporal Differences</a></div></td>
+<td>Hanlin Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26850">2605.26850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25681.html">Don&#x27;t Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models</a></div></td>
+<td>Qingyuan Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25681">2605.25681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Alon Shtrikman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23346.html">Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>

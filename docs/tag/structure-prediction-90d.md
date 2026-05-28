@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04490.html">Large Language Models in Bioinformatics: A Survey</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a></div></td>
 <td>Zhenyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2503.04490">2503.04490</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04724.html">Understanding protein function with a multimodal retrieval-augmented foundation model</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Timothy Fei Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04724">2508.04724</a></td>
 </tr>
 </tbody></table>

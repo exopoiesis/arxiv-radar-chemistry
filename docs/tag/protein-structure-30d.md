@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-structure — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <strong>30d</strong> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26690.html">Self-Improvement Imitation with Biologically Guided Search for Protein Design Under Oracle Budgets</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Ashima Khanna et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26690">2605.26690</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Alon Shtrikman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
@@ -34,6 +46,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.18552">2605.18552</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27413.html">Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
+<td>Chen Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27413">2605.27413</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Kaiwen Shi et al.</td>
@@ -44,6 +62,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11347.html">Gradient-Free Noise Optimization for Reward Alignment in Generative Models</a></div></td>
 <td>Jeongsol Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11347">2605.11347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23961.html">Multimodal Alignment and Preference Optimization for Zero-Shot Conditional RNA Generation</a></div></td>
+<td>Roman Klypa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23961">2605.23961</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>

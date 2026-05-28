@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.16581">2605.16581</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27413.html">Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Chen Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27413">2605.27413</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14812.html">MetaGEM: Bottom-Up Reconstruction of Genome-Scale Metabolic Networks via Deep Enzyme-Metabolite Anchoring</a></div></td>
 <td>Weiyu Xiao et al.</td>
@@ -716,11 +722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03800.html">STELLA: Towards Protein Function Prediction with Multimodal LLMs Integrating Sequence-Structure Representations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-function-360d.html">protein-function</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Hongwang Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03800">2506.03800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00925.html">ProtInvTree: Deliberate Protein Inverse Folding with Reward-guided Tree Search</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Mengdi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00925">2506.00925</a></td>
 </tr>
 </tbody></table>

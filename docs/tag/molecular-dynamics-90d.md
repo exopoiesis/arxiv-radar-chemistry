@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">448 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,154 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27060.html">Molecular Dynamics Study of Defect Evolution Mechanisms in 3C-SiC for Quantum Technologies</a></div></td>
+<td>Irslan Ullah Ashraf et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27060">2605.27060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28798.html">How reproducible are first-principles simulations of liquid water?</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Niamh ONeill et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28798">2605.28798</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26529.html">Anharmonic Quantum Transport Analysis of Thermal Transport Anomalies in Ultrathin Silicon Nanowires</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Lokanath Patra et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26529">2605.26529</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26716.html">Chirality-Driven Hierarchical Morphologies in Self-Assembled Biaxial Amphiphiles</a></div></td>
+<td>Sayantan Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26716">2605.26716</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26897.html">Active learning of collinear magnetic Moment Tensor Potentials using the spin-MLIP package from soft-constrained spin-polarized DFT calculations: a case study of Fe-Pd</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Arseniy Burov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26897">2605.26897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27019.html">Kinetic Superselectivity in Multivalent Binding</a></div></td>
+<td>Vid Ravnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27019">2605.27019</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27218.html">Amorphous vs. Short-Range-Ordered Complexions: Consequences for Grain-Boundary-Mediated Plasticity in Nanocrystalline Al-Ni Alloys</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Frederic Sansoz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27218">2605.27218</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div></td>
+<td>Simon Gonzalez-Zapata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25361.html">An Efficient On-the-Fly Nonadiabatic Coupling Framework</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Xiaoke He et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25361">2605.25361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25465.html">AI-Driven SERS for Non-invasive and Label-Free Extracellular Vesicle Detection Across Cellular Origins in Tears and Sweat</a></div></td>
+<td>Yang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25465">2605.25465</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25485.html">Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study</a></div></td>
+<td>Po-Yen Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25485">2605.25485</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25702.html">Terahertz-induced local-field dynamics and transient birefringence in aqueous electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Naveen Kumar Kaliannan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25702">2605.25702</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25714.html">Chain conformations in adsorbed layer during polymer capillary imbibition</a></div></td>
+<td>Tao Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25714">2605.25714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25926.html">Freezing of the tetrahedral amorphous network in supercooled water triggers crystallization towards LDA ice</a></div></td>
+<td>Ashutosh Srivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25926">2605.25926</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25989.html">Beyond Gaussian Statistics in Polymer Melts: Statistical Masking of Persistent Local Constraints</a></div></td>
+<td>José A. Martins</td>
+<td><a href="http://arxiv.org/abs/2605.25989">2605.25989</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26280.html">CNN-Based Online Trigger for QGP Event Selection</a></div></td>
+<td>Olga Soloveva et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26280">2605.26280</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26364.html">Finite Temperature Stacking Fault Stability in Random and Locally Ordered CoCrNi beyond the Harmonic Approximation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Reza Namakian et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26364">2605.26364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24880.html">Machine-learned atomistic simulations reveal the basis of hydrogen-induced crack-plane transition in alpha-Fe</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Jiaqin Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24880">2605.24880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25032.html">Target-Distribution-Guided Cross-Functional Fine-Tuning of Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Yuki Nagai et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25032">2605.25032</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24676.html">A unified classification-quantification framework for bubble-like nuclei within the extended quantum molecular dynamics model</a></div></td>
+<td>Ge Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24676">2605.24676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24757.html">Proton-electron coupled catalyst for ionomer-free electrochemical energy conversion</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
+<td>Ao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24757">2605.24757</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23360.html">A Metadynamics-Based Framework for Free Energy Surface Mapping of Multiparticle Diffusion in Crystals</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Shunya Yamada et al.</td>
 <td><a href="http://arxiv.org/abs/2605.23360">2605.23360</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24070.html">Convergence and non-asymptotic error analysis for kinetic Langevin samplers using the exact harmonic Langevin integrator</a></div></td>
+<td>Katharina Schuh</td>
+<td><a href="http://arxiv.org/abs/2605.24070">2605.24070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24234.html">The structure of a melt: The case of liquid bismuth</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Flor B. Quiroga et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24234">2605.24234</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24271.html">Streaming Molecular Dynamics Simulation Data for On-the-fly Processing and Analysis</a></div></td>
+<td>Amruthesh Thirumalaiswamy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24271">2605.24271</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-21</td>
@@ -2654,53 +2798,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00315.html">Topology as a Design Variable for Multiproperty Engineering in Synthesized 4-5-6-8 Carbon Nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Djardiel da S. Gomes et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00315">2603.00315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05339.html">Machine Learning Interatomic Potentials Enable Molecular Dynamics Simulations of Doped MoS2</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Abrar Faiyad et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05339">2510.05339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22123.html">Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Winfried Ripken et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22123">2601.22123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Lucas B. T. de Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22931">2602.22931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22989.html">Mechanistic Insights into Li+ Transport Enabled by Isolated Sulfur Species in Li3PS4 Glasses</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>J. Pawelko et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22989">2602.22989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22995.html">Influence of Hydrogen on Dislocation Relaxation in BCC Iron: Atomistic Mechanisms and Implications</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Sanjay Manda et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22995">2602.22995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23028.html">Tracking the Lithiation State of Li$_x$Si from Machine-Learned XPS Binding Energies</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Michael Alejandro Hernandez Bertran et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23028">2602.23028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23106.html">Depth-dependent interplay of dynamical heterogeneity and chain dynamics at the surface of glass-forming polymers</a></div></td>
-<td>Bao T. Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23106">2602.23106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05527.html">Drifting to Boltzmann: Million-Fold Acceleration in Boltzmann Sampling with Force-Guided Drifting</a></div></td>
-<td>Pipi Hu</td>
-<td><a href="http://arxiv.org/abs/2603.05527">2603.05527</a></td>
 </tr>
 </tbody></table>

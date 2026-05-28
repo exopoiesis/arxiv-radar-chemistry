@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
+<td>Corentin Guigot et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26850.html">Learning Energy-Based Models from Stochastic Interpolants using Spatiotemporal Differences</a></div></td>
+<td>Hanlin Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26850">2605.26850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25681.html">Don&#x27;t Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models</a></div></td>
+<td>Qingyuan Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25681">2605.25681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Alon Shtrikman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23346.html">Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -812,17 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24052.html">Solubilization kinetics of oils by ionic and nonionic micelles: theoretical model</a></div></td>
 <td>Alexey Kabalnov</td>
 <td><a href="http://arxiv.org/abs/2602.24052">2602.24052</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09293.html">StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning</a></div></td>
-<td>Giuseppe Vecchio</td>
-<td><a href="http://arxiv.org/abs/2406.09293">2406.09293</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17517.html">The Spacetime of Diffusion Models: An Information Geometry Perspective</a></div></td>
-<td>Rafał Karczewski et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17517">2505.17517</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28425.html">Symmetry-Selective Topological Magnon Engineering by Phonon Angular Momentum</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Markus Weißenhofer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28425">2605.28425</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25710.html">Machine Learning Multiscale Interactions</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Àlex Solé et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25710">2605.25710</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24376.html">Dilute Magnetism and Edge-State Engineering in Monolayer SnO</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Yuya Fukuta et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24376">2605.24376</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23855.html">Phase-dependent electronic structure of two-dimensional Ag layers at the graphene/SiC interface</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Sawani Datta et al.</td>
@@ -872,23 +890,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00315.html">Topology as a Design Variable for Multiproperty Engineering in Synthesized 4-5-6-8 Carbon Nanoribbons</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Djardiel da S. Gomes et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00315">2603.00315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22978.html">Chalcogen Impurity Barriers in 2D Systems via Semi-Empirical/Machine Learning Modeling: A Survey over 4000 Materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>M. L. Pereira Junior et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22978">2602.22978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23138.html">Engineering in-plane anisotropy in 2D materials via surface-bound ligands</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Tomoaki Sakurada et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23138">2602.23138</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23441.html">Band Renormalization in Metal-Organic Framework/Au(111) Epitaxial Heterostructures</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="mof-90d.html">mof</a></div></td>
-<td>Xiaoqing Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23441">2602.23441</a></td>
 </tr>
 </tbody></table>

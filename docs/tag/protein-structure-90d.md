@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26690.html">Self-Improvement Imitation with Biologically Guided Search for Protein Design Under Oracle Budgets</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Ashima Khanna et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26690">2605.26690</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Alon Shtrikman et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
@@ -34,6 +46,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.18552">2605.18552</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27413.html">Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
+<td>Chen Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27413">2605.27413</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Kaiwen Shi et al.</td>
@@ -44,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11347.html">Gradient-Free Noise Optimization for Reward Alignment in Generative Models</a></div></td>
 <td>Jeongsol Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11347">2605.11347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23961.html">Multimodal Alignment and Preference Optimization for Zero-Shot Conditional RNA Generation</a></div></td>
+<td>Roman Klypa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23961">2605.23961</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-11</td>
@@ -392,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11758.html">Protein Structure Tokenization via Geometric Byte Pair Encoding</a></div></td>
 <td>Michael Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11758">2511.11758</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21476.html">Steering Generative Models for Protein Design: Aligning and Conditioning Strategies</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Filippo Stocco et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21476">2511.21476</a></td>
 </tr>
 </tbody></table>

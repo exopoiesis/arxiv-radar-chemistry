@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24857.html">Revisiting spin Hamiltonian parameters in a Kitaev material via Bayesian optimization of magnetization curves</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Takahiro Misawa et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24857">2605.24857</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19494.html">High-Throughput Bayesian Optimization of Cement-Salt Hydrates Composites for Seasonal Thermochemical Energy Storage</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Alessio Mondello et al.</td>
@@ -758,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04308.html">Approximation-Aware Bayesian Optimization</a></div></td>
 <td>Natalie Maus et al.</td>
 <td><a href="http://arxiv.org/abs/2406.04308">2406.04308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00544.html">Best Practices for Multi-Fidelity Bayesian Optimization in Materials and Molecular Research</a></div></td>
-<td>Víctor Sabanza-Gil et al.</td>
-<td><a href="http://arxiv.org/abs/2410.00544">2410.00544</a></td>
 </tr>
 </tbody></table>

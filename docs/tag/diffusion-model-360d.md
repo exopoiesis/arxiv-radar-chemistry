@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">457 papers</span>
+  <span class="paper-count">454 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2738,23 +2738,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23721.html">DiffER: Categorical Diffusion for Chemical Retrosynthesis</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Sean Current et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23721">2505.23721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17780.html">PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Sophia Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.17780">2412.17780</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08598.html">Disentangling Total-Variance and Signal-to-Noise-Ratio Improves Diffusion Models</a></div></td>
-<td>Khaled Kahouli et al.</td>
-<td><a href="http://arxiv.org/abs/2502.08598">2502.08598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02039.html">Dynamic Search for Inference-Time Alignment in Diffusion Models</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Xiner Li et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02039">2503.02039</a></td>
 </tr>
 </tbody></table>

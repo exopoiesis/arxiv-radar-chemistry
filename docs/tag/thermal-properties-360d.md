@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">326 papers</span>
+  <span class="paper-count">323 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1952,23 +1952,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04447.html">Direct Joule-Heated Non-Equilibrium Synthesis Enables High Performing Thermoelectrics</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Chenguang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04447">2506.04447</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05693.html">Photoluminescence-Based Gas Sensing with MoS2 Monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Gia Quyet Ngo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05693">2409.05693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17457.html">Optical Properties and Spin States of Inter-layer Carbon Defect Pairs in Hexagonal Boron Nitride: A First-Principles Study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ignacio Chacon et al.</td>
-<td><a href="http://arxiv.org/abs/2412.17457">2412.17457</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01449.html">Machine Learning-Guided Discovery of Temperature-Induced Solid-Solid Phase Transitions in Inorganic Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Cibrán López et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01449">2506.01449</a></td>
 </tr>
 </tbody></table>

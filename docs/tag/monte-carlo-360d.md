@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">328 papers</span>
+  <span class="paper-count">326 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1970,17 +1970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03352.html">Equation of state of solid parahydrogen using ab initio two-body and three-body interaction potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Alexander Ibrahim et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03352">2506.03352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.17780.html">PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Sophia Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.17780">2412.17780</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01924.html">A Concurrent Multiscale Framework Coupling Direct Simulation Monte Carlo and Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Tim Linke et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01924">2506.01924</a></td>
 </tr>
 </tbody></table>

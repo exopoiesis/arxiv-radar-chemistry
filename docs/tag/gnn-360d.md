@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,17 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17234.html">Graph Neural Networks in Multi-Omics Cancer Research: A Structured Survey</a></div></td>
 <td>Payam Zohari et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17234">2506.17234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15391.html">Modeling crystal defects using defect-informed neural networks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ziduo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15391">2503.15391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01302.html">Recent Developments in GNNs for Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Zhengyu Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01302">2506.01302</a></td>
 </tr>
 </tbody></table>

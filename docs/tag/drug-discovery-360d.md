@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">582 papers</span>
+  <span class="paper-count">580 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3494,17 +3494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03087.html">How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Bin Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03087">2506.03087</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01302.html">Recent Developments in GNNs for Drug Discovery</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Zhengyu Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01302">2506.01302</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01559.html">hqQUBO: A Hybrid-querying Quantum Optimization Model Validated with 16-qubits on an Ion Trap Quantum Computer for Life Science Applications</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Rong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01559">2506.01559</a></td>
 </tr>
 </tbody></table>

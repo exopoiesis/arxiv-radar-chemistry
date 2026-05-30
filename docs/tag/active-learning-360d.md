@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,11 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03910.html">Enhancing Experimental Efficiency in Materials Design: A Comparative Study of Taguchi and Machine Learning Methods</a></div></td>
 <td>Shyam Prabhu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03910">2506.03910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03329.html">Optimization of Functional Materials Design with Optimal Initial Data in Surrogate-Based Active Learning</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Seongmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03329">2506.03329</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,11 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01464.html">ProtRLSearch: A Multi-Round Multimodal Protein Search Agent with Large Language Models Trained via Reinforcement Learning</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a></div></td>
 <td>Congying Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01464">2603.01464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03032.html">Leveraging Discrete Function Decomposability for Scientific Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>James C. Bowden et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03032">2511.03032</a></td>
 </tr>
 </tbody></table>

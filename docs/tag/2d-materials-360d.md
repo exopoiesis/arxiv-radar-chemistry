@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">583 papers</span>
+  <span class="paper-count">580 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3494,23 +3494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09255.html">Angle-resolved photoemission spectroscopy of superconducting (La,Pr)3Ni2O7/SrLaAlO4 heterostructures</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Peng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2501.09255">2501.09255</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05088.html">Effect of particle and substrate wettability on evaporation-driven assembly of colloidal monolayers</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Qingguang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2501.05088">2501.05088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01515.html">Fully characterized linear magnetoelectric response of 2D monolayers from high-throughput first-principles calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>John Mangeri et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01515">2506.01515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02375.html">OLi3-decorated Irida-graphene for High-capacity Hydrogen Storage: A First-principles Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jose A. S. Laranjeira et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02375">2506.02375</a></td>
 </tr>
 </tbody></table>

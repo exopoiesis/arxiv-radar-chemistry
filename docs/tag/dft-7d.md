@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,47 +182,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24768.html">Charge dynamics at nitrogen impurities and nitrogen-vacancy centers in diamond</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
 <td>Chandan Kumar Vishwakarma et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24768">2605.24768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23479.html">Intrinsic Point Defects and Frenkel Pair Formation in Photovoltaic Absorber Zn$_3$P$_2$: Regulating $p$-type Conductivity through Growth and Annealing Conditions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Nico Kawashima et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23479">2605.23479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23558.html">Ambiguity in B-Site cation ordering: A Case study of the double perovskite Ca$_2$CoNbO$_6$</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Svetlana A. Artiukova et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23558">2605.23558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23612.html">First-principles transition-state tensorial cluster expansion of vacancy diffusion in Ta-W beyond the kinetically-resolved activation approximation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Jacob Jeffries et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23612">2605.23612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23789.html">Orientable Surfactants on Thin Liquid Films: A Dynamic Density-Functional Theory Approach</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Toby Kay et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23789">2605.23789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23836.html">Orbital Selective Dirac-like States in EuAgAs Revealed by Polarization Dependent ARPES and DFT</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Mohit Mudgal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23836">2605.23836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23855.html">Phase-dependent electronic structure of two-dimensional Ag layers at the graphene/SiC interface</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Sawani Datta et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23855">2605.23855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24073.html">Multitask learning with semiempirical orbital charges enables sample-efficient MLIPs</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Ihor Neporozhnii et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24073">2605.24073</a></td>
 </tr>
 </tbody></table>

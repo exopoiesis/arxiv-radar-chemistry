@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">436 papers</span>
+  <span class="paper-count">431 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2600,35 +2600,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01311.html">Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Achuth Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01311">2603.01311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20750.html">Elucidating the Inter-system Crossing of the Nitrogen-Vacancy Center up to Megabar Pressures</a></div></td>
-<td>Benchen Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20750">2511.20750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09651.html">A perturbative non-Markovian treatment to low-temperature spin decoherence</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Timothy J. Krogmeier et al.</td>
-<td><a href="http://arxiv.org/abs/2601.09651">2601.09651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00613.html">Excess Electron Localization in Solvated DNA Bases</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Maeve Smyth et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00613">2603.00613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00662.html">General linear correction method for DFT+X energy: application to U-M (M=Al, Ga, In) alloys under high pressure</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>X. L. Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00662">2603.00662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00665.html">Plasmon manipulation by exchange magnetic field in two-dimensional spin-orbit coupled electronic systems: A higher-order relativistic k.p study</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>I. A. Nechaev et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00665">2603.00665</a></td>
 </tr>
 </tbody></table>

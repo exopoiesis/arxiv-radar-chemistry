@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">485 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2912,17 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17829.html">LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Jinho Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.17829">2405.17829</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01073.html">Graph Generative Pre-trained Transformer</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Xiaohui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2501.01073">2501.01073</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00605.html">ABCDEFGH: An Adaptation-Based Convolutional Neural Network-CycleGAN Disease-Courses Evolution Framework Using Generative Models in Health Education</a></div></td>
-<td>Ruiming Min et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00605">2506.00605</a></td>
 </tr>
 </tbody></table>

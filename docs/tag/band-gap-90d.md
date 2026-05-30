@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -752,11 +752,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01021.html">Resonant inelastic x-ray scattering in layered trimer iridate Ba4NbIr3O12: the density functional approach</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>D. A. Kukusta et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01021">2603.01021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00665.html">Plasmon manipulation by exchange magnetic field in two-dimensional spin-orbit coupled electronic systems: A higher-order relativistic k.p study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>I. A. Nechaev et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00665">2603.00665</a></td>
 </tr>
 </tbody></table>

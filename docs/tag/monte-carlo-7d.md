@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>monte-carlo — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,35 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24744.html">Transport-preserving neural ab initio scattering kernels for rarefied binary gas mixtures</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Ehsan Roohi</td>
 <td><a href="http://arxiv.org/abs/2605.24744">2605.24744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23346.html">Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a></div></td>
-<td>Jaihoon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23346">2605.23346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23360.html">A Metadynamics-Based Framework for Free Energy Surface Mapping of Multiparticle Diffusion in Crystals</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="metadynamics-7d.html">metadynamics</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Shunya Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23360">2605.23360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23612.html">First-principles transition-state tensorial cluster expansion of vacancy diffusion in Ta-W beyond the kinetically-resolved activation approximation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Jacob Jeffries et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23612">2605.23612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24234.html">The structure of a melt: The case of liquid bismuth</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Flor B. Quiroga et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24234">2605.24234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24265.html">ChatMOSP: A Chemistry-Grounded Mobile Agent for Working-State Catalyst Simulations</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
-<td>Sanyang Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24265">2605.24265</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2124 papers</span>
+  <span class="paper-count">2119 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12728,35 +12728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09255.html">Angle-resolved photoemission spectroscopy of superconducting (La,Pr)3Ni2O7/SrLaAlO4 heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Peng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2501.09255">2501.09255</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04527.html">A Multi-Scale Quantum Framework for Evaluating Metal-Organic Frameworks in Carbon Capture</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Tom W. A. Montgomery et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04527">2505.04527</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01515.html">Fully characterized linear magnetoelectric response of 2D monolayers from high-throughput first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>John Mangeri et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01515">2506.01515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02352.html">The exchange-correlation dipole moment dispersion method</a></div></td>
-<td>Kyle R Bryenton et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02352">2506.02352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03338.html">Three-body potential energy surface for parahydrogen</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Alexander Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03338">2506.03338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06363.html">ChemGraph: An Agentic Framework for Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Thang D. Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06363">2506.06363</a></td>
 </tr>
 </tbody></table>

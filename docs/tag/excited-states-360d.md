@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">223 papers</span>
+  <span class="paper-count">222 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1346,11 +1346,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03811.html">Delayed photoisomerisation of the trans-PSB3 retinal toy model using on-the-fly quantum dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>María Mallo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03811">2506.03811</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03236.html">Extremely large oblate deformation of the first excited state in $^{12}$C: a new challenge to modern nuclear theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>C. Ngwetsheni et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03236">2506.03236</a></td>
 </tr>
 </tbody></table>

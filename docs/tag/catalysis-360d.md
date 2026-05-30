@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">305 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1844,11 +1844,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04455.html">Interfacial Energy Gradients Drive Coalescence of Supported Nanoparticles</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Cheng-Yu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04455">2506.04455</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05088.html">Effect of particle and substrate wettability on evaporation-driven assembly of colloidal monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Qingguang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2501.05088">2501.05088</a></td>
 </tr>
 </tbody></table>

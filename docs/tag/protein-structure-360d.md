@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">266 papers</span>
+  <span class="paper-count">264 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1598,17 +1598,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21283.html">pLDDT-Predictor: High-speed Protein Screening Using Transformer and ESM2</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Joongwon Chae et al.</td>
 <td><a href="http://arxiv.org/abs/2410.21283">2410.21283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03028.html">Protein Inverse Folding From Structure Feedback</a></div></td>
-<td>Junde Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03028">2506.03028</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03036.html">Subdiffusion from competition between multi-exponential friction memory and energy barriers</a></div></td>
-<td>Anton Klimek et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03036">2506.03036</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30268.html">PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions</a></div></td>
+<td>Omer Benishu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30268">2605.30268</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
 <td>Corentin Guigot et al.</td>
@@ -2726,11 +2732,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05340.html">Exploring Diffusion Transformer Designs via Grafting</a></div></td>
 <td>Keshigeyan Chandrasegaran et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05340">2506.05340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17829.html">LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Jinho Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17829">2405.17829</a></td>
 </tr>
 </tbody></table>

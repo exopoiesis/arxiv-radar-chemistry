@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29555.html">From Blind Guess to Informed Judgment: Teaching LLMs to Evaluate Materials by Building Knowledge-Augmented Preference Signals</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Yeyong Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29555">2605.29555</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29698.html">A Systematic Evaluation of Molecular Mixture Behavior Prediction</a></div></td>
+<td>Roel J. Leenhouts et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29698">2605.29698</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30195.html">What drives performance in molecular MPNNs? An operator-level factorial benchmark</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Panyu Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30195">2605.30195</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26543.html">PolyFusionAgent: A Multimodal Foundation Model and Autonomous AI Assistant for Polymer Property Prediction and Inverse Design</a></div></td>
@@ -422,11 +440,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13303.html">PolyMon: A Unified Framework for Polymer Property Prediction</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Gaopeng Ren et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13303">2603.13303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01274.html">GlassMol: Interpretable Molecular Property Prediction with Concept Bottleneck Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Oscar Rivera et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01274">2603.01274</a></td>
 </tr>
 </tbody></table>

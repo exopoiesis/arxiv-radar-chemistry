@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30248.html">GenClaw: Code-Driven Agentic Image Generation</a></div></td>
+<td>Junyan Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30248">2605.30248</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27853.html">MolLingo: Molecule-Native Representations for LLM-Powered Scientific Agents</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Thao Nguyen et al.</td>
@@ -2906,11 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19619.html">SESaMo: Symmetry-Enforcing Stochastic Modulation for Normalizing Flows</a></div></td>
 <td>Janik Kreit et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19619">2505.19619</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17829.html">LDMol: A Text-to-Molecule Diffusion Model with Structurally Informative Latent Space Surpasses AR Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Jinho Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17829">2405.17829</a></td>
 </tr>
 </tbody></table>

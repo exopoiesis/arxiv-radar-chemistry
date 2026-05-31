@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29821.html">Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Yanmei Zang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29821">2605.29821</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26432.html">Muon-Catalyzed Nuclear Fusion: Physical Mechanism, Bottleneck Breakthroughs, and an Engineering Pathway</a></div></td>
 <td>Xiong Yin et al.</td>
@@ -1838,11 +1844,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09421.html">One-way catalysis in a solvable lattice model</a></div></td>
 <td>Sara Mahdavi et al.</td>
 <td><a href="http://arxiv.org/abs/2409.09421">2409.09421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04455.html">Interfacial Energy Gradients Drive Coalescence of Supported Nanoparticles</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Cheng-Yu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04455">2506.04455</a></td>
 </tr>
 </tbody></table>

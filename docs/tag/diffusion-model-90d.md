@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30268.html">PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions</a></div></td>
+<td>Omer Benishu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30268">2605.30268</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
 <td>Corentin Guigot et al.</td>
@@ -806,11 +812,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00962.html">Distributional Priors Guided Diffusion for Generating 3D Molecules in Low Data Regimes</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Haokai Hong et al.</td>
 <td><a href="http://arxiv.org/abs/2404.00962">2404.00962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02273.html">Graph Attention Based Prioritization of Disease Responsible Genes from Multimodal Alzheimer&#x27;s Network</a></div></td>
-<td>Binon Teji et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02273">2603.02273</a></td>
 </tr>
 </tbody></table>

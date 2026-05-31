@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">433 papers</span>
+  <span class="paper-count">432 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Rushikesh Pawar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29969">2605.29969</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30284.html">ProjectionBench: Evaluating Scientific Hypothesis Generation in LLMs Under Progressive Information Disclosure</a></div></td>
+<td>A. J. Lew et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30284">2605.30284</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27789.html">A Fixed-Budget, Cluster-Aware Standard for LLM-as-a-Judge Evaluation: A Multi-Hop RAG Stress Test</a></div></td>
@@ -2594,23 +2606,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02407.html">Wyckoff Transformer: Generation of Symmetric Crystals</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Nikita Kazeev et al.</td>
 <td><a href="http://arxiv.org/abs/2503.02407">2503.02407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20384.html">Unified Deep Learning Framework for Many-Body Quantum Chemistry via Green&#x27;s Functions</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Christian Venturella et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20384">2407.20384</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04282.html">DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience</a></div></td>
-<td>Runxiang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04282">2506.04282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04455.html">Interfacial Energy Gradients Drive Coalescence of Supported Nanoparticles</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Cheng-Yu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04455">2506.04455</a></td>
 </tr>
 </tbody></table>

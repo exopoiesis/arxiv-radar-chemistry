@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">579 papers</span>
+  <span class="paper-count">577 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29926.html">A Triple-Modal Contrastive Learning Framework with Sequence, Graph, and 3D Features for Drug-Target Interaction Prediction</a></div></td>
+<td>Le Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29926">2605.29926</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28226.html">PhAME: Phenotype-Aware Molecular Editing via Latent Diffusion</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
@@ -56,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24045.html">A Large-Scale Dataset and Benchmark: Do Protein-Ligand Models Learn Binding Sites or Just Binding Likelihood?</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Zhaohan Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24045">2605.24045</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28862.html">Molecular Lead Optimization via Agentic Tool Planning</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Lingxiao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28862">2605.28862</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-20</td>
@@ -3464,29 +3476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05542.html">Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data</a></div></td>
 <td>Vlastimil Martinek et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05542">2506.05542</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03672.html">Latent Guided Sampling for Combinatorial Optimization</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Sobihan Surendran et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03672">2506.03672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03800.html">STELLA: Towards Protein Function Prediction with Multimodal LLMs Integrating Sequence-Structure Representations</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-llm-360d.html">protein-llm</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Hongwang Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03800">2506.03800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03919.html">Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Lorenz Kummer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03919">2506.03919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04293.html">AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Fengze Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04293">2506.04293</a></td>
 </tr>
 </tbody></table>

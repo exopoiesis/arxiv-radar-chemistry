@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>structure-prediction — all</h1>
-  <span class="paper-count">272 papers</span>
+  <span class="paper-count">276 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28886.html">Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a></div></td>
+<td>Xiao Luo</td>
+<td><a href="http://arxiv.org/abs/2605.28886">2605.28886</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28905.html">DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Laurence I. Midgley et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28905">2605.28905</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29158.html">PROTOCOL: Late Interaction Retrieval for Protein Homolog Search</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a></div></td>
+<td>Gabrielle Cohn et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29158">2605.29158</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div></td>
@@ -68,6 +86,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11189.html">Deep Learning for Protein Complex Prediction and Design</a></div></td>
 <td>Ziwei Xie</td>
 <td><a href="http://arxiv.org/abs/2605.11189">2605.11189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28843.html">The Biosecurity Blind Spot: Systematic Dual-use Detection in Open Science Infrastructure</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Vasudha Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28843">2605.28843</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>

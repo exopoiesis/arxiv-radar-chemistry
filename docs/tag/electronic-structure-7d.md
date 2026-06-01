@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26053.html">Nuclear-Electron Hyperfine Coupling of the Shallow States Associated with Vacancies in Gallium Nitride</a></div></td>
 <td>Joseph Sink et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26053">2605.26053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25219.html">Exploring Multi-Transition-Metal NASICON Frameworks as High-Performance Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Santosh Behara et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25219">2605.25219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25268.html">Bipartite Cholesky Graph Networks for Many-Body Quantum Chemistry</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="gnn-7d.html">gnn</a></div></td>
-<td>Abdul Samad Khan</td>
-<td><a href="http://arxiv.org/abs/2605.25268">2605.25268</a></td>
 </tr>
 </tbody></table>

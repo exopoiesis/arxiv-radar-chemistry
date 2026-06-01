@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2131 papers</span>
+  <span class="paper-count">2123 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12752,53 +12752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05852.html">A Combined DFT and MD Study on Interface Stability in Ferrite-Cementite Systems</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Pablo Canca et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05852">2506.05852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14608.html">Toward machine learning interatomic potentials for modeling uranium mononitride</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Lorena Alzate-Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2411.14608">2411.14608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01814.html">Energy Density Functional of Confined Quarks: an Improved Ansatz</a></div></td>
-<td>Udita Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2504.01814">2504.01814</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16779.html">Phase engineering of MoS$_2$ monolayers: A pathway to enhanced lithium-polysulfide battery performance</a></div></td>
-<td>J. W. González et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16779">2505.16779</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04930.html">Identification of the high-pressure phases of alpha-SnWO4 combining x-ray diffraction and crystal structure prediction</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Daniel Diaz-Anichtchenko et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04930">2506.04930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04936.html">Pressure-Induced Decomposition of beta-SnWO4</a></div></td>
-<td>Sergio Ferrari et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04936">2506.04936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05091.html">Bilayer triple-Q state driven by interlayer higher-order exchange interactions</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Bjarne Beyer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05091">2506.05091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05540.html">A neural network-based four-body potential energy surface for parahydrogen</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Alexander Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05540">2506.05540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05578.html">BO-graphane and BO-diamane</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Babu Ram et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05578">2506.05578</a></td>
 </tr>
 </tbody></table>

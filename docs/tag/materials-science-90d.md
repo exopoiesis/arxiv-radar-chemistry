@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,23 +602,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03392.html">Computational discovery of bifunctional organic semiconductors for energy and biosensing</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Patrick Sorrel Mvoto Kongo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03392">2603.03392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22652.html">Generative Models for Crystalline Materials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Houssam Metni et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22652">2511.22652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01349.html">Update of PHYSBO: Improving Usability and Portability of Bayesian Optimization for Physics and Materials Research</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Yuichi Motoyama et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01349">2603.01349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01834.html">Probing Materials Knowledge in LLMs: From Latent Embeddings to Reliable Predictions</a></div></td>
-<td>Vineeth Venugopal et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01834">2603.01834</a></td>
 </tr>
 </tbody></table>

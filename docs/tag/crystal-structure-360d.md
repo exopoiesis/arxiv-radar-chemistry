@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1694,11 +1694,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05777.html">Efficient dataset generation for machine learning perovskite alloys</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Henrietta Homm et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05777">2506.05777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04930.html">Identification of the high-pressure phases of alpha-SnWO4 combining x-ray diffraction and crystal structure prediction</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Daniel Diaz-Anichtchenko et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04930">2506.04930</a></td>
 </tr>
 </tbody></table>

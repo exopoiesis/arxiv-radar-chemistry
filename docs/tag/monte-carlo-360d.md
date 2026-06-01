@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">323 papers</span>
+  <span class="paper-count">322 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1946,11 +1946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02819.html">Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Marta Skreta et al.</td>
 <td><a href="http://arxiv.org/abs/2503.02819">2503.02819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05557.html">Path-integral Monte Carlo simulations of solid parahydrogen using two-body, three-body, and four-body ab initio interaction potential energy surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Alexander Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05557">2506.05557</a></td>
 </tr>
 </tbody></table>

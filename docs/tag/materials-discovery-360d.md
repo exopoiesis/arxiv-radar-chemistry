@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">267 papers</span>
+  <span class="paper-count">266 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1610,11 +1610,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07518.html">Structure-Informed Learning of Flat Band 2D Materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Xiangwen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07518">2506.07518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04728.html">Thermal Property Microscopy with Compressive Sensing Frequency-Domain Thermoreflectance</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Haobo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04728">2506.04728</a></td>
 </tr>
 </tbody></table>

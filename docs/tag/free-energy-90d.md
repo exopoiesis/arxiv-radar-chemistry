@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,29 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Polina V. Banushkina et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09332.html">InstructPro: Natural Language Guided Ligand-Binding Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Zhenqiao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09332">2506.09332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09413.html">Understanding How Synthetic Impurities Affect Glyphosate Solubility and Crystal Growth Using Free Energy Calculations and Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Alejandro Castro et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09413">2510.09413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01389.html">Self-sustained Molecular Rectification without External Driving or Information</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jiantang Jiang</td>
-<td><a href="http://arxiv.org/abs/2603.01389">2603.01389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02383.html">Extrapolating molecular dynamics simulations to zero time step and across thermodynamic space</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
-<td>Kush Coshic et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02383">2603.02383</a></td>
 </tr>
 </tbody></table>

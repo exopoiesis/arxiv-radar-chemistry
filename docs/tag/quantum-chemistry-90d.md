@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,11 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03013.html">A Perturbative Super-CI Approach for orbital optimization in Two-Component relativistic CASSCF</a></div></td>
 <td>Yang Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03013">2603.03013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03288.html">A Symmetry-Enabled Direct Quantum Protocol for Many-Body Green&#x27;s Functions</a></div></td>
-<td>Changhao Yi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03288">2509.03288</a></td>
 </tr>
 </tbody></table>

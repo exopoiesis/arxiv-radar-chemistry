@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,17 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02753.html">Deep learning-guided evolutionary optimization for protein design</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
 <td>Erik Hartman et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02753">2603.02753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07459.html">ProteinZero: Self-Improving Protein Generation via Online Reinforcement Learning</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Ziwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07459">2506.07459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09332.html">InstructPro: Natural Language Guided Ligand-Binding Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Zhenqiao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09332">2506.09332</a></td>
 </tr>
 </tbody></table>

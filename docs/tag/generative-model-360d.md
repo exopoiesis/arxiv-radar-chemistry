@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2888,29 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07738.html">AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization</a></div></td>
 <td>Lanjiong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07738">2506.07738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13280.html">Empower Structure-Based Molecule Optimization with Gradient Guided Bayesian Flow Networks</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Keyue Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13280">2411.13280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02407.html">Wyckoff Transformer: Generation of Symmetric Crystals</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Nikita Kazeev et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02407">2503.02407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07286.html">Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Keyue Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07286">2505.07286</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19619.html">SESaMo: Symmetry-Enforcing Stochastic Modulation for Normalizing Flows</a></div></td>
-<td>Janik Kreit et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19619">2505.19619</a></td>
 </tr>
 </tbody></table>

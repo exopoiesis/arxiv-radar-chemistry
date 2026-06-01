@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">604 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3572,71 +3572,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03511.html">Orbital Transformers for Predicting Wavefunctions in Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Xuan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03511">2603.03511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01904.html">Magnetic properties of monolayer, multilayer, and bulk CrTe$_2$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>A. A. Katanin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01904">2409.01904</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19968.html">Structural and chemical disorder in Ni$_2$MnGa Heusler alloy investigated by nuclear magnetic resonance</a></div></td>
-<td>Vojtěch Chlan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19968">2505.19968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09861.html">Predicting Crystal Structures and Ionic Conductivities in Li$_{3}$YCl$_{6-x}$Br$_{x}$ Halide Solid Electrolytes Using a Fine-Tuned Machine Learning Interatomic Potential</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Jonas Böhm et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09861">2510.09861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19638.html">DFT-informed Design of Radiation-Resistant Dilute Ternary Cu Alloys</a></div></td>
-<td>Vaibhav Vasudevan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19638">2510.19638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22546.html">Non-local orbital-free density functional theory incorporating nuclear shell effects</a></div></td>
-<td>Xinhui Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22546">2510.22546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17448.html">Basis Representation for Nuclear Densities from Principal Component Analysis</a></div></td>
-<td>Chen-Jun Lv et al.</td>
-<td><a href="http://arxiv.org/abs/2601.17448">2601.17448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01648.html">Towards an understanding of magnesium in a biological environment: A density functional theory study</a></div></td>
-<td>Miranda Naurin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01648">2603.01648</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02121.html">Elucidating different $NO_{2}$ sensing mechanisms in oxidized PbS nanocrystals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Fernando M. Fernandes et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02121">2603.02121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02180.html">Efficient first-principles modeling of complex molecular crystals at sub-chemical accuracy</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Benjamin X. Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02180">2603.02180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02346.html">Large Electron Model: A Universal Ground State Predictor</a></div></td>
-<td>Timothy Zaklama et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02346">2603.02346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02428.html">Charge, Bonding, and Optical Properties of the B$_7$Ca$_2$ Cluster: An Alkaline-Earth Dimer Stabilized by a Single Boron Ring</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Peter Ludwig Rodríguez-Kessler</td>
-<td><a href="http://arxiv.org/abs/2603.02428">2603.02428</a></td>
 </tr>
 </tbody></table>

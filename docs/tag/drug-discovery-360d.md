@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">577 papers</span>
+  <span class="paper-count">573 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3452,29 +3452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06450.html">Performance Impact of Containerized METADOCK 2 on Heterogeneous Platforms</a></div></td>
 <td>Antonio Jesús Banegas-Luna et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06450">2506.06450</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13280.html">Empower Structure-Based Molecule Optimization with Gradient Guided Bayesian Flow Networks</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Keyue Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13280">2411.13280</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07286.html">Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Keyue Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07286">2505.07286</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05427.html">MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Zishan Shu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05427">2506.05427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05542.html">Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data</a></div></td>
-<td>Vlastimil Martinek et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05542">2506.05542</a></td>
 </tr>
 </tbody></table>

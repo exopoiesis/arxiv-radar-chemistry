@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -854,29 +854,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03517.html">MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
 <td>Maksim Kuznetsov et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03517">2603.03517</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00962.html">Distributional Priors Guided Diffusion for Generating 3D Molecules in Low Data Regimes</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Haokai Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00962">2404.00962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09332.html">InstructPro: Natural Language Guided Ligand-Binding Protein Design</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Zhenqiao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09332">2506.09332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22652.html">Generative Models for Crystalline Materials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Houssam Metni et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22652">2511.22652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05532.html">On the Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Shunzhou Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05532">2603.05532</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,23 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02810.html">ChemFlow:A Hierarchical Neural Network for Multiscale Representation Learning in Chemical Mixtures</a></div></td>
 <td>Jinming Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02810">2603.02810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06558.html">Rapid training of Hamiltonian graph networks using random features</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Atamert Rahma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06558">2506.06558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01537.html">Pharmacology Knowledge Graphs: Do We Need Chemical Structure for Drug Repurposing?</a></div></td>
-<td>Youssef Abo-Dahab et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01537">2603.01537</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13303.html">PolyMon: A Unified Framework for Polymer Property Prediction</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Gaopeng Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13303">2603.13303</a></td>
 </tr>
 </tbody></table>

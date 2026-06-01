@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">457 papers</span>
+  <span class="paper-count">446 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2690,71 +2690,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02624.html">Disorder induced melting and glass formation in a one-component Lennard-Jones system</a></div></td>
 <td>Saumya Suvarna et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02624">2603.02624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06558.html">Rapid training of Hamiltonian graph networks using random features</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Atamert Rahma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06558">2506.06558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09413.html">Understanding How Synthetic Impurities Affect Glyphosate Solubility and Crystal Growth Using Free Energy Calculations and Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Alejandro Castro et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09413">2510.09413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09861.html">Predicting Crystal Structures and Ionic Conductivities in Li$_{3}$YCl$_{6-x}$Br$_{x}$ Halide Solid Electrolytes Using a Fine-Tuned Machine Learning Interatomic Potential</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Jonas Böhm et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09861">2510.09861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18460.html">Learning Boltzmann Generators via Constrained Mass Transport</a></div></td>
-<td>Christopher von Klitzing et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18460">2510.18460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00099.html">Cross-Interaction Softness as a Route to Microphase Separation in Binary Colloidal Systems</a></div></td>
-<td>Umesh Dhumal</td>
-<td><a href="http://arxiv.org/abs/2601.00099">2601.00099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01389.html">Self-sustained Molecular Rectification without External Driving or Information</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Jiantang Jiang</td>
-<td><a href="http://arxiv.org/abs/2603.01389">2603.01389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01845.html">Defect dependent dynamic nanoindentation hardness of copper up to 25 000 s-1</a></div></td>
-<td>Hendrik Holz et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01845">2603.01845</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01989.html">Wasserstein-based identification of metastable states in time series data via change point detection and segment clustering</a></div></td>
-<td>David Gentile et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01989">2603.01989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02042.html">Ionic Liquid-Driven Modulation of DNA Brush Morphology on Nanoparticle Surfaces</a></div></td>
-<td>Anuj Chhabra et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02042">2603.02042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02301.html">Unveiling Davydov-Split Excitons in a Template-Engineered Molecular-Graphene Heterostructure</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Jan Kunc et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02301">2603.02301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02383.html">Extrapolating molecular dynamics simulations to zero time step and across thermodynamic space</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
-<td>Kush Coshic et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02383">2603.02383</a></td>
 </tr>
 </tbody></table>

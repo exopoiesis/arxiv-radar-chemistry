@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,29 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21527.html">Sustainable Materials Discovery in the Era of Artificial Intelligence</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Sajid Mannan et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21527">2601.21527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08205.html">Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Zhenqiao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08205">2405.08205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07459.html">ProteinZero: Self-Improving Protein Generation via Online Reinforcement Learning</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Ziwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07459">2506.07459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09332.html">InstructPro: Natural Language Guided Ligand-Binding Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Zhenqiao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09332">2506.09332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22652.html">Generative Models for Crystalline Materials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Houssam Metni et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22652">2511.22652</a></td>
 </tr>
 </tbody></table>

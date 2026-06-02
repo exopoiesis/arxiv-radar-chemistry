@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-space — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <strong>90d</strong> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21740.html">SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
@@ -230,17 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08762.html">The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Daniel S. Levine et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08762">2505.08762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21527.html">Sustainable Materials Discovery in the Era of Artificial Intelligence</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Sajid Mannan et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21527">2601.21527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02089.html">High-quality, high-information datasets for universal atomistic machine learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Cesare Malosso et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02089">2603.02089</a></td>
 </tr>
 </tbody></table>

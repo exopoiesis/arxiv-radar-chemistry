@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmd — 360d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <strong>360d</strong> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Surender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18317.html">Tuning the Charge Transfer of Transition Metal Dichalcogenides via Misfit Layer Compounds</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>

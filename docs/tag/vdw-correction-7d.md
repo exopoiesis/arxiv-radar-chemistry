@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25982.html">Light-Induced Transient Polarization Reversal in Rhombohedrally Stacked Bilayer Transition-Metal Dichalcogenides via an Electronic Mechanism</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Xiangzhou Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25982">2605.25982</a></td>
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
 </tr>
 </tbody></table>

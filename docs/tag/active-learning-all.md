@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">241 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26897.html">Active learning of collinear magnetic Moment Tensor Potentials using the spin-MLIP package from soft-constrained spin-polarized DFT calculations: a case study of Fe-Pd</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
@@ -1454,41 +1460,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01616.html">Generative Active Learning for the Search of Small-molecule Protein Binders</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
 <td>Maksym Korablyov et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01616">2405.01616</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12275.html">Fast and accurate nonadiabatic molecular dynamics enabled through variational interpolation of correlated electron wavefunctions</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kemal Atalar et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12275">2403.12275</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07074.html">Multiscale structure-property discovery via active learning in scanning tunneling microscopy</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Ganesh Narasimha et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07074">2404.07074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07306.html">AI-Guided Defect Detection Techniques to Model Single Crystal Diamond Growth</a></div></td>
-<td>Rohan Reddy Mekala et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07306">2404.07306</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08017.html">AI-Guided Feature Segmentation Techniques to Model Features from Single Crystal Diamond Growth</a></div></td>
-<td>Rohan Reddy Mekala et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08017">2404.08017</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04224.html">Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Zachary R. Fox et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04224">2404.04224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02597.html">Combining transition path sampling with data-driven collective variables through a reactivity-biased shooting algorithm</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Jintu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02597">2404.02597</a></td>
 </tr>
 </tbody></table>

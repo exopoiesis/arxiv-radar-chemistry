@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">392 papers</span>
+  <span class="paper-count">384 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2318,53 +2318,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01382.html">Benchmarking DFT-based excited-state methods for intermolecular charge-transfer excitations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Nicola Bogo et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01382">2405.01382</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17133.html">Converging TDDFT calculations in 5 iterations with minimal auxiliary preconditioning</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Zehao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17133">2404.17133</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16149.html">$Δ$ADAPT-VQE: Toward Accurate Calculation of Excitation Energies on Quantum Computers for BODIPY Molecules With Application in Photodynamic Therapy</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Anton Nykänen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16149">2404.16149</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07109.html">Coupling Molecular Density Functional Theory with Converged Selected Configuration Interaction Methods to Study Excited states in Aqueous Solution</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Maxime Labat et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07109">2404.07109</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07414.html">A Pathway to Efficient Simulations of Charge Density Waves in Transition Metal Dichalcogenides: A Case Study for TiSe2</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Li Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07414">2404.07414</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07693.html">The photoinduced hidden metallic phase of monoclinic VO2 driven by local nucleation via a self-amplification process</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Feng-Wu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07693">2404.07693</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05837.html">Self-Trapped Excitons in Metal-Halide Perovskites Investigated by Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Yu Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2404.05837">2404.05837</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12933.html">Analytic Nuclear Gradients for Complete Active Space Linearized Pair-Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Matthew R. Hennefarth et al.</td>
-<td><a href="http://arxiv.org/abs/2401.12933">2401.12933</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.06745.html">Quantum Vibronic Effects on the Excitation Energies of the Nitrogen-Vacancy Center in Diamond</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Arpan Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2401.06745">2401.06745</a></td>
 </tr>
 </tbody></table>

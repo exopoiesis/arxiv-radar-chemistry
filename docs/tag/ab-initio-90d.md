@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">430 papers</span>
+  <span class="paper-count">425 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Yossi Paltiel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01728.html">Microscopic Origin of Emergent Elliptic Flow and Molecule Formation in Strongly Interacting Quasi-Two-Dimensional Few-Body Systems</a></div></td>
+<td>Xin-Yuan Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01728">2606.01728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a> · <a href="tmo-90d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
+<td>Surender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29424.html">Model-free estimation in scattering analysis of microscopy</a></div></td>
@@ -2540,59 +2564,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04294.html">Ab initio study of saddle-point excitons in monolayer SnS2</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
 <td>Vinicius Alves Bastos et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04294">2603.04294</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19255.html">Signature of high temperature superconductivity with giant pressure effect in networks of boron doped ultra-thin carbon nanotubes</a></div></td>
-<td>Yibo Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19255">2509.19255</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09890.html">Imaging two-body correlations in atomic nuclei via low- and high-energy processes</a></div></td>
-<td>Stavros Bofos et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09890">2602.09890</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21885.html">Intrinsic (non)-Gilbert damping in magnetic insulators calculated from a minimal model and \textit{ab initio} spin Hamiltonians</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Andrei Shumilin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21885">2602.21885</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22725.html">Phonons reflect dynamic spin-state order in LaCoO$_3$</a></div></td>
-<td>Alsu Ivashko et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22725">2602.22725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03214.html">Anisotropic magnetoelastic coupling in the honeycomb magnet Na$_3$Co$_2$SbO$_6$</a></div></td>
-<td>Prashanta K. Mukharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03214">2603.03214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03424.html">Quantum Theory of Functionally Graded Materials</a></div></td>
-<td>Michael J. Landry et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03424">2603.03424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03492.html">Enhanced superconductivity in palladium hydrides by non-perturbative electron-phonon effects</a></div></td>
-<td>Raffaello Bianco et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03492">2603.03492</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03511.html">Orbital Transformers for Predicting Wavefunctions in Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Xuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03511">2603.03511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03528.html">Strain effects on $n$-type doping in AlN</a></div></td>
-<td>Haochen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03528">2603.03528</a></td>
 </tr>
 </tbody></table>

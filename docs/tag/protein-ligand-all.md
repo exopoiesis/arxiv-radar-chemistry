@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">310 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1874,53 +1874,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00647.html">Screening of BindingDB database ligands against EGFR, HER2, Estrogen, Progesterone and NF-kB receptors based on machine learning and molecular docking</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Parham Rezaee et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00647">2405.00647</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00004.html">Multi-objective generative AI for designing novel brain-targeting small molecules</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Ayush Noori et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00004">2407.00004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08166.html">Ligand Equilibrium Influences Photoluminescence Blinking in CsPbBr3: A Change Point Analysis of Widefield Imaging Data</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Shaun Gallagher et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08166">2404.08166</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08265.html">Quantum molecular docking with quantum-inspired algorithm</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Yunting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08265">2404.08265</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06481.html">GeoDirDock: Guiding Docking Along Geodesic Paths</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Raúl Miñán et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06481">2404.06481</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05329.html">In silico bioactivity prediction of proteins interacting with graphene-based nanomaterials guides rational design of biosensor</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jing Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2404.05329">2404.05329</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02003.html">AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Xinze Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02003">2404.02003</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.16062.html">Enhancing Protein-Ligand Binding Affinity Predictions using Neural Network Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Francesc Sabanes Zariquiey et al.</td>
-<td><a href="http://arxiv.org/abs/2401.16062">2401.16062</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08210.html">Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Mohammad Ghazi Vakili et al.</td>
-<td><a href="http://arxiv.org/abs/2402.08210">2402.08210</a></td>
 </tr>
 </tbody></table>

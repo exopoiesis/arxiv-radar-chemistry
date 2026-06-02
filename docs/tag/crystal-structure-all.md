@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure — all</h1>
-  <span class="paper-count">518 papers</span>
+  <span class="paper-count">506 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30012.html">Charting the thermodynamic stability of hybrid perovskite alloys with machine learning</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="gnn-all.html">gnn</a> · <a href="mlip-all.html">mlip</a></div></td>
@@ -3044,83 +3050,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14598.html">Dynamic Nanodomains Dictate Macroscopic Properties in Lead Halide Perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Milos Dubajic et al.</td>
 <td><a href="http://arxiv.org/abs/2404.14598">2404.14598</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18412.html">Uncovering an Interfacial Band Resulting from Orbital Hybridization in Nickelate Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Mingyao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18412">2404.18412</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15920.html">Phonon-driven wavefunction localization promotes room-temperature, pure single-photon emission in large organic-inorganic lead-halide quantum dots</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Leon G. Feld et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15920">2404.15920</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11247.html">Dynamic Local Symmetry Fluctuations of Electron Density in Halide Perovskites</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Colin M. Hylton-Farrington et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11247">2404.11247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08166.html">Ligand Equilibrium Influences Photoluminescence Blinking in CsPbBr3: A Change Point Analysis of Widefield Imaging Data</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Shaun Gallagher et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08166">2404.08166</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05914.html">Seebeck Effect of Dirac Electrons in Organic Conductors under Hydrostatic Pressure Using a Tight-Binding Model Derived from First Principles</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Yoshikazu Suzumura et al.</td>
-<td><a href="http://arxiv.org/abs/2404.05914">2404.05914</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05644.html">Size dependent solid-solid crystallization of halide perovskites</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Paramvir Ahlawat</td>
-<td><a href="http://arxiv.org/abs/2404.05644">2404.05644</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05837.html">Self-Trapped Excitons in Metal-Halide Perovskites Investigated by Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Yu Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2404.05837">2404.05837</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04810.html">AlphaCrystal-II: Distance matrix based crystal structure prediction using deep learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Yuqi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04810">2404.04810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04226.html">Direct evidence of low work function on SrVO$_3$ cathode using thermionic electron emission microscopy and high-field ultraviolet photoemission spectroscopy</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Md Sariful Sheikh et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04226">2404.04226</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03324.html">Observation of Chiral Surface State in Superconducting NbGe$_2$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Mengyu Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2403.03324">2403.03324</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10337.html">Nonlinear charge transport properties in chiral tellurium</a></div></td>
-<td>Kazuki Nakazawa et al.</td>
-<td><a href="http://arxiv.org/abs/2403.10337">2403.10337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01405.html">The curious case of A31P, a topology-switching mutant of the Repressor of Primer protein : A molecular dynamics study of its folding and misfolding</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Olympia-Dialekti Vouzina et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01405">2404.01405</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.06955.html">Accurate Crystal Structure Prediction of New 2D Hybrid Organic Inorganic Perovskites</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Nima Karimitari et al.</td>
-<td><a href="http://arxiv.org/abs/2403.06955">2403.06955</a></td>
 </tr>
 </tbody></table>

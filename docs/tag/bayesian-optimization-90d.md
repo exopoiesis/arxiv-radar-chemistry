@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01730.html">Evidence-Gated LLM Priors for Multi-Objective Bayesian Optimization</a></div></td>
+<td>Jiangyu Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01730">2606.01730</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29560.html">Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation</a></div></td>
 <td>Jiawei Chen et al.</td>
@@ -170,17 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05699.html">Active Learning for Tractable and Reproducible Pulsed Laser Deposition</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Jackson S. Bentley et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05699">2603.05699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02605.html">Bayesian Optimization in Chemical Compound Sub-Spaces using Low-Dimensional Molecular Descriptors</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Yun-Wen Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02605">2603.02605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02753.html">Deep learning-guided evolutionary optimization for protein design</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Erik Hartman et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02753">2603.02753</a></td>
 </tr>
 </tbody></table>

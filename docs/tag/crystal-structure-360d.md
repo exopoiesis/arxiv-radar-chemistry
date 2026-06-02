@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30012.html">Charting the thermodynamic stability of hybrid perovskite alloys with machine learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Jarno Laakso et al.</td>
@@ -1688,11 +1694,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08100.html">Defect complexes in CrSBr revealed through electron microscopy and deep learning</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Mads Weile et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08100">2506.08100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05777.html">Efficient dataset generation for machine learning perovskite alloys</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Henrietta Homm et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05777">2506.05777</a></td>
 </tr>
 </tbody></table>

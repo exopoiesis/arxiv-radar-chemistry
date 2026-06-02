@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Yossi Paltiel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01728.html">Microscopic Origin of Emergent Elliptic Flow and Molecule Formation in Strongly Interacting Quasi-Two-Dimensional Few-Body Systems</a></div></td>
+<td>Xin-Yuan Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01728">2606.01728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a> · <a href="tmo-7d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="tmd-7d.html">tmd</a></div></td>
+<td>Surender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29424.html">Model-free estimation in scattering analysis of microscopy</a></div></td>
@@ -80,35 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26817.html">Defect engineering of ultrathin gallium nitride via electric fields for advanced electronic, magnetic, and gas sensing applications</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
 <td>Yujia Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26817">2605.26817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25361.html">An Efficient On-the-Fly Nonadiabatic Coupling Framework</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Xiaoke He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25361">2605.25361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25369.html">Effects of Band Symmetry on Spin-Dependent Transport in Noncollinear Antiferromagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Mohamed Elekhtiar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25369">2605.25369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25898.html">Superconductivity and electronic structure evolution in the enforced semimetal Fe-doped ZrTe$_2$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>L. M. Ishikura et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25898">2605.25898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25906.html">Substitution modulated transition from semimetal to superconductor in ZrTe$_{2-x}$Se$_x$ with coexistence of nontrivial electronic topology</a></div></td>
-<td>V. M. Fim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25906">2605.25906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26179.html">AutoDFT: A Closed-Loop Multi-Agent Framework for Autonomous DFT Calculations</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Penghui Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26179">2605.26179</a></td>
 </tr>
 </tbody></table>

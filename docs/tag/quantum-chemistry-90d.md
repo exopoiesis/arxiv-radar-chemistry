@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29622.html">MōLe-Λ: Learning the Coupled-Cluster Response State for Energies, Gradients, and Properties</a></div></td>
 <td>Andreas Burger et al.</td>
@@ -704,11 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04536.html">Aromatic Species in the Molecular Universe</a></div></td>
 <td>A. G. G. M. Tielens</td>
 <td><a href="http://arxiv.org/abs/2603.04536">2603.04536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03013.html">A Perturbative Super-CI Approach for orbital optimization in Two-Component relativistic CASSCF</a></div></td>
-<td>Yang Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03013">2603.03013</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">551 papers</span>
+  <span class="paper-count">536 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3230,95 +3230,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17440.html">CataLM: Empowering Catalyst Design Through Large Language Models</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Ludi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.17440">2405.17440</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17346.html">Revealing mode formation in quasi-bound states in the continuum metasurfaces via near-field optical microscopy</a></div><div class="paper-tags"><a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Thorsten Gölz et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17346">2404.17346</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06823.html">Control of proton transport and hydrogenation in double-gated graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="battery-materials-all.html">battery-materials</a></div></td>
-<td>J. Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06823">2404.06823</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17074.html">Towards edge engineering of two-dimensional layered transition-metal dichalcogenides by chemical vapor deposition</a></div><div class="paper-tags"><a href="tmd-all.html">tmd</a></div></td>
-<td>Wei Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17074">2404.17074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14348.html">Operando Analysis of Adsorption-Limited Hydrogen Oxidation Reaction at Palladium Surfaces</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Yukun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14348">2404.14348</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14467.html">Integrating Chemistry Knowledge in Large Language Models via Prompt Engineering</a></div></td>
-<td>Hongxuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14467">2404.14467</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12445.html">Adaptive Catalyst Discovery Using Multicriteria Bayesian Optimization with Representation Learning</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Jie Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12445">2404.12445</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10409.html">Efficient Electrochemical CO2 Reduction Reaction over Cu-decorated Biphenylene</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Radha N Somaiya et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10409">2404.10409</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11247.html">Dynamic Local Symmetry Fluctuations of Electron Density in Halide Perovskites</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Colin M. Hylton-Farrington et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11247">2404.11247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12412.html">Alloyed Re$_x$Mo$_{1-x}$S$_2$ Nanoflakes with Enlarged Interlayer Distances for Hydrogen Evolution</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Jing Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12412">2404.12412</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09915.html">Catalysing Completeness and Universality</a></div></td>
-<td>Aleks Kissinger et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09915">2404.09915</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05294.html">Reduction of (pseudo-)Critical Temperatures of Chiral Restoration and Deconfinement Phase Transitions in a Magnetized PNJL Model</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Shijun Mao</td>
-<td><a href="http://arxiv.org/abs/2404.05294">2404.05294</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10003.html">Lightweight Geometric Deep Learning for Molecular Modelling in Catalyst Discovery</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Patrick Geitner</td>
-<td><a href="http://arxiv.org/abs/2404.10003">2404.10003</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02789.html">RNA Dynamics from Experimental and Computational Approaches</a></div></td>
-<td>Giovanni Bussi et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02789">2404.02789</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02981.html">Remote-contact catalysis for target-diameter semiconducting carbon nanotube array</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a></div></td>
-<td>Jiangtao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02981">2404.02981</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01455.html">Reaction Rate Theory for Electric Field Catalysis in Solution</a></div></td>
-<td>Sohang Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01455">2404.01455</a></td>
 </tr>
 </tbody></table>

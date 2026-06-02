@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Keyue Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02386.html">AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
+<td>Sahil Rahman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02386">2606.02386</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29926.html">A Triple-Modal Contrastive Learning Framework with Sequence, Graph, and 3D Features for Drug-Target Interaction Prediction</a></div></td>
@@ -830,29 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04209.html">Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Matteo De Sanctis et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04209">2603.04209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00253.html">CoPeP: Benchmarking Continual Pretraining for Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Darshan Patil et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00253">2603.00253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03109.html">Quantum-Inspired Hamiltonian Feature Extraction for ADMET Prediction: A Simulation Study</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>B. Maurice Benson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03109">2603.03109</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03407.html">Tracing Pharmacological Knowledge In Large Language Models</a></div></td>
-<td>Basil Hasan Khwaja et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03407">2603.03407</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03517.html">MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Maksim Kuznetsov et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03517">2603.03517</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22415.html">Emergent magnetic and charge ordered phases in freestanding ultrathin \ce{LaVO3}</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="tmo-360d.html">tmo</a></div></td>

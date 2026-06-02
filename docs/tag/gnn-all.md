@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">735 papers</span>
+  <span class="paper-count">719 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01781.html">Structure-Guided Adaptive Propagation for Protein-Protein Interaction Site Prediction</a></div></td>
+<td>Enqiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01781">2606.01781</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
@@ -4322,107 +4328,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02374.html">Protein binding affinity prediction under multiple substitutions applying eGNNs on Residue and Atomic graphs combined with Language model information: eGRAL</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Arturo Fiorellini-Bernardis et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02374">2405.02374</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17511.html">Bridging the Fairness Divide: Achieving Group and Individual Fairness in Graph Neural Networks</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Duna Zhan et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17511">2404.17511</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06662.html">Language Interaction Network for Clinical Trial Approval Estimation</a></div></td>
-<td>Chufan Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06662">2405.06662</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16532.html">Global Concept Explanations for Graphs by Contrastive Learning</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Jonas Teufel et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16532">2404.16532</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16911.html">HEroBM: a deep equivariant graph neural network for universal backmapping from coarse-grained to all-atom representations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="chemical-space-all.html">chemical-space</a></div></td>
-<td>Daniele Angioletti et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16911">2404.16911</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14941.html">Delayed Bottlenecking: Alleviating Forgetting in Pre-trained Graph Neural Networks</a></div></td>
-<td>Zhe Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14941">2404.14941</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.06687.html">Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data</a></div></td>
-<td>Jinghan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.06687">2403.06687</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00044.html">UAlign: Pushing the Limit of Template-free Retrosynthesis Prediction with Unsupervised SMILES Alignment</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
-<td>Kaipeng Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00044">2404.00044</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10354.html">Physical formula enhanced multi-task learning for pharmacokinetics prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Ruifeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10354">2404.10354</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10450.html">Graph Neural Networks for Protein-Protein Interactions -- A Short Survey</a></div></td>
-<td>Mingda Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10450">2404.10450</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00004.html">Multi-objective generative AI for designing novel brain-targeting small molecules</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Ayush Noori et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00004">2407.00004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.11004.html">Forward Learning of Graph Neural Networks</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Namyong Park et al.</td>
-<td><a href="http://arxiv.org/abs/2403.11004">2403.11004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07194.html">VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Florian Sestak et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07194">2404.07194</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06434.html">Quantum Graph Optimization Algorithm</a></div></td>
-<td>Yuhan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06434">2404.06434</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10003.html">Lightweight Geometric Deep Learning for Molecular Modelling in Catalyst Discovery</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Patrick Geitner</td>
-<td><a href="http://arxiv.org/abs/2404.10003">2404.10003</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01693.html">HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-function-all.html">protein-function</a></div></td>
-<td>Rong Han et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01693">2404.01693</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.15334.html">Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Wojciech G. Stark et al.</td>
-<td><a href="http://arxiv.org/abs/2403.15334">2403.15334</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.16914.html">Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials</a></div></td>
-<td>Ivan Grega et al.</td>
-<td><a href="http://arxiv.org/abs/2401.16914">2401.16914</a></td>
 </tr>
 </tbody></table>

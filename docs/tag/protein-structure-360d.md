@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">266 papers</span>
+  <span class="paper-count">267 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Keyue Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02104.html">Penalty-free quantum optimization applied to lattice protein folding</a></div></td>
+<td>Leif Gellsersen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02104">2606.02104</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29228.html">Traditional machine learning vs. deep learning from dynamic graph representations of proteins&#x27; 3D folds in the task of protein structure classification</a></div></td>
@@ -1604,11 +1616,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08293.html">Diffusion Sequence Models for Enhanced Protein Representation and Generation</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Logan Hallee et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08293">2506.08293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21283.html">pLDDT-Predictor: High-speed Protein Screening Using Transformer and ESM2</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Joongwon Chae et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21283">2410.21283</a></td>
 </tr>
 </tbody></table>

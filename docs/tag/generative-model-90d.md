@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Keyue Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02133.html">Variational Learning for Insertion-based Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Yangtian Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02133">2606.02133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30248.html">GenClaw: Code-Driven Agentic Image Generation</a></div></td>
 <td>Junyan Ye et al.</td>
@@ -776,17 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06685.html">One step further with Monte-Carlo sampler to guide diffusion better</a></div></td>
 <td>Minsi Ren et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06685">2603.06685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17204.html">SpecBridge: Bridging Mass Spectrometry and Molecular Representations via Cross-Modal Alignment</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Yinkai Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.17204">2601.17204</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21527.html">Sustainable Materials Discovery in the Era of Artificial Intelligence</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Sajid Mannan et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21527">2601.21527</a></td>
 </tr>
 </tbody></table>

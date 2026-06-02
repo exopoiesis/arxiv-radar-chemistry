@@ -16,6 +16,30 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="replica-exchange-360d.html">replica-exchange</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01748.html">Hydrogen trapping and interfacial decohesion at the α-Al2O3(0001)/Fe(110) interface</a></div></td>
+<td>Youngseok Hwang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01748">2606.01748</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02298.html">Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Kusampal Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02298">2606.02298</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29482.html">Synthesizability, hardness, and stacking order in multicomponent transition metal carbides from machine-learned potentials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Xin Liu et al.</td>
@@ -12728,29 +12752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06765.html">Employing Discrete Fourier Transform in Representational Learning</a></div></td>
 <td>Raoof HojatJalali et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06765">2506.06765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19110.html">Learning the Electronic Hamiltonian of Large Atomic Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Chen Hao Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19110">2501.19110</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03716.html">Discovery of magnetic-field-tunable density waves in a layered altermagnet</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Christopher Candelora et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03716">2503.03716</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05777.html">Efficient dataset generation for machine learning perovskite alloys</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Henrietta Homm et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05777">2506.05777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05852.html">A Combined DFT and MD Study on Interface Stability in Ferrite-Cementite Systems</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pablo Canca et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05852">2506.05852</a></td>
 </tr>
 </tbody></table>

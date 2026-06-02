@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>string-method — all</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <a href="string-method-90d.html">90d</a> <a href="string-method-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08693.html">Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="excited-states-all.html">excited-states</a></div></td>
 <td>Brieuc Le Dé et al.</td>
 <td><a href="http://arxiv.org/abs/2405.08693">2405.08693</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17722.html">Simulating Crystallization in a Colloidal System Using State Predictive Information Bottleneck based Enhanced Sampling</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Vanessa J. Meraz et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17722">2404.17722</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a> · <a href="replica-exchange-7d.html">replica-exchange</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01748.html">Hydrogen trapping and interfacial decohesion at the α-Al2O3(0001)/Fe(110) interface</a></div></td>
+<td>Youngseok Hwang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01748">2606.01748</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="phase-transition-7d.html">phase-transition</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02298.html">Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Kusampal Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02298">2606.02298</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29482.html">Synthesizability, hardness, and stacking order in multicomponent transition metal carbides from machine-learned potentials</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
@@ -182,41 +206,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27344.html">Real-time nuclear-electronic orbital time-dependent density functional theory with a constrained traveling proton basis</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
 <td>Nicholas J. Boyer et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27344">2605.27344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25351.html">Anomalous Subsurface Vacancy Stabilization Dictated by Geometry-Electronic Decoupling on Metal Surfaces</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Yiming Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25351">2605.25351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25369.html">Effects of Band Symmetry on Spin-Dependent Transport in Noncollinear Antiferromagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Mohamed Elekhtiar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25369">2605.25369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25982.html">Light-Induced Transient Polarization Reversal in Rhombohedrally Stacked Bilayer Transition-Metal Dichalcogenides via an Electronic Mechanism</a></div><div class="paper-tags"><a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Xiangzhou Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25982">2605.25982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26088.html">Multipole tomography of atomic nuclei with conserved symmetries</a></div></td>
-<td>X. Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26088">2605.26088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26179.html">AutoDFT: A Closed-Loop Multi-Agent Framework for Autonomous DFT Calculations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Penghui Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26179">2605.26179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26364.html">Finite Temperature Stacking Fault Stability in Random and Locally Ordered CoCrNi beyond the Harmonic Approximation</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Reza Namakian et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26364">2605.26364</a></td>
 </tr>
 </tbody></table>

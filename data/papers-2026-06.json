@@ -1,0 +1,814 @@
+{
+ "2606.01518": {
+  "abstract": "Motion generation for rigged shapes is vital for scalable 4D asset production. However, template-based methods are limited by specific topologies and fail to generalize across diverse morphologies. Conversely, per-case optimization is computationally expensive, susceptible to local optima, and highly sensitive to viewpoint-induced ambiguities. In this paper, we present MotionDreamer, a diffusion-based framework designed for category-agnostic skeletal animation generation from 2D video guidance. To overcome the scarcity of high-quality training data, we have curated a large-scale dynamic dataset comprising approximately 20,000 diverse 3D models, each featuring complete textures, skeletal rigging, and a wide array of comprehensive animation sequences. To bridge the kinematic gap between 2D visual motion cues and heterogeneous 3D skeletal structures, we propose a structural-semantic injection mechanism. Our model integrates texture and semantic attributes directly into skeletal joint representations. This allows it to map perceived visual dynamics to specific joint hierarchies and their functional roles. This enables MotionDreamer to synthesize high-fidelity animations that maintain anatomical consistency across a vast range of unseen categories, from existing biological species to fantastical beings. Extensive experiments demonstrate that our approach significantly outperforms existing methods, setting a new state-of-the-art benchmark for robust and efficient 4D asset generation. The code will be made publicly available upon acceptance.",
+  "authors": [
+   "Ye Tao",
+   "Yuxin Yao",
+   "Kendong Liu",
+   "Dapeng Wu",
+   "Junhui Hou"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.GR"
+  ],
+  "comment": "18 pages, 7 figures",
+  "first_author": "Ye Tao",
+  "pdf_url": "http://arxiv.org/pdf/2606.01518",
+  "primary_category": "cs.CV",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "MotionDreamer: Universal Skeletal Motion Generation for 3D Rigged Shapes",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01538": {
+  "abstract": "To study the ability to infer physical dynamics from videos and extrapolate them forward in time, we assemble a dataset of 2D Material Point Method (MPM) physical simulations covering rich physical phenomena such as deformable objects, fluids, kinetic objects, and emitters. We study code generation and video diffusion approaches on this dataset, identifying their strengths and weaknesses by varying the amount of physically relevant side information. The code generation model, beyond giving a working demonstration of automatic synthesis of MPM simulations, reveals that such an approach struggles with inferring physical parameters from visual input, but relative to video diffusion, produces physically and temporally stable extrapolations forward in time, while the video diffusion model more strongly identifies geometric properties from visual input but produces physically implausible extrapolations.",
+  "authors": [
+   "Žiga Kovačič",
+   "Kevin Ellis"
+  ],
+  "categories": [
+   "cs.GR",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": "16 pages, 13 figures. Project page: https://zzigak.github.io/mpmworlds/",
+  "first_author": "Žiga Kovačič",
+  "pdf_url": "http://arxiv.org/pdf/2606.01538",
+  "primary_category": "cs.GR",
+  "published": "2026-06-01",
+  "tags": [
+   "2d-materials",
+   "diffusion-model"
+  ],
+  "title": "MPMWorlds: Material-Point-Method Simulations for Inferring and Extrapolating Physical Dynamics",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01595": {
+  "abstract": "Bayesian inference provides a principled framework for modeling epistemic uncertainty in neural networks by treating predictions as distributions rather than deterministic values. Meanwhile, diffusion-based models for 3D molecular graph generation operate on fragile geometric structures governed by strict chemical constraints, making inference highly sensitive to uncertainty miscalibration. A largely overlooked issue is that epistemic uncertainty arising from the learned denoiser interacts with the aleatoric uncertainty intentionally injected during reverse diffusion, leading to systematic variance inflation and a mismatch between the true distribution and the simulated distribution. This effect is particularly detrimental for high-precision molecular generation, where even small deviations can violate chemical validity. In this work, we provide a theoretical and empirical analysis of how epistemic uncertainty propagates through diffusion inference and degrades sampling quality. Building on this investigation, we propose UCD (Uncertainty-Calibrated Diffusion), a simple yet effective method that calibrates the reverse diffusion process to account for epistemic uncertainty. Extensive experiments on standard 3D molecular benchmarks demonstrate that UCD consistently improves sampling quality across diverse baseline methods, establishing new state-of-the-art performance for 3D molecular diffusion. The code is available at https://github.com/jiuguaiwf/UCD.",
+  "authors": [
+   "Fang Wan",
+   "Jingxiang Qu",
+   "Yi Liu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Fang Wan",
+  "pdf_url": "http://arxiv.org/pdf/2606.01595",
+  "primary_category": "cs.LG",
+  "published": "2026-06-01",
+  "tags": [
+   "molecular-generation"
+  ],
+  "title": "Uncertainty-Calibrated Diffusion for Reliable 3D Molecular Graph Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01598": {
+  "abstract": "Machine learning interatomic potentials (MLIPs) can approach quantum accuracy for short-range chemistry, but most architectures remain local and fail to capture the long-range electrostatic and polarization interactions essential for ionic, polar, and interfacial systems. Recent Ewald-based MLIPs show that locally predicted electrostatic variables can recover important long-range physics, including multipolar response. However, many energy-based implementations still compute reciprocal-space terms by direct summation over k vectors, leaving a gap with production molecular dynamics, where particle-mesh Ewald (PME) with O(NlogN) scaling is standard. Here we introduce a fully differentiable PME framework for learned charges and learned atomic dipoles within an E(n)-equivariant Cartesian tensor message passing network. Charges are predicted from scalar local features, while dipoles are predicted from equivariant vector features and enter the same particle-mesh solver as an effective bound charge density. This dipolar density is constructed using analytic real-space gradients of Hockney-Eastwood spline assignment weights, enabling charge-dipole and dipole-dipole long-range forces to be trained end-to-end through FFT-space electrostatics without direct charge or dipole supervision. On a charged-dimer test case, the differentiable PME module reproduces explicit Ewald energies and forces to numerical precision when assignment-kernel deconvolution is enabled. On molten NaCl, the charge and dipole long-range channel gives the lowest force RMSE among the tested models, while all energy RMSE values remain in the sub-meV per atom regime. Timing tests show the expected crossover from explicit Ewald summation to particle-mesh scaling. These results establish differentiable dipole PME as a scalable route toward polarization-aware MLIPs for condensed-phase and interfacial systems.",
+  "authors": [
+   "Zhiyue Guo",
+   "Junjie Wang",
+   "Haoting Zhang",
+   "Zhixin Liang",
+   "Ziyang Yang",
+   "Yujian Pan",
+   "Jian Sun"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Zhiyue Guo",
+  "pdf_url": "http://arxiv.org/pdf/2606.01598",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01611": {
+  "abstract": "In this study, we predicted the structure of the heptapeptide APRLRFY, a neuropeptide sequence, on a tetrahedral lattice using a Quantum Approximate Optimization Algorithm (QAOA). QAOA is based on the adiabatic approximation and has been successfully applied to a wide range of optimization problems. However, relatively slow convergence during ground-state searches has frequently been reported. To overcome this limitation, we employed the Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA), which introduces an additional counter-diabatic driving term into the adiabatic framework to accelerate convergence toward the ground state during peptide structure prediction. In the heptapeptide structure prediction, intermolecular interactions were modeled using two different approaches. In the first approach, only the interaction between the second residue, proline (P), and the seventh residue, tyrosine (Y), was included in the optimization. In the second approach, all residue-residue interactions within the heptapeptide were modeled using the Miyazawa-Jernigan (MJ) interaction matrix. To validate the peptide structures predicted using CD-QAOA, we additionally employed several classical computational methods, including quantum chemistry-based Hartree-Fock (HF) calculation and Density Functional Theory (DFT) calculation, conventional molecular dynamics (MD) simulation, and Hamiltonian replica exchange molecular dynamics (H-REMD) simulation. The structural similarities among the conformations obtained from these different approaches were systematically analyzed. CD-QAOA is highly effective for predicting the structures of short peptides. In particular, we demonstrate that a quantum-classical hybrid framework can significantly improve both the efficiency and accuracy of peptide structure prediction.",
+  "authors": [
+   "Sung Won Yun",
+   "Yeon Gyo Seo",
+   "Seong Hun Jang",
+   "Suhyun Park",
+   "Joonwoo Bae",
+   "Sangwook Wu"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Sung Won Yun",
+  "pdf_url": "http://arxiv.org/pdf/2606.01611",
+  "primary_category": "q-bio.BM",
+  "published": "2026-06-01",
+  "tags": [
+   "dft",
+   "molecular-dynamics",
+   "quantum-chemistry",
+   "replica-exchange",
+   "structure-prediction"
+  ],
+  "title": "Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)",
+  "topics": [
+   "Protein & Biomolecules",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01628": {
+  "abstract": "Biomolecules such as proteins and small-molecule ligands play a central role in biological systems, arising from the tight interplay between sequence and three-dimensional structure. Recent generative models for biomolecular co-design aim to capture this interplay by jointly modeling coupled modalities. However, existing approaches largely adopt a parallel execution of marginal generative processes, implicitly enforcing fixed synchronous coupling. We argue that a critical but overlooked degree of freedom lies in how these marginal processes are temporally coupled during training and generation, where inappropriate coupling can introduce high-variance supervision and inconsistent intermediate states, affecting modality consistency. To address this, we introduce GeoCoupling, a systematic framework that optimizes for temporal couplings between heterogeneous modalities. Empirical results across structure-based drug design and unconditional protein design demonstrate the learned couplings consistently outperform synchronous and randomly coupled baselines, yielding biomolecules with improved physical validity and diversity.",
+  "authors": [
+   "Keyue Qiu",
+   "Xintong Wang",
+   "Zhilong Zhang",
+   "Hao Zhou",
+   "Wei-Ying Ma"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cs.AI"
+  ],
+  "comment": "Accepted to ICML 2026",
+  "first_author": "Keyue Qiu",
+  "pdf_url": "http://arxiv.org/pdf/2606.01628",
+  "primary_category": "q-bio.BM",
+  "published": "2026-06-01",
+  "tags": [
+   "drug-discovery",
+   "generative-model",
+   "protein-structure"
+  ],
+  "title": "Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01642": {
+  "abstract": "The outer membrane is the interface through which Gram-negative bacteria - a broad classification of organisms including \\textit{Escherichia coli} and a number of deadly pathogens - interact with the environment. Two decades of work on the process of outer membrane biogenesis have led to the discovery of the components that mediate this process, and the characterisation of structure and function of these component parts of the bacterial cell machinery. However, neither current experimental methods, nor conventional molecular dynamics (MD) simulation approaches are capable of investigating this membrane machinery on the time scale of the cell division cycle. This leaves crucial questions unanswered, such as how this lipid-poor, largely static environment is organised to permit ongoing membrane growth. Here, we introduce a semi-quantitative agent-based model to explore the molecular-scale dynamics of Gram-negative outer membrane as it grows. Model simulations across a broad region of parameter space suggest that protein incorporation into the membrane by the $β$-barrel assembly machinery (BAM complex) is a process which is prone to stalling, and may take place only in short bursts. We also find suggestions that BAM complexes work collaboratively with each other, and with the lipopolysaccharide-inserting Lpt complex when in close proximity. The agent-based framework we introduce provides a means to assess and generate hypotheses on outer membrane biogenesis on previously inaccessible time scales.",
+  "authors": [
+   "Thomas Williams",
+   "James M. Osborne",
+   "Kwok Jian Goh",
+   "Trevor Lithgow",
+   "Jennifer Flegg"
+  ],
+  "categories": [
+   "q-bio.SC"
+  ],
+  "comment": null,
+  "first_author": "Thomas Williams",
+  "pdf_url": "http://arxiv.org/pdf/2606.01642",
+  "primary_category": "q-bio.SC",
+  "published": "2026-06-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "An agent-based model of outer membrane biogenesis in Gram-negative bacteria",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01656": {
+  "abstract": "Two fundamental questions have puzzled scientists for more than 150 years. How did life become homochiral and why was this specific handedness selected. Recently, it has been shown that homochirality could have emerged through the enantioselective interactions of molecules with magnetic substrates due to the asymmetric crystallization of an RNA precursor on a magnetite substrate, abundant on early Earth. This phenomenon is based on the chirality-induced spin selectivity,CISS, effect. Despite its robustness, this model could not provide an answer to the second question: why one specific handedness, D for RNA, was selected. Here we demonstrate that spin-involving processes can have different outcomes in the two enantiomers of chiral molecules. In chiral molecules with unpaired electrons or while electrons are passing through them, the total angular momentum vector, J, is aligned along the easy axis, which is defined by the magnetic anisotropy induced by the spin-orbit coupling and asymmetry of the molecular field. The magnitude J is the same for both enantiomers, but the vectors may be aligned differently relative to the molecular frame in the two enantiomers. This difference can be quantified by, for example, by the angle between J and electric dipole moment of the molecule. We show by direct measurements, theory, and ab initio calculations that dynamic spin processes in chiral molecules could result in different efficiencies of spin-related phenomena, including the interaction of chiral molecules with magnetic surfaces. The findings may provide an explanation for the specific homochirality in nature.",
+  "authors": [
+   "Yossi Paltiel",
+   "Daniel Goldberg",
+   "Nir Yuran",
+   "Shira Yochelis",
+   "Jia Hao Soh",
+   "Christopher Seibe",
+   "Jurgen Gauss",
+   "Shmuel Zilberg",
+   "S. Furkan Ozturk",
+   "Jonas Fransson",
+   "Anna I. Krylov",
+   "Ron Naaman"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yossi Paltiel",
+  "pdf_url": "http://arxiv.org/pdf/2606.01656",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "ab-initio",
+   "magnetic-properties"
+  ],
+  "title": "Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01728": {
+  "abstract": "Recent experiments simulating two-dimensional few-fermion systems have observed emergent hydrodynamic behavior, i.e., interaction-driven elliptic flow by adding fermions two at a time [S.~Brandstetter et al., Nat. Phys. (2025)]. Due to the curse of dimensionality and strong correlations, capturing such phenomena beyond two particles remains challenging. Here, we use the ab initio time-dependent explicitly correlated Gaussian (TDECG) method to quantitatively reproduce these experimental observations. With only a moderate number of correlated Gaussian basis functions, our approach obtains converged dynamical observables for systems up to six particles. Furthermore, real-time access to the many-body wavefunction and two-point correlation functions enables us to visualize the transformation from a strongly interacting gas to a stream of paired molecules, i.e., a dynamical BCS-BEC crossover.",
+  "authors": [
+   "Xin-Yuan Gao",
+   "Kai Yuen Lee",
+   "Qingze Guan",
+   "Yangqian Yan"
+  ],
+  "categories": [
+   "cond-mat.quant-gas"
+  ],
+  "comment": "30 pages, 14 figures",
+  "first_author": "Xin-Yuan Gao",
+  "pdf_url": "http://arxiv.org/pdf/2606.01728",
+  "primary_category": "cond-mat.quant-gas",
+  "published": "2026-06-01",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Microscopic Origin of Emergent Elliptic Flow and Molecule Formation in Strongly Interacting Quasi-Two-Dimensional Few-Body Systems",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01730": {
+  "abstract": "Large language models (LLMs) are increasingly used as heuristic advisors for black-box optimization, yet their suggestions and self-reported confidence are not necessarily calibrated to downstream objective values. This issue becomes more pronounced in multi-objective Bayesian optimization, where different objectives may require different expert knowledge and where an LLM expert can be useful for one objective but misleading for another.   We study how to use LLM-generated expert priors in discrete multi-objective Bayesian optimization without blindly trusting them. We propose an objective-wise reputation-market mechanism that treats each expert-objective pair as a falsifiable prior source. Expert weights are updated online from observed objective feedback, discounted over time, and gated by market-level trust. We then introduce a decoupled counterfactual gate that can use the LLM prior without confidence, use it with confidence, or abstain from the LLM prior entirely.   Across controlled synthetic stress tests and three molecule optimization benchmarks with \\qwenflash{}-generated expert priors, we find that dynamic objective-wise calibration improves robustness over fixed LLM priors. However, raw LLM confidence is not reliably beneficial: on ESOL, confidence is positively correlated with prediction error; on FreeSolv, confidence can help; and on Lipophilicity, ignoring confidence remains strongest. Our fixed three-arm counterfactual gate improves over the first counterfactual variant on ESOL and FreeSolv, while an attempted margin portfolio exposes a useful negative result: margin selection should be acquisition-aware rather than based only on one-step prior error.",
+  "authors": [
+   "Jiangyu Chen",
+   " Banyi"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jiangyu Chen",
+  "pdf_url": "http://arxiv.org/pdf/2606.01730",
+  "primary_category": "cs.AI",
+  "published": "2026-06-01",
+  "tags": [
+   "bayesian-optimization"
+  ],
+  "title": "Evidence-Gated LLM Priors for Multi-Objective Bayesian Optimization",
+  "topics": [
+   "Large Language Models & Materials",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01748": {
+  "abstract": "Hydrogen embrittlement and tritium leakage pose critical challenges for fusion reactor structural components, rendering α-Al2O3/Fe interfaces vital as tritium permeation barriers. Here, the thermodynamic stability, trapping energetics, and hydrogen-induced decohesion at the α-Al2O3 (0001)/Fe(110) interface were systematically investigated using density functional theory. Single-hydrogen incorporation reveals that the Fe-hollow site is the most stable trapping region, owing to local free volume and heterogeneous interfacial bonding. Multi-hydrogen analysis demonstrates that trapping behavior is concentration-dependent; increasing hydrogen concentration progressively reduces the available free volume and increases local lattice distortion. As a result, simulated cleavage processes show a monotonic decrease in cleavage energy with accumulation. At high hydrogen concentrations, cleavage energy turns negative, indicating spontaneous interfacial exfoliation. These quantitative insights clarify the atomistic degradation mechanisms of protective oxide scales, offering a theoretical framework for optimizing high-performance permeation barriers in fusion-relevant steels.",
+  "authors": [
+   "Youngseok Hwang",
+   "Norihito Sakaguchi",
+   "Yuji Kunisada"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Youngseok Hwang",
+  "pdf_url": "http://arxiv.org/pdf/2606.01748",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "dft"
+  ],
+  "title": "Hydrogen trapping and interfacial decohesion at the α-Al2O3(0001)/Fe(110) interface",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01763": {
+  "abstract": "Transition metal oxides have attracted much attention as photo(electrochemical)-catalysts but practical applications are typically hampered by their low and anisotropic charge mobility. A deep understanding of excess charge carrier transport in these materials requires a dynamical treatment of nuclear motion that goes well beyond standard approaches. Here we introduce DeepPolaron, a machine learning framework boosting the accessible time scale of first principles molecular dynamics of adiabatic polaron transport by three orders of magnitude at a virtually negligible loss in accuracy. We apply our method to excess electron and hole transport in titanium dioxide rutile and anatase. We find that the excess electron in rutile relaxes to a polaron predominantly localized on a single Ti atom with hopping occurring only along the [001] direction, associated with an activation energy of 39 meV and a room temperature mobility of $4.4 \\times 10^{-2}$ cm$^2$/Vs in good agreement with experiment. In contrast the hole polaron in anatase is localized on a single O atom, and due to poor O 2p orbital overlap with first nearest neighbors charge transport occurs primarily to second nearest neighbors, with a large activation energy of 139 meV resulting in a small room temperature mobility of $1.4 \\times 10^{-3}$ cm$^2$/Vs. This work provides a finite temperature first-principles characterization of small polaron transport in rutile and anatase, with a methodology that is directly transferable to other small polaron forming materials and interfacial charge-transfer processes.",
+  "authors": [
+   "Christian S. Ahart",
+   "Denan Li",
+   "Jochen Blumberger",
+   "Shi Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Christian S. Ahart",
+  "pdf_url": "http://arxiv.org/pdf/2606.01763",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics",
+   "thermal-properties",
+   "thermodynamic-integration",
+   "tmo"
+  ],
+  "title": "Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01781": {
+  "abstract": "Accurate prediction of protein-protein interaction sites (PPIS) is essential for understanding cellular processes, disease mechanisms, and therapeutic target discovery. Graph-based deep learning has advanced PPIS prediction by incorporating residue-level structural context. However, most graph-based models still rely on fixed propagation schemes that treat all residues similarly, despite the structural and functional heterogeneity of protein interfaces. Such propagation may limit the ability to adapt information diffusion to local geometric environments, making it difficult to distinguish true interaction sites from structurally similar non-interacting neighbors. We present SGAP-PPIS, a structure-guided adaptive propagation model for PPIS prediction. Rather than using a fixed propagation mechanism, SGAP-PPIS leverages multi-scale geometric states from an equivariant graph neural network to generate residue-wise propagation coefficients. This design allows each residue to adaptively balance local feature preservation and neighborhood diffusion according to its geometric microenvironment. Experimental results show that SGAP-PPIS achieves competitive performance among the state-of-the-art methods on Test\\_60. Ablation studies show that geometry-conditioned adaptive propagation, scale-aligned geometric guidance, and multi-step propagation-state representation jointly drive these improvements.",
+  "authors": [
+   "Enqiang Zhu",
+   "Yizi Liu",
+   "Yilong Luo",
+   "Yao Chen",
+   "Yu Zhang",
+   "Baoshan Ma"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "9 pages, 3 figures",
+  "first_author": "Enqiang Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2606.01781",
+  "primary_category": "cs.AI",
+  "published": "2026-06-01",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Structure-Guided Adaptive Propagation for Protein-Protein Interaction Site Prediction",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01833": {
+  "abstract": "Generative emulators of protein dynamics produce plausible trajectories at a fraction of the cost of molecular dynamics, but they inherit their training distribution and tend to revisit known states rather than reach rare ones under long-horizon extrapolation. Inspired by classical enhanced sampling, we introduce an implicit, history-dependent bias in the generative space of a pretrained emulator. Specifically, a history-aware score estimator augments the frozen emulator with a distance-weighted bias that steers reverse-time sampling away from previously generated structures, regularized by an environment-support term. To preserve structural validity at long horizons, a score-based refinement step re-projects drifted samples onto the data manifold using the frozen emulator. Our experiments demonstrate that the method (i) raises diversity by $35\\%$ on DynamicPDB-80; (ii) on $12$ zero-shot Fast-Folding proteins, the learned bias alone reaches the unbiased emulator's coverage up to ${\\sim}15\\times$ faster, and pairing it with refinement reaches the coverage up to ${\\sim}37\\times$ faster while covering ${\\sim}3\\times$ as many low-energy states. Code will be released soon.",
+  "authors": [
+   "Kaihui Cheng",
+   "Zhiqiang Cai",
+   "Wenkai Xiang",
+   "Zhihang Hu",
+   "Siyu Zhu",
+   "Tzuhsiung Yang",
+   "Yuan Qi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Kaihui Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2606.01833",
+  "primary_category": "cs.LG",
+  "published": "2026-06-01",
+  "tags": [
+   "enhanced-sampling",
+   "molecular-dynamics"
+  ],
+  "title": "Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01846": {
+  "abstract": "Mosquito-borne infectious diseases cause more than 700000 deaths worldwide each year. The long-term use of conventional chemical insecticides has induced serious resistance problems, creating an urgent need to develop novel, highly effective, and ecologically sustainable alternatives. While existing artificial intelligence approaches in this domain have focused primarily on activity prediction and classification, they leave a critical gap in the de~novo generation of novel molecular scaffolds. In this study, we propose Mos-Gen, a motif-aware generative collaborative framework that couples the pretrained molecular representation model Uni-Mol with a variational autoencoder (VAE), specifically tailored for the design of disulfide-containing allicin derivatives as mosquito insecticides. Among the generated candidates, fourteen compounds -- comprising nine predicted positives and five predicted negatives -- were selected for chemical synthesis and experimental validation. The hit rate among the predicted positives reached 78%, whereas none of the predicted negatives exhibited mosquitocidal activity. These experimental results fully validated the high-precision screening capability of the Mos-Gen framework.",
+  "authors": [
+   "Lina Wang",
+   "Yaning Cui"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Lina Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.01846",
+  "primary_category": "cs.LG",
+  "published": "2026-06-01",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "Mos-Gen: A Generative Molecular Framework for Mosquito Insecticide Design",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01880": {
+  "abstract": "The electronic structure of conventional two-dimensional transition metal dichalcogenides (TMDs) is highly sensitive to lattice deformation, often leading to indirect-to-direct band-gap transitions that compromise performance in flexible nanoelectronic applications. Janus TMDs, with their broken mirror symmetry and intrinsic out-of-plane dipoles, offer a promising alternative platform for electrostatic tuning. However, their electronic stability under strain and the role of the chalcogen stacking sequence in their heterostructures remains poorly understood. Here, we study from first principles the strain tolerance and piezoelectric properties of MoSSe/WSSe heterobilayers. By examining different configurations, we demonstrate that the interface chemistry strongly modulates interlayer coupling, dynamic charge redistribution, and dipole interactions. Importantly, the combined effects of intrinsic electric fields and interface electrostatics effectively suppress the strain-induced band-gap transitions typical of conventional TMDs. Moreover, while the in-plane piezoelectric response remains nearly insensitive to the stacking order, the shear piezoelectric coefficient depends heavily on the interfacial symmetry and can be effectively tuned by strain modulation. Our results highlight interfacial engineering as a powerful route to design strain-resilient Janus heterostructures for next-generation flexible optoelectronic, valleytronic, and piezotronic devices.",
+  "authors": [
+   "Surender Kumar",
+   "Mostafa Torkashvand",
+   "Stefan Velja",
+   "Caterina Cocchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Surender Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2606.01880",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "electronic-structure",
+   "tmd"
+  ],
+  "title": "Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01978": {
+  "abstract": "Ion transport in glyme-based electrolytes arises from a complex interplay between solvation structure, ion correlations, and polymer chain length. Here, combining pulsed-field gradient nuclear magnetic resonance (PFG-NMR), ionic conductivity measurements, and molecular dynamics (MD) simulations, we investigate the diffusion of monovalent cations (Li$^+$, Na$^+$, Cs$^+$) and TFSI$^-$ anions across a wide molecular-weight range, from monoglyme to long poly(ethylene oxide) (PEO) chains up to 4000~g/mol, corresponding to $n$ up to 88, where $n$ is the number of ethylene oxide repeat units. We identify a crossover region at $n \\approx 8$ separating two transport regimes. For short chains, ion motion is consistent with a vehicular mechanism, accompanied by pronounced ion correlations. For longer chains, ion transport decouples from polymer motion and proceeds via rapid coordination exchanges within a slowly relaxing matrix. This transition is accompanied by reduced ion clustering and enhanced anion mobility, leading to increasingly anion-dominated charge transport. Overall, our results provide a molecular picture of ion transport across the molecular-to-polymeric transition and highlight the central role of solvation shell dynamics and polymer relaxation in governing ion dynamics in glyme-based electrolytes.",
+  "authors": [
+   "Aicha Jani",
+   "Simon Gravelle",
+   "Pawel Wzietek",
+   "Mehdi Zeghal",
+   "Patrick Judeinstein"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Aicha Jani",
+  "pdf_url": "http://arxiv.org/pdf/2606.01978",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-01",
+  "tags": [
+   "battery-materials",
+   "molecular-dynamics"
+  ],
+  "title": "Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01985": {
+  "abstract": "Recent breakthroughs in instruction-based image editing have captured significant attention, as models are now capable of handling real-world editing demands with the practicality required by everyday users. However, editing models trained primarily for single-turn edits often break down in multi-turn editing--the natural interactive setting where a user iteratively refines an image based on the model's own previous outputs. This failure stems from the all-or-nothing requirement, where a single failed turn compromises the entire sequence, and error propagation, where exposure bias leads to compounding editing errors. To address these challenges, we introduce MT-EditFlow, a flow-matching reinforcement learning framework designed to optimize reward signals for sequential image editing. MT-EditFlow integrates a multi-turn perspective with a multi-reward formulation to provide a unified structure applicable to both GRPO and NFT-based reinforcement learning methods. We systematically analyze and optimize the reward signal by investigating effective scoring strategies for turn-level aggregation, VLM reasoning modes to trade off reward bias and variance, and advantage fusion levels to prevent reward hacking. Our findings reveal that broadcasting the aggregated advantage across the entire editing trajectory effectively bridges the gap between local planning and global multi-turn task success. Extensive experiments demonstrate that MT-EditFlow significantly improves performance across diverse base models. Notably, it boosts FLUX.1-Kontext-dev by 6.85 points in turn-3 overall performance, surpassing state-of-the-art open-source models such as Qwen-Image-Edit. By maintaining high marginal success rates and reducing exposure bias, MT-EditFlow provides a foundation for more reliable and natural human-AI collaboration in visual content creation.",
+  "authors": [
+   "Jiahui Huang",
+   "Yasi Zhang",
+   "Tianyu Chen",
+   "Shu Wang",
+   "Jianwen Xie",
+   "Oscar Leong",
+   "Mingyuan Zhou",
+   "Nanzhu Wang",
+   "Ying Nian Wu"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Jiahui Huang",
+  "pdf_url": "http://arxiv.org/pdf/2606.01985",
+  "primary_category": "cs.CV",
+  "published": "2026-06-01",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "MT-EditFlow: Reinforcement Learning for Multi-Turn Image Editing with Flow Matching",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02085": {
+  "abstract": "A high-pressure investigation of the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ is presented, using infrared spectroscopy supplemented by density functional theory calculations. The experimental optical conductivity spectra as a function of pressure suggest the occurrence of a pressure-induced phase transition at a critical pressure $P_\\text{c}=7\\text{--}8$ GPa. This transition is most likely electronic in nature, as Raman scattering measurements provide no evidence of a significant structural phase transition. Above $P_\\text{c}$ a significant redistribution of spectral weight occurs in the optical conductivity spectrum for both materials. A Drude-Lorentz analysis of the optical data indicates a sharp reduction in the free carrier concentration at $P_\\text{c}$, concomitant with the appearance of a low-energy phonon, which was initially screened by free charge carriers. A predominantly electronic origin of the phase transition is supported by the calculated electronic band structure, Fermi surface, and interband optical conductivity as a function of pressure. Our findings provide collective evidence for a pressure-induced, most likely electronic phase transition in both van der Waals materials at $P_\\text{c}=7\\text{--}8$ GPa, highlighting the tunability of their electronic band structure by hydrostatic pressure.",
+  "authors": [
+   "M. Lamp",
+   "J. Ebad-Allah",
+   "A. Chmeruk",
+   "N. Bura",
+   "R. Schönemann",
+   "L. Balicas",
+   "S. H. Lee",
+   "Z. Q. Mao",
+   "L. Chioncel",
+   "C. A. Kuntscher"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 7 figures",
+  "first_author": "M. Lamp",
+  "pdf_url": "http://arxiv.org/pdf/2606.02085",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "band-gap",
+   "dft",
+   "phase-transition",
+   "vdw-correction"
+  ],
+  "title": "Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02104": {
+  "abstract": "Identifying minimum-energy structures of lattice proteins is a challenging discrete optimization problem. Quantum approaches such as analog quantum annealing and the gate-based quantum approximate optimization algorithm (QAOA) can address this problem after mapping it to a binary representation, which typically involves introducing penalty terms to enforce valid chain configurations. However, in this and many related problems, the use of quadratic penalty terms can be avoided by restricting the search space to independent sets in a conflict graph and using a QAOA mixer designed for the maximum independent set problem. In this work, we implement and explore this QAOA variant for lattice protein folding. Here, the objective function consists solely of the protein energy together with a simple linear bias term, without quadratic penalties. We validate this approach through classical simulations of the quantum circuits for lattice proteins of lengths $N=4$ and $N=6$. To explore larger systems, we further introduce a heuristic iterative local-search scheme, with which we successfully fold lattice proteins with lengths up to $N=14$ using local subgraphs with at most 26 qubits.",
+  "authors": [
+   "Leif Gellsersen",
+   "Anders Irbäck",
+   "Lucas Knuthson",
+   "Stefan Prestel"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.bio-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Leif Gellsersen",
+  "pdf_url": "http://arxiv.org/pdf/2606.02104",
+  "primary_category": "quant-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "Penalty-free quantum optimization applied to lattice protein folding",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02133": {
+  "abstract": "Non-monotonic sequence generation methods, such as masked diffusion models, provide a flexible alternative to left-to-right autoregressive modeling by allowing tokens to be generated in non-fixed and prescribed orders. Despite their practical advantages, most existing non-monotonic models are order-agnostic and rely on a fixed-length grid, limiting their ability to support variable-length generation and adaptive insertion order. In this work, we introduce a probabilistic framework for learning insertion order in variable-length insertion models. We formalize a bijective correspondence between insertion trajectories and permutations, which enables an exact reparameterization of the data likelihood as a sum over permutations. Building on this result, we propose the Insertion Process (IP), a stochastic generative model that jointly learns where to insert, what to insert, and when to terminate, trained via permutation-based variational inference. Unlike prior fixed-canvas approaches, IP natively supports variable-length generation and learns data-driven preferences over insertion orders. Experiments on goal-conditioned planning and molecular string generation demonstrate that learning insertion order improves both modeling quality and generalization in domains without a canonical left-to-right structure.",
+  "authors": [
+   "Yangtian Zhang",
+   "Zhe Wang",
+   "Arthur Gretton",
+   "Rex Ying",
+   "David van Dijk",
+   "Michalis K. Titsias",
+   "Jiaxin Shi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yangtian Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.02133",
+  "primary_category": "cs.LG",
+  "published": "2026-06-01",
+  "tags": [
+   "diffusion-model",
+   "generative-model"
+  ],
+  "title": "Variational Learning for Insertion-based Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02174": {
+  "abstract": "Physical entanglements between polymer chains enhance the moduli, strength, and toughness of elastomers and gels, yet relating entanglement micromechanics to macroscopic mechanical benefits remains difficult. Experimentally investigating entanglements is challenging due to their nanoscale sizes, subsurface locations, and chemical indistinguishability from their surroundings. Computationally mapping structure-property relations is costly when using physics-based models that enable direct entanglement observation, such as coarse-grained molecular dynamics (CGMD). Entanglements are also transient, configuration-dependent features without clear quantitative definitions. To address this ambiguity, we introduce an approach that quantitatively defines local entanglements along simulated polymer backbones using the Gaussian Linking Number, and introduce a geometric center of entanglement verified to represent the position through which entropic chain forces are transmitted via Kremer-Grest CGMD simulations. Unlike existing approaches, which output a single linking number for chain pairs, our method identifies the multitude of load-transmitting inter- and intra-chain entanglements along a polymer's backbone. To bridge scales, we introduce a topological distillation algorithm that converts entangled CGMD networks into representative discrete network models (DNMs), representing entanglements as vertices and primitive paths as load-transmitting edges. Our DNMs reproduce small-strain virial stress predictions of the Kremer-Grest model with a 97% reduction in computational cost, verifying both physical accuracy and computational efficiency. This distillation procedure will facilitate physics-based, predictive modeling of entangled network mechanics, from polymers to architected metamaterials.",
+  "authors": [
+   "B M Shahi Sifat Mottaqin",
+   "Benjamin Morrow",
+   "Robert J. Wagner"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "11 pages, 9 figures",
+  "first_author": "B M Shahi Sifat Mottaqin",
+  "pdf_url": "http://arxiv.org/pdf/2606.02174",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02275": {
+  "abstract": "Biomolecular condensates must assemble at specific locations and times inside living cells to perform their biological functions. However, it remains unclear how condensate formation achieves high spatiotemporal precision, responding sensitively to local chemical modifications while remaining robust to fluctuations in protein concentration. Here we study chromatin-associated BRD4 condensates to identify a physical mechanism that enables this combination of sensitivity and robustness. Using an ultra-coarse-grained molecular-dynamics model, we show that co-condensation of BRD4 with chromatin enables rapid assembly below the bulk coexistence concentration, thereby suppressing off-chromatin condensation and enhancing spatial selectivity. Multivalent binding between BRD4 and acetylated histone tails sharpens the dependence of co-condensation on acetylation density through combinatorial effects, increasing contrast between highly acetylated regions and weakly acetylated background chromatin. This mechanism explains how co-condensation and multivalent binding jointly enable sensitive yet robust spatiotemporal targeting by chromatin-associated condensates.",
+  "authors": [
+   "Yury Polyachenko",
+   "Hans-Frederick Watanabe",
+   "Alexei Korolev",
+   "William M. Jacobs"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.soft"
+  ],
+  "comment": "Includes supplementary information",
+  "first_author": "Yury Polyachenko",
+  "pdf_url": "http://arxiv.org/pdf/2606.02275",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "Co-condensation and multivalency enable acetylation-sensitive, concentration-robust assembly of BRD4 condensates",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02298": {
+  "abstract": "We demonstrate room temperature electric field control of the anomalous Hall effect in epitaxial Ni80Fe20 (Py) BaTiO3 (BTO) La0.7Sr0.3MnO3 (LSMO) thin film heterostructures grown on MgO and LaAlO3 substrates. Substrate induced strain states generate distinct magnetic anisotropies, enabling voltage driven tuning between anomalous and topological Hall contributions. Robust ferroelectric polarization in BTO, confirmed by piezoresponse force microscopy, couples strongly to interfacial orbital reconstruction and carrier redistribution. As a result, Hall resistivity exhibits giant low voltage tunability, with up to nearly 93 percent modulation at operating voltages of only 0.5 tand 2 V. Density functional theory calculations further reveal polarization controlled Rashba spin splitting, establishing a direct link between ferroelectric order and emergent quantum transport. These findings establish Py/BTO/LSMO heterostructures as promising candidates for low-power multifunctional spintronic devices, where substrate engineering enables control over emergent quantum transport phenomena.",
+  "authors": [
+   "Kusampal Yadav",
+   "Kousik Das",
+   "Aditya Raj",
+   "Mainak Ghosh",
+   "Abhishek Kumar",
+   "Kartick Biswas",
+   "Kalyan Sarkar",
+   "Pavan Nukala",
+   "Sayantika Bhowal",
+   "Devajyoti Mukherjee"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Submitted to Advanced Functional Materials. This manuscript is a preprint and has not yet undergone peer review. Sayantika Bhowal (2) and Devajyoti Mukherjee (1) are corresponding authors",
+  "first_author": "Kusampal Yadav",
+  "pdf_url": "http://arxiv.org/pdf/2606.02298",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "2d-materials",
+   "dft",
+   "thermal-properties"
+  ],
+  "title": "Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02319": {
+  "abstract": "The complexity of biomolecular simulations has substantially increased the demand for High-Performance Computing (HPC) infrastructures, particularly in molecular dynamics and coarse-grained modeling. This work presents a systematic performance and scalability analysis of the LAMMPS simulator for coarse-grained biomolecular simulations, using the antimicrobial peptide Tritrpticin (PDB ID: 1D6X) as the experimental workload. Pure MPI and hybrid MPI+OpenMP executions were evaluated in HPC environments comprising up to 8 compute nodes and 1024 simultaneous cores. Metrics of execution time, speedup, parallel efficiency, statistical variability, and internal time decomposition were investigated. Results showed that pure MPI executions deliver excellent performance in single-node environments but suffer scalability degradation in multi-node executions due to communication overhead and inter-process synchronization. Hybrid MPI+OpenMP configurations proved more efficient at large scale, reducing communication costs and better exploiting the NUMA memory hierarchy. The computational breakdown revealed that communication and electrostatic interaction routines accounted for the largest fraction of execution time at the largest pure-MPI scales. These results reinforce that performance of biomolecular HPC applications depends directly on the balance among parallelization granularity, spatial decomposition, and distributed communication costs. Hybrid MPI+OpenMP strategies represent a more sustainable alternative for coarse-grained biomolecular simulations on modern many-core architectures.",
+  "authors": [
+   "Paulo Henrique Leme Ramalho",
+   "Dennis Alves Pedersen",
+   "Fábio Andrijauskas"
+  ],
+  "categories": [
+   "cs.DC"
+  ],
+  "comment": "19 pages, 9 figures",
+  "first_author": "Paulo Henrique Leme Ramalho",
+  "pdf_url": "http://arxiv.org/pdf/2606.02319",
+  "primary_category": "cs.DC",
+  "published": "2026-06-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Strategies for Molecular Dynamics using Hybrid Systems: LAMMPS Use Case",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02386": {
+  "abstract": "Protein language models (PLMs) are passive oracles: they generate sequences in a single forward pass with no mechanism to consult external biophysical feedback or redirect generation when a candidate violates thermodynamic or structural constraints. We introduce AgentPLM, which addresses this by equipping a pre-trained PLM with i) Reasoning-Augmented Decoding (RAD), which interleaves autoregressive generation with tool calls (ESMFold, FoldX, AutoDock Vina), and ii) Contrastive Agent Policy Optimisation (CAPO), a trajectory-level extension of direct preference optimisation that trains the policy end-to-end to learn when oracle feedback is informative rather than merely imitating high-fitness sequences. We evaluate AgentPLM on benchmark tasks spanning de novo enzyme design, antibody optimisation, thermostability, PPI interface design, and zero-shot fitness prediction with standardised oracle APIs and controlled sequence-identity splits. AgentPLM achieves state-of-the-art results with a gain in antibody top-10% hit rate over the strongest passive baseline, providing mechanistic evidence of online error correction without explicit backtracking.",
+  "authors": [
+   "Sahil Rahman",
+   "Maxx Richard Rahman"
+  ],
+  "categories": [
+   "cs.AI",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Sahil Rahman",
+  "pdf_url": "http://arxiv.org/pdf/2606.02386",
+  "primary_category": "cs.AI",
+  "published": "2026-06-01",
+  "tags": [
+   "drug-discovery",
+   "protein-llm"
+  ],
+  "title": "AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02455": {
+  "abstract": "Molecular dynamics (MD) is a key tool for simulating the dynamical behavior of atomic systems. However, MD is inherently serial, which makes it difficult to increase single-system throughput with concurrent compute. To address this, we introduce Langevin Speculative Dynamics (LSD), a distributed and model-agnostic speculative sampler for accelerating MD without adding relative error. Inspired by speculative methods in language and diffusion modeling, LSD uses a draft model to propose fast simulation steps and verifies them in parallel with a slower target model, applying a transport map from the draft to the target distribution. We extend speculative sampling to second-order Langevin dynamics, derive the achievable speedup as a function of physical parameters, show that LSD generalizes across different systems and draft-target combinations with a 3-9x speedup, and confirm theoretically and empirically that LSD samples trajectories from its target model distribution.",
+  "authors": [
+   "Arthur Kosmala",
+   "Stephan Günnemann",
+   "Meng Gao",
+   "Brandon Wood"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph",
+   "stat.CO"
+  ],
+  "comment": "Forty-Third International Conference on Machine Learning (ICML 2026). 32 pages, 14 figures, 8 tables",
+  "first_author": "Arthur Kosmala",
+  "pdf_url": "http://arxiv.org/pdf/2606.02455",
+  "primary_category": "cs.LG",
+  "published": "2026-06-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Speculative Sampling For Faster Molecular Dynamics",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02507": {
+  "abstract": "Inverse materials design is shifting materials discovery from forward prediction to targeted proposal of candidates that satisfy objectives under physical constraints. Here, we review recent advances in generative crystal structure modeling, multimodal learning, and closed-loop design pipelines for crystalline solids. We survey how modern generators learn chemical-structural priors from large databases to enable controllable sampling of periodic structures, and compare leading model classes including variational autoencoders, normalizing flows, autoregressive formulations, and diffusion models. Particular attention is given to how feasibility constraints and physical priors are enforced across the workflow, through representation choices, training objectives, sampling-time guidance, and post-generation screening and relaxation. We also discuss how multimodal learning fuses diverse materials modalities, including crystal structures, thermodynamic, electronic information, microscopy, spectroscopy, processing context, and scientific text, to construct a more universal, transferable representation of chemical space. In addition, diverse inverse-design strategies are examined, particularly those that integrate conditional generation with latent optimization, Bayesian optimization, reinforcement learning, and active learning. Finally, we highlight recurring failure modes, such as surrogate exploitation, diversity collapse, distribution shift, and the stability-synthesizability gap, and outline discovery-grade evaluation practices based on staged reporting of validity, novelty, uniqueness, stability, and cost.",
+  "authors": [
+   "Anand Babu",
+   "Rogério Almeida Gouvêa",
+   "Gian-Marco Rignanese"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.ET",
+   "cs.LG",
+   "physics.app-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Anand Babu",
+  "pdf_url": "http://arxiv.org/pdf/2606.02507",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "active-learning",
+   "bayesian-optimization",
+   "chemical-space",
+   "crystal-structure",
+   "diffusion-model",
+   "materials-discovery",
+   "reinforcement-learning"
+  ],
+  "title": "Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02510": {
+  "abstract": "Constructing faithful 4D worlds from LiDAR-acquired sequences is crucial for embodied AI, yet current generative frameworks apply uniform modeling capacity across all spatial regions. This ignores that perceptual difficulty varies dramatically within a single scan: distant surfaces, occluded boundaries, and small-scale objects carry far higher uncertainty than well-observed structures. We present U4D, a new framework that explicitly leverages spatial uncertainty to guide LiDAR scene generation in a \"hard-to-easy\" schedule. U4D derives per-point uncertainty maps via Shannon Entropy from a pretrained segmentor, then applies an unconditional diffusion stage to synthesize high-entropy areas with precise geometry, followed by a conditional completion stage that fills in the remaining regions using these structures as priors. A MoST (Mixture of Spatio-Temporal) block further maintains cross-frame coherence by dynamically balancing spatial detail and temporal continuity. Extensive experiments on nuScenes and SemanticKITTI demonstrate state-of-the-art scene fidelity, temporal consistency, and downstream performance.",
+  "authors": [
+   "Xiang Xu",
+   "Alan Liang",
+   "Youquan Liu",
+   "Xian Sun",
+   "Linfeng Li",
+   "Lingdong Kong",
+   "Ziwei Liu",
+   "Qingshan Liu"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.RO"
+  ],
+  "comment": "CVPR 2026 E2E3D Workshop; GitHub at https://github.com/worldbench/U4D",
+  "first_author": "Xiang Xu",
+  "pdf_url": "http://arxiv.org/pdf/2606.02510",
+  "primary_category": "cs.CV",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "Not All Points Are Equal: Uncertainty-Aware 4D LiDAR Scene Synthesis",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-01"
+ }
+}

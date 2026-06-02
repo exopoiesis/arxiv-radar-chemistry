@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29730.html">Spin-Orbit Coupling Effects on the Structural and Electronic Properties of Planar Pentagonal p-MS$_{2}$ (M = Si, Ge, and Pb)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
@@ -728,17 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05699.html">Active Learning for Tractable and Reproducible Pulsed Laser Deposition</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Jackson S. Bentley et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05699">2603.05699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.20587.html">A Hybrid Jump-Diffusion Model for Coherent Optical Control of Quantum Emitters in hBN</a></div></td>
-<td>Saifian Farooq Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2601.20587">2601.20587</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00444.html">Upward band gap bowing and negative mixing enthalpy in multi-component cubic halide perovskite alloys</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Xiuwen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00444">2602.00444</a></td>
 </tr>
 </tbody></table>

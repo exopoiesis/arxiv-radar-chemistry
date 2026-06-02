@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1025 papers</span>
+  <span class="paper-count">1007 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Keyue Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02386.html">AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a></div></td>
+<td>Sahil Rahman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02386">2606.02386</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29926.html">A Triple-Modal Contrastive Learning Framework with Sequence, Graph, and 3D Features for Drug-Target Interaction Prediction</a></div></td>
@@ -6044,125 +6056,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00647.html">Screening of BindingDB database ligands against EGFR, HER2, Estrogen, Progesterone and NF-kB receptors based on machine learning and molecular docking</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Parham Rezaee et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00647">2405.00647</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19230.html">Deep Lead Optimization: Leveraging Generative AI for Structural Modification</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Odin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19230">2404.19230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19391.html">ZSMILES: an approach for efficient SMILES storage for random access in Virtual Screening</a></div></td>
-<td>Gianmarco Accordi et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19391">2404.19391</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19739.html">Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Ian Dunn et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19739">2404.19739</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17511.html">Bridging the Fairness Divide: Achieving Group and Individual Fairness in Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Duna Zhan et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17511">2404.17511</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16112.html">Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges</a></div></td>
-<td>Badri Narayana Patro et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16112">2404.16112</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14101.html">Efficient molecular conformation generation with quantum-inspired algorithm</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Yunting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14101">2404.14101</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13491.html">Accelerating the Generation of Molecular Conformations with Progressive Distillation of Equivariant Latent Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Romain Lacombe et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13491">2404.13491</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10354.html">Physical formula enhanced multi-task learning for pharmacokinetics prediction</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Ruifeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10354">2404.10354</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00004.html">Multi-objective generative AI for designing novel brain-targeting small molecules</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Ayush Noori et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00004">2407.00004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09606.html">A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
-<td>Pengfei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09606">2404.09606</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.11004.html">Forward Learning of Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Namyong Park et al.</td>
-<td><a href="http://arxiv.org/abs/2403.11004">2403.11004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.13005.html">Leap: molecular synthesisability scoring with intermediates</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Antonia Calvi et al.</td>
-<td><a href="http://arxiv.org/abs/2403.13005">2403.13005</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08265.html">Quantum molecular docking with quantum-inspired algorithm</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Yunting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08265">2404.08265</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06691.html">Latent Chemical Space Searching for Plug-in Multi-objective Molecule Generation</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Ningfeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06691">2404.06691</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06481.html">GeoDirDock: Guiding Docking Along Geodesic Paths</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Raúl Miñán et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06481">2404.06481</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03969.html">Transformers for molecular property prediction: Lessons learned from the past five years</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Afnan Sultan et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03969">2404.03969</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06651.html">Using GANs for De Novo Protein Design Targeting Microglial IL-3R$α$ to Inhibit Alzheimer&#x27;s Progression</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Arnav Swaroop</td>
-<td><a href="http://arxiv.org/abs/2405.06651">2405.06651</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02003.html">AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Xinze Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02003">2404.02003</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01693.html">HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-function-all.html">protein-function</a></div></td>
-<td>Rong Han et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01693">2404.01693</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08210.html">Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Mohammad Ghazi Vakili et al.</td>
-<td><a href="http://arxiv.org/abs/2402.08210">2402.08210</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermal-properties — all</h1>
-  <span class="paper-count">600 papers</span>
+  <span class="paper-count">585 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a> · <a href="tmo-all.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02298.html">Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Kusampal Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02298">2606.02298</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26529.html">Anharmonic Quantum Transport Analysis of Thermal Transport Anomalies in Ultrathin Silicon Nanowires</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
@@ -3512,107 +3524,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02516.html">Site-Controlled Purcell-Induced Bright Single Photon Emitters in Hexagonal Boron Nitride</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Mashnoon Alam Sakib et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02516">2405.02516</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19262.html">Length and torsion dependence of thermal conductivity in twisted graphene nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Alexandre F. Fonseca et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19262">2404.19262</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19692.html">The finite-$T$ Lorentz number and the thermal conductivity. Aluminum and carbon conductivities from ambient to millions of degrees Kelvin</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>M. W. C. Dharma-wardana</td>
-<td><a href="http://arxiv.org/abs/2404.19692">2404.19692</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17425.html">Weyl nodes in Ce$_3$Bi$_4$Pd$_3$ revealed by dynamical mean-field theory</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Martin Braß et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17425">2404.17425</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13801.html">Quantum Transport Simulation of Sub-1-nm Gate Length Monolayer MoS2 Transistors</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Ying Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13801">2404.13801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13241.html">Optical spectroscopy of excitons in ReS2 monolayers grown by chemical vapor deposition</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Solomon Ojo et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13241">2404.13241</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12579.html">Molecular heat transport across a time-periodic temperature gradient</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Renai Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12579">2404.12579</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12869.html">Tribo-piezoelectric Nanogenerators for Energy Harvesting: a first-principles study</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Jemal Yimer Damte et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12869">2404.12869</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12275.html">Spin-Valve-Like Magnetoresistance and Anomalous Hall Effect in Magnetic Weyl Metal Mn$_2$PdSn</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Arnab Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12275">2404.12275</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10565.html">Electronic Properties of Electroactive Ferrocenyl-Functionalized MoS2</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Trung Nghia Nguyên Lê et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10565">2404.10565</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09602.html">Guidelines for accurate and efficient calculations of mobilities in two-dimensional materials</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Jiaqi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09602">2404.09602</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09676.html">Thermodynamic and Transport Properties of Binary Mixtures of Polyethylene and Higher n-Alkanes from Physics-Informed and Machine-Learned Models</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Maria Ley-Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09676">2404.09676</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09755.html">Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Emiel Slootman et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09755">2404.09755</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10186.html">General theory for longitudinal nonreciprocal charge transport</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Hong Jian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10186">2404.10186</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07800.html">Optical and Transport Properties of Plasma Mixtures from Ab Initio Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Alexander J. White et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07800">2404.07800</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12174.html">Exploring Conformational Landscapes Along Anharmonic Low-Frequency Vibrations</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Souvik Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12174">2403.12174</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.20021.html">Interpretable Machine Learning Strategies for Accurate Prediction of Thermal Conductivity in Polymeric Systems</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Chunbo Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2403.20021">2403.20021</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01444.html">Comment on &quot;Brownian motion of droplets induced by thermal noise&quot;</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>J. B. Bell et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01444">2404.01444</a></td>
 </tr>
 </tbody></table>

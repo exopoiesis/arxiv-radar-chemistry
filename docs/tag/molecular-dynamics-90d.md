@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">446 papers</span>
+  <span class="paper-count">453 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Zhiyue Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01642.html">An agent-based model of outer membrane biogenesis in Gram-negative bacteria</a></div></td>
+<td>Thomas Williams et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01642">2606.01642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a> · <a href="tmo-90d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01833.html">Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a></div></td>
+<td>Kaihui Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01833">2606.01833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01978.html">Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Aicha Jani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01978">2606.01978</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div></td>
+<td>B M Shahi Sifat Mottaqin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02319.html">Strategies for Molecular Dynamics using Hybrid Systems: LAMMPS Use Case</a></div></td>
+<td>Paulo Henrique Leme Ramalho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02319">2606.02319</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02455.html">Speculative Sampling For Faster Molecular Dynamics</a></div></td>
+<td>Arthur Kosmala et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02455">2606.02455</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29394.html">EvoMD-LLM: Learning the Language of Species Evolution in Reactive Molecular Dynamics</a></div></td>
@@ -2678,17 +2732,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04680.html">High pressure melt dynamics in shock-compressed titanium</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Saransh Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04680">2603.04680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02572.html">Molecular Dynamics Simulations Reveal PolyQ-Length-Dependent Conformational Changes in Huntingtin Exon-1: Implications for Environmental Co-Solvent Modulation of Aggregation-Prone States</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Jai Geddes-Nelson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02572">2603.02572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02624.html">Disorder induced melting and glass formation in a one-component Lennard-Jones system</a></div></td>
-<td>Saumya Suvarna et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02624">2603.02624</a></td>
 </tr>
 </tbody></table>

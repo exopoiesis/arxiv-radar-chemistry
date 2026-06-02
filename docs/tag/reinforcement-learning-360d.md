@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01985.html">MT-EditFlow: Reinforcement Learning for Multi-Turn Image Editing with Flow Matching</a></div></td>
+<td>Jiahui Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01985">2606.01985</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28287.html">AtomComposer: Discovering Chemical Space from First Principles with Reinforcement Learning</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>

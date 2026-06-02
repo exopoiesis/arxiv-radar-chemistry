@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>magnetic-properties — all</h1>
-  <span class="paper-count">710 papers</span>
+  <span class="paper-count">697 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>Yossi Paltiel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29730.html">Spin-Orbit Coupling Effects on the Structural and Electronic Properties of Planar Pentagonal p-MS$_{2}$ (M = Si, Ge, and Pb)</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
@@ -4190,89 +4196,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04239.html">Orbital magnetization in two-dimensional materials from high-throughput computational screening</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Martin Ovesen et al.</td>
 <td><a href="http://arxiv.org/abs/2405.04239">2405.04239</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18597.html">Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Robin Guehne et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18597">2404.18597</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18283.html">Fast \textit{ab initio} design of high-entropy magnetic thin films</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Dinesh Bista et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18283">2404.18283</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12805.html">Bloch equations in Terahertz magnetic-resonance ellipsometry</a></div></td>
-<td>Viktor Rindert et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12805">2404.12805</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12275.html">Spin-Valve-Like Magnetoresistance and Anomalous Hall Effect in Magnetic Weyl Metal Mn$_2$PdSn</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Arnab Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12275">2404.12275</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09602.html">Guidelines for accurate and efficient calculations of mobilities in two-dimensional materials</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Jiaqi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09602">2404.09602</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10186.html">General theory for longitudinal nonreciprocal charge transport</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Hong Jian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10186">2404.10186</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06783.html">Geometric frustration and Dzyaloshinskii-Moriya interactions in a quantum star lattice hybrid copper sulfate</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Hajime Ishikawa et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06783">2404.06783</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07074.html">Multiscale structure-property discovery via active learning in scanning tunneling microscopy</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
-<td>Ganesh Narasimha et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07074">2404.07074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06494.html">Existence of Mexican-hat dispersion and symmetry group of a layer</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a></div></td>
-<td>Vladimir Damljanovic</td>
-<td><a href="http://arxiv.org/abs/2404.06494">2404.06494</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05294.html">Reduction of (pseudo-)Critical Temperatures of Chiral Restoration and Deconfinement Phase Transitions in a Magnetized PNJL Model</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Shijun Mao</td>
-<td><a href="http://arxiv.org/abs/2404.05294">2404.05294</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04459.html">Spin-charge-lattice coupling across the charge density wave transition in a Kagome lattice antiferromagnet</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Xiaokun Teng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04459">2404.04459</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.18169.html">An ab-initio study of nodal-arcs, axial strain&#x27;s effect on nodal-lines &amp; Weyl nodes and Weyl-contributed Seebeck coefficient in TaAs class of Weyl semimetals</a></div></td>
-<td>Vivek Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2403.18169">2403.18169</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02427.html">In-situ tunable giant electrical anisotropy in a grating gated AlGaN/GaN two-dimensional electron gas</a></div></td>
-<td>Ting-Ting Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02427">2404.02427</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02315.html">Evolution of Berry Phase and Half-Metallicity in Cr$_2$Te$_3$ in Response to Strain, Filling, Thickness, and Surface Termination</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Sohee Kwon et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02315">2404.02315</a></td>
 </tr>
 </tbody></table>

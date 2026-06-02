@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Keyue Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02133.html">Variational Learning for Insertion-based Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Yangtian Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02133">2606.02133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30248.html">GenClaw: Code-Driven Agentic Image Generation</a></div></td>
 <td>Junyan Ye et al.</td>
@@ -2876,17 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07083.html">Inverse Design of Metamaterials with Manufacturing-Guiding Spectrum-to-Structure Conditional Diffusion Model</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Jiawen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07083">2506.07083</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05860.html">Microstructural Studies Using Generative Adversarial Network (GAN): a Case Study</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Owais Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05860">2506.05860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07738.html">AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization</a></div></td>
-<td>Lanjiong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07738">2506.07738</a></td>
 </tr>
 </tbody></table>

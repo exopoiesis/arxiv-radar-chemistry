@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Zhiyue Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29821.html">Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Yanmei Zang et al.</td>
@@ -1076,11 +1082,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04228.html">False Metallization in Short-Ranged Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Isaac J. Parker et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04228">2603.04228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02572.html">Molecular Dynamics Simulations Reveal PolyQ-Length-Dependent Conformational Changes in Huntingtin Exon-1: Implications for Environmental Co-Solvent Modulation of Aggregation-Prone States</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jai Geddes-Nelson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02572">2603.02572</a></td>
 </tr>
 </tbody></table>

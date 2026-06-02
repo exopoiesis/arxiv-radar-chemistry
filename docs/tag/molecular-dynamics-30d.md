@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Zhiyue Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a> · <a href="replica-exchange-30d.html">replica-exchange</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01642.html">An agent-based model of outer membrane biogenesis in Gram-negative bacteria</a></div></td>
+<td>Thomas Williams et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01642">2606.01642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a> · <a href="tmo-30d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01833.html">Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a></div></td>
+<td>Kaihui Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01833">2606.01833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01978.html">Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
+<td>Aicha Jani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01978">2606.01978</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div></td>
+<td>B M Shahi Sifat Mottaqin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02319.html">Strategies for Molecular Dynamics using Hybrid Systems: LAMMPS Use Case</a></div></td>
+<td>Paulo Henrique Leme Ramalho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02319">2606.02319</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02455.html">Speculative Sampling For Faster Molecular Dynamics</a></div></td>
+<td>Arthur Kosmala et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02455">2606.02455</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29394.html">EvoMD-LLM: Learning the Language of Species Evolution in Reactive Molecular Dynamics</a></div></td>
@@ -692,17 +746,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02101.html">Revisiting the Rheology of Neutron Star Crusts with Molecular Dynamics</a></div></td>
 <td>Matthew E Caplan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02101">2605.02101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01261.html">Loop expansion in polymer field theory: application to phase separation</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Kiyoharu Kawana et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01261">2605.01261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01593.html">First-principles simulation of shocked H-He mixture along the principal Hugoniot</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Ammar A. Ellaboudy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01593">2605.01593</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01846.html">Mos-Gen: A Generative Molecular Framework for Mosquito Insecticide Design</a></div></td>
+<td>Lina Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01846">2606.01846</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30247.html">OOD-GraphLLM: Graph Large Language Model for Out-of-Distribution Generalized Drug Synergy Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
@@ -284,23 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19500.html">CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Hou Hei Lam et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19500">2511.19500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17204.html">SpecBridge: Bridging Mass Spectrometry and Molecular Representations via Cross-Modal Alignment</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Yinkai Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.17204">2601.17204</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02605.html">Bayesian Optimization in Chemical Compound Sub-Spaces using Low-Dimensional Molecular Descriptors</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Yun-Wen Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02605">2603.02605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03109.html">Quantum-Inspired Hamiltonian Feature Extraction for ADMET Prediction: A Simulation Study</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>B. Maurice Benson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03109">2603.03109</a></td>
 </tr>
 </tbody></table>

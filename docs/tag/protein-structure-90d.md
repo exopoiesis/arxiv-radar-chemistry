@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Keyue Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02104.html">Penalty-free quantum optimization applied to lattice protein folding</a></div></td>
+<td>Leif Gellsersen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02104">2606.02104</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29228.html">Traditional machine learning vs. deep learning from dynamic graph representations of proteins&#x27; 3D folds in the task of protein structure classification</a></div></td>
 <td>Aydin Wells et al.</td>
@@ -398,17 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04045.html">Inference-Time Toxicity Mitigation in Protein Language Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Manuel Fernández Burda et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04045">2603.04045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="string-method-90d.html">string-method</a></div></td>
-<td>Polina V. Banushkina et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02753.html">Deep learning-guided evolutionary optimization for protein design</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Erik Hartman et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02753">2603.02753</a></td>
 </tr>
 </tbody></table>

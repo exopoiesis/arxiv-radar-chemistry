@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -668,11 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17960.html">The Harrow-Hassidim-Lloyd algorithm with qutrits</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Tushti Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17960">2511.17960</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="string-method-90d.html">string-method</a></div></td>
-<td>Polina V. Banushkina et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
 </tr>
 </tbody></table>

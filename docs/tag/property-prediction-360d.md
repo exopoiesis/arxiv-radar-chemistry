@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1496,23 +1496,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06915.html">Graph Neural Networks in Modern AI-aided Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Odin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06915">2506.06915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19110.html">Learning the Electronic Hamiltonian of Large Atomic Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Chen Hao Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19110">2501.19110</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05814.html">Positional Encoding meets Persistent Homology on Graphs</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Yogesh Verma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05814">2506.05814</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05860.html">Microstructural Studies Using Generative Adversarial Network (GAN): a Case Study</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Owais Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05860">2506.05860</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermal-properties — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <strong>30d</strong> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a> · <a href="tmo-30d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02298.html">Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Kusampal Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02298">2606.02298</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26529.html">Anharmonic Quantum Transport Analysis of Thermal Transport Anomalies in Ultrathin Silicon Nanowires</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>

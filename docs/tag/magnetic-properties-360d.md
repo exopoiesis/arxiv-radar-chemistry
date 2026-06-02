@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Yossi Paltiel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29730.html">Spin-Orbit Coupling Effects on the Structural and Electronic Properties of Planar Pentagonal p-MS$_{2}$ (M = Si, Ge, and Pb)</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Phuc-Dang Truong et al.</td>
@@ -2312,11 +2318,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07220.html">Some features in 4-level generation in LIPLs</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Lev Nagli et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07220">2506.07220</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03716.html">Discovery of magnetic-field-tunable density waves in a layered altermagnet</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Christopher Candelora et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03716">2503.03716</a></td>
 </tr>
 </tbody></table>

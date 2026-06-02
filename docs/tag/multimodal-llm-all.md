@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multimodal-llm — all</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,11 +710,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16829.html">Make-it-Real: Unleashing Large Multimodal Model for Painting 3D Objects with Realistic Materials</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="materials-science-all.html">materials-science</a></div></td>
 <td>Ye Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2404.16829">2404.16829</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02838.html">I-Design: Personalized LLM Interior Designer</a></div></td>
-<td>Ata Çelen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02838">2404.02838</a></td>
 </tr>
 </tbody></table>

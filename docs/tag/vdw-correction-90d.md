@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25982.html">Light-Induced Transient Polarization Reversal in Rhombohedrally Stacked Bilayer Transition-Metal Dichalcogenides via an Electronic Mechanism</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Xiangzhou Zhu et al.</td>
@@ -266,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04193.html">Electronic and structural properties of V$_2$O$_5$ layered polymorphs</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Sakthi Kasthurirengan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04193">2603.04193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21885.html">Intrinsic (non)-Gilbert damping in magnetic insulators calculated from a minimal model and \textit{ab initio} spin Hamiltonians</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Andrei Shumilin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21885">2602.21885</a></td>
 </tr>
 </tbody></table>

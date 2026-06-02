@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02386.html">AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Sahil Rahman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02386">2606.02386</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28886.html">Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Xiao Luo</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04045.html">Inference-Time Toxicity Mitigation in Protein Language Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Manuel Fernández Burda et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04045">2603.04045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00253.html">CoPeP: Benchmarking Continual Pretraining for Protein Language Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Darshan Patil et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00253">2603.00253</a></td>
 </tr>
 </tbody></table>

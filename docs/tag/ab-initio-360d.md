@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1610 papers</span>
+  <span class="paper-count">1612 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Yossi Paltiel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01728.html">Microscopic Origin of Emergent Elliptic Flow and Molecule Formation in Strongly Interacting Quasi-Two-Dimensional Few-Body Systems</a></div></td>
+<td>Xin-Yuan Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01728">2606.01728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a> · <a href="tmo-360d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Surender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29424.html">Model-free estimation in scattering analysis of microscopy</a></div></td>
@@ -9662,17 +9686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04692.html">Towards ab initio Realizations of Collins&#x27; Conjecture</a></div></td>
 <td>Abdulrahman Y. Zamani et al.</td>
 <td><a href="http://arxiv.org/abs/2504.04692">2504.04692</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13681.html">Ab Initio Nonparametric Variable Selection for Scalable Symbolic Regression with Large $p$</a></div></td>
-<td>Shengbin Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13681">2410.13681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19110.html">Learning the Electronic Hamiltonian of Large Atomic Structures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Chen Hao Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19110">2501.19110</a></td>
 </tr>
 </tbody></table>

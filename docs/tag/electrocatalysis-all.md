@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrocatalysis — all</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <a href="electrocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,23 +362,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17440.html">CataLM: Empowering Catalyst Design Through Large Language Models</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
 <td>Ludi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.17440">2405.17440</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14810.html">2D Monolayer Molybdenum (IV) Telluride TMD: An Efficient Electrocatalyst for Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Vikash Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14810">2404.14810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10409.html">Efficient Electrochemical CO2 Reduction Reaction over Cu-decorated Biphenylene</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Radha N Somaiya et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10409">2404.10409</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07793.html">First-Principles Study of Penta-CN2 Quantum Dots for Efficient Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Rupali Jindal et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07793">2404.07793</a></td>
 </tr>
 </tbody></table>

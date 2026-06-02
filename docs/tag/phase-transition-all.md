@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transition — all</h1>
-  <span class="paper-count">435 papers</span>
+  <span class="paper-count">427 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22415.html">Emergent magnetic and charge ordered phases in freestanding ultrathin \ce{LaVO3}</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="tmo-all.html">tmo</a></div></td>
@@ -2570,59 +2576,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05864.html">SMARTINI3: Systematic Parametrization of Realistic Multi-Scale Membrane Models via Unsupervised Learning and Multi-Objective Evolutionary Algorithms</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
 <td>Alireza Soleimani et al.</td>
 <td><a href="http://arxiv.org/abs/2405.05864">2405.05864</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18597.html">Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Robin Guehne et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18597">2404.18597</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18740.html">Diffuse scattering from dynamically compressed single-crystal zirconium following the pressure-induced $α\toω$ phase transition</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>P. G. Heighway et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18740">2404.18740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17722.html">Simulating Crystallization in a Colloidal System Using State Predictive Information Bottleneck based Enhanced Sampling</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="string-method-all.html">string-method</a></div></td>
-<td>Vanessa J. Meraz et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17722">2404.17722</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11911.html">Tunable magnetism in bilayer transition metal dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Li-Ya Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11911">2404.11911</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00100.html">Magnetic properties of the spiral spin liquid and surrounding phases in the square lattice XY model</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Matías G. Gonzalez et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00100">2404.00100</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07693.html">The photoinduced hidden metallic phase of monoclinic VO2 driven by local nucleation via a self-amplification process</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Feng-Wu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07693">2404.07693</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05294.html">Reduction of (pseudo-)Critical Temperatures of Chiral Restoration and Deconfinement Phase Transitions in a Magnetized PNJL Model</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Shijun Mao</td>
-<td><a href="http://arxiv.org/abs/2404.05294">2404.05294</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05644.html">Size dependent solid-solid crystallization of halide perovskites</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Paramvir Ahlawat</td>
-<td><a href="http://arxiv.org/abs/2404.05644">2404.05644</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00917.html">Continuous crossover between insulating ferroelectrics and the polar metals: \textit{Ab initio} calculation of structural phase transitions of Li$B$O$_3$ ($B$ = Ta, W, Re, Os)</a></div></td>
-<td>Ryota Masuki et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00917">2404.00917</a></td>
 </tr>
 </tbody></table>

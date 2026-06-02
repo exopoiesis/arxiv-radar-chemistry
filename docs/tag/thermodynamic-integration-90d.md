@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="tmo-90d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27077.html">Electron Polaron at Neutral 180$^\circ$ Domain Wall in PbTiO$_3$: Stability, Trapping Energies, and Transverse Polarization</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Mohammad Amirabbasi et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04680.html">High pressure melt dynamics in shock-compressed titanium</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Saransh Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04680">2603.04680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03133.html">Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Amal Raj Veluthedath Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03133">2603.03133</a></td>
 </tr>
 </tbody></table>

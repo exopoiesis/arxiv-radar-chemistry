@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01538.html">MPMWorlds: Material-Point-Method Simulations for Inferring and Extrapolating Physical Dynamics</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Žiga Kovačič et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01538">2606.01538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="tmd-30d.html">tmd</a></div></td>
+<td>Surender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02298.html">Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Kusampal Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02298">2606.02298</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29821.html">Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>

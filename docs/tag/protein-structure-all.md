@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">476 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a></div></td>
+<td>Keyue Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02104.html">Penalty-free quantum optimization applied to lattice protein folding</a></div></td>
+<td>Leif Gellsersen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02104">2606.02104</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29228.html">Traditional machine learning vs. deep learning from dynamic graph representations of proteins&#x27; 3D folds in the task of protein structure classification</a></div></td>
@@ -2822,53 +2834,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01520.html">AI for Manufacturing and Healthcare: a chemistry and engineering perspective</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Jihua Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01520">2405.01520</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06658.html">ProteinEngine: Empower LLM with Domain Knowledge for Protein Engineering</a></div><div class="paper-tags"><a href="protein-function-all.html">protein-function</a></div></td>
-<td>Yiqing Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06658">2405.06658</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11068.html">ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours</a></div></td>
-<td>Feiwen Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11068">2404.11068</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07194.html">VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Florian Sestak et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07194">2404.07194</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04810.html">AlphaCrystal-II: Distance matrix based crystal structure prediction using deep learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Yuqi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04810">2404.04810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04041.html">The Origin of Mutational Epistasis</a></div></td>
-<td>Jorge A. Vila</td>
-<td><a href="http://arxiv.org/abs/2404.04041">2404.04041</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06651.html">Using GANs for De Novo Protein Design Targeting Microglial IL-3R$α$ to Inhibit Alzheimer&#x27;s Progression</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Arnav Swaroop</td>
-<td><a href="http://arxiv.org/abs/2405.06651">2405.06651</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.05279.html">Computing the Committor with the Committor: an Anatomy of the Transition State Ensemble</a></div></td>
-<td>Peilin Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2401.05279">2401.05279</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01405.html">The curious case of A31P, a topology-switching mutant of the Repressor of Primer protein : A molecular dynamics study of its folding and misfolding</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Olympia-Dialekti Vouzina et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01405">2404.01405</a></td>
 </tr>
 </tbody></table>

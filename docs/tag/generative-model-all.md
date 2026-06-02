@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">782 papers</span>
+  <span class="paper-count">772 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Keyue Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02133.html">Variational Learning for Insertion-based Generation</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
+<td>Yangtian Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02133">2606.02133</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30248.html">GenClaw: Code-Driven Agentic Image Generation</a></div></td>
@@ -4634,77 +4646,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00751.html">F$^3$low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Shaoning Li et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00751">2405.00751</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19230.html">Deep Lead Optimization: Leveraging Generative AI for Structural Modification</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Odin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19230">2404.19230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19739.html">Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Ian Dunn et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19739">2404.19739</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01413.html">Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Matthias Gerstgrasser et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01413">2404.01413</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16292.html">One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Arman Maesumi et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16292">2404.16292</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16566.html">Boltzmann Generators and the New Frontier of Computational Sampling in Many-Body Systems</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Alessandro Coretti et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16566">2404.16566</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15625.html">Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Xu Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15625">2404.15625</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11593.html">IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Xi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11593">2404.11593</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15386.html">U Can&#x27;t Gen This? A Survey of Intellectual Property Protection Methods for Data in Generative AI</a></div></td>
-<td>Tanja Šarčević et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15386">2406.15386</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12650.html">F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Man M. Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12650">2404.12650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.13005.html">Leap: molecular synthesisability scoring with intermediates</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Antonia Calvi et al.</td>
-<td><a href="http://arxiv.org/abs/2403.13005">2403.13005</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08210.html">Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Mohammad Ghazi Vakili et al.</td>
-<td><a href="http://arxiv.org/abs/2402.08210">2402.08210</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08708.html">Zero Shot Molecular Generation via Similarity Kernels</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Rokas Elijošius et al.</td>
-<td><a href="http://arxiv.org/abs/2402.08708">2402.08708</a></td>
 </tr>
 </tbody></table>

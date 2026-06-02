@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">259 papers</span>
+  <span class="paper-count">253 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01846.html">Mos-Gen: A Generative Molecular Framework for Mosquito Insecticide Design</a></div></td>
+<td>Lina Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01846">2606.01846</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30247.html">OOD-GraphLLM: Graph Large Language Model for Out-of-Distribution Generalized Drug Synergy Prediction</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
@@ -1526,47 +1532,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00949.html">The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
 <td>Lee Youngmin et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00949">2405.00949</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00044.html">UAlign: Pushing the Limit of Template-free Retrosynthesis Prediction with Unsupervised SMILES Alignment</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
-<td>Kaipeng Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00044">2404.00044</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10561.html">HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction</a></div></td>
-<td>Bin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10561">2404.10561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09606.html">A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
-<td>Pengfei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09606">2404.09606</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03969.html">Transformers for molecular property prediction: Lessons learned from the past five years</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Afnan Sultan et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03969">2404.03969</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04224.html">Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Zachary R. Fox et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04224">2404.04224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03024.html">General Effect Modelling (GEM) -- Part 1. Method description</a></div></td>
-<td>Ellen Færgestad Mosleth et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03024">2404.03024</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00155.html">Machine learning classification of local environments in molecular crystals</a></div></td>
-<td>Daisuke Kuroshima et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00155">2404.00155</a></td>
 </tr>
 </tbody></table>

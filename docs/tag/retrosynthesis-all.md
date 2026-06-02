@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>retrosynthesis — all</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <a href="retrosynthesis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,17 +722,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10625.html">Specialising and Analysing Instruction-Tuned and Byte-Level Language Models for Organic Reaction Prediction</a></div></td>
 <td>Jiayun Pang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.10625">2405.10625</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00044.html">UAlign: Pushing the Limit of Template-free Retrosynthesis Prediction with Unsupervised SMILES Alignment</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Kaipeng Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00044">2404.00044</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09606.html">A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Pengfei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09606">2404.09606</a></td>
 </tr>
 </tbody></table>

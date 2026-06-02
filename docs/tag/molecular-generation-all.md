@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-generation — all</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01595.html">Uncertainty-Calibrated Diffusion for Reliable 3D Molecular Graph Generation</a></div></td>
+<td>Fang Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01595">2606.01595</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28226.html">PhAME: Phenotype-Aware Molecular Editing via Latent Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
@@ -1274,23 +1280,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01650.html">TAGMol: Target-Aware Gradient-guided Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Vineeth Dorna et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01650">2406.01650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19230.html">Deep Lead Optimization: Leveraging Generative AI for Structural Modification</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Odin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19230">2404.19230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06691.html">Latent Chemical Space Searching for Plug-in Multi-objective Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Ningfeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06691">2404.06691</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08708.html">Zero Shot Molecular Generation via Similarity Kernels</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Rokas Elijošius et al.</td>
-<td><a href="http://arxiv.org/abs/2402.08708">2402.08708</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermodynamic-integration — all</h1>
-  <span class="paper-count">223 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="tmo-all.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27077.html">Electron Polaron at Neutral 180$^\circ$ Domain Wall in PbTiO$_3$: Stability, Trapping Energies, and Transverse Polarization</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
@@ -1334,23 +1340,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07130.html">Two-Shot Optimization of Compositionally Complex Refractory Alloys</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
 <td>James D. Paramore et al.</td>
 <td><a href="http://arxiv.org/abs/2405.07130">2405.07130</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18412.html">Uncovering an Interfacial Band Resulting from Orbital Hybridization in Nickelate Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Mingyao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18412">2404.18412</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17852.html">Melting Temperature of Iron Under the Earth&#x27;s Inner Core Condition from Deep Machine Learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Fulun Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17852">2404.17852</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10354.html">Physical formula enhanced multi-task learning for pharmacokinetics prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Ruifeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10354">2404.10354</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29730.html">Spin-Orbit Coupling Effects on the Structural and Electronic Properties of Planar Pentagonal p-MS$_{2}$ (M = Si, Ge, and Pb)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Phuc-Dang Truong et al.</td>
@@ -2852,11 +2858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06676.html">Atomistic Simulations of Cation Distribution and Defect Effects on the Performance of Substituted Ferrites</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Jiahao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06676">2506.06676</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03716.html">Discovery of magnetic-field-tunable density waves in a layered altermagnet</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Christopher Candelora et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03716">2503.03716</a></td>
 </tr>
 </tbody></table>

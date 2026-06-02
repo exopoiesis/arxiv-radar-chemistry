@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tmd — all</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <a href="tmd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Surender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18317.html">Tuning the Charge Transfer of Transition Metal Dichalcogenides via Misfit Layer Compounds</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
@@ -806,41 +812,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11892.html">Emergence of giant orbital Hall and tunable spin Hall effects in centrosymmetric TMDs</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Pratik Sahu et al.</td>
 <td><a href="http://arxiv.org/abs/2405.11892">2405.11892</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17074.html">Towards edge engineering of two-dimensional layered transition-metal dichalcogenides by chemical vapor deposition</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Wei Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17074">2404.17074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14810.html">2D Monolayer Molybdenum (IV) Telluride TMD: An Efficient Electrocatalyst for Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Vikash Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14810">2404.14810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12869.html">Tribo-piezoelectric Nanogenerators for Energy Harvesting: a first-principles study</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Jemal Yimer Damte et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12869">2404.12869</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12412.html">Alloyed Re$_x$Mo$_{1-x}$S$_2$ Nanoflakes with Enlarged Interlayer Distances for Hydrogen Evolution</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Jing Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12412">2404.12412</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10565.html">Electronic Properties of Electroactive Ferrocenyl-Functionalized MoS2</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Trung Nghia Nguyên Lê et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10565">2404.10565</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07414.html">A Pathway to Efficient Simulations of Charge Density Waves in Transition Metal Dichalcogenides: A Case Study for TiSe2</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Li Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07414">2404.07414</a></td>
 </tr>
 </tbody></table>

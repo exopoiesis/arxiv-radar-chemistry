@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">403 papers</span>
+  <span class="paper-count">401 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01781.html">Structure-Guided Adaptive Propagation for Protein-Protein Interaction Site Prediction</a></div></td>
+<td>Enqiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01781">2606.01781</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
@@ -2414,23 +2420,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06915.html">Graph Neural Networks in Modern AI-aided Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Odin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06915">2506.06915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14021.html">HIGHT: Hierarchical Graph Tokenization for Molecule-Language Alignment</a></div></td>
-<td>Yongqiang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14021">2406.14021</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19110.html">Learning the Electronic Hamiltonian of Large Atomic Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Chen Hao Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19110">2501.19110</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05814.html">Positional Encoding meets Persistent Homology on Graphs</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Yogesh Verma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05814">2506.05814</a></td>
 </tr>
 </tbody></table>

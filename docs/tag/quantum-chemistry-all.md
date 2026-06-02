@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">665 papers</span>
+  <span class="paper-count">654 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="replica-exchange-all.html">replica-exchange</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29622.html">MōLe-Λ: Learning the Coupled-Cluster Response State for Energies, Gradients, and Properties</a></div></td>
@@ -3932,77 +3938,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00275.html">Near Infrared Diffuse Interstellar Bands Characterized by Fullerene and Graphene Molecules</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Norio Ota</td>
 <td><a href="http://arxiv.org/abs/2405.00275">2405.00275</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17133.html">Converging TDDFT calculations in 5 iterations with minimal auxiliary preconditioning</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Zehao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17133">2404.17133</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16351.html">QREChem: Quantum Resource Estimation Software for Chemistry Applications</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Matthew Otten et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16351">2404.16351</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16586.html">Reduced density matrix formulation of quantum linear response</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Theo Juncker von Buchwald et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16586">2404.16586</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16149.html">$Δ$ADAPT-VQE: Toward Accurate Calculation of Excitation Energies on Quantum Computers for BODIPY Molecules With Application in Photodynamic Therapy</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="photocatalysis-all.html">photocatalysis</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Anton Nykänen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16149">2404.16149</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14093.html">Quantum Information reveals that orbital-wise correlation is essentially classical in Natural Orbitals</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Davide Materia et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14093">2404.14093</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13368.html">Synergistic integration of physical embedding and machine learning enabling precise and reliable force field</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Lifeng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13368">2404.13368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12842.html">Accurate and Fast Geometry Optimization with Time Estimation and Method Switching</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Satoshi Imamura et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12842">2404.12842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10389.html">Paving the Way to Hybrid Quantum-Classical Scientific Workflows</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Sandeep Suresh Cranganore et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10389">2404.10389</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07848.html">Accounting for the Quantum Capacitance of Graphite in Constant Potential Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kateryna Goloviznina et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07848">2404.07848</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.14793.html">Adaptive hybrid density functionals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Danish Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2402.14793">2402.14793</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06415.html">Quasi-Particle Self-Consistent $GW$ for Molecules</a></div></td>
-<td>F. Kaplan et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06415">2404.06415</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01623.html">Ab initio extended Hubbard model of short polyenes for efficient quantum computing</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Yuichiro Yoshida et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01623">2404.01623</a></td>
 </tr>
 </tbody></table>

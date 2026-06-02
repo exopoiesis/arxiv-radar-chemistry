@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>structure-prediction — all</h1>
-  <span class="paper-count">276 papers</span>
+  <span class="paper-count">273 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a> · <a href="replica-exchange-all.html">replica-exchange</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28886.html">Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a></div></td>
@@ -1646,29 +1652,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02299.html">Deep Reinforcement Learning for Modelling Protein Complexes</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
 <td>Ziqi Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02299">2405.02299</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06655.html">RNA Secondary Structure Prediction Using Transformer-Based Deep Learning Models</a></div></td>
-<td>Yanlin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06655">2405.06655</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04810.html">AlphaCrystal-II: Distance matrix based crystal structure prediction using deep learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Yuqi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04810">2404.04810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01405.html">The curious case of A31P, a topology-switching mutant of the Repressor of Primer protein : A molecular dynamics study of its folding and misfolding</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Olympia-Dialekti Vouzina et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01405">2404.01405</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.03675.html">Effective Protein-Protein Interaction Exploration with PPIretrieval</a></div></td>
-<td>Chenqing Hua et al.</td>
-<td><a href="http://arxiv.org/abs/2402.03675">2402.03675</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>band-gap — all</h1>
-  <span class="paper-count">882 papers</span>
+  <span class="paper-count">859 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29730.html">Spin-Orbit Coupling Effects on the Structural and Electronic Properties of Planar Pentagonal p-MS$_{2}$ (M = Si, Ge, and Pb)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
@@ -5162,149 +5168,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03137.html">Calculated Unconventional Superconductivity via Charge Fluctuations in Kagome Metal CsV3Sb5</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Yuan Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2405.03137">2405.03137</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19262.html">Length and torsion dependence of thermal conductivity in twisted graphene nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Alexandre F. Fonseca et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19262">2404.19262</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19440.html">Negative transit time in non-tunneling electron transmission through graphene multilayers</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>E. E. Krasovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19440">2404.19440</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18412.html">Uncovering an Interfacial Band Resulting from Orbital Hybridization in Nickelate Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Mingyao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18412">2404.18412</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18597.html">Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Robin Guehne et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18597">2404.18597</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18050.html">Deformability, inherent mechanical properties and chemical bonding of Al11Nd3 in Al-Nd target material</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Xue-Qian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18050">2404.18050</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17887.html">Spin-dependent $π$$π^{\ast}$ gap in graphene on a magnetic substrate</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>P. M. Sheverdyaeva et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17887">2404.17887</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14974.html">A detailed first-principles study of the structural, elastic, thermomechanical and optoelectronic properties of binary rare-earth tritelluride NdTe3</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Tanbin Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14974">2404.14974</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15069.html">Hopping of the center-of-mass of single G centers in silicon-on-insulator</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Alrik Durand et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15069">2404.15069</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13276.html">Giant Rashba-Splitting of One-Dimensional Metallic States in Bi Dimer Lines on InAs(100)</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Polina M. Sheverdyaeva et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13276">2404.13276</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08649.html">Note: Applying the Brillouin Zone and Band Gap Leveraging AB Initio Calculation for Digital Well-Being: In-Depth Analysis of Band Structures in Information Spaces Insights from Solid-State Physics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Yasuko Kawahata</td>
-<td><a href="http://arxiv.org/abs/2404.08649">2404.08649</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12687.html">Electronic structure and resonant inelastic x-ray scattering in Ca3Ru2O7</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="tmo-all.html">tmo</a></div></td>
-<td>V. N. Antonov et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12687">2404.12687</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12869.html">Tribo-piezoelectric Nanogenerators for Energy Harvesting: a first-principles study</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Jemal Yimer Damte et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12869">2404.12869</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13007.html">Influence of strain and point defects on the electronic structure and related properties of (111)NiO epitaxial films</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Bhabani Prasad Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13007">2404.13007</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12275.html">Spin-Valve-Like Magnetoresistance and Anomalous Hall Effect in Magnetic Weyl Metal Mn$_2$PdSn</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Arnab Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12275">2404.12275</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10565.html">Electronic Properties of Electroactive Ferrocenyl-Functionalized MoS2</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Trung Nghia Nguyên Lê et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10565">2404.10565</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07414.html">A Pathway to Efficient Simulations of Charge Density Waves in Transition Metal Dichalcogenides: A Case Study for TiSe2</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Li Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07414">2404.07414</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08103.html">Tunneling magnetoresistance in MgO tunnel junctions with Fe-based leads in empirically corrected density functional theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>G. G. Baez Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08103">2404.08103</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.17002.html">Addressing the Band Gap Problem with a Machine-Learned Exchange Functional</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Kyle Bystrom et al.</td>
-<td><a href="http://arxiv.org/abs/2403.17002">2403.17002</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06494.html">Existence of Mexican-hat dispersion and symmetry group of a layer</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Vladimir Damljanovic</td>
-<td><a href="http://arxiv.org/abs/2404.06494">2404.06494</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05701.html">Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Dayanand Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2404.05701">2404.05701</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04459.html">Spin-charge-lattice coupling across the charge density wave transition in a Kagome lattice antiferromagnet</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Xiaokun Teng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04459">2404.04459</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02981.html">Remote-contact catalysis for target-diameter semiconducting carbon nanotube array</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Jiangtao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02981">2404.02981</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00963.html">Inversion and Tunability of Van Hove Singularities in $A$V$_{3}$Sb$_{5}$ ($A$ = K, Rb, and Cs) kagome metals</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Sangjun Sim et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00963">2404.00963</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.06745.html">Quantum Vibronic Effects on the Excitation Energies of the Nitrogen-Vacancy Center in Diamond</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="excited-states-all.html">excited-states</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Arpan Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2401.06745">2401.06745</a></td>
 </tr>
 </tbody></table>

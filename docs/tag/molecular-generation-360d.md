@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01595.html">Uncertainty-Calibrated Diffusion for Reliable 3D Molecular Graph Generation</a></div></td>
+<td>Fang Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01595">2606.01595</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28226.html">PhAME: Phenotype-Aware Molecular Editing via Latent Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>

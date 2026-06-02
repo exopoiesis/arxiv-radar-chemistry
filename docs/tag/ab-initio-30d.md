@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Yossi Paltiel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01728.html">Microscopic Origin of Emergent Elliptic Flow and Molecule Formation in Strongly Interacting Quasi-Two-Dimensional Few-Body Systems</a></div></td>
+<td>Xin-Yuan Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01728">2606.01728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a> · <a href="tmo-30d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="tmd-30d.html">tmd</a></div></td>
+<td>Surender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29424.html">Model-free estimation in scattering analysis of microscopy</a></div></td>
@@ -674,23 +698,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02082.html">Ab initio evidence for spin-polarized and soft-mode instabilities in D-type carbon schwarzite C136</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Eugene Yashin</td>
 <td><a href="http://arxiv.org/abs/2605.02082">2605.02082</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01181.html">Grain boundary segregation of light elements and their effects on cohesion in ferritic steels</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Han Lin Mai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01181">2605.01181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01286.html">Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Ibuki Okuda et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01286">2605.01286</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01593.html">First-principles simulation of shocked H-He mixture along the principal Hugoniot</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ammar A. Ellaboudy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01593">2605.01593</a></td>
 </tr>
 </tbody></table>

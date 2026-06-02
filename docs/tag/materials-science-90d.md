@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,17 +590,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05699.html">Active Learning for Tractable and Reproducible Pulsed Laser Deposition</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
 <td>Jackson S. Bentley et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05699">2603.05699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00931.html">Learning to Weigh Waste: A Physics-Informed Multimodal Fusion Framework and Large-Scale Dataset for Commercial and Industrial Applications</a></div></td>
-<td>Md. Adnanul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00931">2603.00931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03392.html">Computational discovery of bifunctional organic semiconductors for energy and biosensing</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Patrick Sorrel Mvoto Kongo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03392">2603.03392</a></td>
 </tr>
 </tbody></table>

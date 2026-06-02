@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">593 papers</span>
+  <span class="paper-count">591 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01748.html">Hydrogen trapping and interfacial decohesion at the α-Al2O3(0001)/Fe(110) interface</a></div></td>
+<td>Youngseok Hwang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01748">2606.01748</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>M. Lamp et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02298.html">Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Kusampal Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02298">2606.02298</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29482.html">Synthesizability, hardness, and stacking order in multicomponent transition metal carbides from machine-learned potentials</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
@@ -3536,41 +3560,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04193.html">Electronic and structural properties of V$_2$O$_5$ layered polymorphs</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Sakthi Kasthurirengan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04193">2603.04193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13582.html">Development of a simulation and analysis framework for NνDEx experiment</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Tianyu Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13582">2508.13582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00444.html">Upward band gap bowing and negative mixing enthalpy in multi-component cubic halide perovskite alloys</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Xiuwen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00444">2602.00444</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02089.html">High-quality, high-information datasets for universal atomistic machine learning</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
-<td>Cesare Malosso et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02089">2603.02089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03133.html">Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Amal Raj Veluthedath Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03133">2603.03133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03392.html">Computational discovery of bifunctional organic semiconductors for energy and biosensing</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Patrick Sorrel Mvoto Kongo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03392">2603.03392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03511.html">Orbital Transformers for Predicting Wavefunctions in Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Xuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03511">2603.03511</a></td>
 </tr>
 </tbody></table>

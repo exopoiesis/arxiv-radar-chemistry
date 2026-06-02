@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28886.html">Computational Modeling of Antibody-Antigen Complexes: PLM-Based and MSA-Based Approaches</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Xiao Luo</td>
@@ -1004,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17656.html">polyGen: A Learning Framework for Atomic-level Polymer Structure Generation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Ayush Jain et al.</td>
 <td><a href="http://arxiv.org/abs/2504.17656">2504.17656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21283.html">pLDDT-Predictor: High-speed Protein Screening Using Transformer and ESM2</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Joongwon Chae et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21283">2410.21283</a></td>
 </tr>
 </tbody></table>

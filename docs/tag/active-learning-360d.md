@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26897.html">Active learning of collinear magnetic Moment Tensor Potentials using the spin-MLIP package from soft-constrained spin-polarized DFT calculations: a case study of Fe-Pd</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -890,17 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08073.html">Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy</a></div></td>
 <td>Yu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08073">2506.08073</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05777.html">Efficient dataset generation for machine learning perovskite alloys</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Henrietta Homm et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05777">2506.05777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11100.html">An Active Learning-Based Streaming Pipeline for Reduced Data Training of Structure Finding Models in Neutron Diffractometry</a></div></td>
-<td>Tianle Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11100">2506.11100</a></td>
 </tr>
 </tbody></table>

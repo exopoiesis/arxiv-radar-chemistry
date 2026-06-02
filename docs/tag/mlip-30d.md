@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Zhiyue Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29821.html">Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Yanmei Zang et al.</td>
@@ -326,11 +332,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01881.html">Polymorphic crystallites model for monolayer amorphous materials</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Le-Ye Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01881">2605.01881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01181.html">Grain boundary segregation of light elements and their effects on cohesion in ferritic steels</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Han Lin Mai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01181">2605.01181</a></td>
 </tr>
 </tbody></table>

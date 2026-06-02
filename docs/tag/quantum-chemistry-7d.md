@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="replica-exchange-7d.html">replica-exchange</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29622.html">MōLe-Λ: Learning the Coupled-Cluster Response State for Energies, Gradients, and Properties</a></div></td>
 <td>Andreas Burger et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27285.html">Basis-Adaptive Sparse-State Simulation of Quantum Circuits</a></div></td>
 <td>Ch Nihar Kartikeya et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27285">2605.27285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25974.html">PauLIB: A High-Performance Library for Processing Pauli Strings</a></div></td>
-<td>Florian Krötz</td>
-<td><a href="http://arxiv.org/abs/2605.25974">2605.25974</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">375 papers</span>
+  <span class="paper-count">374 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Anand Babu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29555.html">From Blind Guess to Informed Judgment: Teaching LLMs to Evaluate Materials by Building Knowledge-Augmented Preference Signals</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
@@ -2252,17 +2258,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02449.html">Quality-Weighted Vendi Scores And Their Application To Diverse Experimental Design</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
 <td>Quan Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02449">2405.02449</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14354.html">A Genetic Algorithm For Convex Hull Optimisation</a></div></td>
-<td>Scott Donaldson et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14354">2404.14354</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06449.html">Deep-Learning Database of Density Functional Theory Hamiltonians for Twisted Materials</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Ting Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06449">2404.06449</a></td>
 </tr>
 </tbody></table>

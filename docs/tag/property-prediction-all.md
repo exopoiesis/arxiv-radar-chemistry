@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">408 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2462,29 +2462,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00972.html">CACTUS: Chemistry Agent Connecting Tool-Usage to Science</a></div></td>
 <td>Andrew D. McNaughton et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00972">2405.00972</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16532.html">Global Concept Explanations for Graphs by Contrastive Learning</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Jonas Teufel et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16532">2404.16532</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09676.html">Thermodynamic and Transport Properties of Binary Mixtures of Polyethylene and Higher n-Alkanes from Physics-Informed and Machine-Learned Models</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Maria Ley-Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09676">2404.09676</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03969.html">Transformers for molecular property prediction: Lessons learned from the past five years</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Afnan Sultan et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03969">2404.03969</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01693.html">HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a> · <a href="protein-function-all.html">protein-function</a></div></td>
-<td>Rong Han et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01693">2404.01693</a></td>
 </tr>
 </tbody></table>

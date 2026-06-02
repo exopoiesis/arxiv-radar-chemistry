@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-science — all</h1>
-  <span class="paper-count">787 papers</span>
+  <span class="paper-count">777 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4676,65 +4676,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01983.html">Model-based reinforcement learning for protein backbone design</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
 <td>Frederic Renard et al.</td>
 <td><a href="http://arxiv.org/abs/2405.01983">2405.01983</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19692.html">The finite-$T$ Lorentz number and the thermal conductivity. Aluminum and carbon conductivities from ambient to millions of degrees Kelvin</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>M. W. C. Dharma-wardana</td>
-<td><a href="http://arxiv.org/abs/2404.19692">2404.19692</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10249.html">Picturing the Gap Between the Performance and US-DOE&#x27;s Hydrogen Storage Target: A Data-Driven Model for MgH2 Dehydrogenation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Chaoqun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10249">2404.10249</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15774.html">Toward Physics-Aware Deep Learning Architectures for LiDAR Intensity Simulation</a></div></td>
-<td>Vivek Anand et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15774">2404.15774</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06539.html">MatFusion: A Generative Diffusion Model for SVBRDF Capture</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Sam Sartor et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06539">2406.06539</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14174.html">Nonadiabatic excited-state dynamics and energy gradients in the framework of FMO-LC-TDDFTB</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Richard Einsele et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14174">2404.14174</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13507.html">Uncovering Obscured Phonon Dynamics from Powder Inelastic Neutron Scattering using Machine Learning</a></div></td>
-<td>Yaokun Su et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13507">2404.13507</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13694.html">Solute segregation in polycrystalline aluminum from hybrid Monte Carlo and molecular dynamics simulations with a unified neuroevolution potential</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Keke Song et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13694">2404.13694</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05329.html">In silico bioactivity prediction of proteins interacting with graphene-based nanomaterials guides rational design of biosensor</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Jing Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2404.05329">2404.05329</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04224.html">Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Zachary R. Fox et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04224">2404.04224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00963.html">Inversion and Tunability of Van Hove Singularities in $A$V$_{3}$Sb$_{5}$ ($A$ = K, Rb, and Cs) kagome metals</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Sangjun Sim et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00963">2404.00963</a></td>
 </tr>
 </tbody></table>

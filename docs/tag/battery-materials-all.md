@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-materials — all</h1>
-  <span class="paper-count">294 papers</span>
+  <span class="paper-count">290 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01978.html">Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Aicha Jani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01978">2606.01978</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29029.html">Geometry-based Discovery of Calcium Battery Cathodes Accelerated by Foundational Machine-Learned Models</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
@@ -1748,35 +1754,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03466.html">A family of air-stable chalcogenide solid electrolytes in Li$_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Huican Mao et al.</td>
 <td><a href="http://arxiv.org/abs/2405.03466">2405.03466</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06823.html">Control of proton transport and hydrogenation in double-gated graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="catalysis-all.html">catalysis</a></div></td>
-<td>J. Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06823">2404.06823</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11442.html">Structural properties of amorphous Na$_3$OCl electrolyte by first-principles and machine learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>T. -L. Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11442">2404.11442</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07848.html">Accounting for the Quantum Capacitance of Graphite in Constant Potential Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Kateryna Goloviznina et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07848">2404.07848</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04226.html">Direct evidence of low work function on SrVO$_3$ cathode using thermionic electron emission microscopy and high-field ultraviolet photoemission spectroscopy</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Md Sariful Sheikh et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04226">2404.04226</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
 </tr>
 </tbody></table>

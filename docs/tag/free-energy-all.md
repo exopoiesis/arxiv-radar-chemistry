@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>free-energy — all</h1>
-  <span class="paper-count">630 papers</span>
+  <span class="paper-count">616 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3710,89 +3710,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01265.html">Derivation of Dirac Exchange Interaction Potential from Quantum Plasma Kinetic Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Fernando Haas</td>
 <td><a href="http://arxiv.org/abs/2405.01265">2405.01265</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00193.html">Thawed Gaussian wavepacket dynamics with $Δ$-machine learned potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Rami Gherib et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00193">2405.00193</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18340.html">Interfacial Rheology of Lanthanide Binding Peptide Surfactants at the Air-Water Interface</a></div><div class="paper-tags"><a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Stephen A. Crane et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18340">2404.18340</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17722.html">Simulating Crystallization in a Colloidal System Using State Predictive Information Bottleneck based Enhanced Sampling</a></div><div class="paper-tags"><a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="string-method-all.html">string-method</a></div></td>
-<td>Vanessa J. Meraz et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17722">2404.17722</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14821.html">Molecular simulations to investigate the impact of N6-methylation in RNA recognition: Improving accuracy and precision of binding free energy prediction</a></div><div class="paper-tags"><a href="metadynamics-all.html">metadynamics</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Valerio Piomponi et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14821">2404.14821</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15032.html">Quantum study of the CH$_3^+$ photodissociation in full dimension Neural Networks potential energy surfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Pablo del Mazo-Sevillano et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15032">2404.15032</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13368.html">Synergistic integration of physical embedding and machine learning enabling precise and reliable force field</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Lifeng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13368">2404.13368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.16698.html">Boson sampling enhanced quantum chemistry</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Zhong-Xia Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.16698">2403.16698</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12412.html">Alloyed Re$_x$Mo$_{1-x}$S$_2$ Nanoflakes with Enlarged Interlayer Distances for Hydrogen Evolution</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Jing Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12412">2404.12412</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07793.html">First-Principles Study of Penta-CN2 Quantum Dots for Efficient Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Rupali Jindal et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07793">2404.07793</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04810.html">AlphaCrystal-II: Distance matrix based crystal structure prediction using deep learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Yuqi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04810">2404.04810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10358.html">GradNav: Accelerated Exploration of Potential Energy Surfaces with Gradient-Based Navigation</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Janghoon Ock et al.</td>
-<td><a href="http://arxiv.org/abs/2403.10358">2403.10358</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02597.html">Combining transition path sampling with data-driven collective variables through a reactivity-biased shooting algorithm</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="active-learning-all.html">active-learning</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a></div></td>
-<td>Jintu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.02597">2404.02597</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12174.html">Exploring Conformational Landscapes Along Anharmonic Low-Frequency Vibrations</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Souvik Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12174">2403.12174</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12933.html">Analytic Nuclear Gradients for Complete Active Space Linearized Pair-Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Matthew R. Hennefarth et al.</td>
-<td><a href="http://arxiv.org/abs/2401.12933">2401.12933</a></td>
 </tr>
 </tbody></table>

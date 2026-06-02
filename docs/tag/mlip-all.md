@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">961 papers</span>
+  <span class="paper-count">945 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Zhiyue Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29821.html">Accelerated Discovery of Nitrogen-Coordinated Dual-Atom Hydrogen Evolution Reaction Electrocatalysts via Machine Learning Potentials</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
@@ -5678,107 +5684,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02247.html">Deep Learning of ab initio Hessians for Transition State Optimization</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
 <td>Eric C. -Y. Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02247">2405.02247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16187.html">Deep Learning Interatomic Potential Connects Molecular Structural Ordering to Macroscale Properties of Polyacrylonitrile (PAN) Polymer</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Rajni Chahal et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16187">2404.16187</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14821.html">Molecular simulations to investigate the impact of N6-methylation in RNA recognition: Improving accuracy and precision of binding free energy prediction</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="metadynamics-all.html">metadynamics</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Valerio Piomponi et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14821">2404.14821</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14338.html">Managing Expectations and Imbalanced Training Data in Reactive Force Field Development: an Application to Water Adsorption on Alumina</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Loïc Dumortier et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14338">2404.14338</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13368.html">Synergistic integration of physical embedding and machine learning enabling precise and reliable force field</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Lifeng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13368">2404.13368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11442.html">Structural properties of amorphous Na$_3$OCl electrolyte by first-principles and machine learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>T. -L. Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11442">2404.11442</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09755.html">Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Emiel Slootman et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09755">2404.09755</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06189.html">MLatom software ecosystem for surface hopping dynamics in Python with quantum mechanical and machine learning methods</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Lina Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06189">2404.06189</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.05644.html">Size dependent solid-solid crystallization of halide perovskites</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Paramvir Ahlawat</td>
-<td><a href="http://arxiv.org/abs/2404.05644">2404.05644</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04370.html">Enhanced Deep Potential Model for Fast and Accurate Molecular Dynamics; Application to the Hydrated Electron</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Ruiqi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04370">2404.04370</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.13675.html">Bridging deep learning force fields and electronic structures with a physics-informed approach</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yubo Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2403.13675">2403.13675</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.15334.html">Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Wojciech G. Stark et al.</td>
-<td><a href="http://arxiv.org/abs/2403.15334">2403.15334</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.02155.html">Accelerating fourth-generation machine learning potentials by quasi-linear scaling particle mesh charge equilibration</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Moritz Gubler et al.</td>
-<td><a href="http://arxiv.org/abs/2403.02155">2403.02155</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.06955.html">Accurate Crystal Structure Prediction of New 2D Hybrid Organic Inorganic Perovskites</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Nima Karimitari et al.</td>
-<td><a href="http://arxiv.org/abs/2403.06955">2403.06955</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05724.html">From electrons to phase diagrams with classical and machine learning potentials: automated workflows for materials science with pyiron</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Sarath Menon et al.</td>
-<td><a href="http://arxiv.org/abs/2403.05724">2403.05724</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.16062.html">Enhancing Protein-Ligand Binding Affinity Predictions using Neural Network Potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Francesc Sabanes Zariquiey et al.</td>
-<td><a href="http://arxiv.org/abs/2401.16062">2401.16062</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08708.html">Zero Shot Molecular Generation via Similarity Kernels</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Rokas Elijošius et al.</td>
-<td><a href="http://arxiv.org/abs/2402.08708">2402.08708</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1587 papers</span>
+  <span class="paper-count">1591 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Zhiyue Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="replica-exchange-360d.html">replica-exchange</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Sung Won Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01642.html">An agent-based model of outer membrane biogenesis in Gram-negative bacteria</a></div></td>
+<td>Thomas Williams et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01642">2606.01642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a> · <a href="tmo-360d.html">tmo</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01833.html">Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
+<td>Kaihui Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01833">2606.01833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01978.html">Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
+<td>Aicha Jani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01978">2606.01978</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div></td>
+<td>B M Shahi Sifat Mottaqin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02319.html">Strategies for Molecular Dynamics using Hybrid Systems: LAMMPS Use Case</a></div></td>
+<td>Paulo Henrique Leme Ramalho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02319">2606.02319</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02455.html">Speculative Sampling For Faster Molecular Dynamics</a></div></td>
+<td>Arthur Kosmala et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02455">2606.02455</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29394.html">EvoMD-LLM: Learning the Language of Species Evolution in Reactive Molecular Dynamics</a></div></td>
@@ -9506,35 +9560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06789.html">Liquid and solid layers in a thermal deep learning machine</a></div></td>
 <td>Gang Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06789">2506.06789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07958.html">Simultaneous imaging of vibrational, rotational, and electronic wave packet dynamics in a triatomic molecule</a></div></td>
-<td>Huynh Van Sa Lam et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07958">2408.07958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01225.html">Many-Body Dissipative Particle Dynamics Simulations of Lipid Bilayers with the MDPD-MARTINI Force-Field</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Natalia Kramarz et al.</td>
-<td><a href="http://arxiv.org/abs/2501.01225">2501.01225</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05852.html">A Combined DFT and MD Study on Interface Stability in Ferrite-Cementite Systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Pablo Canca et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05852">2506.05852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05966.html">The influence of multi-dimensionality and off-diagonal non-Markovian friction coupling on coarse-grained dynamics</a></div></td>
-<td>Henrik Kiefer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05966">2506.05966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06177.html">Mean Force Emission Theory for Classical Bremsstrahlung in Electron-Ion Plasmas</a></div></td>
-<td>Julian P. Kinney et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06177">2506.06177</a></td>
 </tr>
 </tbody></table>

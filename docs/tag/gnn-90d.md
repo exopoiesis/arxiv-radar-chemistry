@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01781.html">Structure-Guided Adaptive Propagation for Protein-Protein Interaction Site Prediction</a></div></td>
+<td>Enqiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01781">2606.01781</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -602,17 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04209.html">Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Matteo De Sanctis et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04209">2603.04209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02213.html">Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction</a></div></td>
-<td>Haoyu Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2601.02213">2601.02213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02810.html">ChemFlow:A Hierarchical Neural Network for Multiscale Representation Learning in Chemical Mixtures</a></div></td>
-<td>Jinming Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02810">2603.02810</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>string-method — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <strong>90d</strong> <a href="string-method-360d.html">360d</a> <a href="string-method-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14675.html">Acrylamide Conformers: A Revision of Published Density Functional Theory Studies</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>William Scott et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14675">2603.14675</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07326.html">Nonparametric Reaction Coordinate Optimization with Histories: A Framework for Rare Event Dynamics</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Polina V. Banushkina et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07326">2508.07326</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-computing — all</h1>
-  <span class="paper-count">233 papers</span>
+  <span class="paper-count">223 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1352,65 +1352,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05982.html">Quantum-Inspired Genetic Algorithm for Designing Planar Multilayer Photonic Structure</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
 <td>Zhihao Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2405.05982">2405.05982</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16351.html">QREChem: Quantum Resource Estimation Software for Chemistry Applications</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Matthew Otten et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16351">2404.16351</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16586.html">Reduced density matrix formulation of quantum linear response</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Theo Juncker von Buchwald et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16586">2404.16586</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16149.html">$Δ$ADAPT-VQE: Toward Accurate Calculation of Excitation Energies on Quantum Computers for BODIPY Molecules With Application in Photodynamic Therapy</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="photocatalysis-all.html">photocatalysis</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Anton Nykänen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16149">2404.16149</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14093.html">Quantum Information reveals that orbital-wise correlation is essentially classical in Natural Orbitals</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Davide Materia et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14093">2404.14093</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10389.html">Paving the Way to Hybrid Quantum-Classical Scientific Workflows</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Sandeep Suresh Cranganore et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10389">2404.10389</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09852.html">Simulating Electron Transfer in a Molecular Triad within an Optical Cavity Using NISQ Computers</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ningyi Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09852">2404.09852</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.14793.html">Adaptive hybrid density functionals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Danish Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2402.14793">2402.14793</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01623.html">Ab initio extended Hubbard model of short polyenes for efficient quantum computing</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Yuichiro Yoshida et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01623">2404.01623</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.02177.html">Exploring Quantum-Enhanced Machine Learning for Computer Vision: Applications and Insights on Noisy Intermediate-Scale Quantum Devices</a></div></td>
-<td>Purnachandra Mandadapu</td>
-<td><a href="http://arxiv.org/abs/2404.02177">2404.02177</a></td>
-</tr>
-<tr class="paper">
-<td>2024-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.08210.html">Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Mohammad Ghazi Vakili et al.</td>
-<td><a href="http://arxiv.org/abs/2402.08210">2402.08210</a></td>
 </tr>
 </tbody></table>

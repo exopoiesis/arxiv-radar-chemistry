@@ -16,6 +16,12 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Christian S. Ahart et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29127.html">Field-Driven Hybrid Filament Formation Governs Switching in Ta-HfO$_2$-Pt Memristors</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Ashutosh Krishna Amaram et al.</td>
@@ -182,11 +188,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08873.html">Electronic and magnetic ground state of 4$d^3$ double perovskite ruthenates A$_2$LaRuO$_6$ (A $=$ Ca, Sr, Ba)</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Asha Ann Abraham et al.</td>
 <td><a href="http://arxiv.org/abs/2406.08873">2406.08873</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12687.html">Electronic structure and resonant inelastic x-ray scattering in Ca3Ru2O7</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>V. N. Antonov et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12687">2404.12687</a></td>
 </tr>
 </tbody></table>

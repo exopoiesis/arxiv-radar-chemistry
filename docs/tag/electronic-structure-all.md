@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">841 papers</span>
+  <span class="paper-count">819 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="tmd-all.html">tmd</a></div></td>
+<td>Surender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29774.html">Quantum algorithms for density functional theory with minimal readout</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
@@ -4922,143 +4928,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02186.html">Unraveling p-type and n-type interfaces in Superconducting Infinite-Layer Nickelate thin films</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Aravind Raji et al.</td>
 <td><a href="http://arxiv.org/abs/2405.02186">2405.02186</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12275.html">Fast and accurate nonadiabatic molecular dynamics enabled through variational interpolation of correlated electron wavefunctions</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kemal Atalar et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12275">2403.12275</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19172.html">Striking the Right Balance of Encoding Electron Correlation in the Hamiltonian and the Wavefunction Ansatz</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Kalman Szenes et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19172">2404.19172</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18412.html">Uncovering an Interfacial Band Resulting from Orbital Hybridization in Nickelate Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Mingyao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18412">2404.18412</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19163.html">Efficient Mixed-Precision Matrix Factorization of the Inverse Overlap Matrix in Electronic Structure Calculations with AI-Hardware and GPUs</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Adela Habib et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19163">2404.19163</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17066.html">Ultrafast spin dynamics: role of laser-induced modification of exchange parameters</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Sergiy Mankovsky et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17066">2404.17066</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15768.html">Computational Design of Boron-Free Triangular Molecules with Inverted Singlet-Triplet Energy Gap</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>M. W. Duszka et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15768">2404.15768</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14174.html">Nonadiabatic excited-state dynamics and energy gradients in the framework of FMO-LC-TDDFTB</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Richard Einsele et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14174">2404.14174</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14601.html">Unsupervised Learning of Individual Kohn-Sham States: Interpretable Representations and Consequences for Downstream Predictions of Many-Body Effects</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Bowen Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14601">2404.14601</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13276.html">Giant Rashba-Splitting of One-Dimensional Metallic States in Bi Dimer Lines on InAs(100)</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Polina M. Sheverdyaeva et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13276">2404.13276</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12687.html">Electronic structure and resonant inelastic x-ray scattering in Ca3Ru2O7</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="tmo-all.html">tmo</a></div></td>
-<td>V. N. Antonov et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12687">2404.12687</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.16698.html">Boson sampling enhanced quantum chemistry</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
-<td>Zhong-Xia Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.16698">2403.16698</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09527.html">Dynamical Mean Field Theory for Real Materials on a Quantum Computer</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Johannes Selisko et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09527">2404.09527</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07848.html">Accounting for the Quantum Capacitance of Graphite in Constant Potential Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Kateryna Goloviznina et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07848">2404.07848</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06896.html">Unravelling the Band Structure and Orbital Character of a $π$-Conjugated 2D Graphdiyne-Based Organometallic Network</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Paolo D&#x27;Agosta et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06896">2404.06896</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07165.html">Pressure-tuned many-body phases through $Γ$-K valleytronics in moiré bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Marta Brzezińska et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07165">2404.07165</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03324.html">Observation of Chiral Surface State in Superconducting NbGe$_2$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a></div></td>
-<td>Mengyu Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2403.03324">2403.03324</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03146.html">Computational Study Based Prediction of New Photocatalysts for water splitting by systematic manipulation of MXene surfaces</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Swati Shaw et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03146">2404.03146</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.01623.html">Ab initio extended Hubbard model of short polyenes for efficient quantum computing</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Yuichiro Yoshida et al.</td>
-<td><a href="http://arxiv.org/abs/2404.01623">2404.01623</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.13675.html">Bridging deep learning force fields and electronic structures with a physics-informed approach</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yubo Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2403.13675">2403.13675</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00963.html">Inversion and Tunability of Van Hove Singularities in $A$V$_{3}$Sb$_{5}$ ($A$ = K, Rb, and Cs) kagome metals</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Sangjun Sim et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00963">2404.00963</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.02155.html">Accelerating fourth-generation machine learning potentials by quasi-linear scaling particle mesh charge equilibration</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
-<td>Moritz Gubler et al.</td>
-<td><a href="http://arxiv.org/abs/2403.02155">2403.02155</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.06955.html">Accurate Crystal Structure Prediction of New 2D Hybrid Organic Inorganic Perovskites</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Nima Karimitari et al.</td>
-<td><a href="http://arxiv.org/abs/2403.06955">2403.06955</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
 </tr>
 </tbody></table>

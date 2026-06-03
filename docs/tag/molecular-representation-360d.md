@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03057.html">Rethinking Molecular Text Representations for LLMs: An Empirical Study</a></div></td>
+<td>Arun Raja et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03057">2606.03057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03435.html">CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
+<td>Yuxin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03435">2606.03435</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01846.html">Mos-Gen: A Generative Molecular Framework for Mosquito Insecticide Design</a></div></td>
@@ -962,11 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08936.html">BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Amina Mollaysa et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08936">2506.08936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14464.html">JESTR: Joint Embedding Space Technique for Ranking Candidate Molecules for the Annotation of Untargeted Metabolomics Data</a></div></td>
-<td>Apurva Kalia et al.</td>
-<td><a href="http://arxiv.org/abs/2411.14464">2411.14464</a></td>
 </tr>
 </tbody></table>

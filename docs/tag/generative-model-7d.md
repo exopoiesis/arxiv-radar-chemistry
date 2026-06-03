@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03199.html">Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Alston Lo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03199">2606.03199</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03827.html">Conditional Latent Diffusion Model with Fourier-based Motion Modelling for Virtual Population Synthesis</a></div></td>
+<td>Shaokun Lan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03827">2606.03827</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Keyue Qiu et al.</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28287.html">AtomComposer: Discovering Chemical Space from First Principles with Reinforcement Learning</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
 <td>Bjarke Hastrup et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28287">2605.28287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26540.html">DGLD: Domain-Gated Latent Diffusion for the Discovery of Novel Energetic Materials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Yehudit Aperstein et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26540">2605.26540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26741.html">MatFormBench: A Benchmarking Evaluation Framework for Target-Driven Materials Formulation</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Linhan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26741">2605.26741</a></td>
 </tr>
 </tbody></table>

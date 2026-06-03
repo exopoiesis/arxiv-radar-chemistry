@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -28,21 +28,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02902.html">Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
+<td>Esmaeil Shakeri et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02902">2606.02902</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28287.html">AtomComposer: Discovering Chemical Space from First Principles with Reinforcement Learning</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Bjarke Hastrup et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28287">2605.28287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24152.html">Neuro-Inspired Inverse Learning for Planning and Control</a></div></td>
-<td>Maryna Kapitonova et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24152">2605.24152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26690.html">Self-Improvement Imitation with Biologically Guided Search for Protein Design Under Oracle Budgets</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Ashima Khanna et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26690">2605.26690</a></td>
 </tr>
 </tbody></table>

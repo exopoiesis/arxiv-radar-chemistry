@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-llm — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <strong>90d</strong> <a href="protein-llm-360d.html">360d</a> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06722.html">ProtAlign: Contrastive learning paradigm for Sequence and structure alignment</a></div></td>
 <td>Aditya Ranganath et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06722">2603.06722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04045.html">Inference-Time Toxicity Mitigation in Protein Language Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Manuel Fernández Burda et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04045">2603.04045</a></td>
 </tr>
 </tbody></table>

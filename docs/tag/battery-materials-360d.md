@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,11 +1076,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09252.html">Aluminum oxide coatings on Co-rich cathodes and interactions with organic electrolyte</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>M. D. Hashan C. Peiris et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09252">2506.09252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00833.html">Deep Kernel Bayesian Optimisation for Closed-Loop Electrode Microstructure Design with User-Defined Properties based on GANs</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Andrea Gayon-Lombardo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00833">2508.00833</a></td>
 </tr>
 </tbody></table>

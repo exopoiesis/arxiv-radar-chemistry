@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03660.html">From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Hongyu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03660">2606.03660</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24428.html">Representation-Guided Discrete Molecular Graph Retrosynthesis</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Jiahai Huang et al.</td>
@@ -488,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17656.html">Equivariant Denoisers Cannot Copy Graphs: Align Your Graph Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Najwa Laabid et al.</td>
 <td><a href="http://arxiv.org/abs/2405.17656">2405.17656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06915.html">Graph Neural Networks in Modern AI-aided Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Odin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06915">2506.06915</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03199.html">Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Alston Lo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03199">2606.03199</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03435.html">CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
+<td>Yuxin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03435">2606.03435</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
@@ -26,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02386.html">AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Sahil Rahman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02386">2606.02386</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02902.html">Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Esmaeil Shakeri et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02902">2606.02902</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>
@@ -818,29 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05567.html">FuseDiff: Symmetry-Preserving Joint Diffusion for Dual-Target Structure-Based Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Jianliang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05567">2603.05567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03655.html">Mozi: Governed Autonomy for Drug Discovery LLM Agents</a></div></td>
-<td>He Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03655">2603.03655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04045.html">Inference-Time Toxicity Mitigation in Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Manuel Fernández Burda et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04045">2603.04045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04092.html">Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Udari De Alwis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04092">2603.04092</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04209.html">Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Matteo De Sanctis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04209">2603.04209</a></td>
 </tr>
 </tbody></table>

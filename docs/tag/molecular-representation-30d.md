@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03057.html">Rethinking Molecular Text Representations for LLMs: An Empirical Study</a></div></td>
+<td>Arun Raja et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03057">2606.03057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03435.html">CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Yuxin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03435">2606.03435</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01846.html">Mos-Gen: A Generative Molecular Framework for Mosquito Insecticide Design</a></div></td>
@@ -86,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07713.html">High-Q Fano resonance in all-dielectric metasurfaces for molecular fingerprint detection</a></div></td>
 <td>S. Hadi Badri et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07713">2605.07713</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01822.html">Molecular Representations for Large Language Models</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Nicholas T. Runcie et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01822">2605.01822</a></td>
 </tr>
 </tbody></table>

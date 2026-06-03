@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02662.html">Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning</a></div></td>
+<td>Vivin Vinod et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02662">2606.02662</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29622.html">MōLe-Λ: Learning the Coupled-Cluster Response State for Energies, Gradients, and Properties</a></div></td>
 <td>Andreas Burger et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28936.html">Hardware-Tailored Resource Estimation for Magic-State Distillation on Silicon Spin Qubits</a></div></td>
 <td>Songqinghao Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28936">2605.28936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27285.html">Basis-Adaptive Sparse-State Simulation of Quantum Circuits</a></div></td>
-<td>Ch Nihar Kartikeya et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27285">2605.27285</a></td>
 </tr>
 </tbody></table>

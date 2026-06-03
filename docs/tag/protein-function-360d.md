@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-function — 360d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <strong>360d</strong> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07035.html">AnnoDPO: Protein Functional Annotation Learning with Direct Preference Optimization</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Zixuan Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07035">2506.07035</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06701.html">Do Protein Transformers Have Biological Intelligence?</a></div></td>
-<td>Fudong Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06701">2506.06701</a></td>
 </tr>
 </tbody></table>

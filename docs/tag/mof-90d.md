@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03019.html">Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds</a></div></td>
+<td>Masayuki Hatta</td>
+<td><a href="http://arxiv.org/abs/2606.03019">2606.03019</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29179.html">Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era</a></div></td>
 <td>Reid A. Coyle et al.</td>
@@ -86,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29152.html">SimMOF: AI agent for Automated MOF Simulations</a></div></td>
 <td>Jaewoong Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29152">2603.29152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05097.html">Hierarchical Crystal Structure Prediction of Zeolitic Imidazolate Frameworks Using DFT and Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Yizhi Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.05097">2601.05097</a></td>
 </tr>
 </tbody></table>

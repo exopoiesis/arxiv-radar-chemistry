@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Cheng-Han Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03140">2606.03140</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03309.html">Unconventional crystallization pathway bypassing the intermediate cubic phase in phase-change superlattices</a></div></td>
+<td>Bai-Qian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03309">2606.03309</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03325.html">Role of Characteristic Length Scale in Interface Graphitization-Induced Wear Resistance of Diamond and Amorphous Carbon</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
+<td>WenLiang Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03325">2606.03325</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
+<td>Alfredo Fiorentino et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03405">2606.03405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03524.html">Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Antonio Torregrosa Abellán et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03524">2606.03524</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03575.html">Acenaphthene Derivatives as Signatures of C$_{11}$H$_9^+$ Reactivity with Methylated Naphthalenes</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Ana I. Lozano et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03575">2606.03575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03760.html">Revisiting neutron-skin thickness and dipole polarizability constraints on the symmetry energy in Antisymmetrized Molecular Dynamics</a></div></td>
+<td>Dandan Niu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03760">2606.03760</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
@@ -70,6 +112,18 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.02455">2606.02455</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02890.html">Kinetic Theory for Electronic Transport Properties of Warm Dense Matter: Chapman-Enskog Solution of the Uehling-Uhlenbeck Equation</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Lucas J. Babati et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02890">2606.02890</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Ying You et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29394.html">EvoMD-LLM: Learning the Language of Species Evolution in Reactive Molecular Dynamics</a></div></td>
 <td>Zhichen Tang et al.</td>
@@ -116,41 +170,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29127.html">Field-Driven Hybrid Filament Formation Governs Switching in Ta-HfO$_2$-Pt Memristors</a></div><div class="paper-tags"><a href="tmo-7d.html">tmo</a></div></td>
 <td>Ashutosh Krishna Amaram et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29127">2605.29127</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26529.html">Anharmonic Quantum Transport Analysis of Thermal Transport Anomalies in Ultrathin Silicon Nanowires</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Lokanath Patra et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26529">2605.26529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26716.html">Chirality-Driven Hierarchical Morphologies in Self-Assembled Biaxial Amphiphiles</a></div></td>
-<td>Sayantan Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26716">2605.26716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26897.html">Active learning of collinear magnetic Moment Tensor Potentials using the spin-MLIP package from soft-constrained spin-polarized DFT calculations: a case study of Fe-Pd</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Arseniy Burov et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26897">2605.26897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27019.html">Kinetic Superselectivity in Multivalent Binding</a></div></td>
-<td>Vid Ravnik et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27019">2605.27019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27218.html">Amorphous vs. Short-Range-Ordered Complexions: Consequences for Grain-Boundary-Mediated Plasticity in Nanocrystalline Al-Ni Alloys</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Frederic Sansoz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27218">2605.27218</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div></td>
-<td>Simon Gonzalez-Zapata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
 </tr>
 </tbody></table>

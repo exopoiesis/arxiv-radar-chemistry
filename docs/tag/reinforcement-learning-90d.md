@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02902.html">Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
+<td>Esmaeil Shakeri et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02902">2606.02902</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28287.html">AtomComposer: Discovering Chemical Space from First Principles with Reinforcement Learning</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Bjarke Hastrup et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03604.html">Interleaved Tool-Call Reasoning for Protein Function Understanding</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a></div></td>
 <td>Chuanliu Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03604">2601.03604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03045.html">QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Inhoe Koo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03045">2603.03045</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03660.html">From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Hongyu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03660">2606.03660</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24428.html">Representation-Guided Discrete Molecular Graph Retrosynthesis</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
 <td>Jiahai Huang et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07521.html">From Feasible to Practical: Pareto-Optimal Synthesis Planning</a></div></td>
 <td>Friedrich Hastedt et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07521">2605.07521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01822.html">Molecular Representations for Large Language Models</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Nicholas T. Runcie et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01822">2605.01822</a></td>
 </tr>
 </tbody></table>

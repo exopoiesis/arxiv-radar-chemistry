@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27678.html">Heterogeneous Parallelism for Multimodal Large Language Model Training</a></div></td>
-<td>Yashaswi Karnati et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27678">2605.27678</a></td>
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03435.html">CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
+<td>Yuxin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03435">2606.03435</a></td>
 </tr>
 </tbody></table>

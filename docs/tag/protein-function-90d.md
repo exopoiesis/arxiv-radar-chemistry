@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-function — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <strong>90d</strong> <a href="protein-function-360d.html">360d</a> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03604.html">Interleaved Tool-Call Reasoning for Protein Function Understanding</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Chuanliu Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03604">2601.03604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24007.html">Inference-time optimization for experiment-grounded protein ensemble generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Advaith Maddipatla et al.</td>
-<td><a href="http://arxiv.org/abs/2602.24007">2602.24007</a></td>
 </tr>
 </tbody></table>

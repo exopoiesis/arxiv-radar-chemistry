@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,23 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06539.html">Nanoscale Electronic Phase Separation Driven by Fe-site Ordering in Fe\textsubscript{5-x}GeTe\textsubscript{2}</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Shreyashi Sinha et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06539">2603.06539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05188.html">Escaping the Hydrolysis Trap: An Agentic Workflow for Inverse Design of Durable Photocatalytic Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Iman Peivaste et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05188">2603.05188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05615.html">Identification of the I$_{10}$ Donor in ZnO as a Sn--Li Complex with Large Hyperfine Interaction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Xingyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05615">2603.05615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05699.html">Active Learning for Tractable and Reproducible Pulsed Laser Deposition</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Jackson S. Bentley et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05699">2603.05699</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,29 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06113.html">Latent Diffusion-Based 3D Molecular Recovery from Vibrational Spectra</a></div></td>
 <td>Wenjin Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06113">2603.06113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03540.html">Path Planning for Masked Diffusion Model Sampling</a></div></td>
-<td>Fred Zhangzhi Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2502.03540">2502.03540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05664.html">KLASS: KL-Guided Fast Inference in Masked Diffusion Models</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Seo Hyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05664">2511.05664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01109.html">A stochastic correlation extension of the Vasicek credit risk model</a></div></td>
-<td>Dhruv Bansal et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01109">2603.01109</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05567.html">FuseDiff: Symmetry-Preserving Joint Diffusion for Dual-Target Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Jianliang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05567">2603.05567</a></td>
 </tr>
 </tbody></table>

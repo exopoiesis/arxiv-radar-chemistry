@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,17 +602,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19382.html">Learning Long-Range Representations with Equivariant Messages</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Egor Rumiantsev et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19382">2507.19382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19500.html">CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Hou Hei Lam et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19500">2511.19500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05655.html">Latent space design of interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Susan R. Atlas</td>
-<td><a href="http://arxiv.org/abs/2603.05655">2603.05655</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07194.html">Shape phase transition, coexistence and mixing in the $^{98-106}$Ru isotopes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>R. Budaca et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07194">2603.07194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24309.html">Impurity-controlled vortex mobility and pair-breaking in fermionic superfluid rings</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Buğra Tüzemen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24309">2510.24309</a></td>
 </tr>
 </tbody></table>

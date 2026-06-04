@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1615 papers</span>
+  <span class="paper-count">1614 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9698,11 +9698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08100.html">Defect complexes in CrSBr revealed through electron microscopy and deep learning</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Mads Weile et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08100">2506.08100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00998.html">Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Kartick Ramakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00998">2504.00998</a></td>
 </tr>
 </tbody></table>

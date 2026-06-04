@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,11 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14652.html">General-Reasoner: Advancing LLM Reasoning Across All Domains</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Xueguang Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14652">2505.14652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07035.html">AnnoDPO: Protein Functional Annotation Learning with Direct Preference Optimization</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Zixuan Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07035">2506.07035</a></td>
 </tr>
 </tbody></table>

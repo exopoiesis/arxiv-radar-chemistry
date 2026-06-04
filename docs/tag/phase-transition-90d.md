@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,11 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06906.html">Capturing nuclear quantum effects in high-pressure superconducting hydrides and ice with nuclear-electronic orbital theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Logan E. Smith et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06906">2603.06906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04725.html">Holographic QCD and quarkonium melting: Finite temperature, density, and external field effects in self-consistent dynamical models</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Bruno Toniato</td>
-<td><a href="http://arxiv.org/abs/2603.04725">2603.04725</a></td>
 </tr>
 </tbody></table>

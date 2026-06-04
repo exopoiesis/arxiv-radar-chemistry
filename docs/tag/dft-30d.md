@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,23 +950,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03737.html">Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Ashique Lal et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03737">2605.03737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02576.html">Analyticity and symmetry of band extrema in gapped solids: when does the effective mass approximation hold?</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Jakob Kjærulff Svaneborg et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02576">2605.02576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02646.html">Probing the Valley-Selective Tunneling Density of States in Monolayer MoS2 based Resonant Tunneling Devices</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Abir Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02646">2605.02646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02685.html">A Unified microscopic picture of cation and anion migration in MAPbI$_3$</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Viren Tyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02685">2605.02685</a></td>
 </tr>
 </tbody></table>

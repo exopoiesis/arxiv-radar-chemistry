@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,23 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12746.html">Oxygen-vacancy-induced Raman softening in the catalyst Fe$_2$(MoO$_4$)$_3$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Young-Joon Song et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12746">2510.12746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05151.html">Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
-<td>Steffen Eger et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05151">2502.05151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04725.html">Holographic QCD and quarkonium melting: Finite temperature, density, and external field effects in self-consistent dynamical models</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Bruno Toniato</td>
-<td><a href="http://arxiv.org/abs/2603.04725">2603.04725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05146.html">Advantage of flexible catalysis for entanglement and quantum thermodynamics</a></div></td>
-<td>Jingsong Ao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05146">2603.05146</a></td>
 </tr>
 </tbody></table>

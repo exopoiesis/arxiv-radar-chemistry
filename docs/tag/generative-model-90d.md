@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,17 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06110.html">Untangling dust emission and CIB anisotropies with the Scattering Transform Statistics</a></div></td>
 <td>Srijita Sinha et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06110">2603.06110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05151.html">Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
-<td>Steffen Eger et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05151">2502.05151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14020.html">Bures-Wasserstein Flow Matching for Graph Generation</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Keyue Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14020">2506.14020</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">456 papers</span>
+  <span class="paper-count">450 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2714,41 +2714,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06398.html">Understanding the anisotropic response of $β$-Ga$_2$O$_3$ to ion implantation</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Duarte Magalhães Esteves et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06398">2603.06398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16002.html">Unifying renormalized and bare viscosity in two-dimensional molecular dynamics simulations</a></div></td>
-<td>Kazuma Yokota et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16002">2506.16002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27173.html">FMint-SDE: A Multimodal Foundation Model for Accelerating Numerical Simulation of SDEs via Error Correction</a></div></td>
-<td>Jiaxin Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27173">2510.27173</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04907.html">Energy conservation and pressure relaxation in an extended two-temperature model for copper with an electron temperature-dependent interaction potential</a></div></td>
-<td>Simon Kümmel et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04907">2603.04907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05214.html">The bliss of dimensionality: how an unsupervised criterion identifies optimal low-resolution representations of high-dimensional datasets</a></div></td>
-<td>Margherita Mele et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05214">2603.05214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05368.html">Benchmarking mixed quantum-classical dynamics for collective electronic strong coupling</a></div></td>
-<td>Arun Kumar Kanakati et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05368">2603.05368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05442.html">High-Pressure Inelastic Neutron Spectroscopy: A true test of Machine-Learned Interatomic Potential energy landscapes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Jeff Armstrong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05442">2603.05442</a></td>
 </tr>
 </tbody></table>

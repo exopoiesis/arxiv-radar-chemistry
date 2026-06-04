@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,59 +158,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30297.html">Electron Doping of $\mathrm{La_3Ni_2O_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Shi-Cong Mo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30297">2605.30297</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27979.html">Direction-selective intertwined charge, orbital, and lattice orders under uniaxial strain in hole-doped manganite: La0.75Ca0.25MnO3</a></div></td>
-<td>Ju Hyeon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27979">2605.27979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27983.html">Effect of Vacancies on Hydrogen Mobility and Trapping in Elemental Fe and Cr: A DFT and kMC Study</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Vallinathan K et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27983">2605.27983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28391.html">Global magnetic phase diagram and multiple unconventional magnets in NiAs-type compounds</a></div></td>
-<td>Shibo Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28391">2605.28391</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28395.html">Can MACE Potentials Accurately Describe Magnetism and Phase Stability in Fe-Ni Alloys? A Systematic Benchmark</a></div></td>
-<td>Kushal Ramakrishna et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28395">2605.28395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28637.html">Excited States from Restricted Open Shell Plane-Wave DFT</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Michael J. Sahre et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28637">2605.28637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28783.html">Three-dimensional orbital-free density functional theory description of nuclear pasta in the inner crust of neutron stars</a></div></td>
-<td>Yo Nakamura et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28783">2605.28783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28798.html">How reproducible are first-principles simulations of liquid water?</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Niamh ONeill et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28798">2605.28798</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28905.html">DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Laurence I. Midgley et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28905">2605.28905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29029.html">Geometry-based Discovery of Calcium Battery Cathodes Accelerated by Foundational Machine-Learned Models</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Dereje Bekele Tekliye et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29029">2605.29029</a></td>
 </tr>
 </tbody></table>

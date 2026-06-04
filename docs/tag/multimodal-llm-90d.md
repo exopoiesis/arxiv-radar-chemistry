@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>multimodal-llm — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <strong>90d</strong> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20230.html">A Multi-Agent System Enables Versatile Information Extraction from the Chemical Literature</a></div></td>
 <td>Yufan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20230">2507.20230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05151.html">Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Steffen Eger et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05151">2502.05151</a></td>
 </tr>
 </tbody></table>

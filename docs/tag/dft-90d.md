@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">591 papers</span>
+  <span class="paper-count">576 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3470,95 +3470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06906.html">Capturing nuclear quantum effects in high-pressure superconducting hydrides and ice with nuclear-electronic orbital theory</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Logan E. Smith et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06906">2603.06906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24309.html">Impurity-controlled vortex mobility and pair-breaking in fermionic superfluid rings</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Buğra Tüzemen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24309">2510.24309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03372.html">TritonDFT: Automating DFT with a Multi-Agent Framework</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Zhengding Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03372">2603.03372</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04973.html">Extended dynamical density functional theory for nonisothermal binary systems including momentum density</a></div></td>
-<td>Michael te Vrugt et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04973">2603.04973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05056.html">Ab initio quasi-harmonic thermoelasticity, piezoelectricity, and thermoelectricity of polar solids at finite temperature and pressure: Application to wurtzite ZnO</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Xuejun Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05056">2603.05056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05123.html">First-principles calculation of coherence length and penetration depth based on density functional theory for superconductors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Mitsuaki Kawamura et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05123">2603.05123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05199.html">Epitaxial Growth and Electronic Properties of QuasiFreeStanding Rhombohedral WSe2 Bilayers on Cubic W110</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Niels Chapuis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05199">2603.05199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05257.html">Lattice dynamics of the charge density wave compounds TaTe$_4$ and NbTe$_4$ and their evolution across solid solutions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>D. Silvera-Vega et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05257">2603.05257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05319.html">The Angular Localization Function (ALF): a practical tool to measure solvent angular order with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Maïwenn Souetre et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05319">2603.05319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05379.html">Correcting hybrid density functionals to model Y6 and other non-fullerene acceptors</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Tom Ward et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05379">2603.05379</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05420.html">Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals</a></div></td>
-<td>Junchi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05420">2603.05420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05442.html">High-Pressure Inelastic Neutron Spectroscopy: A true test of Machine-Learned Interatomic Potential energy landscapes</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jeff Armstrong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05442">2603.05442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05453.html">Neural Wavefunction Calculations of μSR Spectra with Quantum Muons and Protons</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Jamie Carr et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05453">2603.05453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05615.html">Identification of the I$_{10}$ Donor in ZnO as a Sn--Li Complex with Large Hyperfine Interaction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Xingyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05615">2603.05615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05655.html">Latent space design of interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Susan R. Atlas</td>
-<td><a href="http://arxiv.org/abs/2603.05655">2603.05655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06708.html">Collapse of Jahn-Teller Phonons in La$_{1-x}$Sr$_{x}$MnO$_3$ with Weak Magnetoresistance</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Tyler C. Sterling et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06708">2603.06708</a></td>
 </tr>
 </tbody></table>

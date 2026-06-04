@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">424 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2504,59 +2504,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06539.html">Nanoscale Electronic Phase Separation Driven by Fe-site Ordering in Fe\textsubscript{5-x}GeTe\textsubscript{2}</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Shreyashi Sinha et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06539">2603.06539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13074.html">Synthesizing Strong-Coupling Kohn-Luttinger Superconductivity in 2D Van der Waals materials</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Shi-Cong Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2601.13074">2601.13074</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05056.html">Ab initio quasi-harmonic thermoelasticity, piezoelectricity, and thermoelectricity of polar solids at finite temperature and pressure: Application to wurtzite ZnO</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Xuejun Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05056">2603.05056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05083.html">Large-scale Integration of Experimental and Computational Data for 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Mohammad A. Akhound et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05083">2603.05083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05123.html">First-principles calculation of coherence length and penetration depth based on density functional theory for superconductors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Mitsuaki Kawamura et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05123">2603.05123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05257.html">Lattice dynamics of the charge density wave compounds TaTe$_4$ and NbTe$_4$ and their evolution across solid solutions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>D. Silvera-Vega et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05257">2603.05257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05447.html">Efficient simulation of Bose-Einstein condensates in nontrivial topologies</a></div></td>
-<td>Abel Beregi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05447">2603.05447</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05615.html">Identification of the I$_{10}$ Donor in ZnO as a Sn--Li Complex with Large Hyperfine Interaction</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Xingyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05615">2603.05615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05655.html">Latent space design of interatomic potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Susan R. Atlas</td>
-<td><a href="http://arxiv.org/abs/2603.05655">2603.05655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05678.html">Blackwells Demon: Postdiction and Prediction in Random Walks</a></div></td>
-<td>James Stein</td>
-<td><a href="http://arxiv.org/abs/2603.05678">2603.05678</a></td>
 </tr>
 </tbody></table>

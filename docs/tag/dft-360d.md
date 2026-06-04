@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2129 papers</span>
+  <span class="paper-count">2127 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12776,17 +12776,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07990.html">Stability of bound states in multi-component DFT in absolute coordinate systems</a></div></td>
 <td>Bander Linjawi</td>
 <td><a href="http://arxiv.org/abs/2506.07990">2506.07990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00998.html">Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Kartick Ramakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00998">2504.00998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07220.html">Some features in 4-level generation in LIPLs</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Lev Nagli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07220">2506.07220</a></td>
 </tr>
 </tbody></table>

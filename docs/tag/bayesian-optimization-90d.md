@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,17 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12141.html">ChemSICal-Net: Timing-Controlled Chemical Reaction Network for Successive Interference Cancellation in Molecular Multiple Access</a></div></td>
 <td>Alexander Wietfeld et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12141">2603.12141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05188.html">Escaping the Hydrolysis Trap: An Agentic Workflow for Inverse Design of Durable Photocatalytic Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Iman Peivaste et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05188">2603.05188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05699.html">Active Learning for Tractable and Reproducible Pulsed Laser Deposition</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Jackson S. Bentley et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05699">2603.05699</a></td>
 </tr>
 </tbody></table>

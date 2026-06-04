@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">223 papers</span>
+  <span class="paper-count">222 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1346,11 +1346,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07430.html">Scalable Neural Quantum State based Kernel Polynomial Method for Optical Properties from the First Principle</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Wei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07430">2506.07430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07220.html">Some features in 4-level generation in LIPLs</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Lev Nagli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07220">2506.07220</a></td>
 </tr>
 </tbody></table>

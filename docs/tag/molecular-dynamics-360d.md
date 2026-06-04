@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1598 papers</span>
+  <span class="paper-count">1597 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9596,11 +9596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11226.html">MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Peter Eckmann et al.</td>
 <td><a href="http://arxiv.org/abs/2410.11226">2410.11226</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07157.html">Nature of Hydrated Electron in Varied Solvation Environments</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Ritama Kar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07157">2506.07157</a></td>
 </tr>
 </tbody></table>

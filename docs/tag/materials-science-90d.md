@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,17 +584,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19678.html">From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Mohamed Amine Ferrag et al.</td>
 <td><a href="http://arxiv.org/abs/2504.19678">2504.19678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03372.html">TritonDFT: Automating DFT with a Multi-Agent Framework</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Zhengding Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03372">2603.03372</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05699.html">Active Learning for Tractable and Reproducible Pulsed Laser Deposition</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Jackson S. Bentley et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05699">2603.05699</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-properties — 90d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <strong>90d</strong> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,11 +500,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06460.html">Revisiting the symmetry and optical phonons of altermagnetic $α$-MnTe</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Ece Uykur et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06460">2603.06460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06708.html">Collapse of Jahn-Teller Phonons in La$_{1-x}$Sr$_{x}$MnO$_3$ with Weak Magnetoresistance</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Tyler C. Sterling et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06708">2603.06708</a></td>
 </tr>
 </tbody></table>

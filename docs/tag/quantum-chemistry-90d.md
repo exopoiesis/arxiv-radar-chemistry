@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,23 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06101.html">Quantum chemistry based on classical mechanics inspired by simulated bifurcation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Fumihiko Aiga et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06101">2603.06101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05319.html">The Angular Localization Function (ALF): a practical tool to measure solvent angular order with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Maïwenn Souetre et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05319">2603.05319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05453.html">Neural Wavefunction Calculations of μSR Spectra with Quantum Muons and Protons</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Jamie Carr et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05453">2603.05453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05655.html">Latent space design of interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Susan R. Atlas</td>
-<td><a href="http://arxiv.org/abs/2603.05655">2603.05655</a></td>
 </tr>
 </tbody></table>

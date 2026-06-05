@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multimodal-llm — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <strong>360d</strong> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,17 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21596.html">Evaluating Multimodal Large Language Models on Educational Textbook Question Answering</a></div></td>
 <td>Hessa A. Alawwad et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21596">2506.21596</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21177.html">SOLIDGEO: Measuring Multimodal Spatial Math Reasoning in Solid Geometry</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Peijie Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21177">2505.21177</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07837.html">HAIBU-ReMUD: Reasoning Multimodal Ultrasound Dataset and Model Bridging to General Specific Domains</a></div></td>
-<td>Shijie Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07837">2506.07837</a></td>
 </tr>
 </tbody></table>

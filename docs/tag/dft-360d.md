@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2127 papers</span>
+  <span class="paper-count">2122 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12746,35 +12746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09256.html">Comparing classical and machine learning force fields for modeling deformation of solid sorbents relevant for direct air capture</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="mlip-360d.html">mlip</a> · <a href="mof-360d.html">mof</a></div></td>
 <td>Logan M. Brabson et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09256">2506.09256</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03578.html">Universal machine learning interatomic potentials poised to supplant DFT in modeling general defects in metals and random alloys</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Fei Shuang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.03578">2502.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09715.html">Resistive switching and charge accumulation in Hf0.5Zr0.5O2 nanoparticles</a></div></td>
-<td>Oleksandr S. Pylypchuk et al.</td>
-<td><a href="http://arxiv.org/abs/2504.09715">2504.09715</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07518.html">Structure-Informed Learning of Flat Band 2D Materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Xiangwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07518">2506.07518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07544.html">Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Md. Shariful Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07544">2506.07544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07990.html">Stability of bound states in multi-component DFT in absolute coordinate systems</a></div></td>
-<td>Bander Linjawi</td>
-<td><a href="http://arxiv.org/abs/2506.07990">2506.07990</a></td>
 </tr>
 </tbody></table>

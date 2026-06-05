@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,29 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07371.html">ConfHit: Conformal Generative Design with Oracle Free Guarantees</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Siddhartha Laghuvarapu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07371">2603.07371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16861.html">BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Joongwon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16861">2405.16861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15805.html">FragFM: Hierarchical Framework for Efficient Molecule Generation via Fragment-Level Discrete Flow Matching</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Joongwon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15805">2502.15805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02406.html">Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Zhanghan Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02406">2603.02406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06292.html">Enhanced Protein Intrinsic Disorder Prediction Through Dual-View Multiscale Features and Multi-objective Evolutionary Algorithm</a></div></td>
-<td>Shaokuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06292">2603.06292</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,23 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07260.html">Spin Neural Network Potential for Magnetic Phase Transitions in Uranium Dioxide</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Keita Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07260">2603.07260</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06346.html">Frustrated supermolecules: the high-pressure phases of crystalline methane</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Marcin Kirsz et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06346">2603.06346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06398.html">Understanding the anisotropic response of $β$-Ga$_2$O$_3$ to ion implantation</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Duarte Magalhães Esteves et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06398">2603.06398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06906.html">Capturing nuclear quantum effects in high-pressure superconducting hydrides and ice with nuclear-electronic orbital theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Logan E. Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06906">2603.06906</a></td>
 </tr>
 </tbody></table>

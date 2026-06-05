@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">267 papers</span>
+  <span class="paper-count">265 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1604,17 +1604,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21646.html">Iterative Corpus Refinement for Materials Property Prediction Based on Scientific Texts</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Lei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21646">2505.21646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05616.html">Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Lianhao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05616">2506.05616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07518.html">Structure-Informed Learning of Flat Band 2D Materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Xiangwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07518">2506.07518</a></td>
 </tr>
 </tbody></table>

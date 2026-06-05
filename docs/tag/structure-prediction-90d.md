@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17176.html">Symmetry-Driven Generation of Crystal Structures from Composition</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Shi Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17176">2602.17176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13327.html">PepEDiff: Zero-Shot Peptide Binder Design via Protein Embedding Diffusion</a></div></td>
-<td>Po-Yu Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.13327">2601.13327</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">450 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2678,41 +2678,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07355.html">Elasticity-mediated Morphogenesis in Interfacial Colloidal Assemblies</a></div></td>
 <td>Vaibhav Raj Singh Parmar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07355">2603.07355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01068.html">Learning the action for long-time-step simulations of molecular dynamics</a></div></td>
-<td>Filippo Bigi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01068">2508.01068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17257.html">Molecular insight on ultra-confined ionic transport in wetting films: the key role of friction</a></div></td>
-<td>Aymeric Allemand et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17257">2511.17257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02406.html">Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Zhanghan Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02406">2603.02406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06346.html">Frustrated supermolecules: the high-pressure phases of crystalline methane</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Marcin Kirsz et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06346">2603.06346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06396.html">Long-range machine-learning potentials with environment-dependent charges enable predicting LO-TO splitting and dielectric constants</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Dmitry Korogod et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06396">2603.06396</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06398.html">Understanding the anisotropic response of $β$-Ga$_2$O$_3$ to ion implantation</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Duarte Magalhães Esteves et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06398">2603.06398</a></td>
 </tr>
 </tbody></table>

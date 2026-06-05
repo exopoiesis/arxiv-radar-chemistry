@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,23 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07240.html">FabricGen: Microstructure-Aware Woven Fabric Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Yingjie Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07240">2603.07240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16861.html">BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Joongwon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16861">2405.16861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03929.html">Self-Speculative Masked Diffusions</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Andrew Campbell et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03929">2510.03929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06113.html">Latent Diffusion-Based 3D Molecular Recovery from Vibrational Spectra</a></div></td>
-<td>Wenjin Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06113">2603.06113</a></td>
 </tr>
 </tbody></table>

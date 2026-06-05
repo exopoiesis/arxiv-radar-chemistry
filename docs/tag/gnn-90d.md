@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">97 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -596,11 +596,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08020.html">PhysDrape: Learning Explicit Forces and Collision Constraints for Physically Realistic Garment Draping</a></div></td>
 <td>Minghai Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08020">2602.08020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19382.html">Learning Long-Range Representations with Equivariant Messages</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Egor Rumiantsev et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19382">2507.19382</a></td>
 </tr>
 </tbody></table>

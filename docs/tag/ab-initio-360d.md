@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1614 papers</span>
+  <span class="paper-count">1609 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9668,35 +9668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09257.html">Improved H2-He and H2-H2 Collision-Induced Absorption Models and Application to Outer-Planet Atmospheres</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Glenn S. Orton et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09257">2506.09257</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03578.html">Universal machine learning interatomic potentials poised to supplant DFT in modeling general defects in metals and random alloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Fei Shuang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.03578">2502.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07430.html">Scalable Neural Quantum State based Kernel Polynomial Method for Optical Properties from the First Principle</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Wei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07430">2506.07430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07544.html">Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Md. Shariful Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07544">2506.07544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07746.html">Erbium-implanted WS2 flakes with room-temperature photon emission at telecom wavelengths</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Guadalupe García-Arellano et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07746">2506.07746</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08100.html">Defect complexes in CrSBr revealed through electron microscopy and deep learning</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Mads Weile et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08100">2506.08100</a></td>
 </tr>
 </tbody></table>

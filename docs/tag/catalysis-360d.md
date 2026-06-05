@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">304 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1826,17 +1826,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10199.html">Tracking and controlling monolayer water in gold nanogaps using extreme plasmonic spectroscopy</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Elle W. Wyatt et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10199">2506.10199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05568.html">Thermomagnetic effects on light pseudo-scalar meson masses within the SU(3) Nambu-Jona--Lasinio model</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Máximo Coppola et al.</td>
-<td><a href="http://arxiv.org/abs/2410.05568">2410.05568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21177.html">SOLIDGEO: Measuring Multimodal Spatial Math Reasoning in Solid Geometry</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Peijie Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21177">2505.21177</a></td>
 </tr>
 </tbody></table>

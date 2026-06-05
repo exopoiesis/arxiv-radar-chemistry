@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">222 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1340,11 +1340,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09960.html">Refining ensemble $N$-representability of one-body density matrices from partial information</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Julia Liebert et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09960">2506.09960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07430.html">Scalable Neural Quantum State based Kernel Polynomial Method for Optical Properties from the First Principle</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Wei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07430">2506.07430</a></td>
 </tr>
 </tbody></table>

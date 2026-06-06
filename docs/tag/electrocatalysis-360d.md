@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrocatalysis — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10548.html">Machine learning accelerated finite-field simulations for electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Chaoqiang Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10548">2506.10548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21646.html">Iterative Corpus Refinement for Materials Property Prediction Based on Scientific Texts</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21646">2505.21646</a></td>
 </tr>
 </tbody></table>

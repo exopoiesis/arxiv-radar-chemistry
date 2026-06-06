@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Qi-Jun Hong</td>
+<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03232.html">GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
@@ -32,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Alfredo Fiorentino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03405">2606.03405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -1058,11 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07425.html">A Perspective on Training Machine Learning Force Fields for Solid-State Electrolyte Materials</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
 <td>Zihan Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07425">2603.07425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07260.html">Spin Neural Network Potential for Magnetic Phase Transitions in Uranium Dioxide</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Keita Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07260">2603.07260</a></td>
 </tr>
 </tbody></table>

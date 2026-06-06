@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Micah P. Prange et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04331">2606.04331</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05050.html">Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin</a></div></td>
+<td>Zhilong Song et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05050">2606.05050</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03461.html">What Makes Interaction Trajectories Effective for Training Terminal Agents?</a></div></td>
@@ -140,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07714.html">Selectivity- and Activity-Aware Catalyst Descriptors for CO$_2$ Hydrogenation on Alloy Nanocatalysts using Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>Prajwal Pisal et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07714">2605.07714</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04879.html">Catalytic advantage in asymptotic entanglement manipulation</a></div></td>
-<td>Ray Ganardi</td>
-<td><a href="http://arxiv.org/abs/2605.04879">2605.04879</a></td>
 </tr>
 </tbody></table>

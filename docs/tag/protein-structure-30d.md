@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.02104">2606.02104</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04021.html">Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Bryan Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04021">2606.04021</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29228.html">Traditional machine learning vs. deep learning from dynamic graph representations of proteins&#x27; 3D folds in the task of protein structure classification</a></div></td>
 <td>Aydin Wells et al.</td>
@@ -140,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06830.html">ProtSent: Protein Sentence Transformers</a></div><div class="paper-tags"><a href="protein-function-30d.html">protein-function</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Dan Ofer et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06830">2605.06830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04762.html">TCRTransBench: A Comprehensive Benchmark for Bidirectional TCR-Peptide Sequence Generation</a></div></td>
-<td>Yiming Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04762">2605.04762</a></td>
 </tr>
 </tbody></table>

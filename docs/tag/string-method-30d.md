@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06295.html">Reactive Flux Matching: Mechanism Discovery and Adaptive Sampling of Rare Events</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a></div></td>
+<td>Rishal Aggarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06295">2606.06295</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22990.html">Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Rémi Schlama et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15630.html">Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Sauradeep Majumdar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15630">2605.15630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04751.html">Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Onel L. A. López et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04751">2605.04751</a></td>
 </tr>
 </tbody></table>

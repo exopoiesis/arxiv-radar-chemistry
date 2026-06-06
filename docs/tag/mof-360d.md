@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mof — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <strong>360d</strong> <a href="mof-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12554.html">TBHubbard: tight-binding and extended Hubbard model database for metal-organic frameworks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Pamela C. Carvalho et al.</td>
 <td><a href="http://arxiv.org/abs/2503.12554">2503.12554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09256.html">Comparing classical and machine learning force fields for modeling deformation of solid sorbents relevant for direct air capture</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Logan M. Brabson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09256">2506.09256</a></td>
 </tr>
 </tbody></table>

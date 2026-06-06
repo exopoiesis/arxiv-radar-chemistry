@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrocatalysis — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="electrocatalysis-360d.html">360d</a> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04718.html">Transforming Discarded Thermoelectrics into High-Performance HER Catalysts</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Gemeda Jemal Usa et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04718">2604.04718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07009.html">Bulk OsO2 Single Crystals: Superior Catalysts for Water Oxidation</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Guojian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07009">2603.07009</a></td>
 </tr>
 </tbody></table>

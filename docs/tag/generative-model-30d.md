@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03199.html">Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03827.html">Conditional Latent Diffusion Model with Fourier-based Motion Modelling for Virtual Population Synthesis</a></div></td>
 <td>Shaokun Lan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03827">2606.03827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04287.html">Scaling Novel Graph Generation via Lightweight Structure-Guided Autoregressive Models</a></div></td>
+<td>Alessio Barboni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04287">2606.04287</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -242,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08262.html">SLayerGen: a Crystal Generative Model for all Space and Layer Groups</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Rees Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08262">2605.08262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04604.html">Generative Quantum-inspired Kolmogorov-Arnold Eigensolver</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Yu-Cheng Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04604">2605.04604</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,17 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07723.html">Anomalous magnetotransport in the single-crystalline half-Heusler antiferromagnet ErPdSb</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Abhinav Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07723">2603.07723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06966.html">Flat Topological Nodal Lines in Heavy-Fermion Compound CeCoGe$_3$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Yuting Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06966">2603.06966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07260.html">Spin Neural Network Potential for Magnetic Phase Transitions in Uranium Dioxide</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Keita Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07260">2603.07260</a></td>
 </tr>
 </tbody></table>

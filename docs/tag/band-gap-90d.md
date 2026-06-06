@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,11 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10142.html">Endohedral Derivatives of the Recently Synthesized Two-Dimensional Fullerene Networks: Electronic and Optical Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Marcelo L. Pereira Junior et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10142">2603.10142</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06966.html">Flat Topological Nodal Lines in Heavy-Fermion Compound CeCoGe$_3$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Yuting Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06966">2603.06966</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">127 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,11 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06337.html">Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Mohit Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2503.06337">2503.06337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09256.html">Comparing classical and machine learning force fields for modeling deformation of solid sorbents relevant for direct air capture</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Logan M. Brabson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09256">2506.09256</a></td>
 </tr>
 </tbody></table>

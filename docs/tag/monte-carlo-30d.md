@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Justin Sanders et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04751.html">Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling</a></div><div class="paper-tags"><a href="string-method-30d.html">string-method</a></div></td>
-<td>Onel L. A. López et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04751">2605.04751</a></td>
 </tr>
 </tbody></table>

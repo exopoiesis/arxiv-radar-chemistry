@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03199.html">Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Alston Lo et al.</td>
@@ -3452,11 +3458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16563.html">Chem42: a Family of chemical Language Models for Target-aware Ligand Generation</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Aahan Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16563">2503.16563</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13352.html">Strain Problems got you in a Twist? Try StrainRelief: A Quantum-Accurate Tool for Ligand Strain Calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Ewan R. S. Wallace et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13352">2503.13352</a></td>
 </tr>
 </tbody></table>

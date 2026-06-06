@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05693.html">MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Joey Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05693">2606.05693</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29555.html">From Blind Guess to Informed Judgment: Teaching LLMs to Evaluate Materials by Building Knowledge-Augmented Preference Signals</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
@@ -404,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03155.html">Information Routing in Atomistic Foundation Models: How Task Alignment and Equivariance Shape Linear Disentanglement</a></div></td>
 <td>Joshua Steier</td>
 <td><a href="http://arxiv.org/abs/2603.03155">2603.03155</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20573.html">Benchmarking GNN Models on Molecular Regression Tasks with CKA-Based Representation Analysis</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Rajan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20573">2602.20573</a></td>
 </tr>
 </tbody></table>

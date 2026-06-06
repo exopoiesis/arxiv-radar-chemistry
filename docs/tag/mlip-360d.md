@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">586 papers</span>
+  <span class="paper-count">584 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Qi-Jun Hong</td>
+<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03232.html">GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
@@ -32,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Alfredo Fiorentino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03405">2606.03405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -3506,29 +3518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09372.html">Molecular Dynamics Simulations of SrTiO$_3$ with Oxygen Vacancies using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kazutaka Nishiguchi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09372">2506.09372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13352.html">Strain Problems got you in a Twist? Try StrainRelief: A Quantum-Accurate Tool for Ligand Strain Calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Ewan R. S. Wallace et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13352">2503.13352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08339.html">Developing a Neural Network Machine Learning Interatomic Potential for Molecular Dynamics Simulations of La-Si-P Systems</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ling Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08339">2506.08339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08818.html">Crystal Nucleation in Eutectic Al-Si Alloys by Machine-Learned Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Quentin Bizot et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08818">2506.08818</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09256.html">Comparing classical and machine learning force fields for modeling deformation of solid sorbents relevant for direct air capture</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Logan M. Brabson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09256">2506.09256</a></td>
 </tr>
 </tbody></table>

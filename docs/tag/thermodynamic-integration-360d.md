@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04803.html">Machine learning via artificial neural networks coupled with density functional theory and experiments for thermodynamic optimization of high-entropy alloys for hydrogen storage at room temperature</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Shivam Dangwal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04803">2606.04803</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmo-360d.html">tmo</a></div></td>
 <td>Christian S. Ahart et al.</td>
@@ -812,11 +818,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13747.html">Two-neutrino $0^+ \to 0^+$ double beta decay of $^{48}\mathrm{Ca}$ within the DFT-NCCI framework</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Jan Miśkiewicz et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13747">2506.13747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02312.html">Quasiparticle interference on the surface of Bi$_{\mathbf{2}}$Se$_{\mathbf{3}}$ terminated (PbSe)$_{\mathbf 5}$(Bi$_{\mathbf 2}$Se$_{\mathbf 3}$)$_{\mathbf 6}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Mahasweta Bagchi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02312">2502.02312</a></td>
 </tr>
 </tbody></table>

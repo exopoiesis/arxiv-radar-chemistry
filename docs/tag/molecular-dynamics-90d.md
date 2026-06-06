@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">447 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05893.html">Coupled simulation of plasma-surface interactions during early stages of vacuum arcing</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Roni Koitermaa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05893">2606.05893</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06185.html">Non-adiabatic Ehrenfest dynamics with norm-conserving and ultra-soft pseudo-potentials with nuclear velocity corrections on the atomic orbitals within the Projector Augmented Wave Method framework</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Paolo Fachin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06185">2606.06185</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06289.html">Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
+<td>T. A. M. Ragib Shahriar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06289">2606.06289</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04504.html">Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Mingda Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04504">2606.04504</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04748.html">Percolation Criticality of Amorphous-Amorphous Transitions in Compressed Glasses</a></div></td>
+<td>Julien Perradin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04748">2606.04748</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Qi-Jun Hong</td>
+<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05007.html">Small-angle solution scattering: from fundamental theory to practical approximations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Kristian Lytje et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05007">2606.05007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05148.html">Variational low-energy subspaces for chemically accurate excited states</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Clemens Giuliani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05148">2606.05148</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
@@ -56,6 +104,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03760.html">Revisiting neutron-skin thickness and dipole polarizability constraints on the symmetry energy in Antisymmetrized Molecular Dynamics</a></div></td>
 <td>Dandan Niu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03760">2606.03760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04228.html">When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Kargi Chauhan</td>
+<td><a href="http://arxiv.org/abs/2606.04228">2606.04228</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -2636,47 +2696,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07472.html">Contact-Guided 3D Genome Structure Generation of E. coli via Diffusion Transformers</a></div></td>
 <td>Mingxin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07472">2603.07472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18406.html">Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades</a></div></td>
-<td>Ankit Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18406">2511.18406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07196.html">Quantum Tunneling Enables High-Flux Transport in Ion Channels</a></div></td>
-<td>Bin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07196">2603.07196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07198.html">Field-theoretical approach to estimate mean gap and gap distribution in randomly rough surface contact mechanics</a></div></td>
-<td>Yunong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07198">2603.07198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07203.html">Reversible Ionic Aggregation Kinetics in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Zachary A. H. Goodwin</td>
-<td><a href="http://arxiv.org/abs/2603.07203">2603.07203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07260.html">Spin Neural Network Potential for Magnetic Phase Transitions in Uranium Dioxide</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Keita Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07260">2603.07260</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07321.html">Averaging Molecular Dynamics simulations to study the slow-strain rate behavior of metals</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Sarthok Kumar Baruah et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07321">2603.07321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07355.html">Elasticity-mediated Morphogenesis in Interfacial Colloidal Assemblies</a></div></td>
-<td>Vaibhav Raj Singh Parmar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07355">2603.07355</a></td>
 </tr>
 </tbody></table>

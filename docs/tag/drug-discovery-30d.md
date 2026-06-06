@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03199.html">Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Alston Lo et al.</td>
@@ -260,11 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08262.html">SLayerGen: a Crystal Generative Model for all Space and Layer Groups</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Rees Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08262">2605.08262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05370.html">SPADE: Faster Drug Discovery by Learning from Sparse Data</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Rahul Nandakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05370">2605.05370</a></td>
 </tr>
 </tbody></table>

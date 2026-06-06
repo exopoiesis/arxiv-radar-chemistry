@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06303.html">Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Hongkun Dou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06303">2606.06303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04452.html">DeltaDiff: Training-Free, Physics-Guided Machine Learning for Predicting Mutant Protein Structures</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Yajie Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04452">2606.04452</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div></td>
+<td>Yuyu Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03524.html">Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -212,17 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07030.html">Scalable Active Metamaterials for Shape-Morphing</a></div></td>
 <td>Jipeng Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07030">2605.07030</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04772.html">MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education</a></div></td>
-<td>Miguel Diaz Benito et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04772">2605.04772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05163.html">PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World</a></div></td>
-<td>Yunhan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05163">2605.05163</a></td>
 </tr>
 </tbody></table>

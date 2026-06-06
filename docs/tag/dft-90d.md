@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">560 papers</span>
+  <span class="paper-count">564 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05974.html">The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films</a></div></td>
+<td>Giulia Pavese et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05974">2606.05974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Ashutosh Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06006">2606.06006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06015.html">Quantum computing for accurate large-scale electronic-structure calculations: DFT-embedded, post-processed quantum-selected configuration interaction</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Tuan Minh Do et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06015">2606.06015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Micah P. Prange et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04331">2606.04331</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04714.html">Why Fe doping kills photoluminescence in CsPbCl$_3$ but not in CsPbBr$_3$: Role of midgap Fe 3$d$ states and electron-phonon coupling</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Arpan Das et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04714">2606.04714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04803.html">Machine learning via artificial neural networks coupled with density functional theory and experiments for thermodynamic optimization of high-entropy alloys for hydrogen storage at room temperature</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Shivam Dangwal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04803">2606.04803</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Jonathan S. Evarts et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -50,6 +98,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03764.html">RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Frank M. Abel et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03764">2606.03764</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04252.html">High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Arpan Das</td>
+<td><a href="http://arxiv.org/abs/2606.04252">2606.04252</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -3344,35 +3398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07706.html">DeepConf: Machine Learning Conformer Reconstruction of Biomolecules from Scanning Tunneling Microscopy Images</a></div></td>
 <td>Tim J. Seifert et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07706">2603.07706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06953.html">Universal electronic manifolds for extrapolative alloy discovery</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Pranoy Ray et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06953">2603.06953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06966.html">Flat Topological Nodal Lines in Heavy-Fermion Compound CeCoGe$_3$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Yuting Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06966">2603.06966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07008.html">Pressure-Induced Metal-Insulator and Paramagnet-Altermagnet Transitions in Rutile OsO2 Single Crystals</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Guojian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07008">2603.07008</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07194.html">Shape phase transition, coexistence and mixing in the $^{98-106}$Ru isotopes</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>R. Budaca et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07194">2603.07194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07260.html">Spin Neural Network Potential for Magnetic Phase Transitions in Uranium Dioxide</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Keita Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07260">2603.07260</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">383 papers</span>
+  <span class="paper-count">381 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2300,17 +2300,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09848.html">Coexistence of static and dynamic local magnetic fields in an S = 3/2 honeycomb lattice antiferromagnet Co2Te3O8</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>J. Khatua et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09848">2506.09848</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08867.html">Ising superconductivity in noncentrosymmetric bulk NbSe2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Dominik Volavka et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08867">2501.08867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02312.html">Quasiparticle interference on the surface of Bi$_{\mathbf{2}}$Se$_{\mathbf{3}}$ terminated (PbSe)$_{\mathbf 5}$(Bi$_{\mathbf 2}$Se$_{\mathbf 3}$)$_{\mathbf 6}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Mahasweta Bagchi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02312">2502.02312</a></td>
 </tr>
 </tbody></table>

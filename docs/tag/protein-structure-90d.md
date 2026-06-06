@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02104.html">Penalty-free quantum optimization applied to lattice protein folding</a></div></td>
 <td>Leif Gellsersen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02104">2606.02104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04021.html">Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Bryan Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04021">2606.04021</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>

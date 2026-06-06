@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -716,11 +716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16563.html">Chem42: a Family of chemical Language Models for Target-aware Ligand Generation</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Aahan Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16563">2503.16563</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08936.html">BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Amina Mollaysa et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08936">2506.08936</a></td>
 </tr>
 </tbody></table>

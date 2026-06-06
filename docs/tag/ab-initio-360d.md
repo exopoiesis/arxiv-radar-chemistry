@@ -16,6 +16,60 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Ashutosh Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06006">2606.06006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06185.html">Non-adiabatic Ehrenfest dynamics with norm-conserving and ultra-soft pseudo-potentials with nuclear velocity corrections on the atomic orbitals within the Projector Augmented Wave Method framework</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Paolo Fachin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06185">2606.06185</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06289.html">Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>T. A. M. Ragib Shahriar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06289">2606.06289</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04803.html">Machine learning via artificial neural networks coupled with density functional theory and experiments for thermodynamic optimization of high-entropy alloys for hydrogen storage at room temperature</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Shivam Dangwal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04803">2606.04803</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04868.html">Resolving the Blueshift in Calculations of the EUV Spectrum of Multiply Charged Tin Ions</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
+<td>M. L. Reitsma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04868">2606.04868</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Qi-Jun Hong</td>
+<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05007.html">Small-angle solution scattering: from fundamental theory to practical approximations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Kristian Lytje et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05007">2606.05007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05093.html">Exchange-mediated exciton splitting and linear dichroism in monolayer transition metal dichalcogenide induced by ferroelectric substrates</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Sudipta Kundu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05093">2606.05093</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Jonathan S. Evarts et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03710.html">Mechanochemical Nano-Writing of an Atomically Thin Metal</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Shuai Zhang et al.</td>
@@ -32,6 +86,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03993.html">Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider</a></div></td>
 <td>Giuliano Giacalone et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04252.html">High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Arpan Das</td>
+<td><a href="http://arxiv.org/abs/2606.04252">2606.04252</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -9608,65 +9668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10181.html">Entangled Interlocked Diamond-like (Diamondiynes) Lattices</a></div></td>
 <td>C. M. O. Bastos et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10181">2506.10181</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08867.html">Ising superconductivity in noncentrosymmetric bulk NbSe2</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Dominik Volavka et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08867">2501.08867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02312.html">Quasiparticle interference on the surface of Bi$_{\mathbf{2}}$Se$_{\mathbf{3}}$ terminated (PbSe)$_{\mathbf 5}$(Bi$_{\mathbf 2}$Se$_{\mathbf 3}$)$_{\mathbf 6}$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Mahasweta Bagchi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02312">2502.02312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13611.html">Measurement of the Electric Dipole Moment of AlCl by Stark Level Spectroscopy</a></div></td>
-<td>Li-Ren Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13611">2503.13611</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16417.html">A Complete Active Space Self-Consistent Field approach for molecules in QED environments</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Riccardo Alessandro et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16417">2503.16417</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08652.html">JoFormer (Journey-based Transformer): Theory and Empirical Analysis on the Tiny Shakespeare Dataset</a></div></td>
-<td>Mahesh Godavarti</td>
-<td><a href="http://arxiv.org/abs/2506.08652">2506.08652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08778.html">Symmetry energy and neutron matter equation of state at $ρ_0/3$ from the electric dipole polarizability in $^{48}$Ca, $^{68}$Ni and $^{208}$Pb</a></div></td>
-<td>Mengying Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08778">2506.08778</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08789.html">Hydrogen diffusion in ceria: solid state NMR, combined scattering and spectroscopic studies, and ab initio calculations</a></div></td>
-<td>Zhichao Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08789">2506.08789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08818.html">Crystal Nucleation in Eutectic Al-Si Alloys by Machine-Learned Molecular Dynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Quentin Bizot et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08818">2506.08818</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09252.html">Aluminum oxide coatings on Co-rich cathodes and interactions with organic electrolyte</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>M. D. Hashan C. Peiris et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09252">2506.09252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09257.html">Improved H2-He and H2-H2 Collision-Induced Absorption Models and Application to Outer-Planet Atmospheres</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Glenn S. Orton et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09257">2506.09257</a></td>
 </tr>
 </tbody></table>

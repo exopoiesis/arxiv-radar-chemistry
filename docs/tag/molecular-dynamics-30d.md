@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05893.html">Coupled simulation of plasma-surface interactions during early stages of vacuum arcing</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
+<td>Roni Koitermaa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05893">2606.05893</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06185.html">Non-adiabatic Ehrenfest dynamics with norm-conserving and ultra-soft pseudo-potentials with nuclear velocity corrections on the atomic orbitals within the Projector Augmented Wave Method framework</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Paolo Fachin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06185">2606.06185</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06289.html">Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
+<td>T. A. M. Ragib Shahriar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06289">2606.06289</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04504.html">Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Mingda Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04504">2606.04504</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04748.html">Percolation Criticality of Amorphous-Amorphous Transitions in Compressed Glasses</a></div></td>
+<td>Julien Perradin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04748">2606.04748</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Qi-Jun Hong</td>
+<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05007.html">Small-angle solution scattering: from fundamental theory to practical approximations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Kristian Lytje et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05007">2606.05007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05148.html">Variational low-energy subspaces for chemically accurate excited states</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Clemens Giuliani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05148">2606.05148</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
@@ -56,6 +104,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03760.html">Revisiting neutron-skin thickness and dipole polarizability constraints on the symmetry energy in Antisymmetrized Molecular Dynamics</a></div></td>
 <td>Dandan Niu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03760">2606.03760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04228.html">When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Kargi Chauhan</td>
+<td><a href="http://arxiv.org/abs/2606.04228">2606.04228</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -722,29 +782,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16337.html">Anomalous Diffusion as Structural Memory: An Extended Structural Dynamics Approach</a></div></td>
 <td>Patrick BarAvi</td>
 <td><a href="http://arxiv.org/abs/2605.16337">2605.16337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04521.html">Unveiling the Atomistic Mechanisms of Shear-Induced LDA$\leftrightarrow$HDA Transformations and Shear Banding in Amorphous Silicon under High Pressures</a></div></td>
-<td>Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04521">2605.04521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Zheng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05376.html">Frustrated Dynamics of Distance Matrices</a></div></td>
-<td>Igor Halperin</td>
-<td><a href="http://arxiv.org/abs/2605.05376">2605.05376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05524.html">MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series</a></div></td>
-<td>Shicheng Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05524">2605.05524</a></td>
 </tr>
 </tbody></table>

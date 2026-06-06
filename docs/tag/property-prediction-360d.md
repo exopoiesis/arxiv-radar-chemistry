@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05693.html">MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Joey Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05693">2606.05693</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29555.html">From Blind Guess to Informed Judgment: Teaching LLMs to Evaluate Materials by Building Knowledge-Augmented Preference Signals</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Yeyong Yu et al.</td>
@@ -1478,17 +1490,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16563.html">Chem42: a Family of chemical Language Models for Target-aware Ligand Generation</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Aahan Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16563">2503.16563</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08936.html">BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Amina Mollaysa et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08936">2506.08936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19862.html">DualEquiNet: A Dual-Space Hierarchical Equivariant Network for Large Biomolecules</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Junjie Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19862">2506.19862</a></td>
 </tr>
 </tbody></table>

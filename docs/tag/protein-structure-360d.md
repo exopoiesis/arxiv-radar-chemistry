@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">267 papers</span>
+  <span class="paper-count">265 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02104.html">Penalty-free quantum optimization applied to lattice protein folding</a></div></td>
 <td>Leif Gellsersen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02104">2606.02104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04021.html">Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Bryan Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04021">2606.04021</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>
@@ -1598,23 +1604,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10134.html">FAPS: A Fast Platform for Protein Structureomics Analysis</a></div></td>
 <td>Lucas Wilken et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10134">2506.10134</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07866.html">Protein folding with an all-to-all trapped-ion quantum computer</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Sebastián V. Romero et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07866">2506.07866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08365.html">AlphaFold Database Debiasing for Robust Inverse Folding</a></div></td>
-<td>Cheng Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08365">2506.08365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08954.html">Protriever: End-to-End Differentiable Protein Homology Search for Fitness Prediction</a></div></td>
-<td>Ruben Weitzman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08954">2506.08954</a></td>
 </tr>
 </tbody></table>

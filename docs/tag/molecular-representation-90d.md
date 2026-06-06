@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05693.html">MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Joey Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05693">2606.05693</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03057.html">Rethinking Molecular Text Representations for LLMs: An Empirical Study</a></div></td>
 <td>Arun Raja et al.</td>
@@ -290,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00002.html">Benchmark for Assessing Olfactory Perception of Large Language Models</a></div></td>
 <td>Eftychia Makri et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00002">2604.00002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20573.html">Benchmarking GNN Models on Molecular Regression Tasks with CKA-Based Representation Analysis</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Rajan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20573">2602.20573</a></td>
 </tr>
 </tbody></table>

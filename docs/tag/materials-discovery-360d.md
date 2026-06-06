@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">265 papers</span>
+  <span class="paper-count">264 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1598,11 +1598,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16548.html">From Efficiency Gains to Rebound Effects: The Problem of Jevons&#x27; Paradox in AI&#x27;s Polarized Environmental Debate</a></div></td>
 <td>Alexandra Sasha Luccioni et al.</td>
 <td><a href="http://arxiv.org/abs/2501.16548">2501.16548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21646.html">Iterative Corpus Refinement for Materials Property Prediction Based on Scientific Texts</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21646">2505.21646</a></td>
 </tr>
 </tbody></table>

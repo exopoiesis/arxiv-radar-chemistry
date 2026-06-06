@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04868.html">Resolving the Blueshift in Calculations of the EUV Spectrum of Multiply Charged Tin Ions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>M. L. Reitsma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04868">2606.04868</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05148.html">Variational low-energy subspaces for chemically accurate excited states</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Clemens Giuliani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05148">2606.05148</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03709.html">Augmented Roothaan-Hall Hessian Applied to Spin-Restricted Open-Shell Density-Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -410,11 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09670.html">On the generalized eigenvalue problem in subspace-based excited state methods for quantum computers</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Prince Frederick Kwao et al.</td>
 <td><a href="http://arxiv.org/abs/2503.09670">2503.09670</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07194.html">Shape phase transition, coexistence and mixing in the $^{98-106}$Ru isotopes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>R. Budaca et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07194">2603.07194</a></td>
 </tr>
 </tbody></table>

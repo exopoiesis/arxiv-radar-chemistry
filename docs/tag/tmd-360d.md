@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05093.html">Exchange-mediated exciton splitting and linear dichroism in monolayer transition metal dichalcogenide induced by ferroelectric substrates</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Sudipta Kundu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05093">2606.05093</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Surender Kumar et al.</td>
@@ -476,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11488.html">Uni-Traveling-Carrier Photodiode Based on MoS2/GaN van der Waals Heterojunction for High-Speed Visible-Light Detection</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Takuya Kadowaki et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11488">2506.11488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08867.html">Ising superconductivity in noncentrosymmetric bulk NbSe2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Dominik Volavka et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08867">2501.08867</a></td>
 </tr>
 </tbody></table>

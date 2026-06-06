@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09845.html">Materials Acceleration Platform for Electrochemistry (MAP-E): a Platform for Autonomous Electrochemistry</a></div></td>
 <td>Daniel Persaud et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09845">2603.09845</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17176.html">Symmetry-Driven Generation of Crystal Structures from Composition</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Shi Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17176">2602.17176</a></td>
 </tr>
 </tbody></table>

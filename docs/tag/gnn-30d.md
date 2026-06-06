@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06364.html">End-to-End Subgraph Detection with GraphDETR</a></div></td>
+<td>Dexiong Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06364">2606.06364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05111.html">Software compensation of hadronic showers in the longitudinally segmented CRILIN Cherenkov crystal calorimeter</a></div></td>
+<td>V. Ciccarella et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05111">2606.05111</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03232.html">GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
@@ -32,6 +50,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01781.html">Structure-Guided Adaptive Propagation for Protein-Protein Interaction Site Prediction</a></div></td>
 <td>Enqiang Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.01781">2606.01781</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04020.html">SpliceBind: Isoform-Aware Prediction of Binding Pocket Druggability</a></div></td>
+<td>Bryan Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04020">2606.04020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04021.html">Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Bryan Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04021">2606.04021</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>
@@ -236,11 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06814.html">From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning</a></div></td>
 <td>Debolina Halder Lina et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06814">2605.06814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04376.html">GraphPI: Efficient Protein Inference with Graph Neural Networks</a></div></td>
-<td>Zheng Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04376">2605.04376</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04452.html">DeltaDiff: Training-Free, Physics-Guided Machine Learning for Predicting Mutant Protein Structures</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Yajie Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04452">2606.04452</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03199.html">Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Alston Lo et al.</td>
@@ -266,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16020.html">MolCrystalFlow: Molecular Crystal Structure Prediction via Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Cheng Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16020">2602.16020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17176.html">Symmetry-Driven Generation of Crystal Structures from Composition</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Shi Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17176">2602.17176</a></td>
 </tr>
 </tbody></table>

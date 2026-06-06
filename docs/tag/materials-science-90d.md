@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>João G. C. S. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Alfredo Fiorentino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03405">2606.03405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04206.html">DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics</a></div></td>
+<td>Junyi Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04206">2606.04206</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>
@@ -572,11 +584,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01370.html">CbLDM: A Diffusion Model for recovering nanostructure from atomic pair distribution function</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Jiarui Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01370">2509.01370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20573.html">Benchmarking GNN Models on Molecular Regression Tasks with CKA-Based Representation Analysis</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Rajan et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20573">2602.20573</a></td>
 </tr>
 </tbody></table>

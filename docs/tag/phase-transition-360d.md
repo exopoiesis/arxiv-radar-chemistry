@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">247 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1484,17 +1484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09567.html">Charge Ordering in out-of-plane Boron Doped Reduced Graphene Oxide</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Saikat Sarkar et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09567">2506.09567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02624.html">Ferroelectric Properties and Topological Polar Textures of PbTiO$_3$ from a Second-Principles Open-Source Interatomic Potential</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Louis Bastogne et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02624">2505.02624</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07866.html">Protein folding with an all-to-all trapped-ion quantum computer</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Sebastián V. Romero et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07866">2506.07866</a></td>
 </tr>
 </tbody></table>

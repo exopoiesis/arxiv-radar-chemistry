@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05693.html">MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Joey Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05693">2606.05693</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03057.html">Rethinking Molecular Text Representations for LLMs: An Empirical Study</a></div></td>
 <td>Arun Raja et al.</td>
@@ -968,11 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10115.html">Dynamically Tunable Membrane Metasurfaces for Infrared Spectroscopy</a></div></td>
 <td>Furkan Kuruoglu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10115">2506.10115</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08936.html">BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Amina Mollaysa et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08936">2506.08936</a></td>
 </tr>
 </tbody></table>

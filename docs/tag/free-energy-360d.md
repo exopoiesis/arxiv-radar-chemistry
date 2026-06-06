@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">358 papers</span>
+  <span class="paper-count">356 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2150,17 +2150,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13625.html">Quantifying stored energy release in irradiated YBa$_2$Cu$_3$O$_7$ through molecular dynamics annealing simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Lauryn Kortman et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13625">2506.13625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08792.html">Interstellar Chemistry of CN Radicals on Ices: The formation of CH3CN and CH3NC and potential connection to acetamide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Joan Enrique-Romero et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08792">2506.08792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09257.html">Improved H2-He and H2-H2 Collision-Induced Absorption Models and Application to Outer-Planet Atmospheres</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Glenn S. Orton et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09257">2506.09257</a></td>
 </tr>
 </tbody></table>

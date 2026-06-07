@@ -10,6 +10,9 @@ env:
   GITHUB_USER_NAME: exopoiesis
   GITHUB_USER_EMAIL: lab@exopoiesis.space
 
+permissions:
+  contents: write
+
 jobs:
   prune:
     name: prune
@@ -17,10 +20,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
 
@@ -32,12 +35,18 @@ jobs:
       - name: Prune shards + popup HTML older than 2 years
         run: python tools/archive_old.py --threshold-days 730
 
+      - name: Regenerate derived pages
+        run: |
+          python tools/render_abstracts.py
+          python tools/render_readme.py
+          python tools/render_tag_pages.py
+          python tools/render_index.py
+
       - name: Push prune changes
-        uses: github-actions-x/commit@v2.9
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Monthly prune: drop shards + popup HTML older than 2 years"
-          files: data/ docs/abstracts/
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+        run: |
+          git config user.name "${{ env.GITHUB_USER_NAME }}"
+          git config user.email "${{ env.GITHUB_USER_EMAIL }}"
+          git add README.md data/ abstracts/ docs/abstracts/ docs/_data/ docs/index.md docs/tag/
+          git diff --cached --quiet || git commit -m "Monthly prune: drop shards + popup HTML older than 2 years"
+          git pull --rebase origin main
+          git push

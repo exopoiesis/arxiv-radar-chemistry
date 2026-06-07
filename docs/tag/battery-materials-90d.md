@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>battery-materials — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <strong>90d</strong> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04546.html">A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Akash K. Meel et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04546">2512.04546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07425.html">A Perspective on Training Machine Learning Force Fields for Solid-State Electrolyte Materials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Zihan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07425">2603.07425</a></td>
 </tr>
 </tbody></table>

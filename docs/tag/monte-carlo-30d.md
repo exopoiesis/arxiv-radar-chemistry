@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,23 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08728.html">Multi-Fidelity Computational Screening of High-Entropy MBenes for CO$_2$ Electroreduction</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Sree Harsha Bharadwaj H et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08728">2605.08728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05675.html">A Scalable Translationally Invariant Variational Theory of Ab Initio Polarons</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Moritz K. A. Baumgarten et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05675">2605.05675</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Javad Komijani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
-<td>Justin Sanders et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
 </tr>
 </tbody></table>

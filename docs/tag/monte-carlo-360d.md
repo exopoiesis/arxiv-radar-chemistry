@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">322 papers</span>
+  <span class="paper-count">319 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1928,23 +1928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10429.html">Transcorrelated Theory for Transition Metal Atoms</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Kristoffer Simula et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10429">2506.10429</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12475.html">Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Ali Bagci et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12475">2504.12475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09743.html">QMCTorch: Molecular Wavefunctions with Neural Components for Energy and Force Calculations</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Nicolas Renaud</td>
-<td><a href="http://arxiv.org/abs/2506.09743">2506.09743</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09894.html">Choosing a Suitable Acquisition Function for Batch Bayesian Optimization: Comparison of Serial and Monte Carlo Approaches</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Imon Mia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09894">2506.09894</a></td>
 </tr>
 </tbody></table>

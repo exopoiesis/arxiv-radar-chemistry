@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">418 papers</span>
+  <span class="paper-count">417 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04672.html">Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models</a></div></td>
+<td>Ayushman Raghuvanshi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04672">2606.04672</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -2510,17 +2516,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08005.html">Melting behavior and dynamical properties of Cr2Ge2Te6 phase-change material</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Suyang Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08005">2603.08005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20223.html">Efficient first-principles inverse design of nanolasers</a></div></td>
-<td>Beñat Martinez de Aguirre Jokisch et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20223">2506.20223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07723.html">Anomalous magnetotransport in the single-crystalline half-Heusler antiferromagnet ErPdSb</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Abhinav Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07723">2603.07723</a></td>
 </tr>
 </tbody></table>

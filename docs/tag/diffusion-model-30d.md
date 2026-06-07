@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,29 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16355.html">Generative 3D Gaussians with Learned Density Control</a></div></td>
 <td>Runjie Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16355">2605.16355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06134.html">Diffusion model for SU(N) gauge theories</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Javad Komijani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06134">2605.06134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06658.html">Relit-LiVE: Relight Video by Jointly Learning Environment Video</a></div></td>
-<td>Weiqing Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06658">2605.06658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06720.html">Conditional generation of antibody sequences with classifier-guided germline-absorbing discrete diffusion</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
-<td>Justin Sanders et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06720">2605.06720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07030.html">Scalable Active Metamaterials for Shape-Morphing</a></div></td>
-<td>Jipeng Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07030">2605.07030</a></td>
 </tr>
 </tbody></table>

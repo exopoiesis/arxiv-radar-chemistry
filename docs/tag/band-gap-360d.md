@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">465 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2804,41 +2804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10615.html">Strongly correlated topological surface states in type-II Dirac semimetal NiTe$_{2}$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Neeraj Bhatt et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10615">2506.10615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15512.html">Bi, Cr and Ag dopants in PbTe and SnTe: impact of the host band symmetry on doping properties by ab initio calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>A. Łusakowski et al.</td>
-<td><a href="http://arxiv.org/abs/2412.15512">2412.15512</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08536.html">Ultrafast interband transitions in nanoporous gold metamaterial</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Tlek Tapani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08536">2506.08536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09412.html">Ferroelectric control of bipolar magnetic semiconductor with room Curie temperature</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09412">2506.09412</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09475.html">Stability, electronic, magnetic and thermoelectric properties of quaternary Heusler alloys CoX&#x27;ZrAl (X&#x27;=V, Fe, Ir): 3d vs 5d systems</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Poulami Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09475">2506.09475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09861.html">Magnetic excitations and exchange parameters of a nickel chain compound PbMn$_2$Ni$_6$Te$_3$O$_{18}$: Neutron scattering and density functional theory studies</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>S. Uthayakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09861">2506.09861</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09911.html">Microscopic investigation of enhanced Pauli paramagnetism in metallic Pu$_2$C$_3$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>R. Yamamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09911">2506.09911</a></td>
 </tr>
 </tbody></table>

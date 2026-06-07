@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">455 papers</span>
+  <span class="paper-count">454 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2738,11 +2738,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10532.html">Equivariant Neural Diffusion for Molecule Generation</a></div></td>
 <td>François Cornet et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10532">2506.10532</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20761.html">Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning</a></div></td>
-<td>Aditya Shankar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20761">2405.20761</a></td>
 </tr>
 </tbody></table>

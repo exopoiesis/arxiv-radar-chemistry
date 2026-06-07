@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">582 papers</span>
+  <span class="paper-count">577 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3476,35 +3476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10553.html">Effect of current on terahertz plasmons in AlGaN/GaN heterostructures</a></div></td>
 <td>M. Dub et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10553">2506.10553</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13513.html">Evidence of Ferroelectricity in an Antiferromagnetic Vanadium Trichloride Monolayer</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jinghao Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13513">2404.13513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09412.html">Ferroelectric control of bipolar magnetic semiconductor with room Curie temperature</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09412">2506.09412</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09475.html">Stability, electronic, magnetic and thermoelectric properties of quaternary Heusler alloys CoX&#x27;ZrAl (X&#x27;=V, Fe, Ir): 3d vs 5d systems</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Poulami Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09475">2506.09475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09567.html">Charge Ordering in out-of-plane Boron Doped Reduced Graphene Oxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Saikat Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09567">2506.09567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10199.html">Tracking and controlling monolayer water in gold nanogaps using extreme plasmonic spectroscopy</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Elle W. Wyatt et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10199">2506.10199</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,11 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11488.html">Uni-Traveling-Carrier Photodiode Based on MoS2/GaN van der Waals Heterojunction for High-Speed Visible-Light Detection</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Takuya Kadowaki et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11488">2506.11488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13513.html">Evidence of Ferroelectricity in an Antiferromagnetic Vanadium Trichloride Monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jinghao Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13513">2404.13513</a></td>
 </tr>
 </tbody></table>

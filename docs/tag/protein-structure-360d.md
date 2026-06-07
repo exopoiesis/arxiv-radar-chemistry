@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04566.html">AF_Cache: Efficient Pipeline for Running AlphaFold for High-Throughput Protein-Protein Interaction Prediction</a></div></td>
+<td>Sarah Narrowe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04566">2606.04566</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Alfredo Fiorentino et al.</td>
@@ -1598,11 +1604,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07833.html">Improving Large Language Models with Concept-Aware Fine-Tuning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Michael K. Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07833">2506.07833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10134.html">FAPS: A Fast Platform for Protein Structureomics Analysis</a></div></td>
-<td>Lucas Wilken et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10134">2506.10134</a></td>
 </tr>
 </tbody></table>

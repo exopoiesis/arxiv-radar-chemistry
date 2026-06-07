@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1601 papers</span>
+  <span class="paper-count">1593 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9572,53 +9572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10882.html">Deep Potential-Driven Molecular Dynamics of CO Ice Analogues: Investigating Desorption Following Vibrational Excitation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Maxime Infuso et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10882">2506.10882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02707.html">Refining Coarse-Grained Molecular Topologies: A Bayesian Optimization Approach</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Pranoy Ray et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02707">2501.02707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10873.html">Mamba time series forecasting with uncertainty quantification</a></div></td>
-<td>Pedro Pessoa et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10873">2503.10873</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09372.html">Molecular Dynamics Simulations of SrTiO$_3$ with Oxygen Vacancies using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Kazutaka Nishiguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09372">2506.09372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09412.html">Ferroelectric control of bipolar magnetic semiconductor with room Curie temperature</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09412">2506.09412</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09646.html">Crossover in growth law in the vapor-liquid phase separation inside complex porous medium</a></div></td>
-<td>Preethi M et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09646">2506.09646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09670.html">Influence of preparation and architecture on the elastic modulus of polymer networks</a></div></td>
-<td>Jiting Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09670">2506.09670</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09809.html">Surface Induced Frustration of Inherent Dipolar Order in Nanoconfined Water</a></div></td>
-<td>Sayantan Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09809">2506.09809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09957.html">Mechanism of Conductivity Enhancement of Polymers Employing Microbubble Lithography</a></div></td>
-<td>Anand Dev Ranjan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09957">2506.09957</a></td>
 </tr>
 </tbody></table>

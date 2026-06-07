@@ -1919,6 +1919,37 @@
   ],
   "updated": "2026-06-02"
  },
+ "2606.04184": {
+  "abstract": "True general intelligence requires not only a model of the physical world but also a social world model: the capacity to infer how individual mental states interact and crystallize into group-level outcomes. Despite notable progress in individual-level Theory of Mind (ToM) reasoning, existing multimodal large language models fail at this broader task. Collective behavior emerges non-linearly from social tensions, conformity dynamics, and structural constraints, meaning it cannot be recovered by merely summing individual intentions. We present GroupToM-Bench, the first multimodal benchmark for group-level ToM, built around a causal chain spanning micro-level BDI states (belief, desire, intention), meso-level group tension and structural constraints, and macro-level outcome prediction and mechanistic attribution. To probe this full arc, we develop a seven-level cognitive audit framework. Experiments reveal a gap between current models and human baselines, highlighting a failure to process social structures and non-linear collective dynamics.",
+  "authors": [
+   "Weidong Tang",
+   "Jierui Li",
+   "Yueling Hou",
+   "Zihan Mei",
+   "Can Zhang",
+   "Xinyan Wan",
+   "Zhiyuan Liang",
+   "Pengfei Zhou",
+   "Yang You",
+   "Wangbo Zhao"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted by ACL 2026",
+  "first_author": "Weidong Tang",
+  "pdf_url": "http://arxiv.org/pdf/2606.04184",
+  "primary_category": "cs.CV",
+  "published": "2026-06-02",
+  "tags": [
+   "multimodal-llm"
+  ],
+  "title": "GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-02"
+ },
  "2606.04186": {
   "abstract": "The Quantum Flow (QFlow) algorithm provides a resource-efficient framework for describing correlated many-body systems on hybrid quantum-classical architectures. By enabling parallel utilization of quantum and classical resources, QFlow offers a scalable pathway toward simulations of realistic systems. In this Letter, we report a high-performance computing (HPC) implementation of the QFlow formalism based on a singles-and-doubles model. We demonstrate its performance for target spaces comprising 82 and 114 orbitals, where the flow includes all 6 active electrons in 6 active orbitals type active spaces. In the largest QFlow simulations, we optimize 1.17 million wave function parameters using the equivalent of 12 qubits. Despite the modest qubit requirements of the underlying active-space problems, the method recovers over $95\\%$ of the total correlation energy obtained with the coupled cluster singles and doubles (CCSD) approach for systems dominated by dynamical correlation effects, which remain challenging for existing quantum algorithms. We further show that the QFlow formalism retains high accuracy in extended basis sets with diffuse functions, highlighting its potential for realistic large-scale quantum chemistry simulations.",
   "authors": [
@@ -1992,6 +2023,7 @@
   ],
   "title": "When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models",
   "topics": [
+   "Protein & Biomolecules",
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-06-02"
@@ -2021,6 +2053,28 @@
   ],
   "updated": "2026-06-02"
  },
+ "2606.04256": {
+  "abstract": "Cellular morphogenesis, the process by which biological tissues acquire shape and structure, remains a fundamental challenge in understanding pattern formation and the coordinated remodeling of cellular assemblies. Under appropriate conditions, cytoskeletal filaments can organize into a nematic phase exhibiting partial orientational order. Topological defects within this nematic organization generate localized mechanical stresses that destabilize the tissue and promote deformation and structural rearrangements to relieve internal stresses. We develop a continuum framework that models living tissues as active biological networks represented as nematic polymer networks capable of heterogeneous growth and remodeling. The model captures macroscopic effects through spatial variations in the fiber order parameter which drives the system away from equilibrium. Morphogenesis is described as a sequence of quasi-static equilibrium states governed by the coupling between nematic order, elasticity, stress-driven growth, and adaptive relaxation. Finite element simulations illustrate Hydra regeneration and development when topological defects are prescribed according to the mature organism's expected morphology. The results show that defect topology controls stress localization and shape evolution: $+1$ defects drive protrusion formation, while $-1/2$ defects act as structural stabilizers with minimal growth. By varying the initial defect configuration, we model diverse morphogenetic outcomes, including uniaxial regeneration, tentacle formation, and biaxial development.",
+  "authors": [
+   "Silvia Paparini",
+   "Giulio G. Giusteri",
+   "L. Angela Mihai"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Silvia Paparini",
+  "pdf_url": "http://arxiv.org/pdf/2606.04256",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-02",
+  "tags": [],
+  "title": "Morphogenesis driven by nematic defects in active biological networks",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-02"
+ },
  "2606.04287": {
   "abstract": "Generating realistic and diverse graphs is a key problem in machine learning, with applications in molecular discovery, circuit design, cybersecurity, and beyond. However, current graph generative models remain limited by scalability and novelty. Diffusion-based methods often require costly full-adjacency operations and long denoising chains, while many autoregressive and hybrid models have at least quadratic complexity. In addition, these models often imitate training graphs rather than generalize beyond them.   We propose a lightweight autoregressive framework to address these issues. It uses a structure-guided topological ordering to serialize graphs into regular edge sequences, enabling near log-linear generation, and a two-phase training strategy that combines exploration-oriented augmentation with iterative refinement to reduce overfitting and promote controlled novelty.   Experiments on molecular and non-molecular benchmarks show that our approach improves novelty while preserving high validity and uniqueness. The framework also supports both LSTM and Mamba-style causal sequence backbones, with large-memory accelerators enabling longer graph-sequence experiments beyond typical GPU limits.",
   "authors": [
@@ -2043,9 +2097,35 @@
   ],
   "title": "Scaling Novel Graph Generation via Lightweight Structure-Guided Autoregressive Models",
   "topics": [
-   "Generative Design & Molecule Optimization"
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
   ],
   "updated": "2026-06-02"
+ },
+ "2606.04302": {
+  "abstract": "Key-value (KV) caching accelerates inference of large language models (LLMs) by reusing past computations for generated tokens. Its importance becomes even greater in long-context applications such as retrieval-augmented generation (RAG) and in-context learning (ICL). However, conventional KV caching embeds positional information directly into the cache, limiting its reusability. Existing solutions either restrict reuse to prefixes or require expensive memory materialization for positional re-encoding. We introduce LazyAttention, a novel attention mechanism that kernelizes deferred positional encoding to enable zero-copy, position-agnostic KV reuse. By adjusting positional encoding within attention kernels on-the-fly, LazyAttention resolves the materialization bottleneck, allowing a single physical KV copy to serve multiple logical requests at arbitrary positions. Leveraging attention kernels tailored for prefilling and decoding, our system achieves significant efficiency improvements: under skewed document distributions, it reduces time-to-first-token (TTFT) by 1.37$\\times$ and increases inference throughput by 1.40$\\times$ compared to the state-of-the-art Block-Attention, while maintaining comparable output quality.",
+  "authors": [
+   "Haocheng Xia",
+   "Mihir Pamnani",
+   "Hanxi Fang",
+   "Supawit Chockchowwat",
+   "Yongjoo Park"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.LG"
+  ],
+  "comment": "ICML 2026",
+  "first_author": "Haocheng Xia",
+  "pdf_url": "http://arxiv.org/pdf/2606.04302",
+  "primary_category": "cs.CL",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-03"
  },
  "2606.04309": {
   "abstract": "A classic problem in the study of the interstellar medium (ISM) is the near-invisibility of molecular hydrogen (H$_2$) in cold environments. Observations of CO emission are typically used to indirectly trace H$_2$, but a significant fraction of H$_2$ in the diffuse ISM is not associated with any detectable CO emission (``CO-dark'' molecular gas). Meanwhile, observations of H$_2$ absorption trace nearly all of the H$_2$ in diffuse directions. In particular, a kinematically broad HCO$^+$ absorption signature traces extremely diffuse, CO-dark H$_2$. We have used sensitive observations of HCO$^+$, CO, and atomic hydrogen (HI) in absorption to constrain the properties of such diffuse molecular gas in five directions. The diffuse molecular gas revealed by broad HCO$^+$ absorption has a lower fraction of cold HI ($f_{\\mathrm{CNM}} = 0.38^{+0.28}_{-0.27}$) and a lower fraction of hydrogen in H$_2$ ($f_{\\mathrm{mol}}=0.09^{+0.06}_{-0.03}$) than gas traced by CO in the same directions. We detect almost no CO absorption from the gas traced by broad HCO$^+$ absorption. We constrain the CO abundance relative to H$_2$ to be $\\lesssim10^{-6}$-$10^{-5}$ for gas traced by both broad and narrow HCO$^+$ absorption, consistent with chemical model predictions for the diffuse ISM. We further show that neither CO emission nor absorption is likely to be detected where $N(\\mathrm{H_2})\\lesssim\\mathrm{few}\\times10^{19}$ $\\mathrm{cm^{-2}}$ - a result of both the low CO abundance and the low H$_2$ column - while HCO$^+$ absorption is readily detected for $N(\\mathrm{H_2})\\gtrsim\\text{few}\\times10^{18}$ $\\mathrm{cm^{-2}}$. These results demonstrate that even modest amounts of cold HI can bear H$_2$, providing critical constraints on the HI-to-H$_2$ transition in the ISM.",
@@ -2126,7 +2206,8 @@
   ],
   "title": "DeltaDiff: Training-Free, Physics-Guided Machine Learning for Predicting Mutant Protein Structures",
   "topics": [
-   "Generative Design & Molecule Optimization"
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
   ],
   "updated": "2026-06-03"
  },
@@ -2167,6 +2248,29 @@
   ],
   "updated": "2026-06-03"
  },
+ "2606.04566": {
+  "abstract": "Motivation: Accurate prediction of protein-protein interactions is essential for understanding biological processes, and recent advances such as AlphaFold2 and AlphaFold3 have enabled structure-based interaction prediction at unprecedented accuracy. However, the high computational cost of these methods, driven primarily by CPU-based repeated multiple sequence alignment (MSA) generation and, for AlphaFold2, repeated model recompilations, limits their applicability in large-scale, high-throughput settings. This creates a need for efficient pipelines that retain predictive performance while substantially reducing runtime.   Results: We present AF_Cache, a high-throughput Nextflow pipeline for accelerating protein-protein interaction prediction using AlphaFold2 and AlphaFold3. AF_Cache combines GPU-accelerated MSA generation with MMseqs2, feature caching to eliminate redundant alignment computations, and sequence length bucketing to minimise repeated JAX compilations. Benchmarking on a dataset of 5,050 human mitochondrial protein pairs demonstrates a $\\sim$2-fold reduction in inference time for AlphaFold2 and up to a 13-fold speedup of the MSA generation. AF\\_Cache enables efficient large-scale interaction screening and provides a practical framework for deploying AlphaFold-based methods in high-throughput applications.   Availability and implementation: The code and Nextflow pipeline are available on GitHub here: https://github.com/clami66/AF_cache. The code for reproducing the results of the paper, the MSAs, and the predicted models can be found at Zenodo: https://zenodo.org/records/20478892",
+  "authors": [
+   "Sarah Narrowe",
+   "Arne Elofsson Claudio Mirabello"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": "4 pages 2 figures + supplementay material",
+  "first_author": "Sarah Narrowe",
+  "pdf_url": "http://arxiv.org/pdf/2606.04566",
+  "primary_category": "q-bio.BM",
+  "published": "2026-06-03",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "AF_Cache: Efficient Pipeline for Running AlphaFold for High-Throughput Protein-Protein Interaction Prediction",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-03"
+ },
  "2606.04647": {
   "abstract": "Active learning (AL) for node classification typically focuses on selecting the most informative nodes for annotation within one or a few large graphs (e.g., in social network analysis). However, in other domains, such as molecular chemistry or electronic design automation, datasets consist of thousands of independent graphs. In many of these inductive settings, annotating an individual node requires a full-graph analysis, which effectively yields the remaining node labels on-the-fly. Therefore, these scenarios require AL strategies that select entire graphs instead of single nodes, a problem which has not been tackled in the literature so far. Thus, we introduce ALINC, an AL framework for inductive node classification via graph sampling. It bridges the existing methodological gap by elevating node-level utility measures to graph-level selection criteria through various aggregation mechanisms. In an extensive benchmark including ten strategies, three aggregation methods, and four datasets, we identify CoreSet, TypiClust, and BADGE as the top-performing graph sampling strategies. Our detailed analysis further reveals that the choice of the aggregation method is pivotal, as it substantially affects model performance and annotation costs. Finally, we demonstrate the effectiveness of ALINC in two use case studies: site-of-metabolism prediction in molecules and design automation of printed circuit board schematics.",
   "authors": [
@@ -2192,6 +2296,32 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-06-03"
+ },
+ "2606.04672": {
+  "abstract": "Continuous-time dynamic graphs (CTDGs) provide a richer framework to capture fine-grained temporal patterns in evolving relational data. Long-range information propagation is a key challenge while learning representations, wherein it is important to retain and update information over long temporal horizons. Existing approaches restrict models to capture one-hop or local temporal neighborhoods and fail to capture multi-hop or global structural patterns. To mitigate this, we derive a parameter-efficient state-space modeling framework for continuous-time dynamic graphs (CTDG-SSM) from first principles. We first introduce continuous-time Topology-Aware higher order polynomial projection operator (CTT-HiPPO), a novel memory-based reformulation of HiPPO to jointly encode temporal dynamics and graph structure. The solution from CTT-HiPPO is obtained by projecting the classical HiPPO solution through a polynomial of the Laplacian matrix, yielding topology-aware memory updates that admit an equivalent state-space formulation for CTDGs (CTDG-SSM). Then a computationally efficient discrete formulation is obtained using the zero-order hold approach for model implementation.   Across benchmarks on dynamic link prediction, dynamic node classification, and sequence classification, CTDG-SSM achieves state-of-the-art performance. Notably, it achieves large performance gains on datasets that require long range temporal (LRT) and spatial reasoning.",
+  "authors": [
+   "Ayushman Raghuvanshi",
+   "Thummaluru Siddartha Reddy",
+   "Sundeep Prabhakar Chepuri",
+   "Mahesh Chandran"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "Accepted at ICML 2026",
+  "first_author": "Ayushman Raghuvanshi",
+  "pdf_url": "http://arxiv.org/pdf/2606.04672",
+  "primary_category": "cs.LG",
+  "published": "2026-06-03",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-04"
  },
  "2606.04714": {
   "abstract": "Understanding the impact of transition-metal doping on the optoelectronic properties of halide perovskite nanocrystals is essential for their rational design in photonic applications. We establish the microscopic origin of photoluminescence (PL) quenching in Fe-doped CsPbCl$_3$ using spin-polarized density functional theory calculations. The emergence of Fe 3$d$ midgap states creates efficient electron-trapping centres that drive nonradiative recombination, accounting for the reduced PL intensity. Extending this analysis to Fe-doped CsPbX$_3$ (X = Cl, Br), we show experimentally that although PL intensity is suppressed in both systems relative to their pristine counterparts, their high-doping behaviour diverges: CsPbCl$_3$ becomes completely non-emissive, whereas CsPbBr$_3$ retains a finite, saturated PL intensity. Despite this contrast, electronic structure calculations reveal nearly identical midgap states in both materials, indicating that electronic effects alone cannot explain the distinct PL responses. Phonon calculations likewise fail to capture this difference. In contrast, electron-phonon coupling calculations based on the deformation potential approach reveal significantly stronger coupling in Fe-doped CsPbCl$_3$, enabling efficient dissipation of electronic excitation energy into lattice vibrations and leading to complete PL quenching. These results identify electron-phonon coupling as the key factor governing halide-dependent PL quenching and provide a unified microscopic framework for dopant-induced nonradiative processes in halide perovskites.",
@@ -2243,6 +2373,31 @@
   "title": "Percolation Criticality of Amorphous-Amorphous Transitions in Compressed Glasses",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.04766": {
+  "abstract": "Multidomain proteins with flexible unstructured sequence regions are abundant in cellular signaling. This protein architecture enables self-assembly into supramolecular structures, but how structured interaction domains and overall protein architecture jointly regulate the assembly size, structure and kinetics remains unclear. Here we use the budding yeast protein Bem1 as a model multidomain system to show that supramolecular polymerization can be tuned by charge heterogeneity and protein architecture. We experimentally demonstrate that Bem1's isolated PB1 domain forms extended filaments, whereas full-length Bem1 forms substantially shorter assemblies, indicating that the PB1 domain drives assembly while the remaining protein architecture tunes filament length. To understand these observations, we develop minimal coarse-grained models approximating the PB1 as a polar 5-bead domain and the full-length Bem1 as a 6-bead model with an additional bead representing the remainder of Bem1. The weight distribution of supramolecular filaments assembled by the 5-bead model quantitatively follows reversible Flory-like polymerization theory, which is tunable within a narrow charge polarity regime. In contrast, the 6-bead model shifts chain-length distributions towards shorter polymers despite retaining the same driving domain. We show that this deviation arises from steric and geometric constraints imposed by the appended unstructured regions, where the rotational flexibility between the charge-polar structured domain and the unstructured region emerges as key physical parameter governing self-limited self-assembly. Together, our results establish charge polarity, protein architecture, and conformational flexibility as programmable control knobs for supramolecular polymerization and suggest a general framework for understanding how multidomain proteins assemble into tunable biomolecular structures.",
+  "authors": [
+   "Nynke Marije Hettema",
+   "Meng Shen",
+   "Frank van Opstal",
+   "Emmett Lim",
+   "Liedewij Laan"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Nynke Marije Hettema",
+  "pdf_url": "http://arxiv.org/pdf/2606.04766",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "Tunable supramolecular polymerization from protein charge heterogeneity and architecture",
+  "topics": [
+   "Protein & Biomolecules"
   ],
   "updated": "2026-06-03"
  },
@@ -2378,6 +2533,30 @@
   ],
   "updated": "2026-06-03"
  },
+ "2606.05030": {
+  "abstract": "Autoregressive chain-of-thought (CoT) reasoning in large language models (LLMs) is fundamentally forward-directed: each step conditions only on prior tokens. This unidirectional inductive bias renders even capable models susceptible to error snowballing, wherein a single logical or arithmetic mistake in an early step irreversibly corrupts the entire reasoning chain. We introduce Teleological Reasoning Infilling (\\TRI{}), a training framework that endows decoder-only transformers with a native \\emph{goal-conditioned bridging} capability. The key insight is to reframe erroneous reasoning segments as fill-in-the-middle (FIM) tasks: given a verified prefix premise $P$, a verified downstream milestone $S$, and the original query $Q$, the model must synthesise the logical bridge $M$ that connects $P$ to $S$ rigorously and completely. To achieve this with standard causal architectures, we introduce a Prefix-Suffix-Middle (PSM) sequence rearrangement with three non-overlapping sentinel tokens, enabling $M$ to attend to both $P$ and $S$ without any structural modification to the self-attention mechanism. Training proceeds in two stages: (i) Supervised Fine-Tuning (SFT) on symbolically verified $(P, S, M)$ triples extracted from formal mathematics corpora, and (ii) Direct Preference Optimisation (DPO) with a deterministic symbolic verifier (Lean 4 / Python) as the sole reward oracle, eliminating LLM-judge sycophancy. At inference, TRI operates as a surgical repair module within a dual-system loop: a causal draft model generates an initial trace, the verifier pinpoints failures, and TRI infills only the damaged segment, leaving verified sections intact. Comprehensive experiments on three benchmarks demonstrate that TRI achieves state-of-the-art performance across all tasks, while reducing per-problem token expenditure by 31.2%.",
+  "authors": [
+   "Zehua Cheng",
+   "Wei Dai",
+   "Jiahao Sun",
+   "Thomas Lukasiewicz"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.SC"
+  ],
+  "comment": "25 Pages",
+  "first_author": "Zehua Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2606.05030",
+  "primary_category": "cs.CL",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "Imbuing Large Language Models with Bidirectional Logic for Robust Chain Repair",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-03"
+ },
  "2606.05050": {
   "abstract": "Theoretical heterogeneous catalysis promises rapid catalyst discovery, yet computational and machine-learning predictions often deviate from experiment and stay confined to narrow material families, for want of a faithful, condition-aware catalytic simulator. We present CatDT (Catalysis Digital Twin), a self-evolving multi-agent system that builds an autonomous digital twin of a working catalyst, unifying gas-solid and liquid-solid modeling. From only a bulk crystal and a natural-language reaction description, eight specialized agents and 27 scientific tools predict stable facets, reconstruct working surfaces, enumerate and rank reaction pathways, locate transition states, and compute kinetics in 5-30 min on a single GPU. Two innovations address the hardest steps: UniMech finds dominant pathways for novel materials at over $10^3\\times$ lower cost than exhaustive enumeration by fusing agent-guided proposals with energy-cached graph search, and a memory-augmented reinforcement loop raises barrier-calculation success from 41\\% to 84\\% across 600 catalytic surfaces. Across seven gas-solid benchmarks -- stepped metals, single-atom catalysts, ordered intermetallics, vacancy-rich 2D sulfides and carbides, and a strong-metal--support-interaction (SMSI) interface -- every CatDT prediction lies within 0.5-2 times experiment over four orders of magnitude. For propane dehydrogenation, CatDT independently discovers non-precious candidates rivaling the Pt-based industrial benchmark, with a proposed Ni@ZrO$_2$ SMSI overlayer reaching a simulated TOF of $1.63~\\text{s}^{-1}$ at $\\sim$100\\% selectivity. More broadly, the decisive factor for a faithful catalyst digital twin -- or any multi-stage scientific simulator -- is not raw LLM capability but the engineered harness around it: deterministic tools, persistent memory, and verified self-improvement that compound across models, tools, and runs.",
   "authors": [
@@ -2479,6 +2658,31 @@
   ],
   "updated": "2026-06-03"
  },
+ "2606.05112": {
+  "abstract": "Large language models (LLMs) are increasingly proposed as clinical agents, yet static, single-turn benchmarks cannot capture how a model dynamically delivers care across an encounter: gathering information, planning treatment, and adapting longitudinal management across successive patient states. Medical education has long addressed an analogous challenge through standardized patients (SPs): trained actors who consistently portray clinical cases, enabling realistic practice and objective, scripted assessment. Here we introduce MedSP1000, an SP-derived interactive benchmark for clinical-agent evaluation, including 1,638 SP cases with 24,602 trajectory-level peer-reviewed rubrics. MedSP1000 converts peer-reviewed SP teaching cases into executable scenarios with defined SP case scripts, clinical environment contexts, and human-validated structured rubric. In each simulation evaluation run, a clinical agent interacts in closed loop with a patient agent and an environment controller, and its behaviour is scored throughout the encounter against expert criteria specified in the original materials. Applying MedSP1000 to a range of general-purpose and medically specialized LLMs, we find that performance on static benchmarks does not reliably translate to such educational scenarios. The best-performing model, GPT-5.5, completes only 60.4% of expert-defined rubric items, whereas the strongest medically specialized model reaches 40.0%; increasing test-time compute produces no measurable gain. These results suggest that current LLMs, including agentic systems tuned for medicine, are not yet reliable enough to be safely integrated into actual clinical practice. More broadly, MedSP1000 shows how process-level, SP-style evaluation can reveal clinically relevant failure modes that single-turn benchmarks miss.",
+  "authors": [
+   "Cheng Liang",
+   "Pengcheng Qiu",
+   "Ya Zhang",
+   "Yanfeng Wang",
+   "Chaoyi Wu",
+   "Weidi Xie"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Cheng Liang",
+  "pdf_url": "http://arxiv.org/pdf/2606.05112",
+  "primary_category": "cs.CL",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-03"
+ },
  "2606.05116": {
   "abstract": "We introduce the Graph Set Transformer (GST), a neural network architecture for learning on sets of graphs, designed for tasks in which per-element predictions depend on set-wide context as well as local structure. Existing architectures, including DeepSets and SetTransformer, require pre-encoded graph embeddings from a separate GNN, creating a bottleneck between feature extraction and set-level contextualisation. In contrast, GST interleaves node-level feature propagation and cross-graph contextual modelling at every layer, fusing the two levels of information through a gating mechanism. We evaluate GST on a controlled synthetic suite designed to isolate set-conditional structural reasoning and on three real-data benchmarks spanning per-atom reaction-centre identification, reaction yield prediction, and image classification. Under matched parameter budgets, GST performs better than the baselines across these settings. An architectural ablation strongly suggests that the interleaving of local and set context contributes substantially to this advantage.",
   "authors": [
@@ -2527,6 +2731,50 @@
   "title": "Variational low-energy subspaces for chemically accurate excited states",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05225": {
+  "abstract": "Untargeted liquid chromatography-high-resolution mass spectrometry (LC-HRMS) detects thousands of molecular features per sample, yet only 2-20% receive confident structural annotations. A root cause of this \"dark metabolome\" is that tandem MS/MS acquisition is reactive: instruments select precursors only after ions appear, blind to what elutes next. We reframe chromatographic elution as an autoregressive sequence prediction task. Because reversed-phase elution order is governed by hydrophobicity, successive features form a physically constrained sequence, like tokens in language. We discretize the mass-to-charge (m/z) axis into 110 bins and train long short-term memory (LSTM) and Transformer models to predict the next eluting m/z bin from five annotation-free per-token features: m/z bin, mass defect, retention-time gap, polarity, and intensity rank. Trained on 15,242 features from four clinical lipidomics cohorts (342 plasma samples; SCIEX TripleTOF 6600+, Waters CSH C18), the LSTM reaches 98.4% top-1 accuracy (99.99% top-5; mean absolute error 3.6 Da) and the Transformer 98.0%. Ablation shows autoregressive context accounts for 55.5 percentage points while no single feature contributes more than 0.2 pp: the sequential pattern, not molecular properties, drives prediction. Models transfer across instruments sharing the method (r=0.999 on an independent Agilent 6530 dataset) but fail under a different column chemistry (5.1% top-1) or polarity mode (2.6%), confirming method- and mode-specificity. Fine-tuning on as few as two to five quality-control injections recovers held-out accuracy from 2.6% to nearly 50%, so cross-condition deployment needs minimal calibration. These results establish that elution sequences are highly predictable and lay the groundwork for predictive MS/MS acquisition to improve annotation coverage in untargeted metabolomics.",
+  "authors": [
+   "Dayanjan S. Wijesinghe"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Dayanjan S. Wijesinghe",
+  "pdf_url": "http://arxiv.org/pdf/2606.05225",
+  "primary_category": "q-bio.QM",
+  "published": "2026-06-02",
+  "tags": [],
+  "title": "The Language of Elution: Autoregressive Prediction of the Next Feature in Untargeted LC-HRMS Lipidomics",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.05264": {
+  "abstract": "Training robust multivariate time series forecasting models requires large, diverse corpora, yet many real-world domains provide only a handful of observed sequences. Existing generators fail to resolve this mismatch: prior-based approaches (e.g., CauKer, TimePFN) produce domain-agnostic samples, while data-driven methods (e.g., TimeGAN) treat references as black-box supervision, forfeiting explicit control over periodic structure, local variability, and cross-variable dynamics.   We propose ReGeN, a reference-guided generative pipeline that treats observed sequences not as examples to imitate, but as structural scaffolds for controllable synthesis. ReGeN decomposes each reference into three interpretable components: a phase-aligned periodic backbone capturing dominant domain morphology; per-variable stochastic residuals modeled with a deep-kernel Gaussian process; and lag-aware cross-variable dependencies injected through a structural causal model with fitted coupling coefficients. Sampling these components at controllable temperature broadens distributional coverage while preserving domain-grounded structure.   We show that ReGeN-generated data consistently substitutes for real sibling data with minimal forecasting degradation, and in strongly periodic domains such as traffic, can outperform the real source itself. We further show that a foundation model pretrained on ReGeN corpora outperforms those pretrained on prior-based and data-driven synthetic alternatives. This suggests that in low-data regimes, how reference data is structurally exploited can matter as much as how much data is available.",
+  "authors": [
+   "Moulik Gupta",
+   "Dhruv Kumar",
+   "Murari Mandal",
+   "Saurabh Deshpande"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Moulik Gupta",
+  "pdf_url": "http://arxiv.org/pdf/2606.05264",
+  "primary_category": "cs.LG",
+  "published": "2026-06-03",
+  "tags": [],
+  "title": "REGEN: Reference-Guided Synthetic Multivariate Time Series Generation for Forecasting",
+  "topics": [
+   "Protein & Biomolecules"
   ],
   "updated": "2026-06-03"
  },
@@ -2638,7 +2886,34 @@
   ],
   "title": "MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry",
   "topics": [
+   "Large Language Models & Materials",
    "Property Prediction & ADMET"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.05737": {
+  "abstract": "Diffusion-based vision-language-action (VLA) models often inherit the image-generation view: actions are generated by iterative denoising. We argue that VLA action generation has a different condition-target structure: the policy is conditioned on rich observations, language, and state, but predicts only a compact, low-dimensional action chunk. Under this asymmetry, strong one-step action generation should not necessarily require the advanced one-step methods developed for image synthesis. We keep standard velocity prediction and add no teacher model, distillation stage, or auxiliary objective; in our main recipe, we simply bias the training time distribution toward high-noise states. We first isolate the effect in a controlled MNIST grid-to-sequence task, then test it with extensive robot-policy experiments. Across standard LIBERO, LIBERO-Plus, and LIBERO-Pro, one-step policies trained with high-noise biased schedules generally match ten-step decoding under the same recipe, and on standard LIBERO can exceed ten-step policies trained with a uniform time distribution. A real-robot bimanual YAM RSS evaluation gives a small-sample cross-architecture check of the same sampler trend. On a 1.4B VLM model with a 30M action head, one-step decoding reaches 95.6\\% on LIBERO-Long. These results show that strong one-step VLA action generation can emerge from standard diffusion training, without importing the full few-step diffusion machinery developed for image generation.",
+  "authors": [
+   "Yitong Chen",
+   "Shiduo Zhang",
+   "Jingjing Gong",
+   "Xipeng Qiu"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI",
+   "cs.LG",
+   "cs.RO"
+  ],
+  "comment": "20 pages, 10 figures",
+  "first_author": "Yitong Chen",
+  "pdf_url": "http://arxiv.org/pdf/2606.05737",
+  "primary_category": "cs.CV",
+  "published": "2026-06-04",
+  "tags": [],
+  "title": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models",
+  "topics": [
+   "Protein & Biomolecules"
   ],
   "updated": "2026-06-04"
  },
@@ -2661,7 +2936,8 @@
   ],
   "title": "Agentic Molecular Recovery via Molecule-Aware Exploration",
   "topics": [
-   "Generative Design & Molecule Optimization"
+   "Generative Design & Molecule Optimization",
+   "Large Language Models & Materials"
   ],
   "updated": "2026-06-04"
  },
@@ -2736,6 +3012,47 @@
   "title": "Coupled simulation of plasma-surface interactions during early stages of vacuum arcing",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.05925": {
+  "abstract": "A central goal of biomedicine is to understand, predict and ultimately control the dynamic mechanisms by which biological systems respond to perturbations, disease progression and therapeutic intervention. Although foundation models and large language models have accelerated biomedical data interpretation, most current systems remain focused on static pattern recognition rather than prospective simulation of biological futures. Here we propose biomedical world models as a paradigm for AI-driven discovery. These models learn latent representations of molecular, cellular, tissue and clinical states, together with intervention-conditioned dynamics that allow future trajectories to be simulated before actions are taken. We discuss how biomedical world models could function as data engines, environment simulators and scientific planning substrates across applications including virtual cells, organoids, virtual patients and surgical simulation. We outline the data infrastructure, evaluation benchmarks, safety constraints and governance frameworks required. Biomedical world models may provide a foundation for simulation-guided, closed-loop and experimentally actionable biomedical discovery.",
+  "authors": [
+   "Guangyu Wang",
+   "Jingkun Yue",
+   "Siqi Zhang",
+   "Yu Liu",
+   "Xiaoyu Wang",
+   "Mingyuan Meng",
+   "Changwei Ji",
+   "Zongbo Han",
+   "Yulin Wang",
+   "Yang Yue",
+   "Frank Fu",
+   "Ting Chen",
+   "Song Wu",
+   "Ziwei Liu",
+   "Jiangning Song",
+   "Ming Li",
+   "Gao Huang",
+   "Xiaohong Liu",
+   "Athanasios Vasilakos",
+   "Xingcai Zhang",
+   "Ping Zhang",
+   "Yong Li"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Guangyu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.05925",
+  "primary_category": "cs.AI",
+  "published": "2026-06-04",
+  "tags": [],
+  "title": "Towards World Models in Biomedical Research",
+  "topics": [
+   "Large Language Models & Materials"
   ],
   "updated": "2026-06-04"
  },
@@ -2849,6 +3166,29 @@
   "title": "Quantum computing for accurate large-scale electronic-structure calculations: DFT-embedded, post-processed quantum-selected configuration interaction",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.06048": {
+  "abstract": "Pathological gait datasets remain scarce due to privacy, recruitment, cost, and movement variability. Our work presents a multimodal LLM-guided framework for pathology-aware 3D gait data synthesis from structured textual descriptions. The proposed method generates fixed-length synthetic skeleton-based gait sequences for pathological gait classification tasks. The framework combines motion tokenisation, pathology-aware language conditioning, LLM-based semantic augmentation, and language-to-gait generation. A key contribution is the proposed pathological tokeniser, which is designed to preserve pathology-specific motion characteristics during discrete representation learning. Experiments suggest that the proposed synthetic sequences improve downstream classification for recurrent classifiers when combined with real data. The best result is obtained using a GRU classifier trained with real and synthetic samples, achieving 92.77\\% accuracy under a leave-one-subject-out protocol.",
+  "authors": [
+   "Mritula Chandrasekaran",
+   "Sanket Kachole",
+   "Jarik Francik",
+   "Dimitrios Makris"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Accepted at CVPR MOMA Workshop 2026 and selected for spotlight presentation at the workshop",
+  "first_author": "Mritula Chandrasekaran",
+  "pdf_url": "http://arxiv.org/pdf/2606.06048",
+  "primary_category": "cs.CV",
+  "published": "2026-06-04",
+  "tags": [],
+  "title": "LLM-Conditioned Synthesis of Pathological Gaits via Structured Gait-Language Representations",
+  "topics": [
+   "Protein & Biomolecules"
   ],
   "updated": "2026-06-04"
  },
@@ -2973,6 +3313,56 @@
   ],
   "updated": "2026-06-04"
  },
+ "2606.06309": {
+  "abstract": "Video generation models based on Diffusion Transformers (DiTs) have achieved remarkable performance in video synthesis, yet they suffer from high inference latency and computational costs due to the quadratic complexity of 3D attention. Existing acceleration methods primarily reduce computational complexity within each individual denoising steps through techniques such as sparse attention and KV-caching. However, they rigidly adhere to the inherent constraint of the standard diffusion pipeline: every frame in the target video sequence must be subjected to a complete, dense denoising process across all diffusion timesteps. We observe that due to the corresponding contents and motions among adjacent frames, when keyframes with critical semantic transitions are anchored, the intermediate states of others often follow more predictable trajectories, which indicates that such uniform, dense denoising process is inherently redundant for natural video data. To this end, we introduce \\textbf{RhymeFlow}, a training-free framework that decouples the denoising trajectories of different frames. Specifically, we first identify a sparse set of pivotal key frames that dominate the latent semantic evolution. Then, only these keyframes undergo dense, step-by-step denoising to ensure structural integrity, while non-keyframes progressively skip denoising steps to minimize computational cost. Since skipped intermediate states of non-keyframes break the temporal coherence in keyframe denoising steps, leading to visual degradation, we further introduce a latent trajectory projection module, which enables keyframes to interact with a complete and temporally consistent sequence representation. Extensive experiments on current DiT-based video generation models demonstrate our method outperforms existing baselines with higher inference speed and better visual quality.",
+  "authors": [
+   "Chensheng Dai",
+   "Shengjun Zhang",
+   "Yifan Li",
+   "Zhang Zhang",
+   "Zheng Zhu",
+   "Yueqi Duan"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Project Page: https://simon-dcs.github.io/Website-of-RhymeFlow/, Code: https://github.com/Simon-Dcs/RhymeFlow",
+  "first_author": "Chensheng Dai",
+  "pdf_url": "http://arxiv.org/pdf/2606.06309",
+  "primary_category": "cs.CV",
+  "published": "2026-06-04",
+  "tags": [],
+  "title": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.06343": {
+  "abstract": "We study deconfined quantum critical points (DQCP) associated with Lieb-Schultz-Mattis (LSM) anomalies in one-dimensional spin chains. Our starting point is a structural characterization of the LSM anomaly in the Lyndon-Hochschild-Serre spectral sequence: $ω_{\\mathrm{LSM}}\\in E_\\infty^{1,2}= H^1(\\mathbb Z_{\\mathrm{trans}},H^2(G_{\\mathrm{int}},\\mathrm{U}(1)))\\subseteq H^3(G_{\\mathrm{int}}\\rtimes_ρ\\mathbb Z_{\\mathrm{trans}},\\mathrm{U}(1))$. Physically, this class decorates a translation defect with a projective representation of the internal symmetry $G_\\mathrm{int}$. We show that gauging the internal symmetry in the presence of an $E_\\infty^{1,2}$-type anomaly necessarily produces a non-invertible dual symmetry. This gives a general mechanism for type-II DQCP: in contrast to type-I examples with $E_\\infty^{2,1}$-type anomalies which are dual to ordinary group-like symmetry breaking, type-II transitions are dual to spontaneous breaking of a non-invertible symmetry. We illustrate the mechanism using a spin-$1/2$ chain with an anomalous $D_8$ LSM symmetry. We construct a dimer-to-ferromagnet DQCP candidate, provide numerical evidence for a critical theory with central charge $c\\approx 1$, and show, using both category theory and explicit lattice constructions, that gauging the internal symmetry yields the non-invertible $\\mathrm{Rep}(H_8)$ dual symmetry.",
+  "authors": [
+   "Hao-Ran Zhang",
+   "Hanlin Lin",
+   "Shuo Yang",
+   "Qing-Rui Wang"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "hep-th",
+   "math-ph"
+  ],
+  "comment": "54 pages, 6 figures, many tables",
+  "first_author": "Hao-Ran Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.06343",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-04",
+  "tags": [],
+  "title": "$E_\\infty^{1,2}$-type Lieb-Schultz-Mattis anomalies, deconfined quantum critical points, and non-invertible symmetry breaking",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-04"
+ },
  "2606.06364": {
   "abstract": "Subgraph detection seeks to identify whether and where instances of query patterns occur within a larger graph. This problem is fundamental across scientific domains and is closely related to subgraph isomorphism, which is NP-complete, limiting combinatorial approaches to small patterns or moderately sized graphs. We introduce GraphDETR, a deep learning framework that formulates subgraph detection as a set prediction problem, analogous to DETR in object detection. GraphDETR encodes the target graph with a graph neural network, and employs a fixed set of learnable query vectors, decoded via a transformer decoder, to predict all pattern occurrences jointly in a single forward pass. This is enabled by training the model end-to-end with bipartite matching. Unlike traditional combinatorial methods that only solve exact structural matching, GraphDETR naturally extends to approximate matching, enabling detection beyond exact pattern correspondence. Empirically, we show that GraphDETR can detect diverse patterns, such as molecular structures, cycles, cliques, and fuzzy patterns of up to 50 nodes, in target graphs with up to 1000 nodes. We further evaluate on molecular functional group detection over the ChEMBL dataset, where GraphDETR predicts the complete set of functional groups per molecule, achieving a strong performance of $\\text{AP}_{100} = 91.2$.",
   "authors": [
@@ -2994,6 +3384,7 @@
   ],
   "title": "End-to-End Subgraph Detection with GraphDETR",
   "topics": [
+   "Large Language Models & Materials",
    "Molecular Representation & Learning"
   ],
   "updated": "2026-06-04"
@@ -3027,6 +3418,26 @@
   "topics": [
    "Generative Design & Molecule Optimization",
    "Molecular Representation & Learning"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.06420": {
+  "abstract": "We present the first Komi-Yazva--Russian parallel corpus together with an explicit evaluation protocol for studying LLM translation in an endangered, extremely low-resource setting. The dataset contains 457 aligned sentence pairs from 74 narrative texts and is accompanied by documented provenance, sentence-level alignment, and story identifiers that enable leakage-aware evaluation. We use this setup to compare modern large language models on Komi-Yazva-to-Russian translation under severe parallel-data scarcity in zero-shot and retrieval-based few-shot regimes. The protocol includes story-level cross-validation, deterministic retrieval for few-shot prompting, strict validation of generated outputs, complementary reference-based and judge-based metrics, and story-level uncertainty estimates. Across models, LLMs produce non-trivial translations, but performance varies strongly by model family and prompting regime. Retrieval-based few-shot prompting consistently improves over zero-shot prompting, while gains beyond a small retrieved context remain limited. The results show that evaluative conclusions in this setting depend materially on metric choice and failure handling, so the paper frames the corpus as both a dataset contribution and a reproducible evaluation testbed for endangered-language machine translation.",
+  "authors": [
+   "Petr Parshakov"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "18 pages, 6 tables, 3 figures",
+  "first_author": "Petr Parshakov",
+  "pdf_url": "http://arxiv.org/pdf/2606.06420",
+  "primary_category": "cs.CL",
+  "published": "2026-06-04",
+  "tags": [],
+  "title": "A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation",
+  "topics": [
+   "Large Language Models & Materials"
   ],
   "updated": "2026-06-04"
  }

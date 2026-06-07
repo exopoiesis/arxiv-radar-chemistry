@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">381 papers</span>
+  <span class="paper-count">376 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2270,35 +2270,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15539.html">Tailoring the Electronic Configurations of YPc$_2$ on Cu(111): Decoupling Strategies for Molecular Spin Qubits Platforms</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Soyoung Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2505.15539">2505.15539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13513.html">Evidence of Ferroelectricity in an Antiferromagnetic Vanadium Trichloride Monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jinghao Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13513">2404.13513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09475.html">Stability, electronic, magnetic and thermoelectric properties of quaternary Heusler alloys CoX&#x27;ZrAl (X&#x27;=V, Fe, Ir): 3d vs 5d systems</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Poulami Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09475">2506.09475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09585.html">Quantitative theory of magnetic properties of elemental praseodymium</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Leonid V. Pourovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09585">2506.09585</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09815.html">Fermi surface and effective masses of IrO$_2$ probed by de Haas-van Alphen quantum oscillations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Kathrin Götze et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09815">2506.09815</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09848.html">Coexistence of static and dynamic local magnetic fields in an S = 3/2 honeycomb lattice antiferromagnet Co2Te3O8</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>J. Khatua et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09848">2506.09848</a></td>
 </tr>
 </tbody></table>

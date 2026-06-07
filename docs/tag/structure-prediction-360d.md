@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,11 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11332.html">Polymorphism Crystal Structure Prediction with Adaptive Space Group Diversity Control</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Sadman Sadeed Omee et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11332">2506.11332</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17656.html">polyGen: A Learning Framework for Atomic-level Polymer Structure Generation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Ayush Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17656">2504.17656</a></td>
 </tr>
 </tbody></table>

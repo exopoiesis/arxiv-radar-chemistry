@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04672.html">Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models</a></div></td>
+<td>Ayushman Raghuvanshi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04672">2606.04672</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
@@ -668,47 +674,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07927.html">MatterSim-MT: A multi-task foundation model for in silico materials characterization</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Han Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07927">2605.07927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Wei-Fan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05603">2605.05603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05612.html">Tuning charge-transport properties and magnetic order in metallic EuTiO$_{3-δ}$</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Xing He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05612">2605.05612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05620.html">Physics-Grounded Understanding of Thermal Boundary Conductance between Ga$_2$O$_3$ and SiC from a Feedforward Neural Network Potential</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Nuohao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05620">2605.05620</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05675.html">A Scalable Translationally Invariant Variational Theory of Ab Initio Polarons</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Moritz K. A. Baumgarten et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05675">2605.05675</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06138.html">Probing the density dependence of nuclear symmetry energy through isospin transport in heavy-ion reactions</a></div></td>
-<td>S. Mallik et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06138">2605.06138</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06489.html">TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Cheng Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06489">2605.06489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06926.html">Many-body theory predictions of positron binding energies in five-membered heterocycles involving N, O, S and NH substituents</a></div></td>
-<td>S. K. Gregg et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06926">2605.06926</a></td>
 </tr>
 </tbody></table>

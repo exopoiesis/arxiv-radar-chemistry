@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">481 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2888,17 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10615.html">Strongly correlated topological surface states in type-II Dirac semimetal NiTe$_{2}$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Neeraj Bhatt et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10615">2506.10615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15512.html">Bi, Cr and Ag dopants in PbTe and SnTe: impact of the host band symmetry on doping properties by ab initio calculations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>A. Łusakowski et al.</td>
-<td><a href="http://arxiv.org/abs/2412.15512">2412.15512</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09861.html">Magnetic excitations and exchange parameters of a nickel chain compound PbMn$_2$Ni$_6$Te$_3$O$_{18}$: Neutron scattering and density functional theory studies</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>S. Uthayakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09861">2506.09861</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -632,17 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09804.html">Efficient method for calculation of low-temperature phase boundaries</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Lucas Svensson et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09804">2603.09804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24635.html">Electrochemical Electron Transfer: Key Concepts, Theories, and Parameterization via Atomistic Simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mengke Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24635">2510.24635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19906.html">Collective Variable-Guided Engineering of the Free-Energy Surface of a Small Peptide</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
-<td>Muralika Medaparambath et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19906">2602.19906</a></td>
 </tr>
 </tbody></table>

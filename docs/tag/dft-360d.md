@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2123 papers</span>
+  <span class="paper-count">2108 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12662,95 +12662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11258.html">Theory of infrared magneto-optical effects from chiral phonons in solids</a></div></td>
 <td>Chiara Fiorazzo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11258">2506.11258</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13513.html">Evidence of Ferroelectricity in an Antiferromagnetic Vanadium Trichloride Monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jinghao Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13513">2404.13513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15512.html">Bi, Cr and Ag dopants in PbTe and SnTe: impact of the host band symmetry on doping properties by ab initio calculations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>A. Łusakowski et al.</td>
-<td><a href="http://arxiv.org/abs/2412.15512">2412.15512</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09330.html">Leveraging the Bias-Variance Tradeoff in Quantum Chemistry for Accurate Negative Singlet-Triplet Gap Predictions: A Case for Double-Hybrid DFT</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Atreyee Majumdar et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09330">2502.09330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12475.html">Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Ali Bagci et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12475">2504.12475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17656.html">polyGen: A Learning Framework for Atomic-level Polymer Structure Generation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Ayush Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17656">2504.17656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01072.html">Nuclear structure study using a hybrid approach of shell model and Gogny-type density functionals</a></div></td>
-<td>Kota Yoshinaga et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01072">2505.01072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09372.html">Molecular Dynamics Simulations of SrTiO$_3$ with Oxygen Vacancies using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kazutaka Nishiguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09372">2506.09372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09412.html">Ferroelectric control of bipolar magnetic semiconductor with room Curie temperature</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09412">2506.09412</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09475.html">Stability, electronic, magnetic and thermoelectric properties of quaternary Heusler alloys CoX&#x27;ZrAl (X&#x27;=V, Fe, Ir): 3d vs 5d systems</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Poulami Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09475">2506.09475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09585.html">Quantitative theory of magnetic properties of elemental praseodymium</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Leonid V. Pourovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09585">2506.09585</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09815.html">Fermi surface and effective masses of IrO$_2$ probed by de Haas-van Alphen quantum oscillations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Kathrin Götze et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09815">2506.09815</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09848.html">Coexistence of static and dynamic local magnetic fields in an S = 3/2 honeycomb lattice antiferromagnet Co2Te3O8</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>J. Khatua et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09848">2506.09848</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09861.html">Magnetic excitations and exchange parameters of a nickel chain compound PbMn$_2$Ni$_6$Te$_3$O$_{18}$: Neutron scattering and density functional theory studies</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>S. Uthayakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09861">2506.09861</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09911.html">Microscopic investigation of enhanced Pauli paramagnetism in metallic Pu$_2$C$_3$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>R. Yamamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09911">2506.09911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09960.html">Refining ensemble $N$-representability of one-body density matrices from partial information</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Julia Liebert et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09960">2506.09960</a></td>
 </tr>
 </tbody></table>

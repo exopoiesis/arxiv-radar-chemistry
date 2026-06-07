@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,11 +680,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08883.html">Parallel iQCC Enables 200 Qubit Scale Quantum Chemistry on Accelerated Computing Platforms Surpassing Classical Benchmarks in Ruthenium Catalysts</a></div></td>
 <td>Seyyed Mehdi Hosseini Jenab et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08883">2603.08883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14273.html">Spacetime-Efficient and Hardware-Compatible Complex Quantum Logic Units in qLDPC Codes</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Willers Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14273">2602.14273</a></td>
 </tr>
 </tbody></table>

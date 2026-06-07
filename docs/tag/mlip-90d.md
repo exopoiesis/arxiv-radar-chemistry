@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1064,11 +1064,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08855.html">Ground-State Structure Search of Defective High-Entropy Alloys Using Machine-Learning Potentials and Monte Carlo Sampling</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Siya Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08855">2603.08855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07425.html">A Perspective on Training Machine Learning Force Fields for Solid-State Electrolyte Materials</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Zihan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07425">2603.07425</a></td>
 </tr>
 </tbody></table>

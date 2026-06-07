@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>battery-materials — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <strong>30d</strong> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07927.html">MatterSim-MT: A multi-task foundation model for in silico materials characterization</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="active-learning-30d.html">active-learning</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Han Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07927">2605.07927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05603.html">Strain-Dependent Ionic Transport in Li3YCl6 Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Wei-Fan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05603">2605.05603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06293.html">Solvent-induced memory effects in a model electrolyte</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Sleeba Varghese et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06293">2605.06293</a></td>
 </tr>
 </tbody></table>

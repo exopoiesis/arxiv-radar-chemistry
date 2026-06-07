@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1694,23 +1694,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11332.html">Polymorphism Crystal Structure Prediction with Adaptive Space Group Diversity Control</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Sadman Sadeed Omee et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11332">2506.11332</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17656.html">polyGen: A Learning Framework for Atomic-level Polymer Structure Generation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Ayush Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17656">2504.17656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09848.html">Coexistence of static and dynamic local magnetic fields in an S = 3/2 honeycomb lattice antiferromagnet Co2Te3O8</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>J. Khatua et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09848">2506.09848</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09894.html">Choosing a Suitable Acquisition Function for Batch Bayesian Optimization: Comparison of Serial and Monte Carlo Approaches</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Imon Mia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09894">2506.09894</a></td>
 </tr>
 </tbody></table>

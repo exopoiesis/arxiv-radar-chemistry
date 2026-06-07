@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmo — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="tmo-7d.html">7d</a> <a href="tmo-30d.html">30d</a> <a href="tmo-90d.html">90d</a> <strong>360d</strong> <a href="tmo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00770.html">Dynamic Competition Between Hubbard and Superexchange Interactions Selectively Localizes Electrons and Holes Through Polarons</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Jocelyn L. Mendes et al.</td>
 <td><a href="http://arxiv.org/abs/2411.00770">2411.00770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09761.html">Single Cu Atom Sites on Co3O4 Activate Interfacial Oxygen for Enhanced Reactivity and Selective Gas Sensing at Low Temperature</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Hamin Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09761">2506.09761</a></td>
 </tr>
 </tbody></table>

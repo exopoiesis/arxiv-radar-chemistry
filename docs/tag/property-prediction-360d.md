@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1484,11 +1484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12516.html">Information fusion strategy integrating pre-trained language model and contrastive learning for materials knowledge mining</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Yongqian Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12516">2506.12516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16563.html">Chem42: a Family of chemical Language Models for Target-aware Ligand Generation</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Aahan Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16563">2503.16563</a></td>
 </tr>
 </tbody></table>

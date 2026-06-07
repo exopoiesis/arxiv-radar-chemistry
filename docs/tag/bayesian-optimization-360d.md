@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">127 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,17 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11793.html">Accelerated Bayesian optimization in deep cooling atoms</a></div></td>
 <td>Xiaoxiao Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2412.11793">2412.11793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02707.html">Refining Coarse-Grained Molecular Topologies: A Bayesian Optimization Approach</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pranoy Ray et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02707">2501.02707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09894.html">Choosing a Suitable Acquisition Function for Batch Bayesian Optimization: Comparison of Serial and Monte Carlo Approaches</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Imon Mia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09894">2506.09894</a></td>
 </tr>
 </tbody></table>

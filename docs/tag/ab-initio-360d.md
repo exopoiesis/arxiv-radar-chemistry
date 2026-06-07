@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1609 papers</span>
+  <span class="paper-count">1605 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04672.html">Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models</a></div></td>
+<td>Ayushman Raghuvanshi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04672">2606.04672</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -9638,35 +9644,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10882.html">Deep Potential-Driven Molecular Dynamics of CO Ice Analogues: Investigating Desorption Following Vibrational Excitation</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Maxime Infuso et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10882">2506.10882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09330.html">Leveraging the Bias-Variance Tradeoff in Quantum Chemistry for Accurate Negative Singlet-Triplet Gap Predictions: A Case for Double-Hybrid DFT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Atreyee Majumdar et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09330">2502.09330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09372.html">Molecular Dynamics Simulations of SrTiO$_3$ with Oxygen Vacancies using Neural Network Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kazutaka Nishiguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09372">2506.09372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09567.html">Charge Ordering in out-of-plane Boron Doped Reduced Graphene Oxide</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Saikat Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09567">2506.09567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09585.html">Quantitative theory of magnetic properties of elemental praseodymium</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Leonid V. Pourovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09585">2506.09585</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10181.html">Entangled Interlocked Diamond-like (Diamondiynes) Lattices</a></div></td>
-<td>C. M. O. Bastos et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10181">2506.10181</a></td>
 </tr>
 </tbody></table>

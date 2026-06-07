@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,11 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16301.html">Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Pengcheng Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.16301">2512.16301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17731.html">Flow Matching Meets Biology and Life Science: A Survey</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Zihao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17731">2507.17731</a></td>
 </tr>
 </tbody></table>

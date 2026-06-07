@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">564 papers</span>
+  <span class="paper-count">562 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3386,17 +3386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08873.html">Machine-learning assistant DFT study of half-metallic full-Heusler alloy N2CaNa: structural, electronic, mechanical, and thermodynamics properties</a></div></td>
 <td>E. B. Ettah et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08873">2603.08873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24635.html">Electrochemical Electron Transfer: Key Concepts, Theories, and Parameterization via Atomistic Simulations</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mengke Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24635">2510.24635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07706.html">DeepConf: Machine Learning Conformer Reconstruction of Biomolecules from Scanning Tunneling Microscopy Images</a></div></td>
-<td>Tim J. Seifert et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07706">2603.07706</a></td>
 </tr>
 </tbody></table>

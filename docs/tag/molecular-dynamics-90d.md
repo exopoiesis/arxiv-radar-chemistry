@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">439 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2648,35 +2648,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10159.html">Bias in Universal Machine-Learned Interatomic Potentials and its Effects on Fine-Tuning</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Nicolas Wong et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10159">2603.10159</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09787.html">BNEM: A Boltzmann Sampler Based on Bootstrapped Noised Energy Matching</a></div></td>
-<td>RuiKang OuYang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09787">2409.09787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15785.html">Non-equilibrium evaporation of Lennard-Jones fluids: Enskog-Vlasov theory and Hertz-Knudsen model</a></div></td>
-<td>Shaokang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15785">2508.15785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08005.html">Melting behavior and dynamical properties of Cr2Ge2Te6 phase-change material</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Suyang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08005">2603.08005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08027.html">Non-Markovian heat production in ultrafast phonon dynamics</a></div></td>
-<td>Fredrik Erikssonm Yulong Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08027">2603.08027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08950.html">Competing Hydrogenation Pathways to Metastable CaH$_6$ Revealed by Machine-Learning-Potential Molecular Dynamics</a></div></td>
-<td>Ryuhei Sato et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08950">2603.08950</a></td>
 </tr>
 </tbody></table>

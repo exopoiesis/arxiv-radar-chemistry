@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">414 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2498,23 +2498,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09863.html">A systematic study of single molecule metallocenes with 4d and 3d transition metal atoms</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Daniela Herrera-Molina et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09863">2603.09863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04146.html">Modeling of a twisted-Kagome HoAgGe spin ice using Reduced-Configuration-Space Search and Density Functional Theory</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Gunnar F. Schwertfeger et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04146">2507.04146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01059.html">Photogalvanic currents from first-principles real-time density-matrix dynamics</a></div></td>
-<td>Junting Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.01059">2601.01059</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08005.html">Melting behavior and dynamical properties of Cr2Ge2Te6 phase-change material</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Suyang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08005">2603.08005</a></td>
 </tr>
 </tbody></table>

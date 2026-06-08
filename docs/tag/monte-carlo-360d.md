@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,17 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13448.html">Electronic Correlations Control Interlayer Coupling and Magnetic Transition in MnBi$_2$Te$_4$/MnBr$_3$ Heterostructure</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Yuanhao Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13448">2506.13448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07551.html">CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning</a></div></td>
-<td>Mengsong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07551">2506.07551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10429.html">Transcorrelated Theory for Transition Metal Atoms</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Kristoffer Simula et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10429">2506.10429</a></td>
 </tr>
 </tbody></table>

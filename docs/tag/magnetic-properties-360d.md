@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">376 papers</span>
+  <span class="paper-count">375 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2264,11 +2264,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13696.html">Photomagnetic-Chiral Anisotropy mediated by Chirality-Driven Asymmetric Spin Splitting</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Tianwei Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13696">2506.13696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15539.html">Tailoring the Electronic Configurations of YPc$_2$ on Cu(111): Decoupling Strategies for Molecular Spin Qubits Platforms</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Soyoung Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15539">2505.15539</a></td>
 </tr>
 </tbody></table>

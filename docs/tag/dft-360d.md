@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2108 papers</span>
+  <span class="paper-count">2098 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12602,65 +12602,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01023.html">Electron Excitation Probability in Dielectrics under Two-color Intense Laser Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Mizuki Tani et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01023">2507.01023</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.20054.html">Phase-Space Approach to Wannier Pairing and Bogoliubov Orbitals in Square-Octagon Lattices</a></div></td>
-<td>Rajesh O. Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2412.20054">2412.20054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15531.html">Interaction of dopants with the I$_3$-type basal stacking fault in hexagonal-diamond Si</a></div></td>
-<td>Marc Túnica et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15531">2502.15531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04418.html">Conduction Band Structure and Ultrafast Dynamics of Ferroelectric $α$-GeTe(111)</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Geoffroy Kremer et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04418">2505.04418</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15539.html">Tailoring the Electronic Configurations of YPc$_2$ on Cu(111): Decoupling Strategies for Molecular Spin Qubits Platforms</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Soyoung Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15539">2505.15539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10336.html">Field-free perpendicular magnetization switching by altermagnet with collinear spin current</a></div></td>
-<td>M. Q. Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10336">2506.10336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10555.html">Zero-energy band observation in an interfacial chalcogen-organic network</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Yichen Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10555">2506.10555</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10566.html">On the origin of the E1 electron trap level in GaN and dilute AlxGa1-xN films</a></div></td>
-<td>Piotr Kruszewski et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10566">2506.10566</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10615.html">Strongly correlated topological surface states in type-II Dirac semimetal NiTe$_{2}$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Neeraj Bhatt et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10615">2506.10615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10649.html">Gapless superfluidity in neutron stars: Normal-fluid fraction</a></div></td>
-<td>Valentin Allard et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10649">2506.10649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11258.html">Theory of infrared magneto-optical effects from chiral phonons in solids</a></div></td>
-<td>Chiara Fiorazzo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11258">2506.11258</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,23 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09631.html">System-bath model for quantum chemistry</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
 <td>Dmitry S. Golubev et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09631">2603.09631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09670.html">On the generalized eigenvalue problem in subspace-based excited state methods for quantum computers</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Prince Frederick Kwao et al.</td>
-<td><a href="http://arxiv.org/abs/2503.09670">2503.09670</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09092.html">Expanding the Class of Free Fermions via Twin-Collapse Methods</a></div></td>
-<td>Jannis Ruh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09092">2509.09092</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08883.html">Parallel iQCC Enables 200 Qubit Scale Quantum Chemistry on Accelerated Computing Platforms Surpassing Classical Benchmarks in Ruthenium Catalysts</a></div></td>
-<td>Seyyed Mehdi Hosseini Jenab et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08883">2603.08883</a></td>
 </tr>
 </tbody></table>

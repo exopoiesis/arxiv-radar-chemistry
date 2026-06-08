@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,11 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06748.html">Property-driven Protein Inverse Folding With Multi-Objective Preference Alignment</a></div></td>
 <td>Xiaoyang Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06748">2603.06748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16301.html">Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Pengcheng Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16301">2512.16301</a></td>
 </tr>
 </tbody></table>

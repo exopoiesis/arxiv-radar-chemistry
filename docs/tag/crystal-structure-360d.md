@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">280 papers</span>
+  <span class="paper-count">279 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1688,11 +1688,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08653.html">Accelerating Discovery of Metal-Insulator Transition Compounds Using Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Alexandru B. Georgescu et al.</td>
 <td><a href="http://arxiv.org/abs/2404.08653">2404.08653</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11332.html">Polymorphism Crystal Structure Prediction with Adaptive Space Group Diversity Control</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Sadman Sadeed Omee et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11332">2506.11332</a></td>
 </tr>
 </tbody></table>

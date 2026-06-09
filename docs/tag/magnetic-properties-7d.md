@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>magnetic-properties — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,21 +16,39 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>A. Koda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08915">2606.08915</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Tamer Taşkıran et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08820.html">Chiral Surface Phonons</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Mike Pols et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08820">2606.08820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08333.html">Nearly ballistic transport and high magnetic-field sensitivity in a $\text{Bi}_4\text{Br}_4$ topological Josephson weak link</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Enamul Haque et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08333">2606.08333</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07138.html">Chromium chalcohalide Janus monolayer ferromagnets with perpendicular magnetic anisotropy and high Curie temperature</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>M. Bosnar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07138">2606.07138</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03908.html">Spin-chiral electron-phonon coupling in metallic strontium titanate</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>N. Somun et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03908">2606.03908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Yossi Paltiel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Ying You et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
 </tr>
 </tbody></table>

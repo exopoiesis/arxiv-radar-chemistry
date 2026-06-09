@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
+<td>Tuan A. Vu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09664">2606.09664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08221.html">De novo molecular generation with optical property preconditioning at the token level</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Haozhe Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08221">2606.08221</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05847.html">Agentic Molecular Recovery via Molecule-Aware Exploration</a></div></td>
 <td>Suwan Yoon et al.</td>
@@ -290,17 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10395.html">Graph-GRPO: Training Graph Flow Models with Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Baoheng Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10395">2603.10395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09268.html">Logos: An evolvable reasoning engine for rational molecular design</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Haibin Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09268">2603.09268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10093.html">Equivariant Asynchronous Diffusion: An Adaptive Denoising Schedule for Accelerated Molecular Conformation Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Junyi An et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10093">2603.10093</a></td>
 </tr>
 </tbody></table>

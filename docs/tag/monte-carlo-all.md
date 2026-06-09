@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">534 papers</span>
+  <span class="paper-count">536 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08686.html">Information Entropy Based Crystal Structure Prediction of Chemically Disordered Alloys via Graph Convolutional Neural Networks</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td>Suman Chabri et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08686">2606.08686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06673.html">Uncertainty-Aware LLM-Guided Policy Shaping for Sparse-Reward Reinforcement Learning</a></div><div class="paper-tags"><a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Ujjwal Bhatta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06673">2606.06673</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03235.html">Monte-Carlo study of Compositional Heterogeneity in Multicomponent Cluster Crystals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>

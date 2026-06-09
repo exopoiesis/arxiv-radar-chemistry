@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
+<td>Tuan A. Vu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09664">2606.09664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08221.html">De novo molecular generation with optical property preconditioning at the token level</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Haozhe Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08221">2606.08221</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05847.html">Agentic Molecular Recovery via Molecule-Aware Exploration</a></div></td>
@@ -896,11 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17340.html">Revisiting Sampling Strategies for Molecular Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Yuyan Ni et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17340">2506.17340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20182.html">Chemical Language Model Linker: blending text and molecules with modular adapters</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Yifan Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20182">2410.20182</a></td>
 </tr>
 </tbody></table>

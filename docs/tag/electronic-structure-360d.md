@@ -16,6 +16,30 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08423.html">First-Principles Investigation of Electron--Phonon Coupling and Intrinsic Two-Gap Superconductivity in Hexagonal BAs3 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08423">2606.08423</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Tamer Taşkıran et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07184.html">Multiband superconductivity in the kagome-lattice superconductor Re2Zr</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Gabriel Kuderowicz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07184">2606.07184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07273.html">B-Spline for Self-Consistent Field Theory with a Z-Dependent Pauli Potential for Atomic Binding Energies</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Vipul Badhan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07273">2606.07273</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Micah P. Prange et al.</td>
@@ -2852,29 +2876,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13454.html">A first-principles investigation of altermagnetism in CrSb2 under applied pressure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>R. Tamang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13454">2506.13454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08653.html">Accelerating Discovery of Metal-Insulator Transition Compounds Using Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Alexandru B. Georgescu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08653">2404.08653</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11427.html">In-Plane Ni-O-Ni Bond Angles as Structural Fingerprints of Superconductivity in Layered Nickelates: Effects of Pressure, Strain, Layering, and Correlations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Bipasa Samanta et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11427">2506.11427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11632.html">How oxygen influences the catalytic activity of iron during carbon nanotube nucleation</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Ben McLean et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11632">2506.11632</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12147.html">Molecular Control of Floquet Topological Phase in Non-adiabatic Thouless Pumping</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Ruiyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12147">2506.12147</a></td>
 </tr>
 </tbody></table>

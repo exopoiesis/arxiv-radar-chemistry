@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transition — all</h1>
-  <span class="paper-count">427 papers</span>
+  <span class="paper-count">429 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06935.html">Microscopic formulation of the interacting boson-fermion model using the nuclear energy density functional</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>M. Homma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06935">2606.06935</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06771.html">Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Kairi Masuda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06771">2606.06771</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>

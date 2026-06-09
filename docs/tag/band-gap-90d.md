@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08423.html">First-Principles Investigation of Electron--Phonon Coupling and Intrinsic Two-Gap Superconductivity in Hexagonal BAs3 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08423">2606.08423</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Tamer Taşkıran et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06980.html">Electric-field induced trends of exchange interactions in transition-metal trilayers</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Moinak Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06980">2606.06980</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06992.html">Iron-catalysed on-surface synthesis of substrate-decoupled graphdiyne monolayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Alice Cartoceti et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06992">2606.06992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07712.html">MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Zhan&#x27;ao Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07712">2606.07712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07863.html">Elusive Exciton Insulator States in 1T-HfTe2: Exciton softening, and Symmetry Breaking by Ab Initio Methods</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
+<td>Hong Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07863">2606.07863</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
@@ -668,29 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10794.html">Electronic Structure and Resonant Circular Dichroism of La$_{0.7}$Sr$_{0.3}$MnO$_3$ from Soft X-ray Angle-Resolved Photoemission</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Øyvind Finnseth et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10794">2603.10794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09631.html">System-bath model for quantum chemistry</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Dmitry S. Golubev et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09631">2603.09631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09659.html">Pressure-Induced Structural and Magnetic Evolution in Layered Antiferromagnet YbMn$_2$Sb$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Mingyu Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09659">2603.09659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09744.html">AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Bonwook Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09744">2603.09744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10142.html">Endohedral Derivatives of the Recently Synthesized Two-Dimensional Fullerene Networks: Electronic and Optical Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Marcelo L. Pereira Junior et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10142">2603.10142</a></td>
 </tr>
 </tbody></table>

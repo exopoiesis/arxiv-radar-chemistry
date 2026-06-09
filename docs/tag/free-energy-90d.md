@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08686.html">Information Entropy Based Crystal Structure Prediction of Chemically Disordered Alloys via Graph Convolutional Neural Networks</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Suman Chabri et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08686">2606.08686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06848.html">Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="mlip-90d.html">mlip</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
+<td>Sijia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06848">2606.06848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06935.html">Microscopic formulation of the interacting boson-fermion model using the nuclear energy density functional</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>M. Homma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06935">2606.06935</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06771.html">Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Kairi Masuda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06771">2606.06771</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
@@ -614,23 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13549.html">Adaptive tensor train metadynamics for high-dimensional free energy exploration</a></div><div class="paper-tags"><a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Nils E. Strand et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13549">2603.13549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09247.html">Ab initio simulation of the first-order proton-ordering transition in water ice</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Qi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09247">2603.09247</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09410.html">Infrared spectroscopy of protonated water clusters via the quantum thermal bath method and highly accurate machine-learned potentials</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>T. Baird et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09410">2603.09410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09804.html">Efficient method for calculation of low-temperature phase boundaries</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Lucas Svensson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09804">2603.09804</a></td>
 </tr>
 </tbody></table>

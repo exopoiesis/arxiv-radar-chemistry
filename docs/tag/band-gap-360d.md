@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">462 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08423.html">First-Principles Investigation of Electron--Phonon Coupling and Intrinsic Two-Gap Superconductivity in Hexagonal BAs3 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08423">2606.08423</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Tamer Taşkıran et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06980.html">Electric-field induced trends of exchange interactions in transition-metal trilayers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Moinak Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06980">2606.06980</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06992.html">Iron-catalysed on-surface synthesis of substrate-decoupled graphdiyne monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Alice Cartoceti et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06992">2606.06992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07712.html">MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Zhan&#x27;ao Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07712">2606.07712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07863.html">Elusive Exciton Insulator States in 1T-HfTe2: Exciton softening, and Symmetry Breaking by Ab Initio Methods</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td>Hong Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07863">2606.07863</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
@@ -2750,29 +2786,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13454.html">A first-principles investigation of altermagnetism in CrSb2 under applied pressure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>R. Tamang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13454">2506.13454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11427.html">In-Plane Ni-O-Ni Bond Angles as Structural Fingerprints of Superconductivity in Layered Nickelates: Effects of Pressure, Strain, Layering, and Correlations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Bipasa Samanta et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11427">2506.11427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11488.html">Uni-Traveling-Carrier Photodiode Based on MoS2/GaN van der Waals Heterojunction for High-Speed Visible-Light Detection</a></div><div class="paper-tags"><a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Takuya Kadowaki et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11488">2506.11488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11632.html">How oxygen influences the catalytic activity of iron during carbon nanotube nucleation</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Ben McLean et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11632">2506.11632</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12173.html">β-Ga2O3-Based Heterojunctions: Exploring Growth Orientations and Alloying Effect</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Mohamed Abdelilah Fadla et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12173">2506.12173</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08148.html">Inverse design of bespoke interatomic potentials via active learning by information-matching</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="active-learning-30d.html">active-learning</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Yonatan Kurniawan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08148">2606.08148</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08238.html">GPT-Micro: A large language paradigm for accelerated, inexpensive, and thermodynamics-consistent discovery of constitutive models in manufacturing</a></div></td>
+<td>Soumik Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08238">2606.08238</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07712.html">MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="gnn-30d.html">gnn</a> · <a href="property-prediction-30d.html">property-prediction</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Zhan&#x27;ao Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07712">2606.07712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07850.html">PDE-Agents: An LLM-Orchestrated Multi-Agent Framework for Automated Finite Element Simulations with Knowledge Graph-Augmented Reasoning</a></div></td>
+<td>Sayan Adhikari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07850">2606.07850</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
@@ -152,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09624.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Dongming Mei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09624">2605.09624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08988.html">Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Amir Masoud Nourollah et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08988">2605.08988</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">572 papers</span>
+  <span class="paper-count">573 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08973.html">A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Sheng-Ya Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08973">2606.08973</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>João G. C. S. Duarte et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06717.html">ShallowBench: Benchmarking Generative Drug Design Models on Shallow-Pocket Targets</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Saket Reddy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06717">2606.06717</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
@@ -3440,11 +3452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10506.html">Nudged-Elastic Band Calculations of Polymorph Transitions and Solid-State Reactions in Molecular Crystals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Natalia Goncharova et al.</td>
 <td><a href="http://arxiv.org/abs/2410.10506">2410.10506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07833.html">Improving Large Language Models with Concept-Aware Fine-Tuning</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Michael K. Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07833">2506.07833</a></td>
 </tr>
 </tbody></table>

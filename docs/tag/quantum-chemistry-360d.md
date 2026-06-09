@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">387 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2336,11 +2336,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09297.html">A thorough study of Riemannian Newton&#x27;s Method</a></div></td>
 <td>Caio O. da Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09297">2506.09297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11632.html">How oxygen influences the catalytic activity of iron during carbon nanotube nucleation</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ben McLean et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11632">2506.11632</a></td>
 </tr>
 </tbody></table>

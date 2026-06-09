@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08647.html">Protein Dynamics Beyond Structure Prediction</a></div></td>
+<td>Juliette Griffié et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08647">2606.08647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07301.html">Structure-guided taxonomic placement of divergent RNA viruses with ViraClass</a></div></td>
+<td>Sheng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07301">2606.07301</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04566.html">AF_Cache: Efficient Pipeline for Running AlphaFold for High-Throughput Protein-Protein Interaction Prediction</a></div></td>
 <td>Sarah Narrowe et al.</td>
@@ -122,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28843.html">The Biosecurity Blind Spot: Systematic Dual-use Detection in Open Science Infrastructure</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Vasudha Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28843">2605.28843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08659.html">Pushing Biomolecular Utility-Diversity Frontiers with Supergroup Relative Policy Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Xinwu Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08659">2605.08659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10978.html">VibeProteinBench: An Evaluation Benchmark for Language-interfaced Vibe Protein Design</a></div></td>
-<td>Hyunjin Seo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10978">2605.10978</a></td>
 </tr>
 </tbody></table>

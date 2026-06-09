@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Felix Post et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09656.html">Angular and Kinetic Properties of Scission Neutrons within Time-dependent Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Antonio Bjelčić et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09656">2606.09656</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09763.html">RPA as a Hessian Closure: Effective Functionals and Source-Variable Duality Across DFT, LR-TDDFT, 1RDMFT, and MBPT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Nan Sheng</td>
+<td><a href="http://arxiv.org/abs/2606.09763">2606.09763</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04868.html">Resolving the Blueshift in Calculations of the EUV Spectrum of Multiply Charged Tin Ions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>M. L. Reitsma et al.</td>
@@ -1322,23 +1340,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13696.html">Photomagnetic-Chiral Anisotropy mediated by Chirality-Driven Asymmetric Spin Splitting</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Tianwei Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13696">2506.13696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12005.html">Robustness of Floquet topological phase at room temperature: a first-principles dynamics study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ruiyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12005">2506.12005</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12147.html">Molecular Control of Floquet Topological Phase in Non-adiabatic Thouless Pumping</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Ruiyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12147">2506.12147</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01023.html">Electron Excitation Probability in Dielectrics under Two-color Intense Laser Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Mizuki Tani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01023">2507.01023</a></td>
 </tr>
 </tbody></table>

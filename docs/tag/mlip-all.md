@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">950 papers</span>
+  <span class="paper-count">958 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09422.html">A Robust Agentic Framework for Expert-Level Automation of Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a></div></td>
+<td>Yutack Park et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09422">2606.09422</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09575.html">k-Means Clustering in Fingerprint-Based Configuration Selection for Fitting Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Miroslav Lebeda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09575">2606.09575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="excited-states-all.html">excited-states</a> · <a href="gnn-all.html">gnn</a></div></td>
+<td>Felix Post et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08688.html">PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback</a></div></td>
+<td>Chunji Lv et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08688">2606.08688</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08148.html">Inverse design of bespoke interatomic potentials via active learning by information-matching</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="active-learning-all.html">active-learning</a> · <a href="materials-science-all.html">materials-science</a></div></td>
+<td>Yonatan Kurniawan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08148">2606.08148</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06848.html">Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="free-energy-all.html">free-energy</a> · <a href="umbrella-sampling-all.html">umbrella-sampling</a></div></td>
+<td>Sijia Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06848">2606.06848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06617.html">Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Jiuyang Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06617">2606.06617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06771.html">Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td>Kairi Masuda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06771">2606.06771</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

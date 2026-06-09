@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">105 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -644,23 +644,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20496.html">Orbital-interaction-aware deep learning model for efficient surface chemistry simulations</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Zhihao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20496">2507.20496</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05390.html">Quantum State Preparation Of Multiconfigurational States For Quantum Chemistry</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Gabriel Greene-Diniz et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05390">2508.05390</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09626.html">The Architecture of Inter-Level Representation</a></div></td>
-<td>Harry Sticker</td>
-<td><a href="http://arxiv.org/abs/2603.09626">2603.09626</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09631.html">System-bath model for quantum chemistry</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Dmitry S. Golubev et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09631">2603.09631</a></td>
 </tr>
 </tbody></table>

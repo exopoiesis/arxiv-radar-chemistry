@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08955.html">Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Katsunori Wakabayashi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08955">2606.08955</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09260.html">The impact of interfacial chemistry on the band offset of GaAs/Ga$_2$O$_3$ heterostructures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Sofia Apergi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09260">2606.09260</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08423.html">First-Principles Investigation of Electron--Phonon Coupling and Intrinsic Two-Gap Superconductivity in Hexagonal BAs3 Monolayer</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08423">2606.08423</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Tamer Taşkıran et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06992.html">Iron-catalysed on-surface synthesis of substrate-decoupled graphdiyne monolayers</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Alice Cartoceti et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06992">2606.06992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07863.html">Elusive Exciton Insulator States in 1T-HfTe2: Exciton softening, and Symmetry Breaking by Ab Initio Methods</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
+<td>Hong Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07863">2606.07863</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06289.html">Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>T. A. M. Ragib Shahriar et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06289">2606.06289</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06771.html">Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Kairi Masuda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06771">2606.06771</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-03</td>

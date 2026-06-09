@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09480.html">Loss-Guided Adaptive Scale Refinement for Molecular Force Prediction</a></div></td>
+<td>Limin Yu</td>
+<td><a href="http://arxiv.org/abs/2606.09480">2606.09480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07698.html">Pharmacogenomic Knowledge Graph Augmentation for Graph Neural Network-Based Drug-Drug Interaction Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Juergen Dietrich</td>
+<td><a href="http://arxiv.org/abs/2606.07698">2606.07698</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05693.html">MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Joey Chan et al.</td>
@@ -278,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10950.html">When should we trust the annotation? Selective prediction for molecular structure retrieval from mass spectra</a></div></td>
 <td>Mira Jürgens et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10950">2603.10950</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.17901.html">Molecular Fingerprints Are Strong Models for Peptide Function Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Jakub Adamczyk et al.</td>
-<td><a href="http://arxiv.org/abs/2501.17901">2501.17901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09268.html">Logos: An evolvable reasoning engine for rational molecular design</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Haibin Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09268">2603.09268</a></td>
 </tr>
 </tbody></table>

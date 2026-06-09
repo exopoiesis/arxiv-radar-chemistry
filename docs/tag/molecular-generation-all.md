@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-generation — all</h1>
-  <span class="paper-count">215 papers</span>
+  <span class="paper-count">217 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
+<td>Tuan A. Vu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09664">2606.09664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08221.html">De novo molecular generation with optical property preconditioning at the token level</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Haozhe Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08221">2606.08221</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05847.html">Agentic Molecular Recovery via Molecule-Aware Exploration</a></div></td>

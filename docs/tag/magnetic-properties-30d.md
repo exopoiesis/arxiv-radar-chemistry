@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>A. Koda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08915">2606.08915</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Tamer Taşkıran et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08820.html">Chiral Surface Phonons</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Mike Pols et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08820">2606.08820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08333.html">Nearly ballistic transport and high magnetic-field sensitivity in a $\text{Bi}_4\text{Br}_4$ topological Josephson weak link</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Enamul Haque et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08333">2606.08333</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07138.html">Chromium chalcohalide Janus monolayer ferromagnets with perpendicular magnetic anisotropy and high Curie temperature</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>M. Bosnar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07138">2606.07138</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03908.html">Spin-chiral electron-phonon coupling in metallic strontium titanate</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>

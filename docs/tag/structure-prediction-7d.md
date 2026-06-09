@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07927.html">Mathematical crystal chemistry: A formal theory for crystal structure prediction by generalized disjunctive programming</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
+<td>Ryotaro Koshoji</td>
+<td><a href="http://arxiv.org/abs/2606.07927">2606.07927</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04452.html">DeltaDiff: Training-Free, Physics-Guided Machine Learning for Predicting Mutant Protein Structures</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a></div></td>
 <td>Yajie Cai et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03199.html">Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Alston Lo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03199">2606.03199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a> · <a href="replica-exchange-7d.html">replica-exchange</a></div></td>
-<td>Sung Won Yun et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
 </tr>
 </tbody></table>

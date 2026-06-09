@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-generation — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
+<td>Tuan A. Vu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09664">2606.09664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08221.html">De novo molecular generation with optical property preconditioning at the token level</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Haozhe Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08221">2606.08221</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05847.html">Agentic Molecular Recovery via Molecule-Aware Exploration</a></div></td>
@@ -116,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10230.html">FORGE: Fragment-Oriented Ranking and Generation for Context-Aware Molecular Optimization</a></div></td>
 <td>Qingchuan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10230">2605.10230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08954.html">MolWorld: Molecule World Models for Actionable Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Yang Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08954">2605.08954</a></td>
 </tr>
 </tbody></table>

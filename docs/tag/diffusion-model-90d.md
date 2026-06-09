@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
+<td>Gianluca Scarpellini et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08375">2606.08375</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06303.html">Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
@@ -722,23 +728,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10811.html">Protein Counterfactuals via Diffusion-Guided Latent Optimization</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Weronika Kłos et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10811">2603.10811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11334.html">MARRS: Masked Autoregressive Unit-based Reaction Synthesis</a></div></td>
-<td>Yabiao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11334">2505.11334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09744.html">AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Bonwook Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09744">2603.09744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10093.html">Equivariant Asynchronous Diffusion: An Adaptive Denoising Schedule for Accelerated Molecular Conformation Generation</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Junyi An et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10093">2603.10093</a></td>
 </tr>
 </tbody></table>

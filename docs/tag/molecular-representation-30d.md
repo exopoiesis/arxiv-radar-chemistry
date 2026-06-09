@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09480.html">Loss-Guided Adaptive Scale Refinement for Molecular Force Prediction</a></div></td>
+<td>Limin Yu</td>
+<td><a href="http://arxiv.org/abs/2606.09480">2606.09480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07698.html">Pharmacogenomic Knowledge Graph Augmentation for Graph Neural Network-Based Drug-Drug Interaction Prediction</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Juergen Dietrich</td>
+<td><a href="http://arxiv.org/abs/2606.07698">2606.07698</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05693.html">MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>

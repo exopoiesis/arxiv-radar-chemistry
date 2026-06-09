@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">279 papers</span>
+  <span class="paper-count">281 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09611.html">Lattice genome: representation and analysis of heterogeneous crystalline microstructures</a></div></td>
+<td>Jiayang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09611">2606.09611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07927.html">Mathematical crystal chemistry: A formal theory for crystal structure prediction by generalized disjunctive programming</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Ryotaro Koshoji</td>
+<td><a href="http://arxiv.org/abs/2606.07927">2606.07927</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06289.html">Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>T. A. M. Ragib Shahriar et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06289">2606.06289</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06706.html">Plasticity of Neutron Star Crusts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Matthew E Caplan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06706">2606.06706</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-03</td>
@@ -1682,11 +1700,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12888.html">Disorder by Design: Unveiling Local Structure and Functional Insights in High Entropy Oxides</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>John P. Barber et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12888">2506.12888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08653.html">Accelerating Discovery of Metal-Insulator Transition Compounds Using Physics-Informed Machine Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Alexandru B. Georgescu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08653">2404.08653</a></td>
 </tr>
 </tbody></table>

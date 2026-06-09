@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermodynamic-integration — all</h1>
-  <span class="paper-count">222 papers</span>
+  <span class="paper-count">224 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09575.html">k-Means Clustering in Fingerprint-Based Configuration Selection for Fitting Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Miroslav Lebeda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09575">2606.09575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07095.html">Cocktail effect and robust Berry curvature driven anomalous Hall conductivity in the entropy-stabilized Heusler alloy Co$_2$(Ti$_{0.25}$V$_{0.25}$Cr$_{0.25}$Fe$_{0.25}$)Al</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Suraj Kushwaha et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07095">2606.07095</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04803.html">Machine learning via artificial neural networks coupled with density functional theory and experiments for thermodynamic optimization of high-entropy alloys for hydrogen storage at room temperature</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>

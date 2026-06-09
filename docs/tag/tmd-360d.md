@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmd — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <strong>360d</strong> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21793.html">Understanding and Controlling V-Doping and S-Vacancy Behavior in Two-Dimensional Semiconductors- Toward Predictive Design</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Shreya Mathela et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21793">2506.21793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11488.html">Uni-Traveling-Carrier Photodiode Based on MoS2/GaN van der Waals Heterojunction for High-Speed Visible-Light Detection</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Takuya Kadowaki et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11488">2506.11488</a></td>
 </tr>
 </tbody></table>

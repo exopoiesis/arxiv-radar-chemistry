@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a></div></td>
+<td>Tuan A. Vu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09664">2606.09664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08221.html">De novo molecular generation with optical property preconditioning at the token level</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Haozhe Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08221">2606.08221</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05847.html">Agentic Molecular Recovery via Molecule-Aware Exploration</a></div></td>
 <td>Suwan Yoon et al.</td>
@@ -32,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03660.html">From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models</a></div><div class="paper-tags"><a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
 <td>Hongyu Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03660">2606.03660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01595.html">Uncertainty-Calibrated Diffusion for Reliable 3D Molecular Graph Generation</a></div></td>
-<td>Fang Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01595">2606.01595</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02902.html">Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Esmaeil Shakeri et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02902">2606.02902</a></td>
 </tr>
 </tbody></table>

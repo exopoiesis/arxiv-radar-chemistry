@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09624.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Dongming Mei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09624">2605.09624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08988.html">Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Amir Masoud Nourollah et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08988">2605.08988</a></td>
 </tr>
 </tbody></table>

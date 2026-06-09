@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">265 papers</span>
+  <span class="paper-count">266 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08647.html">Protein Dynamics Beyond Structure Prediction</a></div></td>
+<td>Juliette Griffié et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08647">2606.08647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07301.html">Structure-guided taxonomic placement of divergent RNA viruses with ViraClass</a></div></td>
+<td>Sheng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07301">2606.07301</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04566.html">AF_Cache: Efficient Pipeline for Running AlphaFold for High-Throughput Protein-Protein Interaction Prediction</a></div></td>
@@ -1598,11 +1610,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09372.html">Inverse problems with experiment-guided AlphaFold</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Advaith Maddipatla et al.</td>
 <td><a href="http://arxiv.org/abs/2502.09372">2502.09372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07833.html">Improving Large Language Models with Concept-Aware Fine-Tuning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Michael K. Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07833">2506.07833</a></td>
 </tr>
 </tbody></table>

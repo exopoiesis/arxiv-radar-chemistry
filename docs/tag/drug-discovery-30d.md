@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08973.html">A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Sheng-Ya Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08973">2606.08973</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>João G. C. S. Duarte et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06717.html">ShallowBench: Benchmarking Generative Drug Design Models on Shallow-Pocket Targets</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Saket Reddy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06717">2606.06717</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
@@ -212,29 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10722.html">On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Sam Money-Kyrle et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10722">2605.10722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08659.html">Pushing Biomolecular Utility-Diversity Frontiers with Supergroup Relative Policy Optimization</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Xinwu Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08659">2605.08659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08767.html">From Holo Pockets to Electron Density: GPT-style Drug Design with Density</a></div></td>
-<td>Jiahao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08767">2605.08767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08954.html">MolWorld: Molecule World Models for Actionable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Yang Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08954">2605.08954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08988.html">Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Amir Masoud Nourollah et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08988">2605.08988</a></td>
 </tr>
 </tbody></table>

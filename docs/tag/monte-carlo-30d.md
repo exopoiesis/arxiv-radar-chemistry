@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08686.html">Information Entropy Based Crystal Structure Prediction of Chemically Disordered Alloys via Graph Convolutional Neural Networks</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Suman Chabri et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08686">2606.08686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06673.html">Uncertainty-Aware LLM-Guided Policy Shaping for Sparse-Reward Reinforcement Learning</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Ujjwal Bhatta et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06673">2606.06673</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03235.html">Monte-Carlo study of Compositional Heterogeneity in Multicomponent Cluster Crystals</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
@@ -140,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10654.html">Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Jixiang Qing et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10654">2605.10654</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08728.html">Multi-Fidelity Computational Screening of High-Entropy MBenes for CO$_2$ Electroreduction</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Sree Harsha Bharadwaj H et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08728">2605.08728</a></td>
 </tr>
 </tbody></table>

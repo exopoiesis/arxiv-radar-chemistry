@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>multimodal-llm — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <strong>30d</strong> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10187.html">SciVQR: A Multidisciplinary Multimodal Benchmark for Advanced Scientific Reasoning Evaluation</a></div></td>
 <td>Longteng Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10187">2605.10187</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08924.html">PPI2Text: Captioning Protein-Protein Interactions with Coordinate-Aligned Pair-Map Decoding</a></div></td>
-<td>Xiao Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08924">2605.08924</a></td>
 </tr>
 </tbody></table>

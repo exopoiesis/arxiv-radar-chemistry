@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Benhao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10251">2606.10251</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08688.html">PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback</a></div></td>
 <td>Chunji Lv et al.</td>
@@ -3530,11 +3536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10506.html">Nudged-Elastic Band Calculations of Polymorph Transitions and Solid-State Reactions in Molecular Crystals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Natalia Goncharova et al.</td>
 <td><a href="http://arxiv.org/abs/2410.10506">2410.10506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12396.html">Uniaxial stress tuning of interfacial thermal conductance in cubic BAs/4H-SiC heterostructures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12396">2506.12396</a></td>
 </tr>
 </tbody></table>

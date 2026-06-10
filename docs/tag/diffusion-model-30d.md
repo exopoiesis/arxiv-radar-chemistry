@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Michael Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
@@ -182,17 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11125.html">Language Modeling with Hyperspherical Flows</a></div></td>
 <td>Justin Deschenaux et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11125">2605.11125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09749.html">Primal-Dual Guided Decoding for Constrained Discrete Diffusion</a></div></td>
-<td>Federico Tomasi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09749">2605.09749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09810.html">TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation</a></div><div class="paper-tags"><a href="protein-function-30d.html">protein-function</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Hanqun Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09810">2605.09810</a></td>
 </tr>
 </tbody></table>

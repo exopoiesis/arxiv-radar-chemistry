@@ -34,6 +34,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.09763">2606.09763</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10103.html">Minimization of disorder as a key design principle for natural sizes of light harvesting 2 complexes</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Kwang Hyun Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10103">2606.10103</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04868.html">Resolving the Blueshift in Calculations of the EUV Spectrum of Multiply Charged Tin Ions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>M. L. Reitsma et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05148.html">Variational low-energy subspaces for chemically accurate excited states</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
 <td>Clemens Giuliani et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05148">2606.05148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03709.html">Augmented Roothaan-Hall Hessian Applied to Spin-Restricted Open-Shell Density-Functional Theory</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Yichi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03709">2606.03709</a></td>
 </tr>
 </tbody></table>

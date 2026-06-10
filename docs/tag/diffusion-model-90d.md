@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Michael Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
@@ -716,17 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12969.html">Rapid Identification of Moving Contaminant Sources Through Physics-Based Modelling</a></div></td>
 <td>Marco Mattuschka et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12969">2603.12969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16325.html">UltraGen: Efficient Ultra-High-Resolution Image Generation with Hierarchical Local Attention</a></div></td>
-<td>Yuyao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16325">2510.16325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10811.html">Protein Counterfactuals via Diffusion-Guided Latent Optimization</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Weronika Kłos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10811">2603.10811</a></td>
 </tr>
 </tbody></table>

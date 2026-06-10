@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10741.html">Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Hansheng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10741">2606.10741</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10995.html">Ab initio study of magnetism in pristine and defective MnBi2Te4</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Ana Beatriz Pedro Fontes et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10995">2606.10995</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08955.html">Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Katsunori Wakabayashi et al.</td>
@@ -878,17 +890,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11672.html">Rainbow Scattering from Graphene</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Carolin Frank et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11672">2603.11672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10433.html">Ab initio quantum embedding description of magic angle twisted bilayer graphene at even-integer fillings</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Raehyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10433">2603.10433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10955.html">Ab-initio superfluid weight and superconducting penetration depth</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Kaja H. Hiorth et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10955">2603.10955</a></td>
 </tr>
 </tbody></table>

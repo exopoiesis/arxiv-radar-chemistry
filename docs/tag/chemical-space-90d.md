@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-space — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <strong>90d</strong> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Benhao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10251">2606.10251</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
@@ -212,17 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15669.html">V2Rho-FNO: Fourier Neural Operator for Electronic Density Prediction</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Yingdi Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15669">2603.15669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09566.html">Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Junkai Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2512.09566">2512.09566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06112.html">Network-based drug repurposing for MYH9-related nephritis</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Muhammad Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06112">2603.06112</a></td>
 </tr>
 </tbody></table>

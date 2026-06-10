@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,17 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12885.html">Enhanced Drug-drug Interaction Prediction Using Adaptive Knowledge Integration</a></div></td>
 <td>Pengfei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12885">2603.12885</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09566.html">Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Junkai Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2512.09566">2512.09566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10395.html">Graph-GRPO: Training Graph Flow Models with Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Baoheng Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10395">2603.10395</a></td>
 </tr>
 </tbody></table>

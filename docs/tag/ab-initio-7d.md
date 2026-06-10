@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10272.html">Rainbow RABBITT as a Probe of Coherent Rabi Dynamics</a></div></td>
+<td>Vladislav V. Serov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10272">2606.10272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11027.html">Direction-Dependent Quantum Transport Properties of MoS$_2$ Integrated into Biphenylene Configuration</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Gözde Özbal Sargın</td>
+<td><a href="http://arxiv.org/abs/2606.11027">2606.11027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11153.html">Quantum Monte Carlo calculations of Zemach moments in $A\leq 9$ nuclei</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Garrett B. King et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11153">2606.11153</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
@@ -56,6 +74,30 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Felix Post et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10077.html">Atomic-scale visualization of the toroidal order in a trimeric Dy(III) single-molecule toroic</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Michael J. Jenkins et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10077">2606.10077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10101.html">Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Yao Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10101">2606.10101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10178.html">Pressure-Driven Structural Phase Competition and Functional Response in Layered LiInP2S6</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>Xiaochi Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10178">2606.10178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Patrick Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -200,29 +242,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Jonathan S. Evarts et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03710.html">Mechanochemical Nano-Writing of an Atomically Thin Metal</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="thermal-properties-7d.html">thermal-properties</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Shuai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03710">2606.03710</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03908.html">Spin-chiral electron-phonon coupling in metallic strontium titanate</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>N. Somun et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03908">2606.03908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03993.html">Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider</a></div></td>
-<td>Giuliano Giacalone et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03993">2606.03993</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04252.html">High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Arpan Das</td>
-<td><a href="http://arxiv.org/abs/2606.04252">2606.04252</a></td>
 </tr>
 </tbody></table>

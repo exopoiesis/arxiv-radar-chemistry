@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.08973">2606.08973</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10195.html">Graphlet Histogram Representation Database of Inorganic Crystals</a></div></td>
+<td>Aaditya Panigrahi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10195">2606.10195</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08825.html">When Three-Dimensional Conformer Ensembles Improve Molecular Property Prediction Beyond Two-Dimensional Fingerprints: A Systematic Study</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Bryan Cheng et al.</td>
@@ -1496,11 +1502,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17345.html">CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Changwen Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17345">2506.17345</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12516.html">Information fusion strategy integrating pre-trained language model and contrastive learning for materials knowledge mining</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Yongqian Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12516">2506.12516</a></td>
 </tr>
 </tbody></table>

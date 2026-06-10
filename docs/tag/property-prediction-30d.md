@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08973.html">A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Sheng-Ya Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08973">2606.08973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10195.html">Graphlet Histogram Representation Database of Inorganic Crystals</a></div></td>
+<td>Aaditya Panigrahi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10195">2606.10195</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -146,17 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
 <td>H. Ibrahim Erdogan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10551">2605.10551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09311.html">Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Jiyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09311">2605.09311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09624.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Dongming Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09624">2605.09624</a></td>
 </tr>
 </tbody></table>

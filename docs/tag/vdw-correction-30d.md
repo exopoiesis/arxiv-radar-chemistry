@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10741.html">Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Hansheng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10741">2606.10741</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Micah P. Prange et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11941.html">Poisoning mechanism of ammonia on proton transport and ionomer structure in cathode catalyst layer of PEM fuel cells</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Yichao Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11941">2605.11941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09529.html">Stacking-dependent thermoelectric transport in layered Sc_2Si_2Te_6 from first principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Zhongjuan Han et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09529">2605.09529</a></td>
 </tr>
 </tbody></table>

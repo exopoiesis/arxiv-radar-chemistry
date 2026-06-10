@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11057.html">Flexible Kernels for Protein Property Prediction</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Martin Jankowiak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11057">2606.11057</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06717.html">ShallowBench: Benchmarking Generative Drug Design Models on Shallow-Pocket Targets</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Saket Reddy et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10722.html">On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a></div></td>
 <td>Sam Money-Kyrle et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10722">2605.10722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09810.html">TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-function-30d.html">protein-function</a></div></td>
-<td>Hanqun Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09810">2605.09810</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10741.html">Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Hansheng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10741">2606.10741</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10750.html">UnReal-B : Real-Space DFT Solver for Matter in Extreme Magnetic Fields</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Bhalchandra S. Pujari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10750">2606.10750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11027.html">Direction-Dependent Quantum Transport Properties of MoS$_2$ Integrated into Biphenylene Configuration</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Gözde Özbal Sargın</td>
+<td><a href="http://arxiv.org/abs/2606.11027">2606.11027</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>A. Koda et al.</td>
@@ -74,6 +92,30 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09763.html">RPA as a Hessian Closure: Effective Functionals and Source-Variable Duality Across DFT, LR-TDDFT, 1RDMFT, and MBPT</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
 <td>Nan Sheng</td>
 <td><a href="http://arxiv.org/abs/2606.09763">2606.09763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10063.html">Dominant in-plane anomalous Hall effect in a monoclinic room-temperature ferromagnet</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Guoxin Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10063">2606.10063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10101.html">Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Yao Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10101">2606.10101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10178.html">Pressure-Driven Structural Phase Competition and Functional Response in Layered LiInP2S6</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>Xiaochi Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10178">2606.10178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Benhao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10251">2606.10251</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -212,47 +254,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Jonathan S. Evarts et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Cheng-Han Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03140">2606.03140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03235.html">Monte-Carlo study of Compositional Heterogeneity in Multicomponent Cluster Crystals</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Roshan Maharana et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03235">2606.03235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03575.html">Acenaphthene Derivatives as Signatures of C$_{11}$H$_9^+$ Reactivity with Methylated Naphthalenes</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Ana I. Lozano et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03575">2606.03575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03709.html">Augmented Roothaan-Hall Hessian Applied to Spin-Restricted Open-Shell Density-Functional Theory</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Yichi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03709">2606.03709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03710.html">Mechanochemical Nano-Writing of an Atomically Thin Metal</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="thermal-properties-7d.html">thermal-properties</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Shuai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03710">2606.03710</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03764.html">RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
-<td>Frank M. Abel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03764">2606.03764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04252.html">High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Arpan Das</td>
-<td><a href="http://arxiv.org/abs/2606.04252">2606.04252</a></td>
 </tr>
 </tbody></table>

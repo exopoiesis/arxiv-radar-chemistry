@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10075.html">An algorithm for dynamical quantum optimal transport with applications to quantum chemistry</a></div></td>
+<td>Genevieve Dusson et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10075">2606.10075</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05865.html">Symmetry-adapted qubit encoding with complete active space and Bravyi--Kitaev mapping for quantum chemistry on a quantum computer</a></div></td>
 <td>Dario Picozzi et al.</td>
@@ -638,11 +644,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11009.html">Linear-Scaling Tensor Train Sketching</a></div></td>
 <td>Paul Cazeaux et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11009">2603.11009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20496.html">Orbital-interaction-aware deep learning model for efficient surface chemistry simulations</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Zhihao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20496">2507.20496</a></td>
 </tr>
 </tbody></table>

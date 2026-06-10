@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Michael Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08802.html">Active Flow Expansion for Out-of-Distribution Discovery: from Theory to Molecules</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Felix Post et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Benhao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10251">2606.10251</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -1064,17 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16346.html">Preferred Synthesis of Armchair Transition Metal Dichalcogenide Nanotubes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Abid et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16346">2506.16346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11247.html">Reliable Viscosity Calculation from High-Pressure Equilibrium Molecular Dynamics: Case Study of 2,2,4-Trimethylhexane</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Gözdenur Toraman et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11247">2603.11247</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15294.html">UniMatSim: A High-Throughput Materials Simulation Automation Framework Based on Universal Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Yanjin Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15294">2603.15294</a></td>
 </tr>
 </tbody></table>

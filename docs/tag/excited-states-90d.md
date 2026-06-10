@@ -34,6 +34,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.09763">2606.09763</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10103.html">Minimization of disorder as a key design principle for natural sizes of light harvesting 2 complexes</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Kwang Hyun Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10103">2606.10103</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04868.html">Resolving the Blueshift in Calculations of the EUV Spectrum of Multiply Charged Tin Ions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>M. L. Reitsma et al.</td>
@@ -422,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12373.html">Nuclear-Electronic Quantum Dynamics in a Plasmonic Nanocavity</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Jonathan H. Fetherolf et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12373">2603.12373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14679.html">Nonlinear Landau levels in the almost-bosonic anyon gas</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Alireza Ataei et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14679">2510.14679</a></td>
 </tr>
 </tbody></table>

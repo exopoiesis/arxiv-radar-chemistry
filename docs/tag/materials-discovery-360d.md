@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">262 papers</span>
+  <span class="paper-count">261 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1580,11 +1580,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00024.html">AIMatDesign: Knowledge-Augmented Reinforcement Learning for Inverse Materials Design under Data Scarcity</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Yeyong Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00024">2507.00024</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12516.html">Information fusion strategy integrating pre-trained language model and contrastive learning for materials knowledge mining</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Yongqian Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12516">2506.12516</a></td>
 </tr>
 </tbody></table>

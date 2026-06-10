@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08973.html">A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Sheng-Ya Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08973">2606.08973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10195.html">Graphlet Histogram Representation Database of Inorganic Crystals</a></div></td>
+<td>Aaditya Panigrahi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10195">2606.10195</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>

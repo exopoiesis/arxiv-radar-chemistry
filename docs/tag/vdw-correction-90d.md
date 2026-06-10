@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vdw-correction — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <strong>90d</strong> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10741.html">Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Hansheng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10741">2606.10741</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
@@ -224,17 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05539.html">Towards &quot;on-demand&quot; van der Waals epitaxy with an adaptive resource-driven online ensemble sampling simulation framework</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Soumendu Bagchi et al.</td>
 <td><a href="http://arxiv.org/abs/2504.05539">2504.05539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14548.html">Potential Energy Curves of Hydrogenic Halides HX(F,Cl,Br) and i-DMFT Method</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>H Olivares Pilon et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14548">2602.14548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10824.html">Magnetic criticality and magnetocaloric response in MnBi$_2$Te$_4$ and MnBi$_4$Te$_7$</a></div></td>
-<td>Nazma Firdosh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10824">2603.10824</a></td>
 </tr>
 </tbody></table>

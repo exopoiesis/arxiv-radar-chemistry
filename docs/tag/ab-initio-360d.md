@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1616 papers</span>
+  <span class="paper-count">1622 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10272.html">Rainbow RABBITT as a Probe of Coherent Rabi Dynamics</a></div></td>
+<td>Vladislav V. Serov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10272">2606.10272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11027.html">Direction-Dependent Quantum Transport Properties of MoS$_2$ Integrated into Biphenylene Configuration</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Gözde Özbal Sargın</td>
+<td><a href="http://arxiv.org/abs/2606.11027">2606.11027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11153.html">Quantum Monte Carlo calculations of Zemach moments in $A\leq 9$ nuclei</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Garrett B. King et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11153">2606.11153</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
@@ -56,6 +74,30 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Felix Post et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10077.html">Atomic-scale visualization of the toroidal order in a trimeric Dy(III) single-molecule toroic</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Michael J. Jenkins et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10077">2606.10077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10101.html">Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Yao Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10101">2606.10101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10178.html">Pressure-Driven Structural Phase Competition and Functional Response in Layered LiInP2S6</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Xiaochi Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10178">2606.10178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Patrick Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -9704,11 +9746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13696.html">Photomagnetic-Chiral Anisotropy mediated by Chirality-Driven Asymmetric Spin Splitting</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Tianwei Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13696">2506.13696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12396.html">Uniaxial stress tuning of interfacial thermal conductance in cubic BAs/4H-SiC heterostructures</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12396">2506.12396</a></td>
 </tr>
 </tbody></table>

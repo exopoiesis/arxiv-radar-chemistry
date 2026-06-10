@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11153.html">Quantum Monte Carlo calculations of Zemach moments in $A\leq 9$ nuclei</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Garrett B. King et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11153">2606.11153</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08686.html">Information Entropy Based Crystal Structure Prediction of Chemically Disordered Alloys via Graph Convolutional Neural Networks</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
@@ -560,17 +566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12053.html">Topological Enhancement of Protein Kinetic Stability</a></div></td>
 <td>João NC Especial et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12053">2603.12053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09566.html">Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Junkai Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2512.09566">2512.09566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10395.html">Graph-GRPO: Training Graph Flow Models with Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Baoheng Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10395">2603.10395</a></td>
 </tr>
 </tbody></table>

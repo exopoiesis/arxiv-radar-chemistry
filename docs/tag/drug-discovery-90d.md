@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,35 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12349.html">Budget-Sensitive Discovery Scoring: A Formally Verified Framework for Evaluating AI-Guided Scientific Selection</a></div></td>
 <td>Abhinaba Basu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12349">2603.12349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09566.html">Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Junkai Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2512.09566">2512.09566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06112.html">Network-based drug repurposing for MYH9-related nephritis</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
-<td>Muhammad Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06112">2603.06112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10395.html">Graph-GRPO: Training Graph Flow Models with Reinforcement Learning</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Baoheng Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10395">2603.10395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11125.html">Co-Diffusion: An Affinity-Aware Two-Stage Latent Diffusion Framework for Generalizable Drug-Target Affinity Prediction</a></div></td>
-<td>Yining Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11125">2603.11125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12293.html">Multi-objective Genetic Programming with Multi-view Multi-level Feature for Enhanced Protein Secondary Structure Prediction</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Yining Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12293">2603.12293</a></td>
 </tr>
 </tbody></table>

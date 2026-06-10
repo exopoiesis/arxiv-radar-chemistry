@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">429 papers</span>
+  <span class="paper-count">425 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10272.html">Rainbow RABBITT as a Probe of Coherent Rabi Dynamics</a></div></td>
+<td>Vladislav V. Serov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10272">2606.10272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11027.html">Direction-Dependent Quantum Transport Properties of MoS$_2$ Integrated into Biphenylene Configuration</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Gözde Özbal Sargın</td>
+<td><a href="http://arxiv.org/abs/2606.11027">2606.11027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11153.html">Quantum Monte Carlo calculations of Zemach moments in $A\leq 9$ nuclei</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Garrett B. King et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11153">2606.11153</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
@@ -56,6 +74,30 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Felix Post et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10077.html">Atomic-scale visualization of the toroidal order in a trimeric Dy(III) single-molecule toroic</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Michael J. Jenkins et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10077">2606.10077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10101.html">Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Yao Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10101">2606.10101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10178.html">Pressure-Driven Structural Phase Competition and Functional Response in Layered LiInP2S6</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Xiaochi Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10178">2606.10178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Patrick Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -2522,71 +2564,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12336.html">Electronic correlations and dynamical screening with ab initio quantum embedding</a></div></td>
 <td>Chia-Nan Yeh et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12336">2603.12336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22826.html">Droplet rebounds off a fluid bath at low Weber numbers</a></div></td>
-<td>Elvis A. Agüero et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22826">2509.22826</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23433.html">Ab initio recombination in the evolving ultracold plasmas</a></div></td>
-<td>Yurii V. Dumin et al.</td>
-<td><a href="http://arxiv.org/abs/2512.23433">2512.23433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14548.html">Potential Energy Curves of Hydrogenic Halides HX(F,Cl,Br) and i-DMFT Method</a></div><div class="paper-tags"><a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>H Olivares Pilon et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14548">2602.14548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06978.html">Ab initio study of the halo structure in $^{11}$Be</a></div></td>
-<td>Shihang Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06978">2603.06978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10433.html">Ab initio quantum embedding description of magic angle twisted bilayer graphene at even-integer fillings</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Raehyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10433">2603.10433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10667.html">Low-loss phase-change material based programmable mode converter for photonic computing</a></div></td>
-<td>Xueyang Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10667">2603.10667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10838.html">Modeling anisotropic energy dissipation of light ions at the atomistic scale</a></div></td>
-<td>Evgeniia Ponomareva et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10838">2603.10838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10966.html">Microscopic screening theory for excitons in two-dimensional materials: A bridge between effective models and ab initio descriptions</a></div></td>
-<td>P. Ninhos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10966">2603.10966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10998.html">Dzyaloshinskii-Moriya-driven instabilities in square-kagome quantum antiferromagnets</a></div></td>
-<td>Leonid S. Taran et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10998">2603.10998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11207.html">Kraus map closed-form solution for general master equation dynamics</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Shahrukh Chishti et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11207">2603.11207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15294.html">UniMatSim: A High-Throughput Materials Simulation Automation Framework Based on Universal Machine Learning Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Yanjin Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15294">2603.15294</a></td>
 </tr>
 </tbody></table>

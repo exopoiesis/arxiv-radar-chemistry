@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10741.html">Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Hansheng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10741">2606.10741</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10750.html">UnReal-B : Real-Space DFT Solver for Matter in Extreme Magnetic Fields</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Bhalchandra S. Pujari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10750">2606.10750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11027.html">Direction-Dependent Quantum Transport Properties of MoS$_2$ Integrated into Biphenylene Configuration</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Gözde Özbal Sargın</td>
+<td><a href="http://arxiv.org/abs/2606.11027">2606.11027</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>A. Koda et al.</td>
@@ -74,6 +92,30 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09763.html">RPA as a Hessian Closure: Effective Functionals and Source-Variable Duality Across DFT, LR-TDDFT, 1RDMFT, and MBPT</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Nan Sheng</td>
 <td><a href="http://arxiv.org/abs/2606.09763">2606.09763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10063.html">Dominant in-plane anomalous Hall effect in a monoclinic room-temperature ferromagnet</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Guoxin Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10063">2606.10063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10101.html">Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Yao Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10101">2606.10101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10178.html">Pressure-Driven Structural Phase Competition and Functional Response in Layered LiInP2S6</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Xiaochi Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10178">2606.10178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Benhao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10251">2606.10251</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -3446,47 +3488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12424.html">Structural flexibility dictates reactivity of single-atom catalysts</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Jakub Planer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12424">2603.12424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03845.html">Approximate normalizations for approximate density functionals</a></div></td>
-<td>Adam Clay et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03845">2504.03845</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14679.html">Nonlinear Landau levels in the almost-bosonic anyon gas</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Alireza Ataei et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14679">2510.14679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10433.html">Ab initio quantum embedding description of magic angle twisted bilayer graphene at even-integer fillings</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Raehyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10433">2603.10433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10794.html">Electronic Structure and Resonant Circular Dichroism of La$_{0.7}$Sr$_{0.3}$MnO$_3$ from Soft X-ray Angle-Resolved Photoemission</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Øyvind Finnseth et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10794">2603.10794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10955.html">Ab-initio superfluid weight and superconducting penetration depth</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Kaja H. Hiorth et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10955">2603.10955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11268.html">Linear response of the Chern insulator MnBi$_2$Te$_4$: A Wannier function approach</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Matthew Albert et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11268">2603.11268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15294.html">UniMatSim: A High-Throughput Materials Simulation Automation Framework Based on Universal Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Yanjin Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15294">2603.15294</a></td>
 </tr>
 </tbody></table>

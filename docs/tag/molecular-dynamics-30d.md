@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10441.html">Sequential Clusterization of Light Nuclei and Hypernuclei in Heavy-Ion Collisions within a Wigner Function Coalescence Framework</a></div></td>
+<td>Junyi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10441">2606.10441</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10779.html">NANOG assembles into self-limiting aging micelles that drive a sol-gel transition and modulate DNA dynamics</a></div></td>
+<td>Amandine Hong-Minh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10779">2606.10779</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09146.html">Molecular dynamic simulation of multicomponent CoCrFeNiMn high-entropy alloy thin film deposition</a></div></td>
@@ -38,6 +50,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09575.html">k-Means Clustering in Fingerprint-Based Configuration Selection for Fitting Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Miroslav Lebeda et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09575">2606.09575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10103.html">Minimization of disorder as a key design principle for natural sizes of light harvesting 2 complexes</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Kwang Hyun Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10103">2606.10103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Patrick Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -752,35 +776,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11253.html">Low-rank compression of two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Kemal Atalar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11253">2605.11253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09311.html">Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Jiyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09311">2605.09311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Nima Karimitari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09394">2605.09394</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09495.html">Enabling Structure-Only Initialization and Out-of-Distribution Generalization in GNN-based Molecular Dynamics Simulators</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>S. A. Shteingolts et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09495">2605.09495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09708.html">Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon</a></div></td>
-<td>Víctor Gallego</td>
-<td><a href="http://arxiv.org/abs/2605.09708">2605.09708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09752.html">Polarizable Embedding QM/MM for Periodic Systems</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Julian Bessner et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09752">2605.09752</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
+<td>Michael Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
@@ -38,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div></td>
 <td>Yuyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03524.html">Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Antonio Torregrosa Abellán et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03524">2606.03524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03881.html">Suppressed diffusion and gamma-ray emission from the Cygnus Bubble</a></div></td>
-<td>Ben Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03881">2606.03881</a></td>
 </tr>
 </tbody></table>

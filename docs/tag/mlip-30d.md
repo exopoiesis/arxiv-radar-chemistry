@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Benhao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10251">2606.10251</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08688.html">PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback</a></div></td>
 <td>Chunji Lv et al.</td>
@@ -326,11 +332,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11610.html">Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Zeyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11610">2605.11610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09394.html">Systematic Fine-Tuning of MACE Interatomic Potentials for Catalysis</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Nima Karimitari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09394">2605.09394</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10797.html">Magnetic Moment of Octet Baryons in Isospin Asymmetric Magnetized Strange Matter</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Akshada Waman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10797">2606.10797</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Minaam Qamar et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05050.html">Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin</a></div></td>
 <td>Zhilong Song et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05050">2606.05050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03461.html">What Makes Interaction Trajectories Effective for Training Terminal Agents?</a></div></td>
-<td>Sidi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03461">2606.03461</a></td>
 </tr>
 </tbody></table>

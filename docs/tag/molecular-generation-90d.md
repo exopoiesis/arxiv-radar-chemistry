@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-generation — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12734.html">VecMol: Vector-Field Representations for 3D Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Yuchen Hua et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12734">2603.12734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09566.html">Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Junkai Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2512.09566">2512.09566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10395.html">Graph-GRPO: Training Graph Flow Models with Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Baoheng Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10395">2603.10395</a></td>
 </tr>
 </tbody></table>

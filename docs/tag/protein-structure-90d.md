@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11057.html">Flexible Kernels for Protein Property Prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Martin Jankowiak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11057">2606.11057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Michael Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08647.html">Protein Dynamics Beyond Structure Prediction</a></div></td>
 <td>Juliette Griffié et al.</td>
@@ -398,17 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23179.html">Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Gal Kesten-Pomeranz et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23179">2602.23179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10811.html">Protein Counterfactuals via Diffusion-Guided Latent Optimization</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Weronika Kłos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10811">2603.10811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12293.html">Multi-objective Genetic Programming with Multi-view Multi-level Feature for Enhanced Protein Secondary Structure Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
-<td>Yining Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12293">2603.12293</a></td>
 </tr>
 </tbody></table>

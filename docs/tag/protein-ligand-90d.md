@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11057.html">Flexible Kernels for Protein Property Prediction</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Martin Jankowiak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11057">2606.11057</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06717.html">ShallowBench: Benchmarking Generative Drug Design Models on Shallow-Pocket Targets</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Saket Reddy et al.</td>
@@ -254,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16631.html">Ligand-Controlled Phonon Dynamics in CsPbBr3 Nanocrystals Revealed by Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
 <td>Seungjun Cha et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16631">2603.16631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.09566.html">Toward Closed-loop Molecular Discovery via Language Model, Property Alignment and Strategic Search</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Junkai Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2512.09566">2512.09566</a></td>
 </tr>
 </tbody></table>

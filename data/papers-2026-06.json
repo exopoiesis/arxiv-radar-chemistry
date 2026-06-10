@@ -5995,5 +5995,672 @@
    "Protein & Biomolecules"
   ],
   "updated": "2026-06-08"
+ },
+ "2606.10063": {
+  "abstract": "Ferromagnetic metals are characterized by enhanced dissipationless transverse transport responses via the anomalous Hall effect, offering a route towards magnetic sensing and spintronic readout functionalities. In most ferromagnets, the anomalous Hall current is constrained to lie in the plane perpendicular to the magnetization (or applied magnetic field). Recently, it has been recognized that selected symmetries can also permit a Hall response in a traditionally forbidden configuration, where the Hall current lies in the same plane as the magnetization, realizing an in-plane anomalous Hall effect. Reported realizations of this effect, however, are typically much weaker than the conventional Hall response in the same material. Here, through engineering specific crystallographic mirror symmetry-breaking, we realize a strongly enhanced in-plane anomalous Hall response in monoclinic Cr3Te4 with room-temperature ferromagnetism. Remarkably, the in-plane anomalous Hall signal exceeds the out-of-plane response by a factor of five, with which we demonstrate a unique in-plane field and current sensing functionality. Combined with density functional theory calculations, our results establish low-crystalline-symmetry ferromagnets with near-Fermi-level Weyl points as a practical platform for symmetry-engineered Hall responses, and point to a route towards room-temperature, geometry-flexible sensing devices.",
+  "authors": [
+   "Guoxin Zheng",
+   "Arjyama Bordoloi",
+   "Mingjun Fan",
+   "Shunsuke Kitou",
+   "Hiraku Saito",
+   "Taro Nakajima",
+   "Sobhit Singh",
+   "Takashi Kurumaji",
+   "Linda Ye"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Guoxin Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2606.10063",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "dft",
+   "magnetic-properties"
+  ],
+  "title": "Dominant in-plane anomalous Hall effect in a monoclinic room-temperature ferromagnet",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10075": {
+  "abstract": "Quantum optimal transport (QOT) is a rapidly developing field. Among the many formulations of this adaptation of classical optimal transport (OT) to spaces of density matrices, we numerically study a family of distances based on a dynamical formulation inspired by the Benamou-Brenier OT formulation. We introduce an interior-point regularized method to compute geodesics between positive semidefinite matrices and visualize the results in terms of integral kernels and densities, inspired by quantum chemistry applications. We show that dynamical QOT may provide a good approximation to certain problems in quantum chemistry with appropriate parameter tuning. We also study the numerical properties of the distances at hand, and the convergence of the objects when the size of the matrices increases.",
+  "authors": [
+   "Genevieve Dusson",
+   "Virginie Ehrlacher",
+   "Etienne Obermeyer"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Genevieve Dusson",
+  "pdf_url": "http://arxiv.org/pdf/2606.10075",
+  "primary_category": "math.OC",
+  "published": "2026-06-08",
+  "tags": [
+   "quantum-chemistry"
+  ],
+  "title": "An algorithm for dynamical quantum optimal transport with applications to quantum chemistry",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10077": {
+  "abstract": "Single-molecule toroics (SMTs) offer a unique platform for next-generation quantum devices utilizing head-to-tail spin alignments in the compounds. Presence of toroidal moments in SMTs has been essentially based on magnetometry and ab initio calculations. Here, we report observation and probe of the toroidal moment in [Dy3(OH)(teaH2)3(paa)3]Cl(OMe) [teaH3: triethanolamine; paaH: N-(2-pyridyl)-acetoacetamide] from mapping of Dy3+ magnetic susceptibility tensors by polarized neutron diffraction (PND). Neutron diffraction under variable magnetic fields demonstrates field-induced magnetization along the c-axis with toroidal moments anti-parallelly stacked, providing definite proof of the toroidal moment. Magnetometry studies confirm the toroidal ground state. For the first time, the combined use of PND, variable-field neutron diffraction, ab initio calculations, and magnetometry is introduced as a robust and quantitative methodology to probe molecular-scale toroidal magnetism. This integrated approach overcomes limitations of earlier indirect methods, establishes a benchmark framework for investigating SMTs, and provides valuable insights for the design of molecular quantum materials.",
+  "authors": [
+   "Michael J. Jenkins",
+   "Madalynn G. Marshall",
+   "Jie Xing",
+   "Muthu Satheeshkumar",
+   "Brandon D. Watson-Sanders",
+   "Xiaoping Wang",
+   "Christina M. Hoffmann",
+   "Gopalan Rajaraman",
+   "Huibo Cao",
+   "Rongying Jin",
+   "Zi-Ling Xue"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Michael J. Jenkins",
+  "pdf_url": "http://arxiv.org/pdf/2606.10077",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-08",
+  "tags": [
+   "ab-initio",
+   "magnetic-properties"
+  ],
+  "title": "Atomic-scale visualization of the toroidal order in a trimeric Dy(III) single-molecule toroic",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10080": {
+  "abstract": "Generative models have shown remarkable progress in a variety of domains such as protein design, but such power enables the opaque generation of hazardous proteins. In this work, we introduce VFUSE (Virulent Feature Understanding with Sparse autoEncoders), a mechanistic interpretability approach that trains SAEs on diffusion-transformer activations to audit protein models for hazard-aware features. We apply VFUSE to RoseTTAFold3 and RFDiffusion3, popular open-weight models for protein folding and synthesis. We find that for certain blocks, linear probes detect hazardous designs significantly better when fit in the SAE latent space over the original model's representations: improving interpretability without sacrificing model performance. Furthermore, we identify monosemantic features from the SAE that fire only on hazardous designs at up to AUROC $0.84$ ($q < 10^{-13}$). To our knowledge this is the first SAE trained on an all-atom diffusion model and the first feature-level virulence audit of a protein design model, paving the way towards safe and interpretable protein design.",
+  "authors": [
+   "Michael Yu",
+   "Matthew L. Olson"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Michael Yu",
+  "pdf_url": "http://arxiv.org/pdf/2606.10080",
+  "primary_category": "cs.LG",
+  "published": "2026-06-08",
+  "tags": [
+   "diffusion-model",
+   "generative-model",
+   "protein-structure"
+  ],
+  "title": "VFUSE: Virulent Feature Understanding with Sparse autoEncoders",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10101": {
+  "abstract": "We investigate the thermodynamic properties of elemental cerium by assessing the crucial role of phonon free energy within the framework of dynamical mean-field theory (DMFT). While conventional density functional theory (DFT) often fails to capture the intricate energy landscape of $f$-electron materials, our approach integrates many-body electronic correlations with lattice dynamics to achieve a more rigorous description of the equation of state. We calculate the total energy as a function of the lattice constant at both the DFT and DFT+DMFT levels, subsequently incorporating the vibrational free energy derived from the phonon density of states. Our findings reveal that electronic renormalisation of the force constants significantly alters the phonon spectra, particularly in the strongly correlated $γ$-phase. By applying these phonon corrections to the energy profiles, we observe a substantial refinement in the predicted equilibrium volumes. Using principal-component-based machine learning, we interpolate phonon dispersions continuously from a finite set of first-principles calculations and compare them to experiment, finding significantly closer agreement compared to conventional DFT and DFT+U calculations that neglect dynamical many-body correlations. This study underlines the necessity of accounting for both electronic and vibrational entropy when evaluating the phase stability and structural transitions of lanthanide systems under varying pressures and temperatures.",
+  "authors": [
+   "Yao Wei",
+   "Siyu Chen",
+   "Evgeny Plekhanov",
+   "Ivan Stich",
+   "Cedric Weber",
+   "Jan M. Tomczak"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "12 pages, 6 figures",
+  "first_author": "Yao Wei",
+  "pdf_url": "http://arxiv.org/pdf/2606.10101",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-08",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "free-energy"
+  ],
+  "title": "Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10103": {
+  "abstract": "The light harvesting 2 (LH2) complex of purple bacteria has excellent energy conversion efficiency. Clarifying the design principle behind such efficiency at the atomistic level is crucial for understanding its structure-function relationship, and can be utilized for the design of artificial light harvesting systems. To this end, we conducted comprehensive computational investigation of the dynamical and statistical nature of electronic excited states of pigment molecules in a natural LH2 complex with 9-fold symmetry and its two non-natural {\\it in silico} analogues with 6- and 12-fold symmetries. To ensure reliable and efficient all-atomistic molecular dynamics simulations, we combined a well established interpolation approach for the construction of the potential energy surface with a neural network machine learning approach. Outcomes of these calculations clarify that non-natural forms of LH2-type complexes have significantly larger quasistatic disorder than those for the natural one. In addition, non-natural systems have more disruptions of the hydrogen bonding, underscoring its crucial role for reducing the disorder. On the other hand, local environmental dynamics are relatively insensitive to the structural changes although there is moderate enhancement in the anharmonic or interatomic components for the synthetic ones. These findings based on all-atomistic simulations provide direct computational evidence that the structure and sizes of natural LH2 complexes are designed to minimize the energetic disorder. We analyze quantitative implications of these for the energy transferring capability of the LH2 complex.",
+  "authors": [
+   "Kwang Hyun Cho",
+   "Seogjoo J. Jang",
+   "Young Min Rhee"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Kwang Hyun Cho",
+  "pdf_url": "http://arxiv.org/pdf/2606.10103",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-08",
+  "tags": [
+   "excited-states",
+   "free-energy",
+   "molecular-dynamics"
+  ],
+  "title": "Minimization of disorder as a key design principle for natural sizes of light harvesting 2 complexes",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10178": {
+  "abstract": "Understanding how hydrostatic pressure modifies interlayer interactions and competing ionic configurations is essential for controlling the emergent functional properties of layered quantum materials. Here, using first-principles density-functional theory calculations, we investigate the pressure-dependent structural, mechanical, electronic, and optical properties of three competing LiInP2S6 polymorphs: the monoclinic C2/c phase and the trigonal P-31c phase in both in-layer and in-gap configurations. Our results reveal a pressure-induced structural phase transition from the monoclinic ground-state C2/c phase to a trigonal P-31c in-layer phase at ~0.38 GPa, driven by enhanced interlayer coupling and anisotropic lattice compression. In contrast, the trigonal P-31c in-gap phase remains energetically unfavorable due to its stronger interlayer ionic interactions and reduced compressibility. All phases remain mechanically stable under compression (0-26 GPa) and exhibit enhanced mechanical rigidity, elastic wave velocities, and Debye temperatures with increasing pressure. Remarkably, the electronic and optical properties within each phase remain highly robust under pressure, with only moderate changes in the band gap and optical absorption edge (UV-Visible range) under pressure; however, substantial modifications emerge across the pressure-induced structural phase transition. These findings establish LiInP2S6 as a pressure sensitive ionic-vdW material in which subtle changes in interlayer interactions govern structural stability and functional properties.",
+  "authors": [
+   "Xiaochi Xie",
+   "Pegah Mohammadi",
+   "Sobhit Singh"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 9 figures",
+  "first_author": "Xiaochi Xie",
+  "pdf_url": "http://arxiv.org/pdf/2606.10178",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "ab-initio",
+   "band-gap",
+   "dft",
+   "phase-transition"
+  ],
+  "title": "Pressure-Driven Structural Phase Competition and Functional Response in Layered LiInP2S6",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10195": {
+  "abstract": "Machine learning models for materials property prediction increasingly rely on representations learned end-to-end from large density-functional-theory databases, limiting their applicability when only scarce experimental data are available. Domain-knowledge-driven representations precomputed from crystal structures alone offer a data-efficient, interpretable alternative, but existing approaches capture at most composition or bonding connectivity and discard local structural geometry. Here, we present Graphlet-MP, a database of graphlet histogram representations for 149,082 inorganic crystals from the Materials Project (MP). Seventy-nine distributions describe each material over three hierarchical graphlet orders: atomic sites, bonded pairs, and bond-angle triplets, extracted via screened Voronoi tessellation from the crystallographic information file. We provide a complete technical specification of the representation, an Earth Mover's Distance metric for comparing materials in this space, and the full precomputed database. An accompanying open-source codebase enables users to generate graphlet histograms for arbitrary crystal structures, including experimentally determined ones, and to extend the database to new materials or target properties.",
+  "authors": [
+   "Aaditya Panigrahi",
+   "Yanjun Liu",
+   "Omri Lesser",
+   "Krishnanand Mallayya",
+   "Eun-Ah Kim"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "5 pages, 2 figures",
+  "first_author": "Aaditya Panigrahi",
+  "pdf_url": "http://arxiv.org/pdf/2606.10195",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "property-prediction"
+  ],
+  "title": "Graphlet Histogram Representation Database of Inorganic Crystals",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10221": {
+  "abstract": "Interpreting metal K-edge spectra of flexible photosensitizers requires a structural model that separates electronic signatures from thermal motion, solvent disorder, and crystal-packing effects. We combine Fe K-edge X-ray absorption measurements with second-generation Car--Parrinello ab initio molecular dynamics and all-electron Gaussian and augmented-plane-wave simulations for an iron(II) N-heterocyclic carbene photosensitizer in acetonitrile solution and in the crystalline phase. Ensemble-averaged spectra reproduce the main near-edge features in both environments and preserve the experimentally observed similarity of the first Fe coordination shell upon dissolution. Comparison with radial distributions extracted from extended fine-structure measurements validates the Fe--N and Fe--C coordination shells sampled by the trajectories, while element-resolved pair distributions explain why higher-shell experimental contrast is rapidly lost. The same dynamical ensembles reveal a broad out-of-plane distribution of the terpyridine nitrogen atom and a nearly octahedral distribution of the Fe-centered coordination planes. The results show that finite-temperature X-ray absorption simulations can provide a compact structural-dynamics picture of molecular transition metal photosensitizers by linking local spectra, solvent-phase ligand motion, and medium-range structural disorder within one trajectory-based description.",
+  "authors": [
+   "Patrick Müller",
+   "Lorena Fritsch",
+   "Matthias Bauer",
+   "Thomas D. Kühne"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Patrick Müller",
+  "pdf_url": "http://arxiv.org/pdf/2606.10221",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10251": {
+  "abstract": "Metal phosphides have diverse bonding motifs and coordination environments, making them promising for optoelectronic and thermoelectric applications, but their chemical space remains underexplored. Here we report an AI-driven high-throughput discovery workflow that combines generative materials design, machine-learning interatomic potentials, and targeted density functional theory (DFT) calculations. ICSD-derived Wyckoff-site substitution and MatterGen-based conditional structure generation are used to expand the candidate space beyond existing phosphide databases. A domain-finetuned DPA3 machine-learning potential then enables efficient prescreening of thermodynamic and dynamical stability before DFT validation. This workflow identifies 3,574 previously unreported stable phosphide structures, including 196 semiconductors with HSE06 band gaps of 0-3.0 eV. By screening these new semiconductors together with experimentally known phosphide semiconductors, we identify 30 promising optoelectronic candidates and 26 promising thermoelectric candidates, including seven newly discovered optoelectronic materials and eight newly discovered thermoelectric materials. These results provide a candidate pool for experimental synthesis and show that combining generative AI with machine-learning interatomic potentials can accelerate the discovery of functional semiconductor materials.",
+  "authors": [
+   "Benhao Zhu",
+   "Muhammad Faizan",
+   "Zewei Li",
+   "Wenshuo Li",
+   "Feifei Ren",
+   "Jiahao Xie",
+   "Lijun Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "46 pages, 5 main figures; Supporting Information included",
+  "first_author": "Benhao Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2606.10251",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "chemical-space",
+   "dft",
+   "mlip"
+  ],
+  "title": "Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10272": {
+  "abstract": "Attosecond pulse trains interacting with a resonantly dressed atom generate a pronounced intra-sideband phase structure that remains hidden in conventional spectrally integrated RABBITT measurements. Using \\textit{ab initio} time-dependent Schrödinger equation calculations for lithium near the resonant $2s\\to2p$ transition, we show that the phase extracted within a single sideband can vary by nearly $π$ across its spectral width. The resulting intra-sideband phase dispersion exhibits a characteristic dependence on the IR detuning, pulse duration, intensity, and sideband order. Most strikingly, exact resonant Rabi flopping flattens the intra-sideband phase dispersion, whereas a small detuning generates a pronounced phase modulation despite weaker population transfer. This counterintuitive behavior demonstrates that rainbow RABBITT probes the dynamical phase accumulated by a Rabi-dressed wave packet rather than the instantaneous populations of the participating states. A simple analytical model captures the principal features of the numerical calculations and provides physical insight into the emergence of the intra-sideband phase structure. These results establish intra-sideband phase dispersion as a new interferometric observable for mapping coherent Rabi dynamics.",
+  "authors": [
+   "Vladislav V. Serov",
+   "Anatoli S. Kheifets"
+  ],
+  "categories": [
+   "physics.atm-clus"
+  ],
+  "comment": "8 pages, 4 figures",
+  "first_author": "Vladislav V. Serov",
+  "pdf_url": "http://arxiv.org/pdf/2606.10272",
+  "primary_category": "physics.atm-clus",
+  "published": "2026-06-09",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Rainbow RABBITT as a Probe of Coherent Rabi Dynamics",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10327": {
+  "abstract": "Automated Essay Scoring (AES) systems must judge interdependent discourse elements (e.g., lead, claim, evidence, conclusion), yet most approaches treat these in isolation, harming coherence and generalization. We investigate task-aware fine-tuning of LLaMA-3.1-8B for AES using parameter-efficient LoRA with 4-bit quantization and compare three training curricula: (i) Sequential (progressively fine-tuning on lead, then position, then claim, then evidence, then conclusion), (ii) Independent (task-specific models), and (iii) Randomized (shuffled multi-task). Experiments on the PERSUADE~2.0 corpus show that modeling task dependencies matters: Sequential fine-tuning yields the strongest overall results, including F1 scores of 65% (evidence) and 87% (conclusion) and corresponding accuracies of 63% and 85%, surpassing Independent training and outperforming a general-purpose LLaMA-70B baseline on conclusion despite its far larger capacity. Randomized training improves position scoring (57% F1) but is less consistent elsewhere. These findings indicate that (1) curriculum design aligned with discourse structure can materially improve AES, and (2) small, task-optimized models can be competitive with substantially larger Large Language Models (LLM), offering a practical path to scalable, cost-effective assessment. We release templates and implementation details to facilitate reproduction and future work on curriculum design for educational NLP.",
+  "authors": [
+   "Ali Keramati",
+   "Mark Warschauer"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Ali Keramati",
+  "pdf_url": "http://arxiv.org/pdf/2606.10327",
+  "primary_category": "cs.CL",
+  "published": "2026-06-09",
+  "tags": [],
+  "title": "The Order Matters: Sequential Fine-Tuning of LLaMA for Coherent Automated Essay Scoring",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10441": {
+  "abstract": "We investigate the formation of light nuclei and hypernuclei in Au+Au collisions at $\\sqrt{s_{NN}}=3~\\mathrm{GeV}$ within a coalescence framework embedded in the microscopic N-body Parton-Hadron-Quantum-Molecular Dynamics (PHQMD) transport model. The Wigner phase-space distributions employed in the coalescence calculation are constructed from realistic $N$-body wave functions obtained by solving the Schrödinger equation in the hyperspherical harmonics formalism, providing a solid and parameter-free description of nuclear clusters and hypernuclei. By comparing calculated rapidity distributions with STAR data, we extract species-dependent coalescence times, revealing a non-universal formation pattern among different clusters. The resulting yields and kinematic distributions of light nuclei and hypernuclei are systematically analyzed and shown to be sensitive to the underlying wave-function structure and formation time. In addition, we explore cluster-nucleon formation channels for $A=4$ systems. These additional channels improve the description of ${}^{4}\\mathrm{He}$ and ${}^{4}_Λ\\mathrm{H}$ yields and help address the underestimation of $A=4$ cluster production in theoretical approaches. Finally, we provide predictions for heavier hypernuclei, including ${}^{5}_Λ\\mathrm{He}$ and ${}^{5}_{ΛΛ}\\mathrm{He}$, which are of interest for future experimental measurements.",
+  "authors": [
+   "Junyi Han",
+   "Yue-Hang Leung",
+   "Jiaxing Zhao",
+   "Yingjie Zhou",
+   "Norbert Hermann",
+   "Yaping Wang"
+  ],
+  "categories": [
+   "nucl-th",
+   "hep-ph"
+  ],
+  "comment": "12 pages, 13 figures",
+  "first_author": "Junyi Han",
+  "pdf_url": "http://arxiv.org/pdf/2606.10441",
+  "primary_category": "nucl-th",
+  "published": "2026-06-09",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Sequential Clusterization of Light Nuclei and Hypernuclei in Heavy-Ion Collisions within a Wigner Function Coalescence Framework",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10543": {
+  "abstract": "Designing functional biological sequences requires navigating vast discrete spaces under strict evolutionary and biophysical constraints. Discrete Flow Matching (DFM) offers a generative framework over such spaces, but existing approaches rely on biologically uninformative couplings and offer limited flexibility for variable-length sequence generation and fine-grained control. We propose a structured coupling that encodes domain-specific preferences among sequence elements, biasing the source distribution toward plausible regions without modifying the flow objective or training procedure. Building on this, we introduce a latent edit-based rate parameterization that models variable-length generation via edit operations conditioned on a shared global latent, akin to a latent variable model, while remaining tractable. We further introduce a latent classifier-free guidance mechanism that steers generation coherently in continuous latent space, along with Dirichlet-prior temperature scaling for test-time control over edit operations. Our method achieves state-of-the-art performance across diverse biological sequence tasks, including density estimation, unconditional and conditional DNA sequence generation, and peptide sequence generation.",
+  "authors": [
+   "Yogesh Verma",
+   "Dani Korpela",
+   "Harri Lähdesmäki",
+   "Vikas Garg"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.ET",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Yogesh Verma",
+  "pdf_url": "http://arxiv.org/pdf/2606.10543",
+  "primary_category": "cs.LG",
+  "published": "2026-06-09",
+  "tags": [],
+  "title": "Flexible Flows for Biological Sequence Design",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10587": {
+  "abstract": "Large language models (LLMs) are on the rise for accelerating scientific discovery, most recently in advanced tasks such as generating valid scientific hypotheses. Yet in many discovery settings, the goal is not to identify a single best hypothesis since validation can be noisy and expensive, and scientists benefit from a set of high-quality alternative hypotheses that hedge against downstream uncertainty for the best solutions. Nevertheless, commonly used evolutionary search recipes tend to prioritize optimization over exploration in hypothesis generation, and the resulting selection pressure during the search process leads to diversity collapse. Motivated by these limitations, we formulate hypothesis search as a sampling problem, where the objective is to efficiently produce diverse, high-quality hypotheses under a fixed validation budget. Building on this perspective, we propose \\ours, an evolutionary framework inspired by the classical parallel tempering algorithm that searches hypotheses at multiple temperature levels and enables principled information exchange across temperatures to improve exploration without disrupting convergence. Across domains including molecular discovery, equation discovery, and algorithm discovery, our approach consistently improves both hypothesis quality and diversity under the same validation budget, and produces candidates that remain robust under more expensive downstream computational validations.",
+  "authors": [
+   "Haorui Wang",
+   "Parshin Shojaee",
+   "Kazem Meidani",
+   "Kunyang Sun",
+   "José Miguel Hernández-Lobato",
+   "Teresa Head-Gordon",
+   "Jiajun He",
+   "Chandan K. Reddy",
+   "Chao Zhang",
+   "Yuanqi Du"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "ICML 2026",
+  "first_author": "Haorui Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.10587",
+  "primary_category": "cs.LG",
+  "published": "2026-06-09",
+  "tags": [
+   "replica-exchange"
+  ],
+  "title": "Towards Diverse Scientific Hypothesis Search with Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10741": {
+  "abstract": "Strongly correlated two-dimensional systems provide compelling platforms for investigating exotic quantum phenomena. Niobium chloride (Nb$_3$Cl$_8$), a single-band Mott insulator, exhibits a remarkable out-of-plane polarization in its topmost layer that oscillates with layer parity, manifesting as an odd-even effect. Using atomic force microscopy (AFM) and Kelvin probe force microscopy (KPFM), this layer-parity-dependent polarization can be effectively characterized through surface morphology and potential mapping, enabling the unambiguous identification of different surface phases. We then fabricated dual-gate Hall devices by coupling different surface phases of Nb$_3$Cl$_8$ with monolayer graphene to investigate how the topmost-layer out-of-plane polarization influences interfacial coupling and the resulting transport behavior. Our results reveal significant phase-dependent variations in charge transfer, carrier densities, and hybridization gaps (25.2 meV for Phase 1 and 30.0 meV for Phase 2). Density functional theory calculations corroborate these experimental findings, showing that distinct out-of-plane polarizations in the topmost layer lead to different orbital overlaps and interfacial coupling strengths. These findings highlight the critical importance of surface polarization and orbital orientation in engineering the properties of strongly correlated van der Waals heterostructures.",
+  "authors": [
+   "Hansheng Xu",
+   "Yuchen Gao",
+   "Xinyue Huang",
+   "Weihanzhang Guo",
+   "Zhijie Ma",
+   "Ziqi Liu",
+   "Pinfan Gu",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Youguo Shi",
+   "Yu Ye"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "9 pages, 4 figures",
+  "first_author": "Hansheng Xu",
+  "pdf_url": "http://arxiv.org/pdf/2606.10741",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-09",
+  "tags": [
+   "2d-materials",
+   "dft",
+   "vdw-correction"
+  ],
+  "title": "Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10750": {
+  "abstract": "As new observational technologies reveal increasingly detailed properties of neutron star surfaces, the demand for accessible and extensible theoretical modeling tools continues to grow. We present UnReal-B, a real-space Density Functional Theory solver for one-dimensional chains of matter in extreme magnetic fields $B \\approx 10^{12} - 10^{15},\\mathrm{G}$. By employing the adiabatic approximation, UnReal-B, provides a streamlined numerical framework for calculating the electronic structure of strongly magnetized condensed matter. The solver is benchmarked against published results for several astrophysically relevant elements, demonstrating excellent agreement while maintaining a comparatively simple and transparent implementation. Released as open-source software, UnReal-B facilitates reproducible and community-driven investigations of neutron-star surface matter and provides a foundation for future developments motivated by emerging observational constraints.",
+  "authors": [
+   "Bhalchandra S. Pujari",
+   "Andrey Tokarev",
+   "Dipanjan Mitra"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages",
+  "first_author": "Bhalchandra S. Pujari",
+  "pdf_url": "http://arxiv.org/pdf/2606.10750",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-06-09",
+  "tags": [
+   "dft",
+   "electronic-structure"
+  ],
+  "title": "UnReal-B : Real-Space DFT Solver for Matter in Extreme Magnetic Fields",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10779": {
+  "abstract": "Proteins and nucleic acids form non-Newtonian liquids with complex rheological properties that contribute to their function in vivo. Here we investigate the rheology of the transcription factor NANOG, a key protein to maintain embryonic stem cell pluripotency. We find that at high concentrations, NANOG forms macroscopic aging gels that are dependent on its intrinsically disordered domain. By combining molecular dynamics simulations, mass photometry and Cryo-EM, we also discover that -- in contrast with unbounded condensates formed by other intrinsically disordered proteins -- NANOG forms self-limiting micelles with exposed DNA-binding domains. We show that these micelles can stabilize DNA entanglements and in turn modulate DNA dynamics. Based on our findings, we conjecture that NANOG may contribute to regulate gene expression by creating local gel-like environments that restrict genome dynamics and that its aging may ingrain mechanical memory in gene regulatory networks.",
+  "authors": [
+   "Amandine Hong-Minh",
+   "Yair Augusto Gutierrez Fosado",
+   "Abbie Guild",
+   "Nicholas Mullin",
+   "Laura Spagnolo",
+   "Ian Chambers",
+   "Davide Michieletto"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Amandine Hong-Minh",
+  "pdf_url": "http://arxiv.org/pdf/2606.10779",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-09",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "NANOG assembles into self-limiting aging micelles that drive a sol-gel transition and modulate DNA dynamics",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10797": {
+  "abstract": "We investigate the magnetic moments of octet baryons in isospin asymmetric strange hadronic matter under strong external magnetic fields within a unified theoretical framework by combining the chiral SU(3) quark mean field (CQMF) model with the chiral constituent quark ($χ$CQM) model. At finite temperature, the inclusion of Dirac sea (DS) effect leads to magnetic catalysis attributing to the enhancement of scalar condensates with increasing magnetic field strength. As a consequence, the effective masses of the octet baryons exhibit a monotonic increase as a function of magnetic field. The results highlight the crucial role of vacuum polarization effects in determining the electromagnetic properties of baryons in strongly magnetized matter having relevance in heavy-ion collision and compact stars.",
+  "authors": [
+   "Akshada Waman",
+   " Priyanshi",
+   "Suneel Dutt",
+   "Harleen Dahiya",
+   "Arvind Kumar"
+  ],
+  "categories": [
+   "hep-ph"
+  ],
+  "comment": "37 pages, 9 figures",
+  "first_author": "Akshada Waman",
+  "pdf_url": "http://arxiv.org/pdf/2606.10797",
+  "primary_category": "hep-ph",
+  "published": "2026-06-09",
+  "tags": [
+   "catalysis",
+   "magnetic-properties"
+  ],
+  "title": "Magnetic Moment of Octet Baryons in Isospin Asymmetric Magnetized Strange Matter",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10995": {
+  "abstract": "The magnetic material MnBi2Te4 (MBT) has garnered significant attention due to its unique combination of long-range antiferromagnetism and nontrivial topological electronic properties. However, experimental measurements report inconsistent magnetizations, which could be attributed to a variety of intrinsic defects. To date, a comprehensive investigation of defect-engineered MBT systems has not yet been established. Employing state-of-the-art $ab~initio$ techniques, this work systematically investigates the influence of various experimentally reported defects on the magnetic properties of bulk and monolayer MBT at different concentrations. Mn-vacancy and Mn-rich defects are found to enhance the ferromagnetism of bulk MBT. The investigation of Mn-rich and intermixing defects in the monolayer reveals that subtle structural and electronic modifications can alter the magnetic coupling. Projection onto a Heisenberg Hamiltonian demonstrates that defects modify exchange interactions, thereby giving rise to distinct magnetic ground states. This work sheds light on magnetic coupling mechanisms and provides guidelines for the experimental control of magnetism in MnBi2Te4.",
+  "authors": [
+   "Ana Beatriz Pedro Fontes",
+   "Jiaqi Zhou",
+   "Simon M. -M. Dubois",
+   "Jean-Christophe Charlier"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 5 figures, 3 tables. Includes Appendix and Supplemental Material",
+  "first_author": "Ana Beatriz Pedro Fontes",
+  "pdf_url": "http://arxiv.org/pdf/2606.10995",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-09",
+  "tags": [
+   "2d-materials",
+   "magnetic-properties"
+  ],
+  "title": "Ab initio study of magnetism in pristine and defective MnBi2Te4",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.11027": {
+  "abstract": "Motivated by the experimental realization of the two-dimensional (2D) carbon biphenylene network (BPN), the theoretical extension of the BPN topology to various groups of elements was successfully implemented. In this work, we conducted first principles and quantum transport calculations to reveal the electronic, thermal, thermoelectric performance and current-voltage (\\textit{I-V}) behavior of the pristine MoS$_2$-BPN by using density functional theory (DFT) combined with Non-Equilibrium Green's Function (NEGF) formalism. At room temperature, the phonon thermal conductance is remarkably low along both the armchair and zigzag orientations, with values of 0.28 nW/K and 0.23 nW/K, respectively. The directional dependence of the electronic and thermal transport properties is clearly reflected in the thermoelectric figure of merit ($zT$) values, which reach first peaks at 0.27 and 0.19 along the armchair and zigzag directions, respectively. The current-voltage ($I-V$) characteristics demonstrate an exceptionally strong transport anisotropy, characterized by a substantial current ratio of $I_{\\text{armchair}}/I_{\\text{zigzag}} \\approx 7 \\times 10^4$. Furthermore, while the current along the armchair direction increases steadily with the applied bias, transport along the zigzag direction is characterized by a pronounced intrinsic negative differential conductance (NDC). This contrast highlights fundamentally distinct charge transport mechanisms along the two orthogonal axes. Consequently, different directions of this BPN phase of MoS$_2$ can be tailored for distinct nanoelectronic applications, where the armchair and zigzag axes serve as a reliable current switch and an active NDC device, respectively.",
+  "authors": [
+   "Gözde Özbal Sargın"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Gözde Özbal Sargın",
+  "pdf_url": "http://arxiv.org/pdf/2606.11027",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-09",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "thermal-properties"
+  ],
+  "title": "Direction-Dependent Quantum Transport Properties of MoS$_2$ Integrated into Biphenylene Configuration",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.11057": {
+  "abstract": "Despite its importance to applications in protein design, predicting protein properties like binding affinity and thermostability from sparse experimental data remains a significant challenge. Accordingly, we introduce a class of sequence kernels that exploit evolutionary substitution matrices as well as local linearity and demonstrate that the resulting Gaussian processes provide data-efficient models of protein property landscapes, frequently outperforming alternatives that rely on foundation model embeddings. Furthermore--by learning what are in effect structure-aware substitution matrices--we show that our kernels can readily incorporate structural information from foundation models. We demonstrate that these structure-conditioned kernels are well suited to multi-task learning across multiple protein property landscapes and can decisively outperform local supervised learning methods.",
+  "authors": [
+   "Martin Jankowiak",
+   "Yerdos Ordabayev",
+   "Rudraksh Tuwani",
+   "Henry N. Ward",
+   "Hunter Nisonoff",
+   "James M. McFarland",
+   "Gevorg Grigoryan"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.BM",
+   "stat.ML"
+  ],
+  "comment": "50 pages; to appear at ICML 2026",
+  "first_author": "Martin Jankowiak",
+  "pdf_url": "http://arxiv.org/pdf/2606.11057",
+  "primary_category": "cs.LG",
+  "published": "2026-06-09",
+  "tags": [
+   "protein-ligand",
+   "protein-structure"
+  ],
+  "title": "Flexible Kernels for Protein Property Prediction",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.11121": {
+  "abstract": "Models of stellar structure and evolution describe the global and internal properties of stars throughout their lifetimes and are indispensable for studies of stellar clusters and Galactic evolution. However, most 1D evolutionary calculations rely on simplified treatment of convection, resulting in inaccurate near-surface structures and non-negligible uncertainties in the predicted fundamental parameters of low-mass stars. In a series of previous works, a novel approach was developed to couple 1D stellar interior models with 3D model atmospheres throughout the evolutionary calculation. This 1D-3D coupling method makes predicted stellar properties effectively independent of the mixing-length parameter. To expand this framework to ensemble studies of stars and age determinations of clusters, we present the GASTAG stellar evolutionary tracks and isochrones constructed using the 1D-3D coupling approach. Comparing effective temperatures from the APOGEE-Kepler catalog with GASTAG predictions, we find the theoretical temperatures are cooler by about 70 K near solar metallicity. Our isochrones are compared with observed color-magnitude diagrams of star clusters spanning from $\\rm [Fe/H] = 0.3$ to $-1.9$. In all cases, the synthesized and observed diagrams agree excellently in the main-sequence, turn-off, and subgiant regions, while isochrones predict systematically cooler red giant branches. Taking these independent findings together reveals that the temperature mismatch is most likely due to deficiencies in stellar models. Because GASTAG is constructed using a method that substantially reduces uncertainties associated with surface boundary conditions and the mixing-length parameter, the difference between modeling and observation can be more confidently attributed to other ingredients in the models, such as $α$-element abundances or uncertainties in low-temperature opacities.",
+  "authors": [
+   "Yixiao Zhou",
+   " Jiaqi",
+   " Ying",
+   "Yaguang Li",
+   "Luca Casagrande"
+  ],
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "comment": "A&A in review. Evolutionary tracks and isochrones are available at Zenodo https://zenodo.org/records/20416554 and the NIRD Research Data Archive https://data.archive.sigma2.no/dataset/gastag",
+  "first_author": "Yixiao Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2606.11121",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-06-09",
+  "tags": [],
+  "title": "GASTAG evolutionary tracks and isochrones from coupled 1D and 3D models: systematic temperature offsets in red giants",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.11153": {
+  "abstract": "Modern atomic spectroscopy has reached a level of precision at which nuclear-structure effects can no longer be neglected and must be quantified reliably. In particular, hyperfine splittings depend on the Zemach radius, which encodes the convolution of the nuclear charge and magnetization distributions. The third electric Zemach moment provides a related finite-size measure and enters the elastic two-photon-exchange contribution to the Lamb shift in muonic atoms. Here, we compute Zemach radii and other electromagnetic moments for light nuclei using quantum Monte Carlo techniques within modern \\textit{ab initio} nuclear theory. Using Norfolk two- and three-body interactions derived within chiral effective field theory, we assess the model dependence and study the role of two-body currents. For $^6$Li, we obtain a Zemach radius larger than that extracted from atomic measurements, consistent with recent calculations, confirming that the discrepancy is not an artifact of the nuclear model. For $^9$Be, our results agree with experiment; the discrepancy of previous phenomenological evaluations is traced to a model-dependent input for the magnetic radius.",
+  "authors": [
+   "Garrett B. King",
+   "Sonia Bacca",
+   "Graham Chambers-Wall",
+   "Alex Gnech",
+   "Saori Pastore",
+   "Maria Piarulli",
+   "Robert B. Wiringa"
+  ],
+  "categories": [
+   "nucl-th",
+   "physics.atom-ph"
+  ],
+  "comment": "2 figures, 9 pages",
+  "first_author": "Garrett B. King",
+  "pdf_url": "http://arxiv.org/pdf/2606.11153",
+  "primary_category": "nucl-th",
+  "published": "2026-06-09",
+  "tags": [
+   "ab-initio",
+   "monte-carlo"
+  ],
+  "title": "Quantum Monte Carlo calculations of Zemach moments in $A\\leq 9$ nuclei",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-09"
  }
 }

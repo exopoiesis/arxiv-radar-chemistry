@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10797.html">Magnetic Moment of Octet Baryons in Isospin Asymmetric Magnetized Strange Matter</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Akshada Waman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10797">2606.10797</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Minaam Qamar et al.</td>
@@ -488,11 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12424.html">Structural flexibility dictates reactivity of single-atom catalysts</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Jakub Planer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12424">2603.12424</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20496.html">Orbital-interaction-aware deep learning model for efficient surface chemistry simulations</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Zhihao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20496">2507.20496</a></td>
 </tr>
 </tbody></table>

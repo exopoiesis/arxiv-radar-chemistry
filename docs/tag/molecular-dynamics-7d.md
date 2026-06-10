@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10441.html">Sequential Clusterization of Light Nuclei and Hypernuclei in Heavy-Ion Collisions within a Wigner Function Coalescence Framework</a></div></td>
+<td>Junyi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10441">2606.10441</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10779.html">NANOG assembles into self-limiting aging micelles that drive a sol-gel transition and modulate DNA dynamics</a></div></td>
+<td>Amandine Hong-Minh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10779">2606.10779</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09146.html">Molecular dynamic simulation of multicomponent CoCrFeNiMn high-entropy alloy thin film deposition</a></div></td>
@@ -38,6 +50,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09575.html">k-Means Clustering in Fingerprint-Based Configuration Selection for Fitting Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Miroslav Lebeda et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09575">2606.09575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10103.html">Minimization of disorder as a key design principle for natural sizes of light harvesting 2 complexes</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Kwang Hyun Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10103">2606.10103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Patrick Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -140,59 +164,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05148.html">Variational low-energy subspaces for chemically accurate excited states</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
 <td>Clemens Giuliani et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05148">2606.05148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Cheng-Han Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03140">2606.03140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03309.html">Unconventional crystallization pathway bypassing the intermediate cubic phase in phase-change superlattices</a></div></td>
-<td>Bai-Qian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03309">2606.03309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03325.html">Role of Characteristic Length Scale in Interface Graphitization-Induced Wear Resistance of Diamond and Amorphous Carbon</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>WenLiang Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03325">2606.03325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Alfredo Fiorentino et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03405">2606.03405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03524.html">Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Antonio Torregrosa Abellán et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03524">2606.03524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03575.html">Acenaphthene Derivatives as Signatures of C$_{11}$H$_9^+$ Reactivity with Methylated Naphthalenes</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Ana I. Lozano et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03575">2606.03575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03760.html">Revisiting neutron-skin thickness and dipole polarizability constraints on the symmetry energy in Antisymmetrized Molecular Dynamics</a></div></td>
-<td>Dandan Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03760">2606.03760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Joanna Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04228.html">When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a></div></td>
-<td>Kargi Chauhan</td>
-<td><a href="http://arxiv.org/abs/2606.04228">2606.04228</a></td>
 </tr>
 </tbody></table>

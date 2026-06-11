@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,17 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13695.html">Steering Generative Models for Accessibility: EasyRead Image Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Nicolas Dickenmann et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13695">2603.13695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18557.html">Deep Learning for Blood-Brain Barrier Permeability Prediction: From Discriminative Models to Mechanism-Aware Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Zihan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18557">2507.18557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19912.html">De novo molecular structure elucidation from mass spectra via flow matching</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Ghaith Mqawass et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19912">2602.19912</a></td>
 </tr>
 </tbody></table>

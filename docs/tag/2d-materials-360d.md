@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">583 papers</span>
+  <span class="paper-count">582 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3506,11 +3506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13448.html">Electronic Correlations Control Interlayer Coupling and Magnetic Transition in MnBi$_2$Te$_4$/MnBr$_3$ Heterostructure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Yuanhao Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13448">2506.13448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12799.html">Large Scale Manufacture of Phase Pure Two-Dimensional Metallic MoS2 Nanosheets</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Ziwei Jeffrey Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12799">2506.12799</a></td>
 </tr>
 </tbody></table>

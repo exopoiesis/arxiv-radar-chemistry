@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,23 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17616.html">A comparative first-principles investigation of bilayer NbOX2 (X=Cl, Br, I) for Photocatalytic water splitting applications</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
 <td>Laku Dorjee Tamang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17616">2605.17616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10667.html">Quantum Simulation of Magnetic Materials: from Ab-Initio to NISQ</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Pascal Stadler et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10667">2605.10667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11211.html">First-principles real-space embedding theory of the superconducting proximity effect</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Nicolas Baù et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11211">2605.11211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11253.html">Low-rank compression of two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Kemal Atalar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11253">2605.11253</a></td>
 </tr>
 </tbody></table>

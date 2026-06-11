@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06303.html">Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a></div></td>
 <td>Hongkun Dou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06303">2606.06303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04452.html">DeltaDiff: Training-Free, Physics-Guided Machine Learning for Predicting Mutant Protein Structures</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Yajie Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04452">2606.04452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div></td>
-<td>Yuyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
 </tr>
 </tbody></table>

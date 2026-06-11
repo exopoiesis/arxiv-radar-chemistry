@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">579 papers</span>
+  <span class="paper-count">568 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3422,71 +3422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15669.html">V2Rho-FNO: Fourier Neural Operator for Electronic Density Prediction</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Yingdi Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15669">2603.15669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16346.html">Preferred Synthesis of Armchair Transition Metal Dichalcogenide Nanotubes</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Abid et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16346">2506.16346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06167.html">From Mono- to Hexa-Interstitials: Computational Insights into Carbon Defects in Diamond</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Nima Ghafari Cherati et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06167">2512.06167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14335.html">Sensor free, self regulating thermal switching via anomalous Ettingshausen effect and spin reorientation in DyCo5</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Shibo Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.14335">2512.14335</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11517.html">Meta-generalized gradient approximation made in the Hartree gauge</a></div></td>
-<td>Yan Oueis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11517">2603.11517</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11733.html">First-principles insights into the optoelectronic and thermoelectric properties of X3NbY4(X= Cu, Ag, Au; Y=S, Se, Te) sulvanite compounds for energy applications</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Sadeya Sabnam Emo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11733">2603.11733</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11769.html">ChemFit: A concurrent framework for model parametrization</a></div></td>
-<td>Moritz Sallermann et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11769">2603.11769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11776.html">Phase Separation in Heritage Objects Made of Plasticised PVC: the Case of Joseph Beuys Multiples</a></div></td>
-<td>Marwa Saad et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11776">2603.11776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11878.html">Symmetry-Driven Floquet Engineering in Multivalley SnS</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Sotirios Fragkos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11878">2603.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12373.html">Nuclear-Electronic Quantum Dynamics in a Plasmonic Nanocavity</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Jonathan H. Fetherolf et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12373">2603.12373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12413.html">First-principles study of doping influence on twin formation in Ni-Mn-Ga nonmodulated martensite</a></div></td>
-<td>Petr Šesták et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12413">2603.12413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12424.html">Structural flexibility dictates reactivity of single-atom catalysts</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Jakub Planer et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12424">2603.12424</a></td>
 </tr>
 </tbody></table>

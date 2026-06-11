@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,17 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12734.html">VecMol: Vector-Field Representations for 3D Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Yuchen Hua et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12734">2603.12734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19912.html">De novo molecular structure elucidation from mass spectra via flow matching</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Ghaith Mqawass et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19912">2602.19912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11924.html">Chem4DLLM: 4D Multimodal LLMs for Chemical Dynamics Understanding</a></div></td>
-<td>Xinyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11924">2603.11924</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">304 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1826,17 +1826,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15631.html">Automatic generation of density fitting auxiliary basis sets for all electron Dirac-Kohn-Sham calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Nicolo&#x27; Antonini et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15631">2506.15631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12799.html">Large Scale Manufacture of Phase Pure Two-Dimensional Metallic MoS2 Nanosheets</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Ziwei Jeffrey Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12799">2506.12799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12888.html">Disorder by Design: Unveiling Local Structure and Functional Insights in High Entropy Oxides</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>John P. Barber et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12888">2506.12888</a></td>
 </tr>
 </tbody></table>

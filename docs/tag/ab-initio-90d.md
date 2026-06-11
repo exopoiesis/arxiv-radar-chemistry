@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">425 papers</span>
+  <span class="paper-count">418 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2522,47 +2522,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13494.html">Accurate electronic and optical properties of bulk antiferromagnet CrSBr via a tuned hybrid density functional with on-site corrections</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Ashwin Ramasubramaniam et al.</td>
 <td><a href="http://arxiv.org/abs/2603.13494">2603.13494</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04379.html">Duality of Wave Modulation and Nanotwinning in Ni-Mn-Ga Martensite via Long-Period Commensurate States</a></div></td>
-<td>P. Veřtát et al.</td>
-<td><a href="http://arxiv.org/abs/2503.04379">2503.04379</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06167.html">From Mono- to Hexa-Interstitials: Computational Insights into Carbon Defects in Diamond</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Nima Ghafari Cherati et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06167">2512.06167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11469.html">Impact of Oxygen Vacancies in Josephson Junction on Decoherence of Superconducting Qubits</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Hanqin Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11469">2603.11469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12042.html">RASP: Reliability ab initio simulation package of MOSFETs based on all-state model</a></div></td>
-<td>Xinjing Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12042">2603.12042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12160.html">Raman relaxation in Yb(III) molecular qubits: non-trivial correlations between spin-phonon coupling and molecular structure</a></div></td>
-<td>Giacomo Sansone et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12160">2603.12160</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12307.html">SHREC: A Spectral Embedding-Based Approach for Ab-Initio Reconstruction of Helical Molecules</a></div></td>
-<td>Guy Shapira et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12307">2603.12307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12336.html">Electronic correlations and dynamical screening with ab initio quantum embedding</a></div></td>
-<td>Chia-Nan Yeh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12336">2603.12336</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,29 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10406.html">How to Build a Quantum Supercomputer: Scaling from Hundreds to Millions of Qubits</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Masoud Mohseni et al.</td>
 <td><a href="http://arxiv.org/abs/2411.10406">2411.10406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06080.html">Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Harry Richardson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06080">2603.06080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11569.html">Modeling Sequential Design Actions as Designer Externalization on an Infinite Canvas</a></div></td>
-<td>Yejin Yun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11569">2603.11569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12226.html">Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration</a></div></td>
-<td>Priyanka Kargupta et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12226">2603.12226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12424.html">Structural flexibility dictates reactivity of single-atom catalysts</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Jakub Planer et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12424">2603.12424</a></td>
 </tr>
 </tbody></table>

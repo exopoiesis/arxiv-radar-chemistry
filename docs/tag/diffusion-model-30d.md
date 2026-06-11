@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,29 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12431.html">GaitProtector: Impersonation-Driven Gait De-Identification via Training-Free Diffusion Latent Optimization</a></div></td>
 <td>Huiran Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12431">2605.12431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10385.html">Regret Analysis of Guided Diffusion for Black-Box Optimization over Structured Inputs</a></div></td>
-<td>Masaki Adachi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10385">2605.10385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10439.html">Filtering Memorization from Parameter-Space in Diffusion Models</a></div></td>
-<td>Yu Zhe et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10439">2605.10439</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10727.html">Kernel-Gradient Drifting Models</a></div></td>
-<td>Maria Esteban-Casadevall et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10727">2605.10727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11125.html">Language Modeling with Hyperspherical Flows</a></div></td>
-<td>Justin Deschenaux et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11125">2605.11125</a></td>
 </tr>
 </tbody></table>

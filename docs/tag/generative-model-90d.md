@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Yifan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12991">2606.12991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13629.html">Valid Inference with Synthetic Data via Task Exchangeability</a></div></td>
+<td>Lezhi Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13629">2606.13629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11833.html">Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Sam Gijsen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11833">2606.11833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12651.html">Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Riya Bisht et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12651">2606.12651</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Michael Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11256.html">My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents</a></div></td>
+<td>César Ojeda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11256">2606.11256</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>

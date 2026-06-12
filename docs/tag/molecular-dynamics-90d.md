@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12916.html">MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback</a></div></td>
+<td>Zehong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12916">2606.12916</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13283.html">Archê, an orbital-free molecular dynamics code for fast production of equations of state</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>William Weens et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13283">2606.13283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11809.html">Symplectic and Thermodynamically Consistent Molecular Dynamics in the Frequency Domain</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Kyunghoon Han et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11809">2606.11809</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12743.html">Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Elizane E. de Moraes et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12743">2606.12743</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10441.html">Sequential Clusterization of Light Nuclei and Hypernuclei in Heavy-Ion Collisions within a Wigner Function Coalescence Framework</a></div></td>
 <td>Junyi Han et al.</td>
@@ -2564,29 +2588,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14113.html">Analysis of Hydrogen Contamination in Al/AlOx/Al Josephson Junctions</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Yu Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14113">2603.14113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05539.html">Towards &quot;on-demand&quot; van der Waals epitaxy with an adaptive resource-driven online ensemble sampling simulation framework</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumendu Bagchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05539">2504.05539</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12941.html">Electrohydrodynamic Stresses from Hydrogen-Bond Network Dynamics in Water</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Pramodt Srinivasula</td>
-<td><a href="http://arxiv.org/abs/2603.12941">2603.12941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13445.html">Diffusion-based Generative Machine Learning Model for Predicting Crack Propagation in Aluminum Nitride at the Atomic Scale</a></div></td>
-<td>Jiali Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13445">2603.13445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13549.html">Adaptive tensor train metadynamics for high-dimensional free energy exploration</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="metadynamics-90d.html">metadynamics</a></div></td>
-<td>Nils E. Strand et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13549">2603.13549</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12104.html">Proximity-induced unconventional superconductivity and chiral topological phases in twisted graphene/NbSe$_2$ van der Waals heterostructure</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Adam Hložný et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12104">2606.12104</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10741.html">Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Hansheng Xu et al.</td>
@@ -224,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14446.html">Self-Assembled H2NC Molecular Lattices as a Platform for Substrate-Tunable Quantum Superlattices</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Adrian Bahri et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14446">2603.14446</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05539.html">Towards &quot;on-demand&quot; van der Waals epitaxy with an adaptive resource-driven online ensemble sampling simulation framework</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Soumendu Bagchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05539">2504.05539</a></td>
 </tr>
 </tbody></table>

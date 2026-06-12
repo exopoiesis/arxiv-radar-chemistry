@@ -16,10 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Yifan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12991">2606.12991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13629.html">Valid Inference with Synthetic Data via Task Exchangeability</a></div></td>
+<td>Lezhi Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13629">2606.13629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11833.html">Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Sam Gijsen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11833">2606.11833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12651.html">Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Riya Bisht et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12651">2606.12651</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Michael Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11256.html">My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents</a></div></td>
+<td>César Ojeda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11256">2606.11256</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -2852,35 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14488.html">Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Dong Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14488">2506.14488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09372.html">Inverse problems with experiment-guided AlphaFold</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Advaith Maddipatla et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09372">2502.09372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10433.html">Neural Genetic Search in Discrete Spaces</a></div></td>
-<td>Hyeonah Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10433">2502.10433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13051.html">Stress-Testing Multimodal Foundation Models for Crystallographic Reasoning</a></div></td>
-<td>Can Polat et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13051">2506.13051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13756.html">UltraZoom: Generating Gigapixel Images from Regular Photos</a></div></td>
-<td>Jingwei Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13756">2506.13756</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13833.html">A Survey on World Models Grounded in Acoustic Physical Information</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Xiaoliang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13833">2506.13833</a></td>
 </tr>
 </tbody></table>

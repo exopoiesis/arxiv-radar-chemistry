@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11382.html">GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
+<td>Emily Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11382">2606.11382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09480.html">Loss-Guided Adaptive Scale Refinement for Molecular Force Prediction</a></div></td>
 <td>Limin Yu</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07698.html">Pharmacogenomic Knowledge Graph Augmentation for Graph Neural Network-Based Drug-Drug Interaction Prediction</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
 <td>Juergen Dietrich</td>
 <td><a href="http://arxiv.org/abs/2606.07698">2606.07698</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05693.html">MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Joey Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05693">2606.05693</a></td>
 </tr>
 </tbody></table>

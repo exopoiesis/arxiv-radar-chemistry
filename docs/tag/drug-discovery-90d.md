@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Yifan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12991">2606.12991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11508.html">Probabilistic Contrastive Pretraining for Multi-task ADME Property Prediction</a></div></td>
+<td>Yifan Xue et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11508">2606.11508</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08973.html">A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Sheng-Ya Chen et al.</td>
@@ -728,17 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15006.html">Empowering Chemical Structures with Biological Insights for Scalable Phenotypic Virtual Screening</a></div></td>
 <td>Xiaoqing Lian et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15006">2603.15006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12734.html">VecMol: Vector-Field Representations for 3D Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Yuchen Hua et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12734">2603.12734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20262.html">Deciphering Scientific Reasoning Steps from Outcome Data for Molecule Optimization</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Zequn Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20262">2603.20262</a></td>
 </tr>
 </tbody></table>

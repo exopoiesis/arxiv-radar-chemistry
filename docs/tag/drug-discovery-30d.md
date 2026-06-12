@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Yifan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12991">2606.12991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11508.html">Probabilistic Contrastive Pretraining for Multi-task ADME Property Prediction</a></div></td>
+<td>Yifan Xue et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11508">2606.11508</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08973.html">A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Sheng-Ya Chen et al.</td>
@@ -194,17 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Zeyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13024">2605.13024</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12181.html">MolDeTox: Evaluating Language Model&#x27;s Stepwise Fragment Editing for Molecular Detoxification</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
-<td>Jueon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12181">2605.12181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Andrew Y. Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12784">2605.12784</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12113.html">Augmenting Molecular Language Models with Local $n$-gram Memory</a></div><div class="paper-tags"><a href="molecular-llm-90d.html">molecular-llm</a></div></td>
+<td>Xinni Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12113">2606.12113</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07181.html">RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Raja Sekhar Pappala et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15686.html">Life cycle assessment for all organic chemicals</a></div></td>
 <td>Shaohan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15686">2603.15686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12666.html">RetroReasoner: A Reasoning LLM for Strategic Retrosynthesis Prediction</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Hanbum Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12666">2603.12666</a></td>
 </tr>
 </tbody></table>

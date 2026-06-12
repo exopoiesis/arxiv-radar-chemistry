@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-structure — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <strong>30d</strong> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,17 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13789.html">ENSEMBITS: an alphabet of protein conformational ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Kaiwen Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13789">2605.13789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11347.html">Gradient-Free Noise Optimization for Reward Alignment in Generative Models</a></div></td>
-<td>Jeongsol Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11347">2605.11347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23961.html">Multimodal Alignment and Preference Optimization for Zero-Shot Conditional RNA Generation</a></div></td>
-<td>Roman Klypa et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23961">2605.23961</a></td>
 </tr>
 </tbody></table>

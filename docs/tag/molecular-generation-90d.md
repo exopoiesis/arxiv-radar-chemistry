@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13451.html">Uncertainty Estimation for Molecular Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Paul Seij et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13451">2606.13451</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
 <td>Tuan A. Vu et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10402.html">Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Jiachi Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10402">2510.10402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12734.html">VecMol: Vector-Field Representations for 3D Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Yuchen Hua et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12734">2603.12734</a></td>
 </tr>
 </tbody></table>

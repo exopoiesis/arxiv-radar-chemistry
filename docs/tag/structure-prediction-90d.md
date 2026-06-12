@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12326.html">Transferable Machine Learning of Electronic Hamiltonians with Superposition-of-Atomic-Potentials Features</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="gnn-90d.html">gnn</a></div></td>
+<td>Chaoqun Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12326">2606.12326</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07927.html">Mathematical crystal chemistry: A formal theory for crystal structure prediction by generalized disjunctive programming</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
 <td>Ryotaro Koshoji</td>
@@ -266,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14806.html">Fold-CP: A Context Parallelism Framework for Biomolecular Modeling</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Dejun Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14806">2603.14806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15669.html">V2Rho-FNO: Fourier Neural Operator for Electronic Density Prediction</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Yingdi Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15669">2603.15669</a></td>
 </tr>
 </tbody></table>

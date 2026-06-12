@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11382.html">GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Emily Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11382">2606.11382</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08973.html">A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
@@ -404,17 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17196.html">Self-Conditioned Denoising for Atomistic Representation Learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Tynan Perez et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17196">2603.17196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13627.html">BERTology of Molecular Property Prediction</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a></div></td>
-<td>Mohammad Mostafanejad et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13627">2603.13627</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20262.html">Deciphering Scientific Reasoning Steps from Outcome Data for Molecule Optimization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Zequn Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20262">2603.20262</a></td>
 </tr>
 </tbody></table>

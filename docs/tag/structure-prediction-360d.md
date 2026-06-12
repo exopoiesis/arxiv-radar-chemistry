@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12326.html">Transferable Machine Learning of Electronic Hamiltonians with Superposition-of-Atomic-Potentials Features</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="gnn-360d.html">gnn</a></div></td>
+<td>Chaoqun Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12326">2606.12326</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07927.html">Mathematical crystal chemistry: A formal theory for crystal structure prediction by generalized disjunctive programming</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Ryotaro Koshoji</td>
@@ -1010,11 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14488.html">Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Dong Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14488">2506.14488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09372.html">Inverse problems with experiment-guided AlphaFold</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Advaith Maddipatla et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09372">2502.09372</a></td>
 </tr>
 </tbody></table>

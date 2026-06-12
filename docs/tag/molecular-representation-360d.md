@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11382.html">GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Emily Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11382">2606.11382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09480.html">Loss-Guided Adaptive Scale Refinement for Molecular Force Prediction</a></div></td>
 <td>Limin Yu</td>
@@ -962,11 +968,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06498.html">Quantum Magnetic J-Oscillators</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Jingyan Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2504.06498">2504.06498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13423.html">Multi-wavelength ghost imaging: a review</a></div></td>
-<td>Tong Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13423">2506.13423</a></td>
 </tr>
 </tbody></table>

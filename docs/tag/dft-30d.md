@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,41 +992,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15381.html">Chemical Origins of Non-Bonded Interactions Within and Between Solids</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
 <td>Paul J. Robinson et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15381">2605.15381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13166.html">Structural, electronic, and optical properties of hexagonal GeSn from density functional theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Yetkin Pulcu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13166">2605.13166</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13226.html">Conditional probability density functional theory for solids</a></div></td>
-<td>Peiwei You et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13226">2605.13226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13559.html">Correlation-driven tunability of altermagnetism in RuO$_2$</a></div></td>
-<td>Ina Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13559">2605.13559</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13637.html">Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Maciej Bazarnik et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13637">2605.13637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14130.html">The Role of Hydrogen Bridging Bonds in the Shear-Thickening and Jamming of Dense Suspensions</a></div></td>
-<td>Hojin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14130">2605.14130</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14154.html">TSAgent: An Agentic Workflow for Autonomous Transition State Search</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Varun Madhavan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14154">2605.14154</a></td>
 </tr>
 </tbody></table>

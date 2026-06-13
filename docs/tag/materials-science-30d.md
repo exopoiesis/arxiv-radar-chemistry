@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,17 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16612.html">PRISMat: Policy-Driven, Permutation-Invariant Autoregressive Material Generation</a></div></td>
 <td>Claire Schlesinger et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16612">2605.16612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13911.html">Rongzai agent: A Large Language Model-Based Autonomous Assistant for Rietveld Refinement of Neutron Diffraction Data</a></div></td>
-<td>Qingmeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13911">2605.13911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18850.html">KadiAssistant: A conversational AI Agent for information retrieval in Kadi4Mat</a></div></td>
-<td>Adrian Cierpka et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18850">2605.18850</a></td>
 </tr>
 </tbody></table>

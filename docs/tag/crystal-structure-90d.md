@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>crystal-structure — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <strong>90d</strong> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,17 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17028.html">Accelerating Structure-Property Relationship Discovery with Multimodal Machine Learning and Self-Driving Microscopy</a></div></td>
 <td>Jiawei Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17028">2603.17028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10631.html">High-Throughput-Screening Workflow for Predicting Volume Changes by Ion Intercalation in Battery Materials</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Aljoscha Felix Baumann et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10631">2603.10631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13865.html">Crystal structure, magnetic and resonant properties of decorated spin kagome system (CsCl)Cu$_5$As$_2$O$_{10}$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Ilya V. Kornyakov et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13865">2603.13865</a></td>
 </tr>
 </tbody></table>

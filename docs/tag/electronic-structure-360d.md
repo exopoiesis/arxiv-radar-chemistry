@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2894,17 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15144.html">A Coordination-Based Model for the Prediction of Surface Energies and the Shape of Metal Particles</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Shyama Charan Mandal et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15144">2506.15144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03911.html">Electron correlations in the kagome flat band metal $\rm CsCr_3Sb_5$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Fang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2403.03911">2403.03911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14711.html">High-fidelity collisional quantum gates with fermionic atoms</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Petar Bojović et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14711">2506.14711</a></td>
 </tr>
 </tbody></table>

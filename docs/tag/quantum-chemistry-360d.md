@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">393 papers</span>
+  <span class="paper-count">389 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2348,29 +2348,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15592.html">Enhanced vibrational optical activity by near-zero index chiral effective media</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Ashis Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15592">2506.15592</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06146.html">Configuration Interaction Guided Sampling with Interpretable Restricted Boltzmann Machine</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Jorge I. Hernandez-Martinez et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06146">2409.06146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18843.html">Efficient optimization of neural network backflow for ab-initio quantum chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>An-Jun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18843">2502.18843</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14661.html">Approximating Hamiltonian for Hartree-Fock solutions for nonrelativistic atoms</a></div></td>
-<td>N. Q. San et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14661">2506.14661</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14711.html">High-fidelity collisional quantum gates with fermionic atoms</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Petar Bojović et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14711">2506.14711</a></td>
 </tr>
 </tbody></table>

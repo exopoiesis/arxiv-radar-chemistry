@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2126 papers</span>
+  <span class="paper-count">2119 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12728,47 +12728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17345.html">CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Changwen Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17345">2506.17345</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11008.html">Thermal conductivity of 3C-SiC from configuration space sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Paweł T. Jochym et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11008">2501.11008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05422.html">Nonmagnetic ground state of marcasite FeTe$_{2}$: The competition between crystal field splitting and on-site Coulomb repulsion</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Yue-Fei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05422">2502.05422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10303.html">A Fluctuation Theory of Liquid-Phase Solutions: Shear Viscosity</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yury A. Budkov et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10303">2503.10303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15144.html">A Coordination-Based Model for the Prediction of Surface Energies and the Shape of Metal Particles</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Shyama Charan Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15144">2506.15144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15550.html">Ultraviolet Spectra of Comets: Rejecting the Detection of Pentacene, Toluene, and Fe+</a></div></td>
-<td>Gaël Rouillé</td>
-<td><a href="http://arxiv.org/abs/2506.15550">2506.15550</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15574.html">The study of electronic, structural, mechanical, and piezoelectric properties of bulk NbOX2 (X = Cl, Br, and I) using density functional theory</a></div></td>
-<td>L. D. Tamang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15574">2506.15574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15631.html">Automatic generation of density fitting auxiliary basis sets for all electron Dirac-Kohn-Sham calculations</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Nicolo&#x27; Antonini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15631">2506.15631</a></td>
 </tr>
 </tbody></table>

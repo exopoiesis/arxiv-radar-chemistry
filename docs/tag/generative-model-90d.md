@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14717.html">Training-Free Generation of Protein Sequences from Small Family Alignments via Stochastic Attention</a></div></td>
 <td>Jeffrey D. Varner</td>
 <td><a href="http://arxiv.org/abs/2603.14717">2603.14717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14504.html">Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Niklas Schweiger et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14504">2603.14504</a></td>
 </tr>
 </tbody></table>

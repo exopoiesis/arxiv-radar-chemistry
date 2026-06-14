@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">573 papers</span>
+  <span class="paper-count">572 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3446,11 +3446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16091.html">Geometric deep learning assists protein engineering. Opportunities and Challenges</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Julián García-Vinuesa et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16091">2506.16091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15309.html">Active Learning-Guided Seq2Seq Variational Autoencoder for Multi-target Inhibitor Generation</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="chemical-space-360d.html">chemical-space</a></div></td>
-<td>Júlia Vilalta-Mor et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15309">2506.15309</a></td>
 </tr>
 </tbody></table>

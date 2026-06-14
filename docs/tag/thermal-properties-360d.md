@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">320 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,23 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14748.html">Generative design of functional organic molecules for terahertz radiation detection</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Zsuzsanna Koczor-Benda et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14748">2503.14748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11008.html">Thermal conductivity of 3C-SiC from configuration space sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Paweł T. Jochym et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11008">2501.11008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10303.html">A Fluctuation Theory of Liquid-Phase Solutions: Shear Viscosity</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Yury A. Budkov et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10303">2503.10303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15109.html">High-Throughput Computation of Anharmonic Low-Frequency Protein Vibrations</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Michael A. Sauer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15109">2506.15109</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">452 papers</span>
+  <span class="paper-count">450 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2714,17 +2714,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17340.html">Revisiting Sampling Strategies for Molecular Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Yuyan Ni et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17340">2506.17340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15163.html">Fundamentals of the metal contact to p-type GaN: new multilayer design</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Konrad Sakowski et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15163">2506.15163</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15673.html">UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting</a></div></td>
-<td>Kai He et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15673">2506.15673</a></td>
 </tr>
 </tbody></table>

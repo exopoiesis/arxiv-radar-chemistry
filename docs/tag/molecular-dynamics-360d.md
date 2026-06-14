@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1598 papers</span>
+  <span class="paper-count">1595 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9584,23 +9584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15934.html">Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Minseok Moon et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15934">2506.15934</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05036.html">When do molecular polaritons behave like optical filters?</a></div></td>
-<td>Kai Schwennicke et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05036">2408.05036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15109.html">High-Throughput Computation of Anharmonic Low-Frequency Protein Vibrations</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Michael A. Sauer et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15109">2506.15109</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15782.html">Convergent Methods for Koopman Operators on Reproducing Kernel Hilbert Spaces</a></div></td>
-<td>Nicolas Boullé et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15782">2506.15782</a></td>
 </tr>
 </tbody></table>

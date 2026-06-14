@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,17 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00048.html">A collaborative digital twin built on FAIR data and compute infrastructure</a></div></td>
 <td>Thomas M. Deucher et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00048">2507.00048</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01551.html">Cosmology and general relativity (GR) in upper secondary school through new targeted teaching materials: a study on student learning and motivation</a></div></td>
-<td>Alice Gasparini et al.</td>
-<td><a href="http://arxiv.org/abs/2412.01551">2412.01551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15309.html">Active Learning-Guided Seq2Seq Variational Autoencoder for Multi-target Inhibitor Generation</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Júlia Vilalta-Mor et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15309">2506.15309</a></td>
 </tr>
 </tbody></table>

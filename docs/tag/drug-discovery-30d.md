@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,29 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16823.html">Atoms as Language: VQ-Atom: Semantic Discretization for Molecular Representation Learning</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="molecular-representation-30d.html">molecular-representation</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Takayuki Kimura</td>
 <td><a href="http://arxiv.org/abs/2605.16823">2605.16823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Nian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14769.html">Composable Crystals: Controllable Materials Discovery via Concept Learning</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Nian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14769">2605.14769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15354.html">Controllable Molecular Generative Foundation Models</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Yihan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15354">2605.15354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15461.html">DrugSAGE:Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Yikun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15461">2605.15461</a></td>
 </tr>
 </tbody></table>

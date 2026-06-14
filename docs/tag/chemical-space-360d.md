@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14748.html">Generative design of functional organic molecules for terahertz radiation detection</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Zsuzsanna Koczor-Benda et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14748">2503.14748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15309.html">Active Learning-Guided Seq2Seq Variational Autoencoder for Multi-target Inhibitor Generation</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Júlia Vilalta-Mor et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15309">2506.15309</a></td>
 </tr>
 </tbody></table>

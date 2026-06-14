@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,23 +188,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08740.html">Combinatorics in one-based and related structures</a></div></td>
 <td>Artem Chernikov et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08740">2606.08740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08148.html">Inverse design of bespoke interatomic potentials via active learning by information-matching</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Yonatan Kurniawan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08148">2606.08148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08181.html">Microscopic mechanism of high-temperature superconductivity revealed by ab initio studies on hole-doped multilayer cuprates HgBa$_2$Ca$_2$Cu$_3$O$_8$ under pressure</a></div></td>
-<td>Ryui Kaneko et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08181">2606.08181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08333.html">Nearly ballistic transport and high magnetic-field sensitivity in a $\text{Bi}_4\text{Br}_4$ topological Josephson weak link</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Enamul Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08333">2606.08333</a></td>
 </tr>
 </tbody></table>

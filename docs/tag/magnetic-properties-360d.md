@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">384 papers</span>
+  <span class="paper-count">381 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2300,23 +2300,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16815.html">Observation of Orbital-Selective Dual Modulations in an Anisotropic Antiferromagnetic Kagome Metal TbTi3Bi4</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Renjie Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2412.16815">2412.16815</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05422.html">Nonmagnetic ground state of marcasite FeTe$_{2}$: The competition between crystal field splitting and on-site Coulomb repulsion</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Yue-Fei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05422">2502.05422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06498.html">Quantum Magnetic J-Oscillators</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jingyan Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06498">2504.06498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15631.html">Automatic generation of density fitting auxiliary basis sets for all electron Dirac-Kohn-Sham calculations</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Nicolo&#x27; Antonini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15631">2506.15631</a></td>
 </tr>
 </tbody></table>

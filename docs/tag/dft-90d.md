@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">559 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Auguste Tetenoire et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14207">2606.14207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14498.html">A Fixed-Point Neural Operator for Size- and Functional-Transferable Hamiltonian Prediction</a></div></td>
+<td>Yunhong Lou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14498">2606.14498</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14624.html">Spin disorder competing with positional symmetry breaking governs the metal-insulator behavior in oxide paramagnets</a></div></td>
+<td>Jia-Xin Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14624">2606.14624</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
@@ -56,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13654.html">Orbital-optimized density functional calculations of excited electronic states: Recent advances and perspectives</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Lorenzo Restaino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13654">2606.13654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -3290,83 +3314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17196.html">Self-Conditioned Denoising for Atomistic Representation Learning</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Tynan Perez et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17196">2603.17196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16377.html">Tight-binding and density-functional study of the Raman tensor in two-dimensional massive Dirac fermion systems</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Selçuk Parlak et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16377">2512.16377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00581.html">AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Stephen E. Farr et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00581">2601.00581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07770.html">A DFT study of B-doped graphene as a metal-anchor: effects of oxidation and strain</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Nikola Veličković et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07770">2601.07770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16794.html">Improved Kelbg Potentials for $Z&gt;1$ and Application to Carbon Plasmas</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Heather D. Whitley et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16794">2601.16794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14700.html">Design Space of Self--Consistent Electrostatic Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>William J. Baldwin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14700">2603.14700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14931.html">Inverse Design Validated Optimization of Lead-Free Cs$_3$Cu$_2$Cl$_5$ Visible-Light Microring Resonators Using a Coupled DFT-FDTD Framework</a></div></td>
-<td>Shoumik Debnath et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14931">2603.14931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15343.html">Ab Initio Study of Erbium Point Defects in 4H-SiC for Quantum Devices</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Michael Kuban</td>
-<td><a href="http://arxiv.org/abs/2603.15343">2603.15343</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15581.html">Engineering van der Waals heterostructures for dispersion-selective meV-scale quantum sensing</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Elizabeth A. Peterson</td>
-<td><a href="http://arxiv.org/abs/2603.15581">2603.15581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15787.html">Tailoring spontaneous symmetry breaking in engineered van der Waals superlattices</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Keda Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15787">2603.15787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15846.html">Transfer Learning Meets Embedded Correlated Wavefunction Theory for Chemically Accurate Molecular Simulations: Application to Calcium Carbonate Ion-Pairing</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Xuezhi Bian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15846">2603.15846</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15850.html">Assessing the suitability of the Thomas-Fermi-von Weizsäcker density functional for itinerant magnetism</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Bishal Thapa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15850">2603.15850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15906.html">Tuning the optoelectronic properties of graphene quantum dots by BN-ring doping: A density functional theory study</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Samayita Das et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15906">2603.15906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16000.html">Descriptor-Based Classification of Interfacial Electronic Coupling in Janus XP3-Based 2D Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Erika N. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16000">2603.16000</a></td>
 </tr>
 </tbody></table>

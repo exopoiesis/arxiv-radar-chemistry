@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Debsundar Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12057.html">ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development</a></div></td>
 <td>Rui Huang et al.</td>
@@ -1058,11 +1064,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17866.html">Computational Discovery of Metastable NaMnO$_2$ Polymorphs as High-Performance Cathodes with Ultralow Na$^+$ Migration Barriers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Fukuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17866">2506.17866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24468.html">Decoupling Electric Field and Temperature-Driven Atomistic Forming Mechanisms in TaOx/HfO2-Based ReRAMs using Reactive Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Simanta Lahkar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24468">2505.24468</a></td>
 </tr>
 </tbody></table>

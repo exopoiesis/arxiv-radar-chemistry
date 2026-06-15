@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17122.html">Engineering Quantum Phases in Two Dimensions via Vacancy-Induced Electronic Reconstruction</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Emmanuel V. C. Lopes et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17122">2603.17122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14695.html">Scaling Autoregressive Models for Lattice Thermodynamics</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Xiaochen Du et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14695">2603.14695</a></td>
 </tr>
 </tbody></table>

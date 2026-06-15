@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Auguste Tetenoire et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14207">2606.14207</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13118.html">Hamiltonian-Aware ADAPT Variational Quantum Eigensolver for Molecular Ground-State Simulation</a></div></td>
@@ -164,23 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22394.html">Dynamic electron correlation energy for multireference wavefunction methods from one- and two-electron reduced density matrices</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Michał Hapka et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22394">2605.22394</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15927.html">Data-driven complete basis set limit estimates from a minimal auxiliary basis</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Nicolas Grimblat et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15927">2605.15927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16189.html">Quantum Solvers for Nonlinear Matrix Equations in Quantum Chemistry</a></div></td>
-<td>Pablo Rodenas-Ruiz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16189">2605.16189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18877.html">Logical Resource Estimation for Quantum State Preparation with Compilation</a></div></td>
-<td>Diyi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18877">2605.18877</a></td>
 </tr>
 </tbody></table>

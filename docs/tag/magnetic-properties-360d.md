@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13874.html">Dynamical multiferroicity in framework materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Marek Matas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13874">2606.13874</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Clemens Wager et al.</td>
@@ -2294,11 +2300,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17502.html">Single crystalline orthorhombic GdAlGe as a rare earth magnetic Dirac nodal-line metal</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Antu Laha et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17502">2506.17502</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16815.html">Observation of Orbital-Selective Dual Modulations in an Anisotropic Antiferromagnetic Kagome Metal TbTi3Bi4</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Renjie Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16815">2412.16815</a></td>
 </tr>
 </tbody></table>

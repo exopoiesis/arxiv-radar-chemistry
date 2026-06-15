@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -848,59 +848,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17043.html">OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
 <td>Sankalp Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17043">2603.17043</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05144.html">Revisiting ab-initio excited state forces from many-body Green&#x27;s function formalism: approximations and benchmark</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Rafael R. Del Grande et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05144">2502.05144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16377.html">Tight-binding and density-functional study of the Raman tensor in two-dimensional massive Dirac fermion systems</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Selçuk Parlak et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16377">2512.16377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07770.html">A DFT study of B-doped graphene as a metal-anchor: effects of oxidation and strain</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Nikola Veličković et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07770">2601.07770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14775.html">Neural network backflow for ab-initio solid calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>An-Jun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14775">2603.14775</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15140.html">Moiré Ferroelectricity-Driven Band Engineering in Twisted Square Bilayers</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Kejie Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15140">2603.15140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15581.html">Engineering van der Waals heterostructures for dispersion-selective meV-scale quantum sensing</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Elizabeth A. Peterson</td>
-<td><a href="http://arxiv.org/abs/2603.15581">2603.15581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15787.html">Tailoring spontaneous symmetry breaking in engineered van der Waals superlattices</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Keda Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15787">2603.15787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15906.html">Tuning the optoelectronic properties of graphene quantum dots by BN-ring doping: A density functional theory study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Samayita Das et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15906">2603.15906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16000.html">Descriptor-Based Classification of Interfacial Electronic Coupling in Janus XP3-Based 2D Heterostructures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Erika N. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16000">2603.16000</a></td>
 </tr>
 </tbody></table>

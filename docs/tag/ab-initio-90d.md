@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">416 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02420.html">Quenching of Nonrelativistic $p$-Wave Spin Splitting by Reduced $c\text{-}f$ Coupling in $\text{CeNiAsO}$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Xinnuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02420">2606.02420</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Debsundar Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14546.html">Resonant scattering in two-flavored Sp(4) lattice gauge theories</a></div></td>
+<td>Ed Bennett et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14546">2606.14546</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -38,6 +56,24 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13588.html">Cepstral Analysis to accelerate Green-Kubo thermal conductivity calculations of Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mof-90d.html">mof</a></div></td>
 <td>Florian P. Lindner et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13588">2606.13588</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Luca Leoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13874.html">Dynamical multiferroicity in framework materials</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Marek Matas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13874">2606.13874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -2450,65 +2486,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17194.html">$\textit{Ab initio}$ Identification of Hydrogen Tunneling as Two-Level Systems in Nb$_2$O$_5$ and Ta$_2$O$_5$</a></div></td>
 <td>Cristóbal Méndez et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17194">2603.17194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05144.html">Revisiting ab-initio excited state forces from many-body Green&#x27;s function formalism: approximations and benchmark</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Rafael R. Del Grande et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05144">2502.05144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09554.html">First-Principles Determination of the Proton-Proton Fusion Matrix Element from Lattice QCD</a></div></td>
-<td>Zi-Yu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09554">2603.09554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12355.html">Unified theory of orientation averaging in X-ray spectroscopies: understanding polarization dependence in a Cartesian tensor approach</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Sihan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12355">2603.12355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14775.html">Neural network backflow for ab-initio solid calculations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>An-Jun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14775">2603.14775</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15035.html">Loss of altermagnetic order and smooth restoration of Kramers&#x27; spin degeneracy with increasing temperature in CrSb and MnTe</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Christopher D. Woodgate et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15035">2603.15035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15140.html">Moiré Ferroelectricity-Driven Band Engineering in Twisted Square Bilayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Kejie Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15140">2603.15140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15343.html">Ab Initio Study of Erbium Point Defects in 4H-SiC for Quantum Devices</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Michael Kuban</td>
-<td><a href="http://arxiv.org/abs/2603.15343">2603.15343</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15581.html">Engineering van der Waals heterostructures for dispersion-selective meV-scale quantum sensing</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Elizabeth A. Peterson</td>
-<td><a href="http://arxiv.org/abs/2603.15581">2603.15581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15906.html">Tuning the optoelectronic properties of graphene quantum dots by BN-ring doping: A density functional theory study</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Samayita Das et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15906">2603.15906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16000.html">Descriptor-Based Classification of Interfacial Electronic Coupling in Janus XP3-Based 2D Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Erika N. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16000">2603.16000</a></td>
 </tr>
 </tbody></table>

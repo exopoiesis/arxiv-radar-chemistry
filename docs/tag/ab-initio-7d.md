@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02420.html">Quenching of Nonrelativistic $p$-Wave Spin Splitting by Reduced $c\text{-}f$ Coupling in $\text{CeNiAsO}$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Xinnuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02420">2606.02420</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Debsundar Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14546.html">Resonant scattering in two-flavored Sp(4) lattice gauge theories</a></div></td>
+<td>Ed Bennett et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14546">2606.14546</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
@@ -38,6 +56,24 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13588.html">Cepstral Analysis to accelerate Green-Kubo thermal conductivity calculations of Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mof-7d.html">mof</a></div></td>
 <td>Florian P. Lindner et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13588">2606.13588</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
+<td>Luca Leoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13874.html">Dynamical multiferroicity in framework materials</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Marek Matas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13874">2606.13874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -164,29 +200,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Patrick Müller et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08423.html">First-Principles Investigation of Electron--Phonon Coupling and Intrinsic Two-Gap Superconductivity in Hexagonal BAs3 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08423">2606.08423</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08611.html">Bayesian Optimization of a Multi-Product Chemical Reactor Using Composite Models and Partial Physics Knowledge</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a></div></td>
-<td>Liqiu Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08611">2606.08611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Tamer Taşkıran et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08740.html">Combinatorics in one-based and related structures</a></div></td>
-<td>Artem Chernikov et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08740">2606.08740</a></td>
 </tr>
 </tbody></table>

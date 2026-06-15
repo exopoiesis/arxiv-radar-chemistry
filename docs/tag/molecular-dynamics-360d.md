@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1595 papers</span>
+  <span class="paper-count">1597 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14111.html">Temperature transferable Machine Learned Coarse Grained model for proteins</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Jacopo Venturin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14111">2606.14111</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Debsundar Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14590.html">Lattice dynamics and the spectroscopic signatures of H-bond disorder in $δ$-AlOOH</a></div></td>
+<td>Chenxing Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14590">2606.14590</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12916.html">MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback</a></div></td>
@@ -26,6 +44,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13283.html">Archê, an orbital-free molecular dynamics code for fast production of equations of state</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>William Weens et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13283">2606.13283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13831.html">Combining Frozen Trajectory Excitation and TACAW for in silico Time-Resolved Vibrational Electron Energy Loss/Gain Spectroscopy</a></div></td>
+<td>Wojciech Marciniak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13831">2606.13831</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Luca Leoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -9566,23 +9596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17520.html">A review of heat transport in solvated gold nanoparticles: Molecular dynamics modeling and experimental perspectives</a></div></td>
 <td>Md Adnan Mahathir Munshi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17520">2506.17520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13750.html">Segregation, ordering, and precipitation in WTaV-based concentrated refractory alloys</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Jesper Byggmästar et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13750">2412.13750</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24468.html">Decoupling Electric Field and Temperature-Driven Atomistic Forming Mechanisms in TaOx/HfO2-Based ReRAMs using Reactive Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Simanta Lahkar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24468">2505.24468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15934.html">Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Minseok Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15934">2506.15934</a></td>
 </tr>
 </tbody></table>

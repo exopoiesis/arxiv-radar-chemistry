@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Auguste Tetenoire et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14207">2606.14207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14498.html">A Fixed-Point Neural Operator for Size- and Functional-Transferable Hamiltonian Prediction</a></div></td>
+<td>Yunhong Lou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14498">2606.14498</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14624.html">Spin disorder competing with positional symmetry breaking governs the metal-insulator behavior in oxide paramagnets</a></div></td>
+<td>Jia-Xin Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14624">2606.14624</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
@@ -56,6 +74,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13654.html">Orbital-optimized density functional calculations of excited electronic states: Recent advances and perspectives</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
 <td>Lorenzo Restaino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13654">2606.13654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -890,59 +914,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17166.html">Optical, vibrational, and electronic properties of semiconducting YbN</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
 <td>M. Markwitz et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17166">2605.17166</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15623.html">Microscopic derivation of the interacting boson model parameters with machine learning</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Y. Obata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15623">2605.15623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15630.html">Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="string-method-30d.html">string-method</a></div></td>
-<td>Sauradeep Majumdar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15630">2605.15630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15979.html">Hybrid Quantum-Classical Density Functional Theory: A Structured Framework</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Namrata Manglani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15979">2605.15979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16038.html">Interfacial Reconstructions and Engineering in III-V@II-VI Core-Shell Quantum Dots</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Jordi Llusar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16038">2605.16038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16055.html">Fuzzy band structure of quantum dots by Bloch Orbital Expansion, unconventional insights into geometry-electronic structure relations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Zeger Hens et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16055">2605.16055</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16073.html">Charge Transfer from Perovskite Quantum Dots to Multifunctional Ligands with Tethered Molecular Species</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
-<td>Mariam Kurashvili et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16073">2605.16073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16242.html">Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism</a></div></td>
-<td>Mohamed El Gazzah et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16242">2605.16242</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16580.html">Revealing Hund superdispersion with tunneling spectroscopy</a></div></td>
-<td>Luke C. Rhodes et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16580">2605.16580</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16583.html">Crystal growth and characterization of the ultra-high temperature substrate $\mathrm{Ta_{1-x}Hf_{x}C_{0.5}}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Evan N. Crites et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16583">2605.16583</a></td>
 </tr>
 </tbody></table>

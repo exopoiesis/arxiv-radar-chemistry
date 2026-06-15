@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14595.html">Scalable Fabrication of Thermally Reconfigurable Ge Metasurfaces Using Stencil Lithography for Mid-Infrared Molecular Sensing</a></div></td>
+<td>Shovasis Kumar Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14595">2606.14595</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11382.html">GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
@@ -86,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16823.html">Atoms as Language: VQ-Atom: Semantic Discretization for Molecular Representation Learning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Takayuki Kimura</td>
 <td><a href="http://arxiv.org/abs/2605.16823">2605.16823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15927.html">Data-driven complete basis set limit estimates from a minimal auxiliary basis</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Nicolas Grimblat et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15927">2605.15927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16480.html">MoleCode unlocks structural intelligence in large language models</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Zhiyuan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16480">2605.16480</a></td>
 </tr>
 </tbody></table>

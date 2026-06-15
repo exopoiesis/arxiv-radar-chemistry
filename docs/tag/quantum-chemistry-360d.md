@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Auguste Tetenoire et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14207">2606.14207</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13118.html">Hamiltonian-Aware ADAPT Variational Quantum Eigensolver for Molecular Ground-State Simulation</a></div></td>
 <td>Runhong He et al.</td>
@@ -2330,11 +2336,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17207.html">High-precision Quantum Phase Estimation on a Trapped-ion Quantum Computer</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Andrew Tranter et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17207">2506.17207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07231.html">Critical Limitations in Quantum-Selected Configuration Interaction Methods</a></div></td>
-<td>Peter Reinholdt et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07231">2501.07231</a></td>
 </tr>
 </tbody></table>

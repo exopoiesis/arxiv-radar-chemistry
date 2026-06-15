@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Auguste Tetenoire et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14207">2606.14207</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13118.html">Hamiltonian-Aware ADAPT Variational Quantum Eigensolver for Molecular Ground-State Simulation</a></div></td>
 <td>Runhong He et al.</td>
@@ -656,11 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17062.html">Full-quantum variational dynamics simulation for time-dependent Hamiltonians with global spectral discretization</a></div></td>
 <td>Minchen Qiao et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17062">2603.17062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15870.html">Riemannian gradient descent for Hartree-Fock theory</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Evgueni Dinvay</td>
-<td><a href="http://arxiv.org/abs/2603.15870">2603.15870</a></td>
 </tr>
 </tbody></table>

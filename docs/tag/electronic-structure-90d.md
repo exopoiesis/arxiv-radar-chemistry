@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02420.html">Quenching of Nonrelativistic $p$-Wave Spin Splitting by Reduced $c\text{-}f$ Coupling in $\text{CeNiAsO}$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
+<td>Xinnuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02420">2606.02420</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13434.html">Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -794,41 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03686.html">The Role of Defect Geometry in Localized Emission from Monolayer Tungsten Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
 <td>S. Carin Gavin et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03686">2412.03686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07770.html">A DFT study of B-doped graphene as a metal-anchor: effects of oxidation and strain</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Nikola Veličković et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07770">2601.07770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12355.html">Unified theory of orientation averaging in X-ray spectroscopies: understanding polarization dependence in a Cartesian tensor approach</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Sihan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12355">2603.12355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15035.html">Loss of altermagnetic order and smooth restoration of Kramers&#x27; spin degeneracy with increasing temperature in CrSb and MnTe</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Christopher D. Woodgate et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15035">2603.15035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15581.html">Engineering van der Waals heterostructures for dispersion-selective meV-scale quantum sensing</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Elizabeth A. Peterson</td>
-<td><a href="http://arxiv.org/abs/2603.15581">2603.15581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15870.html">Riemannian gradient descent for Hartree-Fock theory</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Evgueni Dinvay</td>
-<td><a href="http://arxiv.org/abs/2603.15870">2603.15870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15906.html">Tuning the optoelectronic properties of graphene quantum dots by BN-ring doping: A density functional theory study</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Samayita Das et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15906">2603.15906</a></td>
 </tr>
 </tbody></table>

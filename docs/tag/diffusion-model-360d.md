@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Nofit Segal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14003">2606.14003</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13451.html">Uncertainty Estimation for Molecular Diffusion Models</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Paul Seij et al.</td>
@@ -2708,11 +2714,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00751.html">InstructAttribute: Fine-grained Object Attributes editing with Instruction</a></div></td>
 <td>Xingxi Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00751">2505.00751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17340.html">Revisiting Sampling Strategies for Molecular Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Yuyan Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17340">2506.17340</a></td>
 </tr>
 </tbody></table>

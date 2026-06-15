@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13660.html">Spin-Polarized Oxygen Evolution in Chiral-Molecule-Modified Plasmonic Photoanodes</a></div></td>
 <td>Priscila Vensaus et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13660">2606.13660</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Luca Leoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -470,23 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16959.html">Machine intelligence supports the full chain of 2D dendrite synthesis</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a></div></td>
 <td>Wenqiang Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16959">2603.16959</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07770.html">A DFT study of B-doped graphene as a metal-anchor: effects of oxidation and strain</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Nikola Veličković et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07770">2601.07770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14695.html">Scaling Autoregressive Models for Lattice Thermodynamics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Xiaochen Du et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14695">2603.14695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15712.html">LLM-Driven Discovery of High-Entropy Catalysts via Retrieval-Augmented Generation</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>AI Scientists et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15712">2603.15712</a></td>
 </tr>
 </tbody></table>

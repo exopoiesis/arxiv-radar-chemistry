@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.13451">2606.13451</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13955.html">Smoothing Dark Areas in Molecular Latent Diffusion</a></div></td>
+<td>Xi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13955">2606.13955</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
 <td>Tuan A. Vu et al.</td>
@@ -104,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20235.html">Provably Learning Diffusion Models under the Manifold Hypothesis: Collapse and Refine</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Wei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20235">2605.20235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16480.html">MoleCode unlocks structural intelligence in large language models</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Zhiyuan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16480">2605.16480</a></td>
 </tr>
 </tbody></table>

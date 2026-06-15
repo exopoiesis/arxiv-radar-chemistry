@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14215.html">LapidaryEngine: Fully Conversational Crystal Generation</a></div></td>
+<td>Yusei Ito et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14215">2606.14215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14510.html">PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Junming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14510">2606.14510</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Yifan Zhao et al.</td>
@@ -2852,17 +2864,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18779.html">DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model</a></div></td>
 <td>Bao Thach et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18779">2506.18779</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16102.html">Fast Training-free Perceptual Image Compression</a></div></td>
-<td>Ziran Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16102">2506.16102</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17340.html">Revisiting Sampling Strategies for Molecular Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Yuyan Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17340">2506.17340</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">585 papers</span>
+  <span class="paper-count">582 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3506,23 +3506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17397.html">Negative intrinsic viscosity in graphene nanoparticle suspensions induced by hydrodynamic slip</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Adyant Agrawal et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17397">2506.17397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12052.html">Exploring functionalized Zr$_2$N and Sc$_2$N MXenes as superconducting candidates with $\textit{ab initio}$ calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Alpin N. Tatan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12052">2409.12052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14026.html">Theoretical investigation of interface atomic structure of graphene on NiFe alloy substrate</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Naohiro Matsumoto et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14026">2505.14026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24468.html">Decoupling Electric Field and Temperature-Driven Atomistic Forming Mechanisms in TaOx/HfO2-Based ReRAMs using Reactive Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Simanta Lahkar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24468">2505.24468</a></td>
 </tr>
 </tbody></table>

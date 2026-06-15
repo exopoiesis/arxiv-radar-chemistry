@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Debsundar Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
@@ -1034,29 +1040,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16770.html">Training a force field for proteins and small molecules from scratch</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Alexandre Blanco-González et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16770">2603.16770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00581.html">AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Stephen E. Farr et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00581">2601.00581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14700.html">Design Space of Self--Consistent Electrostatic Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>William J. Baldwin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14700">2603.14700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14747.html">Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ryotaro Sahashi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14747">2603.14747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15846.html">Transfer Learning Meets Embedded Correlated Wavefunction Theory for Chemically Accurate Molecular Simulations: Application to Calcium Carbonate Ion-Pairing</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Xuezhi Bian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15846">2603.15846</a></td>
 </tr>
 </tbody></table>

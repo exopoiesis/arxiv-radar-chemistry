@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Nofit Segal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14003">2606.14003</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13451.html">Uncertainty Estimation for Molecular Diffusion Models</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Paul Seij et al.</td>
@@ -152,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20235.html">Provably Learning Diffusion Models under the Manifold Hypothesis: Collapse and Refine</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Wei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20235">2605.20235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16104.html">StateXDiff: Cell State-Contextualized Multimodal Diffusion for Single-Cell Perturbation Prediction</a></div></td>
-<td>Peiting Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16104">2605.16104</a></td>
 </tr>
 </tbody></table>

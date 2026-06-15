@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>retrosynthesis — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <strong>90d</strong> <a href="retrosynthesis-360d.html">360d</a> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29723.html">Reinforced Reasoning for End-to-End Retrosynthetic Planning</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Chenyang Zuo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29723">2603.29723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04439.html">RETRO SYNFLOW: Discrete Flow Matching for Accurate and Diverse Single-Step Retrosynthesis</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Robin Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04439">2506.04439</a></td>
 </tr>
 </tbody></table>

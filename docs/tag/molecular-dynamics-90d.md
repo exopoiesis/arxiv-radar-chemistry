@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">417 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14111.html">Temperature transferable Machine Learned Coarse Grained model for proteins</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Jacopo Venturin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14111">2606.14111</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Debsundar Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14590.html">Lattice dynamics and the spectroscopic signatures of H-bond disorder in $δ$-AlOOH</a></div></td>
+<td>Chenxing Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14590">2606.14590</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12916.html">MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback</a></div></td>
@@ -26,6 +44,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13283.html">Archê, an orbital-free molecular dynamics code for fast production of equations of state</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
 <td>William Weens et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13283">2606.13283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13831.html">Combining Frozen Trajectory Excitation and TACAW for in silico Time-Resolved Vibrational Electron Energy Loss/Gain Spectroscopy</a></div></td>
+<td>Wojciech Marciniak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13831">2606.13831</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Luca Leoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -2486,53 +2516,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16990.html">Extended Lagrangian molecular dynamics on vibronic surfaces in the nuclear-electronic orbital framework</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Joseph A. Dickinson et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16990">2603.16990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22623.html">Mesoscopic Modeling of Structure-Transport Relationships in Dense CNT Films Containing Amorphous Carbon</a></div></td>
-<td>Yvelin Giret et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22623">2510.22623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00581.html">AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Stephen E. Farr et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00581">2601.00581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16794.html">Improved Kelbg Potentials for $Z&gt;1$ and Application to Carbon Plasmas</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Heather D. Whitley et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16794">2601.16794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05343.html">Preserving Continuous Symmetry in Discrete Spaces: Geometric-Aware Quantization for SO(3)-Equivariant GNNs</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Haoyu Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05343">2603.05343</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14747.html">Decoupling structural and bonding effects on ferroelectric switching in ScAlN via molecular dynamics under an applied electric field</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Ryotaro Sahashi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14747">2603.14747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14839.html">Coupled Space Weathering: Nanophase Iron Formation by Micrometeoroid Impact and Solar Wind Sputtering</a></div></td>
-<td>Ziyu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14839">2603.14839</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15142.html">Monolithic integration of diverse crystalline thin films on diamond for near-junction thermal management</a></div></td>
-<td>Tiancheng Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15142">2603.15142</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15846.html">Transfer Learning Meets Embedded Correlated Wavefunction Theory for Chemically Accurate Molecular Simulations: Application to Calcium Carbonate Ion-Pairing</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Xuezhi Bian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15846">2603.15846</a></td>
 </tr>
 </tbody></table>

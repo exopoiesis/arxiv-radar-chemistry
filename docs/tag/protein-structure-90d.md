@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,23 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22304.html">Mitigating Premature Discretization with Progressive Quantization for Robust Vector Tokenization</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
 <td>Wenhao Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22304">2603.22304</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14806.html">Fold-CP: A Context Parallelism Framework for Biomolecular Modeling</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Dejun Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14806">2603.14806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15778.html">Biomedical active matter: Emergence and breakdown of collective functionalities</a></div></td>
-<td>Arnold Mathijssen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15778">2603.15778</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15952.html">Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents</a></div></td>
-<td>Jacopo Teneggi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15952">2603.15952</a></td>
 </tr>
 </tbody></table>

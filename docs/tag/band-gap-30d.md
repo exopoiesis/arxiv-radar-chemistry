@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02420.html">Quenching of Nonrelativistic $p$-Wave Spin Splitting by Reduced $c\text{-}f$ Coupling in $\text{CeNiAsO}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Xinnuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02420">2606.02420</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13434.html">Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Ken Beard et al.</td>
@@ -158,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17166.html">Optical, vibrational, and electronic properties of semiconducting YbN</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>M. Markwitz et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17166">2605.17166</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16055.html">Fuzzy band structure of quantum dots by Bloch Orbital Expansion, unconventional insights into geometry-electronic structure relations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Zeger Hens et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16055">2605.16055</a></td>
 </tr>
 </tbody></table>

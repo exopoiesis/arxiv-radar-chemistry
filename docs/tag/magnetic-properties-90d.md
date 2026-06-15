@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13874.html">Dynamical multiferroicity in framework materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Marek Matas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13874">2606.13874</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Clemens Wager et al.</td>
@@ -530,11 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17122.html">Engineering Quantum Phases in Two Dimensions via Vacancy-Induced Electronic Reconstruction</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Emmanuel V. C. Lopes et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17122">2603.17122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15850.html">Assessing the suitability of the Thomas-Fermi-von Weizsäcker density functional for itinerant magnetism</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Bishal Thapa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15850">2603.15850</a></td>
 </tr>
 </tbody></table>

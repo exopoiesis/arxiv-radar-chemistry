@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.13660">2606.13660</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Luca Leoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12110.html">Scalable Conformal MoSx Catalyst for Efficient Hydrogen Evolution at Industrial-Level Current Density in Alkaline Electrolyzers</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
 <td>Yong Zuo et al.</td>
@@ -1838,11 +1844,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17963.html">OmniESI: A unified framework for enzyme-substrate interaction prediction with progressive conditional deep learning</a></div></td>
 <td>Zhiwei Nie et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17963">2506.17963</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16324.html">Quantum Catalytic Space</a></div></td>
-<td>Harry Buhrman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16324">2506.16324</a></td>
 </tr>
 </tbody></table>

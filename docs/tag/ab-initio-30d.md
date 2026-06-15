@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02420.html">Quenching of Nonrelativistic $p$-Wave Spin Splitting by Reduced $c\text{-}f$ Coupling in $\text{CeNiAsO}$</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Xinnuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02420">2606.02420</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Debsundar Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14546.html">Resonant scattering in two-flavored Sp(4) lattice gauge theories</a></div></td>
+<td>Ed Bennett et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14546">2606.14546</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
@@ -38,6 +56,24 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13588.html">Cepstral Analysis to accelerate Green-Kubo thermal conductivity calculations of Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mof-30d.html">mof</a></div></td>
 <td>Florian P. Lindner et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13588">2606.13588</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Luca Leoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13874.html">Dynamical multiferroicity in framework materials</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Marek Matas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13874">2606.13874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -680,53 +716,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16771.html">Systematic dynamical mean-field theory study of 3d perovskite oxides with uniform Coulomb interactions</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Antik Sihi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16771">2605.16771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15608.html">Transformer-like Inference from Optimal Control</a></div></td>
-<td>Aditya Kudre et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15608">2605.15608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16018.html">Benchmarking empirical and machine-learned interatomic potentials using phase diagram predictions for Lead</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
-<td>Tom Hellyar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16018">2605.16018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16055.html">Fuzzy band structure of quantum dots by Bloch Orbital Expansion, unconventional insights into geometry-electronic structure relations</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Zeger Hens et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16055">2605.16055</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16091.html">Machine learning potential as a guide for eutectic in ultra-refractory multicomponent ceramics</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>V. E. Valiulin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16091">2605.16091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16123.html">Thermal conductivity of seifertite and pyrite-type SiO$_2$: A comparative study</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Doyoon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16123">2605.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16126.html">Entropy Across the Bridge: Conditional-Marginal Discretization for Flow and Schrödinger Samplers</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Bruno Trentini et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16126">2605.16126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16230.html">Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Abhijatmedhi Chotrattanapituk et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16230">2605.16230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16583.html">Crystal growth and characterization of the ultra-high temperature substrate $\mathrm{Ta_{1-x}Hf_{x}C_{0.5}}$</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Evan N. Crites et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16583">2605.16583</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Auguste Tetenoire et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14207">2606.14207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14498.html">A Fixed-Point Neural Operator for Size- and Functional-Transferable Hamiltonian Prediction</a></div></td>
+<td>Yunhong Lou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14498">2606.14498</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14624.html">Spin disorder competing with positional symmetry breaking governs the metal-insulator behavior in oxide paramagnets</a></div></td>
+<td>Jia-Xin Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14624">2606.14624</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Shuqi Tang et al.</td>
@@ -56,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13654.html">Orbital-optimized density functional calculations of excited electronic states: Recent advances and perspectives</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Lorenzo Restaino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13654">2606.13654</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -12704,29 +12728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17502.html">Single crystalline orthorhombic GdAlGe as a rare earth magnetic Dirac nodal-line metal</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Antu Laha et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17502">2506.17502</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12052.html">Exploring functionalized Zr$_2$N and Sc$_2$N MXenes as superconducting candidates with $\textit{ab initio}$ calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Alpin N. Tatan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12052">2409.12052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.16815.html">Observation of Orbital-Selective Dual Modulations in an Anisotropic Antiferromagnetic Kagome Metal TbTi3Bi4</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Renjie Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2412.16815">2412.16815</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14026.html">Theoretical investigation of interface atomic structure of graphene on NiFe alloy substrate</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Naohiro Matsumoto et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14026">2505.14026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17345.html">CLOUD: A Scalable and Physics-Informed Foundation Model for Crystal Representation Learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Changwen Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17345">2506.17345</a></td>
 </tr>
 </tbody></table>

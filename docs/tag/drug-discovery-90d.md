@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14159.html">Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Shuai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14159">2606.14159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14217.html">Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="gnn-90d.html">gnn</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Peng-Fei Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14217">2606.14217</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14245.html">Where Black-box Drug-Target Interaction Prediction Models Look: Cross-Method Explainability</a></div></td>
+<td>Ali Vefghi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14245">2606.14245</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14510.html">PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Junming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14510">2606.14510</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Yifan Zhao et al.</td>
@@ -716,29 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12253.html">Binding Free Energies without Alchemy</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Michael Brocidiacono et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12253">2603.12253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00581.html">AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Stephen E. Farr et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00581">2601.00581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14792.html">LaPro-DTA: Latent Dual-View Drug Representations and Salient Protein Feature Extraction for Generalizable Drug--Target Affinity Prediction</a></div></td>
-<td>Zihan Dun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14792">2603.14792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14797.html">Multi-Task Genetic Algorithm with Multi-Granularity Encoding for Protein-Nucleotide Binding Site Prediction</a></div></td>
-<td>Yiming Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14797">2603.14797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15006.html">Empowering Chemical Structures with Biological Insights for Scalable Phenotypic Virtual Screening</a></div></td>
-<td>Xiaoqing Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15006">2603.15006</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">266 papers</span>
+  <span class="paper-count">264 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1598,17 +1598,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18823.html">Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Anton Klimek et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18823">2506.18823</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16091.html">Geometric deep learning assists protein engineering. Opportunities and Challenges</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Julián García-Vinuesa et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16091">2506.16091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16374.html">Central Dogma Cycle and Network: A Model for Cell Memory</a></div></td>
-<td>Martin R. Schiller</td>
-<td><a href="http://arxiv.org/abs/2506.16374">2506.16374</a></td>
 </tr>
 </tbody></table>

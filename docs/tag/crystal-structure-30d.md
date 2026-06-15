@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>crystal-structure — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <strong>30d</strong> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Nofit Segal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14003">2606.14003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14266.html">Large Language Model Based Agent for Automated Discovery in Computational Physics</a></div></td>
+<td>Hang Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14266">2606.14266</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09611.html">Lattice genome: representation and analysis of heterogeneous crystalline microstructures</a></div></td>
@@ -134,23 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17148.html">Evolutionary Extreme Learning Machine of ab-initio Energy Landscapes for Crystal Structure Prediction using Manta Ray Optimization with Levy Flight</a></div></td>
 <td>Adrian Rubio-Solis</td>
 <td><a href="http://arxiv.org/abs/2605.17148">2605.17148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16073.html">Charge Transfer from Perovskite Quantum Dots to Multifunctional Ligands with Tethered Molecular Species</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
-<td>Mariam Kurashvili et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16073">2605.16073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16091.html">Machine learning potential as a guide for eutectic in ultra-refractory multicomponent ceramics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>V. E. Valiulin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16091">2605.16091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16583.html">Crystal growth and characterization of the ultra-high temperature substrate $\mathrm{Ta_{1-x}Hf_{x}C_{0.5}}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Evan N. Crites et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16583">2605.16583</a></td>
 </tr>
 </tbody></table>

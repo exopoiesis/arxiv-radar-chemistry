@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14595.html">Scalable Fabrication of Thermally Reconfigurable Ge Metasurfaces Using Stencil Lithography for Mid-Infrared Molecular Sensing</a></div></td>
+<td>Shovasis Kumar Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14595">2606.14595</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11382.html">GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Emily Nguyen et al.</td>
@@ -956,11 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03474.html">Molecular Machine Learning Using Euler Characteristic Transforms</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Victor Toscano-Duran et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03474">2507.03474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14748.html">Generative design of functional organic molecules for terahertz radiation detection</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zsuzsanna Koczor-Benda et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14748">2503.14748</a></td>
 </tr>
 </tbody></table>

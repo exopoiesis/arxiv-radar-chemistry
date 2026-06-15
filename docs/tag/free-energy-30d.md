@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>free-energy — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <strong>30d</strong> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14111.html">Temperature transferable Machine Learned Coarse Grained model for proteins</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jacopo Venturin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14111">2606.14111</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14217.html">Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Peng-Fei Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14217">2606.14217</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13283.html">Archê, an orbital-free molecular dynamics code for fast production of equations of state</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -152,35 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16957.html">An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization of Hydroxyapatite as a Case Study</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Mahdi Tavakol et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16957">2605.16957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15623.html">Microscopic derivation of the interacting boson model parameters with machine learning</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Y. Obata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15623">2605.15623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15630.html">Reweighting free energy profiles between universal machine learning interatomic potentials for fast consensus building</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="string-method-30d.html">string-method</a></div></td>
-<td>Sauradeep Majumdar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15630">2605.15630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16070.html">Biophysical Considerations for Rational Antibody and ADC Design</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Alberto Ocana et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16070">2605.16070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16214.html">Bridging Atomistic Simulation and Experimental Processing Timescales with Goal-Directed Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Wonseok Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16214">2605.16214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16466.html">An exponential logarithmic measure of drug receptor binding and saturation</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Arturo Tozzi</td>
-<td><a href="http://arxiv.org/abs/2605.16466">2605.16466</a></td>
 </tr>
 </tbody></table>

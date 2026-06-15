@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14111.html">Temperature transferable Machine Learned Coarse Grained model for proteins</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Jacopo Venturin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14111">2606.14111</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Debsundar Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14590.html">Lattice dynamics and the spectroscopic signatures of H-bond disorder in $δ$-AlOOH</a></div></td>
+<td>Chenxing Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14590">2606.14590</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12916.html">MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback</a></div></td>
@@ -26,6 +44,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13283.html">Archê, an orbital-free molecular dynamics code for fast production of equations of state</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
 <td>William Weens et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13283">2606.13283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13831.html">Combining Frozen Trajectory Excitation and TACAW for in silico Time-Resolved Vibrational Electron Energy Loss/Gain Spectroscopy</a></div></td>
+<td>Wojciech Marciniak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13831">2606.13831</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Luca Leoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -638,29 +668,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16957.html">An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization of Hydroxyapatite as a Case Study</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Mahdi Tavakol et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16957">2605.16957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15805.html">Markov State Model for the forced unfolding of a small peptide</a></div></td>
-<td>Marco Oestereich et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15805">2605.15805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16070.html">Biophysical Considerations for Rational Antibody and ADC Design</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Alberto Ocana et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16070">2605.16070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16123.html">Thermal conductivity of seifertite and pyrite-type SiO$_2$: A comparative study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Doyoon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16123">2605.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16214.html">Bridging Atomistic Simulation and Experimental Processing Timescales with Goal-Directed Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Wonseok Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16214">2605.16214</a></td>
 </tr>
 </tbody></table>

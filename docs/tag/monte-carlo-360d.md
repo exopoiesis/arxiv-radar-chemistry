@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1922,11 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17015.html">Simulating Correlated Electrons with Symmetry-Enforced Normalizing Flows</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Dominic Schuh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17015">2506.17015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13750.html">Segregation, ordering, and precipitation in WTaV-based concentrated refractory alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jesper Byggmästar et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13750">2412.13750</a></td>
 </tr>
 </tbody></table>

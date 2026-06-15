@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14215.html">LapidaryEngine: Fully Conversational Crystal Generation</a></div></td>
+<td>Yusei Ito et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14215">2606.14215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14510.html">PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
+<td>Junming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14510">2606.14510</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-ligand-7d.html">protein-ligand</a></div></td>
@@ -50,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11256.html">My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents</a></div></td>
 <td>César Ojeda et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11256">2606.11256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08802.html">Active Flow Expansion for Out-of-Distribution Discovery: from Theory to Molecules</a></div></td>
-<td>Riccardo De Santi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08802">2606.08802</a></td>
 </tr>
 </tbody></table>

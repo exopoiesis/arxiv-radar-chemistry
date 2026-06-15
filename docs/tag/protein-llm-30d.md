@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-llm — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <strong>30d</strong> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Mansoor Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21485">2605.21485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16581.html">Structure-Aware Masking for Protein Representation Learning</a></div><div class="paper-tags"><a href="protein-function-30d.html">protein-function</a></div></td>
-<td>Thomas Walton et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16581">2605.16581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27413.html">Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Chen Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27413">2605.27413</a></td>
 </tr>
 </tbody></table>

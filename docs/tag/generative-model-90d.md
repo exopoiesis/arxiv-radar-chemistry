@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14215.html">LapidaryEngine: Fully Conversational Crystal Generation</a></div></td>
+<td>Yusei Ito et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14215">2606.14215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14510.html">PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Junming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14510">2606.14510</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
@@ -716,23 +728,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26705.html">PI-Mamba: Linear-Time Protein Backbone Generation via Spectrally Initialized Flow Matching</a></div></td>
 <td>Tianyu Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26705">2603.26705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01535.html">Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Zijin Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01535">2603.01535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14695.html">Scaling Autoregressive Models for Lattice Thermodynamics</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Xiaochen Du et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14695">2603.14695</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14717.html">Training-Free Generation of Protein Sequences from Small Family Alignments via Stochastic Attention</a></div></td>
-<td>Jeffrey D. Varner</td>
-<td><a href="http://arxiv.org/abs/2603.14717">2603.14717</a></td>
 </tr>
 </tbody></table>

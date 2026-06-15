@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Nofit Segal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14003">2606.14003</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13451.html">Uncertainty Estimation for Molecular Diffusion Models</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a></div></td>
 <td>Paul Seij et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Michael Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08375.html">Few-step Cofolding with All-Atom Flow Maps</a></div></td>
-<td>Gianluca Scarpellini et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08375">2606.08375</a></td>
 </tr>
 </tbody></table>

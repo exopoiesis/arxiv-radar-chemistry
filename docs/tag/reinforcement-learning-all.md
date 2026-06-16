@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reinforcement-learning — all</h1>
-  <span class="paper-count">234 papers</span>
+  <span class="paper-count">235 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16870.html">Latent Space Reinforcement Learning for Inverse Material Estimation in Food Fracture Simulation</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
+<td>Adrian Ramlal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16870">2606.16870</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07712.html">MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="materials-science-all.html">materials-science</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16226.html">Prediction of Runtime Parameters of Parallel Chemistry Applications via Active and Generative Learning</a></div></td>
+<td>Tanzila Tabassum et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16226">2606.16226</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08660.html">Active Learning with Bayesian Reasoning: A POGIL-Based Pedagogy in Introductory Statistics</a></div></td>
 <td>Cheng-Han Yu et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20242.html">LEAP: A closed-loop framework for perovskite precursor additive discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
 <td>Xin-De Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20242">2605.20242</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17147.html">Spatial statistics for screening molecular structures</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Pranoy Ray et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17147">2605.17147</a></td>
 </tr>
 </tbody></table>

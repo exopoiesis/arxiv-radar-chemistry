@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">550 papers</span>
+  <span class="paper-count">552 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Wen-Kao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16133">2606.16133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16181.html">Evaluating the Structural Basis for Polar Altermagnet Candidate Ca$_{3}$(Ru,Ti)$_{2}$O$_{7}$</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Akash Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16181">2606.16181</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16320.html">Implementation of rotational invariance for first-principles phonons and application to low-dimensional materials</a></div></td>
+<td>Benoit Van Troeye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16320">2606.16320</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16416.html">Twistronic control of shift current in multilayer moiré system</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Michele Bagaglini et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16416">2606.16416</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16994.html">Hydrogen Chemisorption and Current-Induced Spin Polarization on NbP</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Luis Martinez-Gomez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16994">2606.16994</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15548.html">Switching Chern number by sliding and gating in alternately twisted tetralayer MoTe2</a></div><div class="paper-tags"><a href="tmd-90d.html">tmd</a></div></td>
+<td>Xiao-Wei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15548">2606.15548</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15613.html">Unveiling AlSb as a Promising Zincblende Semiconductor for Visible-Light Shift-Current Generation</a></div></td>
+<td>César Castillo-Quevedo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15613">2606.15613</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15321.html">Symmetry-aware generative design of flat-band materials beyond known crystal-net prototypes</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Yihao Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15321">2606.15321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15336.html">Nonlocal Orbital-Free Kinetic Energy Functional from the Jellium-with-Gap Model for Finite Systems</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Abhishek Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15336">2606.15336</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
@@ -32,6 +86,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14624.html">Spin disorder competing with positional symmetry breaking governs the metal-insulator behavior in oxide paramagnets</a></div></td>
 <td>Jia-Xin Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14624">2606.14624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14938.html">Fermi-Level-Dependent Defect Chemistry and Oxygen Evolution Reaction Activity of Fe-Doped and Oxygen-Deficient \ce{SrTiO3}(001)</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Amit Sehrawat et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14938">2606.14938</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15001.html">Distilling latent electrostatics from foundation machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Xiaoyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15001">2606.15001</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-11</td>
@@ -3260,59 +3326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17591.html">Identification of sub-angstrom many-body localization in quantum materials by Bragg scattering phase breaking and ultrafast structural dynamics</a></div></td>
 <td>Yingpeng Qi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17591">2603.17591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03686.html">The Role of Defect Geometry in Localized Emission from Monolayer Tungsten Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>S. Carin Gavin et al.</td>
-<td><a href="http://arxiv.org/abs/2412.03686">2412.03686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16132.html">Pressure-driven vibrational and structural peculiarities in the honeycomb layered magnetoelectrics Mn4(B)2O9 (B= Nb, Ta)</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Rajesh Jana et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16132">2603.16132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16162.html">Optimizing Density Functional Theory for Strain-Dependent Magnetic Properties of Monolayer MnBi$_2$Te$_4$ with Diffusion Monte Carlo</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Jeonghwan Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16162">2603.16162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16379.html">First-Principles Investigation of the Pressure Dependent Physical Properties of Intermetallic Kagome ZrRe2</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Mst. Irin Naher et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16379">2603.16379</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16605.html">Quantum Algorithms to Determine Spin-Resolved Exchange-Correlation Potential for Strongly Correlated Materials</a></div></td>
-<td>H. Arslan Hashim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16605">2603.16605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16957.html">Non-perturbative Bacterial Identification Directly from Solid Agar Plates Using Raman</a></div></td>
-<td>Jeong Hee Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16957">2603.16957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16990.html">Extended Lagrangian molecular dynamics on vibronic surfaces in the nuclear-electronic orbital framework</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Joseph A. Dickinson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16990">2603.16990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17122.html">Engineering Quantum Phases in Two Dimensions via Vacancy-Induced Electronic Reconstruction</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Emmanuel V. C. Lopes et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17122">2603.17122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17196.html">Self-Conditioned Denoising for Atomistic Representation Learning</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Tynan Perez et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17196">2603.17196</a></td>
 </tr>
 </tbody></table>

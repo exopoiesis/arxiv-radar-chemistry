@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18256.html">MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Philippe Formont et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18256">2603.18256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12253.html">Binding Free Energies without Alchemy</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Michael Brocidiacono et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12253">2603.12253</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>multimodal-llm — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <strong>90d</strong> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,17 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18795.html">Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation</a></div></td>
 <td>Yuchen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18795">2603.18795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17043.html">OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Sankalp Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17043">2603.17043</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22304.html">Mitigating Premature Discretization with Progressive Quantization for Robust Vector Tokenization</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Wenhao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22304">2603.22304</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16870.html">Latent Space Reinforcement Learning for Inverse Material Estimation in Food Fracture Simulation</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Adrian Ramlal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16870">2606.16870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15292.html">Light-induced nonadiabatic dissipative quantum dynamics of the Na2 molecule</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Patrick Barron et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15292">2606.15292</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15336.html">Nonlocal Orbital-Free Kinetic Energy Functional from the Jellium-with-Gap Model for Finite Systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Abhishek Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15336">2606.15336</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Nofit Segal et al.</td>
@@ -2582,23 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18497.html">Leveraging neural network interatomic potentials for a foundation model of chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>So Yeon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18497">2506.18497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20078.html">A Time-Dependent Ginzburg-Landau Framework for Sample-Specific Simulation of Superconductors for SRF Applications</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Aiden V. Harbick et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20078">2410.20078</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15337.html">Knowledge Distillation Framework for Accelerating High-Accuracy Neural Network-Based Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Naoki Matsumura et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15337">2506.15337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17397.html">Negative intrinsic viscosity in graphene nanoparticle suspensions induced by hydrodynamic slip</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Adyant Agrawal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17397">2506.17397</a></td>
 </tr>
 </tbody></table>

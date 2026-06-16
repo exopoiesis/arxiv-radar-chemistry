@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>magnetic-properties — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14861.html">Designing Strong and Broadband Nonreciprocal Thermal Radiation in Magnetic Topological Materials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Yiyang Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14861">2606.14861</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13874.html">Dynamical multiferroicity in framework materials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
@@ -44,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10995.html">Ab initio study of magnetism in pristine and defective MnBi2Te4</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
 <td>Ana Beatriz Pedro Fontes et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10995">2606.10995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>A. Koda et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08915">2606.08915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10063.html">Dominant in-plane anomalous Hall effect in a monoclinic room-temperature ferromagnet</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Guoxin Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10063">2606.10063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10077.html">Atomic-scale visualization of the toroidal order in a trimeric Dy(III) single-molecule toroic</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Michael J. Jenkins et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10077">2606.10077</a></td>
 </tr>
 </tbody></table>

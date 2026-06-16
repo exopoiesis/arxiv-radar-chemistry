@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16226.html">Prediction of Runtime Parameters of Parallel Chemistry Applications via Active and Generative Learning</a></div></td>
+<td>Tanzila Tabassum et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16226">2606.16226</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08660.html">Active Learning with Bayesian Reasoning: A POGIL-Based Pedagogy in Introductory Statistics</a></div></td>
 <td>Cheng-Han Yu et al.</td>
@@ -266,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17586.html">Interface-dependent Phase Transitions and Ultrafast Hydrogen Superionic Diffusion of H2O Ice</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Pengfei Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17586">2603.17586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16959.html">Machine intelligence supports the full chain of 2D dendrite synthesis</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Wenqiang Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16959">2603.16959</a></td>
 </tr>
 </tbody></table>

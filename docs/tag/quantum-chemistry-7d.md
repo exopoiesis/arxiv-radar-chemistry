@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15801.html">MAPS: A Novel Multi-Axial Projective Sphere for Geometrically Visualizing Higher d-Valued Quantum State-Space of Qudits</a></div><div class="paper-tags"><a href="quantum-computing-7d.html">quantum-computing</a></div></td>
+<td>Ali Al-Bayaty</td>
+<td><a href="http://arxiv.org/abs/2606.15801">2606.15801</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Auguste Tetenoire et al.</td>
@@ -62,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12404.html">Collective neutrino oscillations: Many-body non-forward effects and non-classicality</a></div><div class="paper-tags"><a href="quantum-computing-7d.html">quantum-computing</a></div></td>
 <td>Julien Froustey et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12404">2606.12404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10075.html">An algorithm for dynamical quantum optimal transport with applications to quantum chemistry</a></div></td>
-<td>Genevieve Dusson et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10075">2606.10075</a></td>
 </tr>
 </tbody></table>

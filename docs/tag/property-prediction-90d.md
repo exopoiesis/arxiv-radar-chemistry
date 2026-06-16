@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15422.html">Pepti-Agent: An AI Agent for Peptide Design and Optimization</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Houxu Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15422">2606.15422</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11382.html">GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Emily Nguyen et al.</td>
@@ -404,11 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18256.html">MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Philippe Formont et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18256">2603.18256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17196.html">Self-Conditioned Denoising for Atomistic Representation Learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Tynan Perez et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17196">2603.17196</a></td>
 </tr>
 </tbody></table>

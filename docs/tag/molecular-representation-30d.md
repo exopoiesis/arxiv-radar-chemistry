@@ -58,6 +58,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.03435">2606.03435</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14737.html">Learning Topological Representations for Molecular Dynamics</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Dominik Geng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14737">2606.14737</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01846.html">Mos-Gen: A Generative Molecular Framework for Mosquito Insecticide Design</a></div></td>
 <td>Lina Wang et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19579.html">TACK: A statistical evaluation of degradation activity on a novel TArgeting Chimeras Knowledge dataset</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
 <td>Stefano Ribes et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19579">2605.19579</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16823.html">Atoms as Language: VQ-Atom: Semantic Discretization for Molecular Representation Learning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Takayuki Kimura</td>
-<td><a href="http://arxiv.org/abs/2605.16823">2605.16823</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15801.html">MAPS: A Novel Multi-Axial Projective Sphere for Geometrically Visualizing Higher d-Valued Quantum State-Space of Qudits</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Ali Al-Bayaty</td>
+<td><a href="http://arxiv.org/abs/2606.15801">2606.15801</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -644,23 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04171.html">A Quantum Gate Architecture via Teleportation and Entanglement</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Samuel J. Sheldon et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04171">2512.04171</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25815.html">Physically-Motivated Guiding States for Local Hamiltonians</a></div></td>
-<td>Gabriel Waite et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25815">2509.25815</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16989.html">Comment on &quot;Efficient implementation of the superposition of atomic potentials initial guess for electronic structure calculations in Gaussian basis sets&quot;</a></div></td>
-<td>Kshitijkumar A. Surjuse et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16989">2603.16989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17062.html">Full-quantum variational dynamics simulation for time-dependent Hamiltonians with global spectral discretization</a></div></td>
-<td>Minchen Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17062">2603.17062</a></td>
 </tr>
 </tbody></table>

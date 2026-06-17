@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">425 papers</span>
+  <span class="paper-count">416 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Anthony Richardella et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17668.html">ASTEROID: A Spatiotemporal Information Transformer for Forecasting Multi-Step Time Series of Molecular Dynamics</a></div></td>
+<td>Kexin Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17668">2606.17668</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18090.html">Impact of dynamic electrostatic disorder on hole mobility in rubrene: a nonadiabatic molecular dynamics investigation</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Jan Elsner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18090">2606.18090</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
@@ -134,6 +152,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12743.html">Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Elizane E. de Moraes et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12743">2606.12743</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17078.html">Limitations of Using BCA Codes for Modeling the Sputtering Behavior of Planetary Surfaces</a></div></td>
+<td>Noah Jäggi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17078">2606.17078</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -2486,83 +2510,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19436.html">Auxetic Response in Two-Dimensional MXenes with Atomically Defined Perforations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Hossein Darban</td>
 <td><a href="http://arxiv.org/abs/2603.19436">2603.19436</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11063.html">Matlantis-PFP v8: Universal Machine Learning Interatomic Potential with Better Experimental Agreements via r2SCAN Functional</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Chikashi Shinagawa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11063">2603.11063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12017.html">Thermodynamic Descriptors from Molecular Dynamics as Machine Learning Features for Extrapolable Property Prediction</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="gnn-90d.html">gnn</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Nuria H. Espejo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12017">2603.12017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17318.html">Analysis of molecular dynamics simulation data via statistical distances between covariance matrices</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Yusuke Ono et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17318">2603.17318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17367.html">GPUMDkit: A User-Friendly Toolkit for GPUMD and NEP</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Zihan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17367">2603.17367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17393.html">Phase Transition of Hard Disk Systems with Vicsek-type Interactions</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Nobuaki Murase et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17393">2603.17393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17400.html">Direct observation of ultrafast amorphous-amorphous transitions indicated by bond stretching and angle bending in phase-change material GeTe</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Yingpeng Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17400">2603.17400</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17586.html">Interface-dependent Phase Transitions and Ultrafast Hydrogen Superionic Diffusion of H2O Ice</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Pengfei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17586">2603.17586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17633.html">Atomic Trajectory Modeling with State Space Models for Biomolecular Dynamics</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Liang Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17633">2603.17633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17797.html">Spectroscopic factors as a probe of nuclear shape in $^{44}$S via one-neutron knockout reaction</a></div></td>
-<td>Ranojit Barman et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17797">2603.17797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18058.html">Polarization Dynamics in Ferroelectrics: Insights Enabled by Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Dongyu Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18058">2603.18058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18159.html">Origin of Edge Currents in Chiral Active Liquids</a></div></td>
-<td>Faisal Alsallom et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18159">2603.18159</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18274.html">sbml4md: A computational platform for System-Bath Modeling via Molecular Dynamics powered by Machine Learning</a></div></td>
-<td>Kwanghee Park et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18274">2603.18274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18317.html">Asymmetric Energy Landscapes Control Diffusion in Glasses</a></div></td>
-<td>Ajay Annamareddy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18317">2603.18317</a></td>
 </tr>
 </tbody></table>

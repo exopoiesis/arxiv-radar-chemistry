@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Anthony Richardella et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Viktor Könye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15764.html">Investigation of Shock Wave Dynamics in Complex Plasma via Computational Modelling</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Prateek Lamoria et al.</td>
@@ -68,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12743.html">Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Elizane E. de Moraes et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12743">2606.12743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10741.html">Layer-parity-dependent interfacial coupling in Nb$_3$Cl$_8$/graphene van der Waals heterostructures</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Hansheng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10741">2606.10741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10995.html">Ab initio study of magnetism in pristine and defective MnBi2Te4</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Ana Beatriz Pedro Fontes et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10995">2606.10995</a></td>
 </tr>
 </tbody></table>

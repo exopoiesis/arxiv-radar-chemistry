@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17658.html">Ground-state properties of the $S=3/2$ anisotropic triangular lattice antiferromagnet Na$_3$Cr(PO$_4$)$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>A. Magar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17658">2606.17658</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Nofit Segal et al.</td>
@@ -1682,11 +1688,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21194.html">Confined acoustic phonons in CsPbI3 nanocrystals explored by resonant Raman scattering on excitons</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Carolin Harkort et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21194">2506.21194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17794.html">Ab initio calculation of electronic band structure of Cd$_{1-x}$Fe$_x$Se</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Matanat A. Mehrabova et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17794">2506.17794</a></td>
 </tr>
 </tbody></table>

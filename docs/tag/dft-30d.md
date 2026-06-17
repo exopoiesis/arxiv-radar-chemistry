@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17652.html">Improving the efficiency of Hartree--Fock--Bogoliubov solvers in 3D space</a></div></td>
+<td>Alessandro Sala et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17652">2606.17652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17681.html">Surface Induced Magnetism of CdSe Quantum Dots: A DFT Study</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>G. Kurian et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17681">2606.17681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17728.html">Mass Probe of Tetrahedral Symmetry in Atomic Nuclei</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
+<td>F. F. Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17728">2606.17728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17954.html">Revisiting quantum effects on dislocation glide in bcc metals from DFT calculations and machine-learning potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Arnaud Allera et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17954">2606.17954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18083.html">Tunable Electronic and Transport Properties of Biphenylene via Fluorination and Disorder</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Lucas Soares Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18083">2606.18083</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>

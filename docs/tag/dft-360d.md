@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2127 papers</span>
+  <span class="paper-count">2129 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17652.html">Improving the efficiency of Hartree--Fock--Bogoliubov solvers in 3D space</a></div></td>
+<td>Alessandro Sala et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17652">2606.17652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17681.html">Surface Induced Magnetism of CdSe Quantum Dots: A DFT Study</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>G. Kurian et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17681">2606.17681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17728.html">Mass Probe of Tetrahedral Symmetry in Atomic Nuclei</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td>F. F. Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17728">2606.17728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17954.html">Revisiting quantum effects on dislocation glide in bcc metals from DFT calculations and machine-learning potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Arnaud Allera et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17954">2606.17954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18083.html">Tunable Electronic and Transport Properties of Biphenylene via Fluorination and Disorder</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Lucas Soares Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18083">2606.18083</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -12758,23 +12788,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18030.html">Enhanced UV Photodetector Efficiency with a ZnO/Ga$_2$O$_3$ Heterojunction</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Shashi Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18030">2506.18030</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.14270.html">New models of clean and hydrogenated amorphous silicon surfaces</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Kishor Nepal et al.</td>
-<td><a href="http://arxiv.org/abs/2412.14270">2412.14270</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17794.html">Ab initio calculation of electronic band structure of Cd$_{1-x}$Fe$_x$Se</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Matanat A. Mehrabova et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17794">2506.17794</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17800.html">CLAMM: a spin CLuster expansion--Monte Carlo toolkit for Alloys and Magnetic Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Brian Blankenau et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17800">2506.17800</a></td>
 </tr>
 </tbody></table>

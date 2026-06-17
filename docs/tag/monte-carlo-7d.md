@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17896.html">Detectability of deuterium in spectra of early-type stars</a></div></td>
+<td>Veronika Mitrokhina et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17896">2606.17896</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16706.html">GaN Nucleation Landscape on Patterned Sapphire Shaped by the Growth Temperature of Directly Grown Boron-Compound Masks</a></div></td>
 <td>Yunjin Heo et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12530.html">Hidden antiferromagnetism, persistent valley fluctuations, and $U(6)$ crossovers in triangular-lattice M-point moiré materials via determinantal quantum Monte Carlo</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Konstantinos Vasiliou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12530">2606.12530</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11153.html">Quantum Monte Carlo calculations of Zemach moments in $A\leq 9$ nuclei</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Garrett B. King et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11153">2606.11153</a></td>
 </tr>
 </tbody></table>

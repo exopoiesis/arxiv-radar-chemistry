@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Anthony Richardella et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17658.html">Ground-state properties of the $S=3/2$ anisotropic triangular lattice antiferromagnet Na$_3$Cr(PO$_4$)$_2$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>A. Magar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17658">2606.17658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Viktor Könye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18163.html">Dynamical properties of ab initio water from machine-learning potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>P. Montero de Hijes et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18163">2606.18163</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
@@ -2444,47 +2468,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19511.html">First principles characterization of spinterfaces between magnetic Cobaltocene molecule and 2D magnets (CrI$_3$, Fe$_3$GeTe$_2$)</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Nikola Machacova et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19511">2603.19511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02070.html">An Introduction to Flow Matching and Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Peter Holderrieth et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02070">2506.02070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06929.html">Unveiling the Puzzle of Brittleness in Single Crystal Iridium</a></div></td>
-<td>Xiandong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06929">2508.06929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00059.html">Sub-Neptune Memories I: Implications of Inefficient Mantle Cooling and Silicate Rain</a></div></td>
-<td>Roberto Tejada Arevalo et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00059">2601.00059</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16899.html">Ground State of BaFe2S3 from Lattice and Spin Dynamics</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Y. Oubaid et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16899">2602.16899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18058.html">Polarization Dynamics in Ferroelectrics: Insights Enabled by Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Dongyu Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18058">2603.18058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18182.html">Ultrafast dynamics and light-induced superconductivity from first principles</a></div></td>
-<td>Alejandro Simon et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18182">2603.18182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18339.html">Elucidating Norrish Type-I reactive pathways by ultrafast X-ray absorption spectroscopy</a></div></td>
-<td>Martin Graßl et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18339">2603.18339</a></td>
 </tr>
 </tbody></table>

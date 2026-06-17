@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Anthony Richardella et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17658.html">Ground-state properties of the $S=3/2$ anisotropic triangular lattice antiferromagnet Na$_3$Cr(PO$_4$)$_2$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>A. Magar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17658">2606.17658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Viktor Könye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18163.html">Dynamical properties of ab initio water from machine-learning potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
+<td>P. Montero de Hijes et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18163">2606.18163</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
@@ -152,23 +176,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12750.html">Intrinsic Ductility from Shear Amorphization: From Pure Metals to Multi-Principal-Element Alloys</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Morgan R. Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12750">2606.12750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10272.html">Rainbow RABBITT as a Probe of Coherent Rabi Dynamics</a></div></td>
-<td>Vladislav V. Serov et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10272">2606.10272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11027.html">Direction-Dependent Quantum Transport Properties of MoS$_2$ Integrated into Biphenylene Configuration</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Gözde Özbal Sargın</td>
-<td><a href="http://arxiv.org/abs/2606.11027">2606.11027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11153.html">Quantum Monte Carlo calculations of Zemach moments in $A\leq 9$ nuclei</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Garrett B. King et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11153">2606.11153</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">587 papers</span>
+  <span class="paper-count">589 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17954.html">Revisiting quantum effects on dislocation glide in bcc metals from DFT calculations and machine-learning potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Arnaud Allera et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17954">2606.17954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18163.html">Dynamical properties of ab initio water from machine-learning potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>P. Montero de Hijes et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18163">2606.18163</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16385.html">Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

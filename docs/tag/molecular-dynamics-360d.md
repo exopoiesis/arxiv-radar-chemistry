@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1606 papers</span>
+  <span class="paper-count">1609 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Anthony Richardella et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17668.html">ASTEROID: A Spatiotemporal Information Transformer for Forecasting Multi-Step Time Series of Molecular Dynamics</a></div></td>
+<td>Kexin Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17668">2606.17668</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18090.html">Impact of dynamic electrostatic disorder on hole mobility in rubrene: a nonadiabatic molecular dynamics investigation</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Jan Elsner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18090">2606.18090</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
@@ -134,6 +152,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12743.html">Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Elizane E. de Moraes et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12743">2606.12743</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17078.html">Limitations of Using BCA Codes for Modeling the Sputtering Behavior of Planetary Surfaces</a></div></td>
+<td>Noah Jäggi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17078">2606.17078</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -9644,11 +9668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18163.html">Stochastic dynamics simulation of the focused electron beam induced deposition process</a></div></td>
 <td>Ilia A. Solov&#x27;yov et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18163">2506.18163</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17571.html">Exploring the neutron-star matter properties via the deformed nuclear reactions</a></div></td>
-<td>Yuan-Qing Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17571">2506.17571</a></td>
 </tr>
 </tbody></table>

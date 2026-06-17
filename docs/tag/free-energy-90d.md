@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17728.html">Mass Probe of Tetrahedral Symmetry in Atomic Nuclei</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>F. F. Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17728">2606.17728</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16859.html">Transferable machine learning of excited-state dynamics with extremal pooling</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Cesare Malosso et al.</td>
@@ -644,11 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18864.html">Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="active-learning-90d.html">active-learning</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Samuel Del Fré et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18864">2603.18864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18076.html">Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
-<td>Shengjie Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18076">2603.18076</a></td>
 </tr>
 </tbody></table>

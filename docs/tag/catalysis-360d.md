@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">307 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Dong Hyeon Mok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14928.html">Controlling Porosity in Supraparticles Composed of Colloidal Rods and Spheres</a></div></td>

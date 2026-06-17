@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1621 papers</span>
+  <span class="paper-count">1623 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Anthony Richardella et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17658.html">Ground-state properties of the $S=3/2$ anisotropic triangular lattice antiferromagnet Na$_3$Cr(PO$_4$)$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>A. Magar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17658">2606.17658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Viktor Könye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18163.html">Dynamical properties of ab initio water from machine-learning potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>P. Montero de Hijes et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18163">2606.18163</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -9728,17 +9752,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17866.html">Computational Discovery of Metastable NaMnO$_2$ Polymorphs as High-Performance Cathodes with Ultralow Na$^+$ Migration Barriers</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Fukuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17866">2506.17866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17794.html">Ab initio calculation of electronic band structure of Cd$_{1-x}$Fe$_x$Se</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Matanat A. Mehrabova et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17794">2506.17794</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17800.html">CLAMM: a spin CLuster expansion--Monte Carlo toolkit for Alloys and Magnetic Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Brian Blankenau et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17800">2506.17800</a></td>
 </tr>
 </tbody></table>

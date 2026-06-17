@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17896.html">Detectability of deuterium in spectra of early-type stars</a></div></td>
+<td>Veronika Mitrokhina et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17896">2606.17896</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16706.html">GaN Nucleation Landscape on Patterned Sapphire Shaped by the Growth Temperature of Directly Grown Boron-Compound Masks</a></div></td>
 <td>Yunjin Heo et al.</td>
@@ -1922,11 +1928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17984.html">Exploring the impact of Ti/Al on L12 nanoprecipitation and deformation behavior in CoNiFeAlTi multi-principal element alloys through atomistic simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Amin Esfandiarpour et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17984">2506.17984</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17800.html">CLAMM: a spin CLuster expansion--Monte Carlo toolkit for Alloys and Magnetic Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Brian Blankenau et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17800">2506.17800</a></td>
 </tr>
 </tbody></table>

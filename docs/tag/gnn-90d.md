@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">102 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -626,11 +626,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19817.html">GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Animesh et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19817">2603.19817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12017.html">Thermodynamic Descriptors from Molecular Dynamics as Machine Learning Features for Extrapolable Property Prediction</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Nuria H. Espejo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12017">2603.12017</a></td>
 </tr>
 </tbody></table>

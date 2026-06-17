@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17658.html">Ground-state properties of the $S=3/2$ anisotropic triangular lattice antiferromagnet Na$_3$Cr(PO$_4$)$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>A. Magar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17658">2606.17658</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Nofit Segal et al.</td>
@@ -422,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19508.html">Theoretical investigation of the photovoltaic properties of MgSnN$_{2}$ for multi-junction solar cells</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Issam Mahraj et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19508">2603.19508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17479.html">Hydrogen uptake and hydride formation in Al$_x$CoCrFeNi high-entropy alloys: First-principles, universal-potential, and experimental study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Fritz Körmann et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17479">2603.17479</a></td>
 </tr>
 </tbody></table>

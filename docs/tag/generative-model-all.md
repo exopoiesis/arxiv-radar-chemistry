@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">795 papers</span>
+  <span class="paper-count">798 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-space-all.html">chemical-space</a></div></td>
+<td>Dong Hyeon Mok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17852.html">Split-Head Quantum Generative Adversarial Network for Crystalline Material Discovery</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
+<td>Huan-Ming Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17852">2606.17852</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17989.html">Recover Semantics First, Generate Better: Improved Latent Modeling for 3D MRI Reconstruction and Cross-Contrast Synthesis</a></div></td>
+<td>Yonghao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17989">2606.17989</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>

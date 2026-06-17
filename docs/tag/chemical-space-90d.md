@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-space — 90d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <strong>90d</strong> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Dong Hyeon Mok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17077.html">Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
+<td>Wang Rui et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17077">2606.17077</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -182,11 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18397.html">FlowMS: Flow Matching for De Novo Structure Elucidation from Mass Spectra</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Jianan Nie et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18397">2603.18397</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12017.html">Thermodynamic Descriptors from Molecular Dynamics as Machine Learning Features for Extrapolable Property Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Nuria H. Espejo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12017">2603.12017</a></td>
 </tr>
 </tbody></table>

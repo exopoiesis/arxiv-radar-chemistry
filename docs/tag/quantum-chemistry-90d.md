@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17761.html">Constrained Optimization Algorithms for Orbital Optimization in Quantum Chemistry</a></div></td>
+<td>Junzhe Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17761">2606.17761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17357.html">Pulse-optimised circuit elements for scalable and noise-resilient quantum chemistry</a></div></td>
+<td>Henrik Gothen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17357">2606.17357</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15801.html">MAPS: A Novel Multi-Axial Projective Sphere for Geometrically Visualizing Higher d-Valued Quantum State-Space of Qudits</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Ali Al-Bayaty</td>
@@ -638,17 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20029.html">Variance reduction methods in the estimation of Pauli sums</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Søren Fuglede Jørgensen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20029">2603.20029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00230.html">Reinforcement learning with learned gadgets to tackle hard quantum problems on real hardware</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Akash Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.00230">2411.00230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04171.html">A Quantum Gate Architecture via Teleportation and Entanglement</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Samuel J. Sheldon et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04171">2512.04171</a></td>
 </tr>
 </tbody></table>

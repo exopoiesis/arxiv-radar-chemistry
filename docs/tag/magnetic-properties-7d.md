@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17658.html">Ground-state properties of the $S=3/2$ anisotropic triangular lattice antiferromagnet Na$_3$Cr(PO$_4$)$_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
+<td>A. Magar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17658">2606.17658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17681.html">Surface Induced Magnetism of CdSe Quantum Dots: A DFT Study</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>G. Kurian et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17681">2606.17681</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14861.html">Designing Strong and Broadband Nonreciprocal Thermal Radiation in Magnetic Topological Materials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Yiyang Jiang et al.</td>
@@ -38,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11928.html">Spin-Polarized Electronic Structure and Chemical Bonding Data for 2,500+ Halide Double Perovskites</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="photocatalysis-7d.html">photocatalysis</a></div></td>
 <td>Luc Walterbos et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11928">2606.11928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10797.html">Magnetic Moment of Octet Baryons in Isospin Asymmetric Magnetized Strange Matter</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
-<td>Akshada Waman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10797">2606.10797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10995.html">Ab initio study of magnetism in pristine and defective MnBi2Te4</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Ana Beatriz Pedro Fontes et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10995">2606.10995</a></td>
 </tr>
 </tbody></table>

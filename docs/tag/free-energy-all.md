@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>free-energy — all</h1>
-  <span class="paper-count">630 papers</span>
+  <span class="paper-count">631 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17728.html">Mass Probe of Tetrahedral Symmetry in Atomic Nuclei</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>F. F. Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17728">2606.17728</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16859.html">Transferable machine learning of excited-state dynamics with extremal pooling</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="excited-states-all.html">excited-states</a> · <a href="mlip-all.html">mlip</a></div></td>

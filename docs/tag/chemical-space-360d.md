@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Dong Hyeon Mok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17077.html">Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Wang Rui et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17077">2606.17077</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>

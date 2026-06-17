@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Dong Hyeon Mok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14928.html">Controlling Porosity in Supraparticles Composed of Colloidal Rods and Spheres</a></div></td>
 <td>Kritika Kritika et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12110.html">Scalable Conformal MoSx Catalyst for Efficient Hydrogen Evolution at Industrial-Level Current Density in Alkaline Electrolyzers</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
 <td>Yong Zuo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12110">2606.12110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10797.html">Magnetic Moment of Octet Baryons in Isospin Asymmetric Magnetized Strange Matter</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Akshada Waman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10797">2606.10797</a></td>
 </tr>
 </tbody></table>

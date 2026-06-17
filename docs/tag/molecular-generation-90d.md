@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.13955">2606.13955</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17077.html">Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
+<td>Wang Rui et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17077">2606.17077</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
 <td>Tuan A. Vu et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18397.html">FlowMS: Flow Matching for De Novo Structure Elucidation from Mass Spectra</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Jianan Nie et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18397">2603.18397</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18256.html">MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Philippe Formont et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18256">2603.18256</a></td>
 </tr>
 </tbody></table>

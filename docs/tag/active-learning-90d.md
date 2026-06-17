@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>active-learning — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <strong>90d</strong> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,17 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18864.html">Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Samuel Del Fré et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18864">2603.18864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17367.html">GPUMDkit: A User-Friendly Toolkit for GPUMD and NEP</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zihan Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17367">2603.17367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17586.html">Interface-dependent Phase Transitions and Ultrafast Hydrogen Superionic Diffusion of H2O Ice</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Pengfei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17586">2603.17586</a></td>
 </tr>
 </tbody></table>

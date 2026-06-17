@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Anthony Richardella et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17668.html">ASTEROID: A Spatiotemporal Information Transformer for Forecasting Multi-Step Time Series of Molecular Dynamics</a></div></td>
+<td>Kexin Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17668">2606.17668</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18090.html">Impact of dynamic electrostatic disorder on hole mobility in rubrene: a nonadiabatic molecular dynamics investigation</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Jan Elsner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18090">2606.18090</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
@@ -134,6 +152,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12743.html">Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Elizane E. de Moraes et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12743">2606.12743</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17078.html">Limitations of Using BCA Codes for Modeling the Sputtering Behavior of Planetary Surfaces</a></div></td>
+<td>Noah Jäggi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17078">2606.17078</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -728,11 +752,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19175.html">Importance of nuclear quantum effects on the structure of supercooled water around its liquid--liquid critical point</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Michael Beerbaum et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19175">2605.19175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Fakhrul Hasan Bhuiyan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
 </tr>
 </tbody></table>

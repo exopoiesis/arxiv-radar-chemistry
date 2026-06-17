@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,29 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22066.html">Comment on: Discontinuous codimension-two bifurcation in a Vlasov equation (arXiv:2212.01250)</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Tarcísio N. Teles et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22066">2603.22066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12017.html">Thermodynamic Descriptors from Molecular Dynamics as Machine Learning Features for Extrapolable Property Prediction</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Nuria H. Espejo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12017">2603.12017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17318.html">Analysis of molecular dynamics simulation data via statistical distances between covariance matrices</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Yusuke Ono et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17318">2603.17318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17393.html">Phase Transition of Hard Disk Systems with Vicsek-type Interactions</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Nobuaki Murase et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17393">2603.17393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17586.html">Interface-dependent Phase Transitions and Ultrafast Hydrogen Superionic Diffusion of H2O Ice</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Pengfei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17586">2603.17586</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18083.html">Tunable Electronic and Transport Properties of Biphenylene via Fluorination and Disorder</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Lucas Soares Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18083">2606.18083</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16416.html">Twistronic control of shift current in multilayer moiré system</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>

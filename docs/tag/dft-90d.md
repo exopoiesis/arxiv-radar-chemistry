@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">552 papers</span>
+  <span class="paper-count">551 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17652.html">Improving the efficiency of Hartree--Fock--Bogoliubov solvers in 3D space</a></div></td>
+<td>Alessandro Sala et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17652">2606.17652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17681.html">Surface Induced Magnetism of CdSe Quantum Dots: A DFT Study</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>G. Kurian et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17681">2606.17681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17728.html">Mass Probe of Tetrahedral Symmetry in Atomic Nuclei</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td>F. F. Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17728">2606.17728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17954.html">Revisiting quantum effects on dislocation glide in bcc metals from DFT calculations and machine-learning potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Arnaud Allera et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17954">2606.17954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18083.html">Tunable Electronic and Transport Properties of Biphenylene via Fluorination and Disorder</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Lucas Soares Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18083">2606.18083</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
@@ -3290,41 +3320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19511.html">First principles characterization of spinterfaces between magnetic Cobaltocene molecule and 2D magnets (CrI$_3$, Fe$_3$GeTe$_2$)</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
 <td>Nikola Machacova et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19511">2603.19511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12466.html">Re-evaluating photoluminescent defects in Cu$_2$O</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Alistair Brewin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12466">2602.12466</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16899.html">Ground State of BaFe2S3 from Lattice and Spin Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Y. Oubaid et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16899">2602.16899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11063.html">Matlantis-PFP v8: Universal Machine Learning Interatomic Potential with Better Experimental Agreements via r2SCAN Functional</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Chikashi Shinagawa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11063">2603.11063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17400.html">Direct observation of ultrafast amorphous-amorphous transitions indicated by bond stretching and angle bending in phase-change material GeTe</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Yingpeng Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17400">2603.17400</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17479.html">Hydrogen uptake and hydride formation in Al$_x$CoCrFeNi high-entropy alloys: First-principles, universal-potential, and experimental study</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Fritz Körmann et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17479">2603.17479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17591.html">Identification of sub-angstrom many-body localization in quantum materials by Bragg scattering phase breaking and ultrafast structural dynamics</a></div></td>
-<td>Yingpeng Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17591">2603.17591</a></td>
 </tr>
 </tbody></table>

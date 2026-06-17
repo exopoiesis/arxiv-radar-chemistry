@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18089.html">From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning</a></div></td>
+<td>Lingjing Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18089">2606.18089</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16870.html">Latent Space Reinforcement Learning for Inverse Material Estimation in Food Fracture Simulation</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Adrian Ramlal et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20740.html">Distribution-Aware Reward: Reinforcement Learning over Predictive Distributions for LLM Regression</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Jungsoo Park et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20740">2605.20740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17693.html">Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Yuan Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17693">2605.17693</a></td>
 </tr>
 </tbody></table>

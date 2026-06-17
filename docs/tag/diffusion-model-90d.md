@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16147.html">Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Yanbin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16147">2606.16147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17342.html">Learning a Maximum Entropy Model for Visual Textures using Diffusion</a></div></td>
+<td>Xinyuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17342">2606.17342</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>
@@ -680,23 +686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19157.html">ADAPT: Attention Driven Adaptive Prompt Scheduling and InTerpolating Orthogonal Complements for Rare Concepts Generation</a></div></td>
 <td>Kwanyoung Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19157">2603.19157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02070.html">An Introduction to Flow Matching and Diffusion Models</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Peter Holderrieth et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02070">2506.02070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17834.html">Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control</a></div></td>
-<td>Zunzhe Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17834">2603.17834</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18225.html">A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials</a></div></td>
-<td>Purna Vindhya Kota et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18225">2603.18225</a></td>
 </tr>
 </tbody></table>

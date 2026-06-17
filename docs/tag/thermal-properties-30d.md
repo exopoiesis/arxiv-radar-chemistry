@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermal-properties — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <strong>30d</strong> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
+<td>Viktor Könye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18090.html">Impact of dynamic electrostatic disorder on hole mobility in rubrene: a nonadiabatic molecular dynamics investigation</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jan Elsner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18090">2606.18090</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -116,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18501.html">Quantum Emitters at Telecommunication Wavelengths based on Carbon Defects in Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="tmd-30d.html">tmd</a></div></td>
 <td>Chanaprom Cholsuk et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18501">2605.18501</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Fakhrul Hasan Bhuiyan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
 </tr>
 </tbody></table>

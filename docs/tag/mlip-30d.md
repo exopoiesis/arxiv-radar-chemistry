@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17954.html">Revisiting quantum effects on dislocation glide in bcc metals from DFT calculations and machine-learning potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Arnaud Allera et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17954">2606.17954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18163.html">Dynamical properties of ab initio water from machine-learning potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>P. Montero de Hijes et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18163">2606.18163</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16385.html">Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -302,11 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24002.html">Harnessing AtomisticSkills for Agentic Atomistic Research</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Bowen Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24002">2605.24002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Fakhrul Hasan Bhuiyan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
 </tr>
 </tbody></table>

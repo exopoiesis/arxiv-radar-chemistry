@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.16147">2606.16147</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17342.html">Learning a Maximum Entropy Model for Visual Textures using Diffusion</a></div></td>
+<td>Xinyuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17342">2606.17342</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Nofit Segal et al.</td>
@@ -170,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19050.html">Generative Pseudo-Force Fields for Molecular Generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Stefaan Simon Pierre Hessmann et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19050">2605.19050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17693.html">Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Yuan Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17693">2605.17693</a></td>
 </tr>
 </tbody></table>

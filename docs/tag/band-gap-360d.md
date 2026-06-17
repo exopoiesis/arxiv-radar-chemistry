@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">462 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17658.html">Ground-state properties of the $S=3/2$ anisotropic triangular lattice antiferromagnet Na$_3$Cr(PO$_4$)$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>A. Magar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17658">2606.17658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Viktor Könye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16604.html">Electronic Band Structure of Silicon Determined via a Variational Adiabatic Eigensolver: Theory and Experiment</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
@@ -2780,11 +2792,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17866.html">Computational Discovery of Metastable NaMnO$_2$ Polymorphs as High-Performance Cathodes with Ultralow Na$^+$ Migration Barriers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Fukuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17866">2506.17866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17794.html">Ab initio calculation of electronic band structure of Cd$_{1-x}$Fe$_x$Se</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Matanat A. Mehrabova et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17794">2506.17794</a></td>
 </tr>
 </tbody></table>

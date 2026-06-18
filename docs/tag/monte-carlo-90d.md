@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,11 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17180.html">Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks</a></div></td>
 <td>Pietro Miotti et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17180">2603.17180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18918.html">Navigating complex phase diagrams in soft matter systems</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Michael Wassermair et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18918">2603.18918</a></td>
 </tr>
 </tbody></table>

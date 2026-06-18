@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">573 papers</span>
+  <span class="paper-count">572 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3446,11 +3446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20043.html">PocketVina Enables Scalable and Highly Accurate Physically Valid Docking through Multi-Pocket Conditioning</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Ahmet Sarigun et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20043">2506.20043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18194.html">Joint Embedding Predictive Architecture for self-supervised pretraining on polymer molecular graphs</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Francesco Piccoli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18194">2506.18194</a></td>
 </tr>
 </tbody></table>

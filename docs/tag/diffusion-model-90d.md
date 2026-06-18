@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -656,35 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09637.html">A mathematical model for colloids deposition in porous media combined with a moving boundary at the microscale: Solvability and numerical simulation</a></div></td>
 <td>Christos Nikolopoulos et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09637">2604.09637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12329.html">DiffCrysGen: A Generative Diffusion Model for Accelerated Design of Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12329">2510.12329</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18397.html">FlowMS: Flow Matching for De Novo Structure Elucidation from Mass Spectra</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Jianan Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18397">2603.18397</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18505.html">From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Jingzhi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18505">2603.18505</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18771.html">Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture</a></div></td>
-<td>Fuze Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18771">2603.18771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19157.html">ADAPT: Attention Driven Adaptive Prompt Scheduling and InTerpolating Orthogonal Complements for Rare Concepts Generation</a></div></td>
-<td>Kwanyoung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19157">2603.19157</a></td>
 </tr>
 </tbody></table>

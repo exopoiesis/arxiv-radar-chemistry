@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Zongmin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Dong Hyeon Mok et al.</td>
@@ -176,11 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20511.html">Creating Learning Scaffolds for Engineering Design Using Concept Catalyst</a></div></td>
 <td>Madhuri Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20511">2605.20511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18217.html">3D CO-TALIF distribution above a micro cavity discharge: A systematic approach for plasma catalysis</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Henrik van Impel et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18217">2605.18217</a></td>
 </tr>
 </tbody></table>

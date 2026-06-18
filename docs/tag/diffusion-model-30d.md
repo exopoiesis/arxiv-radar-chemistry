@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21042.html">Dynamic Video Generation: Shaping Video Generation Across Time and Space</a></div></td>
 <td>Shikang Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21042">2605.21042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18217.html">3D CO-TALIF distribution above a micro cavity discharge: A systematic approach for plasma catalysis</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
-<td>Henrik van Impel et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18217">2605.18217</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19050.html">Generative Pseudo-Force Fields for Molecular Generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Stefaan Simon Pierre Hessmann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19050">2605.19050</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">551 papers</span>
+  <span class="paper-count">538 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Zongmin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17652.html">Improving the efficiency of Hartree--Fock--Bogoliubov solvers in 3D space</a></div></td>
@@ -3236,89 +3242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20493.html">A unified machine learning framework for ab initio multiscale modeling of liquids</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Anna T. Bui et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20493">2603.20493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04071.html">Magnetic behavior of the $5d^1$ Re-based double perovskite Sr$_2$ZnReO$_6$</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Muhammad Maikudi Isah et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04071">2509.04071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12329.html">DiffCrysGen: A Generative Diffusion Model for Accelerated Design of Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12329">2510.12329</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01569.html">Origin of Bright Quantum Emissions with High Debye-Waller factor in Silicon Nitride</a></div></td>
-<td>Shibu Meher et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01569">2512.01569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14675.html">Acrylamide Conformers: A Revision of Published Density Functional Theory Studies</a></div><div class="paper-tags"><a href="string-method-90d.html">string-method</a></div></td>
-<td>William Scott et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14675">2603.14675</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18537.html">Observation of Resonance of Kagome Flat Band Doublet</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Renjie Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18537">2603.18537</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18618.html">Non-equilibrium (thermo)dynamics of colloids under mobile piston compression</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Arturo Moncho-Jordá et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18618">2603.18618</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18650.html">DeePAW: A universal machine learning model for orbital-free ab initio calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Tianhao Su et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18650">2603.18650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18672.html">Fermi surface of Kagome metal CsCr$_3$Sb$_5$ observed by laser photoemission microscopy</a></div></td>
-<td>Hayate Kunitsu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18672">2603.18672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18725.html">A first-principles linear response theory for open quantum systems and its application to Orbach and direct magnetic relaxation in Ln-based coordination polymers</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Mikolaj Żychowicz et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18725">2603.18725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18830.html">Phonon-modulated Kerr nonlinearity in ultrathin 2H-MoTe2</a></div></td>
-<td>Shaoxiang Sheng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18830">2603.18830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18862.html">Matter radii from interaction cross sections using microscopic nuclear densities</a></div></td>
-<td>A. J. Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18862">2603.18862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18918.html">Navigating complex phase diagrams in soft matter systems</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Michael Wassermair et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18918">2603.18918</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19508.html">Theoretical investigation of the photovoltaic properties of MgSnN$_{2}$ for multi-junction solar cells</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Issam Mahraj et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19508">2603.19508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19511.html">First principles characterization of spinterfaces between magnetic Cobaltocene molecule and 2D magnets (CrI$_3$, Fe$_3$GeTe$_2$)</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Nikola Machacova et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19511">2603.19511</a></td>
 </tr>
 </tbody></table>

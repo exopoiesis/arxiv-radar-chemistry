@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1609 papers</span>
+  <span class="paper-count">1604 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9638,35 +9638,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18877.html">Integrating Classical and Quantum Software for Enhanced Simulation of Realistic Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Tomoya Shiota et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18877">2506.18877</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17866.html">Computational Discovery of Metastable NaMnO$_2$ Polymorphs as High-Performance Cathodes with Ultralow Na$^+$ Migration Barriers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Fukuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17866">2506.17866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17973.html">Investigation of the neutron-proton effective mass splitting via heavy ion collisions: Constraints and Implications</a></div></td>
-<td>Junping Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17973">2506.17973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17976.html">Threshold Displacement Energies of Oxygen in YBa$_2$Cu$_3$O$_7$: A Multi-Physics Analysis</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ashley Dickson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17976">2506.17976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17984.html">Exploring the impact of Ti/Al on L12 nanoprecipitation and deformation behavior in CoNiFeAlTi multi-principal element alloys through atomistic simulations</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Amin Esfandiarpour et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17984">2506.17984</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18163.html">Stochastic dynamics simulation of the focused electron beam induced deposition process</a></div></td>
-<td>Ilia A. Solov&#x27;yov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18163">2506.18163</a></td>
 </tr>
 </tbody></table>

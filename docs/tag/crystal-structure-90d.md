@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>crystal-structure — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <strong>90d</strong> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,23 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23941.html">An Efficient High-Degree, High-Order Equivariant Graph Neural Network for Direct Crystal Structure Optimization</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Ziduo Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23941">2603.23941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21235.html">From Polyhedra to Crystals: A Graph-Theoretic Framework for Crystal Structure Generation</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Tomoyasu Yokoyama et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21235">2505.21235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04071.html">Magnetic behavior of the $5d^1$ Re-based double perovskite Sr$_2$ZnReO$_6$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Muhammad Maikudi Isah et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04071">2509.04071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19508.html">Theoretical investigation of the photovoltaic properties of MgSnN$_{2}$ for multi-junction solar cells</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Issam Mahraj et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19508">2603.19508</a></td>
 </tr>
 </tbody></table>

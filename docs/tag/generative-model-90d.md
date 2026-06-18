@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -740,23 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20115.html">Conditioning Protein Generation via Hopfield Pattern Multiplicity</a></div></td>
 <td>Jeffrey D. Varner</td>
 <td><a href="http://arxiv.org/abs/2603.20115">2603.20115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12329.html">DiffCrysGen: A Generative Diffusion Model for Accelerated Design of Inorganic Crystalline Materials</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Sourav Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12329">2510.12329</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12696.html">HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation</a></div></td>
-<td>Zihui Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12696">2603.12696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18505.html">From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Jingzhi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18505">2603.18505</a></td>
 </tr>
 </tbody></table>

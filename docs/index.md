@@ -5,15 +5,45 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-06-17._
+_Updated 2026-06-18._
 
-**15391** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15399** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18648.html">Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark</a></div></td>
+<td>Yigeng Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18648">2606.18648</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18691.html">Robust and Interpretable Adaptation of Equivariant Materials Foundation Models via Sparsity-promoting Fine-tuning</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/magnetic-properties-30d.html">magnetic-properties</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Youngwoo Cho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18691">2606.18691</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18800.html">Mimicry of chaos and $k$-design in higher order OTOCs of Luttinger liquids</a></div></td>
+<td>Balázs Dóra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18800">2606.18800</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19040.html">Three-body unitary determination of the $f_1(1285)$ and $f_1(1420)$ pole positions</a></div></td>
+<td>Tao-Ran Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19040">2606.19040</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Zongmin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17409.html">Discrete Autoregressive Transformer for Generative Mechanism Synthesis</a></div></td>
@@ -141,6 +171,18 @@ _Updated 2026-06-17._
 <td><a href="http://arxiv.org/abs/2606.18222">2606.18222</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18368.html">Design and Performance of a Heated Gas Injector for Producing Cold Molecular Beams</a></div></td>
+<td>Avneesh Verma et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18368">2606.18368</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18422.html">Gatekeepers and Hallucinations: A Layered Evaluation Framework for LLM-Driven Quantum Circuit Generation</a></div></td>
+<td>Christopher Coleman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18422">2606.18422</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Wen-Kao Li et al.</td>
@@ -151,47 +193,5 @@ _Updated 2026-06-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16147.html">Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
 <td>Yanbin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16147">2606.16147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
-<td>James F. Tallman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16181.html">Evaluating the Structural Basis for Polar Altermagnet Candidate Ca$_{3}$(Ru,Ti)$_{2}$O$_{7}$</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/phase-transition-30d.html">phase-transition</a> · <a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Akash Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16181">2606.16181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16226.html">Prediction of Runtime Parameters of Parallel Chemistry Applications via Active and Generative Learning</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a></div></td>
-<td>Tanzila Tabassum et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16226">2606.16226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16244.html">SPARK: Security Knowledge Priming and Representation-Guided Knowledge Activation for LLM-based Secure Code Generation</a></div></td>
-<td>Xiaoyun Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16244">2606.16244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16320.html">Implementation of rotational invariance for first-principles phonons and application to low-dimensional materials</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
-<td>Benoit Van Troeye et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16320">2606.16320</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16385.html">Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Shuwei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16385">2606.16385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16416.html">Twistronic control of shift current in multilayer moiré system</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Michele Bagaglini et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16416">2606.16416</a></td>
 </tr>
 </tbody></table>

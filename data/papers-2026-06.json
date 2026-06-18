@@ -11383,5 +11383,238 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-06-16"
+ },
+ "2606.18283": {
+  "abstract": "The dense token-to-token interaction pattern of standard dot-product attention remains a central bottleneck in scaling Transformer architectures to long contexts. We introduce \\textbf{Gaussian Mixture Attention (GMA)}, a probabilistic attention-style sequence mixer that replaces explicit pairwise query--key comparison with routing through $K$ learned Gaussian mixture components. Queries and keys are mapped to posterior \\textit{responsibility} vectors over a shared latent routing space; their overlap defines an implicit responsibility-space affinity, while values are written into and read from a $K$-slot latent memory. By exploiting the associativity of matrix multiplication, GMA avoids materializing the induced $N\\times N$ affinity matrix and instead uses two responsibility matrices whose dominant activation storage scales as $\\mathcal{O}(NK)$ rather than $\\mathcal{O}(N^2)$ for fixed $K$. We formulate bidirectional and causal variants of GMA, provide an end-to-end differentiable parameterization of the Gaussian mixture components, and analyze its responsibility-modulated gradient structure, constrained non-negative low-rank affinity interpretation, and local routing stability. Empirically, GMA exhibits the intended fixed-$K$ linear memory scaling and is competitive with attention-style baselines on long-context classification, while causal GMA improves over tested linear/random-feature attention variants on WikiText-103 but remains behind optimized causal SDPA and Mamba in the current implementation. Analysis of learned responsibilities further shows broad component usage and moderate alignment with surface-form token categories, supporting GMA as a probabilistic, interpretable, fixed-$K$ linear-time attention-style alternative rather than a universal replacement for optimized softmax attention or state-space models.",
+  "authors": [
+   "Yongchao Huang",
+   "Hassan Raza"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "55 pages",
+  "first_author": "Yongchao Huang",
+  "pdf_url": "http://arxiv.org/pdf/2606.18283",
+  "primary_category": "cs.LG",
+  "published": "2026-06-09",
+  "tags": [],
+  "title": "Gaussian Mixture Attention: Linear-Time Sequence Mixing via Probabilistic Latent Routing",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.18368": {
+  "abstract": "We realize an injector device that supplies warm gas directly into a cryogenic environment. This injector has several advantageous features, including robustness, rigidity, simple installation, and excellent thermal isolation between a hot ($\\sim$300 K) copper fill line and a cold ($<$3 K) cryogenic buffer gas cell. Less than 200 mW heat load on the cell is observed in realistic conditions of a molecular precision measurement experiment. A polyamide-imide (PAI) tube is the essential design feature. The fill line is epoxied to one end of the tube while the other end of the tube is connected to the cell via a slip-fit onto a brass nipple, realizing a complete vacuum-tight seal. PAI contracts on the brass nipple when cooled, forming a cryogenic leak-tight seal. The injector is easily (de-)mountable and rigid, with no significant displacement of the fill line relative to the cell observed during cooldown to 4 K. We characterize injector performance by flowing into the cell $\\text{SF}_6$ through the hot fill line and cold $\\text{He}$ buffer gas through a separate cryogenic fill line while laser ablating a barium-containing target. This produces cold BaF free radicals, detected using absorption spectroscopy. This injector design will be employed to laser cool radium-containing molecules, such as $\\text{RaF}$ and $\\text{RaOH}$, where leak-tight delivery of $\\text{SF}_6$ and $\\text{H}_2\\text{O}$ reagents into a cryogenic buffer gas cell is required for scientific and safety reasons. These molecules are of particular interest for the study of symmetry-violating nuclear properties and searches for physics beyond the Standard Model.",
+  "authors": [
+   "Avneesh Verma",
+   "Jack Mango",
+   "Shungo Fukaya",
+   "Arian Jadbabaie",
+   "Sepehr Ebadi",
+   "Ronald F. Garcia Ruiz",
+   "John M. Doyle"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "physics.ins-det"
+  ],
+  "comment": "12 pages, 10 figures",
+  "first_author": "Avneesh Verma",
+  "pdf_url": "http://arxiv.org/pdf/2606.18368",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-06-16",
+  "tags": [],
+  "title": "Design and Performance of a Heated Gas Injector for Producing Cold Molecular Beams",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-16"
+ },
+ "2606.18422": {
+  "abstract": "As large language models (LLMs) become embedded in quantum simulation workflows (IDE copilots, notebook assistants, agentic pipelines), evaluation must move beyond functional correctness to anticipate and catch structured failures before they propagate through expensive pipelines. We present a layered evaluation framework for materials-informed Variational Quantum Eigensolver (VQE) circuit generation: (i) a gatekeeper screening rubric across seven physical and framework criteria; (ii) a circuit fidelity analysis comparing model outputs against analytical and reference-implementation values for H2/STO-3G/Jordan-Wigner/UCCSD, with ansatz classification and gate-composition breakdown; and (iii) design entropy, a run-to-run behavioral consistency metric. We surface a taxonomy of five distinct LLM failure modes (geometry hallucination, nonexistent API usage, runtime integration failures, constraint violations, and plausible-but-unverifiable output), each with distinct detectability profiles and structural to the task rather than to any one model. A forensic audit of the evaluation platform's own source code further establishes that two apparent model failures originated in the harness through silent fallback-template substitution, demonstrating that evaluation infrastructure belongs inside the same trust boundary as the models it tests. Applied across multiple foundation models on a Materials Project integrated pipeline, the framework shows that gatekeeper-style validation is necessary, not optional, for reliable deployment.",
+  "authors": [
+   "Christopher Coleman",
+   "Sharon Marfatia"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "7 pages, 4 figures",
+  "first_author": "Christopher Coleman",
+  "pdf_url": "http://arxiv.org/pdf/2606.18422",
+  "primary_category": "quant-ph",
+  "published": "2026-06-16",
+  "tags": [],
+  "title": "Gatekeepers and Hallucinations: A Layered Evaluation Framework for LLM-Driven Quantum Circuit Generation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-16"
+ },
+ "2606.18648": {
+  "abstract": "Deep research agents are Large Language Model (LLM)-based systems designed for autonomous, multi-step scientific reasoning, and they hold immense potential for accelerating research in the physical sciences. However, comprehensive and in-depth evaluations of their capabilities within this domain remain lacking. To address this gap, we introduce PhySciBench, a benchmark highly relevant to physical science research, comprising 200 expert-curated questions, balanced between physics and chemistry, across six task categories that reflect real-world scientific workflows. Evaluations of state-of-the-art models and agent systems on PhySciBench reveal limited performance; even the strongest baseline, Gemini Deep Research, achieves an accuracy of only 33.5%. Analysis of failure cases identifies three recurrent deficiencies: fragility in extended reasoning chains, limited knowledge transfer across steps, and a lack of physics-grounded self-verification. Motivated by these findings, we develop DelveAgent, a modular multi-agent framework equipped with an adaptive planning loop, dual-granularity memory, and a hierarchical physics-grounded reflection mechanism. Across four scientific benchmarks, DelveAgent improves accuracy by up to 7.5 percentage points while reducing inference costs to approximately one-third of the strongest baseline. These results establish the significance of PhySciBench as a critical benchmark for evaluating AI systems in the physical sciences and demonstrate that architectural specialization can effectively enhance the reliability of autonomous scientific research.",
+  "authors": [
+   "Yigeng Jiang",
+   "Tengchao Yang",
+   "Taoyong Cui",
+   "Jiaxing Wan",
+   "Yuan Wang",
+   "Weida Wang",
+   "Zhiyu Liu",
+   "Chuyi Peng",
+   "Binzhao Luo",
+   "Maoli Gao",
+   "Huaihai Huang",
+   "Yuqianer Zeng",
+   "Ziyang Zheng",
+   "Dongchen Huang",
+   "Chao Chen",
+   "Zichao Liu",
+   "Weiping Shen",
+   "Shuchen Pu",
+   "Siyu Zhou",
+   "Runmin Ma",
+   "Yusong Hu",
+   "Fei Chao",
+   "Bo Zhang",
+   "Xiawu Zheng",
+   "Zifu Wang",
+   "Lei Bai",
+   "Yunqi Cai",
+   "Shufei Zhang"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": "19 pages, 5 figures, 1 table;",
+  "first_author": "Yigeng Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2606.18648",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-17",
+  "tags": [],
+  "title": "Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.18691": {
+  "abstract": "Pre-trained materials foundation models, or machine learning interatomic potentials, leverage general physicochemical knowledge to effectively approximate potential energy surfaces. However, they often require domain-specific calibration due to physicochemical diversity as well as mismatches between practical computational settings and those used in constructing the pre-training data. To address this, we propose a sparsity-promoting fine-tuning method that selectively updates model parameters by exploiting the structural properties of E(3)-equivariant materials foundation models. On energy and force prediction tasks across molecular and crystalline benchmarks, our method matches or surpasses full fine-tuning and equivariant low-rank adaptation while updating only $\\sim$3~\\% of parameters, and in some cases as little as $\\sim$0.5~\\%. Beyond energy and force calibration, we further demonstrate task generalizability by applying our method to magnetic moment prediction and magnetism-aware total energy modeling. Finally, analysis of sparsity patterns reveals physically interpretable signatures, such as enhanced $d$-orbital contributions in transition metal systems. Overall, our results establish sparsity-promoting fine-tuning as a flexible and interpretable method for domain specialization of equivariant materials foundation models.",
+  "authors": [
+   "Youngwoo Cho",
+   "Seunghoon Yi",
+   "Wooil Yang",
+   "Sungmo Kang",
+   "Young-woo Son",
+   "Jaegul Choo",
+   "Joonseok Lee",
+   "Soo Kyung Kim",
+   "Hongkee Yoon"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Accepted by ICLR 2026",
+  "first_author": "Youngwoo Cho",
+  "pdf_url": "http://arxiv.org/pdf/2606.18691",
+  "primary_category": "cs.LG",
+  "published": "2026-06-17",
+  "tags": [
+   "free-energy",
+   "magnetic-properties",
+   "mlip"
+  ],
+  "title": "Robust and Interpretable Adaptation of Equivariant Materials Foundation Models via Sparsity-promoting Fine-tuning",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.18800": {
+  "abstract": "Out-of-time-order correlators (OTOCs) provide a fundamental metric for quantum chaos, but capturing the fine structure of information scrambling requires exploring their higher-order generalizations. Here, we systematically investigate the sequence of higher-order OTOCs in a Luttinger liquid and its lattice realization, the XXZ Heisenberg chain. Using bosonization and numerics, we extract the full temporal dynamics of the first three OTOCs, revealing that they rapidly erase memory of the initial state, and quickly saturate to their steady state values. Strikingly, we show that calculating the late time saturation values for the entire sequence of higher-order OTOCs maps exactly onto determining the partition function of a non-Hermitian Harper model. Through this mapping, we demonstrate that for moderately strong interactions, the steady-state OTOCs become parametrically small up to the seventh order, mimicking higher $k$-design. Our results reveal that Luttinger liquids exhibit an unexpectedly profound degree of apparent scrambling when viewed through the lens of higher-order OTOCs.",
+  "authors": [
+   "Balázs Dóra",
+   "Catalin Pascu Moca",
+   "Roderich Moessner"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.quant-gas"
+  ],
+  "comment": "6 pages, 2 figures",
+  "first_author": "Balázs Dóra",
+  "pdf_url": "http://arxiv.org/pdf/2606.18800",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-17",
+  "tags": [],
+  "title": "Mimicry of chaos and $k$-design in higher order OTOCs of Luttinger liquids",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19040": {
+  "abstract": "We study the $I^G(J^{PC})=0^+(1^{++})$ $K\\bar Kπ$ system in an infinite-volume three-body unitary framework, focusing on the pole content of the region of the $f_1(1285)$ and $f_1(1420)$ resonances. The coupled $πa_0$-$K\\bar K^*$ amplitude is constructed in the spectator-isobar representation, where the one-particle-exchange interaction required by three-body unitarity automatically incorporates the triangle-singularity mechanism. The short-range three-body interaction is constrained by fitting the $0^+(1^{++})$ component of the BESIII $K^0_SK^0_Sπ^0$ invariant-mass distribution in the $J/ψ\\toγ(K^0_SK^0_Sπ^0)$ decay. Analytically continuing the fitted amplitude to the relevant unphysical Riemann sheets, we find two robust poles: \\begin{align} \\sqrt{s_{f_1(1285)}}&= \\left(1277\\pm2\\pm1\\right) -i\\left(12\\pm1\\pm0\\right)\\text{MeV}\\,,\\notag\\\\ \\sqrt{s_{f_1(1420)}}&= \\left(1435\\pm2\\pm7\\right) -i\\left(40\\pm2\\pm1\\right)\\text{MeV}\\,.\\notag \\end{align} The pole trajectories indicate that the $f_1(1285)$ originates from dressing a bare state introduced in the potential. In contrast, the $f_1(1420)$ is predominantly dynamically generated, and a single-channel analysis traces it to an $S$-wave $K\\bar K^*$ quasi-bound state mixed with the nearby bare state, supporting its hadronic-molecule interpretation. We also find an additional pole deeper in the complex plane in the best-fit amplitude on the same Riemann sheet as the $f_1(1285)$. This additional pole is generated by the $P$-wave $πa_0$ contact interaction alone. It has a sizable cutoff and two-body-input dependence, and leaves little visible imprint on the physical lineshape. Finally, we provide a detailed and pedagogical appendix on how three-body cuts affect the solution of the integral equation.",
+  "authors": [
+   "Tao-Ran Hu",
+   "Hai-Long Fu",
+   "Feng-Kun Guo",
+   "Ulf-G. Meißner",
+   "Xu Zhang"
+  ],
+  "categories": [
+   "hep-ph",
+   "hep-ex",
+   "hep-lat",
+   "nucl-th"
+  ],
+  "comment": "35 pages, 14 figures",
+  "first_author": "Tao-Ran Hu",
+  "pdf_url": "http://arxiv.org/pdf/2606.19040",
+  "primary_category": "hep-ph",
+  "published": "2026-06-17",
+  "tags": [],
+  "title": "Three-body unitary determination of the $f_1(1285)$ and $f_1(1420)$ pole positions",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19152": {
+  "abstract": "Identifying the lowest-energy surface-adsorbate configuration is critical for modeling heterogeneous catalysis, yet exhaustive exploration with ab initio calculations is computationally prohibitive. Machine-learning force fields (MLFFs) accelerate structural relaxation but leave the search over the vast configurational space a major bottleneck, and open-loop large language model (LLM) agents lack a physics-grounded feedback mechanism to correct erroneous initial guesses. We propose AdsMind (Adsorption configuration discovery with Machine intelligence and relaxation feedback), a closed-loop multi-agent framework that enables autonomous error correction through MLFF relaxation feedback. Across four LLM backends, AdsMind achieves consistently high search reliability, with success rates of 100% and 98.8% on the benchmarks AA20 and OCD-GMAE62. Relative to its single-pass (1-Shot) ablation it reduces cross-backend energy dispersion, and it uses only 4.11 and 4.67 MLFF relaxations per case, respectively -- an approximately 14-fold reduction over heuristic enumeration baselines. Density functional theory (DFT) validation using VASP/PBE on six representative AA20 systems shows that the reported open-loop Adsorb-Agent outputs exhibit qualitative adsorption-energy sign errors for molecular adsorbates, whereas AdsMind preserves the correct sign in all tested cases with closer quantitative agreement. AdsMind thus delivers reliability, self-reflection, and interpretability simultaneously, supporting more DFT-informed autonomous chemistry workflows.",
+  "authors": [
+   "Zongmin Zhang",
+   "Yuyang Lou",
+   "Bowen Zhang",
+   "Junwu Chen",
+   "Ryo Kuroki",
+   "Xuan Vu Nguyen",
+   "Edvin Fako",
+   "Lixue Cheng",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "37 pages, 5 figures",
+  "first_author": "Zongmin Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.19152",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-17",
+  "tags": [
+   "ab-initio",
+   "catalysis",
+   "dft",
+   "mlip"
+  ],
+  "title": "AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-17"
  }
 }

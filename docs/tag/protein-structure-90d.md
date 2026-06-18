@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,23 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19817.html">GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Animesh et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19817">2603.19817</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18505.html">From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Jingzhi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18505">2603.18505</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18571.html">CAPSUL: A Comprehensive Human Protein Benchmark for Subcellular Localization</a></div></td>
-<td>Yicheng Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18571">2603.18571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19473.html">Reinforcement-guided generative protein language models enable de novo design of highly diverse AAV capsids</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Lucas Ferraz et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19473">2603.19473</a></td>
 </tr>
 </tbody></table>

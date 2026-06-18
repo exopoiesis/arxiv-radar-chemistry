@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13629.html">Valid Inference with Synthetic Data via Task Exchangeability</a></div></td>
 <td>Lezhi Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13629">2606.13629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11833.html">Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a></div></td>
-<td>Sam Gijsen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11833">2606.11833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12651.html">Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
-<td>Riya Bisht et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12651">2606.12651</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1922,11 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03155.html">Glassy Behavior and Anomalous Transport in Chimney Ladder Crystals Induced by Low-Lying Optical Phonons</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Srinivas V. Mandyam et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03155">2503.03155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18030.html">Enhanced UV Photodetector Efficiency with a ZnO/Ga$_2$O$_3$ Heterojunction</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Shashi Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18030">2506.18030</a></td>
 </tr>
 </tbody></table>

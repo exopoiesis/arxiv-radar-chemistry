@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>James F. Tallman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19374.html">Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Mohamed Mouhajir et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19374">2606.19374</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -332,17 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05549.html">Logical Guidance for the Exact Composition of Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Francesco Alesiani et al.</td>
 <td><a href="http://arxiv.org/abs/2602.05549">2602.05549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14108.html">Assessing the potential of deep learning for protein-ligand docking</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Alex Morehead et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14108">2405.14108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19817.html">GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Animesh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19817">2603.19817</a></td>
 </tr>
 </tbody></table>

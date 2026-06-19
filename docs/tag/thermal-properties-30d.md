@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18903.html">First-Principles Study of Novel Lead-Free Double Perovskite \b{eta}2SnGeX6 (\b{eta} = K, Rb; X = Cl, Br, I) for thermomechanical, optoelectronic and outstanding thermoelectric applications</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Jubair Hossan Abir et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18903">2606.18903</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
 <td>Viktor Könye et al.</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23558.html">Ambiguity in B-Site cation ordering: A Case study of the double perovskite Ca$_2$CoNbO$_6$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Svetlana A. Artiukova et al.</td>
 <td><a href="http://arxiv.org/abs/2605.23558">2605.23558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20095.html">Spin polarization enhancement in a single-layer Bi(1-x)Sb(x) alloy on Ag(111) via isovalent substitution</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Javier D. Fuhr et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20095">2605.20095</a></td>
 </tr>
 </tbody></table>

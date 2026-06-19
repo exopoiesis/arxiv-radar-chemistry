@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19780.html">Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Jeonghwan Ahn et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19780">2606.19780</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17896.html">Detectability of deuterium in spectra of early-type stars</a></div></td>
 <td>Veronika Mitrokhina et al.</td>
@@ -1910,11 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14143.html">A Machine Learning Framework for Scattering Kernel Derivation Using Molecular Dynamics Data in Very Low Earth Orbit</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Miklas Schütte et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14143">2507.14143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18574.html">Partitioning the electronic wave function using deep variational Monte Carlo</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Matěj Mezera et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18574">2506.18574</a></td>
 </tr>
 </tbody></table>

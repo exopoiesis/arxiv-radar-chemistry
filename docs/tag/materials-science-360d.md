@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">433 papers</span>
+  <span class="paper-count">431 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2600,17 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20743.html">A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Minh-Hao Van et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20743">2506.20743</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16301.html">DiffDesign: Controllable Diffusion with Meta Prior for Efficient Interior Design Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Yuxuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.16301">2411.16301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18497.html">Leveraging neural network interatomic potentials for a foundation model of chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>So Yeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18497">2506.18497</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">485 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2912,17 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19834.html">A standard transformer and attention with linear biases for molecular conformer generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Viatcheslav Gurev et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19834">2506.19834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16301.html">DiffDesign: Controllable Diffusion with Meta Prior for Efficient Interior Design Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Yuxuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.16301">2411.16301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18779.html">DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model</a></div></td>
-<td>Bao Thach et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18779">2506.18779</a></td>
 </tr>
 </tbody></table>

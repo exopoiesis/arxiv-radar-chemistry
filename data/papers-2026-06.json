@@ -11453,6 +11453,36 @@
   ],
   "updated": "2026-06-16"
  },
+ "2606.18477": {
+  "abstract": "Twisting layered materials produces moiré superlattices, but prescribed twist angles are usually obtained by demanding assembly procedures. Here we show that montmorillonite, an abundant swelling clay, forms tunable moiré superlattices naturally. Focal-series high-resolution transmission electron microscopy, geometric phase analysis, and molecular dynamics simulation reveal that its apparent rotational disorder is biased toward low-angle misorientations inherited from discrete hydration states. Multilayer stacks preferentially adopt twists near 1-2°, 4°, and 10°, producing long-wavelength moirés without long-range rotational order. We define this kinetically trapped state as a moiré glass, distinct from featureless turbostratic stacking. Simulations indicate that lattice-charge disorder stabilizes the angular preferences, whereas charge ordering promotes random stacking. Hydration screens interlayer interactions and lubricates twist, while dehydration arrests the resulting configurations in discrete steps. These results establish dynamic hydration as a macroscopic handle for programming twist in layered matter.",
+  "authors": [
+   "Juhyeok Lee",
+   "Piotr Zarzycki",
+   "Colin Ophus",
+   "Jim Ciston",
+   "Benjamin Gilbert",
+   "Jillian F. Banfield",
+   "Mary C. Scott",
+   "Michael L. Whittaker"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": "25 pages, 4 main figures, 8 supplementary figures, 1 supplementary table",
+  "first_author": "Juhyeok Lee",
+  "pdf_url": "http://arxiv.org/pdf/2606.18477",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-16",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Hydration-controlled twist forms a moiré glass in charge-frustrated layered silicates",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-16"
+ },
  "2606.18648": {
   "abstract": "Deep research agents are Large Language Model (LLM)-based systems designed for autonomous, multi-step scientific reasoning, and they hold immense potential for accelerating research in the physical sciences. However, comprehensive and in-depth evaluations of their capabilities within this domain remain lacking. To address this gap, we introduce PhySciBench, a benchmark highly relevant to physical science research, comprising 200 expert-curated questions, balanced between physics and chemistry, across six task categories that reflect real-world scientific workflows. Evaluations of state-of-the-art models and agent systems on PhySciBench reveal limited performance; even the strongest baseline, Gemini Deep Research, achieves an accuracy of only 33.5%. Analysis of failure cases identifies three recurrent deficiencies: fragility in extended reasoning chains, limited knowledge transfer across steps, and a lack of physics-grounded self-verification. Motivated by these findings, we develop DelveAgent, a modular multi-agent framework equipped with an adaptive planning loop, dual-granularity memory, and a hierarchical physics-grounded reflection mechanism. Across four scientific benchmarks, DelveAgent improves accuracy by up to 7.5 percentage points while reducing inference costs to approximately one-third of the strongest baseline. These results establish the significance of PhySciBench as a critical benchmark for evaluating AI systems in the physical sciences and demonstrate that architectural specialization can effectively enhance the reliability of autonomous scientific research.",
   "authors": [
@@ -11556,6 +11586,35 @@
   ],
   "updated": "2026-06-17"
  },
+ "2606.18903": {
+  "abstract": "In this study, the structural, mechanical, electronic, optical, and thermoelectric properties of the novel lead-free halide double perovskite series beta2SnGeX6 (beta = K, Rb; X = Cl, Br, I) are systematically investigated using density functional theory (DFT). Calculated formation energies, Tolerance factors, and octahedral factors confirm that all six compounds exhibit robust thermodynamic stability within a highly symmetric cubic geometry. Mechanical analysis derived from elastic parameters characterizes the entire series as fundamentally ductile, ensuring high processing elasticity and resistance to micro-cracking during device manufacturing. Electronic band structures reveal direct bandgaps showing exceptional composition-dependent tunability from 1.44 eV down to 0.64 eV via progressive halogen substitution. The wide gap chloride variations are optimized for single-junction photovoltaic absorbers, while the narrower-gap bromide and iodide analogs show immense promise for tandem solar architectures and near-infrared photodetectors. Thermoelectrically, heavy constituent atoms introduce strong lattice anharmonicity and intense high-temperature Umklapp phonon scattering, significantly suppressing lattice thermal conductivity. Combined with low carrier effective masses that optimize electrical transport, the iodide compounds achieve higher power factors and outstanding dimensionless figures of merit (ZT = 2.4 for K2SnGeI6 at 1000 K). Ultimately, these lead-free double perovskite family emerges as an environmentally benign and versatile platform for next-generation green optoelectronics and solid-state waste-heat recovery.",
+  "authors": [
+   "Jubair Hossan Abir",
+   "Tauhidur Rahman",
+   "S. S. B. Pallab",
+   "Md. Sharear Aman",
+   "R. S. Islam",
+   "S. H. Naqib"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jubair Hossan Abir",
+  "pdf_url": "http://arxiv.org/pdf/2606.18903",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-17",
+  "tags": [
+   "crystal-structure",
+   "dft",
+   "thermal-properties"
+  ],
+  "title": "First-Principles Study of Novel Lead-Free Double Perovskite \\b{eta}2SnGeX6 (\\b{eta} = K, Rb; X = Cl, Br, I) for thermomechanical, optoelectronic and outstanding thermoelectric applications",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
  "2606.19040": {
   "abstract": "We study the $I^G(J^{PC})=0^+(1^{++})$ $K\\bar Kπ$ system in an infinite-volume three-body unitary framework, focusing on the pole content of the region of the $f_1(1285)$ and $f_1(1420)$ resonances. The coupled $πa_0$-$K\\bar K^*$ amplitude is constructed in the spectator-isobar representation, where the one-particle-exchange interaction required by three-body unitarity automatically incorporates the triangle-singularity mechanism. The short-range three-body interaction is constrained by fitting the $0^+(1^{++})$ component of the BESIII $K^0_SK^0_Sπ^0$ invariant-mass distribution in the $J/ψ\\toγ(K^0_SK^0_Sπ^0)$ decay. Analytically continuing the fitted amplitude to the relevant unphysical Riemann sheets, we find two robust poles: \\begin{align} \\sqrt{s_{f_1(1285)}}&= \\left(1277\\pm2\\pm1\\right) -i\\left(12\\pm1\\pm0\\right)\\text{MeV}\\,,\\notag\\\\ \\sqrt{s_{f_1(1420)}}&= \\left(1435\\pm2\\pm7\\right) -i\\left(40\\pm2\\pm1\\right)\\text{MeV}\\,.\\notag \\end{align} The pole trajectories indicate that the $f_1(1285)$ originates from dressing a bare state introduced in the potential. In contrast, the $f_1(1420)$ is predominantly dynamically generated, and a single-channel analysis traces it to an $S$-wave $K\\bar K^*$ quasi-bound state mixed with the nearby bare state, supporting its hadronic-molecule interpretation. We also find an additional pole deeper in the complex plane in the best-fit amplitude on the same Riemann sheet as the $f_1(1285)$. This additional pole is generated by the $P$-wave $πa_0$ contact interaction alone. It has a sizable cutoff and two-body-input dependence, and leaves little visible imprint on the physical lineshape. Finally, we provide a detailed and pedagogical appendix on how three-body cuts affect the solution of the integral equation.",
   "authors": [
@@ -11613,8 +11672,577 @@
   ],
   "title": "AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces",
   "topics": [
+   "Large Language Models & Materials",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19374": {
+  "abstract": "Graph-based representations are widely used in protein modeling, yet many existing approaches rely primarily on sequence adjacency or geometric proximity, which only partially reflect the principles governing protein folding. Proteins instead adopt complex three-dimensional conformations organized around secondary structure elements, such as $α$-helices and $β$-sheets, which encode recurring local motifs and stabilizing hydrogen-bond interactions. In this work, we introduce a secondary-structure-aware graph neural network for protein representation learning. Residue-level node representations are augmented with secondary structure assignments, and graph edges are constructed from hydrogen-bond interactions filtered by their energetic strength. This design enables the model to capture both local structural context and long-range couplings that are central to protein stability and function. We evaluate the proposed approach on commonly used protein benchmarks and observe consistent improvements over existing graph-based methods. In addition, the resulting graph representations offer enhanced biological interpretability, as the learned connectivity aligns with established structural motifs. These findings suggest that incorporating secondary structure and energy-filtered hydrogen-bond topology provides an effective inductive bias for protein representation learning. The code is released at https://github.com/mohamedmohamed2021/SSProNet",
+  "authors": [
+   "Mohamed Mouhajir",
+   "Limei Wang",
+   "El Houcine Bergou",
+   "Hajar El Hammouti",
+   "Lamiae Azizi",
+   "Dongqi Fu"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Mohamed Mouhajir",
+  "pdf_url": "http://arxiv.org/pdf/2606.19374",
+  "primary_category": "cs.LG",
+  "published": "2026-06-12",
+  "tags": [
+   "gnn",
+   "protein-structure"
+  ],
+  "title": "Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.19404": {
+  "abstract": "Hallucination detection in large language models (LLMs) is deployment-critical, and recent work shows that the spectrum of attention-derived graph Laplacians carries strong signal about reasoning quality. Prior spectral diagnostics, however, summarize the Laplacian spectrum by a handful of eigenvalues or hand-picked scalars, leaving most of its structure unused. We propose Free-Energy Signatures (Fes), a spectral descriptor that treats each layer's attention Laplacian as a Hamiltonian and extracts its thermodynamic potentials partition function, free energy, spectral entropy, heat capacity together with the random-matrix-theory (RMT) spectral form factor. We prove three results: (i)~Lipschitz stability of Fes under attention perturbation; (ii)~an expressiveness result showing that Fes enriches finite spectral summaries and approximates moment-derived spectral functionals under explicit regularity and grid-resolution assumptions; and (iii)~a finite-sample PAC bound on the AUROC of a training-free detector built from Fes. Empirically, across six open-weight LLMs and six benchmarks, a lightweight probe on Fes descriptors achieves the strongest aggregate AUROC among attention-spectral baselines, improving over LapEig by $+6.5$ AUROC points and over GoR-4 by $+2.4$ points on average, while requiring no update to the underlying LLM. In the fully unsupervised setting, an RMT-deviation score achieves mean AUROC $0.71$, providing a label-free but weaker detector. A complementary RMT analysis shows that correct generations exhibit more Wigner-Dyson like spectral statistics, whereas hallucinations exhibit more Poisson-like statistics. The anonymized code and config are provided in the supplementary material.",
+  "authors": [
+   "Salim Khazem"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Salim Khazem",
+  "pdf_url": "http://arxiv.org/pdf/2606.19404",
+  "primary_category": "cs.LG",
+  "published": "2026-06-17",
+  "tags": [
+   "free-energy"
+  ],
+  "title": "Thermodynamic Signatures of Reasoning: Free-Energy and Spectral-Form-Factor Diagnostics for Hallucination Detection in Large Language Models",
+  "topics": [
    "Large Language Models & Materials"
   ],
   "updated": "2026-06-17"
+ },
+ "2606.19418": {
+  "abstract": "Predicting detailed atomistic structures of self-assembling systems remains a challenge for all-atom molecular dynamics simulations. Replica exchange with solute tempering (REST) has been used to study those systems by accelerating all monomers in a global and uniform manner. While such a global approach can in principle predict any morphology of the system, it has computational drawbacks such as inefficient replica traversal due to order-disorder transitions and the growing number of replicas with system size. To address these issues, here we propose an alternative, stepwise construction approach to modeling supramolecular polymers under the assumption of one-dimensional polymerization. Specifically, we generate polymer structures by adding new monomers one by one to the system and applying REST to the new monomers to find their optimal binding positions based on an energy-based scoring function. The monomer addition and enhanced sampling are repeated sequentially until a polymer of desired length is obtained. We test the above procedure using a model supramolecular polymer in explicit solvent, and show that it can generate a polymer structure with characteristic H-bonding patterns at reduced computational costs, while also improving the efficiency of replica traversal significantly. We thus expect that the sequential REST will be useful for modeling supramolecular polymers, particularly for cases where global REST simulations are too demanding computationally.",
+  "authors": [
+   "Hadi H. Arefi",
+   "Takeshi Yamamoto"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 9 figures",
+  "first_author": "Hadi H. Arefi",
+  "pdf_url": "http://arxiv.org/pdf/2606.19418",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-17",
+  "tags": [
+   "enhanced-sampling",
+   "molecular-dynamics",
+   "replica-exchange"
+  ],
+  "title": "Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19547": {
+  "abstract": "The electronegativity equalization principle provides a simple framework to describe charge redistribution, yet its conventional formulation is limited to a first-order description based on chemical potential equalization. In this work, we introduce 'multi-equalization,' a generalized framework that extends this concept by incorporating higher-order responses within Conceptual Density Functional Theory.   This approach represents molecules as sets of flexible electron density partitions, allowing different electronic descriptions (e.g., atomic densities or localized orbitals) to be treated within a unified formalism. We demonstrate that correlations between energy and density derivatives with respect to the number of electrons lead to the simultaneous equalization of multiple descriptors, including chemical hardness and Fukui indices.   A constructive algorithm is introduced to determine the optimal density partitions satisfying these multi-equalization conditions. This scheme provides a consistent description of both global charge transfer and local reactivity, overcoming the intrinsic limitations of traditional electronegativity equalization models. Notably, the inclusion of density response functions enables local hardness equalization, introducing spatial resolution into reactivity descriptions. Under multi-equalization, local reactivity descriptors become constrained functionals of the global electron density. This framework establishes a deeper connection between charge equalization models and formal density functional theory, offering a theoretically grounded route toward improved predictions of molecular reactivity.",
+  "authors": [
+   "Jesús Sánchez-Márquez"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Jesús Sánchez-Márquez",
+  "pdf_url": "http://arxiv.org/pdf/2606.19547",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-17",
+  "tags": [
+   "dft"
+  ],
+  "title": "Multi-Equalization in Conceptual Density Functional Theory: Beyond Electronegativity Equalization",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19571": {
+  "abstract": "We theoretically investigate the optical spin-injection response in different stoichiometric configurations of graphane and fluorographene using density functional theory. Our goal is to determine which configuration yields the strongest degree of spin polarization. The results show that the fluorographene zigzag configuration yields the best degree of spin polarization response (${\\cal DSP}^{\\mathrm{z}}$), with 98\\% spin polarized electrons at the band edge and over a wide range of excitation photon energies. In contrast, other graphane and fluorographene configurations achieve a ${\\cal DSP}^{\\mathrm{z}}$ of roughly 83--100\\%, but only within a limited photon-excitation energy range. In structures with low spin-orbit coupling, the degree of spin polarization is close to 100\\% over a wide range of photon energies. For higher spin-orbit coupling, this strong response appears, but only in a narrow photon energy region. Additionally, under the band-resolved decomposition scheme, the contributions of different band-to-band transitions to the ${\\cal DSP}^{\\mathrm{z}}$ spectrum are identified by summing only the selected valence and conduction bands. Our findings show that almost the entire ${\\cal DSP}^{\\mathrm{z}}$ spectrum of the fluorographene zigzag configuration comes from transitions that involve only the top valence band, which is a mixture of C--p and F--p states.",
+  "authors": [
+   "Angélica Marina López-Martínez",
+   "César Castillo-Quevedo",
+   "Cesar Camas-Flores",
+   "Analila Luna-Valenzuela",
+   "Jose Luis Cabellos"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages",
+  "first_author": "Angélica Marina López-Martínez",
+  "pdf_url": "http://arxiv.org/pdf/2606.19571",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-06-17",
+  "tags": [
+   "dft",
+   "magnetic-properties"
+  ],
+  "title": "Optical spin injection in graphane and fluorographene",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19582": {
+  "abstract": "The growth of a thin film of a high-entropy AlCoCuFeNi alloy on a silicon (100) substrate was studied using molecular dynamics modeling. The simulation was carried out using the embedded atom model to describe the interactions among Al, Co, Cu, Ni, and Fe atoms. The interaction between Al, Co, Cu, Fe, Ni atoms and the Si substrate was modeled using the Lennard-Jones potential, while the interaction between silicon atoms was described using the Stillinger-Weber potential. The total simulation time was 50 ns. It was found that small clusters were formed at the first stage of deposition and that crystallization started after approximately 5 ns of simulation, when the characteristic cluster size was about 2 nm. At the end of the simulation, after 50 ns of modeling, the simulated film contained face-centered cubic, body-centered cubic, hexagonal close-packed, and amorphous phases. Analysis of the radial distribution function made it possible to determine nearest-neighbor distances and estimate the lattice parameters of these phases.",
+  "authors": [
+   "Oleksandr I. Kushnerov",
+   "Valerij F. Bashev",
+   "Sergey I. Ryabtsev"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Preprint version of a book chapter. 8 pages, 5 figures. Published in Springer Proceedings in Physics 263 (2021), 419-427. DOI: 10.1007/978-3-030-74741-1_28",
+  "first_author": "Oleksandr I. Kushnerov",
+  "pdf_url": "http://arxiv.org/pdf/2606.19582",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-17",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Deposition and Growth of the AlCoCuFeNi High-Entropy Alloy Thin Film: Molecular Dynamics Simulation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19600": {
+  "abstract": "Diamond hosts optically active point defects central to quantum technologies, yet the carbon self-interstitials introduced during growth and irradiation compete with them and form new defects whose configurational landscape is poorly charted, as subtle energy differences govern the competing minima and pathways. Here we build an interstitial-focused dataset by active learning and benchmark three machine-learning interatomic potentials -- GAP, NEP and the equivariant MACE -- against density functional theory for energies, forces and migration barriers. MACE reproduces the reference energetics and relative stabilities, whereas the others can misorder the ground states. Annealing molecular dynamics with the validated potentials uncovers a series of previously unreported carbon interstitial clusters, from di- to octa-interstitials -- several introducing in-gap states of interest as colour centres -- and shows that their metastability is governed by kinetically accessible pathways rather than energetic ordering. These results chart the interstitial defect landscape and accelerate defect discovery for quantum technologies.",
+  "authors": [
+   "Xiaoya Chang",
+   "Arsalan Hashemi",
+   "Nima Ghafari Cherati",
+   "Mikko Karttunen",
+   "Ádám Gali",
+   "Tapio Ala-Nissila"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiaoya Chang",
+  "pdf_url": "http://arxiv.org/pdf/2606.19600",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-17",
+  "tags": [
+   "active-learning",
+   "dft",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Machine-learned prediction of carbon interstitial clusters in diamond",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19653": {
+  "abstract": "Defect-driven phase instability critically influences the structural reliability of ultrawide bandgap oxides, yet direct nanoscale metrics linking local chemistry to structural transformation remain limited. Here, we introduce a coordination-sensitive atom probe tomography framework that quantitatively resolves reductions in local cation coordination and links them directly to defect-driven phase transformation. Using Si-doped beta-(AlxGa1-x)2O3 heterostructures with controlled Al composition (6-17%) and doping levels (10^17-10^20 cm^-3), we show that gamma-phase inclusions emerge exclusively under the combined conditions of elevated Al content and heavy Si doping. Two-dimensional compositional mapping reveals pronounced lateral Al/Ga inhomogeneity in these regions, while nearest-neighbor and radial distribution analyses quantitatively resolve a significant reduction in first-shell Ga coordination, consistent with local cation deficiency. Correlative scanning transmission electron microscopy confirms that these coordination-depleted regions coincide spatially with gamma-phase inclusions. Density functional theory further supports this mechanism, demonstrating that Al incorporation reduces monoclinic lattice stability and, in conjunction with donor-induced vacancy formation, facilitates vacancy-mediated cation rearrangement and coordination collapse. Together, these results establish coordination loss as a measurable nanoscale signature directly linked to defect-driven phase instability. This framework provides a generalizable approach for probing defect-driven phase instability in doped and alloyed ultrawide bandgap semiconductors.",
+  "authors": [
+   "Shaon Das",
+   "Jith Sarker",
+   "Christopher Chae",
+   "Lingyu Meng",
+   "Joel B. Varley",
+   "Hongping Zhao",
+   "Jinwoo Hwang",
+   "Baishakhi Mazumder"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Shaon Das",
+  "pdf_url": "http://arxiv.org/pdf/2606.19653",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-17",
+  "tags": [
+   "2d-materials",
+   "band-gap",
+   "dft"
+  ],
+  "title": "Coordination-Sensitive Nanoscale Analysis of Defect-Driven Phase Transformation in Si-Doped (AlXGa1-X)2O3",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19780": {
+  "abstract": "Interlayer interactions in layered materials are often assumed to transfer from the bilayer to the bulk, but this assumption can fail when chemically active out-of-plane orbitals participate in bonding. We combine diffusion quantum Monte Carlo (DMC) and density functional theory (DFT) to determine how interlayer coupling evolves in arsenene multilayers. DMC shows that bulk gray arsenic is compact, whereas the corresponding few-layer structures remain at substantially larger interlayer separations despite sharing the same nominal A$_{1}$B$_{-1}$ adjacent-layer registry. Registry alone therefore does not determine the bonding regime; thickness and coordination reshape the interlayer interaction. Among the tested functionals, SCAN+rVV10 most closely reproduces DMC equilibrium separations and stacking energetics. Using the DMC-benchmarked SCAN+rVV10 calculations, we predict a thickness-driven stacking sequence from A$_{1}$A$_{1}$ to A$_{1}$B$_{1}$ and finally bulk-like A$_{1}$B$_{-1}$. The structural crossover coincides with a stacking-dependent DFT band-gap collapse driven by enhanced interlayer As p$_{z}$ hybridization.",
+  "authors": [
+   "Jeonghwan Ahn",
+   "Seoung-Hun Kang",
+   "Jaron T. Krogel"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jeonghwan Ahn",
+  "pdf_url": "http://arxiv.org/pdf/2606.19780",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-18",
+  "tags": [
+   "2d-materials",
+   "dft",
+   "monte-carlo"
+  ],
+  "title": "Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers",
+  "topics": [
+   "Protein & Biomolecules",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.19798": {
+  "abstract": "Mineral surfaces govern interfacial reactivity in carbon mineralization, geo-energy storage, contaminant immobilization, heterogeneous catalysis and electrochemical interface engineering. Yet atomistic simulations often rely on commonly used facets or facet-level stability criteria, while distinct atomic terminations of the same crystallographic orientation are rarely resolved systematically because experimental characterization and density functional theory (DFT) calculations remain costly across large surface spaces. Here we present MinSurf, a high-throughput framework that resolves mineral surface selection as a surface-energy and morphology problem. MinSurf integrates surface enumeration, DFT labelling, machine-learning interatomic potentials and Wulff construction to predict stable terminations, surface-energy landscapes and equilibrium crystal morphologies. Applied to ten representative minerals, MinSurfSet comprises 764 surface slabs, with 90 corresponding oriented unit cells constructed as bulk references for surface-energy evaluation. The resulting MinNEP model predicts DFT surface energies with a mean absolute error of 0.0119 eV per Angstrom squared and achieves an overall acceleration of 1.14 x 10^4 relative to DFT. MinNEP preserves the DFT-derived morphology-determining surface-energy hierarchy and reproduces the dominant Wulff-exposed facets, while X-ray diffraction provides an independent crystallographic consistency check for alpha-quartz benchmark. By linking atomic terminations, surface energies and equilibrium morphologies, MinSurf provides reproducible and physically representative surface models for high-throughput simulations of mineral interfaces across energy, environmental and advanced inorganic materials.",
+  "authors": [
+   "Fengzijun Pan",
+   "Zhoulin Liu",
+   "Pingyang Zhang",
+   "Jiaqiu Xu",
+   "Zepeng Fan",
+   "Dawei Wang",
+   "Jianzhong Pei"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Fengzijun Pan",
+  "pdf_url": "http://arxiv.org/pdf/2606.19798",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-18",
+  "tags": [
+   "catalysis",
+   "dft",
+   "mlip"
+  ],
+  "title": "MinSurf: resolving the atomic-scale stability landscape of mineral surfaces",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.19884": {
+  "abstract": "Velocity slip at the solid--fluid (SF) interface plays a key role in fluid transport at the nanoscale, and the SF friction coefficient has been extensively studied because it indicates the degree of slippage. Owing to the scale of this phenomenon, molecular dynamics (MD) simulations are commonly employed using two major approaches: the Green-Kubo integral method in equilibrium MD (EMD), and the direct calculation of friction force and slip velocity in non-equilibrium MD (NEMD) systems under shear. Regarding the latter, a strict definition of the slip velocity is missing due to the nonzero thickness of the boundary at the microscale, and the average velocity of the first adsorption layer or the velocity at the boundary obtained by extrapolation or interpolation is often used. In this study, we propose an alternative description of the slip velocity based on a thermal perspective from the two different scales, i.e., at the macroscale, frictional heat is defined as the product of the friction force and slip velocity, whereas at the microscale, it can be expressed as the sum of the works exerted on the fluid and solid by each other. By combining the two different scales, we defined the slip velocity based on the dissipation induced at the SF interface under shear, which avoids the arbitrariness in the slip velocity at the microscale.",
+  "authors": [
+   "Hiroki Kusudo",
+   "Yasutaka Yamaguchi",
+   "Gota Kikugawa"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Hiroki Kusudo",
+  "pdf_url": "http://arxiv.org/pdf/2606.19884",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-18",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Extraction of slip velocity in NEMD Couette flow systems using frictional dissipation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.19923": {
+  "abstract": "Phosphatidylcholine liposomes fill a special niche in alleviating osteoarthritis via intra-articular (IA) administration, attributed to their superlubricity at the articular cartilage surface, but their co-utilization as drug delivery vesicles in such therapy remains challenging as they may rupture under mechanical stress. Here, we describe cytoskeleton-inspired, supramolecular, self-assembled nanolipogels (NLGs), encompassing liposome-encased nanogels with a dynamic network formed by hydrogen bonding and cation-pi interactions, as a platform for simultaneous robust drug-delivery and massive reduction of interfacial frictional dissipation. We use a surface force balance to assess such dissipation at the sub-nanometer level, elucidating the mechanism involved, and atomic force microscopy to probe the NLGs structural stability. A useful proxy for the interfacial dissipation is the coefficient of friction, which remains as low as 10-4 at contact pressures at least up to 2 MPa, while under higher pressures exceeding the H-bonding energy density it increases abruptly and irreversibly to the still-low value 10-2. Under sustained sliding above this threshold, however, friction gradually decreases again, indicating recovery of the lubricating interface. Molecular dynamics simulations identify the compressive stress decrease due to hydrogen-bond rupture/rearrangement within the nanogel as a buried supramolecular transition associated with lubrication breakdown and recovery, while cargo release during sliding emphasizes the drug-delivery potential of such NLGs. These findings reveal how supramolecular core-shell reinforcement regulates load-bearing hydration lubrication, and provides a framework for designing adaptive biomimetic lubricants which are at the same time load-bearing intra-articular cargo-delivery vehicles.",
+  "authors": [
+   "Panpan Zhao*",
+   "Avijit Mondal",
+   "Nir Kampf",
+   "Aleksei Solomonov",
+   "Roman Kamyshinsky",
+   "Jacob Klein*"
+  ],
+  "categories": [
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Panpan Zhao*",
+  "pdf_url": "http://arxiv.org/pdf/2606.19923",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-06-18",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Cytoskeleton-inspired, adaptive nanolipogels as superlubricating delivery vehicles",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.19954": {
+  "abstract": "Valley polarization in 2D TMDs is promising for low-power valleytronic and spin-valley information processing, but time-reversal symmetry in pristine nonmagnetic TMDs keeps the K+ and K- valleys degenerate, limiting device applications. In this work, we investigated the structural stability, electronic properties, and tunable valley polarization of V-alloyed MoTe2 monolayer, Mo0.75V0.25Te2, using first-principles density functional theory (DFT) calculations. Substitutional alloying of MoTe2 with V introduced magnetic exchange interaction, which, together with spin-orbit coupling (SOC), lifted the valley degeneracy at the unequal valleys. The alloyed structure was found to be energetically and dynamically stable due to the absence of imaginary phonon modes. In pristine MoTe2, SOC produced spin splittings of 34.0 meV and 218.9 meV in the conduction bands and valence bands, respectively, but no valley polarization was observed. In contrast, Mo0.75V0.25Te2 exhibited spontaneous valley polarization of 37.3 meV in the conduction band and 78.2 meV in the valence band. The valley polarization was further enhanced by external electric fields and biaxial strain. A transverse electric field along the crystal c axis produced the maximum valley splitting of 132.8 meV in the valence band, whereas biaxial tensile strain increased the valence band valley splitting up to 160.8 meV. The maximum conduction band valley splitting reached 54.4 meV under 2% biaxial compressive strain. These results demonstrated that V alloying, combined with electric-field and strain engineering, provides an effective strategy for achieving large and tunable valley polarization in MoTe2. Thus, Mo0.75V0.25Te2 can be considered a promising 2D platform for tunable valleytronic device applications, such as transistors and sensors.",
+  "authors": [
+   "Md. Mostaqul Islam",
+   "Vivek Chowdhury",
+   "Md. Nure-Alam-Dipu",
+   "Ahmed Zubair"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.app-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Md. Mostaqul Islam",
+  "pdf_url": "http://arxiv.org/pdf/2606.19954",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-18",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "dft",
+   "magnetic-properties",
+   "tmd"
+  ],
+  "title": "Strain- and Electric-Field-Tunable Valley Polarization in Mo0.75V0.25Te2(Mo3VTe8) for Valleytronic Application",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20105": {
+  "abstract": "Magnesium ions play an essential role in many biological processes but remain challenging to model in biomolecular simulations. Despite considerable scientific effort, classical force fields fail to simultaneously reproduce key structural, thermodynamic and kinetic solution properties, likely due to their inability to explicitly account for quantum many-body effects. Here, we develop and systematically benchmark MACE neural network potentials (NNPs) for aqueous MgCl$_2$ solutions trained on revPBE-D3/zd and revPBE0-D3/zd density functional theory reference data and assess their ability to reproduce a broad range of experimental solution properties including the structure of the first hydration shell, diffusion coefficient, activity derivative, water-exchange rate and mechanism as well as solvation free energy. Both NNPs accurately reproduce the octahedral structure of the first hydration shell, ion pairing properties and diffusion coefficients. Combining the NNPs with transition path sampling and other enhanced sampling techniques allows us to capture the rare event of water exchange in the first hydration shell of Mg$^{2+}$ revealing a dissociative exchange mechanism. Transition interface sampling yields exchange rates within one order of magnitude of experiment, representing a substantial improvement over classical dissociative force fields. In contrast, the NNP-derived solvation free energy significantly underestimates the experimental value, revealing a limitation of the present local NNP architectures for describing ion solvation thermodynamics. Our results demonstrate that DFT-trained NNPs can accurately describe Mg$^{2+}$ hydration structure, diffusion, ion pairing, and exchange kinetics, while highlighting the need for explicit long-range electrostatic treatments to achieve quantitative agreement with experimental ion solvation free energies.",
+  "authors": [
+   "Sebastian Falkner",
+   "Pablo Montero de Hijes",
+   "Christoph Dellago",
+   "Nadine Schwierz"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Sebastian Falkner",
+  "pdf_url": "http://arxiv.org/pdf/2606.20105",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-18",
+  "tags": [
+   "dft",
+   "enhanced-sampling",
+   "free-energy",
+   "mlip"
+  ],
+  "title": "Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20129": {
+  "abstract": "In this paper, we report our experiences and takeaways from workshops using puzzles to learn CTL.   Background: Software testing is important yet difficult to teach. We introduced a BoK of puzzle-based learning activities to teach CTL, based on a model of critical tester's cognition, leading to the pedagogical framework P4TEST. We conducted thirteen workshops with students, testers, teachers, and primary school pupils to assess puzzle-based teaching of critical testing literacy.   Experience: Across eleven workshops, we used a semi-structured approach, varying puzzles, materials, and timing. In two additional workshops, we introduced workbooks and think-aloud sessions to gather more data on the learning experience.   Observations: Participants consistently perceived themselves as experimenting while solving puzzles. Students tended to converge on solutions, while professionals continued exploring. Emotions were visible in behaviour but hard to surface through written reflection alone. Think-aloud sessions revealed immediate reasoning; written reflections elicited more meta-cognitive reflection. The theme Sensemaking / reflection-in-action captured how participants framed problems, navigated dead ends, and shifted strategies.   Reflections: Puzzles are not the intervention: the entire sequence of solving, debriefing, and reflecting is. Designing that sequence more deliberately is the work ahead. We also developed an open-source web application with built-in analytics to customise workshops.",
+  "authors": [
+   "Niels Doorn",
+   "Bart Th. Knaack",
+   "Tanja E. J. Vos",
+   "Beatriz Marín"
+  ],
+  "categories": [
+   "cs.SE"
+  ],
+  "comment": null,
+  "first_author": "Niels Doorn",
+  "pdf_url": "http://arxiv.org/pdf/2606.20129",
+  "primary_category": "cs.SE",
+  "published": "2026-06-18",
+  "tags": [],
+  "title": "Learning Critical Testing Literacy Through Puzzles: an Experience Report",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20176": {
+  "abstract": "We present the Grover adaptive search self-consistent field (GAS-SCF) algorithm. GAS-SCF leverages quantum arithmetic to construct an efficient oracle that marks target states (Fock states) which improve upon some initial classical energy estimate. Amplitude amplification then increases the probability of measuring these states. This approach offers a theoretical quadratic speed-up for the optimization problem encountered in SCF quantum chemistry and establishes a baseline against which structured optimization algorithms, such as QAOA and DQI may be compared. In this work, we classically simulate three examples as proofs of concept of the algorithm, the largest consisting of 26 qubits. We then extend our analysis to two larger systems, with O3 representing the largest case at 330 qubits. These examples are chosen to probe classically challenging SCF regimes. Achieving chemically relevant applications of GAS-SCF will require large-scale, fault-tolerant quantum hardware.",
+  "authors": [
+   "Alexis Ralli",
+   "Tim Weaving",
+   "Thomas M. Bickley",
+   "Peter V. Coveney",
+   "Peter J. Love"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "14 pages, (10 page SI), 6 Figures",
+  "first_author": "Alexis Ralli",
+  "pdf_url": "http://arxiv.org/pdf/2606.20176",
+  "primary_category": "quant-ph",
+  "published": "2026-06-18",
+  "tags": [
+   "quantum-chemistry"
+  ],
+  "title": "Quantum-Accelerated Self-Consistent Field: A Hybrid Algorithm",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20178": {
+  "abstract": "We use density functional theory and model Hamiltonians to reveal large spin splitting of bands localized at low-symmetry, ferromagnetic surfaces of bulk antiferromagnets (AFMs). There is great interest in finding new material platforms combining the robustness and ultrafast dynamics of AFMs with large, functional spin splitting which is often restricted to ferromagnets. Here, we show that a subset of AFM surfaces which have symmetry-allowed magnetization can host large spin splitting via bulk degeneracy lifting of sublattice-resolved exchange splittings. Using model Hamiltonians, we show that the spin splitting is maximized for two ferromagnetic surface motifs: terminations with single uncompensated magnetic sublattices, and two-sublattice surfaces whose sublattices are magnetically and electronically compensated in the bulk, but acquire distinct crystal field environments via surface truncation. The latter case can yield FM-like spin splitting magnitudes while also having vanishingly small uncompensated magnetization. In contrast, when surface magnetization arises from relativistic canting on symmetry-connected sublattices, the spin splitting is expected to be small. We confirm these predictions with first-principles calculations of $\\mathrm{Cr_2O_3}$ and $\\mathrm{FeF_2}$, finding splittings from $\\sim10\\mathrm{meV}$-$\\sim1\\mathrm{eV}$ depending on the surface in question. Our findings point to intrinsic surface symmetry breaking as a route to large, functional spin splitting in an expanded range of AFM materials.",
+  "authors": [
+   "William A. Schaarman",
+   "Sophie F. Weber"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "5 pages, 4 figures without appendix. To be submitted to Physical Review Letters",
+  "first_author": "William A. Schaarman",
+  "pdf_url": "http://arxiv.org/pdf/2606.20178",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-18",
+  "tags": [
+   "ab-initio",
+   "dft"
+  ],
+  "title": "Large spin splitting at ferromagnetic surfaces of bulk antiferromagnets",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20184": {
+  "abstract": "An efficient implementation of quantum algorithms is often hindered by the lack of efficient primitives for operators and state preparation. This limits both the ability of near-term quantum hardware to simulate complex problems and the potential of fault-tolerant algorithms to achieve practical quantum advantage. To address this, we propose a full-stack variational framework that transforms arbitrary operators to compact quantum circuits. The resulting variational circuits can be tailored to the connectivity and long-range interaction of the target hardware. The learning process employs backpropagation together with a cost function that efficiently optimizes unitary operators and non-unitary -- dense or sparse -- operators using only a single ancilla qubit for block encoding. Additionally, we introduce a regularization term that reduces the approximation error. The approach is validated for both quantum mechanical and engineering applications. In the former case, we learn propagators that arise in native quantum problems -- such as quantum simulation and quantum chemistry -- and achieve improved resource scaling in comparison to standard Suzuki-Trotter expansions. In the latter case, we demonstrate the approach's ability to implement the second-order central finite difference approximation of the Laplace operator -- relevant for solving partial differential equations -- while improving upon current error metrics. The final example deals with learning a dense, non-unitary operator that arises in the analysis of inviscid potential flow around an airfoil. This universality of the framework opens the door for solving general problems beyond prototypical engineering and quantum applications.",
+  "authors": [
+   "Paul Over",
+   "Sergio Bengoechea",
+   "Leonardo Borello Busilacchi",
+   "Martin Kiffner",
+   "Thomas Rung",
+   "Alexios A. Michailidis"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Paul Over",
+  "pdf_url": "http://arxiv.org/pdf/2606.20184",
+  "primary_category": "quant-ph",
+  "published": "2026-06-18",
+  "tags": [
+   "quantum-chemistry"
+  ],
+  "title": "Operator Learning for efficient Quantum Computation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20190": {
+  "abstract": "We study directed transport in a two-dimensional suspension of   repulsively interacting colloids driven by a stochastic asymmetric   piecewise-linear flashing ratchet using large-scale molecular   dynamics simulations. The driving frequency and the ratchet   asymmetry offer two independent ways of controlling the particle   current, but they affect the suspension differently. At fixed   asymmetry, the current shows a resonance with ratcheting frequency   that is set by the collective relaxation dynamics of the interacting   particles. The resulting increase in transport is accompanied by   defect-mediated structural changes, showing density-dependent   hexatic and solid-like states, with larger currents generally   associated with weaker ordering. By contrast, at fixed frequency,   changing the ratchet asymmetry mainly alters the strength of the   directed bias and can significantly enhance the current while   leaving the hexatic order largely unchanged. Near the equilibrium   hexatic-melting regime, this makes it possible to generate   substantial directed currents without strongly disrupting sixfold   orientational order. These results show that frequency tuning   couples transport to structural reorganization, whereas asymmetry   tuning primarily controls transport leaving the structure largely   unaltered, providing distinct and complementary routes for   manipulating transport and order in driven colloidal suspensions.",
+  "authors": [
+   "Sudipta Mandal",
+   "Dipanjan Chakraborty",
+   "Debasish Chaudhuri"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "18 pages",
+  "first_author": "Sudipta Mandal",
+  "pdf_url": "http://arxiv.org/pdf/2606.20190",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-18",
+  "tags": [],
+  "title": "Independent Control of Transport and Order in a Ratcheted Colloidal Suspension",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20321": {
+  "abstract": "Superatomic graphene platforms host a rich portfolio of flat-band-driven exotic quantum properties, yet their experimental realization remains challenging. Here, we report the bottom-up on-surface synthesis of superatomic graphene using phosphorus-doped triangulene as building blocks. Scanning tunneling microscopy and spectroscopy measurements resolve the well-defined honeycomb lattice of as-fabricated superatomic graphene and demonstrate the characteristic Dirac band and flat band electronic structures. Density functional theory calculations reveal that the flat bands originate from the in-plane p$_x,_y$-like frontier orbitals of the phosphorus-doped triangulene units, leading to intrinsic half-metallic behavior. Furthermore, oxygen functionalization of the molecular precursor enables deterministic modulation of the electronic structure and magnetic ordering. This work establishes a general platform for designing correlated quantum materials with tunable flat band properties.",
+  "authors": [
+   "Wenya Zhai",
+   "Tingfeng Zhang",
+   "Fengkun Chen",
+   "Xiuqin Lu",
+   "Yunlong Xia",
+   "Zengfu Ou",
+   "Ye Chen",
+   "Donghui Guo",
+   "Meifang Zhu",
+   "Zhengfei Wang",
+   "Jingcheng Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "arXiv admin note: substantial text overlap with arXiv:2411.01108",
+  "first_author": "Wenya Zhai",
+  "pdf_url": "http://arxiv.org/pdf/2606.20321",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-18",
+  "tags": [
+   "2d-materials",
+   "dft",
+   "electronic-structure"
+  ],
+  "title": "Tunable Flat Bands and magnetism in Triangulene-based Superatomic Graphene",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20500": {
+  "abstract": "Amorphous silicon (a-Si) is understood to be the canonical continuous random network material, ideally defined by fully fourfold coordination. Here, we show that a defect-free ('ideal') model of a-Si from machine-learning-driven molecular-dynamics simulations [L. A. M. Rosset et al., Nat. Commun. 16, 2360 (2025)], subsequently evaluated with hybrid-level density-functional theory computations, can accurately reproduce the experimentally observed electronic bandgap. We compare this model with one resulting from the Wooten-Winer-Weaire (WWW) bond-switching approach and with other recent approximants to ideal a-Si. More broadly, our work provides a platform for studies of band tails, optical properties, and transport in a-Si.",
+  "authors": [
+   "Louise A. M. Rosset",
+   "Chinonso Ugwumadu",
+   "Stephen R. Elliott",
+   "David A. Drabold",
+   "Volker L. Deringer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Louise A. M. Rosset",
+  "pdf_url": "http://arxiv.org/pdf/2606.20500",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-18",
+  "tags": [
+   "band-gap",
+   "dft"
+  ],
+  "title": "A Defect-Free Model of Amorphous Silicon with Pristine Electronic Structure",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
  }
 }

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Xiaoya Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16226.html">Prediction of Runtime Parameters of Parallel Chemistry Applications via Active and Generative Learning</a></div></td>

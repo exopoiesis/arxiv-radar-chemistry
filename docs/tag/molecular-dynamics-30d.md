@@ -16,6 +16,36 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19884.html">Extraction of slip velocity in NEMD Couette flow systems using frictional dissipation</a></div></td>
+<td>Hiroki Kusudo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19884">2606.19884</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19923.html">Cytoskeleton-inspired, adaptive nanolipogels as superlubricating delivery vehicles</a></div></td>
+<td>Panpan Zhao* et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19923">2606.19923</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19418.html">Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
+<td>Hadi H. Arefi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19418">2606.19418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19582.html">Deposition and Growth of the AlCoCuFeNi High-Entropy Alloy Thin Film: Molecular Dynamics Simulation</a></div></td>
+<td>Oleksandr I. Kushnerov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19582">2606.19582</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Xiaoya Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Anthony Richardella et al.</td>
@@ -32,6 +62,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18090.html">Impact of dynamic electrostatic disorder on hole mobility in rubrene: a nonadiabatic molecular dynamics investigation</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Jan Elsner et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18090">2606.18090</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18477.html">Hydration-controlled twist forms a moiré glass in charge-frustrated layered silicates</a></div></td>
+<td>Juhyeok Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18477">2606.18477</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -704,41 +740,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21720.html">A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="metadynamics-30d.html">metadynamics</a></div></td>
 <td>Christopher Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21720">2605.21720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18404.html">JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Hongyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18404">2605.18404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19747.html">Direct Simulation of LiNi0.8Mn0.1Co0.1O2 Transport Properties Using an Efficient and Accurate Machine Learning Potential</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Jian He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19747">2605.19747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19808.html">Partially reactive force field for the UiO-66 metal-organic framework</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="mof-30d.html">mof</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Akanksha Nawani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19808">2605.19808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19858.html">Accelerated &quot;on-the-fly&quot; coupled-cluster path-integral molecular dynamics: Impact of nuclear quantum effects on an asymmetric proton</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Thomas Spura et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19858">2605.19858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Fabien Mortier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20384.html">Dataset-aware entropy-maximized active learning for machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Meiyan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20384">2605.20384</a></td>
 </tr>
 </tbody></table>

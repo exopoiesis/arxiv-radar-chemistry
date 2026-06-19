@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19780.html">Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Jeonghwan Ahn et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19780">2606.19780</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17896.html">Detectability of deuterium in spectra of early-type stars</a></div></td>
 <td>Veronika Mitrokhina et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14978.html">Complementary Thermodynamic Mechanisms of Boron and Carbon Segregation at Grain Boundaries in Nickel Alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Tyler D. Doležal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14978">2606.14978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Mao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12998">2606.12998</a></td>
 </tr>
 </tbody></table>

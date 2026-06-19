@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">400 papers</span>
+  <span class="paper-count">398 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19954.html">Strain- and Electric-Field-Tunable Valley Polarization in Mo0.75V0.25Te2(Mo3VTe8) for Valleytronic Application</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="tmd-90d.html">tmd</a></div></td>
+<td>Md. Mostaqul Islam et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19954">2606.19954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20178.html">Large spin splitting at ferromagnetic surfaces of bulk antiferromagnets</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>William A. Schaarman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20178">2606.20178</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -2390,29 +2402,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20737.html">Electric-field-induced X-ray Nonreciprocal Dichroism in Hematite</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Takeshi Hayashida et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20737">2603.20737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07558.html">Oxygen-vacancy quantum spin defects in silicon carbide</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Yu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07558">2504.07558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18389.html">An SO(3)-equivariant reciprocal-space neural potential for long-range interactions</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Lingfeng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18389">2603.18389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20458.html">Gate-tunable synthetic antiferromagnetism with nonrelativistic spin splitting in a graphene/MnS/graphene heterostructure</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Marko Milivojević et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20458">2603.20458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20493.html">A unified machine learning framework for ab initio multiscale modeling of liquids</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Anna T. Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20493">2603.20493</a></td>
 </tr>
 </tbody></table>

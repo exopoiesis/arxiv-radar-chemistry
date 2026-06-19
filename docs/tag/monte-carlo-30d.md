@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19780.html">Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Jeonghwan Ahn et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19780">2606.19780</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17896.html">Detectability of deuterium in spectra of early-type stars</a></div></td>

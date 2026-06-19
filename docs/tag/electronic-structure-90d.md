@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20321.html">Tunable Flat Bands and magnetism in Triangulene-based Superatomic Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Wenya Zhai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20321">2606.20321</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18083.html">Tunable Electronic and Transport Properties of Biphenylene via Fluorination and Disorder</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Lucas Soares Sousa et al.</td>
@@ -776,11 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20713.html">Many-body electronic structure, self-doped double-exchange, and Hund metallicity in 1T-CrTe2 bulk and monolayer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Dong Hyun David Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20713">2603.20713</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20451.html">More converged, less accurate? Reassessing standard choices for ab initio water using machine learning potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Hubert Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20451">2603.20451</a></td>
 </tr>
 </tbody></table>

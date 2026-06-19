@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19798.html">MinSurf: resolving the atomic-scale stability landscape of mineral surfaces</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Fengzijun Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19798">2606.19798</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
@@ -170,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21420.html">HiRes: Inspectable Precedent Memory for Reaction Condition Recommendation</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Shreyas Vinaya Sathyanarayana et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21420">2605.21420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19545.html">Quantum-enhanced distributed network sensing using multiple quantum resources</a></div></td>
-<td>Rui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19545">2605.19545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20511.html">Creating Learning Scaffolds for Engineering Design Using Concept Catalyst</a></div></td>
-<td>Madhuri Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20511">2605.20511</a></td>
 </tr>
 </tbody></table>

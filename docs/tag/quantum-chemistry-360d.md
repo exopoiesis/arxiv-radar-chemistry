@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">389 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20176.html">Quantum-Accelerated Self-Consistent Field: A Hybrid Algorithm</a></div></td>
+<td>Alexis Ralli et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20176">2606.20176</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20184.html">Operator Learning for efficient Quantum Computation</a></div></td>
+<td>Paul Over et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20184">2606.20184</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17761.html">Constrained Optimization Algorithms for Orbital Optimization in Quantum Chemistry</a></div></td>
@@ -2336,11 +2348,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19960.html">An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Adam Foster et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19960">2506.19960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18877.html">Integrating Classical and Quantum Software for Enhanced Simulation of Realistic Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Tomoya Shiota et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18877">2506.18877</a></td>
 </tr>
 </tbody></table>

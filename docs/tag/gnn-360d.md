@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.14217">2606.14217</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19374.html">Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Mohamed Mouhajir et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19374">2606.19374</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11562.html">GraphInfer-Bench: Benchmarking LLM&#x27;s Inference Capability on Graphs</a></div></td>
 <td>Zhuoyi Peng et al.</td>
@@ -2486,11 +2492,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19482.html">Fast and Distributed Equivariant Graph Neural Networks by Virtual Node Learning</a></div></td>
 <td>Yuelin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19482">2506.19482</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18525.html">Federated Learning from Molecules to Processes: A Perspective</a></div></td>
-<td>Jan G. Rittig et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18525">2506.18525</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19954.html">Strain- and Electric-Field-Tunable Valley Polarization in Mo0.75V0.25Te2(Mo3VTe8) for Valleytronic Application</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="tmd-30d.html">tmd</a></div></td>
+<td>Md. Mostaqul Islam et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19954">2606.19954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20178.html">Large spin splitting at ferromagnetic surfaces of bulk antiferromagnets</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>William A. Schaarman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20178">2606.20178</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
@@ -710,35 +722,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21767.html">Uncovering Antipolar Ordering and Pressure-Tunable Phases in Hexagonal LaN</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Atanu Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21767">2605.21767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18404.html">JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Hongyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18404">2605.18404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19347.html">Higher-order Weyl nodes driven by helical magnetic order in EuAgAs</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Jian-Rui Soh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19347">2605.19347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19479.html">Ab initio correlations between neutrinoless and two-neutrino double-beta decays in $^{48}$Ca</a></div></td>
-<td>X. Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19479">2605.19479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Olga Zaghen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Fabien Mortier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
 </tr>
 </tbody></table>

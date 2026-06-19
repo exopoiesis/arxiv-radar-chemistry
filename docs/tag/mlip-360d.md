@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">591 papers</span>
+  <span class="paper-count">592 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19798.html">MinSurf: resolving the atomic-scale stability landscape of mineral surfaces</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Fengzijun Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19798">2606.19798</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20105.html">Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Sebastian Falkner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20105">2606.20105</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18691.html">Robust and Interpretable Adaptation of Equivariant Materials Foundation Models via Sparsity-promoting Fine-tuning</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
@@ -26,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Zongmin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Xiaoya Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -3548,17 +3566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19674.html">Massive Atomic Diversity: a compact universal dataset for atomistic machine learning</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Arslan Mazitov et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19674">2506.19674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18497.html">Leveraging neural network interatomic potentials for a foundation model of chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>So Yeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18497">2506.18497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18835.html">Chelation of the mercury ions by polyethyleneimine: Atomistic molecular dynamics study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Halyna Butovych et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18835">2506.18835</a></td>
 </tr>
 </tbody></table>

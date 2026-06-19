@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-structure — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <strong>30d</strong> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>James F. Tallman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19374.html">Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Mohamed Mouhajir et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19374">2606.19374</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>

@@ -16,10 +16,82 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19780.html">Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Jeonghwan Ahn et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19780">2606.19780</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19798.html">MinSurf: resolving the atomic-scale stability landscape of mineral surfaces</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Fengzijun Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19798">2606.19798</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19954.html">Strain- and Electric-Field-Tunable Valley Polarization in Mo0.75V0.25Te2(Mo3VTe8) for Valleytronic Application</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="tmd-90d.html">tmd</a></div></td>
+<td>Md. Mostaqul Islam et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19954">2606.19954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20105.html">Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Sebastian Falkner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20105">2606.20105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20178.html">Large spin splitting at ferromagnetic surfaces of bulk antiferromagnets</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>William A. Schaarman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20178">2606.20178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20321.html">Tunable Flat Bands and magnetism in Triangulene-based Superatomic Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Wenya Zhai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20321">2606.20321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20500.html">A Defect-Free Model of Amorphous Silicon with Pristine Electronic Structure</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
+<td>Louise A. M. Rosset et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20500">2606.20500</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18903.html">First-Principles Study of Novel Lead-Free Double Perovskite \b{eta}2SnGeX6 (\b{eta} = K, Rb; X = Cl, Br, I) for thermomechanical, optoelectronic and outstanding thermoelectric applications</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Jubair Hossan Abir et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18903">2606.18903</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Zongmin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19547.html">Multi-Equalization in Conceptual Density Functional Theory: Beyond Electronegativity Equalization</a></div></td>
+<td>Jesús Sánchez-Márquez</td>
+<td><a href="http://arxiv.org/abs/2606.19547">2606.19547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19571.html">Optical spin injection in graphane and fluorographene</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Angélica Marina López-Martínez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19571">2606.19571</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Xiaoya Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19653.html">Coordination-Sensitive Nanoscale Analysis of Defect-Driven Phase Transformation in Si-Doped (AlXGa1-X)2O3</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
+<td>Shaon Das et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19653">2606.19653</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -3170,77 +3242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20737.html">Electric-field-induced X-ray Nonreciprocal Dichroism in Hematite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Takeshi Hayashida et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20737">2603.20737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06808.html">Ground state magnetic structure of Mn3Sn</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Jeppe Jon Cederholm et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06808">2510.06808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14962.html">Practical and accurate density functionals for transition-metal heterogeneous catalysis</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Benjamin X. Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14962">2602.14962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17118.html">Magnetically tunable telecom emission from Er3+ ions in layered WS2</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Guadalupe Garcia-Arellano et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17118">2603.17118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19823.html">First-principle study of the influence of hydroxyapatite on magnesium surfaces</a></div></td>
-<td>Anthony Veit Berg et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19823">2603.19823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19912.html">Data-Efficient Active Learning Discovery of Transition Metal Photosensitizers for Type I Photodynamic Therapy</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="chemical-space-90d.html">chemical-space</a></div></td>
-<td>Alessio Fallani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19912">2603.19912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19956.html">Lattice Dynamics of LiFeAs studied by Inelastic Neutron Scattering and Density Functional Theory calculations</a></div></td>
-<td>Akshay Tewari et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19956">2603.19956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20007.html">Physics-Informed Long-Range Coulomb Correction for Machine-learning Hamiltonians</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Yang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20007">2603.20007</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20090.html">Interrogating the composition and distribution of nuclear magnetization via the hyperfine anomaly: experiment meets nuclear and atomic theory for short-lived $^{47}$K</a></div></td>
-<td>M. L. Bissell et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20090">2603.20090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20141.html">Transformer-based prediction of two-dimensional material electronic properties under elastic strain engineering</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Haoran Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20141">2603.20141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20183.html">Prediction and Experimental Verification of Electrolyte Solvation Structure from an OMol25-Trained Interatomic Potential</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Nitesh Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20183">2603.20183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20451.html">More converged, less accurate? Reassessing standard choices for ab initio water using machine learning potentials</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Hubert Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20451">2603.20451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20493.html">A unified machine learning framework for ab initio multiscale modeling of liquids</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Anna T. Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20493">2603.20493</a></td>
 </tr>
 </tbody></table>

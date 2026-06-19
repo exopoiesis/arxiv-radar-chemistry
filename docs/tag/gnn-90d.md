@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.14217">2606.14217</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19374.html">Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Mohamed Mouhajir et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19374">2606.19374</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11562.html">GraphInfer-Bench: Benchmarking LLM&#x27;s Inference Capability on Graphs</a></div></td>
 <td>Zhuoyi Peng et al.</td>
@@ -620,11 +626,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17848.html">Scaling Kinetic Monte-Carlo Simulations of Grain Growth with Combined Convolutional and Graph Neural Networks</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Zhihui Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17848">2511.17848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19817.html">GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Animesh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19817">2603.19817</a></td>
 </tr>
 </tbody></table>

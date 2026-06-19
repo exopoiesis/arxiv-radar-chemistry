@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -824,11 +824,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20655.html">Sequential Quantum Computing</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Sebastián V. Romero et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20655">2506.20655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18877.html">Integrating Classical and Quantum Software for Enhanced Simulation of Realistic Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Tomoya Shiota et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18877">2506.18877</a></td>
 </tr>
 </tbody></table>

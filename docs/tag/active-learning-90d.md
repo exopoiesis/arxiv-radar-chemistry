@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Xiaoya Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16226.html">Prediction of Runtime Parameters of Parallel Chemistry Applications via Active and Generative Learning</a></div></td>
 <td>Tanzila Tabassum et al.</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05976.html">Physics Enhanced Deep Surrogates for the Phonon Boltzmann Transport Equation</a></div></td>
 <td>Antonio Varagnolo et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05976">2512.05976</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19912.html">Data-Efficient Active Learning Discovery of Transition Metal Photosensitizers for Type I Photodynamic Therapy</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Alessio Fallani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19912">2603.19912</a></td>
 </tr>
 </tbody></table>

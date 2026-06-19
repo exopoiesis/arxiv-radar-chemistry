@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19798.html">MinSurf: resolving the atomic-scale stability landscape of mineral surfaces</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Fengzijun Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19798">2606.19798</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -476,17 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09233.html">$β$-Ga$_2$O$_3$(001) surface reconstructions from first principles and experiment</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
 <td>Konstantin Lion et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09233">2510.09233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17393.html">CatBOX: A Categorical-Continuous Bayesian Optimization with Spectral Mixture Kernels for Accelerated Catalysis Experiments</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Changquan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17393">2505.17393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14962.html">Practical and accurate density functionals for transition-metal heterogeneous catalysis</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Benjamin X. Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14962">2602.14962</a></td>
 </tr>
 </tbody></table>

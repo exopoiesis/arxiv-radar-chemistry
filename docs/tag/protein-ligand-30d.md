@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-ligand — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <strong>30d</strong> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28862.html">Molecular Lead Optimization via Agentic Tool Planning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Lingxiao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28862">2605.28862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19808.html">Partially reactive force field for the UiO-66 metal-organic framework</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="mof-30d.html">mof</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Akanksha Nawani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19808">2605.19808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19902.html">Hierarchical Contrastive Learning for Multi-Domain Protein-Ligand Binding</a></div></td>
-<td>Shuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19902">2605.19902</a></td>
 </tr>
 </tbody></table>

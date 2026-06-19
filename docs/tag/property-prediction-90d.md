@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,23 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21108.html">DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Long Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21108">2603.21108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21861.html">SpecMol: A Spectroscopy-Grounded Foundation Model for Multi-Task Molecular Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Shuaike Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21861">2509.21861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18921.html">Accelerating Large-Scale Cheminformatics Using a Byte-Offset Indexing Architecture for Terabyte-Scale Data Integration</a></div></td>
-<td>Malikussaid et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18921">2601.18921</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20141.html">Transformer-based prediction of two-dimensional material electronic properties under elastic strain engineering</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Haoran Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20141">2603.20141</a></td>
 </tr>
 </tbody></table>

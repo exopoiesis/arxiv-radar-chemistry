@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19798.html">MinSurf: resolving the atomic-scale stability landscape of mineral surfaces</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Fengzijun Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19798">2606.19798</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20105.html">Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Sebastian Falkner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20105">2606.20105</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18691.html">Robust and Interpretable Adaptation of Equivariant Materials Foundation Models via Sparsity-promoting Fine-tuning</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
@@ -26,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Zongmin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Xiaoya Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -272,41 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Souvik Chakraborty et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20785">2605.20785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18404.html">JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Hongyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18404">2605.18404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19747.html">Direct Simulation of LiNi0.8Mn0.1Co0.1O2 Transport Properties Using an Efficient and Accurate Machine Learning Potential</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jian He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19747">2605.19747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19808.html">Partially reactive force field for the UiO-66 metal-organic framework</a></div><div class="paper-tags"><a href="mof-30d.html">mof</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Akanksha Nawani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19808">2605.19808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="active-learning-30d.html">active-learning</a></div></td>
-<td>Olga Zaghen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Fabien Mortier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20384.html">Dataset-aware entropy-maximized active learning for machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Meiyan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20384">2605.20384</a></td>
 </tr>
 </tbody></table>

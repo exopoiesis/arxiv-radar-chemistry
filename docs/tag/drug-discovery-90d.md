@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,23 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21108.html">DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Long Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21108">2603.21108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14108.html">Assessing the potential of deep learning for protein-ligand docking</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Alex Morehead et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14108">2405.14108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21861.html">SpecMol: A Spectroscopy-Grounded Foundation Model for Multi-Task Molecular Learning</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Shuaike Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21861">2509.21861</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19817.html">GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Animesh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19817">2603.19817</a></td>
 </tr>
 </tbody></table>

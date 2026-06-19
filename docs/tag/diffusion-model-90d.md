@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">107 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -650,11 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22283.html">End-to-End Training for Unified Tokenization and Latent Denoising</a></div></td>
 <td>Shivam Duggal et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22283">2603.22283</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09637.html">A mathematical model for colloids deposition in porous media combined with a moving boundary at the microscale: Solvability and numerical simulation</a></div></td>
-<td>Christos Nikolopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09637">2604.09637</a></td>
 </tr>
 </tbody></table>

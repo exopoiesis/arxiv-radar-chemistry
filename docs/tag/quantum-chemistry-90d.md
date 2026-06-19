@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20176.html">Quantum-Accelerated Self-Consistent Field: A Hybrid Algorithm</a></div></td>
+<td>Alexis Ralli et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20176">2606.20176</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20184.html">Operator Learning for efficient Quantum Computation</a></div></td>
+<td>Paul Over et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20184">2606.20184</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17761.html">Constrained Optimization Algorithms for Orbital Optimization in Quantum Chemistry</a></div></td>
 <td>Junzhe Zhang et al.</td>
@@ -638,17 +650,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08088.html">Quantum Algorithm for Low Energy Effective Hamiltonian and Quasi-Degenerate Eigenvalue Problem</a></div></td>
 <td>Chun-Tse Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08088">2510.08088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08727.html">Statistical Benchmarking of Optimization Methods for Variational Quantum Eigensolver under Quantum Noise</a></div></td>
-<td>Silvie Illésová et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08727">2510.08727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20029.html">Variance reduction methods in the estimation of Pauli sums</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Søren Fuglede Jørgensen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20029">2603.20029</a></td>
 </tr>
 </tbody></table>

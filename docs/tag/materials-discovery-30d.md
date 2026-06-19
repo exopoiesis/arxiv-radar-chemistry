@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>D. -M. Mei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19494.html">High-Throughput Bayesian Optimization of Cement-Salt Hydrates Composites for Seasonal Thermochemical Energy Storage</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Alessio Mondello et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19494">2605.19494</a></td>
 </tr>
 </tbody></table>

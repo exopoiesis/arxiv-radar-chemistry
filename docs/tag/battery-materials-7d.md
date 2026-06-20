@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19024.html">Room-Temperature Calcium Intercalation into Graphite Catalyzed by Sodium</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Akira Iyo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19024">2606.19024</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15522.html">NIMO: A Software Platform for Closed-Loop Materials Exploration with Diverse AI Algorithms</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Ryo Tamura et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15522">2606.15522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Debsundar Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
 </tr>
 </tbody></table>

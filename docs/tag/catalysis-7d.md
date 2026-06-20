@@ -23,6 +23,12 @@ current_window: 7d
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19024.html">Room-Temperature Calcium Intercalation into Graphite Catalyzed by Sodium</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Akira Iyo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19024">2606.19024</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Zongmin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Dong Hyeon Mok et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14928.html">Controlling Porosity in Supraparticles Composed of Colloidal Rods and Spheres</a></div></td>
-<td>Kritika Kritika et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14928">2606.14928</a></td>
 </tr>
 </tbody></table>

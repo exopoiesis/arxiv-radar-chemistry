@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">265 papers</span>
+  <span class="paper-count">262 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1586,23 +1586,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21792.html">Droplet growth, Ostwald&#x27;s rule, and emergence of order in Fused in Sarcoma</a></div></td>
 <td>Farkhad Maksudov et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21792">2506.21792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19820.html">ProxelGen: Generating Proteins as 3D Densities</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Felix Faltings et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19820">2506.19820</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19961.html">ProCaliper: functional and structural analysis, visualization, and annotation of proteins</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Jordan C. Rozum et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19961">2506.19961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20686.html">MegaFold: System-Level Optimizations for Accelerating Protein Structure Prediction Models</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Hoa La et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20686">2506.20686</a></td>
 </tr>
 </tbody></table>

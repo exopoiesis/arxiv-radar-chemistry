@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">592 papers</span>
+  <span class="paper-count">589 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3548,23 +3548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22533.html">Scalable Bayesian Optimization for High-Dimensional Coarse-Grained Model Parameterization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Carlos A. Martins Junior et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22533">2506.22533</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10538.html">Foundation Models for Atomistic Simulation of Chemistry and Materials</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10538">2503.10538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19628.html">Operator Forces For Coarse-Grained Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Leon Klein et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19628">2506.19628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19674.html">Massive Atomic Diversity: a compact universal dataset for atomistic machine learning</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Arslan Mazitov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19674">2506.19674</a></td>
 </tr>
 </tbody></table>

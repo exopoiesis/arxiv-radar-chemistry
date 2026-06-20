@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14595.html">Scalable Fabrication of Thermally Reconfigurable Ge Metasurfaces Using Stencil Lithography for Mid-Infrared Molecular Sensing</a></div></td>
-<td>Shovasis Kumar Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14595">2606.14595</a></td>
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18390.html">MOLAR: Learning Multimodal Molecular Representations from Noisy Labels</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
+<td>Yingxu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18390">2606.18390</a></td>
 </tr>
 </tbody></table>

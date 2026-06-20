@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18390.html">MOLAR: Learning Multimodal Molecular Representations from Noisy Labels</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Yingxu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18390">2606.18390</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14595.html">Scalable Fabrication of Thermally Reconfigurable Ge Metasurfaces Using Stencil Lithography for Mid-Infrared Molecular Sensing</a></div></td>
 <td>Shovasis Kumar Biswas et al.</td>
@@ -272,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21108.html">DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Long Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21108">2603.21108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20724.html">Multi-RF Fusion with Multi-GNN Blending for Molecular Property Prediction</a></div></td>
-<td>Zacharie Bugaud</td>
-<td><a href="http://arxiv.org/abs/2603.20724">2603.20724</a></td>
 </tr>
 </tbody></table>

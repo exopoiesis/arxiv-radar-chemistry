@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2134 papers</span>
+  <span class="paper-count">2129 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12788,35 +12788,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20825.html">Quantum-Centric Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Milana Bazayeva et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20825">2506.20825</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00719.html">Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory</a></div></td>
-<td>Zi-Kui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00719">2404.00719</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19514.html">Rare-earth atoms on Nb(110) as a platform to engineer topological superconductivity</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>David Antognini Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19514">2506.19514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19803.html">Quantifying Spin Defect Density in hBN via Raman and Photoluminescence Analysis</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Atanu Patra et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19803">2506.19803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19930.html">Simulating one hundred entangled atoms using projected-interacting full configuration interaction wavefunctions corrected by projected density functionals</a></div></td>
-<td>Benjamin G. Janesko</td>
-<td><a href="http://arxiv.org/abs/2506.19930">2506.19930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20680.html">Near-surface Defects Break Symmetry in Water Adsorption on CeO$_{2-x}$(111)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Oscar Custance et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20680">2506.20680</a></td>
 </tr>
 </tbody></table>

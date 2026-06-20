@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1619 papers</span>
+  <span class="paper-count">1610 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9674,59 +9674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20346.html">Computational study of geometry, electronic structure and low-lying excited states of linear T-graphene quantum dots</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Arifa Nazir et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20346">2506.20346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10755.html">Van der Waals heterostructure configuration effect on exciton and thermoelectric characteristics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Eyasu Tadesse Muda et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10755">2405.10755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02757.html">Comparative study of divacancies in 3C-, 4H- and 6H-SiC</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Danial Shafizade et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02757">2503.02757</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09835.html">Dynamical probe of the pseudo Jahn-Teller effect in one-dimensional confined fermions</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>André Becker et al.</td>
-<td><a href="http://arxiv.org/abs/2503.09835">2503.09835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19259.html">High-throughput spin-bath characterization of spin-defects in semiconductors</a></div></td>
-<td>Abigail N. Poteshman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19259">2506.19259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19595.html">Machine Learning Accelerates Raman Computations from Molecular Dynamics for Materials Science</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>David A. Egger et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19595">2506.19595</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19727.html">Moiré Collapse and Luttinger Liquids In Twisted Anisotropic Homobilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>D. J. P. de Sousa et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19727">2506.19727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19770.html">Comparing QCD+QED via full simulation versus the RM123 method: U-spin window contribution to $a_μ^{\mathrm{HVP}}$</a></div></td>
-<td>A. Altherr et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19770">2506.19770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20680.html">Near-surface Defects Break Symmetry in Water Adsorption on CeO$_{2-x}$(111)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Oscar Custance et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20680">2506.20680</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21626.html">Pressure dependence of liquid iron viscosity from machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kai Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21626">2506.21626</a></td>
 </tr>
 </tbody></table>

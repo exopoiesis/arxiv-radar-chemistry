@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">413 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,11 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21788.html">Multi-task parallelism for robust pre-training of graph foundation models on multi-source, multi-fidelity atomistic modeling data</a></div></td>
 <td>Massimiliano Lupo Pasini et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21788">2506.21788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19482.html">Fast and Distributed Equivariant Graph Neural Networks by Virtual Node Learning</a></div></td>
-<td>Yuelin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19482">2506.19482</a></td>
 </tr>
 </tbody></table>

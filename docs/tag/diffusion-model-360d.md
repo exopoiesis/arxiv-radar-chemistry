@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">453 papers</span>
+  <span class="paper-count">451 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2720,17 +2720,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08005.html">Unraveling the Potential of Diffusion Models in Small Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Peining Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08005">2507.08005</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19820.html">ProxelGen: Generating Proteins as 3D Densities</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Felix Faltings et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19820">2506.19820</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19851.html">AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models</a></div></td>
-<td>Zehuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19851">2506.19851</a></td>
 </tr>
 </tbody></table>

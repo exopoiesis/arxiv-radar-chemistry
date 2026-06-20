@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -638,17 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21200.html">The non-uniform electron gas</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Mihaly A. Csirik et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21200">2603.21200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21636.html">Optimal fermion-qubit mappings via quadratic assignment</a></div></td>
-<td>Mitchell Chiew et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21636">2504.21636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08088.html">Quantum Algorithm for Low Energy Effective Hamiltonian and Quasi-Degenerate Eigenvalue Problem</a></div></td>
-<td>Chun-Tse Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08088">2510.08088</a></td>
 </tr>
 </tbody></table>

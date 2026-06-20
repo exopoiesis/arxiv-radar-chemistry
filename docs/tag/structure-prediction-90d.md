@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,17 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23941.html">An Efficient High-Degree, High-Order Equivariant Graph Neural Network for Direct Crystal Structure Optimization</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Ziduo Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23941">2603.23941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08441.html">SpectraLLM: Uncovering the Ability of LLMs for Molecule Structure Elucidation from Multi-Spectral</a></div></td>
-<td>Yunyue Su et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08441">2508.08441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03295.html">Novel phases in the Fe-Si-O system at terapascal pressures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Nan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03295">2512.03295</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1904,17 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19863.html">Exploring the Capabilities of the Frontier Large Language Models for Nuclear Energy Research</a></div></td>
 <td>Ahmed Almeldein et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19863">2506.19863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19960.html">An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Adam Foster et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19960">2506.19960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14143.html">A Machine Learning Framework for Scattering Kernel Derivation Using Molecular Dynamics Data in Very Low Earth Orbit</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Miklas Schütte et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14143">2507.14143</a></td>
 </tr>
 </tbody></table>

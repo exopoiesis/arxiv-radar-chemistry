@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,47 +698,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22951.html">Amorphous Radial Frustration and Water-Like Anomalies in a Ramp-Shoulder Fluid</a></div></td>
 <td>Murilo S. Marques et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22951">2605.22951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15305.html">WorldParticle: Unified World Simulation of Lagrangian Particle Dynamics via Transformer</a></div></td>
-<td>Caoliwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15305">2605.15305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Souvik Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20785">2605.20785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20819.html">DynaMate2: Democratization of Agentic AI for Expert-Designed Custom Workflows</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Orlando A. Mendible-Barreto et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20819">2605.20819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20890.html">Transferable 3D Convolutional Neural Networks for Elastic Constants Prediction in Nanoporous Metals</a></div></td>
-<td>Sergei Zorkaltsev et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20890">2605.20890</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20918.html">High-performance linear-scaling electronic structure method via chromatic superposition states</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Zhikang Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20918">2605.20918</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21298.html">Interaction Controlled Molecular Probing of Length Scale Dependent Glassy Dynamics in Polymer Melts</a></div></td>
-<td>Suyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21298">2605.21298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21720.html">A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="metadynamics-30d.html">metadynamics</a></div></td>
-<td>Christopher Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21720">2605.21720</a></td>
 </tr>
 </tbody></table>

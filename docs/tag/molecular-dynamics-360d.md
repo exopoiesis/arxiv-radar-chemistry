@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1604 papers</span>
+  <span class="paper-count">1600 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9614,29 +9614,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20830.html">Bridging Classical Molecular Dynamics and Quantum Foundations for Comprehensive Protein Structural Analysis</a></div></td>
 <td>Don Roosan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20830">2506.20830</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19595.html">Machine Learning Accelerates Raman Computations from Molecular Dynamics for Materials Science</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>David A. Egger et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19595">2506.19595</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19628.html">Operator Forces For Coarse-Grained Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Leon Klein et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19628">2506.19628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21626.html">Pressure dependence of liquid iron viscosity from machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Kai Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21626">2506.21626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14143.html">A Machine Learning Framework for Scattering Kernel Derivation Using Molecular Dynamics Data in Very Low Earth Orbit</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Miklas Schütte et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14143">2507.14143</a></td>
 </tr>
 </tbody></table>

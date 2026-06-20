@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">480 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2882,17 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12554.html">TBHubbard: tight-binding and extended Hubbard model database for metal-organic frameworks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mof-360d.html">mof</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Pamela C. Carvalho et al.</td>
 <td><a href="http://arxiv.org/abs/2503.12554">2503.12554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19674.html">Massive Atomic Diversity: a compact universal dataset for atomistic machine learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Arslan Mazitov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19674">2506.19674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19960.html">An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Adam Foster et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19960">2506.19960</a></td>
 </tr>
 </tbody></table>

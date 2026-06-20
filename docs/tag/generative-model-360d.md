@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">481 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2900,17 +2900,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18506.html">Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional</a></div></td>
 <td>Sanjeev Raja et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18506">2504.18506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19820.html">ProxelGen: Generating Proteins as 3D Densities</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Felix Faltings et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19820">2506.19820</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19834.html">A standard transformer and attention with linear biases for molecular conformer generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Viatcheslav Gurev et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19834">2506.19834</a></td>
 </tr>
 </tbody></table>

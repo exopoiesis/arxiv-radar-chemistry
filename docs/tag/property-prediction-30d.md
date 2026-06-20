@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18390.html">MOLAR: Learning Multimodal Molecular Representations from Noisy Labels</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Yingxu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18390">2606.18390</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15422.html">Pepti-Agent: An AI Agent for Peptide Design and Optimization</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Houxu Chen et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25866.html">UNATE: UNsupervised ATomic Embedding for crystal structures property prediction</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Laura Solà-Garcia et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25866">2605.25866</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20740.html">Distribution-Aware Reward: Reinforcement Learning over Predictive Distributions for LLM Regression</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Jungsoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20740">2605.20740</a></td>
 </tr>
 </tbody></table>

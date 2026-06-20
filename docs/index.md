@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-06-19._
+_Updated 2026-06-20._
 
-**15422** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15424** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -118,6 +118,12 @@ _Updated 2026-06-19._
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19024.html">Room-Temperature Calcium Intercalation into Graphite Catalyzed by Sodium</a></div><div class="paper-tags"><a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Akira Iyo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19024">2606.19024</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19040.html">Three-body unitary determination of the $f_1(1285)$ and $f_1(1420)$ pole positions</a></div></td>
 <td>Tao-Ran Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19040">2606.19040</a></td>
@@ -187,11 +193,5 @@ _Updated 2026-06-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/materials-science-30d.html">materials-science</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Anthony Richardella et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17525.html">Skew column RSK dynamics and the box-ball system</a></div></td>
-<td>Takashi Imamura et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17525">2606.17525</a></td>
 </tr>
 </tbody></table>

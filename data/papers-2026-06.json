@@ -11432,6 +11432,34 @@
   ],
   "updated": "2026-06-16"
  },
+ "2606.18390": {
+  "abstract": "Motivation: Noisy labels are a common challenge in molecular property prediction because molecular annotations are often obtained from assays, curated databases, or weak annotation pipelines rather than directly observed clean biological states. Treating recorded labels as reliable supervision can cause models to memorize corrupted observations and learn misleading molecular evidence. In multimodal molecular representation learning, this issue can be amplified by graph-text fusion or alignment, which may propagate label-induced errors across modalities. Results: We propose MOLAR, a noise-aware framework for learning multimodal molecular representations from noisy labels. MOLAR separates latent clean-property inference from recorded-label observation: graph and text views contribute residual evidence to a clean-property distribution, and a categorical label-observation channel maps this distribution to recorded labels for training. This formulation derives posterior label reliability and modality-specific molecular evidence from the model. Experiments on naturally noisy molecular benchmarks and controlled label-flipping benchmarks show that MOLAR consistently outperforms representative baselines. Visualization analyses further show that MOLAR provides interpretable reliability and modality-evidence diagnostics.",
+  "authors": [
+   "Yingxu Wang",
+   "Kunyu Zhang",
+   "Nan Yin",
+   "Yu Li",
+   "Eran Segal"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Yingxu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.18390",
+  "primary_category": "cs.LG",
+  "published": "2026-06-16",
+  "tags": [
+   "molecular-representation",
+   "property-prediction"
+  ],
+  "title": "MOLAR: Learning Multimodal Molecular Representations from Noisy Labels",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-06-16"
+ },
  "2606.18422": {
   "abstract": "As large language models (LLMs) become embedded in quantum simulation workflows (IDE copilots, notebook assistants, agentic pipelines), evaluation must move beyond functional correctness to anticipate and catch structured failures before they propagate through expensive pipelines. We present a layered evaluation framework for materials-informed Variational Quantum Eigensolver (VQE) circuit generation: (i) a gatekeeper screening rubric across seven physical and framework criteria; (ii) a circuit fidelity analysis comparing model outputs against analytical and reference-implementation values for H2/STO-3G/Jordan-Wigner/UCCSD, with ansatz classification and gate-composition breakdown; and (iii) design entropy, a run-to-run behavioral consistency metric. We surface a taxonomy of five distinct LLM failure modes (geometry hallucination, nonexistent API usage, runtime integration failures, constraint violations, and plausible-but-unverifiable output), each with distinct detectability profiles and structural to the task rather than to any one model. A forensic audit of the evaluation platform's own source code further establishes that two apparent model failures originated in the harness through silent fallback-template substitution, demonstrating that evaluation infrastructure belongs inside the same trust boundary as the models it tests. Applied across multiple foundation models on a Materials Project integrated pipeline, the framework shows that gatekeeper-style validation is necessary, not optional, for reliable deployment.",
   "authors": [
@@ -11615,6 +11643,35 @@
   ],
   "updated": "2026-06-17"
  },
+ "2606.19024": {
+  "abstract": "Calcium (Ca) insertion into graphite (C) has been considered to require elevated temperatures, and its occurrence at room temperature (RT) has been regarded as highly unlikely. Here, we demonstrate that sodium (Na) catalysis enables the formation of superconducting CaC$_6$ even at RT. In mixtures of Ca, Na, and graphite, the gradual development of superconducting diamagnetism and the emergence of X-ray diffraction peaks confirm the formation of CaC$_6$ during storage at RT. The superconducting transition temperature increases with storage time, and the amount of CaC$_6$ scales proportionally to the square root of storage time. These findings provide new insights into the mechanism of superconductivity and Na-catalyzed formation of CaC$_6$, and highlight the potential of this RT intercalation process for practical applications such as electrode materials in Ca-ion batteries.",
+  "authors": [
+   "Akira Iyo",
+   "Shigeyuki Ishida",
+   "Hiroshi Eisaki",
+   "Hiraku Ogino",
+   "Kenji Kawashima"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 pages, 3 figures",
+  "first_author": "Akira Iyo",
+  "pdf_url": "http://arxiv.org/pdf/2606.19024",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-06-17",
+  "tags": [
+   "battery-materials",
+   "catalysis",
+   "thermal-properties"
+  ],
+  "title": "Room-Temperature Calcium Intercalation into Graphite Catalyzed by Sodium",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-06-17"
+ },
  "2606.19040": {
   "abstract": "We study the $I^G(J^{PC})=0^+(1^{++})$ $K\\bar Kπ$ system in an infinite-volume three-body unitary framework, focusing on the pole content of the region of the $f_1(1285)$ and $f_1(1420)$ resonances. The coupled $πa_0$-$K\\bar K^*$ amplitude is constructed in the spectator-isobar representation, where the one-particle-exchange interaction required by three-body unitarity automatically incorporates the triangle-singularity mechanism. The short-range three-body interaction is constrained by fitting the $0^+(1^{++})$ component of the BESIII $K^0_SK^0_Sπ^0$ invariant-mass distribution in the $J/ψ\\toγ(K^0_SK^0_Sπ^0)$ decay. Analytically continuing the fitted amplitude to the relevant unphysical Riemann sheets, we find two robust poles: \\begin{align} \\sqrt{s_{f_1(1285)}}&= \\left(1277\\pm2\\pm1\\right) -i\\left(12\\pm1\\pm0\\right)\\text{MeV}\\,,\\notag\\\\ \\sqrt{s_{f_1(1420)}}&= \\left(1435\\pm2\\pm7\\right) -i\\left(40\\pm2\\pm1\\right)\\text{MeV}\\,.\\notag \\end{align} The pole trajectories indicate that the $f_1(1285)$ originates from dressing a bare state introduced in the potential. In contrast, the $f_1(1420)$ is predominantly dynamically generated, and a single-channel analysis traces it to an $S$-wave $K\\bar K^*$ quasi-bound state mixed with the nearby bare state, supporting its hadronic-molecule interpretation. We also find an additional pole deeper in the complex plane in the best-fit amplitude on the same Riemann sheet as the $f_1(1285)$. This additional pole is generated by the $P$-wave $πa_0$ contact interaction alone. It has a sizable cutoff and two-body-input dependence, and leaves little visible imprint on the physical lineshape. Finally, we provide a detailed and pedagogical appendix on how three-body cuts affect the solution of the integral equation.",
   "authors": [
@@ -11673,7 +11730,8 @@
   "title": "AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces",
   "topics": [
    "Large Language Models & Materials",
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-06-17"
  },
@@ -11943,7 +12001,8 @@
   ],
   "title": "MinSurf: resolving the atomic-scale stability landscape of mineral surfaces",
   "topics": [
-   "Quantum Chemistry & Force Fields"
+   "Quantum Chemistry & Force Fields",
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-06-18"
  },

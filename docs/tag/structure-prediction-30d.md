@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19377.html">Emyx: Fast and efficient all-atom protein generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Nicholas J. Williams et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19377">2606.19377</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12326.html">Transferable Machine Learning of Electronic Hamiltonians with Superposition-of-Atomic-Potentials Features</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="gnn-30d.html">gnn</a></div></td>
 <td>Chaoqun Zhang et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29158.html">PROTOCOL: Late Interaction Retrieval for Protein Homolog Search</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Gabrielle Cohn et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29158">2605.29158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div></td>
-<td>Taewon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22133">2605.22133</a></td>
 </tr>
 </tbody></table>

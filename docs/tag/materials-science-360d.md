@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">431 papers</span>
+  <span class="paper-count">430 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14003.html">XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Nofit Segal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14003">2606.14003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19378.html">A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Hyeonbin Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19378">2606.19378</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-11</td>
@@ -2588,17 +2594,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21821.html">Predicting Thermodynamics of Liquid Water from Time Series Analysis</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Małgorzata J. Zimoń et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21821">2506.21821</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19119.html">Chemical knowledge-informed framework for privacy-aware retrosynthesis learning</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Guikun Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19119">2502.19119</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20743.html">A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Minh-Hao Van et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20743">2506.20743</a></td>
 </tr>
 </tbody></table>

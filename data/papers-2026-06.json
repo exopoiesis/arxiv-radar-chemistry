@@ -11456,6 +11456,7 @@
   ],
   "title": "MOLAR: Learning Multimodal Molecular Representations from Noisy Labels",
   "topics": [
+   "Molecular Representation & Learning",
    "Property Prediction & ADMET"
   ],
   "updated": "2026-06-16"
@@ -11591,6 +11592,33 @@
   ],
   "updated": "2026-06-17"
  },
+ "2606.18703": {
+  "abstract": "Pretrained biological language models expose per-token probability distributions through masked-token prediction, providing the likelihood interface central to sequence design, variant scoring, and mechanistic interpretation. Yet these distributions are learned from broad unlabeled corpora and are not naturally conditioned on task-specific biological contexts such as interaction partners, cellular environments, or therapeutic interventions. Existing contextual matching methods often distort this interface through pooled embeddings, contrastive latent spaces, or task-specific prediction heads. We introduce LOGICA (Logit-space Contrastive Alignment), a framework for context-conditioned prediction that performs contrastive learning directly in output-logit space. Using gated cross-modal adapters compatible with each model's native token head, LOGICA preserves the pretrained likelihood interface and converts contextualized token log-likelihoods into matching scores. Alignment is defined through context-sensitive token probabilities rather than proximity in a shared embedding space, enabling learning from sparse paired data across models with distinct vocabularies, without a shared tokenizer or decoder. LOGICA is particularly effective for mutation-local variant ranking, where comparisons reduce to context-conditioned likelihoods of mutant tokens at perturbed sites. Across protein--ligand binding, TCR--peptide activity, and drug-conditioned resistance prediction, LOGICA improves over prior state-of-the-art methods, including matched latent-contrastive and conditional MLM baselines, while retaining a token-level interface for interpretation and generation. On held-out-gene single-mutation drug-resistance prediction, LOGICA improves AUC from near-random latent-space baselines of $\\sim$0.55 to $\\sim$0.65.",
+  "authors": [
+   "Yanjun Shao",
+   "Yundi Chen",
+   "Yashvi Patel",
+   "Aurelien Pelissier",
+   "María Rodríguez Martínez"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Yanjun Shao",
+  "pdf_url": "http://arxiv.org/pdf/2606.18703",
+  "primary_category": "cs.LG",
+  "published": "2026-06-17",
+  "tags": [
+   "protein-ligand"
+  ],
+  "title": "Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-06-17"
+ },
  "2606.18800": {
   "abstract": "Out-of-time-order correlators (OTOCs) provide a fundamental metric for quantum chaos, but capturing the fine structure of information scrambling requires exploring their higher-order generalizations. Here, we systematically investigate the sequence of higher-order OTOCs in a Luttinger liquid and its lattice realization, the XXZ Heisenberg chain. Using bosonization and numerics, we extract the full temporal dynamics of the first three OTOCs, revealing that they rapidly erase memory of the initial state, and quickly saturate to their steady state values. Strikingly, we show that calculating the late time saturation values for the entire sequence of higher-order OTOCs maps exactly onto determining the partition function of a non-Hermitian Harper model. Through this mapping, we demonstrate that for moderately strong interactions, the steady-state OTOCs become parametrically small up to the seventh order, mimicking higher $k$-design. Our results reveal that Luttinger liquids exhibit an unexpectedly profound degree of apparent scrambling when viewed through the lens of higher-order OTOCs.",
   "authors": [
@@ -11699,6 +11727,35 @@
   ],
   "updated": "2026-06-17"
  },
+ "2606.19133": {
+  "abstract": "Scalable prediction of optical spectra is a critical component of high-throughput materials screening for optoelectronic applications such as solar cells. Existing surrogate models are trained on spectra computed from lower levels of theory or rely on rotation-invariant scalar features, limiting their geometric expressiveness. We explore the use of equivariant graph neural networks for optical spectra prediction, adapting GotenNet to this task and evaluating it on multiple datasets including a recently published collection of 10,533 structures with spectra computed at the level of the random phase approximation (RPA). The proposed model outperforms the current state of the art, with the largest gains in the 0-8 eV range and on predicting the static real permittivity, both of particular relevance for thin-film optics.",
+  "authors": [
+   "Kasper Helverskov Petersen",
+   "François R J Cornet",
+   "Martin Ovesen",
+   "Mikkel Jordahn",
+   "Kristian S. Thygesen",
+   "Mikkel N. Schmidt"
+  ],
+  "categories": [
+   "physics.optics",
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Kasper Helverskov Petersen",
+  "pdf_url": "http://arxiv.org/pdf/2606.19133",
+  "primary_category": "physics.optics",
+  "published": "2026-06-17",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Equivariant Graph Neural Networks Improve Optical Spectra Prediction for Materials Screening",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-06-17"
+ },
  "2606.19152": {
   "abstract": "Identifying the lowest-energy surface-adsorbate configuration is critical for modeling heterogeneous catalysis, yet exhaustive exploration with ab initio calculations is computationally prohibitive. Machine-learning force fields (MLFFs) accelerate structural relaxation but leave the search over the vast configurational space a major bottleneck, and open-loop large language model (LLM) agents lack a physics-grounded feedback mechanism to correct erroneous initial guesses. We propose AdsMind (Adsorption configuration discovery with Machine intelligence and relaxation feedback), a closed-loop multi-agent framework that enables autonomous error correction through MLFF relaxation feedback. Across four LLM backends, AdsMind achieves consistently high search reliability, with success rates of 100% and 98.8% on the benchmarks AA20 and OCD-GMAE62. Relative to its single-pass (1-Shot) ablation it reduces cross-backend energy dispersion, and it uses only 4.11 and 4.67 MLFF relaxations per case, respectively -- an approximately 14-fold reduction over heuristic enumeration baselines. Density functional theory (DFT) validation using VASP/PBE on six representative AA20 systems shows that the reported open-loop Adsorb-Agent outputs exhibit qualitative adsorption-energy sign errors for molecular adsorbates, whereas AdsMind preserves the correct sign in all tested cases with closer quantitative agreement. AdsMind thus delivers reliability, self-reflection, and interpretability simultaneously, supporting more DFT-informed autonomous chemistry workflows.",
   "authors": [
@@ -11760,7 +11817,67 @@
   ],
   "title": "Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs",
   "topics": [
+   "Molecular Representation & Learning",
    "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.19377": {
+  "abstract": "Computational enzyme design requires generating proteins that scaffold catalytic residues and ligands, a task that demands both geometric accuracy and structural diversity from the underlying generative model. Current all-atom generators inherit expensive architectures from structure prediction, leading to high training costs and limited sample diversity. We argue that much of this complexity is unnecessary for generators, which condition on sparse geometric constraints rather than rich co-evolutionary signals. Emyx is a 140M-parameter conditional flow matching model that concentrates capacity within standard transformer blocks, replacing heavy embedding stacks with lightweight conditional representations and sparse connectivity. We additionally derive an exact reparametrisation of the flow matching interpolant into the EDM noise-level framework, bridging flow matching training efficiency with state-of-the-art sampling methods designed for diffusion models without retraining. Despite being the smallest model, Emyx outperforms both Proteína-Complexa and RFdiffusion3 against the AME enzyme design benchmark across success rate under strict evaluation requiring both global fold recovery and catalytic geometry accuracy, structural novelty, scaffold diversity, and geometric validity, while training in just $682$ GPU-hours, roughly $4\\times$ less than RFdiffusion3.",
+  "authors": [
+   "Nicholas J. Williams",
+   "Ward Haddadin",
+   "Matteo P. Ferla",
+   "Constantin Schneider",
+   "Nicholas B. Woodall",
+   "Ruby Sedgwick",
+   "Christian D. Madsen",
+   "Andrew L. Hopkins",
+   "Edward O. Pyzer-Knapp"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Nicholas J. Williams",
+  "pdf_url": "http://arxiv.org/pdf/2606.19377",
+  "primary_category": "cs.LG",
+  "published": "2026-06-12",
+  "tags": [
+   "diffusion-model",
+   "generative-model",
+   "structure-prediction"
+  ],
+  "title": "Emyx: Fast and efficient all-atom protein generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.19378": {
+  "abstract": "Scientific machine learning (SciML) has emerged as a promising approach for accelerating simulations of complex physical systems, yet achieving physically consistent and generalizable predictions for nonlinear, history-dependent problems remains a central challenge. In this study, we propose a hybrid GNN--FEM framework for efficient and generalizable phase-field fracture modeling. While phase-field approaches provide a robust variational framework for simulating complex crack evolution, their high computational cost limits practical applications because they require solving coupled, nonlinear, and history-dependent systems within an incremental finite element procedure. To address this challenge, a graph neural network surrogate is integrated into the conventional staggered scheme, replacing the phase-field update at each load increment while retaining the FEM-based displacement solver to enforce mechanical equilibrium and boundary conditions. By preserving the incremental solution structure, the framework remains consistent with history-dependent fracture evolution without requiring the surrogate to approximate the full solution trajectory. This selective surrogate strategy emphasizes the identification of a physically meaningful and incrementally structured learning target, rather than relying on brute-force data generation to learn the full fracture process. The proposed framework achieves strong generalization across varying geometries, loading conditions, material properties, and discretizations through dimensionless feature design, a graph-based formulation on mesh-based domains, and a physics-informed loss derived from the governing phase-field equation. Numerical experiments demonstrate that the hybrid approach reduces computational cost while maintaining accuracy compared with conventional FEM, and exhibits robust predictive performance across diverse problem settings.",
+  "authors": [
+   "Hyeonbin Moon",
+   "Yongjin Choi",
+   "Seunghwa Ryu"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "46 pages",
+  "first_author": "Hyeonbin Moon",
+  "pdf_url": "http://arxiv.org/pdf/2606.19378",
+  "primary_category": "cs.LG",
+  "published": "2026-06-12",
+  "tags": [
+   "gnn",
+   "materials-science"
+  ],
+  "title": "A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling",
+  "topics": [
+   "Molecular Representation & Learning"
   ],
   "updated": "2026-06-12"
  },
@@ -11810,6 +11927,31 @@
   "title": "Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19496": {
+  "abstract": "Generative models can produce individually plausible samples while deviating substantially from a target set in the distribution of key features. For example, a model pretrained on broad drug-like chemical space may generate molecules whose molecular features differ from those of a therapeutic class of interest, such as known antibiotics. Correcting such distributional miscalibration is challenging: direct finetuning on the target set can overfit and does not control which features are matched. To fill this gap, we introduce kernel Calibrating Generative Models (kCGM). kCGM minimizes a maximum mean discrepancy (MMD) between generated and target feature distributions using an unbiased score-function estimator, with KL regularization to remain close to the pretrained model. On a target set of 174 antibiotics, direct finetuning sacrifices chemical validity for feature-distribution matching, whereas kCGM improves target feature matching while increasing validity. We further demonstrate kCGM in protein and DNA generation tasks, showing it can adapt autoregressive, continuous-space diffusion, and discrete diffusion models using only feature-level supervision. Code is available at https://github.com/smithhenryd/cgm.",
+  "authors": [
+   "Nathaniel L. Diamant",
+   "Brian L. Trippe"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Nathaniel L. Diamant",
+  "pdf_url": "http://arxiv.org/pdf/2606.19496",
+  "primary_category": "cs.LG",
+  "published": "2026-06-17",
+  "tags": [
+   "chemical-space",
+   "diffusion-model",
+   "generative-model"
+  ],
+  "title": "Calibrating Generative Models to Feature Distributions with MMD Finetuning",
+  "topics": [
+   "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-06-17"
  },
@@ -12087,6 +12229,31 @@
   "title": "Strain- and Electric-Field-Tunable Valley Polarization in Mo0.75V0.25Te2(Mo3VTe8) for Valleytronic Application",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20084": {
+  "abstract": "Data editing with generative methods typically requires differentiable objectives and gradient-based search. However, these assumptions break down in flow-based settings, where edits are performed through forward and backward integration and often involve non-differentiable or black-box objectives. We introduce residual-space evolutionary optimization, a model-agnostic framework that addresses this gap by combining flow-based generative editing with evolutionary algorithms. Building on the observation that conditional flow matching (CFM) can disentangle condition-controlled factors from instance-specific residuals, our framework directly operates in residual space and separates two complementary search regimes: self-pollination performs local exploitation through feature-preserving residual refinement, and cross-pollination promotes broader exploration by recombining residuals across heterogeneous samples. As a proof of concept, we validate on MorphoMNIST, a benchmark dataset for counterfactual generation, and on crystal data, demonstrating that this exploration--exploitation decomposition provides a useful mechanism for balancing target alignment, instance preservation, and diversity, and extends beyond images to real-world scientific domains.",
+  "authors": [
+   "Zhuo Cao",
+   "Lena Krieger",
+   "Fernanda Nader",
+   "Xuan Zhao",
+   "Hanno Scharr",
+   "Ira Assent"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "Accepted by ICML 2026 Workshop SPIGM, 5 pages, 3 figures",
+  "first_author": "Zhuo Cao",
+  "pdf_url": "http://arxiv.org/pdf/2606.20084",
+  "primary_category": "cs.AI",
+  "published": "2026-06-18",
+  "tags": [],
+  "title": "Residual-Space Evolutionary Optimization via Flow-based Generative Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-06-18"
  },

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">481 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19496.html">Calibrating Generative Models to Feature Distributions with MMD Finetuning</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Nathaniel L. Diamant et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19496">2606.19496</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="chemical-space-360d.html">chemical-space</a></div></td>
@@ -80,6 +86,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14988.html">Toward Richer Material Generation via Procedural Data Enhancement</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Yunchen Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14988">2606.14988</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19377.html">Emyx: Fast and efficient all-atom protein generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Nicholas J. Williams et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19377">2606.19377</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-11</td>

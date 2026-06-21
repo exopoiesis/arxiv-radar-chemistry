@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-06-20._
+_Updated 2026-06-21._
 
-**15424** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15430** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -43,6 +43,12 @@ _Updated 2026-06-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19954.html">Strain- and Electric-Field-Tunable Valley Polarization in Mo0.75V0.25Te2(Mo3VTe8) for Valleytronic Application</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/magnetic-properties-30d.html">magnetic-properties</a> · <a href="tag/tmd-30d.html">tmd</a></div></td>
 <td>Md. Mostaqul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19954">2606.19954</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.20084.html">Residual-Space Evolutionary Optimization via Flow-based Generative Models</a></div></td>
+<td>Zhuo Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20084">2606.20084</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-18</td>
@@ -106,6 +112,12 @@ _Updated 2026-06-20._
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18703.html">Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment</a></div><div class="paper-tags"><a href="tag/protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Yanjun Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18703">2606.18703</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18800.html">Mimicry of chaos and $k$-design in higher order OTOCs of Luttinger liquids</a></div></td>
 <td>Balázs Dóra et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18800">2606.18800</a></td>
@@ -130,6 +142,12 @@ _Updated 2026-06-20._
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19133.html">Equivariant Graph Neural Networks Improve Optical Spectra Prediction for Materials Screening</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a></div></td>
+<td>Kasper Helverskov Petersen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19133">2606.19133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
 <td>Zongmin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
@@ -145,6 +163,12 @@ _Updated 2026-06-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19418.html">Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures</a></div><div class="paper-tags"><a href="tag/enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/replica-exchange-30d.html">replica-exchange</a></div></td>
 <td>Hadi H. Arefi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19418">2606.19418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19496.html">Calibrating Generative Models to Feature Distributions with MMD Finetuning</a></div><div class="paper-tags"><a href="tag/chemical-space-30d.html">chemical-space</a> · <a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
+<td>Nathaniel L. Diamant et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19496">2606.19496</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>
@@ -169,29 +193,5 @@ _Updated 2026-06-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Xiaoya Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19653.html">Coordination-Sensitive Nanoscale Analysis of Defect-Driven Phase Transformation in Si-Doped (AlXGa1-X)2O3</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Shaon Das et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19653">2606.19653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17409.html">Discrete Autoregressive Transformer for Generative Mechanism Synthesis</a></div></td>
-<td>Anar Nurizada et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17409">2606.17409</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/chemical-space-30d.html">chemical-space</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
-<td>Dong Hyeon Mok et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/materials-science-30d.html">materials-science</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Anthony Richardella et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
 </tr>
 </tbody></table>

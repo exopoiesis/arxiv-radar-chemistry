@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,23 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25250.html">LipoAgent: Coordinating Fine-Tuned LLM Agents for Safer Lipid Design</a></div></td>
 <td>Leshu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25250">2605.25250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22287.html">SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Yuxuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22287">2605.22287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24045.html">A Large-Scale Dataset and Benchmark: Do Protein-Ligand Models Learn Binding Sites or Just Binding Likelihood?</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Zhaohan Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24045">2605.24045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28862.html">Molecular Lead Optimization via Agentic Tool Planning</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Lingxiao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28862">2605.28862</a></td>
 </tr>
 </tbody></table>

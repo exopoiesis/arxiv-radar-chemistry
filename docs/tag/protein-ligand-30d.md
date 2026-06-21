@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-ligand — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <strong>30d</strong> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18703.html">Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment</a></div></td>
+<td>Yanjun Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18703">2606.18703</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14159.html">Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
@@ -68,17 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27853.html">MolLingo: Molecule-Native Representations for LLM-Powered Scientific Agents</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Thao Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27853">2605.27853</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24045.html">A Large-Scale Dataset and Benchmark: Do Protein-Ligand Models Learn Binding Sites or Just Binding Likelihood?</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Zhaohan Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24045">2605.24045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28862.html">Molecular Lead Optimization via Agentic Tool Planning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Lingxiao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28862">2605.28862</a></td>
 </tr>
 </tbody></table>

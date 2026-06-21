@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">477 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2876,11 +2876,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21438.html">Spin-orbit interaction, band topology, and spin texture in BiInO3(001) surface</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Ramsamoj Kewat et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21438">2506.21438</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12554.html">TBHubbard: tight-binding and extended Hubbard model database for metal-organic frameworks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mof-360d.html">mof</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Pamela C. Carvalho et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12554">2503.12554</a></td>
 </tr>
 </tbody></table>

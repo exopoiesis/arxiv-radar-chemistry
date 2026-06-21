@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19496.html">Calibrating Generative Models to Feature Distributions with MMD Finetuning</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Nathaniel L. Diamant et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19496">2606.19496</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="chemical-space-30d.html">chemical-space</a></div></td>
 <td>Dong Hyeon Mok et al.</td>
@@ -80,6 +86,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14988.html">Toward Richer Material Generation via Procedural Data Enhancement</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Yunchen Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14988">2606.14988</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19377.html">Emyx: Fast and efficient all-atom protein generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Nicholas J. Williams et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19377">2606.19377</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-11</td>
@@ -224,17 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24594.html">Ab-initio Crystal Structure Determination from Powder X-Ray Diffraction</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Kaixiang Su et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24594">2605.24594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22252.html">LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation</a></div></td>
-<td>Langzhang Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22252">2605.22252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22990.html">Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields</a></div><div class="paper-tags"><a href="string-method-30d.html">string-method</a></div></td>
-<td>Rémi Schlama et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22990">2605.22990</a></td>
 </tr>
 </tbody></table>

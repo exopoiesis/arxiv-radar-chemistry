@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1600 papers</span>
+  <span class="paper-count">1592 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9566,53 +9566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22520.html">Exploring Artificial Intelligence Tutor Teammate Adaptability to Harness Discovery Curiosity and Promote Learning in the Context of Interactive Molecular Dynamics</a></div></td>
 <td>Mustafa Demir et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22520">2506.22520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19643.html">Global thermodynamics for isothermal fluids under gravity</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Naoko Nakagawa et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19643">2412.19643</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19395.html">Quantum molecular dynamics model based on relativistic mean field theory for light nucleus fragmentation in hadron therapy</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Akihiro Haga et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19395">2503.19395</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20476.html">Effective and asymptotic scaling in a one-dimensional billiard problem</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>T. Holovatch et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20476">2503.20476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00403.html">Characterizing the embedded states of a fluorescent probe within a lipid bilayer using molecular dynamics simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
-<td>Ryo Okabe et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00403">2505.00403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09757.html">Elastic properties of fluid mercury across the metal-nonmetal transition: Ab initio simulation study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>T. Bryk et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09757">2506.09757</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20205.html">Phenylalanine modification in plasma-driven biocatalysis revealed by solvent accessibility and reactive dynamics in combination with protein mass spectrometry</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Hanna-Friederike Poggemann et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20205">2506.20205</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20304.html">Graphene structure modification under tritium exposure: 3H chemisorption dominates over defect formation by \b{eta}-radiation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Alexandra Becker et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20304">2506.20304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20830.html">Bridging Classical Molecular Dynamics and Quantum Foundations for Comprehensive Protein Structural Analysis</a></div></td>
-<td>Don Roosan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20830">2506.20830</a></td>
 </tr>
 </tbody></table>

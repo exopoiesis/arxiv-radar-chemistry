@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2129 papers</span>
+  <span class="paper-count">2124 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12758,35 +12758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21518.html">New plasmon-like mode in PdTe$_{2}$: Raman scattering and memory function study</a></div></td>
 <td>Bharathiganesh Devanarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21518">2506.21518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12554.html">TBHubbard: tight-binding and extended Hubbard model database for metal-organic frameworks</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mof-360d.html">mof</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Pamela C. Carvalho et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12554">2503.12554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20346.html">Computational study of geometry, electronic structure and low-lying excited states of linear T-graphene quantum dots</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Arifa Nazir et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20346">2506.20346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20371.html">Impact of the damping function in dispersion-corrected density functional theory on the properties of liquid water</a></div></td>
-<td>K. Nikolas Lausch et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20371">2506.20371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20662.html">Artificial Symmetry Breaking by Self-Interaction Error</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Lin Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20662">2506.20662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20825.html">Quantum-Centric Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Milana Bazayeva et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20825">2506.20825</a></td>
 </tr>
 </tbody></table>

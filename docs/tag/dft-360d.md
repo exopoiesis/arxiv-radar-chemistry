@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2124 papers</span>
+  <span class="paper-count">2112 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12686,77 +12686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00063.html">Dissociation limits in Density Functional Theory</a></div></td>
 <td>Guy Bouchitté et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00063">2507.00063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19662.html">Effective K valley Hamiltonian for TMD bilayers under pressure and application to twisted bilayers with pressure-induced topological phase transitions</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Miftah Hadi Syahputra Anfa et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19662">2409.19662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11543.html">Computational Study of Magnetic Behaviour in Ni-Adsorbed Nb2C-OF MXene using Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Zarah Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11543">2502.11543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08682.html">Phase diagrams and two key factors to superconductivity of Ruddlesden-Popper nickelates</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Zhenfeng Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.08682">2503.08682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17443.html">Single-Crystal NMR for 17O in Alanine Enantiomers</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Shiva Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17443">2506.17443</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20912.html">Electronic conduction in copper-graphene composites with functional impurities</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Kishor Nepal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20912">2506.20912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21007.html">Static Contact Angles of Mixtures: Classical Density Functional Theory and Experimental Investigation</a></div></td>
-<td>Benjamin Bursik et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21007">2506.21007</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21068.html">Multi-Technique Characterization of Rhodium Gem-Dicarbonyls on TiO$_2$(110)</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Moritz Eder et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21068">2506.21068</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21088.html">Nonsymmorphic symmetry-enforced hourglass fermions and Rashba-Dresselhaus interaction in BiInO$_3$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Ramsamoj Kewat et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21088">2506.21088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21194.html">Confined acoustic phonons in CsPbI3 nanocrystals explored by resonant Raman scattering on excitons</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Carolin Harkort et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21194">2506.21194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21366.html">Computational Design of Two-Dimensional MoSi$_2$N$_4$ Family Field-Effect Transistor for Future Ångström-Scale CMOS Technology Nodes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Che Chen Tho et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21366">2506.21366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21438.html">Spin-orbit interaction, band topology, and spin texture in BiInO3(001) surface</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Ramsamoj Kewat et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21438">2506.21438</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21518.html">New plasmon-like mode in PdTe$_{2}$: Raman scattering and memory function study</a></div></td>
-<td>Bharathiganesh Devanarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21518">2506.21518</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23269.html">BASIL: Fast broadband line-rich spectral-cube fitting and image visualization via Bayesian quadrature</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Yuxin Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23269">2506.23269</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03921.html">CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Arthur Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03921">2503.03921</a></td>
 </tr>
 </tbody></table>

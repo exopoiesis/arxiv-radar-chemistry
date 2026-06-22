@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,17 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23712.html">Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Djardiel da S. Gomes et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23712">2603.23712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22099.html">Overcoming sampling limitations using machine-learned interatomic potentials: the case of water-in-salt electrolytes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Luca Brugnoli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22099">2603.22099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22140.html">Stable, Fast, and Accurate Kohn-Sham Inversion in Gaussian Basis for Open Shell Molecular and Condensed Phase Systems via Density Matrix Penalization</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Ziwei Chai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22140">2603.22140</a></td>
 </tr>
 </tbody></table>

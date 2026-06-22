@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,23 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01825.html">Reliable OOD Virtual Screening with Extrapolatory Pseudo-Label Matching</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Yunni Qu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01825">2406.01825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21503.html">Persistent local Laplacian prediction of protein-ligand binding affinities</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Jian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21503">2603.21503</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22274.html">Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Yu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22274">2603.22274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22399.html">Latent Style-based Quantum Wasserstein GAN for Drug Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Julien Baglio et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22399">2603.22399</a></td>
 </tr>
 </tbody></table>

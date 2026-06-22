@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,35 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23029.html">Fine-tuning of universal machine-learning interatomic potentials for 2D high-entropy alloys</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Chun Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23029">2603.23029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06873.html">GPU-MetaD: Full-Life-Cycle GPU Accelerated Metadynamics with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Haoting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06873">2510.06873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22099.html">Overcoming sampling limitations using machine-learned interatomic potentials: the case of water-in-salt electrolytes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Luca Brugnoli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22099">2603.22099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22160.html">Data Curation for Machine Learning Interatomic Potentials by Determinantal Point Processes</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Joanna Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22160">2603.22160</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22254.html">Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Claudia Islas-Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22254">2603.22254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22274.html">Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Yu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22274">2603.22274</a></td>
 </tr>
 </tbody></table>

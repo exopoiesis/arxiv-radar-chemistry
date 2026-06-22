@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,29 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23761.html">Application of the aperiodic defect model to a negatively charged monovacancy in phosphorene</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Charlotte Rickert et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23761">2603.23761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21827.html">Invariant ionic conductance in an atomically thin polar nanopore</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Shengping Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21827">2603.21827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21907.html">Molecular dynamics simulation of high slip flow of water confined between graphene nanochannels at experimentally accessible strain rates</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Carmelo Civello et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21907">2603.21907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22254.html">Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Claudia Islas-Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22254">2603.22254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22443.html">Carbon Nitride Monolayer Nanosheets: Astrochemical Insights into the Fate of Interstellar Hydrogen</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Dubois David et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22443">2603.22443</a></td>
 </tr>
 </tbody></table>

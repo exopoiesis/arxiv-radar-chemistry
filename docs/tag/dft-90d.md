@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">530 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3158,41 +3158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23712.html">Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Djardiel da S. Gomes et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23712">2603.23712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05909.html">Learning Magnetic Order Classification from Large-Scale Materials Databases</a></div></td>
-<td>Ahmed E. Fahmy</td>
-<td><a href="http://arxiv.org/abs/2509.05909">2509.05909</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21835.html">A Unified Heterogeneous Implementation of Numerical Atomic Orbitals-Based Real-Time TDDFT within the ABACUS Package</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Taoni Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21835">2603.21835</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21906.html">olLOSC: Unified and efficient density functional approximation to correct delocalization error in molecules and periodic materials</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Yichen Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21906">2603.21906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22140.html">Stable, Fast, and Accurate Kohn-Sham Inversion in Gaussian Basis for Open Shell Molecular and Condensed Phase Systems via Density Matrix Penalization</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Ziwei Chai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22140">2603.22140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22254.html">Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Claudia Islas-Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22254">2603.22254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22443.html">Carbon Nitride Monolayer Nanosheets: Astrochemical Insights into the Fate of Interstellar Hydrogen</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Dubois David et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22443">2603.22443</a></td>
 </tr>
 </tbody></table>

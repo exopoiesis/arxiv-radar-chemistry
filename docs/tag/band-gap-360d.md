@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">457 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2756,23 +2756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10649.html">Thermal response functions and second sound in single-layer hexagonal boron nitride</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Patrick K. Schelling et al.</td>
 <td><a href="http://arxiv.org/abs/2502.10649">2502.10649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11543.html">Computational Study of Magnetic Behaviour in Ni-Adsorbed Nb2C-OF MXene using Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Zarah Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11543">2502.11543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20912.html">Electronic conduction in copper-graphene composites with functional impurities</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Kishor Nepal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20912">2506.20912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21088.html">Nonsymmorphic symmetry-enforced hourglass fermions and Rashba-Dresselhaus interaction in BiInO$_3$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ramsamoj Kewat et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21088">2506.21088</a></td>
 </tr>
 </tbody></table>

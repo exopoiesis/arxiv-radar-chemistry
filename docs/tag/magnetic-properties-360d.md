@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">382 papers</span>
+  <span class="paper-count">379 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2288,23 +2288,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22627.html">Accelerated discovery and design of Fe-Co-Zr magnets with tunable magnetic anisotropy through machine learning and parallel computing</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Weiyi Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22627">2506.22627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07122.html">Quantum oscillation in Hopf-link semimetals</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Lei Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2412.07122">2412.07122</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11543.html">Computational Study of Magnetic Behaviour in Ni-Adsorbed Nb2C-OF MXene using Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Zarah Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.11543">2502.11543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20958.html">High-Throughput Mapping of Magnetic Properties via the on-the-fly XMCD spectroscopy in a Combinatorial Fe-Co-Ni Film</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Y. Yamasaki et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20958">2506.20958</a></td>
 </tr>
 </tbody></table>

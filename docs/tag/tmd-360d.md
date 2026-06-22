@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmd — 360d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <strong>360d</strong> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,17 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22660.html">Brightening interlayer excitons by electric-field-driven hole transfer in bilayer WSe2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Tianyi Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22660">2506.22660</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19662.html">Effective K valley Hamiltonian for TMD bilayers under pressure and application to twisted bilayers with pressure-induced topological phase transitions</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Miftah Hadi Syahputra Anfa et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19662">2409.19662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21793.html">Understanding and Controlling V-Doping and S-Vacancy Behavior in Two-Dimensional Semiconductors- Toward Predictive Design</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Shreya Mathela et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21793">2506.21793</a></td>
 </tr>
 </tbody></table>

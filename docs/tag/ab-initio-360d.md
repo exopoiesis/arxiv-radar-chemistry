@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1608 papers</span>
+  <span class="paper-count">1601 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9620,47 +9620,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00837.html">QDockBank: A Dataset for Ligand Docking on Protein Fragments Predicted on Utility-Level Quantum Computers</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Yuqi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00837">2508.00837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19662.html">Effective K valley Hamiltonian for TMD bilayers under pressure and application to twisted bilayers with pressure-induced topological phase transitions</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Miftah Hadi Syahputra Anfa et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19662">2409.19662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18057.html">Novel Strontium Carbides Under Compression</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Nikita Rybin et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18057">2502.18057</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20912.html">Electronic conduction in copper-graphene composites with functional impurities</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Kishor Nepal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20912">2506.20912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21248.html">Diverse polymorphs and phase transitions in van der Waals In$_2$Se$_3$</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Mingfeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21248">2506.21248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21366.html">Computational Design of Two-Dimensional MoSi$_2$N$_4$ Family Field-Effect Transistor for Future Ångström-Scale CMOS Technology Nodes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Che Chen Tho et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21366">2506.21366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21661.html">Microscopic origin of the magnetic interactions and their experimental signatures in altermagnetic La$_2$O$_3$Mn$_2$Se$_2$</a></div></td>
-<td>Laura Garcia-Gassull et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21661">2506.21661</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21793.html">Understanding and Controlling V-Doping and S-Vacancy Behavior in Two-Dimensional Semiconductors- Toward Predictive Design</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Shreya Mathela et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21793">2506.21793</a></td>
 </tr>
 </tbody></table>

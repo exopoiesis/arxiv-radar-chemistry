@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22029.html">Complete insensitivity to ab initio data -- A new perspective on modeling collision-induced absorption of noble gas atoms</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Nikhila Ambika Chandran et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22029">2506.22029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21248.html">Diverse polymorphs and phase transitions in van der Waals In$_2$Se$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Mingfeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21248">2506.21248</a></td>
 </tr>
 </tbody></table>

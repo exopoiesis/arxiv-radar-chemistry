@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">569 papers</span>
+  <span class="paper-count">567 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3416,17 +3416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02980.html">Modeling Gene Expression Distributional Shifts for Unseen Genetic Perturbations</a></div></td>
 <td>Kalyan Ramakrishnan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02980">2507.02980</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21085.html">CovDocker: Benchmarking Covalent Drug Design with Tasks, Datasets, and Solutions</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Yangzhe Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21085">2506.21085</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02932.html">MolProphecy: Bridging Medicinal Chemists&#x27; Knowledge and Molecular Pre-Trained Models via a Multi-Modal Framework</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jianping Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02932">2507.02932</a></td>
 </tr>
 </tbody></table>

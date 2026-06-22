@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">262 papers</span>
+  <span class="paper-count">261 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1580,11 +1580,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00837.html">QDockBank: A Dataset for Ligand Docking on Protein Fragments Predicted on Utility-Level Quantum Computers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Yuqi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00837">2508.00837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21792.html">Droplet growth, Ostwald&#x27;s rule, and emergence of order in Fused in Sarcoma</a></div></td>
-<td>Farkhad Maksudov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21792">2506.21792</a></td>
 </tr>
 </tbody></table>

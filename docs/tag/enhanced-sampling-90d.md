@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>enhanced-sampling — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <strong>90d</strong> <a href="enhanced-sampling-360d.html">360d</a> <a href="enhanced-sampling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17374.html">Generative modeling of conditional probability distributions on the level-sets of collective variables</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Fatima-Zahrae Akhyar et al.</td>
 <td><a href="http://arxiv.org/abs/2512.17374">2512.17374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06873.html">GPU-MetaD: Full-Life-Cycle GPU Accelerated Metadynamics with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Haoting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06873">2510.06873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21890.html">$π$-Girsanov: A Generalized Method to Construct Markov State Models from Non-Equilibrium and Multiensemble Biased Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mingyuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21890">2603.21890</a></td>
 </tr>
 </tbody></table>

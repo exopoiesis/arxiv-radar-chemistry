@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>retrosynthesis — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <strong>360d</strong> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01444.html">A Large Language Model for Chemistry and Retrosynthesis Predictions</a></div></td>
 <td>Yueqing Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01444">2507.01444</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21085.html">CovDocker: Benchmarking Covalent Drug Design with Tasks, Datasets, and Solutions</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Yangzhe Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21085">2506.21085</a></td>
 </tr>
 </tbody></table>

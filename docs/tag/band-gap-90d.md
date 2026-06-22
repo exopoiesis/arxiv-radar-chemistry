@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,11 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23632.html">Electronic structure of Gd-based intermetallics GdCu$_2$Ge$_2$ and GdCuAl$_3$</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>M. Pinterić et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23632">2603.23632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21906.html">olLOSC: Unified and efficient density functional approximation to correct delocalization error in molecules and periodic materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Yichen Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21906">2603.21906</a></td>
 </tr>
 </tbody></table>

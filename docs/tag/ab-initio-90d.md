@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">395 papers</span>
+  <span class="paper-count">389 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2348,41 +2348,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23712.html">Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Djardiel da S. Gomes et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23712">2603.23712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05430.html">DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA</a></div></td>
-<td>Aman Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05430">2412.05430</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06873.html">GPU-MetaD: Full-Life-Cycle GPU Accelerated Metadynamics with Machine Learning Potentials</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Haoting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06873">2510.06873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17611.html">Evidence for Multimodal Superfluidity of Neutrons</a></div></td>
-<td>Yuan-Zhuo Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17611">2602.17611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21835.html">A Unified Heterogeneous Implementation of Numerical Atomic Orbitals-Based Real-Time TDDFT within the ABACUS Package</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Taoni Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21835">2603.21835</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22099.html">Overcoming sampling limitations using machine-learned interatomic potentials: the case of water-in-salt electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Luca Brugnoli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22099">2603.22099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22268.html">An Accurate Tensorial Model for Prediction of Full Zeolite NMR Spectra</a></div></td>
-<td>Carlos Bornes et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22268">2603.22268</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,11 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00837.html">QDockBank: A Dataset for Ligand Docking on Protein Fragments Predicted on Utility-Level Quantum Computers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Yuqi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00837">2508.00837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18057.html">Novel Strontium Carbides Under Compression</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Nikita Rybin et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18057">2502.18057</a></td>
 </tr>
 </tbody></table>

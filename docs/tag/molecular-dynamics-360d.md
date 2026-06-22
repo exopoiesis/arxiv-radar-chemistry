@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1592 papers</span>
+  <span class="paper-count">1587 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9536,35 +9536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22162.html">A Multi-Species Enskog-Vlasov Solver to Determine Evaporation Coefficients of Fluids in High Pressure Environments</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Raphael Tietz et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22162">2506.22162</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21139.html">Anharmonic phonons via quantum thermal bath simulations</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Taylor Baird et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21139">2506.21139</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21241.html">On the coordinate system-dependence of the accuracy of symplectic numerical methods</a></div></td>
-<td>Donát M. Takács et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21241">2506.21241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21248.html">Diverse polymorphs and phase transitions in van der Waals In$_2$Se$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Mingfeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21248">2506.21248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21821.html">Predicting Thermodynamics of Liquid Water from Time Series Analysis</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Małgorzata J. Zimoń et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21821">2506.21821</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22520.html">Exploring Artificial Intelligence Tutor Teammate Adaptability to Harness Discovery Curiosity and Promote Learning in the Context of Interactive Molecular Dynamics</a></div></td>
-<td>Mustafa Demir et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22520">2506.22520</a></td>
 </tr>
 </tbody></table>

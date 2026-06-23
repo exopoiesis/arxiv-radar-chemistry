@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">278 papers</span>
+  <span class="paper-count">276 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1670,17 +1670,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23167.html">Band-Gap Tunability in Anharmonic Perovskite-like Semiconductors Driven by Polar Electron-Phonon Coupling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Pol Benítez et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23167">2506.23167</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15265.html">Self-assembly of Dipolar Crystals from Magnetic Colloids</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Anuj Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15265">2502.15265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01054.html">XxaCT-NN: Structure Agnostic Multimodal Learning for Materials Science</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jithendaraa Subramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01054">2507.01054</a></td>
 </tr>
 </tbody></table>

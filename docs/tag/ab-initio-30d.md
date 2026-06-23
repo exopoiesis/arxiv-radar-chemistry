@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,35 +602,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25268.html">Bipartite Cholesky Graph Networks for Many-Body Quantum Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="gnn-30d.html">gnn</a></div></td>
 <td>Abdul Samad Khan</td>
 <td><a href="http://arxiv.org/abs/2605.25268">2605.25268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24334.html">Systematic comparison of approximations and functionals in first-principle calculations of aluminum-based III-V ferroelectric nitrides</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Alejandro Mercado Tejerina et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24334">2605.24334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24455.html">Multi-Source Domain Transfer Learning for Accurate Property Prediction in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Huiyang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24455">2605.24455</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24594.html">Ab-initio Crystal Structure Determination from Powder X-Ray Diffraction</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Kaixiang Su et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24594">2605.24594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24744.html">Transport-preserving neural ab initio scattering kernels for rarefied binary gas mixtures</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Ehsan Roohi</td>
-<td><a href="http://arxiv.org/abs/2605.24744">2605.24744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24768.html">Charge dynamics at nitrogen impurities and nitrogen-vacancy centers in diamond</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Chandan Kumar Vishwakarma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24768">2605.24768</a></td>
 </tr>
 </tbody></table>

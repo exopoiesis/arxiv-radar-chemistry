@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1904,17 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23570.html">First-Principles Insights into Excitonic and Electron-Phonon Effects in van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Mohammad Ali Mohebpour et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23570">2506.23570</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10649.html">Thermal response functions and second sound in single-layer hexagonal boron nitride</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Patrick K. Schelling et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10649">2502.10649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22029.html">Complete insensitivity to ab initio data -- A new perspective on modeling collision-induced absorption of noble gas atoms</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Nikhila Ambika Chandran et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22029">2506.22029</a></td>
 </tr>
 </tbody></table>

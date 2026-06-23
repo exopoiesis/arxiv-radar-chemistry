@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2112 papers</span>
+  <span class="paper-count">2107 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12656,35 +12656,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22739.html">Anisotropic nonlinear transport in two-dimensional ferroelectrics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Qin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22739">2506.22739</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21973.html">The Structural Behavior of Physisorbed Metallenes</a></div></td>
-<td>Kameyab Raza Abidi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21973">2506.21973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22162.html">A Multi-Species Enskog-Vlasov Solver to Determine Evaporation Coefficients of Fluids in High Pressure Environments</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Raphael Tietz et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22162">2506.22162</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22279.html">From Density Functional Theory to Spin Hamiltonians: Magnetism in $d^5$ Honeycomb Compound OsCl$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Ritwik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22279">2506.22279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22660.html">Brightening interlayer excitons by electric-field-driven hole transfer in bilayer WSe2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Tianyi Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22660">2506.22660</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00063.html">Dissociation limits in Density Functional Theory</a></div></td>
-<td>Guy Bouchitté et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00063">2507.00063</a></td>
 </tr>
 </tbody></table>

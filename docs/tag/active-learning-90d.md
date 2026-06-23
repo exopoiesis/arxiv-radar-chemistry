@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>active-learning — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <strong>90d</strong> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24498.html">Using Educational Comics in Physics Teaching for Chemistry and Biochemistry Students: Impact on Motivation and Domain-Specific Conceptual Gains</a></div></td>
 <td>Mauricio Echiburu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24498">2603.24498</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12567.html">Foundation-Model Surrogates Enable Data-Efficient Active Learning for Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Jeffrey Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12567">2603.12567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23494.html">Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Yuhan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23494">2603.23494</a></td>
 </tr>
 </tbody></table>

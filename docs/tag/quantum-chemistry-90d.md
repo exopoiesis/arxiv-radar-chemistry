@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,17 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24728.html">Auto-regressive Neural Quantum State Sampling for Selected Configuration Interaction</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Shane Thompson et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24728">2603.24728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20835.html">Of gyrators and non-identical anyons</a></div></td>
-<td>O. Kashuba et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20835">2410.20835</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23761.html">Application of the aperiodic defect model to a negatively charged monovacancy in phosphorene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Charlotte Rickert et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23761">2603.23761</a></td>
 </tr>
 </tbody></table>

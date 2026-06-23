@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">389 papers</span>
+  <span class="paper-count">383 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2312,41 +2312,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24881.html">Implementation of the multigrid Gaussian-Plane-Wave algorithm with GPU acceleration in PySCF</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Rui Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24881">2603.24881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02441.html">The contribution of nitrogen Frenkel-pair formation to the high-temperature heat capacity of uranium mononitride</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mohamed AbdulHameed et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02441">2603.02441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22699.html">\textit{Ab initio} calculations of first-forbidden $β$ transitions in the reactor antineutrino anomaly</a></div></td>
-<td>X. Y. Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22699">2603.22699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22725.html">First-Principles Theory of Chirality-Induced Spin Selectivity at Molecule-Metal Interfaces in Photoemission</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Amos Afugu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22725">2603.22725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22810.html">Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Shuyu Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22810">2603.22810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22848.html">Ultrafast electrically controlled magnetism in charge-order-induced ferroelectric altermagnet</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Yuhao Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22848">2603.22848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23712.html">Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Djardiel da S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23712">2603.23712</a></td>
 </tr>
 </tbody></table>

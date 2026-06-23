@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">379 papers</span>
+  <span class="paper-count">377 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2276,17 +2276,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22739.html">Anisotropic nonlinear transport in two-dimensional ferroelectrics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Qin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22739">2506.22739</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22279.html">From Density Functional Theory to Spin Hamiltonians: Magnetism in $d^5$ Honeycomb Compound OsCl$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Ritwik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22279">2506.22279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22627.html">Accelerated discovery and design of Fe-Co-Zr magnets with tunable magnetic anisotropy through machine learning and parallel computing</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Weiyi Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22627">2506.22627</a></td>
 </tr>
 </tbody></table>

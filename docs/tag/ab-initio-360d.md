@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1601 papers</span>
+  <span class="paper-count">1590 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9554,71 +9554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00574.html">Pressure-Induced Volume Collapse and Metallization in Inverse Spinel Co$_2$TiO$_4$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Mrinmay Sahu et al.</td>
 <td><a href="http://arxiv.org/abs/2504.00574">2504.00574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10649.html">Thermal response functions and second sound in single-layer hexagonal boron nitride</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Patrick K. Schelling et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10649">2502.10649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21996.html">Sub-nm Curvature Unlocks Quantum Flexoelectricity in Graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Sathvik Ajay Iyengar et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21996">2503.21996</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20791.html">Collective excitations in Hydrogen across the pressure-induced transition from molecular to atomic fluid</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>I. -M. Ilenkov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20791">2506.20791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21852.html">Universal Effective Charges in the $sd$ and $fp$ Shells</a></div></td>
-<td>T. H. Ogunbeku et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21852">2506.21852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22029.html">Complete insensitivity to ab initio data -- A new perspective on modeling collision-induced absorption of noble gas atoms</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Nikhila Ambika Chandran et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22029">2506.22029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22151.html">On efficiency of double ionization of a three-electron atom in moderate laser field intensities</a></div></td>
-<td>Dmitry Efimov</td>
-<td><a href="http://arxiv.org/abs/2506.22151">2506.22151</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22233.html">Relaxation enhancement by controlling incompressible fluid flows</a></div></td>
-<td>Kai Koike et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22233">2506.22233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22279.html">From Density Functional Theory to Spin Hamiltonians: Magnetism in $d^5$ Honeycomb Compound OsCl$_3$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Ritwik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22279">2506.22279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22627.html">Accelerated discovery and design of Fe-Co-Zr magnets with tunable magnetic anisotropy through machine learning and parallel computing</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Weiyi Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22627">2506.22627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00065.html">Segmentation-Based Regression for Quantum Neural Networks</a></div></td>
-<td>James C. Hateley</td>
-<td><a href="http://arxiv.org/abs/2507.00065">2507.00065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00837.html">QDockBank: A Dataset for Ligand Docking on Protein Fragments Predicted on Utility-Level Quantum Computers</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Yuqi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00837">2508.00837</a></td>
 </tr>
 </tbody></table>

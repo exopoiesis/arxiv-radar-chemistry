@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">397 papers</span>
+  <span class="paper-count">388 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2342,59 +2342,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24881.html">Implementation of the multigrid Gaussian-Plane-Wave algorithm with GPU acceleration in PySCF</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Rui Li et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24881">2603.24881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02060.html">Morphology-Aware Peptide Discovery via Masked Conditional Generative Modeling</a></div></td>
-<td>Nuno Costa et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02060">2509.02060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11859.html">Martini Mapper: An Automated Fragment-Based Framework for Developing Coarse-Grained Models within the Martini 3 Framework</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Kevin V. Bigting et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11859">2511.11859</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09187.html">IEPDYN: Integral-equation formalism of population dynamics</a></div></td>
-<td>Kento Kasahara et al.</td>
-<td><a href="http://arxiv.org/abs/2601.09187">2601.09187</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02441.html">The contribution of nitrogen Frenkel-pair formation to the high-temperature heat capacity of uranium mononitride</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Mohamed AbdulHameed et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02441">2603.02441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09027.html">Dynamics of viscous liquids and the Random Barrier Model</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Thomas B. Schrøder et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09027">2603.09027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22810.html">Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Shuyu Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22810">2603.22810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23442.html">Structural Chart of Copper-Silver Nanoalloys through machine learning</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
-<td>Manoj Settem et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23442">2603.23442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23494.html">Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Yuhan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23494">2603.23494</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23712.html">Theoretical Prediction of Three-Dimensional $sp^2$-free Graphyne-Based Nanomaterials via Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Djardiel da S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23712">2603.23712</a></td>
 </tr>
 </tbody></table>

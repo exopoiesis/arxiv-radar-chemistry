@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>enhanced-sampling — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <a href="enhanced-sampling-90d.html">90d</a> <strong>360d</strong> <a href="enhanced-sampling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04052.html">Understanding Reaction Mechanisms from Start to Finish</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Rik S. Breebaart et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04052">2507.04052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20649.html">The role of fluctuations in the nucleation process</a></div></td>
-<td>Yuanpeng Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20649">2503.20649</a></td>
 </tr>
 </tbody></table>

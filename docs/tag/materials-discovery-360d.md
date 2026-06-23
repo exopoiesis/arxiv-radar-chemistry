@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,23 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04133.html">The JARVIS Infrastructure is All You Need for Materials Design</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Kamal Choudhary</td>
 <td><a href="http://arxiv.org/abs/2503.04133">2503.04133</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08423.html">Mic-hackathon 2024: Hackathon on Machine Learning for Electron and Scanning Probe Microscopy</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Utkarsh Pratiush et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08423">2506.08423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22627.html">Accelerated discovery and design of Fe-Co-Zr magnets with tunable magnetic anisotropy through machine learning and parallel computing</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Weiyi Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22627">2506.22627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01054.html">XxaCT-NN: Structure Agnostic Multimodal Learning for Materials Science</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jithendaraa Subramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01054">2507.01054</a></td>
 </tr>
 </tbody></table>

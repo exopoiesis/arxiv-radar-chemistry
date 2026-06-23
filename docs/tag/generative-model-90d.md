@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26790.html">Elucidating the Design Space of Flow Matching for Cellular Microscopy</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Charles Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26790">2603.26790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23246.html">GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models</a></div></td>
-<td>Zekai Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23246">2603.23246</a></td>
 </tr>
 </tbody></table>

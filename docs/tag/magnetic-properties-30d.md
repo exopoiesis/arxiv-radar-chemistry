@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25236.html">Composition-Driven High-Entropy Alloys with Enhanced Magnetocaloric Properties</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Nishant Tiwari et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25236">2605.25236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24376.html">Dilute Magnetism and Edge-State Engineering in Monolayer SnO</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Yuya Fukuta et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24376">2605.24376</a></td>
 </tr>
 </tbody></table>

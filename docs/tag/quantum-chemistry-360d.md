@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">386 papers</span>
+  <span class="paper-count">384 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2318,17 +2318,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23809.html">Large-scale Neural Network Quantum States for ab initio Quantum Chemistry Simulations on Fugaku</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Hongtao Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23809">2506.23809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22029.html">Complete insensitivity to ab initio data -- A new perspective on modeling collision-induced absorption of noble gas atoms</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Nikhila Ambika Chandran et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22029">2506.22029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22408.html">Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Luning Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22408">2506.22408</a></td>
 </tr>
 </tbody></table>

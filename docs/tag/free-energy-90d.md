@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -632,17 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24752.html">Autotuning T-PaiNN: Enabling Data-Efficient GNN Interatomic Potential Development via Classical-to-Quantum Transfer Learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Vivienne Pelletier et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24752">2603.24752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08914.html">Finite-size catalysis in quantum resource theories</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Patryk Lipka-Bartosik et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08914">2405.08914</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23398.html">Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Michal Balcerak et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23398">2603.23398</a></td>
 </tr>
 </tbody></table>

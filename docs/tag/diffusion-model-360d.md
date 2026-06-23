@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">450 papers</span>
+  <span class="paper-count">449 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2708,11 +2708,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23184.html">Score-based Diffusion Model for Unpaired Virtual Histology Staining</a></div></td>
 <td>Anran Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23184">2506.23184</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21272.html">FairyGen: Storied Cartoon Video from a Single Child-Drawn Character</a></div></td>
-<td>Jiayi Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21272">2506.21272</a></td>
 </tr>
 </tbody></table>

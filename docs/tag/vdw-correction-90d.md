@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vdw-correction — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <strong>90d</strong> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24496.html">Kinetics-Driven Selective Stoichiometric Shift and Structural Asymmetry in $Bi_4Te_3$ Nanostructures for Hybrid Quantum Architectures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
 <td>Abdur Rehman Jalil et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24496">2603.24496</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23396.html">Splitting of electronic spectrum in paramagnetic phase of itinerant ferromagnets and altermagnets</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>A. A. Katanin</td>
-<td><a href="http://arxiv.org/abs/2509.23396">2509.23396</a></td>
 </tr>
 </tbody></table>

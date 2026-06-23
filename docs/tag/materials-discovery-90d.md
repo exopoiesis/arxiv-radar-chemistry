@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,29 +362,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21201.html">Efficient Crystal Structure Prediction Using Universal Neural Network Potential with Diversity Preservation in Genetic Algorithms</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Takuya Shibayama et al.</td>
 <td><a href="http://arxiv.org/abs/2503.21201">2503.21201</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12567.html">Foundation-Model Surrogates Enable Data-Efficient Active Learning for Materials Discovery</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Jeffrey Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12567">2603.12567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20858.html">From Photons to Electrons: Accelerated Materials Discovery via Random Libraries and Automated Scanning Transmission Electron Microscopy</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Boris Slautin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20858">2603.20858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23367.html">AlphaDiffract: Automated Crystallographic Analysis of Powder X-ray Diffraction Data</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Nina Andrejevic et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23367">2603.23367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23423.html">Ultrafast Sintering</a></div></td>
-<td>Jian Luo</td>
-<td><a href="http://arxiv.org/abs/2603.23423">2603.23423</a></td>
 </tr>
 </tbody></table>

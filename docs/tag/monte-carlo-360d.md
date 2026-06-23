@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">314 papers</span>
+  <span class="paper-count">313 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1892,11 +1892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22822.html">Size-Dependent Tensile Behavior of Nanocrystalline HfNbTaTiZr High-Entropy Alloy: Roles of Solid-Solution and Short-Range Order</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yihan Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22822">2506.22822</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22408.html">Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Luning Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22408">2506.22408</a></td>
 </tr>
 </tbody></table>

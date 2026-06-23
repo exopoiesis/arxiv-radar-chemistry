@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,29 +992,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24827.html">Permeation of hydrogen across graphdiyne: molecular dynamics vs. quantum simulations and role of membrane motion</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Mateo Rodríguez et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24827">2603.24827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11859.html">Martini Mapper: An Automated Fragment-Based Framework for Developing Coarse-Grained Models within the Martini 3 Framework</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Kevin V. Bigting et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11859">2511.11859</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02441.html">The contribution of nitrogen Frenkel-pair formation to the high-temperature heat capacity of uranium mononitride</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mohamed AbdulHameed et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02441">2603.02441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22810.html">Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Shuyu Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22810">2603.22810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23029.html">Fine-tuning of universal machine-learning interatomic potentials for 2D high-entropy alloys</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Chun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23029">2603.23029</a></td>
 </tr>
 </tbody></table>

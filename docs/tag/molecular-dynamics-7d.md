@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,29 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18477.html">Hydration-controlled twist forms a moiré glass in charge-frustrated layered silicates</a></div></td>
 <td>Juhyeok Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18477">2606.18477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>James F. Tallman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16385.html">Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Shuwei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16385">2606.16385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16500.html">Estimating the disjoining pressure of liquid nanofilms from molecular dynamics simulations via implicit treatment of the bulk liquid phase</a></div></td>
-<td>Wang Jianzhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16500">2606.16500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16550.html">Lattice Matching Dictates the Growth Mode and Quality of Deuterium Crystallization in Confined Spherical Shells</a></div></td>
-<td>Peng Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16550">2606.16550</a></td>
 </tr>
 </tbody></table>

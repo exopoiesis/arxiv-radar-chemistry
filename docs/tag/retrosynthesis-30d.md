@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>retrosynthesis — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <strong>30d</strong> <a href="retrosynthesis-90d.html">90d</a> <a href="retrosynthesis-360d.html">360d</a> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03660.html">From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Hongyu Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03660">2606.03660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24428.html">Representation-Guided Discrete Molecular Graph Retrosynthesis</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Jiahai Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24428">2605.24428</a></td>
 </tr>
 </tbody></table>

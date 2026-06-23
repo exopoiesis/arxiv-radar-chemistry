@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>band-gap — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Viktor Könye et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16604.html">Electronic Band Structure of Silicon Determined via a Variational Adiabatic Eigensolver: Theory and Experiment</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Xingrui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16604">2606.16604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16994.html">Hydrogen Chemisorption and Current-Induced Spin Polarization on NbP</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Luis Martinez-Gomez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16994">2606.16994</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -848,29 +848,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25270.html">Thermal PBE in warm dense matter: Does it matter and is it accurate?</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Kushal Ramakrishna et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25270">2605.25270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24334.html">Systematic comparison of approximations and functionals in first-principle calculations of aluminum-based III-V ferroelectric nitrides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Alejandro Mercado Tejerina et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24334">2605.24334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24376.html">Dilute Magnetism and Edge-State Engineering in Monolayer SnO</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Yuya Fukuta et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24376">2605.24376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24466.html">Intrinsic generation of angular momenta and entanglement in fission</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>B. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24466">2605.24466</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24768.html">Charge dynamics at nitrogen impurities and nitrogen-vacancy centers in diamond</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Chandan Kumar Vishwakarma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24768">2605.24768</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23361.html">Rethinking Molecular Graph Backdoors under Chemistry-aware Admission</a></div></td>
+<td>Thinh T. H. Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23361">2606.23361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23548.html">SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Nandana Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23548">2606.23548</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20906.html">MMGNN: Multi-level, multi-color graph neural networks for molecular property prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Trung Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20906">2606.20906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20916.html">Physics-Guided Dual-Stream Heterogeneous Graph Neural Network for Predicting Full-Field Structural Response of Stiffened Panels</a></div></td>
+<td>Yuecheng Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20916">2606.20916</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19133.html">Equivariant Graph Neural Networks Improve Optical Spectra Prediction for Materials Screening</a></div></td>
@@ -584,47 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02531.html">Causal Graph Neural Networks for Healthcare</a></div></td>
 <td>Munib Mesinovic et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02531">2511.02531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21491.html">Nodal Hybrid Neural Solvers for Parametric PDE Systems</a></div></td>
-<td>Yun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21491">2511.21491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05388.html">Knowledge Distillation of a Protein Language Model Yields a Foundational Implicit Solvent Model</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-llm-90d.html">protein-llm</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Justin Airas et al.</td>
-<td><a href="http://arxiv.org/abs/2601.05388">2601.05388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18719.html">Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Mohamed Youssef et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18719">2603.18719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23941.html">An Efficient High-Degree, High-Order Equivariant Graph Neural Network for Direct Crystal Structure Optimization</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Ziduo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23941">2603.23941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24304.html">CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization</a></div></td>
-<td>Bowen Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24304">2603.24304</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24360.html">Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ian Störmer et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24360">2603.24360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24752.html">Autotuning T-PaiNN: Enabling Data-Efficient GNN Interatomic Potential Development via Classical-to-Quantum Transfer Learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Vivienne Pelletier et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24752">2603.24752</a></td>
 </tr>
 </tbody></table>

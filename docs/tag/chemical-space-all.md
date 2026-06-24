@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-space — all</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19496.html">Calibrating Generative Models to Feature Distributions with MMD Finetuning</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a></div></td>
 <td>Nathaniel L. Diamant et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19496">2606.19496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20729.html">LLM-Guided Test-Time Discovery of Quantum-Chemical Approximation Algorithms</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="mlip-all.html">mlip</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Masaya Hagai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20729">2606.20729</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>

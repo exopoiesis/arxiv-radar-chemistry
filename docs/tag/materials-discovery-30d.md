@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22885.html">Interfacial-melt stability as a thermodynamic prerequisite for solid-state synthesis</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Zihan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22885">2606.22885</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22375.html">ARIA: A Causal-Aware Framework for Rescuing LLM Reasoning in Trustworthy Materials Discovery</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Yi Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22375">2606.22375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="mlip-30d.html">mlip</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Bin Cao</td>
+<td><a href="http://arxiv.org/abs/2606.22425">2606.22425</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21251.html">AI-accelerated metallized $σ$-bonding screening for superconductor discovery</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Zechen Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21251">2606.21251</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20729.html">LLM-Guided Test-Time Discovery of Quantum-Chemical Approximation Algorithms</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="mlip-30d.html">mlip</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Masaya Hagai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20729">2606.20729</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a></div></td>

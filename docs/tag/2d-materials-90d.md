@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23561.html">Electrochemical DNA Hairpin Sensors for Differentiating Small Molecule Intercalation from Minor Groove Binding</a></div></td>
+<td>Kiara Thompson et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23561">2606.23561</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jaehong Kwon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19780.html">Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -752,23 +764,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25652.html">Interfacial Polytype Engineering of Polymer-Derived SiC via Compositionally Complex MXene Templating</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
 <td>Yuxiang Gan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25652">2603.25652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19437.html">2D abrupt nano-junctions blending sp-sp2 bonds on atomically precise heterostructures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Alice Cartoceti et al.</td>
-<td><a href="http://arxiv.org/abs/2601.19437">2601.19437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16051.html">Twist-induced Out-of-plane Ferroelectricity in Bilayer Hafnia</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Jian Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16051">2602.16051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24496.html">Kinetics-Driven Selective Stoichiometric Shift and Structural Asymmetry in $Bi_4Te_3$ Nanostructures for Hybrid Quantum Architectures</a></div><div class="paper-tags"><a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Abdur Rehman Jalil et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24496">2603.24496</a></td>
 </tr>
 </tbody></table>

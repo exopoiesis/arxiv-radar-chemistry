@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-model — all</h1>
-  <span class="paper-count">766 papers</span>
+  <span class="paper-count">769 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23864.html">Generative Modeling for Physiological Signals</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Xinqi Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23864">2606.23864</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22718.html">Generative Relightable Avatars</a></div></td>
+<td>Kunwar Maheep Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22718">2606.22718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Sathya Edamadaka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19496.html">Calibrating Generative Models to Feature Distributions with MMD Finetuning</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="generative-model-all.html">generative-model</a></div></td>

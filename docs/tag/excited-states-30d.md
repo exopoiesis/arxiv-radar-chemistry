@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24750.html">Quantum nuclear and band-dispersion effects recover near-UV absorption in short-hydrogen-bonded organic crystals</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24750">2606.24750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23084.html">Local and Charge-Transfer Excitation of Pentacene-Buckminsterfullerene complexes</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Ala Aldin M. Hani M. Darghouth et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23084">2606.23084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21125.html">SALMON 2.3: Implementation of divide-and-conquer ground-state initialization for large-scale real-time TDDFT</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
+<td>Shunsuke Yamada et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21125">2606.21125</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16604.html">Electronic Band Structure of Silicon Determined via a Variational Adiabatic Eigensolver: Theory and Experiment</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23334.html">Hexagonal Boron Nitride Spin Defects for Quantum Photonics: Annealing-Free Generation by Krypton Ion Implantation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Ikshvaku Shyam et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23334">2606.23334</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22341.html">Full Configuration Interaction Quantum Monte Carlo for Accurate $\textit{Ab Initio}$ Nuclear Structure Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Rongzhe Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22341">2606.22341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21284.html">MADField: Multi-fidelity Amortized Density Field for Adsorption in Nanoporous Materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mof-90d.html">mof</a></div></td>
+<td>Yoonho Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21284">2606.21284</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19780.html">Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -494,29 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25381.html">Enabling ab initio geometry optimization of strongly correlated systems with transferable deep quantum Monte Carlo</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
 <td>P. Bernát Szabó et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25381">2603.25381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09240.html">Phenomenological Modeling of the $^{163}$Ho Calorimetric Electron Capture Spectrum from the HOLMES Experiment</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>F. Ahrens et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09240">2507.09240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24382.html">MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Xiangsen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24382">2603.24382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24701.html">Bound states of anyons: a geometric quantization approach</a></div></td>
-<td>Qingchen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24701">2603.24701</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24728.html">Auto-regressive Neural Quantum State Sampling for Selected Configuration Interaction</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Shane Thompson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24728">2603.24728</a></td>
 </tr>
 </tbody></table>

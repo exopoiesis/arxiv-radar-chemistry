@@ -7,9 +7,30 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23977.html">A Comparative Study of Bayesian Contextual Bandits for Real-Time Warehouse Sorter Optimization</a></div></td>
+<td>Tina Dongxu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23977">2606.23977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
+<td>Bin Cao</td>
+<td><a href="http://arxiv.org/abs/2606.22425">2606.22425</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21948.html">Active learning-based Bayesian optimization in the realm of copper slag-blended cement systems</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a></div></td>
+<td>Debadri Som et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21948">2606.21948</a></td>
+</tr>
+</tbody></table>

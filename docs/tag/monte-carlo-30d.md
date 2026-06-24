@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23334.html">Hexagonal Boron Nitride Spin Defects for Quantum Photonics: Annealing-Free Generation by Krypton Ion Implantation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Ikshvaku Shyam et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23334">2606.23334</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22341.html">Full Configuration Interaction Quantum Monte Carlo for Accurate $\textit{Ab Initio}$ Nuclear Structure Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Rongzhe Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22341">2606.22341</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21284.html">MADField: Multi-fidelity Amortized Density Field for Adsorption in Nanoporous Materials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mof-30d.html">mof</a></div></td>
+<td>Yoonho Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21284">2606.21284</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19780.html">Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
@@ -104,29 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27218.html">Amorphous vs. Short-Range-Ordered Complexions: Consequences for Grain-Boundary-Mediated Plasticity in Nanocrystalline Al-Ni Alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Frederic Sansoz et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27218">2605.27218</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24880.html">Machine-learned atomistic simulations reveal the basis of hydrogen-induced crack-plane transition in alpha-Fe</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jiaqin Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24880">2605.24880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25032.html">Target-Distribution-Guided Cross-Functional Fine-Tuning of Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Yuki Nagai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25032">2605.25032</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25236.html">Composition-Driven High-Entropy Alloys with Enhanced Magnetocaloric Properties</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Nishant Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25236">2605.25236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25270.html">Thermal PBE in warm dense matter: Does it matter and is it accurate?</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Kushal Ramakrishna et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25270">2605.25270</a></td>
 </tr>
 </tbody></table>

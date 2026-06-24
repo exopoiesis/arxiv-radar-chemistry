@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure — all</h1>
-  <span class="paper-count">519 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24097.html">Reversible non-equilibrium phase transformation in amorphous germanium</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Yang Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24097">2606.24097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24239.html">One-dimensional self-organization of water molecules in proton conducting Andersson-Wadsley titanates</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Mathilde Arnaud et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24239">2606.24239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22866.html">Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Kiyoung Seong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22866">2606.22866</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Sathya Edamadaka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21441.html">Bulk Photovoltaic Effect in Two-Dimensional Perovskite Oxides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Chunmei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21441">2606.21441</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18903.html">First-Principles Study of Novel Lead-Free Double Perovskite \b{eta}2SnGeX6 (\b{eta} = K, Rb; X = Cl, Br, I) for thermomechanical, optoelectronic and outstanding thermoelectric applications</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>

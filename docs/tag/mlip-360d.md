@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">588 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24480.html">Breaking Bottlenecks in Solid Electrolyte Discovery with Large Artificial Intelligence Models</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Eric Jianfeng Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24480">2606.24480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24750.html">Quantum nuclear and band-dispersion effects recover near-UV absorption in short-hydrogen-bonded organic crystals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24750">2606.24750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23214.html">Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23214">2606.23214</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23328.html">Reactive Force Field for P/Sn/I System: Atomistic Insight into the Early Stage of Black Phosphorus and Phosphorene Synthesis Process</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Djuric Brice Talonpa Tchoffo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23328">2606.23328</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Bin Cao</td>
+<td><a href="http://arxiv.org/abs/2606.22425">2606.22425</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21796.html">The FAST Framework: Developing a Data-Efficient Machine Learning Potential to Decode Superionic Transition-Induced Thermophysical and Kinetic Anomalies in UO2 under Extreme Conditions</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Fengnian Zhuang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21796">2606.21796</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19798.html">MinSurf: resolving the atomic-scale stability landscape of mineral surfaces</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
@@ -44,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xiaoya Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20729.html">LLM-Guided Test-Time Discovery of Quantum-Chemical Approximation Algorithms</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Masaya Hagai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20729">2606.20729</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -3530,17 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11199.html">Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Selva Chandrasekaran Selvaraj et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11199">2506.11199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04133.html">The JARVIS Infrastructure is All You Need for Materials Design</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Kamal Choudhary</td>
-<td><a href="http://arxiv.org/abs/2503.04133">2503.04133</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22822.html">Size-Dependent Tensile Behavior of Nanocrystalline HfNbTaTiZr High-Entropy Alloy: Roles of Solid-Solution and Short-Range Order</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Yihan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22822">2506.22822</a></td>
 </tr>
 </tbody></table>

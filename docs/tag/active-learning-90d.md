@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>active-learning — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <strong>90d</strong> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21948.html">Active learning-based Bayesian optimization in the realm of copper slag-blended cement systems</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
+<td>Debadri Som et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21948">2606.21948</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21796.html">The FAST Framework: Developing a Data-Efficient Machine Learning Potential to Decode Superionic Transition-Induced Thermophysical and Kinetic Anomalies in UO2 under Extreme Conditions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Fengnian Zhuang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21796">2606.21796</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -206,23 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00069.html">Perspective: Towards sustainable exploration of chemical spaces with machine learning</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Leonardo Medrano Sandonas et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00069">2604.00069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.06571.html">Beyond Predicted ZT: Machine Learning Strategies for the Experimental Discovery of Thermoelectric Materials</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Shoeb Athar et al.</td>
-<td><a href="http://arxiv.org/abs/2601.06571">2601.06571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24482.html">Fine-tuning universal machine learning potentials for transition state search in surface catalysis</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Raffaele Cheula et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24482">2603.24482</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24498.html">Using Educational Comics in Physics Teaching for Chemistry and Biochemistry Students: Impact on Motivation and Domain-Specific Conceptual Gains</a></div></td>
-<td>Mauricio Echiburu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24498">2603.24498</a></td>
 </tr>
 </tbody></table>

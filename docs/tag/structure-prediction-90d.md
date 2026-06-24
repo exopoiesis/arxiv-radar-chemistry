@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22866.html">Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Kiyoung Seong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22866">2606.22866</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21241.html">Assessing Cost Hamiltonian Reliability in Quantum Protein Structure Prediction</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Mathieu Roget et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21241">2606.21241</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Sathya Edamadaka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19377.html">Emyx: Fast and efficient all-atom protein generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
@@ -230,17 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26994.html">ImmSET: Sequence-Based Predictor of TCR-pMHC Specificity at Scale</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Marco Garcia Noceda et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26994">2603.26994</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21201.html">Efficient Crystal Structure Prediction Using Universal Neural Network Potential with Diversity Preservation in Genetic Algorithms</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Takuya Shibayama et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21201">2503.21201</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23941.html">An Efficient High-Degree, High-Order Equivariant Graph Neural Network for Direct Crystal Structure Optimization</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Ziduo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23941">2603.23941</a></td>
 </tr>
 </tbody></table>

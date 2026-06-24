@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22731.html">Closed-loop Auto Research for Molecular Property Prediction: Discovering and Certifying Generalizable Improvements</a></div></td>
+<td>Jingjie Ning et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22731">2606.22731</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20906.html">MMGNN: Multi-level, multi-color graph neural networks for molecular property prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Trung Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20906">2606.20906</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18390.html">MOLAR: Learning Multimodal Molecular Representations from Noisy Labels</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
@@ -368,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25857.html">In-Context Molecular Property Prediction with LLMs: A Blinding Study on Memorization and Knowledge Conflicts</a></div></td>
 <td>Matthias Busch et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25857">2603.25857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24382.html">MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Xiangsen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24382">2603.24382</a></td>
 </tr>
 </tbody></table>

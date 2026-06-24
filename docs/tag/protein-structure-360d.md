@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">261 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24779.html">DeepBD: A Grounded Agentic Workflow for Variant Prioritization and Diagnosis of Genetic Birth Defects</a></div></td>
+<td>Shiyu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24779">2606.24779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21241.html">Assessing Cost Hamiltonian Reliability in Quantum Protein Structure Prediction</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Mathieu Roget et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21241">2606.21241</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1568,11 +1580,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02624.html">A Matrix Variational Auto-Encoder for Variant Effect Prediction in Pharmacogenes</a></div></td>
 <td>Antoine Honoré et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02624">2507.02624</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04734.html">What can large language models do for sustainable food?</a></div></td>
-<td>Anna T. Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2503.04734">2503.04734</a></td>
 </tr>
 </tbody></table>

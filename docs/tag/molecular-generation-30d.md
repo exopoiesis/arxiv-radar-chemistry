@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-generation — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23856.html">Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Konstantin Yatsenko et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23856">2606.23856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22377.html">Multigrid Training for Molecular Generation using Graph Neural Networks</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Zixuan Ling et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22377">2606.22377</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13451.html">Uncertainty Estimation for Molecular Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
@@ -80,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28226.html">PhAME: Phenotype-Aware Molecular Editing via Latent Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Łukasz Janisiów et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28226">2605.28226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24841.html">DriftingMol: Decoder-Coupled Drift for One-Pass Property-Conditional Molecular Generation</a></div></td>
-<td>Jiangjie Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24841">2605.24841</a></td>
 </tr>
 </tbody></table>

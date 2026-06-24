@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24494.html">Magnetoelectric flat band induced by a $\sqrt{3}\times\sqrt{3}$ charge density wave in monolayer CrSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Pablo Savino et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24494">2606.24494</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22256.html">Van Hove Singularity and Phase Instability: Exploring the Role of Electron Correlation in the Magnetic Behavior of $\mathrm{Fe}_{16}\mathrm{N}_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Peter Stoeckl et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22256">2606.22256</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20500.html">A Defect-Free Model of Amorphous Silicon with Pristine Electronic Structure</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Louise A. M. Rosset et al.</td>
@@ -152,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25898.html">Superconductivity and electronic structure evolution in the enforced semimetal Fe-doped ZrTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>L. M. Ishikura et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25898">2605.25898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25219.html">Exploring Multi-Transition-Metal NASICON Frameworks as High-Performance Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Santosh Behara et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25219">2605.25219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25236.html">Composition-Driven High-Entropy Alloys with Enhanced Magnetocaloric Properties</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Nishant Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25236">2605.25236</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23561.html">Electrochemical DNA Hairpin Sensors for Differentiating Small Molecule Intercalation from Minor Groove Binding</a></div></td>
+<td>Kiara Thompson et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23561">2606.23561</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jaehong Kwon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19780.html">Thickness-Dependent Interlayer Coupling and Semiconductor-to-Semimetal Crossover in Arsenene Multilayers</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>Jeonghwan Ahn et al.</td>
@@ -38,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19653.html">Coordination-Sensitive Nanoscale Analysis of Defect-Driven Phase Transformation in Si-Doped (AlXGa1-X)2O3</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
 <td>Shaon Das et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19653">2606.19653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17469.html">Lifetime Sample Tracking (LiST): A Data Platform for Materials Science</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Anthony Richardella et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17469">2606.17469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Viktor Könye et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
 </tr>
 </tbody></table>

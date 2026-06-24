@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23864.html">Generative Modeling for Physiological Signals</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Xinqi Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23864">2606.23864</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22718.html">Generative Relightable Avatars</a></div></td>
+<td>Kunwar Maheep Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22718">2606.22718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Sathya Edamadaka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19496.html">Calibrating Generative Models to Feature Distributions with MMD Finetuning</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
@@ -596,29 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="string-method-90d.html">string-method</a></div></td>
 <td>Hyukjun Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25980">2603.25980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14989.html">Constrained Diffusion for Protein Design with Hard Structural Constraints</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Jacob K. Christopher et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14989">2510.14989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04854.html">SigmaDock: Untwisting Molecular Docking With Fragment-Based SE(3) Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Alvaro Prat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04854">2511.04854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18719.html">Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Mohamed Youssef et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18719">2603.18719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23856.html">A simple model for conserved intracellular dynamics exhibits multiscale pattern formation, traveling protein domains and arrested coarsening of lipids in the membrane</a></div></td>
-<td>Benjamin Winkler et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23856">2603.23856</a></td>
 </tr>
 </tbody></table>

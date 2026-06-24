@@ -22,9 +22,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.19496">2606.19496</a></td>
 </tr>
 <tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Dong Hyeon Mok et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20729.html">LLM-Guided Test-Time Discovery of Quantum-Chemical Approximation Algorithms</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
+<td>Masaya Hagai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20729">2606.20729</a></td>
 </tr>
 </tbody></table>

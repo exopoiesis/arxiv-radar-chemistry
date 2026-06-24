@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24494.html">Magnetoelectric flat band induced by a $\sqrt{3}\times\sqrt{3}$ charge density wave in monolayer CrSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Pablo Savino et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24494">2606.24494</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12104.html">Proximity-induced unconventional superconductivity and chiral topological phases in twisted graphene/NbSe$_2$ van der Waals heterostructure</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Adam Hložný et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25475.html">Stabilization of zigzag order in NiPS$_3$ via positive biquadratic interaction</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Qiang Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25475">2603.25475</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24496.html">Kinetics-Driven Selective Stoichiometric Shift and Structural Asymmetry in $Bi_4Te_3$ Nanostructures for Hybrid Quantum Architectures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Abdur Rehman Jalil et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24496">2603.24496</a></td>
 </tr>
 </tbody></table>

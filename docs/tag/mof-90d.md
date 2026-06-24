@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mof — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <strong>90d</strong> <a href="mof-360d.html">360d</a> <a href="mof-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21284.html">MADField: Multi-fidelity Amortized Density Field for Adsorption in Nanoporous Materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Yoonho Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21284">2606.21284</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13588.html">Cepstral Analysis to accelerate Green-Kubo thermal conductivity calculations of Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>

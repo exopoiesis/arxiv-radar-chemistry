@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24494.html">Magnetoelectric flat band induced by a $\sqrt{3}\times\sqrt{3}$ charge density wave in monolayer CrSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Pablo Savino et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24494">2606.24494</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22256.html">Van Hove Singularity and Phase Instability: Exploring the Role of Electron Correlation in the Magnetic Behavior of $\mathrm{Fe}_{16}\mathrm{N}_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Peter Stoeckl et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22256">2606.22256</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20500.html">A Defect-Free Model of Amorphous Silicon with Pristine Electronic Structure</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Louise A. M. Rosset et al.</td>
@@ -26,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19653.html">Coordination-Sensitive Nanoscale Analysis of Defect-Driven Phase Transformation in Si-Doped (AlXGa1-X)2O3</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
 <td>Shaon Das et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19653">2606.19653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17658.html">Ground-state properties of the $S=3/2$ anisotropic triangular lattice antiferromagnet Na$_3$Cr(PO$_4$)$_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>A. Magar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17658">2606.17658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17870.html">Robust Signatures of Fragile Topology</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Viktor Könye et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17870">2606.17870</a></td>
 </tr>
 </tbody></table>

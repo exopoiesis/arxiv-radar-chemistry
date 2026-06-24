@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23745.html">JEDEL: Zero-Shot DNA-Encoded Library Design for Early-Stage Drug Discovery</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
+<td>Zygimantas Jocys et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23745">2606.23745</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18703.html">Contextualizing Biological Language Models across Modalities via Logit-Space Contrastive Alignment</a></div></td>
@@ -242,17 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00550.html">BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Yao Qin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00550">2604.00550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02578.html">FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Julian Cremer et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02578">2510.02578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04854.html">SigmaDock: Untwisting Molecular Docking With Fragment-Based SE(3) Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Alvaro Prat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04854">2511.04854</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Bin Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23571">2606.23571</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24494.html">Magnetoelectric flat band induced by a $\sqrt{3}\times\sqrt{3}$ charge density wave in monolayer CrSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Pablo Savino et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24494">2606.24494</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23140.html">Unconventional topological Hall response and anisotropic magnetotransport properties of a helical magnet EuAuAs</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Anyesh Saraswati et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23140">2606.23140</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23736.html">From Magnetic to Inverse Magnetic Catalysis: The Interplay of Quark and Gluon Mass Generation in Magnetic Fields</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
+<td>Fei Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23736">2606.23736</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22256.html">Van Hove Singularity and Phase Instability: Exploring the Role of Electron Correlation in the Magnetic Behavior of $\mathrm{Fe}_{16}\mathrm{N}_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Peter Stoeckl et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22256">2606.22256</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19954.html">Strain- and Electric-Field-Tunable Valley Polarization in Mo0.75V0.25Te2(Mo3VTe8) for Valleytronic Application</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="tmd-30d.html">tmd</a></div></td>
@@ -164,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26073.html">Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Jin Ho Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26073">2605.26073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24857.html">Revisiting spin Hamiltonian parameters in a Kitaev material via Bayesian optimization of magnetization curves</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
-<td>Takahiro Misawa et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24857">2605.24857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25236.html">Composition-Driven High-Entropy Alloys with Enhanced Magnetocaloric Properties</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Nishant Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25236">2605.25236</a></td>
 </tr>
 </tbody></table>

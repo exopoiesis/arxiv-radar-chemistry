@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20805.html">Distribution Complexity of Electronic Structure Simulations on Quantum Supercomputers</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Jason Necaise et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20805">2606.20805</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15801.html">MAPS: A Novel Multi-Axial Projective Sphere for Geometrically Visualizing Higher d-Valued Quantum State-Space of Qudits</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Ali Al-Bayaty</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26904.html">Are LLMs Good For Quantum Software, Architecture, and System Design?</a></div></td>
 <td>Sourish Wawdhane et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26904">2603.26904</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24298.html">SpinGQE: A Generative Quantum Eigensolver for Spin Hamiltonians</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Alexander Holden et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24298">2603.24298</a></td>
 </tr>
 </tbody></table>

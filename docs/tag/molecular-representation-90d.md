@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22377.html">Multigrid Training for Molecular Generation using Graph Neural Networks</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
+<td>Zixuan Ling et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22377">2606.22377</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22663.html">High-Resolution Probing of Molecular Junctions: Vibrational Fingerprinting and Parameter Extraction via Current Noise Spectroscopy</a></div></td>
+<td>Rani Arielly</td>
+<td><a href="http://arxiv.org/abs/2606.22663">2606.22663</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18390.html">MOLAR: Learning Multimodal Molecular Representations from Noisy Labels</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Yingxu Wang et al.</td>
@@ -242,17 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08575.html">MolPaQ: Modular Quantum-Classical Patch Learning for Interpretable Molecular Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Syed Rameez Naqvi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08575">2604.08575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25755.html">KANEL: Kolmogorov-Arnold Network Ensemble Learning Enables Early Hit Enrichment in High-Throughput Virtual Screening</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Pavel Koptev et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25755">2603.25755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26790.html">Elucidating the Design Space of Flow Matching for Cellular Microscopy</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Charles Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26790">2603.26790</a></td>
 </tr>
 </tbody></table>

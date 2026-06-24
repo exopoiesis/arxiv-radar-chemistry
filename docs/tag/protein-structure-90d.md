@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24779.html">DeepBD: A Grounded Agentic Workflow for Variant Prioritization and Diagnosis of Genetic Birth Defects</a></div></td>
+<td>Shiyu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24779">2606.24779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21241.html">Assessing Cost Hamiltonian Reliability in Quantum Protein Structure Prediction</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Mathieu Roget et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21241">2606.21241</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>James F. Tallman et al.</td>
@@ -320,17 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26110.html">TurboESM: Ultra-Efficient 3-Bit KV Cache Quantization for Protein Language Models with Orthogonal Rotation and QJL Correction</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Yue Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26110">2603.26110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14989.html">Constrained Diffusion for Protein Design with Hard Structural Constraints</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Jacob K. Christopher et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14989">2510.14989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05388.html">Knowledge Distillation of a Protein Language Model Yields a Foundational Implicit Solvent Model</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Justin Airas et al.</td>
-<td><a href="http://arxiv.org/abs/2601.05388">2601.05388</a></td>
 </tr>
 </tbody></table>

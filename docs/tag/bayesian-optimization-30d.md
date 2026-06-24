@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23977.html">A Comparative Study of Bayesian Contextual Bandits for Real-Time Warehouse Sorter Optimization</a></div></td>
+<td>Tina Dongxu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23977">2606.23977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Bin Cao</td>
+<td><a href="http://arxiv.org/abs/2606.22425">2606.22425</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21948.html">Active learning-based Bayesian optimization in the realm of copper slag-blended cement systems</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a></div></td>
+<td>Debadri Som et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21948">2606.21948</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
@@ -50,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29560.html">Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation</a></div></td>
 <td>Jiawei Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29560">2605.29560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24857.html">Revisiting spin Hamiltonian parameters in a Kitaev material via Bayesian optimization of magnetization curves</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Takahiro Misawa et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24857">2605.24857</a></td>
 </tr>
 </tbody></table>

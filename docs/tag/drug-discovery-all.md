@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1019 papers</span>
+  <span class="paper-count">1022 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23856.html">Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Konstantin Yatsenko et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23856">2606.23856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22677.html">Selectivity in tip-induced skeletal editing via heteroatom substitution</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
+<td>Shantanu Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22677">2606.22677</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Sathya Edamadaka et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14159.html">Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>

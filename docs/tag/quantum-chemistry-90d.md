@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20184.html">Operator Learning for efficient Quantum Computation</a></div></td>
 <td>Paul Over et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20184">2606.20184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20805.html">Distribution Complexity of Electronic Structure Simulations on Quantum Supercomputers</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Jason Necaise et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20805">2606.20805</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20729.html">LLM-Guided Test-Time Discovery of Quantum-Chemical Approximation Algorithms</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Masaya Hagai et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20729">2606.20729</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -596,23 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26359.html">Automated near-term quantum algorithm discovery for molecular ground states</a></div></td>
 <td>Fabian Finger et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26359">2603.26359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24298.html">SpinGQE: A Generative Quantum Eigensolver for Spin Hamiltonians</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Alexander Holden et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24298">2603.24298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24399.html">Qcombo: A Python Package for Automated Commutator Calculations of Quantum Many-Body Operators</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>L. H. Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24399">2603.24399</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24728.html">Auto-regressive Neural Quantum State Sampling for Selected Configuration Interaction</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Shane Thompson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24728">2603.24728</a></td>
 </tr>
 </tbody></table>

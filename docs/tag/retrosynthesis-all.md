@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>retrosynthesis — all</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <a href="retrosynthesis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24184.html">Project Ariadne: Prompt-Conditioned Route Generation for Synthesis Planning</a></div></td>
+<td>Anton Morgunov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24184">2606.24184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23745.html">JEDEL: Zero-Shot DNA-Encoded Library Design for Early-Stage Drug Discovery</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td>Zygimantas Jocys et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23745">2606.23745</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12113.html">Augmenting Molecular Language Models with Local $n$-gram Memory</a></div><div class="paper-tags"><a href="molecular-llm-all.html">molecular-llm</a></div></td>

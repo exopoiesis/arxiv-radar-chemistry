@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">382 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2306,41 +2306,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26649.html">Beyond the Quantum Picture: The Electrodynamic Origin of Chiral Nanoplasmonics</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Vasil Saroka et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26649">2603.26649</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24901.html">The ground state of CuInP$_2$S$_6$ thin films: A study of the deep potential method</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Shengxian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24901">2603.24901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25271.html">Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>S. Chattopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25271">2603.25271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25371.html">Complementary Eigen-Zundel Interpretation Reconciles Thermodynamics and Spectroscopy of Excess Protons in Aqueous HF Solutions</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Louis Lehmann et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25371">2603.25371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25381.html">Enabling ab initio geometry optimization of strongly correlated systems with transferable deep quantum Monte Carlo</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>P. Bernát Szabó et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25381">2603.25381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25616.html">General-Purpose Machine-Learned Potential for CrCoNi Alloys Enabling Large-Scale Atomistic Simulations with First-Principles Accuracy</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Yong-Chao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25616">2603.25616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25878.html">Room-temperature antiferromagnetic resonance in NaMnAs</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Jan Dzian et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25878">2603.25878</a></td>
 </tr>
 </tbody></table>

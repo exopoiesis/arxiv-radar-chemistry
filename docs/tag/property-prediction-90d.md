@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,17 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26415.html">KMM-CP: Practical Conformal Prediction under Covariate Shift via Selective Kernel Mean Matching</a></div></td>
 <td>Siddhartha Laghuvarapu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26415">2603.26415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05696.html">SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Bohao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05696">2408.05696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25857.html">In-Context Molecular Property Prediction with LLMs: A Blinding Study on Memorization and Knowledge Conflicts</a></div></td>
-<td>Matthias Busch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25857">2603.25857</a></td>
 </tr>
 </tbody></table>

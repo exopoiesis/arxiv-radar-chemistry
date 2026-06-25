@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">365 papers</span>
+  <span class="paper-count">363 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2192,17 +2192,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23699.html">Development and validation of an electron temperature-dependent interaction potential for silicon and copper for the use in atomistic simulations of laser ablation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Simon Kümmel et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23699">2506.23699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23229.html">On Boltzmann Averaging in Ab Initio Thermodynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Hendrik H. Heenen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23229">2506.23229</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23272.html">Towards Large-Scale Condensed Phase Simulations using Machine Learned Energy Functions</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Eric D. Boittier et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23272">2506.23272</a></td>
 </tr>
 </tbody></table>

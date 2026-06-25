@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,23 +746,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08575.html">MolPaQ: Modular Quantum-Classical Patch Learning for Interpretable Molecular Generation</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Syed Rameez Naqvi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08575">2604.08575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17374.html">Generative modeling of conditional probability distributions on the level-sets of collective variables</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a></div></td>
-<td>Fatima-Zahrae Akhyar et al.</td>
-<td><a href="http://arxiv.org/abs/2512.17374">2512.17374</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09929.html">Monocular Normal Estimation via Shading Sequence Estimation</a></div></td>
-<td>Zongrui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09929">2602.09929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25980.html">A Priori Sampling of Transition States with Guided Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="string-method-90d.html">string-method</a></div></td>
-<td>Hyukjun Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25980">2603.25980</a></td>
 </tr>
 </tbody></table>

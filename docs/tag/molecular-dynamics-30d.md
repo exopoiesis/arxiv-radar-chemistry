@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,59 +662,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div></td>
 <td>Simon Gonzalez-Zapata et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25361.html">An Efficient On-the-Fly Nonadiabatic Coupling Framework</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Xiaoke He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25361">2605.25361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25465.html">AI-Driven SERS for Non-invasive and Label-Free Extracellular Vesicle Detection Across Cellular Origins in Tears and Sweat</a></div></td>
-<td>Yang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25465">2605.25465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25485.html">Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study</a></div></td>
-<td>Po-Yen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25485">2605.25485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25702.html">Terahertz-induced local-field dynamics and transient birefringence in aqueous electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
-<td>Naveen Kumar Kaliannan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25702">2605.25702</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25714.html">Chain conformations in adsorbed layer during polymer capillary imbibition</a></div></td>
-<td>Tao Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25714">2605.25714</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25926.html">Freezing of the tetrahedral amorphous network in supercooled water triggers crystallization towards LDA ice</a></div></td>
-<td>Ashutosh Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25926">2605.25926</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25989.html">Beyond Gaussian Statistics in Polymer Melts: Statistical Masking of Persistent Local Constraints</a></div></td>
-<td>José A. Martins</td>
-<td><a href="http://arxiv.org/abs/2605.25989">2605.25989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26280.html">CNN-Based Online Trigger for QGP Event Selection</a></div></td>
-<td>Olga Soloveva et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26280">2605.26280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26364.html">Finite Temperature Stacking Fault Stability in Random and Locally Ordered CoCrNi beyond the Harmonic Approximation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Reza Namakian et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26364">2605.26364</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,41 +914,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27344.html">Real-time nuclear-electronic orbital time-dependent density functional theory with a constrained traveling proton basis</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
 <td>Nicholas J. Boyer et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27344">2605.27344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25351.html">Anomalous Subsurface Vacancy Stabilization Dictated by Geometry-Electronic Decoupling on Metal Surfaces</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Yiming Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25351">2605.25351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25369.html">Effects of Band Symmetry on Spin-Dependent Transport in Noncollinear Antiferromagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Mohamed Elekhtiar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25369">2605.25369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25982.html">Light-Induced Transient Polarization Reversal in Rhombohedrally Stacked Bilayer Transition-Metal Dichalcogenides via an Electronic Mechanism</a></div><div class="paper-tags"><a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Xiangzhou Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25982">2605.25982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26088.html">Multipole tomography of atomic nuclei with conserved symmetries</a></div></td>
-<td>X. Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26088">2605.26088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26179.html">AutoDFT: A Closed-Loop Multi-Agent Framework for Autonomous DFT Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Penghui Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26179">2605.26179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26364.html">Finite Temperature Stacking Fault Stability in Random and Locally Ordered CoCrNi beyond the Harmonic Approximation</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Reza Namakian et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26364">2605.26364</a></td>
 </tr>
 </tbody></table>

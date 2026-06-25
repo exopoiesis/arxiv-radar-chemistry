@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,17 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26519.html">Generating function for Hermitian and non-Hermitian models</a></div></td>
 <td>Hua-Yu Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26519">2603.26519</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00448.html">Possibility of ferro-octupolar order in Ba$_2$CaOsO$_6$ assessed by X-ray magnetic dichroism measurements</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Goro Shibata et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00448">2510.00448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25271.html">Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>S. Chattopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25271">2603.25271</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,17 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02508.html">Structural reconstruction as the origin of the cuprate pseudogap</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Sophie Beck et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02508">2511.02508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26281.html">Sign control of photocurrents by spin-group-symmetry breaking in altermagnetic insulators</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Gastón Blatter et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26281">2603.26281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26545.html">Evaluation of QED cross sections in strong magnetic fields</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Olavi Kiuru</td>
-<td><a href="http://arxiv.org/abs/2603.26545">2603.26545</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25502.html">A Differentiable DFT-Based Framework for Inverse Materials Design</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Kohei Ishii et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25502">2606.25502</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Bin Shao et al.</td>
@@ -2582,11 +2588,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01220.html">Probing aqueous interfaces with spin defects</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Alfonso Castillo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01220">2507.01220</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23494.html">Multiple Photon Field-induced Topological States in Bulk HgTe</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Dongbin Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23494">2506.23494</a></td>
 </tr>
 </tbody></table>

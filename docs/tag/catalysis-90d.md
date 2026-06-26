@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -452,29 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29269.html">Determining the NJL Coupling and AMM in Magnetized QCD Matter via Machine Learning</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Zigeng Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29269">2603.29269</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jack Jon Hinsch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26201.html">The Unreconstructed α-Al$_{2}$O$_{3}$(0001) Surface is Inhomogeneous and Rough</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Johanna I. Hütner-Reisch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26201">2603.26201</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26545.html">Evaluation of QED cross sections in strong magnetic fields</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Olavi Kiuru</td>
-<td><a href="http://arxiv.org/abs/2603.26545">2603.26545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26649.html">Beyond the Quantum Picture: The Electrodynamic Origin of Chiral Nanoplasmonics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Vasil Saroka et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26649">2603.26649</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>crystal-structure — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <strong>90d</strong> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01223.html">Electronic structure and correlation of La$_4$Co$_2$NiO$_8$Cl$_2$: a theoretical proposal for a La$_4$Ni$_3$O$_{10}$-like high-temperature superconductor</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Si-Yong Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01223">2604.01223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08579.html">Phenothiazine-Based Self-Assembled Monolayer with Thiophene Head Groups Minimizes Buried Interface Losses in Tin Perovskite Solar Cells</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Valerio Stacchini et al.</td>
-<td><a href="http://arxiv.org/abs/2502.08579">2502.08579</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25996.html">Assessing the classicality of photon echo from excitons in lead halide perovskite nanocrystals</a></div></td>
-<td>George Alkhalil et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25996">2603.25996</a></td>
 </tr>
 </tbody></table>

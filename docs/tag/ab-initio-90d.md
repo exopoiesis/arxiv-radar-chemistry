@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">382 papers</span>
+  <span class="paper-count">375 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25502.html">A Differentiable DFT-Based Framework for Inverse Materials Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Kohei Ishii et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25502">2606.25502</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -2258,53 +2264,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27212.html">Temperature dependence of the dynamic structure factor of the electron liquid via analytic continuation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Thomas Chuna et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27212">2603.27212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21381.html">Systematically improved potential energy surfaces via sinNN models and sparse grid sampling</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Antoine Aerts</td>
-<td><a href="http://arxiv.org/abs/2504.21381">2504.21381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06953.html">Surface hopping simulations show valley depolarization driven by exciton-phonon resonance</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Alex Krotz et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06953">2505.06953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15570.html">A finite-element Delta-Sternheimer approach for computing accurate all-electron RPA correlation energies of polyatomic molecules</a></div></td>
-<td>Hao Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15570">2510.15570</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26060.html">ZEBRA-Prop: A Zero-Shot Embedding-Based Rapid and Accessible Regression Model for Materials Properties</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Ryoma Yamamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26060">2603.26060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26265.html">Inelastic nucleon-nucleus scattering from a microscopic point of view</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Matteo Vorabbi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26265">2603.26265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26304.html">Antiferromagnetic stripe phase and large-gap insulating ground state of the correlated $\sqrt{3}\times\sqrt{3}$~R30$^{\circ}$-Sn/Si(111) single atomic layer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Mohammadmehdi Torkzadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26304">2603.26304</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26386.html">Coherent Ultrafast Excitonic Oscillations in Monolayer WS$_2$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Jorge Cervantes-Villanueva et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26386">2603.26386</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26649.html">Beyond the Quantum Picture: The Electrodynamic Origin of Chiral Nanoplasmonics</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Vasil Saroka et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26649">2603.26649</a></td>
 </tr>
 </tbody></table>

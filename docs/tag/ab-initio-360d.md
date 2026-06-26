@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1603 papers</span>
+  <span class="paper-count">1594 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25502.html">A Differentiable DFT-Based Framework for Inverse Materials Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Kohei Ishii et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25502">2606.25502</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
@@ -9572,65 +9578,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00590.html">Unveiling the impact of trivalent metal cation transmutation on Cs$_{2}$AgM(III)Cl$_{6}$ double perovskites using many-body perturbation theory</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Surajit Adhikari et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00590">2507.00590</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10940.html">High-resolution spectroscopy of barium monofluoride: Odd isotopologues, hyperfine structure and isotope shifts</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Felix Kogel et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10940">2506.10940</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11199.html">Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Selva Chandrasekaran Selvaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11199">2506.11199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16977.html">Influence of the Effective Mass on ab initio Phonon-limited Electron Mobility of GaAs</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mohammad Dehghani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16977">2506.16977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23570.html">First-Principles Insights into Excitonic and Electron-Phonon Effects in van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Mohammad Ali Mohebpour et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23570">2506.23570</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23598.html">Topological Electronic and phononic chiral edge states in SiTc Crystal</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shivendra Kumar Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23598">2506.23598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23809.html">Large-scale Neural Network Quantum States for ab initio Quantum Chemistry Simulations on Fugaku</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Hongtao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23809">2506.23809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23945.html">Multi-plateau high-harmonic generation in liquids driven by off-site recombination</a></div></td>
-<td>Angana Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23945">2506.23945</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23993.html">Half-metallicity and anomalous Slater-Pauling behaviour in half-Heusler CrMnSb</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Himanshu Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23993">2506.23993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00300.html">Engineering NV Centers via Hydrogen-Driven Defect Chemistry in CVD Diamonds for Quantum Applications: NVHx Dissociations into NV, Origin of 468nm Center, and Cause of Brown Coloration</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Mubashir Mansoor et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00300">2507.00300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00318.html">Termination-Dependent Resistive Switching in SrTiO$_3$ Valence Change Memory Cells</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Marko Mladenović et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00318">2507.00318</a></td>
 </tr>
 </tbody></table>

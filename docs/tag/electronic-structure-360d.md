@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">480 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2882,17 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02047.html">Quantum Geometry in the NbSe$_2$ Family I: Obstructed Compact Wannier Function and New Perturbation Theory</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Jiabin Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02047">2507.02047</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10940.html">High-resolution spectroscopy of barium monofluoride: Odd isotopologues, hyperfine structure and isotope shifts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Felix Kogel et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10940">2506.10940</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23809.html">Large-scale Neural Network Quantum States for ab initio Quantum Chemistry Simulations on Fugaku</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Hongtao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23809">2506.23809</a></td>
 </tr>
 </tbody></table>

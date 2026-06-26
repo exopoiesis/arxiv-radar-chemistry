@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">380 papers</span>
+  <span class="paper-count">378 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2282,17 +2282,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01913.html">Advancing Magnetic Materials Discovery -- A structure-based machine learning approach for magnetic ordering and magnetic moment prediction</a></div></td>
 <td>Apoorv Verma et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01913">2507.01913</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23598.html">Topological Electronic and phononic chiral edge states in SiTc Crystal</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Shivendra Kumar Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23598">2506.23598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23993.html">Half-metallicity and anomalous Slater-Pauling behaviour in half-Heusler CrMnSb</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Himanshu Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23993">2506.23993</a></td>
 </tr>
 </tbody></table>

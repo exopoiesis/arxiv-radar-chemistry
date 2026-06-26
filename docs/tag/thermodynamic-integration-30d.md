@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <strong>30d</strong> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="tmo-30d.html">tmo</a></div></td>
 <td>Christian S. Ahart et al.</td>
 <td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27077.html">Electron Polaron at Neutral 180$^\circ$ Domain Wall in PbTiO$_3$: Stability, Trapping Energies, and Transverse Polarization</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Mohammad Amirabbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27077">2605.27077</a></td>
 </tr>
 </tbody></table>

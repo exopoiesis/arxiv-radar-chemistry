@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">392 papers</span>
+  <span class="paper-count">387 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25879.html">AI-Assisted Computational Reproducibility on the FABRIC Testbed</a></div></td>
+<td>Komal Thareja et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25879">2606.25879</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24097.html">Reversible non-equilibrium phase transformation in amorphous germanium</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
@@ -2330,41 +2336,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27430.html">Neural operator accelerated atomistic to continuum concurrent multiscale simulations of viscoelasticity</a></div></td>
 <td>Tanvir Sohail et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27430">2603.27430</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24779.html">MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Kacper Kapuśniak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24779">2509.24779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17792.html">Bayesian Methods for the Investigation of Temperature-Dependence in Conductivity</a></div></td>
-<td>Andrew R. McCluskey et al.</td>
-<td><a href="http://arxiv.org/abs/2512.17792">2512.17792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25992.html">Liquid structure adjacent to solid surfaces follows the superposition principle</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Qian Ai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25992">2603.25992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Jack Jon Hinsch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26132.html">Liquid-state structural asymmetry governs species-selective crystallization in multicomponent systems</a></div></td>
-<td>Rikuya Ishikawa et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26132">2603.26132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26411.html">Coupling Quantum Mechanical Modeling and Molecular Dynamics on Heterogeneous Supercomputers for Studying Distal Mutation Effects on Drug Binding in HIV-1</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>William Dawson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26411">2603.26411</a></td>
 </tr>
 </tbody></table>

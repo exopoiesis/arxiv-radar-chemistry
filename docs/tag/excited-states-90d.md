@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,17 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27212.html">Temperature dependence of the dynamic structure factor of the electron liquid via analytic continuation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Thomas Chuna et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27212">2603.27212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20055.html">Occupancy Extrapolation: Reaching Many Excited Electronic States from Ground State Calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Yichen Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20055">2603.20055</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26265.html">Inelastic nucleon-nucleus scattering from a microscopic point of view</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Matteo Vorabbi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26265">2603.26265</a></td>
 </tr>
 </tbody></table>

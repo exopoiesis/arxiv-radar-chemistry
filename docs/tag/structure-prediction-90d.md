@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,23 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29529.html">Sampling at intermediate temperatures is optimal for training large language models in protein structure prediction</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>L. Ghiringhelli et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29529">2603.29529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26110.html">TurboESM: Ultra-Efficient 3-Bit KV Cache Quantization for Protein Language Models with Orthogonal Rotation and QJL Correction</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Yue Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26110">2603.26110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26378.html">Generative Modeling in Protein Design: Neural Representations, Conditional Generation, and Evaluation Standards</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Senura Hansaja Wanasekara et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26378">2603.26378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26994.html">ImmSET: Sequence-Based Predictor of TCR-pMHC Specificity at Scale</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Marco Garcia Noceda et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26994">2603.26994</a></td>
 </tr>
 </tbody></table>

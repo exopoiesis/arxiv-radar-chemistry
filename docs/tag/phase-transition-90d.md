@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25557.html">A topology-tuned pressure valve across the isoreticular RHO zeolite family</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Salvador R. G. Balestra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25557">2606.25557</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23736.html">From Magnetic to Inverse Magnetic Catalysis: The Interplay of Quark and Gluon Mass Generation in Magnetic Fields</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Fei Gao et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27684.html">Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Suyang Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27684">2603.27684</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26519.html">Generating function for Hermitian and non-Hermitian models</a></div></td>
-<td>Hua-Yu Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26519">2603.26519</a></td>
 </tr>
 </tbody></table>

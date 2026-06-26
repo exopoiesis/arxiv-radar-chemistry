@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">260 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1574,11 +1574,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14159.html">Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Shanshan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14159">2507.14159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02144.html">Establishing baselines for generative discovery of inorganic crystals</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Nathan J. Szymanski et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02144">2501.02144</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -602,11 +602,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01605.html">Resource Estimation for VQE on Small Molecules: Impact of Fermion Mappings and Hamiltonian Reductions</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Anurag K. S. V. et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01605">2512.01605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26359.html">Automated near-term quantum algorithm discovery for molecular ground states</a></div></td>
-<td>Fabian Finger et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26359">2603.26359</a></td>
 </tr>
 </tbody></table>

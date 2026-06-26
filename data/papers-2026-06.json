@@ -15276,5 +15276,683 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-06-23"
+ },
+ "2606.25006": {
+  "abstract": "Target-specific peptide design requires sequence and structure co-design under full atom geometric constraints. Latent generative frameworks offer an effective route for this problem by compressing fine grained atomic structures into block level latent representations and performing conditional generation in a compact latent space. However, the scalability of such systems depends heavily on the geometric backbone used throughout their encoding, decoding, and denoising components. We introduce MEET (Memory Efficient Equivariant Transformer), an E(3) equivariant backbone for scalable atomistic peptide modeling. MEET maintains coupled invariant scalar and equivariant vector feature streams, while reformulating geometric computation around memory efficient attention. It initializes vector features through global coordinate aggregation, incorporates pairwise distances through augmented query and key dot products, and injects covalent bond information through sparse bond adaptation. Integrated into a VAE and latent diffusion pipeline for full atom peptide generation, MEET achieves linear memory scaling with atom count and improves generation quality over existing peptide design methods. Experiments on large scale AFDB derived datasets further show that the proposed backbone supports systematic model and data scaling, leading to better binding affinity, physical validity, and sample diversity.",
+  "authors": [
+   "Rui Jiao",
+   "Xiangzhe Kong",
+   "Yinjun Jia",
+   "Yijia Zhang",
+   "Ziyi Yang",
+   "Yang Liu",
+   "Jianzhu Ma"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Rui Jiao",
+  "pdf_url": "http://arxiv.org/pdf/2606.25006",
+  "primary_category": "cs.LG",
+  "published": "2026-06-23",
+  "tags": [
+   "protein-ligand"
+  ],
+  "title": "Scalable Peptide Design via Memory-Efficient Equivariant Transformer",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.25022": {
+  "abstract": "We report M1149-BSG-z5, a barred spiral galaxy at $z = 5.102$, identified in the parallel field of MACS J1149+2223 with JWST and HST. M1149-BSG-z5 is the highest redshift barred galaxy candidate to date. Both isophote ellipse fitting and structural modeling support a stellar bar of length $a_\\mathrm{bar} \\approx 4.5$ kpc, and extended spiral arms peaking at $r \\approx 5.5$ kpc. M1149-BSG-z5 is a massive main sequence star-forming galaxy, with a stellar mass of $10^{10.45}\\rm M_\\odot$ and a star-formation rate of $144\\,\\rm M_\\odot/yr$. A concentrated bulge is embedded in an extended disk with a global Sérsic index $n = 2.37$. With an effective radius of $R_{e} = 2.61\\rm \\ kpc$, M1149-BSG-z5 is larger than typical galaxies at $z \\sim 5$ and comparable to barred galaxies at $2 < z < 4$. M1149-BSG-z5 also hosts a broad-line AGN, with a relatively low black-hole-to-stellar mass ratio of $\\rm M_{\\rm BH}/M_\\ast\\sim10^{-3}$. Its metal-enriched emission-line properties indicate that it is already chemically evolved. These properties imply M1149-BSG-z5 as an early-assembled and structurally evolved galaxy. We also find that M1149-BSG-z5 resides in an overdense region with a nearby companion galaxy, suggesting an interaction-driven bar formation mechanism. Its concentrated light, early assembly and main-sequence star formation also suggest baryon-dominated, gas-rich conditions, where gravitational instability can further accelerate the bar formation.",
+  "authors": [
+   "Xiaohan Wang",
+   "Fengwu Sun",
+   "Yoshihisa Asada",
+   "Yunjing Wu",
+   "Xiaojing Lin",
+   "Shude Mao",
+   "Sijia Cai",
+   "Zheng Cai",
+   "Chian-Chou Chen",
+   "Wenlei Chen",
+   "Cheng Cheng",
+   "Christopher J. Conselice",
+   "Miroslava Dessauges-Zavadsky",
+   "Daneil Espada",
+   "Brenda L. Frye",
+   "Jean-Baptiste Jolly",
+   "Anton M. Koekemoer",
+   "Kotaro Kohno",
+   "Mingyu Li",
+   "Nicholas Martis",
+   "Hideki Umehata",
+   "Weichen Wang",
+   "Rogier A. Windhorst",
+   "Adi Zitrin"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "17 pages, 8 figures",
+  "first_author": "Xiaohan Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.25022",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-06-23",
+  "tags": [],
+  "title": "A massive barred spiral galaxy at z = 5.102 discovered by JWST",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.25143": {
+  "abstract": "Objectives: To develop a codebook for self-stigma across cognitive, affective, and behavioral domains, and to estimate the prevalence, co-occurrence, and temporal patterns of these indicators in Reddit posts by people who use drugs. Methods: We developed a ten-indicator codebook through consensus-based abductive coding spanning cognitive (self-labeling, pessimism/self-defeatism, deservingness/worthlessness), affective (shame, guilt/self-blame, despair/hopelessness), and behavioral (concealment, anticipated rejection, desire to quit, ambivalence) domains; two coders reached substantial agreement (Cohen's k = 0.72). We then scaled classification with a large language model validated against expert coding (k = 0.73, F1 = 0.80), analyzing 72,115 thread-initiating posts from 1,660 English-language users (2006-2025). Results: 3,838 posts (5.3%) from 1,228 users (74.0%) contained self-stigma; all ten indicators discriminated self-stigma posts (RR 3.6 to 86.2), led by self-labeling (56.0%) and despair/hopelessness (48.5%). Self-stigma was integrated: core and behavioral indicators were strongly associated at the user level (OR = 4.65, 95% CI 3.12-6.94, p < 0.001), and 87.0% of posts with behavioral indicators also contained a core indicator. Contrary to progressive models, behavioral indicators emerged earlier than core ones (desire to quit at median position 0.08 vs. shame at 0.38). Nine of ten indicators were stable across posting trajectories; only pessimism increased (OR = 1.62, 95% CI 1.25-2.10). Conclusion: Among people who use drugs online, self-stigma is an integrated phenomenon in which behavioral indicators rarely appear without internalized ones and often precede them. Most expressions remain stable over time, but pessimism about change deepens, marking a target for early digital intervention and showing that progressive stage models do not map directly onto textual disclosure.",
+  "authors": [
+   "Layla Bouzoubaa",
+   "Hyung Wook Choi",
+   "Milan Varghese",
+   "Valerie Earnshaw",
+   "Rezvaneh Rezapour"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Layla Bouzoubaa",
+  "pdf_url": "http://arxiv.org/pdf/2606.25143",
+  "primary_category": "cs.CL",
+  "published": "2026-06-23",
+  "tags": [],
+  "title": "The cognitive, affective, and behavioral expression of self-stigma among people who use drugs in online substance use communities",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.25334": {
+  "abstract": "Post-discharge clinical follow-up is critical for maintaining continuity of care and mitigating long-term health risks. However, traditional follow-up paradigms suffer from shortage of health workforce, fragmented patient histories, and information silos across clinical departments. While large language models have demonstrated potential in medical question-answering, their deployment in continuous care is hindered by hallucination risks and a fundamental inability to reason over longitudinal, patient-specific constraints. Here we present Healink, a memory-enhanced multi-agent framework to support AI-assisted post-discharge follow-up by generating prescription-grounded, traceable responses that improved completeness and perceived clinical utility in retrospective and physician-blinded evaluations. The architecture seamlessly integrates a triage routing mechanism, a unified memory enhancement module utilizing a robust relational database for optimal latency, and a strict constraint-based retrieval-augmented generation engine. By vectorizing historical clinical records and employing weighted similarity functions across diverse phenotypic and intervention dimensions, Healink ensures precise inter-patient and intra-patient case matching while actively preventing cross-departmental drug conflicts. We evaluated Healink on a dataset comprising 400 continuous and 85 highly complex real-world follow-up cases, alongside the webMedQA benchmark. In a rigorous single-blind evaluation conducted by clinical experts, the framework outperformed human physician baselines in both authoritativeness and clinical safety. By generating a traceable, white-box evidence chain, Healink provides a scalable, safe, and highly effective paradigm for intelligent patient management, ultimately enhancing societal healthcare outcomes.",
+  "authors": [
+   "Runwei Guan",
+   "Yi Zhou",
+   "Heyi Lin",
+   "Jinjing Zhu",
+   "Mingyuan Hou",
+   "Yang Yang",
+   "Fang Yuan",
+   "Xiaohong Lin",
+   "Shaofeng Liang",
+   "Xuming Hu",
+   "Tao Li",
+   "Tianbin Zhao",
+   "Yutao Yue",
+   "Zhiyuan Wang",
+   "Hui Xiong"
+  ],
+  "categories": [
+   "cs.MA"
+  ],
+  "comment": "23 pages, 10 figures",
+  "first_author": "Runwei Guan",
+  "pdf_url": "http://arxiv.org/pdf/2606.25334",
+  "primary_category": "cs.MA",
+  "published": "2026-06-24",
+  "tags": [],
+  "title": "Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25404": {
+  "abstract": "Large Language Models (LLMs) can reason over complex instructions but often fail to satisfy the physical and spatial constraints required for robotic task planning. Recent LLM-based planners directly translate text into action sequences, yet they lack structured reasoning about feasibility, reachability, and logical order, resulting in invalid or incomplete plans. We present a heterogeneous multi-LLM framework that decomposes instructions into atomic reasoning tasks and allocates them to role-specialized expert agents under a token budget for real-world computational and communicational constraints. By combining role-oriented reasoning from heterogeneous agents followed by constraint-driven plan synthesis, HEART validates capability, reachability, and constraint conditions before planning and helps produce physically executable plans while maintaining efficiency. Experiments across different household benchmarks show that HEART consistently improves plan success compared to single-LLM and rule-based planners, demonstrating that heterogeneous LLM collaboration enables robust and scalable robotic task planning under resource constraints.",
+  "authors": [
+   "Junho Lee",
+   "Seabin Lee",
+   "Wonjong Lee",
+   "Nayoung Kim",
+   "Moonjeong Kang",
+   "Changjoo Nam"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "9 pages, 3 figures",
+  "first_author": "Junho Lee",
+  "pdf_url": "http://arxiv.org/pdf/2606.25404",
+  "primary_category": "cs.RO",
+  "published": "2026-06-24",
+  "tags": [],
+  "title": "HEART: Coordination of Heterogeneous Expert Agents for Physically Grounded Robotic Task Planning",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25502": {
+  "abstract": "Discovering solid-state materials with target properties remains a central challenge in computational materials science. Existing approaches -- high-throughput screening, surrogate optimization, and generative models -- require extensive evaluations or training data and extrapolate poorly to unseen compositions. Here we develop a first-principles inverse-design framework, integrating reverse-mode automatic differentiation (AD) into KKR-CPA -- the Korringa--Kohn--Rostoker method with the coherent potential approximation -- where atomic compositions are continuous variables to be optimized. Reverse-mode AD yields gradients of objective functions with respect to composition at a cost independent of the number of candidate elements, enabling gradient-based optimization to identify materials from compositional spaces spanning dozens of elements. In this framework, any computable quantity can serve as the objective. We demonstrate this generality through two contrasting applications, magnetic alloys and half-metals, yielding candidates such as (Lu$_{0.553}$Yb$_{0.447}$)(Co$_{0.759}$Fe$_{0.241}$)$_2$Fe$_3$ and FeZr(Sb$_{0.94}$Te$_{0.06}$). Our framework offers a physically grounded route from a target property to the material that realizes it.",
+  "authors": [
+   "Kohei Ishii",
+   "Hisazumi Akai",
+   "Tetsuya Fukushima",
+   "Hikari Shinya",
+   "Koji Inui"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "24 pages, 6 figures, 3 tables",
+  "first_author": "Kohei Ishii",
+  "pdf_url": "http://arxiv.org/pdf/2606.25502",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-24",
+  "tags": [
+   "ab-initio",
+   "generative-model",
+   "materials-science"
+  ],
+  "title": "A Differentiable DFT-Based Framework for Inverse Materials Design",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25557": {
+  "abstract": "The isoreticular index of the eight-member embedded RHO zeolite hierarchy operates as a phenomenological design knob that tunes the mechanical critical pressure of the framework valve from $\\sim 0.94$ GPa for parent RHO down to a predicted $\\lesssim 0.03$ GPa for the largest member PST-28, more than an order of magnitude lower across a single family of synthesizable nanoporous solids. The molecular-valve effect that defines zeolite RHO (a reversible centric-to-acentric phase transition triggered by water, gas pressure, or mechanical loading) is shown here to be not a peculiarity of the smallest member but a generic property of the whole hierarchy, with a critical pressure that decays exponentially with the isoreticular order $k$. Combining lattice dynamics, full elastic-constant tensors, and finite-temperature free-energy reconstructions within a classical core-shell description of the pure-silica frameworks (independently validated against r$^2$SCAN+rVV10 density-functional theory on $G_1$ and $G_2$), we find that the entire family is well described by an effective mean-field Landau picture in which the framework distortion couples quadratically to the volumetric strain. We emphasise that $p_c$ is a mechanical (hydrostatic) critical pressure of the bare pure-silica framework, used as a proxy for the intrinsic framework softness and for the cation- and dehydration-driven response of the real aluminosilicates; it is not a gas-adsorption pressure. The exponential extrapolation places $p_c(G_6\\text{-}G_8) \\lesssim 0.1$ GPa (model-dependent band $0.03$-$0.15$ GPa), identifying the higher-order members as the softest, most stimuli-responsive frameworks of the hierarchy; whether this intrinsic softness translates into guest-driven switching at low gas activities will depend on the Al distribution, extra-framework cations and adsorbed molecules, and remains to be tested experimentally.",
+  "authors": [
+   "Salvador R. G. Balestra",
+   "Antonio Rivas-Blanco",
+   "Said Hamad",
+   "A. Rabdel Ruiz-Salvador"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": "zeolites, isoreticular chemistry, phase transitions, soft nanoporous materials, molecular valves, effective Landau description, soft-mode transitions, enhanced sampling",
+  "first_author": "Salvador R. G. Balestra",
+  "pdf_url": "http://arxiv.org/pdf/2606.25557",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-24",
+  "tags": [
+   "dft",
+   "phase-transition"
+  ],
+  "title": "A topology-tuned pressure valve across the isoreticular RHO zeolite family",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25837": {
+  "abstract": "This preliminary paper presents an interactive Evidence-RAG workspace for editorial assessment of AI-assisted peer review in the Journal of Digital History. The workflow makes model recommendations easier to inspect by linking reviewer comments, paper evidence, retrieval traces, and reproducibility checks. The system does not replace editors or reviewers. It treats large language models as auditable assistants whose outputs must be checked by human scholars. We describe the current pipeline: paper conversion, semantic chunking, vector indexing, retrieval-augmented evidence assessment, and a lightweight editorial interface. This is a preliminary version of a full paper associated with the accepted presentation \"Towards an Interactive Evidence-RAG Peer-Review Workspace for the Journal of Digital History\" at the conference AI through History, History through AI, C2DH, University of Luxembourg, 15-16 June 2026. The work was submitted to the conference on 26 February 2026. We also report a first editor-annotation analysis of 80 saved decisions for the Claude-Qwen audit configuration. For Claude-Qwen, strict editor-confirmed accuracy is 70.0%, the correct-or-mostly-correct rate is 86.2%. The useful-output rate includes all responses judged correct, mostly correct, or partially correct, since these outputs can still assist with editorial review even if the model's assessment is not fully accurate. This rate was 90.0%. The full version may include additional experiments, extended evaluation, and a more complete release of materials.",
+  "authors": [
+   "Elisabeth Guerard",
+   "Mehrdad Almasi",
+   "Marion Salaun",
+   "Frederic Clavert",
+   "Mirjam Pfeiffer"
+  ],
+  "categories": [
+   "cs.DL"
+  ],
+  "comment": "Preliminary version of a full paper. 9 pages, 1 figure, 5 tables. Associated with an accepted presentation at AI through History, History through AI, C2DH, University of Luxembourg, 15-16 June 2026",
+  "first_author": "Elisabeth Guerard",
+  "pdf_url": "http://arxiv.org/pdf/2606.25837",
+  "primary_category": "cs.DL",
+  "published": "2026-06-24",
+  "tags": [],
+  "title": "Towards an Interactive Evidence-RAG Peer-Review Workspace for the Journal of Digital History",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25865": {
+  "abstract": "Molecular generation is a central challenge in drug discovery, requiring models that explore vast chemical space while satisfying diverse design constraints. We present Molexar, a unified multimodal molecular foundation model built on Fragment-SELFIES, a robust, fragment-aware molecular language with validity-preserving decoding and explicit fragment structure. A pretrained autoregressive decoder learns the Fragment-SELFIES syntax and molecular distribution; supervised fine-tuning (SFT) then trains the same decoder on condition-molecule pairs spanning scalar molecular properties, pharmacophore fingerprints, protein sequences, and binding pockets, injecting each condition by in-place replacement of value-token embeddings so that all generation modes share one autoregressive path. Molexar achieves strong efficiency at a small parameter count while matching or exceeding larger models. The pretrained model reaches 100% validity and high drug-likeness in unconditional and fragment-constrained generation; the SFT model follows single- and multi-property instructions and remains competitive on target-conditioned generation on the CrossDocked2020 test set. On MolGenBench, Molexar further generates molecules with favorable safety and potency. These results establish Molexar as a practical unified foundation for computational chemistry and drug-design workflows.",
+  "authors": [
+   "Haoyu Lin",
+   "Yiyan Liao",
+   "Jinmei Pan",
+   "Xinliao Ling",
+   "Luhua Lai",
+   "Jianfeng Pei"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Haoyu Lin",
+  "pdf_url": "http://arxiv.org/pdf/2606.25865",
+  "primary_category": "q-bio.BM",
+  "published": "2026-06-24",
+  "tags": [
+   "chemical-space",
+   "drug-discovery",
+   "molecular-generation"
+  ],
+  "title": "Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25879": {
+  "abstract": "Computational reproducibility remains difficult despite being central to scientific research. In this paper, we show how the international FABRIC testbed, combined with large language model (LLM) coding assistants through LoomAI, can simplify reproducing published experiments across multiple domains. We reproduced three case studies on FABRIC, covering BBR-family congestion-control evaluations, LAMMPS molecular dynamics scaling benchmarks on a CPU-only MPI cluster, and stress protein homeostasis genomics pipelines.   Rather than focusing only on matching numerical outputs, we evaluate whether the reproduced experiments support the same scientific conclusions as the original studies. The AI assistant was effective in setting up the environment, adapting code, and debugging, but struggled with the analysis stages that lacked clearly defined workflows, which required human guidance to establish execution order and data dependencies.   Across the case studies, the AI-assisted workflow reduced reproduction effort by roughly 4--6 times. We conclude with practical recommendations for improving AI-assisted reproducibility on research testbeds.",
+  "authors": [
+   "Komal Thareja",
+   "Paul Ruth",
+   "Berent Aldikacti",
+   "Michael Zink"
+  ],
+  "categories": [
+   "cs.DC",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Komal Thareja",
+  "pdf_url": "http://arxiv.org/pdf/2606.25879",
+  "primary_category": "cs.DC",
+  "published": "2026-06-24",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "AI-Assisted Computational Reproducibility on the FABRIC Testbed",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25960": {
+  "abstract": "Large language models are turning from isolated predictors into agentic systems: they call tools, retrieve evidence, obey environment constraints, use verifiers, and complete tasks through search and multi-turn interaction. We adopts an analytical viewpoint based on \"compression is intelligence\": under a fixed task distribution, interface, and compute budget, a stronger agentic system lets a target object be reconstructed with fewer bits. We operationalize the measure with arithmetic coding, seed coding, and a fallback, and evaluate it in five settings: reversed text, chess moves, protein sequences, retrieval-augmented question answering, and semantic story compression; in all of them agentic components reduce codelength. These small, controlled experiments cover component types typical of real agentic systems, show that codelength can analyze how components, observers, and budgets change residual uncertainty, and offer guidance for evaluating real agent systems.",
+  "authors": [
+   "Zihan Qin",
+   "Hongrui Zhang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zihan Qin",
+  "pdf_url": "http://arxiv.org/pdf/2606.25960",
+  "primary_category": "cs.AI",
+  "published": "2026-06-24",
+  "tags": [],
+  "title": "Agentic System as Compressor: Quantifying System Intelligence in Bits",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.26092": {
+  "abstract": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive dependency on source camera trajectories, failing to accommodate the requisite interactive freedom for omnidirectional viewpoint exploration. To address this limitation, we define a pioneering research frontier: Camera-controllable Video Virtual Try-on (CaM-VVT). Unlike conventional VVT, CaM-VVT not only necessitates viewpoint-agnostic texture hallucination but also strict structural synchronization between non-rigid human dynamics and background contexts under arbitrary, unconstrained camera movements. To tackle these challenges, we present TryOnCrafter, the first unified DiT-based framework specifically architected for the CaM-VVT task. Departing from implicit pixel-space manipulation, we introduce a Renderable 4D Try-on Proxy that explicitly decouples the human subject from the environment. This is achieved by distilling high-fidelity 2D try-on priors into a clothed 3DGS-based avatar, which is subsequently animated via SMPL-X sequences and metric-aligned into a reconstructed background point cloud. This proxy establishes a robust structural foundation with superior texture density and motion integrity. Our Proxy-Anchored Video DiT leverages this robust structural foundation as a primary geometric anchor, ensuring that the synthesized photorealistic videos are strictly constrained by prescribed trajectories and physically plausible deformations. Benefiting from the inherent editability of the 4D proxy, TryOnCrafter facilitates diverse downstream applications, including human relocalization, ``bullet time'' effects, and $360$-degree orbital viewing.",
+  "authors": [
+   "Hao Sun",
+   "Hao Yan",
+   "Mengting Chen",
+   "Quanjian Song",
+   "Yu Li",
+   "Juan Cao",
+   "Jinsong Lan",
+   "Xiaoyong Zhu",
+   "Bo Zheng",
+   "Sheng Tang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Project Page: https://sunhao242.github.io/TryOnCrafter_web.github.io/",
+  "first_author": "Hao Sun",
+  "pdf_url": "http://arxiv.org/pdf/2606.26092",
+  "primary_category": "cs.CV",
+  "published": "2026-06-24",
+  "tags": [],
+  "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.26171": {
+  "abstract": "Recent image generation models achieve impressive quality in single-image synthesis, but often fail to maintain consistency across sequential outputs, as required in comics, storyboards, and visual narratives. We propose Long-Context Generation (LCG), a framework for long-context multi-image text-to-image generation, to improve consistency and scalability in long-context multi-image generation. LCG employs the Sparse Relational Attention (SRA) mechanism to selectively attend to core features across extended visual contexts, ensuring that the propagation of semantic and layout information remains computationally tractable. To enforce semantic alignment, we introduce the Routing Consistency Constraint (RCC), which leverages identity-aware masks to align structural patterns across generation branches, effectively mitigating drift in appearance even in complex multi-character scenes. To support training and evaluation in this setting, we construct the Long-Context Consistency Dataset (LCCD), a large-scale synthetic dataset comprising character-centric multi-image sequences spanning varied situational contexts. LCCD contains 600K training sequences and a separate 1K test set, with each sequence containing 6 to 20 images. The experiments demonstrate that LCG outperforms the compared baselines in prompt alignment and character consistency for long-context image generation, including multi-character scenes.",
+  "authors": [
+   "Zihao Wang",
+   "Yijia Xu",
+   "Haoze Zheng",
+   "Xuran Ma",
+   "Haokun Gui",
+   "Harry Yang"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zihao Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.26171",
+  "primary_category": "cs.CV",
+  "published": "2026-06-24",
+  "tags": [],
+  "title": "LCG: Long-Context Consistent Image Generation with Sparse Relational Attention",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.26205": {
+  "abstract": "Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritative but abstract, and patient narratives, which are experience-near but unvalidated. Integrating them without conflating evidence and anecdote is especially consequential in psychiatry, where poorly contextualised information can amplify fear, nocebo responses, and non-adherence. Here we develop a provenance-aware, knowledge-graph-based multi-agent framework unifying 466,525 Reddit posts, 60,782 WebMD reviews, and twenty years of U.S. FDA Adverse Event Reporting System records for nine antidepressants. A large-language-model entity-recognition pipeline benchmarked against physician annotations reached highest F1 scores of 0.969 for medications and 0.973 for conditions. The two community platforms were far more concordant with each other (overlap up to a Jaccard similarity of 0.905) than with regulatory reports, indicating that patient-generated data form a partly independent safety signal. For sertraline, many adverse events appeared in community sources hundreds of days before the corresponding FDA date. A Neo4j knowledge graph grounded in ATC-N, ICD-10, and MedDRA vocabularies preserves provenance, keeping every claim traceable and regulatory facts distinct from patient experience. These results establish source-aware integration as a route to more auditable psychiatric medication information, with usefulness and patient benefit to be tested prospectively.",
+  "authors": [
+   "Huizi Yu",
+   "Jian Liu",
+   "Wenkong Wang",
+   "Lingyao Li",
+   "Jiayan Zhou",
+   "Zhaoqian Xue",
+   "Xiang Li",
+   "Xinxin Lin",
+   "Zhiying Liang",
+   "Zhuoru Wu",
+   "Siyuan Ma",
+   "Xin Ma",
+   "Lizhou Fan"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Huizi Yu",
+  "pdf_url": "http://arxiv.org/pdf/2606.26205",
+  "primary_category": "cs.AI",
+  "published": "2026-06-24",
+  "tags": [],
+  "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.26320": {
+  "abstract": "To probe the impact of group environment on molecular gas reservoirs at intermediate redshift, we observed the CO(2-1) emission in the galaxy group COSMOS-Gr30 at $z \\sim 0.7$ with IRAM's NOEMA and 30m telescopes. This dense environment, located at the intersection of large-scale cosmic web filaments, has the specificity to host a large ($\\sim 10^{4}$ kpc$^{2}$) ionized gas structure revealed by MUSE. We detect CO emission in four galaxies of the group at $\\mathrm{S/N} > 5$ and derive upper limits for the remaining group members with secure spectroscopic redshifts. Stacked measurements indicate that group galaxies exhibit on average molecular gas contents reduced by $\\sim 0.5$ dex relative to field scaling relations, corresponding to gas fractions that are $20\\%$ to $40\\%$ of those found in typical main-sequence galaxies. Although the uncertainties are significant, this suggests that environmental processes efficiently deplete molecular gas reservoirs in the galaxies of this group. The 30m observations place an upper limit on the molecular gas associated with the extended ionized structure, $M_{\\rm gas} < 2 \\times 10^{10} \\rm M_\\odot$, implying that less than a third of the gas in the intra-group medium is in a cold, star-forming phase. Together, these results contribute to show how environmental mechanisms in dense group environments act to remove or suppress molecular gas within galaxies, capturing quenching processes in action.",
+  "authors": [
+   "Jonathan Freundlich",
+   "Benoît Epinat",
+   "Thierry Contini",
+   "Philippe Salomé",
+   "Françoise Combes",
+   "Baptiste Jego",
+   "Davor Krajnović",
+   "Wilfried Mercier",
+   "Constanza Muñoz López",
+   "Matthieu Béthermin",
+   "Leindert Boogaard",
+   "Rodrigo Herrera-Camus",
+   "Diana Ismail",
+   "Fangzhou Jiang",
+   "Katarina Kraljic",
+   "Florent Renaud",
+   "Sandro Tacchella"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "15 pages, 14 figures, submitted to A&A",
+  "first_author": "Jonathan Freundlich",
+  "pdf_url": "http://arxiv.org/pdf/2606.26320",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-06-24",
+  "tags": [],
+  "title": "Probing the molecular gas content of galaxies in an over-dense group at z~0.7: a test case for environmental quenching",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.26488": {
+  "abstract": "Recursive reasoning models can solve complex structured tasks with only a few million parameters by repeatedly updating a latent state. Deploying these models on edge hardware requires significant compression, but unlike conventional sequence models, quantization errors compound across recursive reasoning cycles rather than across output tokens. As a result, standard intuitions about compression fail to apply. In this work, we ask what survives when recursive reasoners are compressed. Across a full precision sweep, three tasks, and two recursive architectures, we find that aggressive compression preserves local prediction but destroys global reasoning: cell accuracy holds while puzzle-exact accuracy collapses to zero under naive INT4 pruning, distillation, and linear attention alike. Token-level objectives, including quantization-aware training, cannot repair it. The collapse is architectural -- it strikes MLP-mixing recursion but not attention on the same task -- and we reverse it with per-channel calibrated INT4 without retraining. We also introduce carry-trajectory fidelity, the cosine similarity to the full-precision reasoning path, as a label-free signal that predicts this damage and its recovery before a task evaluation. The combined result is a deployment recipe: flash-streamed embeddings remove a 99.4MB bottleneck, INT8 at one cycle matches full-depth accuracy at 6x fewer FLOPs (8MB SoC), and calibrated INT4 fits a 4MB microcontroller.",
+  "authors": [
+   "Pearse Jim",
+   "Steven Kolawole",
+   "Opegbemi Matthias Busoye",
+   "Glory Bagai",
+   "Virginia Smith"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Preprint; in review",
+  "first_author": "Pearse Jim",
+  "pdf_url": "http://arxiv.org/pdf/2606.26488",
+  "primary_category": "cs.LG",
+  "published": "2026-06-25",
+  "tags": [],
+  "title": "What Survives When You Compress a Recursive Reasoner for the Edge?",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.26541": {
+  "abstract": "Data from affected populations are crucial for informing humanitarian response, but their value depends on timely and consistent interpretation of nuanced accounts of need. Humanitarian organizations often lack the staff, time, and specialist expertise required to analyze this information at scale. Large language models (LLMs) may expand this capacity, but their reliability for coding qualitative humanitarian data has not been directly established. This benchmark study compares 46 LLMs to a human Gold Standard using 150 high-fidelity synthetic humanitarian transcripts. Evaluation combined inter-rater reliability testing with Krippendorff's alpha, discrepancy analysis distinguishing correct, near-correct, and incorrect codes, and qualitative assessment across humanitarian-specific criteria including discrimination, complex needs hierarchies, and non-standard communication styles. The authors find that multiple LLMs can perform deductive coding at reliability levels comparable to experienced human coders, especially when structured prompts and reasoning-enabled configurations are used. At the same time, aggregate reliability metrics alone are insufficient for deployment decisions. Models varied in recognizing needs expressed indirectly, needs outside predefined categories, and protection-relevant concerns such as physical safety and discrimination. These findings suggest that LLMs can materially expand humanitarian analytical capacity, but not as substitutes for human judgment. Appropriate use requires structured codebooks, reasoning-enabled models, attention to theme-specific performance, and tiered oversight focused on categories where miscoding would have the greatest programmatic consequences. For sensitive humanitarian data, open-weights models deployed on self-hosted infrastructure may offer a viable path for combining analytical scalability with stronger data governance.",
+  "authors": [
+   "Jerome Marston",
+   "Tino Kreutzer",
+   "Salomé Garnier",
+   "Ella Boone",
+   "Phuong N Pham",
+   "Patrick Vinck"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CY"
+  ],
+  "comment": "34 pages, 4 tables, 3 Annexes",
+  "first_author": "Jerome Marston",
+  "pdf_url": "http://arxiv.org/pdf/2606.26541",
+  "primary_category": "cs.LG",
+  "published": "2026-06-25",
+  "tags": [],
+  "title": "Can Large Language Models Reliably Code Qualitative Humanitarian Data? A Benchmark Study Against Human Expert Adjudication",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.26764": {
+  "abstract": "Developing robust artificial intelligence models for 4D (3D + time) medical imaging is constrained by limited annotated data, inter-device domain shifts, and privacy restrictions. To address this, we propose a 4D controllable generative framework for anatomically consistent data augmentation. A semi-supervised variational autoencoder learns a compact latent representation of anatomical volumes while jointly predicting aligned segmentation masks in a unified framework. Anatomical structure is then disentangled from temporal dynamics through a cascaded latent diffusion model (LDM). A static LDM generates subject-specific anatomy conditioned on clinical priors (diagnosis and volumes measures) and a subsequent motion LDM estimates residual latent motions, ensuring strict temporal coherence across the 4D sequence. The proposed approach was evaluated on cine cardiac MRI as a representative 4D imaging application. Experiments across multiple datasets demonstrate high controllability of static anatomy (Pearson r > 0.8) and strong temporal coherence (FVD = 288.08). In cross-vendor generalization experiments, augmenting training sets with synthetic 4D sequences significantly improves downstream segmentation performance. Using nnU-Net, the proposed augmentation strategy improves the average Dice score by 1.4% and reduces the Hausdorff Distance by 3.0mm compared to training on real data alone, for the left ventricle, Dice improves by 2.8% with a 5.4mm reduction in boundary error. Overall, this framework provides a scalable and controllable solution for 4D medical image synthesis, supporting the development of more robust models with limited annotations and cross-vendor variability. Code available on https://github.com/cyiheng/4DCardiacMRISynthesis.",
+  "authors": [
+   "Yiheng Cao",
+   "Gustavo Andrade-Miranda",
+   "Jiatian Zhang",
+   "Lingxiao Zhao",
+   "Xin Gao"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yiheng Cao",
+  "pdf_url": "http://arxiv.org/pdf/2606.26764",
+  "primary_category": "cs.CV",
+  "published": "2026-06-25",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.26997": {
+  "abstract": "Large language model (LLM) post-training for reasoning increasingly relies on reinforcement learning with verifiable rewards (RLVR), where models learn from ground-truth feedback on mathematical, logical, and scientific tasks. To enable flexible resource allocation and support heterogeneous training setups, modern RLVR systems adopt disaggregated architectures that decouple rollout generation and policy training across independent GPU pools. However, existing synchronous on-policy GRPO (Group Relative Policy Optimization) RLVR systems finish an entire rollout before starting training, leaving the trainer GPU pool idle while rollout is still ongoing. Asynchronous RL pipelines overlap the two stages, but at the cost of training on stale data. To address these challenges, we propose RolloutPipe, a post-training framework for disaggregated RLVR systems, which turns the fixed-weight rollout into a complete-group pipeline where trainable groups move to the trainer while later groups are still being generated. RolloutPipe achieves this through two techniques including complete-group pipelining (CGP) and frontier-group dispatch (FGD). CGP dispatches each trainable complete group to the trainer FIFO as soon as group materialization finishes, and FGD is an admission policy on the Rollout node that first admits requests for the frontier groups needed to form the next training batch, so that trainer-ready groups arrive earlier and more steadily. The design starts training before the rollout completes while maintaining on-policy correctness. Evaluated on Qwen3-1.7B across four reasoning and science benchmarks and twelve rollout settings, RolloutPipe shortens the rollout-to-train-end time by 30.7%-42.3%, and lowers the trainer waiting ratio by 37%-76% compared to Slime, a state-of-the-art rollout and training system.",
+  "authors": [
+   "Rongjian Chen",
+   "Jianmin Hu",
+   "Kejiang Ye",
+   "Minxian Xu"
+  ],
+  "categories": [
+   "cs.DC",
+   "cs.LG"
+  ],
+  "comment": "15 pages",
+  "first_author": "Rongjian Chen",
+  "pdf_url": "http://arxiv.org/pdf/2606.26997",
+  "primary_category": "cs.DC",
+  "published": "2026-06-25",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.27184": {
+  "abstract": "About 350 molecules have been identified in the interstellar medium (ISM), including complex molecules relevant to prebiotic chemistry. A remarkable level of molecular diversity has been observed from the earliest stages of star formation, providing the initial chemical inventory inherited by planetary systems. Radio observations have played a pivotal role in these discoveries, starting with the identification of the first polyatomic molecule, $\\text{NH}_3$ (Cheung et al. 1968). (Sub-)millimeter observations have revealed complex organic molecules of prebiotic relevance, including formamide ($\\text{NH}_2\\text{CHO}$), glycolaldehyde ($\\text{CH}_2\\text{OHCHO}$), and even urea ($(\\text{NH}_2)_2\\text{CO}$), and hydroxylamine ($\\text{NH}_2\\text{OH}$), which are possible precursors of RNA nucleotides (Ceccarelli et al. 2023; Jiménez-Serra et al. 2020). However, in dense protostellar regions, dust opacity hampers the detection of molecular emission. Additionally, large molecules and those containing heavy atoms, which have rotational transitions at lower frequencies, often remain inaccessible to current instruments. The Square Kilometre Array Observatory (SKAO) will provide an unprecedented combination of sensitivity and angular resolution at radio wavelengths. This will allow for the detection of prebiotic species and offer new insights into the chemical pathways that shape emerging planetary systems (Jiménez-Serra et al. 2022). This chapter details the scientific questions and advancements that the SKAO, and more specifically, SKA-Mid equipped with the Band 5 receivers, will pursue in the field of astrochemistry, focusing on the chemical complexity in both high-mass and solar-type star-forming regions.",
+  "authors": [
+   "Eleonora Bianchi",
+   "Mathilde Bouvier",
+   "Claudio Codella",
+   "Laura Colzi",
+   "Audrey Coutens",
+   "Marta De Simone",
+   "Joan Enrique Romero",
+   "Gisela Esplugues",
+   "Francesco Fontani",
+   "Antonio Garufi",
+   "Lisa Giani",
+   "Arshia Maria Jacob",
+   "Izaskun Jiménez-Serra",
+   "Marco Padovani",
+   "Linda Podio",
+   "Albert Rimola",
+   "Pablo Rivière Marichalar",
+   "Giovanni Sabatini",
+   "Andrea Socci",
+   "Riccardo Giovanni Urso",
+   "Tyler L. Bourke",
+   "Gemma Busquet",
+   "Paola Caselli",
+   "Cecilia Ceccarelli",
+   "Tomoya Hirota",
+   "John D. Ilee",
+   "Valerio Lattanzi",
+   "Manuela Lippi",
+   "Ana López-Sepulcre",
+   "Pierre Marchand",
+   "Liton Majumdar",
+   "Sabyasachi Pal",
+   "Maria Elisabetta Palumbo",
+   "Jaime E. Pineda",
+   "Manoj Puravankara",
+   "Elena Redaelli",
+   "Victor M. Rivilla",
+   "Basmah Riaz",
+   "Álvaro Sánchez-Monge",
+   "Silvia Spezzano",
+   "Leonardo Testi",
+   "Himanshu Tyagi",
+   "Claudia Toci",
+   "Alessio Traficante",
+   "Grazia Umana",
+   "Charlotte Vastel",
+   "Susanne Wampfler"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.GA"
+  ],
+  "comment": "Published in Advancing Astrophysics with the SKA II (AASKAII), 2026 (arXiv:2606.20366). Report-no:AASKAII/Bianchi01. Advancing Astrophysics with the SKA II (AASKAII) outlines the transformative scientific advances that will be enabled by the SKA telescopes",
+  "first_author": "Eleonora Bianchi",
+  "pdf_url": "http://arxiv.org/pdf/2606.27184",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-06-25",
+  "tags": [],
+  "title": "Chemical Complexity in the Early Stages of Star Formation in the SKAO Era",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.27231": {
+  "abstract": "Large-language-model (LLM) agents can write and run experimental control code. This allows laboratory work to be conducted autonomously. However, this autonomy raises a safety problem that prior work has not addressed. Unchecked code can damage the apparatus, and there is no formal, per-operation boundary between human authorization/supervision, and agent decisions. We present a control system that places an LLM agent in the loop of a trapped-ion experiment while enforcing such a boundary. The agent controls the existing Advanced Real-Time Infrastructure for Quantum physics (ARTIQ) stack through tools provided by a Model Context Protocol (MCP) server. No tool call reaches the hardware unless it carries an authorization token bound to its exact contents. Tokens are issued in one of two ways: automatically, by running the agent's proposed script in an isolated hardware simulation (dax.sim) and checking every operation against preset per-device bounds, or manually by a human operator for sensitive actions. Within this boundary the agent develops its own experiments, rather than only calling pre-built routines. We deploy the system on a co-trapped $^{40}$Ca$^{+}$/$^{40}$CaOH$^{+}$ crystal, where the agent autonomously builds a full calibration stack and, with targeted operator guidance, closes a cross-instrument magnetic-field-stabilization loop. On a separate, independent $^{171}$Yb$^{+}$ platform, we confirm interface-level portability. We systematically test token-authorization mechanism with adversarial scripts that attempt to bypass it, mapping the precise boundary of its protection and prioritizing where to strengthen it next. Analyzing where the agent still requires human guidance, we find that its limits lie in metacognitive control, namely recognizing when a problem must be re-framed, rather than in domain knowledge.",
+  "authors": [
+   "Duanyang Wang",
+   "Lu Qi",
+   "Yuanheng Xie",
+   "Norbert M. Linke",
+   "Kenneth R. Brown"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.ins-det"
+  ],
+  "comment": "15 pages, 5 figures",
+  "first_author": "Duanyang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.27231",
+  "primary_category": "quant-ph",
+  "published": "2026-06-25",
+  "tags": [],
+  "title": "A hardware-safety-gated system for LLM-written native ARTIQ control code on a trapped-ion platform",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.27242": {
+  "abstract": "Training-free source selection for LLM families with shared vocabularies arises in scientific string domains such as SMILES, protein, and genomic sequences, where candidate corpora share a tokenizer but differ in prediction targets. This creates an activation-dark regime: representation-similarity metrics can be uninformative without assumptions about label-conditioned error geometry, while classical update-geometry metrics are computationally prohibitive at vocabulary scale. We show that, in a shared-output head setting, representation metrics (e.g., CKA) are non-identifiable for transfer; models can share identical representations yet have orthogonal head updates. The key identity is that head Fisher alignment is exactly a cosine between kernel mean embeddings in the joint activation-error space, exposing activation, error, and coupling factors rather than requiring a materialized Fisher matrix. FisherSketch estimates this cosine directly in a single streaming pass, making K=128,256 head Fisher alignment practical with a 16 KB task signature (m=4096) and a 192 KB per-task streaming state, small enough to store next to a model hash, but encoding transfer-relevant update structure. Beyond source selection, the same signatures and marginals provide a diagnostic instrument for studying whether LLM task similarity is driven by activations, errors, or their coupling; shared-parameter and internal-layer validations, together with Llama-3.1-8B verbalizer-shift experiments, show that FisherSketch remains informative when activation similarity cannot distinguish tasks.",
+  "authors": [
+   "John Sweeney"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CL",
+   "stat.ML"
+  ],
+  "comment": "Accepted at the 43rd International Conference on Machine Learning (ICML 2026), PMLR 306. 64 pages total (main paper plus appendix), 4 figures, 29 tables",
+  "first_author": "John Sweeney",
+  "pdf_url": "http://arxiv.org/pdf/2606.27242",
+  "primary_category": "cs.LG",
+  "published": "2026-06-25",
+  "tags": [],
+  "title": "The Geometry of Updates: Fisher Alignment at Vocabulary Scale",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.27361": {
+  "abstract": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allow rapid generation of uncorrelated equilibrium samples by combining a generative model with exact likelihoods and an importance sampling correction. However, modern BGs predominantly rely on normalizing flows (NFs), which either suffer from limited expressivity due to strict invertibility constraints (discrete time) or computationally expensive likelihoods (continuous time). In this paper, we propose Autoregressive Boltzmann Generators (ArBG) -- a novel autoregressive modelling framework -- that overcomes these limitations by departing from the flow-based BG paradigm. ArBG circumvents the topological constraints of flows and enables sequential inference-time interventions, while offering enhanced scalability by leveraging architectures effective in Large Language Models. We empirically demonstrate that ArBG leads to significant improvements over flow-based models across all benchmarks, but particularly in larger peptide systems such as the 10-residue Chignolin. Furthermore, we introduce Robin, a 132 million parameter transferable model trained with the ArBG framework which improves over the previous state-of-the-art, reducing the zero-shot energy error, E-W$_2$, on 8-residue systems by over 60$\\%$. The code can be found at the following link: https://github.com/danyalrehman/autobg.",
+  "authors": [
+   "Danyal Rehman",
+   "Charlie B. Tan",
+   "Yoshua Bengio",
+   "Avishek Joey Bose",
+   "Alexander Tong"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "ICML 2026 (Spotlight)",
+  "first_author": "Danyal Rehman",
+  "pdf_url": "http://arxiv.org/pdf/2606.27361",
+  "primary_category": "cs.LG",
+  "published": "2026-06-25",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "Autoregressive Boltzmann Generators",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-06-25"
  }
 }

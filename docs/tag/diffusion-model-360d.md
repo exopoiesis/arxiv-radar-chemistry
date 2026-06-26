@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">449 papers</span>
+  <span class="paper-count">448 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26764.html">Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis</a></div></td>
+<td>Yiheng Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26764">2606.26764</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23864.html">Generative Modeling for Physiological Signals</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
@@ -2696,17 +2702,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00584.html">Monolayer Two-dimensional Materials Database (ML2DDB) and Applications</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Zhongwei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00584">2507.00584</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01600.html">Graph Fourier Neural ODEs: Modeling Spatial-temporal Multi-scales in Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Fang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01600">2411.01600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02144.html">Establishing baselines for generative discovery of inorganic crystals</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Nathan J. Szymanski et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02144">2501.02144</a></td>
 </tr>
 </tbody></table>

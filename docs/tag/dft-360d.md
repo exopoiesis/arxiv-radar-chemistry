@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2123 papers</span>
+  <span class="paper-count">2114 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25557.html">A topology-tuned pressure valve across the isoreticular RHO zeolite family</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Salvador R. G. Balestra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25557">2606.25557</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
@@ -12692,65 +12698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00599.html">Ab-initio-NEGF Fundamental Roadmap for Carbon-Nanotube and Two-Dimensional-Material MOSFETs at the Scaling and VDD Limit</a></div></td>
 <td>Aryan Afzalian</td>
 <td><a href="http://arxiv.org/abs/2507.00599">2507.00599</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16977.html">Influence of the Effective Mass on ab initio Phonon-limited Electron Mobility of GaAs</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mohammad Dehghani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16977">2506.16977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23494.html">Multiple Photon Field-induced Topological States in Bulk HgTe</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Dongbin Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23494">2506.23494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23570.html">First-Principles Insights into Excitonic and Electron-Phonon Effects in van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Mohammad Ali Mohebpour et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23570">2506.23570</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23598.html">Topological Electronic and phononic chiral edge states in SiTc Crystal</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shivendra Kumar Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23598">2506.23598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23699.html">Development and validation of an electron temperature-dependent interaction potential for silicon and copper for the use in atomistic simulations of laser ablation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Simon Kümmel et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23699">2506.23699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23809.html">Large-scale Neural Network Quantum States for ab initio Quantum Chemistry Simulations on Fugaku</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Hongtao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23809">2506.23809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23993.html">Half-metallicity and anomalous Slater-Pauling behaviour in half-Heusler CrMnSb</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Himanshu Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23993">2506.23993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00101.html">DFReg: A Physics-Inspired Framework for Global Weight Distribution Regularization in Neural Networks</a></div></td>
-<td>Giovanni Ruggieri</td>
-<td><a href="http://arxiv.org/abs/2507.00101">2507.00101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00300.html">Engineering NV Centers via Hydrogen-Driven Defect Chemistry in CVD Diamonds for Quantum Applications: NVHx Dissociations into NV, Origin of 468nm Center, and Cause of Brown Coloration</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Mubashir Mansoor et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00300">2507.00300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00314.html">Quantifying the impact of the Tamm-Dancoff approximation on the computed spectra of transition-metal systems</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Muhammed A. Dada et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00314">2507.00314</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27361.html">Autoregressive Boltzmann Generators</a></div></td>
+<td>Danyal Rehman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27361">2606.27361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25502.html">A Differentiable DFT-Based Framework for Inverse Materials Design</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Kohei Ishii et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25502">2606.25502</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22866.html">Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
@@ -44,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22527.html">Trajectory Forcing: Structure-First Generation with Controllable Semantic Trajectories</a></div></td>
 <td>Merve Kocabas et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22527">2606.22527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20878.html">Understanding Latent Flow Models for Tabular Data Synthesis: Targets, Paths, and Sampling</a></div></td>
-<td>Bahrul Ilmi Nasution</td>
-<td><a href="http://arxiv.org/abs/2606.20878">2606.20878</a></td>
 </tr>
 </tbody></table>

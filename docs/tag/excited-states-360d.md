@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">228 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1376,11 +1376,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12757.html">A comprehensive theory for relativistic polaritonic chemistry: a four components ab initio treatment of molecular systems coupled to quantum fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Guillaume Thiam et al.</td>
 <td><a href="http://arxiv.org/abs/2409.12757">2409.12757</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00314.html">Quantifying the impact of the Tamm-Dancoff approximation on the computed spectra of transition-metal systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Muhammed A. Dada et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00314">2507.00314</a></td>
 </tr>
 </tbody></table>

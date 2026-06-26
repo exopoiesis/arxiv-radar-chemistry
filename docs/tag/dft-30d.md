@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25557.html">A topology-tuned pressure valve across the isoreticular RHO zeolite family</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
+<td>Salvador R. G. Balestra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25557">2606.25557</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
@@ -866,53 +872,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29029.html">Geometry-based Discovery of Calcium Battery Cathodes Accelerated by Foundational Machine-Learned Models</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
 <td>Dereje Bekele Tekliye et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29029">2605.29029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26073.html">Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Jin Ho Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26073">2605.26073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26540.html">DGLD: Domain-Gated Latent Diffusion for the Discovery of Novel Energetic Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Yehudit Aperstein et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26540">2605.26540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26594.html">Analytic first order nonadiabatic coupling matrix elements of spin-adapted open-shell time-dependent density functional theory</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Xiaoli Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26594">2605.26594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26868.html">Electronic properties governing the phase stability and elastic anisotropy of C14 and C15 Cr-Hf-Nb Laves phases</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>M. Díaz-Choque et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26868">2605.26868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26897.html">Active learning of collinear magnetic Moment Tensor Potentials using the spin-MLIP package from soft-constrained spin-polarized DFT calculations: a case study of Fe-Pd</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Arseniy Burov et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26897">2605.26897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27077.html">Electron Polaron at Neutral 180$^\circ$ Domain Wall in PbTiO$_3$: Stability, Trapping Energies, and Transverse Polarization</a></div><div class="paper-tags"><a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Mohammad Amirabbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27077">2605.27077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27252.html">Real-Time Time-Dependent Density Functional Theory for Pump-Probe Spectroscopies</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Torsha Moitra</td>
-<td><a href="http://arxiv.org/abs/2605.27252">2605.27252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27344.html">Real-time nuclear-electronic orbital time-dependent density functional theory with a constrained traveling proton basis</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Nicholas J. Boyer et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27344">2605.27344</a></td>
 </tr>
 </tbody></table>

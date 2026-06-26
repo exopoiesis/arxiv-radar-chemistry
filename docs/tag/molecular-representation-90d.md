@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,17 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29723.html">Reinforced Reasoning for End-to-End Retrosynthetic Planning</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
 <td>Chenyang Zuo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29723">2603.29723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26114.html">DPD-Cancer: Explainable Graph-based Deep Learning for Small Molecule Anti-Cancer Activity Prediction</a></div></td>
-<td>Magnus H. Strømme et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26114">2603.26114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08575.html">MolPaQ: Modular Quantum-Classical Patch Learning for Interpretable Molecular Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Syed Rameez Naqvi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08575">2604.08575</a></td>
 </tr>
 </tbody></table>

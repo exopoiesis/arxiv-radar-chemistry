@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">386 papers</span>
+  <span class="paper-count">382 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2306,29 +2306,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23713.html">Photonic obstructed atomic insulator</a></div></td>
 <td>Hongyu Chen</td>
 <td><a href="http://arxiv.org/abs/2506.23713">2506.23713</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05118.html">Full Version: (De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms</a></div></td>
-<td>Ari Rasch</td>
-<td><a href="http://arxiv.org/abs/2405.05118">2405.05118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11881.html">Shifting sands of hardware and software in exascale quantum mechanical simulations</a></div></td>
-<td>Ravindra Shinde et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11881">2409.11881</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05120.html">Computing Anharmonic Infrared Spectra of Polycyclic Aromatic Hydrocarbons Using Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xinghong Mai et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05120">2503.05120</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23809.html">Large-scale Neural Network Quantum States for ab initio Quantum Chemistry Simulations on Fugaku</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Hongtao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23809">2506.23809</a></td>
 </tr>
 </tbody></table>

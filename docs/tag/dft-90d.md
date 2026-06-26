@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25557.html">A topology-tuned pressure valve across the isoreticular RHO zeolite family</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Salvador R. G. Balestra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25557">2606.25557</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -3026,71 +3032,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27212.html">Temperature dependence of the dynamic structure factor of the electron liquid via analytic continuation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Thomas Chuna et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27212">2603.27212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08579.html">Phenothiazine-Based Self-Assembled Monolayer with Thiophene Head Groups Minimizes Buried Interface Losses in Tin Perovskite Solar Cells</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Valerio Stacchini et al.</td>
-<td><a href="http://arxiv.org/abs/2502.08579">2502.08579</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08121.html">Equivariant graph neural network surrogates for predicting the properties of relaxed atomic configurations</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Jamie Holber et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08121">2505.08121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19969.html">Unlocking Doping Effects on Altermagnetism in MnTe: Emergence of Quasi-altermagnetism</a></div></td>
-<td>Nayana Devaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19969">2508.19969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20055.html">Occupancy Extrapolation: Reaching Many Excited Electronic States from Ground State Calculations</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Yichen Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20055">2603.20055</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jack Jon Hinsch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26201.html">The Unreconstructed α-Al$_{2}$O$_{3}$(0001) Surface is Inhomogeneous and Rough</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Johanna I. Hütner-Reisch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26201">2603.26201</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26281.html">Sign control of photocurrents by spin-group-symmetry breaking in altermagnetic insulators</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Gastón Blatter et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26281">2603.26281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26325.html">Strain-released epitaxy of GaN enabled by compliant single-crystalline metal foils</a></div></td>
-<td>Yaqing Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26325">2603.26325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26411.html">Coupling Quantum Mechanical Modeling and Molecular Dynamics on Heterogeneous Supercomputers for Studying Distal Mutation Effects on Drug Binding in HIV-1</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>William Dawson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26411">2603.26411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26452.html">Towards a unified first-principles-based description of VO$_2$ using DFT+DMFT with bond-centered orbitals</a></div></td>
-<td>Peter Mlkvik et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26452">2603.26452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26471.html">Importance of Electronic Entropy for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Martin Hoffmann Petersen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26471">2603.26471</a></td>
 </tr>
 </tbody></table>

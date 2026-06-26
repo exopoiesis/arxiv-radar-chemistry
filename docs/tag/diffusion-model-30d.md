@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26764.html">Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis</a></div></td>
+<td>Yiheng Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26764">2606.26764</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23864.html">Generative Modeling for Physiological Signals</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Xinqi Bao et al.</td>
@@ -164,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
 <td>Corentin Guigot et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26850.html">Learning Energy-Based Models from Stochastic Interpolants using Spatiotemporal Differences</a></div></td>
-<td>Hanlin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26850">2605.26850</a></td>
 </tr>
 </tbody></table>

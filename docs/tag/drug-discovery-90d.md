@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25865.html">Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
+<td>Haoyu Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25865">2606.25865</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23856.html">Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Konstantin Yatsenko et al.</td>
@@ -650,11 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01605.html">Resource Estimation for VQE on Small Molecules: Impact of Fermion Mappings and Hamiltonian Reductions</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Anurag K. S. V. et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01605">2512.01605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26378.html">Generative Modeling in Protein Design: Neural Representations, Conditional Generation, and Evaluation Standards</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Senura Hansaja Wanasekara et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26378">2603.26378</a></td>
 </tr>
 </tbody></table>

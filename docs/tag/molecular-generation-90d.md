@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25865.html">Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Haoyu Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25865">2606.25865</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23856.html">Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Konstantin Yatsenko et al.</td>
@@ -278,11 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11037.html">Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Ruiqing Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11037">2505.11037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26889.html">Property-Guided Molecular Generation and Optimization via Latent Flows</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Alexander Arjun Lobo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26889">2603.26889</a></td>
 </tr>
 </tbody></table>

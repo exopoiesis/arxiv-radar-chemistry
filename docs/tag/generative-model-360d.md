@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">489 papers</span>
+  <span class="paper-count">487 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2936,17 +2936,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01726.html">Generative flow-based warm start of the variational quantum eigensolver</a></div></td>
 <td>Hang Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01726">2507.01726</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07007.html">Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC</a></div></td>
-<td>Siwei Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2502.07007">2502.07007</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00899.html">TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Carlos Vonessen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00899">2507.00899</a></td>
 </tr>
 </tbody></table>

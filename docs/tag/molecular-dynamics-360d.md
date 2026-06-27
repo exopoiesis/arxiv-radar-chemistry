@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1592 papers</span>
+  <span class="paper-count">1589 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9548,23 +9548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03017.html">Mass Transfer Through Vapor-Liquid Interfaces From Hydrodynamic Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>B. Bursik et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03017">2507.03017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00364.html">Machine Learning Accelerated Computational Surface-Specific Vibrational Spectroscopy Reveals Oxidation Level of Graphene in Contact with Water</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Xianglong Du et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00364">2507.00364</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00528.html">Efficient GPU-Accelerated Training of a Neuroevolution Potential with Analytical Gradients</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Hongfu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00528">2507.00528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01220.html">Probing aqueous interfaces with spin defects</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Alfonso Castillo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01220">2507.01220</a></td>
 </tr>
 </tbody></table>

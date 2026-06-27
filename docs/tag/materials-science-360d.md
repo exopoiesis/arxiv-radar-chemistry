@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">429 papers</span>
+  <span class="paper-count">426 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2570,23 +2570,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02436.html">Toward a Robust and Generalizable Metamaterial Foundation Model</a></div></td>
 <td>Namjung Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02436">2507.02436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21021.html">Asymptotic Formulation of the Role of Shear Loads on Multi-Layered Thin Shells and Classification of Their Deformation Modes</a></div></td>
-<td>Xiwei Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21021">2407.21021</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00745.html">The interplay of ferroelectricity and magneto-transport in non-magnetic moiré superlattices</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Siqi Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00745">2507.00745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01220.html">Probing aqueous interfaces with spin defects</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Alfonso Castillo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01220">2507.01220</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">571 papers</span>
+  <span class="paper-count">568 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3422,23 +3422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07636.html">Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Bing Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2408.07636">2408.07636</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00899.html">TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Carlos Vonessen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00899">2507.00899</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01073.html">Rotational Sampling: A Plug-and-Play Encoder for Rotation-Invariant 3D Molecular GNNs</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Dian Jin</td>
-<td><a href="http://arxiv.org/abs/2507.01073">2507.01073</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02980.html">Modeling Gene Expression Distributional Shifts for Unseen Genetic Perturbations</a></div></td>
-<td>Kalyan Ramakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02980">2507.02980</a></td>
 </tr>
 </tbody></table>

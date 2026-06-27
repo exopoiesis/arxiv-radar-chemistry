@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2114 papers</span>
+  <span class="paper-count">2109 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12668,35 +12668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10557.html">An eco-friendly universal strategy via ribavirin to achieve highly efficient and stable perovskite solar cells</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Xianhu Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10557">2507.10557</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07433.html">Moments of inertia of rare-earth nuclei and the nuclear time-odd mean fields within exact solutions of the adiabatic theory</a></div></td>
-<td>Xuwei Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2502.07433">2502.07433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00528.html">Efficient GPU-Accelerated Training of a Neuroevolution Potential with Analytical Gradients</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hongfu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00528">2507.00528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00584.html">Monolayer Two-dimensional Materials Database (ML2DDB) and Applications</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Zhongwei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00584">2507.00584</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00590.html">Unveiling the impact of trivalent metal cation transmutation on Cs$_{2}$AgM(III)Cl$_{6}$ double perovskites using many-body perturbation theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Surajit Adhikari et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00590">2507.00590</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00599.html">Ab-initio-NEGF Fundamental Roadmap for Carbon-Nanotube and Two-Dimensional-Material MOSFETs at the Scaling and VDD Limit</a></div></td>
-<td>Aryan Afzalian</td>
-<td><a href="http://arxiv.org/abs/2507.00599">2507.00599</a></td>
 </tr>
 </tbody></table>

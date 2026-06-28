@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,11 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13358.html">The Geometry of Thought: How Scale Restructures Reasoning In Large Language Models</a></div></td>
 <td>Samuel Cyrenius Anderson</td>
 <td><a href="http://arxiv.org/abs/2601.13358">2601.13358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27684.html">Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Suyang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27684">2603.27684</a></td>
 </tr>
 </tbody></table>

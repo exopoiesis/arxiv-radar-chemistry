@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,17 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02662.html">Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning</a></div></td>
 <td>Vivin Vinod et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02662">2606.02662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29622.html">MōLe-Λ: Learning the Coupled-Cluster Response State for Energies, Gradients, and Properties</a></div></td>
-<td>Andreas Burger et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29622">2605.29622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30143.html">End-to-End Molecular Dynamics with a Langevin Thermostat on Quantum Circuits</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Masari Watanabe et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30143">2605.30143</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,23 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Ying You et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29774.html">Quantum algorithms for density functional theory with minimal readout</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Yuansheng Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29774">2605.29774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30204.html">Electron momentum densities from QSGW and $G^0W^0$: Revealing the role of many-body effects within the reduced density matrix</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>A. D. N. James et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30204">2605.30204</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30270.html">Exploring the Origins of Anti-Ambipolarity in BBL Polymer: Links to Redox Chemistry, Electronic Structure, and Structural Dynamics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Maryam Ghotbi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30270">2605.30270</a></td>
 </tr>
 </tbody></table>

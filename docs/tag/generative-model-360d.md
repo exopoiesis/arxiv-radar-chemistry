@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">487 papers</span>
+  <span class="paper-count">485 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2924,17 +2924,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03174.html">Latent Thermodynamic Flows: Unified Representation Learning and Generative Modeling of Temperature-Dependent Behaviors from Limited Data</a></div></td>
 <td>Yunrui Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03174">2507.03174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20767.html">Reliable algorithm selection for machine learning-guided design</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Clara Fannjiang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20767">2503.20767</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01726.html">Generative flow-based warm start of the variational quantum eigensolver</a></div></td>
-<td>Hang Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01726">2507.01726</a></td>
 </tr>
 </tbody></table>

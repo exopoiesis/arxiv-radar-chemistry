@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Bin Cao</td>
 <td><a href="http://arxiv.org/abs/2606.22425">2606.22425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21830.html">Mat-Pref: Verifiable-Reward Training Improves Compositional Reasoning in Inorganic Materials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Sarrah R. Mikhail Leung et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21830">2606.21830</a></td>
 </tr>
 </tbody></table>

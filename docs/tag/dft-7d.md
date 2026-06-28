@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22522.html">Generative Site-Specific Beamforming for UPAs via Decoupled Channel Sensing</a></div></td>
 <td>Yao Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22522">2606.22522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21830.html">Mat-Pref: Verifiable-Reward Training Improves Compositional Reasoning in Inorganic Materials</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Sarrah R. Mikhail Leung et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21830">2606.21830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22256.html">Van Hove Singularity and Phase Instability: Exploring the Role of Electron Correlation in the Magnetic Behavior of $\mathrm{Fe}_{16}\mathrm{N}_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Peter Stoeckl et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22256">2606.22256</a></td>
 </tr>
 </tbody></table>

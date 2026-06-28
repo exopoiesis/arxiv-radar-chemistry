@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,11 +578,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28726.html">Pentagonal PdTe2 Monolayer for Sustainable Solar-driven Hydrogen Production</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
 <td>Narender Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28726">2603.28726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27456.html">Electronic structure of higher-order layered palladates: La$_{n+1}$Pd$_{n}$O$_{2n+1}$ $(n = 4-7)$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Alexander K. Gavrilov et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27456">2603.27456</a></td>
 </tr>
 </tbody></table>

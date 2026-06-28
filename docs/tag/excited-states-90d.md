@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29257.html">GPU Accelerated Minimal Auxiliary Basis Approach TDDFT for Large Organic Molecules</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Zehao Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29257">2603.29257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07724.html">Geometric Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Éric Cancès et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07724">2601.07724</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Ying You et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30142.html">Koopman--von Neumann Molecular Dynamics for Green--Kubo Transport Coefficients</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Masari Watanabe et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30142">2605.30142</a></td>
 </tr>
 </tbody></table>

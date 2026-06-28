@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2109 papers</span>
+  <span class="paper-count">2102 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12626,47 +12626,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02629.html">Pressure-induced band gap energy increase in crystalline lactose</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Igor A. Fedorov</td>
 <td><a href="http://arxiv.org/abs/2507.02629">2507.02629</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.00705.html">Temperature-dependent thermodynamic properties of CrNbO4 and CrTaO4 by first-principles calculations</a></div></td>
-<td>Shuang Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2403.00705">2403.00705</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09338.html">Quasi-symmetry Constrained Spin Ferromagnetism in Altermagnets</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Mercè Roig et al.</td>
-<td><a href="http://arxiv.org/abs/2412.09338">2412.09338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01346.html">Electronic structure and defect properties of Bi-doped GaN: origins of photoluminescence and optical absorption</a></div></td>
-<td>Yujie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01346">2507.01346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01369.html">Effects of beyond-mean-field correlations on nuclear Schiff moments</a></div></td>
-<td>E. F. Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01369">2507.01369</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01849.html">Data-driven high-throughput search for the accelerated discovery of rare-earth-free permanent magnets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Junaid Jami et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01849">2507.01849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03017.html">Mass Transfer Through Vapor-Liquid Interfaces From Hydrodynamic Density Functional Theory</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>B. Bursik et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03017">2507.03017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10557.html">An eco-friendly universal strategy via ribavirin to achieve highly efficient and stable perovskite solar cells</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Xianhu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10557">2507.10557</a></td>
 </tr>
 </tbody></table>

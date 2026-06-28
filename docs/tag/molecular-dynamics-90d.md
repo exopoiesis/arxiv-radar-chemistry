@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">382 papers</span>
+  <span class="paper-count">378 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2282,29 +2282,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29027.html">Temporal reversibility of a fluid mixture under concentration gradient</a></div></td>
 <td>O. Politano et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29027">2603.29027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04718.html">Heat transport in superionic materials via machine-learned molecular dynamics</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Wenjiang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04718">2512.04718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27578.html">Heavy-ion collision simulation with high performance computer</a></div></td>
-<td>Dae Ik Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27578">2603.27578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27767.html">Understanding the Density Maximum of Water with Machine Learned Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Yizhi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27767">2603.27767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27828.html">From molecular dynamics to kinetic models: data-driven generalized collision operators in 1D3V plasmas</a></div></td>
-<td>Yue Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27828">2603.27828</a></td>
 </tr>
 </tbody></table>

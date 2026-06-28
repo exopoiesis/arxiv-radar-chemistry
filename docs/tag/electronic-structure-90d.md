@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,23 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28648.html">Hunting for quantum advantage in electronic structure calculations is a highly non-trivial task</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Örs Legeza et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28648">2603.28648</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07719.html">Geometric theory of constrained Schrödinger dynamics with application to time-dependent density-functional theory on a finite lattice</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Eric Cancès et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07719">2601.07719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27456.html">Electronic structure of higher-order layered palladates: La$_{n+1}$Pd$_{n}$O$_{2n+1}$ $(n = 4-7)$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Alexander K. Gavrilov et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27456">2603.27456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27767.html">Understanding the Density Maximum of Water with Machine Learned Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Yizhi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27767">2603.27767</a></td>
 </tr>
 </tbody></table>

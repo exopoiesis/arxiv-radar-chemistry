@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,11 +806,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03518.html">Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Sreeraj Rajan Warrier et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03518">2507.03518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01902.html">Analyzing Common Electronic Structure Theory Algorithms for Distributed Quantum Computing</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Grier M. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01902">2507.01902</a></td>
 </tr>
 </tbody></table>

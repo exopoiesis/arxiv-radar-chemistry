@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">378 papers</span>
+  <span class="paper-count">375 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2264,23 +2264,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05206.html">Doping Induced Magnetic and Electronic phase Transition in Ferrimagnetic Half-metallic Mn$_{4}$Al$_{11}$ Compound</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Sujoy Datta et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05206">2507.05206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12757.html">A comprehensive theory for relativistic polaritonic chemistry: a four components ab initio treatment of molecular systems coupled to quantum fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Guillaume Thiam et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12757">2409.12757</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.09338.html">Quasi-symmetry Constrained Spin Ferromagnetism in Altermagnets</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Mercè Roig et al.</td>
-<td><a href="http://arxiv.org/abs/2412.09338">2412.09338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01913.html">Advancing Magnetic Materials Discovery -- A structure-based machine learning approach for magnetic ordering and magnetic moment prediction</a></div></td>
-<td>Apoorv Verma et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01913">2507.01913</a></td>
 </tr>
 </tbody></table>

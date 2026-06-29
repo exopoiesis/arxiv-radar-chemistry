@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1585 papers</span>
+  <span class="paper-count">1579 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9488,41 +9488,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14158.html">Molecular Dynamics Simulations of Nanoscale Friction on Illite Clay: Effects of Solvent Salt Ions and Electric Double Layer</a></div></td>
 <td>Ge Li et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14158">2507.14158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03299.html">Universal Collection of Euclidean Invariants between Pairs of Position-Orientations</a></div></td>
-<td>Gijs Bellaard et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03299">2504.03299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18820.html">Structure and dynamics of finite three-dimensional Yukawa clusters in complex plasmas : Newtonian versus Langevin Dynamics</a></div></td>
-<td>Hirakjyoti Sarma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18820">2506.18820</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Jingchen Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02334">2507.02334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02734.html">Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT</a></div></td>
-<td>Wenqi Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02734">2507.02734</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02756.html">Generation of Intense Deep-Ultraviolet Pulses at 200 nm</a></div></td>
-<td>X. Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02756">2507.02756</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03148.html">Probing interfacial water via color-center-enabled spin magnetometry</a></div></td>
-<td>Kang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03148">2507.03148</a></td>
 </tr>
 </tbody></table>

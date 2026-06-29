@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">413 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,11 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03840.html">Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Manasa Kaniselvan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03840">2507.03840</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17874.html">Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning</a></div></td>
-<td>Runzhong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17874">2502.17874</a></td>
 </tr>
 </tbody></table>

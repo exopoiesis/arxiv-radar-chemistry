@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">453 papers</span>
+  <span class="paper-count">451 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2720,17 +2720,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04827.html">Severe Plastic Deformation of Ceramics by High-Pressure Torsion: Review of Principles and Applications</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
 <td>Kaveh Edalati et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04827">2507.04827</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02579.html">Electron-hole tunnelling probed in de Haas - van Alphen oscillations in the (double) Dirac semimetal NbTe$_4$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Maximilian Daschner et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02579">2507.02579</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02629.html">Pressure-induced band gap energy increase in crystalline lactose</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Igor A. Fedorov</td>
-<td><a href="http://arxiv.org/abs/2507.02629">2507.02629</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -638,17 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00027.html">Learning Inter-Atomic Potentials without Explicit Equivariance</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Ahmed A. Elhag et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00027">2510.00027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.21782.html">Accelerating Scientific Discovery with Autonomous Goal-evolving Agents</a></div></td>
-<td>Yuanqi Du et al.</td>
-<td><a href="http://arxiv.org/abs/2512.21782">2512.21782</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27950.html">Scaling Atomistic Protein Binder Design with Generative Pretraining and Test-Time Compute</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Kieran Didi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27950">2603.27950</a></td>
 </tr>
 </tbody></table>

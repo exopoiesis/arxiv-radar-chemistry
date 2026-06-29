@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07486.html">Sparse Autoencoders Reveal Interpretable Structure in Small Gene Language Models</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Haoxiang Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07486">2507.07486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06004.html">Into the Unknown: From Structure to Disorder in Protein Function Prediction</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Đesika Kolarić et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06004">2506.06004</a></td>
 </tr>
 </tbody></table>

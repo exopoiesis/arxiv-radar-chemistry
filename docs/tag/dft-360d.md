@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2102 papers</span>
+  <span class="paper-count">2097 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12596,35 +12596,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03840.html">Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="gnn-360d.html">gnn</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Manasa Kaniselvan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03840">2507.03840</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04813.html">Activation entropy of dislocation glide in body-centered cubic metals from atomistic simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Arnaud Allera et al.</td>
-<td><a href="http://arxiv.org/abs/2410.04813">2410.04813</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02312.html">Enhancement of quantum coherence in solid-state qubits via interface engineering</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Wing Ki Lo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02312">2507.02312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Jingchen Lian et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02334">2507.02334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02579.html">Electron-hole tunnelling probed in de Haas - van Alphen oscillations in the (double) Dirac semimetal NbTe$_4$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Maximilian Daschner et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02579">2507.02579</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02629.html">Pressure-induced band gap energy increase in crystalline lactose</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Igor A. Fedorov</td>
-<td><a href="http://arxiv.org/abs/2507.02629">2507.02629</a></td>
 </tr>
 </tbody></table>

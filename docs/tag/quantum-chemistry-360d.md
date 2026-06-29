@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">379 papers</span>
+  <span class="paper-count">377 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2276,17 +2276,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03968.html">Was Earth&#x27;s water acquired locally during the earliest phases of the Solar System formation?</a></div></td>
 <td>Lise Boitard-Crépeau et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03968">2507.03968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02625.html">The covariance matrix spectrum of correlated charge insulators reveals hidden connections to Coupled Cluster, Matrix Product, and Rokhsar-Kivelson states</a></div></td>
-<td>Izak Snyman et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02625">2507.02625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08009.html">Long-Term Stability of Superconducting Metal Superhydrides</a></div></td>
-<td>Vasily S. Minkov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08009">2507.08009</a></td>
 </tr>
 </tbody></table>

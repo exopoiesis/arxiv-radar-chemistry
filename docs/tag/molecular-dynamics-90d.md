@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">366 papers</span>
+  <span class="paper-count">362 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2186,29 +2186,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01471.html">TUNA: A streamlined quantum chemistry program for atoms and diatomics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Harry Brough</td>
 <td><a href="http://arxiv.org/abs/2604.01471">2604.01471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14975.html">Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Nicolaï Gouraud et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14975">2602.14975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29413.html">Concentration-Dependent Restructuring of Ionic Liquid Micelles Induced by an Anionic Surfactant</a></div></td>
-<td>Devansh Kaushik et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29413">2603.29413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29674.html">Investigating the Electrochemical Double Layer with Quantum-Chemical Simulations and Implicit Solvation Models</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Alessandro Mangiameli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29674">2603.29674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29682.html">Anisotropy-induced Inhomogeneous Melting in Finite Dust Clusters</a></div></td>
-<td>Sushree Monalisha Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29682">2603.29682</a></td>
 </tr>
 </tbody></table>

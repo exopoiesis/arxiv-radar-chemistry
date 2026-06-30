@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2097 papers</span>
+  <span class="paper-count">2090 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12554,47 +12554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03853.html">OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="gnn-360d.html">gnn</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Beom Seok Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03853">2507.03853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21171.html">Terahertz chiral photonic-crystal cavities for Dirac gap engineering in graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Fuyang Tay et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21171">2410.21171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22017.html">Crystal Structure and Collective Oxygen Transport in the High-Temperature Phase of Ta$_{2}$O$_{5}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22017">2410.22017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19229.html">Electric dipole polarizability constraints on neutron skin and symmetry energy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>P. von Neumann-Cosel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19229">2505.19229</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03274.html">Metallic NbS2 one-dimensional van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Wanyu Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03274">2507.03274</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03303.html">$Σ$3(111) Grain Boundaries Accelerate Hydrogen Insertion into Palladium Nanostructures</a></div></td>
-<td>K. A. U. Madhushani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03303">2507.03303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03618.html">Effect of alloying additions on the lattice ordering of Ti$_2$AlNb intermetallic</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Adilakshmi Chirumamilla et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03618">2507.03618</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03840.html">Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="gnn-360d.html">gnn</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Manasa Kaniselvan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03840">2507.03840</a></td>
 </tr>
 </tbody></table>

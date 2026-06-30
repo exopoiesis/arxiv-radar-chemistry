@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">566 papers</span>
+  <span class="paper-count">564 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3398,17 +3398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06366.html">DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Yupu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06366">2507.06366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03283.html">MolVision: Molecular Property Prediction with Vision Language Models</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Deepan Adak et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03283">2507.03283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03407.html">Artificial intelligence in drug discovery: A comprehensive review with a case study on hyperuricemia, gout arthritis, and hyperuricemic nephropathy</a></div></td>
-<td>Junwei Su et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03407">2507.03407</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,29 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01471.html">TUNA: A streamlined quantum chemistry program for atoms and diatomics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Harry Brough</td>
 <td><a href="http://arxiv.org/abs/2604.01471">2604.01471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16361.html">Observation of mirror-odd and mirror-even spin texture in ultra-thin epitaxially-strained RuO2 films</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Yichen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16361">2509.16361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29174.html">Role of surface states and band modulations in ultrathin ruthenium interconnects</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Gyungho Maeng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29174">2603.29174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29298.html">Machine Learning Assisted Reconstruction of Local Electronic Structure of Non-Uniformly Strained MoS2</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumyadip Hazra et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29298">2603.29298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29370.html">Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Yinan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29370">2603.29370</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>photocatalysis — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <a href="photocatalysis-30d.html">30d</a> <a href="photocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="photocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04827.html">Severe Plastic Deformation of Ceramics by High-Pressure Torsion: Review of Principles and Applications</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Kaveh Edalati et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04827">2507.04827</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22433.html">Plasmon-Induced Tuning of Cerium Oxidation States in Au@CeO$_x$ Core@Shell Nanoparticles</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Klára Beranová et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22433">2503.22433</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">278 papers</span>
+  <span class="paper-count">274 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1658,29 +1658,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01179.html">About the Strain-Coupled Molecular Dynamics in the Ferroelastic Phase Transition of TMACd(N$_3$)$_3$</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>A. Nonato et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01179">2507.01179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22017.html">Crystal Structure and Collective Oxygen Transport in the High-Temperature Phase of Ta$_{2}$O$_{5}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22017">2410.22017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00675.html">Molecular dynamics simulation of the effects of neutron irradiation on Caesium Lead Bromide</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Zhongming Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00675">2506.00675</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03518.html">Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Sreeraj Rajan Warrier et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03518">2507.03518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03602.html">Kinetic Langevin Diffusion for Crystalline Materials Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>François Cornet et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03602">2507.03602</a></td>
 </tr>
 </tbody></table>

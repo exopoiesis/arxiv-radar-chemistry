@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">359 papers</span>
+  <span class="paper-count">358 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2162,11 +2162,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04052.html">Understanding Reaction Mechanisms from Start to Finish</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="string-method-360d.html">string-method</a></div></td>
 <td>Rik S. Breebaart et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04052">2507.04052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03417.html">Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Eva Kogler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03417">2507.03417</a></td>
 </tr>
 </tbody></table>

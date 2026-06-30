@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,17 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18238.html">Origin of pressure-induced anomalies in the nodal-line ferrimagnet Mn$_3$Si$_2$Te$_6$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Varun Venkatasubramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18238">2509.18238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02215.html">Magnetoelectric effect in the mixed valence polyoxovanadate cage V$_{12}$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="quantum-computing-90d.html">quantum-computing</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Piotr Kozłowski</td>
-<td><a href="http://arxiv.org/abs/2512.02215">2512.02215</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29269.html">Determining the NJL Coupling and AMM in Magnetized QCD Matter via Machine Learning</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Zigeng Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29269">2603.29269</a></td>
 </tr>
 </tbody></table>

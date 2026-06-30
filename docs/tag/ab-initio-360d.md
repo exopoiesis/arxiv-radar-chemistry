@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1582 papers</span>
+  <span class="paper-count">1578 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9482,29 +9482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04053.html">TopoMAS: Large Language Model Driven Topological Materials Multiagent System</a></div></td>
 <td>Baohua Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04053">2507.04053</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21171.html">Terahertz chiral photonic-crystal cavities for Dirac gap engineering in graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Fuyang Tay et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21171">2410.21171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22017.html">Crystal Structure and Collective Oxygen Transport in the High-Temperature Phase of Ta$_{2}$O$_{5}$</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22017">2410.22017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19229.html">Electric dipole polarizability constraints on neutron skin and symmetry energy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>P. von Neumann-Cosel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19229">2505.19229</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03417.html">Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Eva Kogler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03417">2507.03417</a></td>
 </tr>
 </tbody></table>

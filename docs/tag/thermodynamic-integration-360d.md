@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">133 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -812,11 +812,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03480.html">The morphology and interface structure of titanium on graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Joachim Dahl Thomsen et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03480">2412.03480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03618.html">Effect of alloying additions on the lattice ordering of Ti$_2$AlNb intermetallic</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Adilakshmi Chirumamilla et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03618">2507.03618</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">566 papers</span>
+  <span class="paper-count">564 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3398,17 +3398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03480.html">The morphology and interface structure of titanium on graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Joachim Dahl Thomsen et al.</td>
 <td><a href="http://arxiv.org/abs/2412.03480">2412.03480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21171.html">Terahertz chiral photonic-crystal cavities for Dirac gap engineering in graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Fuyang Tay et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21171">2410.21171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03274.html">Metallic NbS2 one-dimensional van der Waals heterostructures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Wanyu Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03274">2507.03274</a></td>
 </tr>
 </tbody></table>

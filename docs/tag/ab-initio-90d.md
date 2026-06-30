@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">363 papers</span>
+  <span class="paper-count">355 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2144,53 +2144,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01471.html">TUNA: A streamlined quantum chemistry program for atoms and diatomics</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Harry Brough</td>
 <td><a href="http://arxiv.org/abs/2604.01471">2604.01471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16361.html">Observation of mirror-odd and mirror-even spin texture in ultra-thin epitaxially-strained RuO2 films</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Yichen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16361">2509.16361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05583.html">When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Arindam Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05583">2510.05583</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16017.html">The role of the apical oxygen in cuprate high-temperature superconductors</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Samuel Vadnais et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16017">2601.16017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22463.html">Many-Body effects beyond excitons in second-harmonic generation of monolayer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Peio Garcia-Goiricelaya et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22463">2602.22463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29775.html">The hadronic contribution to the running of the electroweak gauge couplings</a></div></td>
-<td>Alessandro Conigli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29775">2603.29775</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00097.html">Lagrangian Bias as a Gaussian Random Field</a></div></td>
-<td>Arka Banerjee</td>
-<td><a href="http://arxiv.org/abs/2604.00097">2604.00097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00233.html">Propagation-mediated amplification of \{11\={2}0\}-biased inversion domain boundary alignment in polarity-mixed GaN lateral overgrowth</a></div></td>
-<td>Harim Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00233">2604.00233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00244.html">Optical frequency comb Fourier transform spectroscopy of the CH$_2$$^{79}$Br$^{81}$Br, CH$_2$$^{79}$Br$_2$, and CH$_2$$^{81}$Br$_2$ isotopologues in the 1180-1210 cm$^{-1}$ region</a></div></td>
-<td>Ibrahim Sadiek et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00244">2604.00244</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1579 papers</span>
+  <span class="paper-count">1573 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9452,41 +9452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04527.html">New Molecular Dynamics Methods for Simulating Neutron Star Crusts with Superfluid Vortices</a></div></td>
 <td>M. E. Caplan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04527">2507.04527</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22017.html">Crystal Structure and Collective Oxygen Transport in the High-Temperature Phase of Ta$_{2}$O$_{5}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22017">2410.22017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14569.html">Roadmap for Molecular Benchmarks in Nonadiabatic Dynamics</a></div></td>
-<td>Léon E. Cigrang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.14569">2502.14569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00675.html">Molecular dynamics simulation of the effects of neutron irradiation on Caesium Lead Bromide</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Zhongming Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00675">2506.00675</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03417.html">Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Eva Kogler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03417">2507.03417</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03645.html">Nonlinear Mixing of Waves in a Yukawa One Component Plasma</a></div></td>
-<td>Ajaz Mir et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03645">2507.03645</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14158.html">Molecular Dynamics Simulations of Nanoscale Friction on Illite Clay: Effects of Solvent Salt Ions and Electric Double Layer</a></div></td>
-<td>Ge Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14158">2507.14158</a></td>
 </tr>
 </tbody></table>

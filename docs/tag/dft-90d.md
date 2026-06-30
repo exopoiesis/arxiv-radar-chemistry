@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">486 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2852,83 +2852,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01471.html">TUNA: A streamlined quantum chemistry program for atoms and diatomics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Harry Brough</td>
 <td><a href="http://arxiv.org/abs/2604.01471">2604.01471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18568.html">Freeze-and-release direct optimization method for variational calculations of excited electronic states</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Yorick L. A. Schmerwitz et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18568">2501.18568</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02215.html">Magnetoelectric effect in the mixed valence polyoxovanadate cage V$_{12}$</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="quantum-computing-90d.html">quantum-computing</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Piotr Kozłowski</td>
-<td><a href="http://arxiv.org/abs/2512.02215">2512.02215</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02173.html">Modeling the emission spectra of polycyclic aromatic hydrocarbons by recurrent fluorescence</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Damien Borja et al.</td>
-<td><a href="http://arxiv.org/abs/2601.02173">2601.02173</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16017.html">The role of the apical oxygen in cuprate high-temperature superconductors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Samuel Vadnais et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16017">2601.16017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21591.html">The roles of bulk and surface thermodynamics in the selective adsorption of a confined azeotropic mixture</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Katie L. Y. Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2601.21591">2601.21591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22463.html">Many-Body effects beyond excitons in second-harmonic generation of monolayer MoS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Peio Garcia-Goiricelaya et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22463">2602.22463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29174.html">Role of surface states and band modulations in ultrathin ruthenium interconnects</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Gyungho Maeng et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29174">2603.29174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29189.html">Phonon Signatures of Near-Room-Temperature Phase Transition in Quasi-One-Dimensional Bi4I4 Topological van der Waals Material</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Nidhish Thiruthukkal Puthenveettil et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29189">2603.29189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29198.html">Long-range interaction effects on the phase transition, mechanical effect, and electric field response of BaTiO3 by machine learning potentials</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Po-Yen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29198">2603.29198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29257.html">GPU Accelerated Minimal Auxiliary Basis Approach TDDFT for Large Organic Molecules</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Zehao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29257">2603.29257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29298.html">Machine Learning Assisted Reconstruction of Local Electronic Structure of Non-Uniformly Strained MoS2</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Soumyadip Hazra et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29298">2603.29298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29370.html">Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Yinan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29370">2603.29370</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29948.html">TD$Δ$SCF: Time-Dependent Density Functional Theory with a Non-Aufbau Reference for near-degenerate states</a></div></td>
-<td>Shuto Shibasaki et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29948">2603.29948</a></td>
 </tr>
 </tbody></table>

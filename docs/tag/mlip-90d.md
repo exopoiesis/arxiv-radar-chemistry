@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,23 +920,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01360.html">A New Paradigm for Computational Chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Raphael T. Husistein et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01360">2604.01360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00027.html">Learning Inter-Atomic Potentials without Explicit Equivariance</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Ahmed A. Elhag et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00027">2510.00027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14975.html">Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Nicolaï Gouraud et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14975">2602.14975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29198.html">Long-range interaction effects on the phase transition, mechanical effect, and electric field response of BaTiO3 by machine learning potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Po-Yen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29198">2603.29198</a></td>
 </tr>
 </tbody></table>

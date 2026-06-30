@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2468,23 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03920.html">Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Jianshen Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03920">2507.03920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12309.html">A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications</a></div></td>
-<td>Eugenio Borzone et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12309">2501.12309</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03474.html">Molecular Machine Learning Using Euler Characteristic Transforms</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Victor Toscano-Duran et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03474">2507.03474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03840.html">Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Manasa Kaniselvan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03840">2507.03840</a></td>
 </tr>
 </tbody></table>

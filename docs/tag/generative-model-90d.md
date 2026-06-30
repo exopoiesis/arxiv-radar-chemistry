@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,17 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01169.html">Bridging the Simulation-to-Experiment Gap with Generative Models using Adversarial Distribution Alignment</a></div></td>
 <td>Kai Nelson et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01169">2604.01169</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04672.html">AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
-<td>Jin-Chuan Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04672">2602.04672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29812.html">AMShortcut: An Inference- and Training-Efficient Inverse Design Model for Amorphous Materials</a></div></td>
-<td>Yan Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29812">2603.29812</a></td>
 </tr>
 </tbody></table>

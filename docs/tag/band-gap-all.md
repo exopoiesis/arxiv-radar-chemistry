@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>band-gap — all</h1>
-  <span class="paper-count">879 papers</span>
+  <span class="paper-count">861 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5180,113 +5180,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00293.html">Ferroelectricity in oxygen-terminated 2D carbides of lanthanide elements</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Lin Han et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00293">2406.00293</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19927.html">Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Puneet Kumar Shaw et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19927">2405.19927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18683.html">DFT+U+V Study of Magnetic Ordering in Single-Layer Pentahexoctite: Implications for Magnetic Device Platforms</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Sejoong Kim</td>
-<td><a href="http://arxiv.org/abs/2405.18683">2405.18683</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17899.html">Near IR bandgap semiconductive 2D conjugated metal-organic framework with rhombic lattice and high mobility</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="mof-all.html">mof</a></div></td>
-<td>Lukas Sporrer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17899">2405.17899</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18473.html">Hysteresis of Axionic Charge Density Waves</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Joan Bernabeu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18473">2405.18473</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16743.html">Tuning the Electronic and Optical Properties of Impurity-Engineered Two-Dimensional Graphullerene Half-Semiconductors</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>M. A. Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16743">2405.16743</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14817.html">Unraveling electronic structure of GeS through ARPES and its correlation with anisotropic optical and transport behavior</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Rahul Paramanik et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14817">2405.14817</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15465.html">Thermal boundary conductance of metal diamond interfaces predicted by machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Khalid Zobaid Adnan et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15465">2404.15465</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13361.html">Mechanistic Insights into Non-Adiabatic Interband Transitions on a Semiconductor Surface Induced by Hydrogen Atom Collisions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lingjun Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13361">2405.13361</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11502.html">CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="gnn-all.html">gnn</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Zijian Du et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11502">2405.11502</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10222.html">Kramers nodal line in the charge density wave state of YTe$_3$ and the influence of twin domains</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Shuvam Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10222">2405.10222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08465.html">Inverted band gap trend through octahedral ordering in Cs$_2$Au$_2$X$_6$ (X=Cl, Br, I)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Kazuki Morita et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08465">2404.08465</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09119.html">Molecular order induced charge transfer in a C$_{60}$-topological insulator moiré heterostructure</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Ram Prakash Pandeya et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09119">2405.09119</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08966.html">2D Nitride Ordered Alloys: A Novel Class of Ultra-Wide Bandgap Semiconductors</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Raagya Arora et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08966">2405.08966</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07058.html">Mixed quantum-classical modeling of exciton-phonon scattering in solids: Application to optical linewidths of monolayer MoS2</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Alex Krotz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07058">2405.07058</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04256.html">Fermi surface of the chiral topological semimetal CoSi</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Nico Huber et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04256">2405.04256</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04478.html">Exploration of Novel Neuromorphic Methodologies for Materials Applications</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Derek Gobin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04478">2405.04478</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04581.html">Spin-Hall effect in topological materials: Evaluating the proper spin current in systems with arbitrary degeneracies</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Hongyang Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04581">2405.04581</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03137.html">Calculated Unconventional Superconductivity via Charge Fluctuations in Kagome Metal CsV3Sb5</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Yuan Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03137">2405.03137</a></td>
 </tr>
 </tbody></table>

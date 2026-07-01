@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">321 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1862,83 +1862,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01650.html">TAGMol: Target-Aware Gradient-guided Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
 <td>Vineeth Dorna et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01650">2406.01650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12141.html">MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Yanru Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12141">2404.12141</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17802.html">Multi-level Interaction Modeling for Protein Mutational Effect Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Yuanle Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17802">2405.17802</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14925.html">PILOT: Equivariant diffusion for pocket conditioned de novo ligand generation with multi-objective guidance via importance sampling</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Julian Cremer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14925">2405.14925</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11769.html">Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Eric Alcaide et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11769">2405.11769</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11631.html">Competitive ligand binding kinetics to linear polymers</a></div></td>
-<td>Juan P. G. Villaluenga et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11631">2405.11631</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07452.html">PLA-SGCN: Protein-Ligand Binding Affinity Prediction by Integrating Similar Pairs and Semi-supervised Graph Convolutional Network</a></div></td>
-<td>Karim Abbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07452">2405.07452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07449.html">Evaluation of In vitro anti-inflammatory activity and Insilico pharmacokinetics and molecular docking study of Horsfieldia iryaghedhi</a></div></td>
-<td>Rajapaksha HKK et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07449">2405.07449</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03370.html">AntiFold: Improved antibody structure-based design using inverse folding</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a></div></td>
-<td>Magnus Haraldson Høie et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03370">2405.03370</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02374.html">Protein binding affinity prediction under multiple substitutions applying eGNNs on Residue and Atomic graphs combined with Language model information: eGRAL</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Arturo Fiorellini-Bernardis et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02374">2405.02374</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02498.html">Multimatrix variate distributions</a></div></td>
-<td>José A. Díaz-García et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02498">2405.02498</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01616.html">Generative Active Learning for the Search of Small-molecule Protein Binders</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Maksym Korablyov et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01616">2405.01616</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00339.html">Canonized then Minimized RMSD for Three-Dimensional Structures</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00339">2405.00339</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00647.html">Screening of BindingDB database ligands against EGFR, HER2, Estrogen, Progesterone and NF-kB receptors based on machine learning and molecular docking</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Parham Rezaee et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00647">2405.00647</a></td>
 </tr>
 </tbody></table>

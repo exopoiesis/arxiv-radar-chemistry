@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-computing — all</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1340,53 +1340,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01704.html">Distributed Quantum Computing in Silicon</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Photonic Inc et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01704">2406.01704</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14561.html">Beyond the Buzz: Strategic Paths for Enabling Useful NISQ Applications</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Pratibha Raghupati Hegde et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14561">2405.14561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11436.html">Quantum sampling algorithms for quantum state preparation and matrix block-encoding</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Jessica Lemieux et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11436">2405.11436</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.13122.html">Exploration of Quantum Computing in Materials Discovery for Direct Air Capture Applications</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
-<td>Marco Antonio Barroca et al.</td>
-<td><a href="http://arxiv.org/abs/2404.13122">2404.13122</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09842.html">Why Superconducting Ta Qubits Have Fewer Tunneling Two-Level Systems at the Air-Oxide Interface Than Nb Qubits</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Zhe Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09842">2405.09842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09122.html">Full Band Structure Calculation of Semiconducting Materials on a Noisy Quantum Processor</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Shaobo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09122">2405.09122</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09164.html">Rapidly Achieving Chemical Accuracy with Quantum Computing Enforced Language Model</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Honghui Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09164">2405.09164</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05205.html">Hybrid Quantum Graph Neural Network for Molecular Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="gnn-all.html">gnn</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Michael Vitz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05205">2405.05205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05982.html">Quantum-Inspired Genetic Algorithm for Designing Planar Multilayer Photonic Structure</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
-<td>Zhihao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05982">2405.05982</a></td>
 </tr>
 </tbody></table>

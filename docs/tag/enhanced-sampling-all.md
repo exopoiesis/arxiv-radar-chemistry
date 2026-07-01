@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>enhanced-sampling — all</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <a href="enhanced-sampling-90d.html">90d</a> <a href="enhanced-sampling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,17 +518,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08964.html">Kinetics-Optimized Enhanced Sampling Using Mean First Passage Times</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Tiejun Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2406.08964">2406.08964</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08636.html">Optimal design of experiments in the context of machine-learning inter-atomic potentials: improving the efficiency and transferability of kernel based methods</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Bartosz Barzdajn et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08636">2405.08636</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00751.html">F$^3$low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Shaoning Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00751">2405.00751</a></td>
 </tr>
 </tbody></table>

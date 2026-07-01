@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>photocatalysis — all</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <a href="photocatalysis-30d.html">30d</a> <a href="photocatalysis-90d.html">90d</a> <a href="photocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,23 +434,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09071.html">Origin and properties of the flat band in NbOCl2 monolayer</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
 <td>Mohammad Ali Mohebpour et al.</td>
 <td><a href="http://arxiv.org/abs/2407.09071">2407.09071</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20575.html">Mechanism of anatase-to-columbite TiO2 phase transformation via sheared phases: first-principles calculations and high-pressure torsion experiments</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Jacqueline Hidalgo-Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20575">2405.20575</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15615.html">Sensitivity of K$β$ mainline X-ray emission to structural dynamics in iron photosensitizer</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Johanna Rogvall et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15615">2405.15615</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00851.html">Molecular Insights into the Water Dissociation and Proton Dynamics at the $β$-TaON (100)/Water Interface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Sagarmoy Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00851">2405.00851</a></td>
 </tr>
 </tbody></table>

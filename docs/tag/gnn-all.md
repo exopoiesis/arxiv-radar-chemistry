@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">745 papers</span>
+  <span class="paper-count">730 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4394,95 +4394,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19121.html">Spatio-Spectral Graph Neural Networks</a></div></td>
 <td>Simon Geisler et al.</td>
 <td><a href="http://arxiv.org/abs/2405.19121">2405.19121</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20882.html">Sheaf HyperNetworks for Personalized Federated Learning</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Bao Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20882">2405.20882</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.04217.html">Performance Assessment of Universal Machine Learning Interatomic Potentials: Challenges and Directions for Materials&#x27; Surfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Bruno Focassio et al.</td>
-<td><a href="http://arxiv.org/abs/2403.04217">2403.04217</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18891.html">Inverse Design of Promising Alloys for Electrocatalytic CO$_2$ Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18891">2405.18891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03777.html">Rare Event Sampling using Smooth Basin Classification</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
-<td>Sander Vandenhaute et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03777">2404.03777</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12868.html">Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics</a></div></td>
-<td>Liming Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12868">2405.12868</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11502.html">CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Zijian Du et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11502">2405.11502</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09779.html">Integrating Uncertainty-Aware Human Motion Prediction into Graph-Based Manipulator Motion Planning</a></div></td>
-<td>Wansong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09779">2405.09779</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09227.html">Unraveling impacts of polycrystalline microstructures on ionic conductivity of ceramic electrolytes by computational homogenization and machine learning</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a></div></td>
-<td>Xiang-Long Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09227">2405.09227</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07915.html">Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks</a></div></td>
-<td>Yuchen Lou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07915">2405.07915</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06917.html">Design Requirements for Human-Centered Graph Neural Network Explanations</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Pantea Habibi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06917">2405.06917</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05205.html">Hybrid Quantum Graph Neural Network for Molecular Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Michael Vitz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05205">2405.05205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04478.html">Exploration of Novel Neuromorphic Methodologies for Materials Applications</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Derek Gobin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04478">2405.04478</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02628.html">Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Zexing Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02628">2405.02628</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02359.html">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-level Anomaly Detection</a></div></td>
-<td>Jindong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02359">2405.02359</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02374.html">Protein binding affinity prediction under multiple substitutions applying eGNNs on Residue and Atomic graphs combined with Language model information: eGRAL</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Arturo Fiorellini-Bernardis et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02374">2405.02374</a></td>
 </tr>
 </tbody></table>

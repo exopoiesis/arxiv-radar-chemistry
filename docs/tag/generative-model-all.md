@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">808 papers</span>
+  <span class="paper-count">796 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4790,77 +4790,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00735.html">Full-Atom Peptide Design based on Multi-modal Flow Matching</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Jiahan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00735">2406.00735</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20573.html">Enhancing Generative Molecular Design via Uncertainty-guided Fine-tuning of Variational Autoencoders</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>A N M Nafiz Abeer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20573">2405.20573</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19706.html">Bridging eResearch Infrastructure and Experimental Materials Science Process in the Quantum Data Hub</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Amarnath Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19706">2405.19706</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13897.html">CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Longwen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13897">2406.13897</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18891.html">Inverse Design of Promising Alloys for Electrocatalytic CO$_2$ Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18891">2405.18891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12141.html">MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Yanru Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12141">2404.12141</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18075.html">Implicitly Guided Design with PropEn: Match your Data to Follow the Gradient</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Nataša Tagasovska et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18075">2405.18075</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16829.html">Make-it-Real: Unleashing Large Multimodal Model for Painting 3D Objects with Realistic Materials</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="multimodal-llm-all.html">multimodal-llm</a></div></td>
-<td>Ye Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16829">2404.16829</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06671.html">Simple arithmetic operation in latent space can generate a novel three dimensional graph metamaterials</a></div></td>
-<td>Namjung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06671">2404.06671</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05293.html">A Review on Fragment-based De Novo 2D Molecule Generation</a></div></td>
-<td>Sergei Voloboev</td>
-<td><a href="http://arxiv.org/abs/2405.05293">2405.05293</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03332.html">Molecular dynamics simulations of neutron induced collision cascades in Zr - statistical modelling of irradiation damage and potential applications</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Bartosz Barzdajn et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03332">2405.03332</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00666.html">RGB$\leftrightarrow$X: Image decomposition and synthesis using material- and lighting-aware diffusion models</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Zheng Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00666">2405.00666</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00751.html">F$^3$low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Shaoning Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00751">2405.00751</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">219 papers</span>
+  <span class="paper-count">212 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1286,47 +1286,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06459.html">How Useful is Intermittent, Asynchronous Expert Feedback for Bayesian Optimization?</a></div></td>
 <td>Agustinus Kristiadi et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06459">2406.06459</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19490.html">Bayesian optimization scheme for the design of a nanofibrous high power target</a></div></td>
-<td>W. Asztalos et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19490">2405.19490</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.05015.html">A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?</a></div></td>
-<td>Agustinus Kristiadi et al.</td>
-<td><a href="http://arxiv.org/abs/2402.05015">2402.05015</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16230.html">Active oversight and quality control in standard Bayesian optimization for autonomous experiments</a></div></td>
-<td>Sumner B. Harris et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16230">2405.16230</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14657.html">Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions</a></div></td>
-<td>Marshal Arijona Sinaga et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14657">2405.14657</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07130.html">Two-Shot Optimization of Compositionally Complex Refractory Alloys</a></div><div class="paper-tags"><a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>James D. Paramore et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07130">2405.07130</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14146.html">Physics-based reward driven image analysis in microscopy</a></div></td>
-<td>Kamyar Barakati et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14146">2404.14146</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02449.html">Quality-Weighted Vendi Scores And Their Application To Diverse Experimental Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Quan Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02449">2405.02449</a></td>
 </tr>
 </tbody></table>

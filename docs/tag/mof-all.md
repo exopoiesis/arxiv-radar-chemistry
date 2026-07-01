@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mof — all</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <a href="mof-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,23 +470,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01004.html">Pt nanoparticles dispersed in a metal-organic framework as peroxidase mimics for colorimetric detection of GSH</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
 <td>Yanzheng Shu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01004">2406.01004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17899.html">Near IR bandgap semiconductive 2D conjugated metal-organic framework with rhombic lattice and high mobility</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Lukas Sporrer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17899">2405.17899</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07614.html">Exploration of oxyfluoride frameworks as Na-ion cathodes</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Debolina Deb et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07614">2405.07614</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06465.html">Quantum-Accurate Machine Learning Potentials for Metal-Organic Frameworks using Temperature Driven Active Learning</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Abhishek Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06465">2405.06465</a></td>
 </tr>
 </tbody></table>

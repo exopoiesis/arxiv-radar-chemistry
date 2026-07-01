@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure — all</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">507 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3056,107 +3056,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01845.html">Interface doping and the effect of strain and oxygen stoichiometry on the transport and electronic structure properties of SrIrO$_3$ heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>Wesley Surta et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01845">2406.01845</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20837.html">Isotope substitution and polytype control for point defects identification: the case of the ultraviolet color center in hexagonal boron nitride</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>J. Plo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20837">2405.20837</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17899.html">Near IR bandgap semiconductive 2D conjugated metal-organic framework with rhombic lattice and high mobility</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="mof-all.html">mof</a></div></td>
-<td>Lukas Sporrer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17899">2405.17899</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18659.html">Structure and crystallization of SiO2 and B2O3 doped lithium disilicate glasses from theory and experiment</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Andreas Erlebach et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18659">2405.18659</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17371.html">Muon spin relaxation in mixed perovskite (LaAlO$_3$)$_{x}$(SrAl$_{0.5}$Ta$_{0.5}$O$_3$)$_{1-x}$ with $x\simeq 0.3$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Takashi U. Ito et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17371">2405.17371</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12859.html">Defect-assisted reversible phase transition in mono- and few-layer ReS$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>George Zograf et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12859">2405.12859</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13213.html">Low-energy pathways lead to self-healing defects in CsPbBr$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Kumar Miskin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13213">2405.13213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11502.html">CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Zijian Du et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11502">2405.11502</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11599.html">Lattice matched heterogeneous nucleation eliminate defective buried interface in halide perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Paramvir Ahlawat et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11599">2405.11599</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10222.html">Kramers nodal line in the charge density wave state of YTe$_3$ and the influence of twin domains</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Shuvam Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10222">2405.10222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07614.html">Exploration of oxyfluoride frameworks as Na-ion cathodes</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="dft-all.html">dft</a> · <a href="mof-all.html">mof</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Debolina Deb et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07614">2405.07614</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06262.html">Creating cyclo-N$_5$$^{+}$ cation and assembling N$_5$$^{+}$N$_5$$^{-}$ salt via electronegativity co-matching in tailored ionic compounds</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Bi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06262">2405.06262</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06060.html">GdWN$_3$ is a Nitride Perovskite</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Rebecca W. Smaha et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06060">2405.06060</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05205.html">Hybrid Quantum Graph Neural Network for Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Michael Vitz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05205">2405.05205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04630.html">Ferrimagnetism induced by thermal vibrations in oxygen-deficient manganite heterostructures</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Moloud Kaviani et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04630">2405.04630</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02934.html">Projected gradient descent algorithm for $\textit{ab initio}$ crystal structure relaxation under a fixed unit cell volume</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Yukuan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02934">2405.02934</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03071.html">Coherent Transfer of Lattice Entropy via Extreme Nonlinear Phononics in Metal Halide Perovskites</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Z. Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03071">2405.03071</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14598.html">Dynamic Nanodomains Dictate Macroscopic Properties in Lead Halide Perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Milos Dubajic et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14598">2404.14598</a></td>
 </tr>
 </tbody></table>

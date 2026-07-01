@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>structure-prediction — all</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">277 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1676,29 +1676,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01547.html">Encoding lattice structures in Quantum Computational Basis States</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
 <td>Kalyan Dasgupta</td>
 <td><a href="http://arxiv.org/abs/2406.01547">2406.01547</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18968.html">UniIF: Unified Molecule Inverse Folding</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Zhangyang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18968">2405.18968</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11735.html">Accurate and efficient protein embedding using multi-teacher distillation learning</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Jiayu Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11735">2405.11735</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10260.html">HelixFold-Multimer: Elevating Protein Complex Structure Prediction to New Heights</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Xiaomin Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10260">2404.10260</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02299.html">Deep Reinforcement Learning for Modelling Protein Complexes</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Ziqi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02299">2405.02299</a></td>
 </tr>
 </tbody></table>

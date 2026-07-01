@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-science — all</h1>
-  <span class="paper-count">798 papers</span>
+  <span class="paper-count">782 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4706,101 +4706,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05577.html">Flexible Multi-Dimensional FFTs for Plane Wave Density Functional Theory Codes</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Doru Thom Popovici et al.</td>
 <td><a href="http://arxiv.org/abs/2406.05577">2406.05577</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02591.html">Unveiling the Potential of AI for Nanomaterial Morphology Prediction</a></div></td>
-<td>Ivan Dubrovsky et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02591">2406.02591</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.04217.html">Performance Assessment of Universal Machine Learning Interatomic Potentials: Challenges and Directions for Materials&#x27; Surfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Bruno Focassio et al.</td>
-<td><a href="http://arxiv.org/abs/2403.04217">2403.04217</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19706.html">Bridging eResearch Infrastructure and Experimental Materials Science Process in the Quantum Data Hub</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Amarnath Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19706">2405.19706</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19873.html">Computing Elastic Tensors of Amorphous Materials from First-Principles</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>C. Pashartis et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19873">2405.19873</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00031.html">AMGPT: a Large Language Model for Contextual Querying in Additive Manufacturing</a></div></td>
-<td>Achuth Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00031">2406.00031</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16829.html">Make-it-Real: Unleashing Large Multimodal Model for Painting 3D Objects with Realistic Materials</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="multimodal-llm-all.html">multimodal-llm</a></div></td>
-<td>Ye Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16829">2404.16829</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11502.html">CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Zijian Du et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11502">2405.11502</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07898.html">Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kylee Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07898">2405.07898</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04967.html">MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Han Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04967">2405.04967</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06416.html">Biaxial strain effects in 2D diamond formation from graphene stacks</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Rajaji Vincent et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06416">2405.06416</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.17815.html">Ultrafast Heating Induced Suppression of $d$-band Dominance in the Electronic Excitation Spectrum of Cuprum</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Zhandos Moldabekov et al.</td>
-<td><a href="http://arxiv.org/abs/2403.17815">2403.17815</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05205.html">Hybrid Quantum Graph Neural Network for Molecular Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="gnn-all.html">gnn</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Michael Vitz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05205">2405.05205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04478.html">Exploration of Novel Neuromorphic Methodologies for Materials Applications</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Derek Gobin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04478">2405.04478</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03805.html">A snapshot review on soft-materials assembly design utilizing machine learning methods</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Maya M. Martirossyan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03805">2405.03805</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01824.html">Creation of Novel Soft Robot Designs using Generative AI</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Wee Kiat Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01824">2405.01824</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01983.html">Model-based reinforcement learning for protein backbone design</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Frederic Renard et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01983">2405.01983</a></td>
 </tr>
 </tbody></table>

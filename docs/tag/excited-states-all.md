@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">391 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2360,53 +2360,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04475.html">Estimating molecular thermal averages with the quantum equation of motion and informationally complete measurements</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Daniele Morrone et al.</td>
 <td><a href="http://arxiv.org/abs/2406.04475">2406.04475</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16632.html">Computational Investigation of Reactivity Parameters, UV-Vis and IR Spectra, NLO Properties, and Temperature-Dependent Thermodynamic Characteristics of Schiff-Based Interdigitated 5O.m (m=14,16) Liquid Crystalline Compounds: A DFT Analysis</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Kritika Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16632">2405.16632</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15615.html">Sensitivity of K$β$ mainline X-ray emission to structural dynamics in iron photosensitizer</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Johanna Rogvall et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15615">2405.15615</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14305.html">High-precision spectroscopy of $^{20}$O benchmarking ab-initio calculations in light nuclei</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>I. Zanon et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14305">2405.14305</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.02776.html">Ultrahigh Resolution X-ray Thomson Scattering Measurements at the European XFEL</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Thomas Gawne et al.</td>
-<td><a href="http://arxiv.org/abs/2403.02776">2403.02776</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08693.html">Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="string-method-all.html">string-method</a></div></td>
-<td>Brieuc Le Dé et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08693">2405.08693</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07794.html">Deeper-band electron contributions to stopping power of silicon for low-energy ions</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>F. Matias et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07794">2405.07794</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.17815.html">Ultrafast Heating Induced Suppression of $d$-band Dominance in the Electronic Excitation Spectrum of Cuprum</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Zhandos Moldabekov et al.</td>
-<td><a href="http://arxiv.org/abs/2403.17815">2403.17815</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01382.html">Benchmarking DFT-based excited-state methods for intermolecular charge-transfer excitations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Nicola Bogo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01382">2405.01382</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-materials — all</h1>
-  <span class="paper-count">301 papers</span>
+  <span class="paper-count">291 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1760,65 +1760,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00468.html">Molecular Modelling of Aqueous Batteries</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Alicia van Hees et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00468">2406.00468</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17947.html">High capacity NbS2-based anodes for Li-ion batteries</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Alexandra Carvalho et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17947">2405.17947</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16835.html">Superionic surface Li-ion transport in carbonaceous materials</a></div><div class="paper-tags"><a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Jianbin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16835">2405.16835</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13261.html">Image charge effects under metal and dieletric boundary conditions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Tingtao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13261">2405.13261</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10384.html">Residual Stress Development in Lattice Mismatched Epitaxial Thin Films via Atomic and Molecular Layer Depositions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Musanna Galib et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10384">2405.10384</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09227.html">Unraveling impacts of polycrystalline microstructures on ionic conductivity of ceramic electrolytes by computational homogenization and machine learning</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Xiang-Long Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09227">2405.09227</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07614.html">Exploration of oxyfluoride frameworks as Na-ion cathodes</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="mof-all.html">mof</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Debolina Deb et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07614">2405.07614</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07675.html">Super-concentrated alkali hydroxide electrolytes for rechargeable Zn batteries</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yilin Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07675">2405.07675</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16999.html">Atomistic Modelling of High-Entropy Layered Anodes and Their Electrolyte Interface</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Amreen Bano et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16999">2404.16999</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07370.html">Accelerating QM/MM simulations of electrochemical interfaces through machine learning of electronic charge densities</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Andrea Grisafi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07370">2405.07370</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03466.html">A family of air-stable chalcogenide solid electrolytes in Li$_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Huican Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03466">2405.03466</a></td>
 </tr>
 </tbody></table>

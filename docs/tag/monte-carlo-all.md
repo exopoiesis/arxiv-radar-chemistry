@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">547 papers</span>
+  <span class="paper-count">538 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3242,59 +3242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03959.html">Path Integral Monte Carlo Simulation of Superfluid Ring Lattices</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Orjan Ameye</td>
 <td><a href="http://arxiv.org/abs/2406.03959">2406.03959</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19193.html">Collapse/expansion dynamics and actuation of pH-responsive nanogels</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Jiaxing Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19193">2405.19193</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09280.html">Improved Optimization for the Neural-network Quantum States and Tests on the Chromium Dimer</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Xiang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09280">2404.09280</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13664.html">Isovector giant dipole resonance mode with an improved propagation approach in the framework of EQMD model</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Chen-Zhong Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13664">2405.13664</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10627.html">First principles simulations of dense hydrogen</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Michael Bonitz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10627">2405.10627</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08480.html">Dynamic exchange-correlation effects in the strongly coupled electron liquid</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Tobias Dornheim et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08480">2405.08480</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04183.html">Super-suppression of long wavelength phonons in constricted nanoporous geometries</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Alex Greaney et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04183">2405.04183</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03120.html">A Curated Rotamer Library for Common Post-Translational Modifications of Proteins</a></div><div class="paper-tags"><a href="protein-function-all.html">protein-function</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Oufan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03120">2405.03120</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01983.html">Model-based reinforcement learning for protein backbone design</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Frederic Renard et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01983">2405.01983</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02216.html">Integrating Molecular Dynamics Simulations and Experimental Data for Azeotrope Predictions in Binary Mixtures</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Xiaoyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02216">2405.02216</a></td>
 </tr>
 </tbody></table>

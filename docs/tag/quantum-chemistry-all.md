@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">677 papers</span>
+  <span class="paper-count">663 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3992,89 +3992,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01704.html">Distributed Quantum Computing in Silicon</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
 <td>Photonic Inc et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01704">2406.01704</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04366.html">Simulating and comparing the quantum and classical mechanically motion of two hydrogen atoms</a></div></td>
-<td>Hui-hui Miao</td>
-<td><a href="http://arxiv.org/abs/2406.04366">2406.04366</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09280.html">Improved Optimization for the Neural-network Quantum States and Tests on the Chromium Dimer</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Xiang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09280">2404.09280</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14561.html">Beyond the Buzz: Strategic Paths for Enabling Useful NISQ Applications</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Pratibha Raghupati Hegde et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14561">2405.14561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12404.html">A Phase Space Approach to Vibrational Circular Dichroism</a></div></td>
-<td>Titouan Duston et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12404">2405.12404</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11436.html">Quantum sampling algorithms for quantum state preparation and matrix block-encoding</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Jessica Lemieux et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11436">2405.11436</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11553.html">Perspective: Multi-configurational methods in bio-inorganic chemistry</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Frederik K. Jørgensen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11553">2405.11553</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09122.html">Full Band Structure Calculation of Semiconducting Materials on a Noisy Quantum Processor</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Shaobo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09122">2405.09122</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09164.html">Rapidly Achieving Chemical Accuracy with Quantum Computing Enforced Language Model</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Honghui Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09164">2405.09164</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06595.html">Atomic Quantum Technologies for Quantum Matter and Fundamental Physics Applications</a></div></td>
-<td>Jorge Yago Malo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06595">2405.06595</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19554.html">Entanglement-assisted phase estimation algorithm for calculating dynamical response functions</a></div></td>
-<td>Rei Sakuma et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19554">2404.19554</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05092.html">Understanding solid nitrogen through machine learning simulation</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Marcin Kirsz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05092">2405.05092</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03276.html">Interactions and cold collisions of AlF in the ground and excited electronic states with He</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Sangami Ganesan-Santhi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03276">2405.03276</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03050.html">Quantum Chemistry Model of Surface Reactions and Kinetic Model of Diamond Growth: Effects of CH3 Radicals and C2H2 Molecules at Low-Temperatures CVD</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Yuri Barsukov et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03050">2405.03050</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00275.html">Near Infrared Diffuse Interstellar Bands Characterized by Fullerene and Graphene Molecules</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Norio Ota</td>
-<td><a href="http://arxiv.org/abs/2405.00275">2405.00275</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">419 papers</span>
+  <span class="paper-count">410 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2474,59 +2474,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01808.html">In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
 <td>Grzegorz Kaszuba et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01808">2406.01808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20573.html">Enhancing Generative Molecular Design via Uncertainty-guided Fine-tuning of Variational Autoencoders</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>A N M Nafiz Abeer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20573">2405.20573</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20882.html">Sheaf HyperNetworks for Personalized Federated Learning</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Bao Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20882">2405.20882</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15544.html">Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction</a></div></td>
-<td>Zeyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15544">2405.15544</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15928.html">PatchProt: Hydrophobic patch prediction using protein foundation models</a></div></td>
-<td>Dea Gogishvili et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15928">2405.15928</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14203.html">GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Thao Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14203">2405.14203</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11393.html">Optical materials discovery and design with federated databases and machine learning</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Victor Trinquet et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11393">2405.11393</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02628.html">Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Zexing Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02628">2405.02628</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00949.html">The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Lee Youngmin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00949">2405.00949</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00972.html">CACTUS: Chemistry Agent Connecting Tool-Usage to Science</a></div></td>
-<td>Andrew D. McNaughton et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00972">2405.00972</a></td>
 </tr>
 </tbody></table>

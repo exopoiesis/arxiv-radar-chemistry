@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1023 papers</span>
+  <span class="paper-count">1003 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -6032,125 +6032,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00735.html">Full-Atom Peptide Design based on Multi-modal Flow Matching</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
 <td>Jiahan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00735">2406.00735</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18968.html">UniIF: Unified Molecule Inverse Folding</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Zhangyang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18968">2405.18968</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12141.html">MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Yanru Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12141">2404.12141</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17802.html">Multi-level Interaction Modeling for Protein Mutational Effect Prediction</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Yuanle Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17802">2405.17802</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14536.html">Regressor-free Molecule Generation to Support Drug Response Prediction</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Kun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14536">2405.14536</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14925.html">PILOT: Equivariant diffusion for pocket conditioned de novo ligand generation with multi-objective guidance via importance sampling</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Julian Cremer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14925">2405.14925</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11703.html">QComp: A QSAR-Based Data Completion Framework for Drug Discovery</a></div></td>
-<td>Bingjia Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11703">2405.11703</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11769.html">Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Eric Alcaide et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11769">2405.11769</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07898.html">Breaking the Molecular Dynamics Timescale Barrier Using a Wafer-Scale System</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kylee Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07898">2405.07898</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06917.html">Design Requirements for Human-Centered Graph Neural Network Explanations</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Pantea Habibi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06917">2405.06917</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05665.html">SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Jiying Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05665">2405.05665</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04321.html">Molecular Identification via Molecular Fingerprint extraction from Atomic Force Microscopy images</a></div></td>
-<td>Manuel González Lastre et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04321">2405.04321</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06690.html">DrugLLM: Open Large Language Model for Few-shot Molecule Generation</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Xianggen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06690">2405.06690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03799.html">Synthetic Data from Diffusion Models Improve Drug Discovery Prediction</a></div></td>
-<td>Bing Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03799">2405.03799</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02628.html">Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Zexing Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02628">2405.02628</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02449.html">Quality-Weighted Vendi Scores And Their Application To Diverse Experimental Design</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Quan Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02449">2405.02449</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00949.html">The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Lee Youngmin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00949">2405.00949</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01520.html">AI for Manufacturing and Healthcare: a chemistry and engineering perspective</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Jihua Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01520">2405.01520</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01616.html">Generative Active Learning for the Search of Small-molecule Protein Binders</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Maksym Korablyov et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01616">2405.01616</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00339.html">Canonized then Minimized RMSD for Three-Dimensional Structures</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Jie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00339">2405.00339</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00647.html">Screening of BindingDB database ligands against EGFR, HER2, Estrogen, Progesterone and NF-kB receptors based on machine learning and molecular docking</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Parham Rezaee et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00647">2405.00647</a></td>
 </tr>
 </tbody></table>

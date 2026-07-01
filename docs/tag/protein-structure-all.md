@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">481 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2840,65 +2840,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01547.html">Encoding lattice structures in Quantum Computational Basis States</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Kalyan Dasgupta</td>
 <td><a href="http://arxiv.org/abs/2406.01547">2406.01547</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18968.html">UniIF: Unified Molecule Inverse Folding</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Zhangyang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18968">2405.18968</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18075.html">Implicitly Guided Design with PropEn: Match your Data to Follow the Gradient</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Nataša Tagasovska et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18075">2405.18075</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15489.html">Out of Many, One: Designing and Scaffolding Proteins at the Scale of the Structural Universe with Genie 2</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Yeqing Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15489">2405.15489</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11735.html">Accurate and efficient protein embedding using multi-teacher distillation learning</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Jiayu Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11735">2405.11735</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10260.html">HelixFold-Multimer: Elevating Protein Complex Structure Prediction to New Heights</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Xiaomin Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10260">2404.10260</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06348.html">Local topology and perestroikas in protein structure and folding dynamics</a></div></td>
-<td>Alexander Begun et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06348">2405.06348</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02299.html">Deep Reinforcement Learning for Modelling Protein Complexes</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Ziqi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02299">2405.02299</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03120.html">A Curated Rotamer Library for Common Post-Translational Modifications of Proteins</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="protein-function-all.html">protein-function</a></div></td>
-<td>Oufan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03120">2405.03120</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01983.html">Model-based reinforcement learning for protein backbone design</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Frederic Renard et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01983">2405.01983</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01520.html">AI for Manufacturing and Healthcare: a chemistry and engineering perspective</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Jihua Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01520">2405.01520</a></td>
 </tr>
 </tbody></table>

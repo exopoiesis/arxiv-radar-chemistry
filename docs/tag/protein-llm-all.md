@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-llm — all</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,17 +1022,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19744.html">ProtSolM: Protein Solubility Prediction with Multi-modal Features</a></div></td>
 <td>Yang Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2406.19744">2406.19744</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18986.html">Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space</a></div><div class="paper-tags"><a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Minji Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18986">2405.18986</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03370.html">AntiFold: Improved antibody structure-based design using inverse folding</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Magnus Haraldson Høie et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03370">2405.03370</a></td>
 </tr>
 </tbody></table>

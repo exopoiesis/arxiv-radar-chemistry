@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tmd — all</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <a href="tmd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -824,17 +824,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08040.html">Emergence of non-uniform strain induced exciton species in homo- and heterobilayer transition metal dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Mohammadreza Daqiqshirazi et al.</td>
 <td><a href="http://arxiv.org/abs/2406.08040">2406.08040</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12859.html">Defect-assisted reversible phase transition in mono- and few-layer ReS$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>George Zograf et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12859">2405.12859</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11892.html">Emergence of giant orbital Hall and tunable spin Hall effects in centrosymmetric TMDs</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Pratik Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11892">2405.11892</a></td>
 </tr>
 </tbody></table>

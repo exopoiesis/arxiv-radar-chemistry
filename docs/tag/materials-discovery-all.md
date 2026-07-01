@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">384 papers</span>
+  <span class="paper-count">379 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2288,35 +2288,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10536.html">Universal materials model of deep-learning density functional theory Hamiltonian</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
 <td>Yuxiang Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.10536">2406.10536</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13132.html">Illustrating an Effective Workflow for Accelerated Materials Discovery</a></div></td>
-<td>Mrinalini Mulukutla et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13132">2405.13132</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09897.html">Towards Informatics-Driven Design of Nuclear Waste Forms</a></div></td>
-<td>Vinay I. Hegde et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09897">2405.09897</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08773.html">Evolution of ferroelectric properties in SmxBi1-xFeO3 via automated Piezoresponse Force Microscopy across combinatorial spread libraries</a></div></td>
-<td>Aditya Raghavan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08773">2405.08773</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03805.html">A snapshot review on soft-materials assembly design utilizing machine learning methods</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Maya M. Martirossyan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03805">2405.03805</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02449.html">Quality-Weighted Vendi Scores And Their Application To Diverse Experimental Design</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Quan Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02449">2405.02449</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vdw-correction — all</h1>
-  <span class="paper-count">305 papers</span>
+  <span class="paper-count">295 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1784,65 +1784,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07384.html">Strong Repulsive Lifshitz-van der Waals Forces on Suspended Graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Gianluca Vagli et al.</td>
 <td><a href="http://arxiv.org/abs/2406.07384">2406.07384</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19927.html">Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Puneet Kumar Shaw et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19927">2405.19927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18617.html">Unraveling the Spin-to-Charge Current Conversion Mechanism and Charge Transfer Dynamics at Interface of Graphene/WS$_2$ Heterostructures at Room Temperature</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Rafael O. Cunha et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18617">2405.18617</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17231.html">Atomically sharp 1D interfaces in 2D lateral heterostructures of VSe$_2$-NbSe$_2$ monolayers</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Xin Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17231">2405.17231</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16079.html">Intrinsic localized excitons in MoSe$_2$/CrSBr heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Xinyue Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16079">2405.16079</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14817.html">Unraveling electronic structure of GeS through ARPES and its correlation with anisotropic optical and transport behavior</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Rahul Paramanik et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14817">2405.14817</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09877.html">Electron delocalization in a 2D Mott insulator</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Cosme G. Ayani et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09877">2405.09877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16999.html">Atomistic Modelling of High-Entropy Layered Anodes and Their Electrolyte Interface</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Amreen Bano et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16999">2404.16999</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06416.html">Biaxial strain effects in 2D diamond formation from graphene stacks</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Rajaji Vincent et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06416">2405.06416</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12845.html">Giant electrode effect on tunneling magnetoresistance and electroresistance in van der Waals intrinsic multiferroic tunnel junctions using VS2</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Zhi Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12845">2403.12845</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00643.html">Electronic and Optical Excitations in van der Waals Materials from a Non-Empirical Wannier-Localized Optimally-Tuned Screened Range-Separated Hybrid Functional</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>María Camarasa-Gómez et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00643">2405.00643</a></td>
 </tr>
 </tbody></table>

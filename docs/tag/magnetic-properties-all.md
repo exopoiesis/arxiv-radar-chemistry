@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>magnetic-properties — all</h1>
-  <span class="paper-count">722 papers</span>
+  <span class="paper-count">706 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4250,101 +4250,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01845.html">Interface doping and the effect of strain and oxygen stoichiometry on the transport and electronic structure properties of SrIrO$_3$ heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>Wesley Surta et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01845">2406.01845</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20472.html">Kicking Co and Rh atoms on a row-wise antiferromagnet</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Felix Zahner et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20472">2405.20472</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18683.html">DFT+U+V Study of Magnetic Ordering in Single-Layer Pentahexoctite: Implications for Magnetic Device Platforms</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Sejoong Kim</td>
-<td><a href="http://arxiv.org/abs/2405.18683">2405.18683</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19520.html">MXene&#x27;s Surface Functionalization Patterns and Their Impacts on Magnetism</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Barbora Vénosová et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19520">2405.19520</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18088.html">Antiferromagnetic order of topological orbital moments in atomic-scale skyrmion lattices</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Felix Nickel et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18088">2405.18088</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18473.html">Hysteresis of Axionic Charge Density Waves</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="catalysis-all.html">catalysis</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Joan Bernabeu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18473">2405.18473</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17321.html">Tunable magnetism in Nitride MXenes:consequences of atomic layer stacking</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Himangshu Sekhar Sarmah et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17321">2405.17321</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16079.html">Intrinsic localized excitons in MoSe$_2$/CrSBr heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Xinyue Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16079">2405.16079</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14998.html">Emergence of Synchronization-Induced Patterns in Two-dimensional Magnetic Rod Systems under Rotating Magnetic Fields</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jorge L. C. Domingos et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14998">2405.14998</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12679.html">Observation of Spin Splitting in Room-Temperature Metallic Antiferromagnet CrSb</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Meng Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12679">2405.12679</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12950.html">Emergent Ferromagnetism at LaFeO3/SrTiO3 Interface Arising from Strain-induced Spin-State Transition</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Menglin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12950">2405.12950</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.17809.html">Self-consistent quasi-particle $GW$ and hybrid functional calculations for Al/InAs/Al heterojunctions: band offset and spin-orbit coupling effects</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>H. Ness et al.</td>
-<td><a href="http://arxiv.org/abs/2403.17809">2403.17809</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11892.html">Emergence of giant orbital Hall and tunable spin Hall effects in centrosymmetric TMDs</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Pratik Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11892">2405.11892</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11420.html">Generic Approach to Intrinsic Magnetic Second-order Topological Insulators via Inverted $p-d$ Orbitals</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Zhao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11420">2405.11420</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10222.html">Kramers nodal line in the charge density wave state of YTe$_3$ and the influence of twin domains</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Shuvam Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10222">2405.10222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07753.html">Dynamic FMR and magneto-optical response of hydrogenated FCC phase Fe25Pd75 thin films and micro patterned devices</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Shahbaz Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07753">2405.07753</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04239.html">Orbital magnetization in two-dimensional materials from high-throughput computational screening</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Martin Ovesen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04239">2405.04239</a></td>
 </tr>
 </tbody></table>

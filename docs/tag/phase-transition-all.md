@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transition — all</h1>
-  <span class="paper-count">437 papers</span>
+  <span class="paper-count">422 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2546,95 +2546,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06291.html">The first-order structural phase transition at low-temperature in GaPt$_{5}$P and its rapid enhancement with pressure</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>A. Sapkota et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06291">2406.06291</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20575.html">Mechanism of anatase-to-columbite TiO2 phase transformation via sheared phases: first-principles calculations and high-pressure torsion experiments</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Jacqueline Hidalgo-Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20575">2405.20575</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18683.html">DFT+U+V Study of Magnetic Ordering in Single-Layer Pentahexoctite: Implications for Magnetic Device Platforms</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Sejoong Kim</td>
-<td><a href="http://arxiv.org/abs/2405.18683">2405.18683</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19193.html">Collapse/expansion dynamics and actuation of pH-responsive nanogels</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Jiaxing Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19193">2405.19193</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19379.html">Phase stability determination of negative thermal expansion silicates by theory and experiment</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Andreas Erlebach et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19379">2405.19379</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18473.html">Hysteresis of Axionic Charge Density Waves</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="catalysis-all.html">catalysis</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Joan Bernabeu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18473">2405.18473</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15698.html">First-principles studies of fermiology in topological phases of bulk ZrTe$_5$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Chao Chen Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15698">2405.15698</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16632.html">Computational Investigation of Reactivity Parameters, UV-Vis and IR Spectra, NLO Properties, and Temperature-Dependent Thermodynamic Characteristics of Schiff-Based Interdigitated 5O.m (m=14,16) Liquid Crystalline Compounds: A DFT Analysis</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Kritika Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16632">2405.16632</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15689.html">Probing Berry curvature in magnetic topological insulators through resonant infrared magnetic circular dichroism</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Seul-Ki Bac et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15689">2405.15689</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12859.html">Defect-assisted reversible phase transition in mono- and few-layer ReS$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>George Zograf et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12859">2405.12859</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12086.html">Pressure-induced nearly perfect rectangular lattice and superconductivity in an organic molecular crystal (DMET-TTF)$_2$AuBr$_2$</a></div></td>
-<td>Taiga Kato et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12086">2405.12086</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10627.html">First principles simulations of dense hydrogen</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Michael Bonitz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10627">2405.10627</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07881.html">Phase Transition of Anisotropic Hot Dense QGP in Magnetic Field: $z^5$-term Holography for Heavy Quarks</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Kristina Rannu</td>
-<td><a href="http://arxiv.org/abs/2405.07881">2405.07881</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06416.html">Biaxial strain effects in 2D diamond formation from graphene stacks</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Rajaji Vincent et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06416">2405.06416</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05092.html">Understanding solid nitrogen through machine learning simulation</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Marcin Kirsz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05092">2405.05092</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05864.html">SMARTINI3: Systematic Parametrization of Realistic Multi-Scale Membrane Models via Unsupervised Learning and Multi-Objective Evolutionary Algorithms</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
-<td>Alireza Soleimani et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05864">2405.05864</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">557 papers</span>
+  <span class="paper-count">547 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3296,65 +3296,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01004.html">Pt nanoparticles dispersed in a metal-organic framework as peroxidase mimics for colorimetric detection of GSH</a></div><div class="paper-tags"><a href="mof-all.html">mof</a></div></td>
 <td>Yanzheng Shu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01004">2406.01004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20239.html">BEAST DB: Grand-Canonical Database of Electrocatalyst Properties</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Cooper Tezak et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20239">2405.20239</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20258.html">Static Subspace Approximation for Random Phase Approximation Correlation Energies: Implementation and Performance</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Daniel Weinberg et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20258">2405.20258</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18891.html">Inverse Design of Promising Alloys for Electrocatalytic CO$_2$ Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="generative-model-all.html">generative-model</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18891">2405.18891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18473.html">Hysteresis of Axionic Charge Density Waves</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Joan Bernabeu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18473">2405.18473</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15526.html">Syngas conversion to higher alcohols via wood-framed Cu/Co-carbon catalyst</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Guihua Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15526">2405.15526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13357.html">Enhanced Creativity and Ideation through Stable Video Synthesis</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Elijah Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13357">2405.13357</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11553.html">Perspective: Multi-configurational methods in bio-inorganic chemistry</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Frederik K. Jørgensen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11553">2405.11553</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08693.html">Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a> · <a href="string-method-all.html">string-method</a></div></td>
-<td>Brieuc Le Dé et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08693">2405.08693</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07881.html">Phase Transition of Anisotropic Hot Dense QGP in Magnetic Field: $z^5$-term Holography for Heavy Quarks</a></div><div class="paper-tags"><a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Kristina Rannu</td>
-<td><a href="http://arxiv.org/abs/2405.07881">2405.07881</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17440.html">CataLM: Empowering Catalyst Design Through Large Language Models</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Ludi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17440">2405.17440</a></td>
 </tr>
 </tbody></table>

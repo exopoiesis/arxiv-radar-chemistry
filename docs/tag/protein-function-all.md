@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-function — all</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <a href="protein-function-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15534.html">Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research</a></div></td>
 <td>Tianyu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.15534">2406.15534</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03120.html">A Curated Rotamer Library for Common Post-Translational Modifications of Proteins</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Oufan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03120">2405.03120</a></td>
 </tr>
 </tbody></table>

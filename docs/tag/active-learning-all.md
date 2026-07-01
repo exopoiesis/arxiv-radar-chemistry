@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">249 papers</span>
+  <span class="paper-count">243 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1472,41 +1472,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04261.html">Simulating, Fast and Slow: Learning Policies for Black-Box Optimization</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Fabio Valerio Massoli et al.</td>
 <td><a href="http://arxiv.org/abs/2406.04261">2406.04261</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20573.html">Enhancing Generative Molecular Design via Uncertainty-guided Fine-tuning of Variational Autoencoders</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>A N M Nafiz Abeer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20573">2405.20573</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14960.html">Studies of Ni-Cr complexation in FLiBe molten salt using machine learning interatomic potentials</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Siamak Attarian et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14960">2405.14960</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11393.html">Optical materials discovery and design with federated databases and machine learning</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Victor Trinquet et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11393">2405.11393</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06133.html">Advancing Anomaly Detection in Computational Workflows with Active Learning</a></div></td>
-<td>Krishnan Raghavan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06133">2405.06133</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05982.html">Quantum-Inspired Genetic Algorithm for Designing Planar Multilayer Photonic Structure</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Zhihao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05982">2405.05982</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01616.html">Generative Active Learning for the Search of Small-molecule Protein Binders</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Maksym Korablyov et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01616">2405.01616</a></td>
 </tr>
 </tbody></table>

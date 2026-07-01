@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>string-method — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <a href="string-method-90d.html">90d</a> <strong>360d</strong> <a href="string-method-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17968.html">Locating Ab Initio Transition States via Approximate Geodesics on Machine Learned Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Diptarka Hait et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17968">2507.17968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04052.html">Understanding Reaction Mechanisms from Start to Finish</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Rik S. Breebaart et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04052">2507.04052</a></td>
 </tr>
 </tbody></table>

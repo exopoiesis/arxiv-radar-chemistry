@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2090 papers</span>
+  <span class="paper-count">2088 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12542,17 +12542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18378.html">Ab initio modeling of TWIP and TRIP effects in $β$-Ti alloys</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>David Holec et al.</td>
 <td><a href="http://arxiv.org/abs/2504.18378">2504.18378</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03480.html">The morphology and interface structure of titanium on graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Joachim Dahl Thomsen et al.</td>
-<td><a href="http://arxiv.org/abs/2412.03480">2412.03480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03853.html">OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="gnn-360d.html">gnn</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Beom Seok Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03853">2507.03853</a></td>
 </tr>
 </tbody></table>

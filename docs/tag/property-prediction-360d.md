@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1484,11 +1484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05480.html">MBFormer: A General Transformer-based Learning Paradigm for Many-body Interactions in Real Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Bowen Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05480">2507.05480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03920.html">Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Jianshen Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03920">2507.03920</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2798,59 +2798,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03027.html">Dataset Distillation for Machine Learning Force Field in Phase Transition Regime</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Ruiyang Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03027">2604.03027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05161.html">Defect-induced displacement of topological surface state in quantum magnet MnBi$_2$Te$_4$</a></div></td>
-<td>Felix Lüpke et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05161">2507.05161</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15108.html">Equivariant Electronic Hamiltonian Prediction with Many-Body Message Passing</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Chen Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15108">2508.15108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18238.html">Origin of pressure-induced anomalies in the nodal-line ferrimagnet Mn$_3$Si$_2$Te$_6$</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Varun Venkatasubramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18238">2509.18238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14822.html">Geometry of Generalized Density Functional Theories</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Chih-Chun Wang</td>
-<td><a href="http://arxiv.org/abs/2511.14822">2511.14822</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="string-method-90d.html">string-method</a></div></td>
-<td>Jonah Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00571.html">Beyond Beryllium: AI-Accelerated Materials Discovery for Interstellar Spacecraft Shielding</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="gnn-90d.html">gnn</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Yue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00571">2604.00571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01223.html">Electronic structure and correlation of La$_4$Co$_2$NiO$_8$Cl$_2$: a theoretical proposal for a La$_4$Ni$_3$O$_{10}$-like high-temperature superconductor</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Si-Yong Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01223">2604.01223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01360.html">A New Paradigm for Computational Chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Raphael T. Husistein et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01360">2604.01360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01471.html">TUNA: A streamlined quantum chemistry program for atoms and diatomics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Harry Brough</td>
-<td><a href="http://arxiv.org/abs/2604.01471">2604.01471</a></td>
 </tr>
 </tbody></table>

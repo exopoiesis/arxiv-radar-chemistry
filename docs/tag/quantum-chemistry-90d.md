@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,29 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Narjes Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14822.html">Geometry of Generalized Density Functional Theories</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Chih-Chun Wang</td>
-<td><a href="http://arxiv.org/abs/2511.14822">2511.14822</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29805.html">From Density Matrices to Phase Transitions in Deep Learning: Spectral Early Warnings and Interpretability</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Max Hennick et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29805">2603.29805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01176.html">High Performance Quantum Emulation for Chemistry Applications with Hyperion</a></div></td>
-<td>Olivier Adjoua et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01176">2604.01176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01471.html">TUNA: A streamlined quantum chemistry program for atoms and diatomics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Harry Brough</td>
-<td><a href="http://arxiv.org/abs/2604.01471">2604.01471</a></td>
 </tr>
 </tbody></table>

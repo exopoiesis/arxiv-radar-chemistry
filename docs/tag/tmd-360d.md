@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmd — 360d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <strong>360d</strong> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,11 +458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15647.html">Layer-selective Cooper pairing in an alternately stacked transition metal dichalcogenide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Haojie Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15647">2507.15647</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04073.html">Time-Dependent Oxidative Degradation of WSe2 Nanosheets and Its Influence on HER Catalysis</a></div></td>
-<td>Panwad Chavalekvirat et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04073">2507.04073</a></td>
 </tr>
 </tbody></table>

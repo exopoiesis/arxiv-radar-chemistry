@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>string-method — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <strong>90d</strong> <a href="string-method-360d.html">360d</a> <a href="string-method-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16617.html">Fluctuation-induced acceleration of inter-ligand exciton transfer in bis(dipyrrinato)Zn(II) complex</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Hiroki Uratani et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16617">2602.16617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Jonah Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
 </tr>
 </tbody></table>

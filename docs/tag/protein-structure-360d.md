@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">258 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,11 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07887.html">Automating MD simulations for Proteins using Large language Models: NAMD-Agent</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Achuth Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07887">2507.07887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04052.html">Understanding Reaction Mechanisms from Start to Finish</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="string-method-360d.html">string-method</a></div></td>
-<td>Rik S. Breebaart et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04052">2507.04052</a></td>
 </tr>
 </tbody></table>

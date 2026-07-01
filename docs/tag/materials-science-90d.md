@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,23 +530,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02158.html">A Practical Two-Stage Framework for GPU Resource and Power Prediction in Heterogeneous HPC Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Beste Oztop et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02158">2604.02158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00382.html">mmAnomaly: Leveraging Visual Context for Robust Anomaly Detection in the Non-Visual World with mmWave Radar</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Tarik Reza Toha et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00382">2604.00382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01360.html">A New Paradigm for Computational Chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Raphael T. Husistein et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01360">2604.01360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01452.html">A Multi-Agent Human-LLM Collaborative Framework for Closed-Loop Scientific Literature Summarization</a></div></td>
-<td>Maxwell J. Jacobson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01452">2604.01452</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,23 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01810.html">Bond-Length-Driven Magnetic Transition in Quasi-One-Dimensional CrSb$X_3$ ($X$=S, Se)</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Kang Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01810">2604.01810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18238.html">Origin of pressure-induced anomalies in the nodal-line ferrimagnet Mn$_3$Si$_2$Te$_6$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Varun Venkatasubramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18238">2509.18238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29805.html">From Density Matrices to Phase Transitions in Deep Learning: Spectral Early Warnings and Interpretability</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Max Hennick et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29805">2603.29805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01304.html">Supermassive Primordial Black Holes from a Catalyzed Dark Phase Transition for Little Red Dots</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Jinhui Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01304">2604.01304</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">377 papers</span>
+  <span class="paper-count">375 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2264,17 +2264,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05352.html">Looking elsewhere: improving variational Monte Carlo gradients by importance sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Antoine Misery et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05352">2507.05352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03853.html">OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Beom Seok Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03853">2507.03853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03968.html">Was Earth&#x27;s water acquired locally during the earliest phases of the Solar System formation?</a></div></td>
-<td>Lise Boitard-Crépeau et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03968">2507.03968</a></td>
 </tr>
 </tbody></table>

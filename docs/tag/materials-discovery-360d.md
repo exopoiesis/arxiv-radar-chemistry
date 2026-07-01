@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">259 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1568,11 +1568,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05480.html">MBFormer: A General Transformer-based Learning Paradigm for Many-body Interactions in Real Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Bowen Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05480">2507.05480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14159.html">Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Shanshan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14159">2507.14159</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">409 papers</span>
+  <span class="paper-count">407 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2456,17 +2456,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05540.html">Robust Learning on Noisy Graphs via Latent Space Constraints with External Knowledge</a></div></td>
 <td>Chunhui Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05540">2507.05540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03853.html">OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Beom Seok Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03853">2507.03853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03920.html">Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jianshen Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03920">2507.03920</a></td>
 </tr>
 </tbody></table>

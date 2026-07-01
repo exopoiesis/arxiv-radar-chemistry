@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1578 papers</span>
+  <span class="paper-count">1575 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9464,23 +9464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04437.html">Direct observation of distinct bulk and edge nonequilibrium spin accumulation in ultrathin MoTe$_2$</a></div></td>
 <td>Fangchu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04437">2507.04437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03480.html">The morphology and interface structure of titanium on graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Joachim Dahl Thomsen et al.</td>
-<td><a href="http://arxiv.org/abs/2412.03480">2412.03480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23228.html">Direct proton transfer on $^{46}$Ar supports the presence of a charge density bubble linked to a novel nuclear structure below $^{48}$Ca</a></div></td>
-<td>Daniele Brugnara et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23228">2506.23228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04053.html">TopoMAS: Large Language Model Driven Topological Materials Multiagent System</a></div></td>
-<td>Baohua Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04053">2507.04053</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">424 papers</span>
+  <span class="paper-count">423 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2552,11 +2552,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04423.html">CEMP: a platform unifying high-throughput online calculation, databases and predictive models for clean energy materials</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jifeng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04423">2507.04423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14159.html">Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Shanshan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14159">2507.14159</a></td>
 </tr>
 </tbody></table>

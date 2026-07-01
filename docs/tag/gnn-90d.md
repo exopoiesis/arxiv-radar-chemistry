@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,17 +572,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02270.html">Crystalite: A Lightweight Transformer for Efficient Crystal Modeling</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Tin Hadži Veljković et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02270">2604.02270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15108.html">Equivariant Electronic Hamiltonian Prediction with Many-Body Message Passing</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Chen Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15108">2508.15108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00571.html">Beyond Beryllium: AI-Accelerated Materials Discovery for Interstellar Spacecraft Shielding</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Yue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00571">2604.00571</a></td>
 </tr>
 </tbody></table>

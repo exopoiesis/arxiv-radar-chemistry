@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25502.html">A Differentiable DFT-Based Framework for Inverse Materials Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
@@ -548,41 +554,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04252.html">High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Arpan Das</td>
 <td><a href="http://arxiv.org/abs/2606.04252">2606.04252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Yossi Paltiel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01728.html">Microscopic Origin of Emergent Elliptic Flow and Molecule Formation in Strongly Interacting Quasi-Two-Dimensional Few-Body Systems</a></div></td>
-<td>Xin-Yuan Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01728">2606.01728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a> · <a href="tmo-30d.html">tmo</a></div></td>
-<td>Christian S. Ahart et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Surender Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02760.html">Optoelectronics and Magnetic properties calculation of RE2MnNiO6 (RE=La-Lu,Y) using Density Functional Theory</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Debidutta Pradhan</td>
-<td><a href="http://arxiv.org/abs/2606.02760">2606.02760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ying You et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
 </tr>
 </tbody></table>

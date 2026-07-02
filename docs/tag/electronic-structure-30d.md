@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24332.html">Enhancing quantum-classical configuration interaction methods using a neural-network classifier</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
@@ -158,23 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Cheng-Han Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03140">2606.03140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Surender Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02760.html">Optoelectronics and Magnetic properties calculation of RE2MnNiO6 (RE=La-Lu,Y) using Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Debidutta Pradhan</td>
-<td><a href="http://arxiv.org/abs/2606.02760">2606.02760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ying You et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
 </tr>
 </tbody></table>

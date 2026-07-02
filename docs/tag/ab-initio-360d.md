@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1575 papers</span>
+  <span class="paper-count">1574 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25502.html">A Differentiable DFT-Based Framework for Inverse Materials Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
@@ -9452,17 +9458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05352.html">Looking elsewhere: improving variational Monte Carlo gradients by importance sampling</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Antoine Misery et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05352">2507.05352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04253.html">Optimizing Quantum Chemistry Simulations with a Hybrid Quantization Scheme</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Calvin Ku et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04253">2507.04253</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04437.html">Direct observation of distinct bulk and edge nonequilibrium spin accumulation in ultrathin MoTe$_2$</a></div></td>
-<td>Fangchu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04437">2507.04437</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">349 papers</span>
+  <span class="paper-count">346 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25502.html">A Differentiable DFT-Based Framework for Inverse Materials Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -2084,29 +2090,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03351.html">Spectral Geometry of the Primes</a></div></td>
 <td>Douglas F. Watson</td>
 <td><a href="http://arxiv.org/abs/2604.03351">2604.03351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Narjes Ansari et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01810.html">Bond-Length-Driven Magnetic Transition in Quasi-One-Dimensional CrSb$X_3$ ($X$=S, Se)</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Kang Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01810">2604.01810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02158.html">A Practical Two-Stage Framework for GPU Resource and Power Prediction in Heterogeneous HPC Systems</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Beste Oztop et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02158">2604.02158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02524.html">AQVolt26: High-Temperature r$^2$SCAN Halide Dataset for Universal ML Potentials and Solid-State Batteries</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jiyoon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02524">2604.02524</a></td>
 </tr>
 </tbody></table>

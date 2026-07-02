@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-llm — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <strong>30d</strong> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12609.html">Viral Proteins Reveal Geometry of Protein Language Models</a></div></td>
 <td>Arthur Bigot et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12609">2606.12609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02386.html">AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Sahil Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02386">2606.02386</a></td>
 </tr>
 </tbody></table>

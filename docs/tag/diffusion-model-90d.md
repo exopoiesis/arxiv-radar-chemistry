@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -560,11 +560,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02828.html">NavCrafter: Exploring 3D Scenes from a Single Image</a></div></td>
 <td>Hongbo Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02828">2604.02828</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02028.html">Why Gaussian Diffusion Models Fail on Discrete Data?</a></div></td>
-<td>Alexander Shabalin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02028">2604.02028</a></td>
 </tr>
 </tbody></table>

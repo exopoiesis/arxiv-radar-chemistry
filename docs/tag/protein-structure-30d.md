@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-structure — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <strong>30d</strong> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,23 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Alfredo Fiorentino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03405">2606.03405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Keyue Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02104.html">Penalty-free quantum optimization applied to lattice protein folding</a></div></td>
-<td>Leif Gellsersen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02104">2606.02104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04021.html">Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
-<td>Bryan Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04021">2606.04021</a></td>
 </tr>
 </tbody></table>

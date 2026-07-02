@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,11 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02609.html">Elastomeric Strain Limitation for Design of Soft Pneumatic Actuators</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a></div></td>
 <td>Gregory M. Campbell</td>
 <td><a href="http://arxiv.org/abs/2604.02609">2604.02609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02158.html">A Practical Two-Stage Framework for GPU Resource and Power Prediction in Heterogeneous HPC Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Beste Oztop et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02158">2604.02158</a></td>
 </tr>
 </tbody></table>

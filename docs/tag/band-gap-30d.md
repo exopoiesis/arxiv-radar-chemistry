@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>band-gap — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <strong>30d</strong> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07863.html">Elusive Exciton Insulator States in 1T-HfTe2: Exciton softening, and Symmetry Breaking by Ab Initio Methods</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
 <td>Hong Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07863">2606.07863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>M. Lamp et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02760.html">Optoelectronics and Magnetic properties calculation of RE2MnNiO6 (RE=La-Lu,Y) using Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Debidutta Pradhan</td>
-<td><a href="http://arxiv.org/abs/2606.02760">2606.02760</a></td>
 </tr>
 </tbody></table>

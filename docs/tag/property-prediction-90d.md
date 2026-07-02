@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22731.html">Closed-loop Auto Research for Molecular Property Prediction: Discovering and Certifying Generalizable Improvements</a></div></td>
 <td>Jingjie Ning et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06336.html">BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Yi Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06336">2604.06336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02537.html">PolyJarvis: LLM Agent for Autonomous Polymer MD Simulations</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Alexander Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02537">2604.02537</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20105.html">Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Sebastian Falkner et al.</td>
@@ -74,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25872.html">Marginal Girsanov Reweighting: Stable Variance Reduction for Long-Timescale Dynamics from Biased Simulation</a></div><div class="paper-tags"><a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
 <td>Yan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25872">2509.25872</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17790.html">The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Narjes Ansari et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17790">2603.17790</a></td>
 </tr>
 </tbody></table>

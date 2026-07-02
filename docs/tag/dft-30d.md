@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,47 +710,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04252.html">High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Arpan Das</td>
 <td><a href="http://arxiv.org/abs/2606.04252">2606.04252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01611.html">Peptide Structure Prediction Using Counter-Diabatic Quantum Approximate Optimization Algorithm (CD-QAOA)</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a> · <a href="replica-exchange-30d.html">replica-exchange</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Sung Won Yun et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01611">2606.01611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01748.html">Hydrogen trapping and interfacial decohesion at the α-Al2O3(0001)/Fe(110) interface</a></div></td>
-<td>Youngseok Hwang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01748">2606.01748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02085.html">Charge dynamics in the Weyl semimetals NbIrTe$_4$ and TaIrTe$_4$ under pressure: Signatures of an electronic phase transition</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>M. Lamp et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02085">2606.02085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02298.html">Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Kusampal Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02298">2606.02298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02733.html">Coexistence of topologically nontrivial and trivial insulating states in topological Anderson Chern insulator</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Bo Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02733">2606.02733</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02760.html">Optoelectronics and Magnetic properties calculation of RE2MnNiO6 (RE=La-Lu,Y) using Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Debidutta Pradhan</td>
-<td><a href="http://arxiv.org/abs/2606.02760">2606.02760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02844.html">Controlling $\langle \hat{S}^2 \rangle$ in Broken-symmetry Density Functional Theory Calculations via Constrained Optimization</a></div></td>
-<td>Jeronimo Lira et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02844">2606.02844</a></td>
 </tr>
 </tbody></table>

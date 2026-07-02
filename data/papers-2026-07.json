@@ -1,0 +1,139 @@
+{
+ "2607.00613": {
+  "abstract": "Molecular simulations of complex chemical systems, such as catalysis, electrochemistry, and energy storage, often need to capture the interplay of effects such as electronic structure, finite-temperature fluctuations, and electric-field response. Such complexity is difficult to address with traditional ab initio calculations, which are limited by the time and length scales they can reach. AI-accelerated ab initio (AI2) methods use machine learning potentials trained on first-principles data to replace expensive electronic-structure calculations, extending ab initio accuracy to these regimes, but their routine application requires reliable workflows that connect first-principles calculations, model training, molecular dynamics, enhanced sampling, trajectory analysis, and HPC orchestration. Here we present ai2-kit, a software toolkit for developing accessible, reproducible, and extensible AI2 workflows. ai2-kit provides high-semantic-density command-line interfaces and Python APIs for structure and dataset conversion, batch task generation, active-learning screening, job orchestration, and workflow recovery. We demonstrate ai2-kit in four representative applications: active-learning-based machine learning potential construction, free-energy perturbation for redox and acid-base processes, electrochemical machine learning potentials for electrified interfaces, and spectroscopies from machine learning molecular dynamics. ai2-kit also provides AI-agent skills that help users adapt these use cases into customized workflows for their own chemical systems and computational software stacks. Together, ai2-kit helps turn AI2 methods from bespoke computational protocols into reusable and extensible workflows for complex chemical systems, from model construction to property prediction.",
+  "authors": [
+   "Sheng Bi",
+   "Wei-Hong Xu",
+   "Yong-Bin Zhuang",
+   "Jia-Xin Zhu",
+   "Jiang-Peng Qiu",
+   "Yu-Hang Tang",
+   "Xiang-Long Du",
+   "Qi You",
+   "Yun-Pei Liu",
+   "Fu-Qiang Gong",
+   "Yu-Xin Guo",
+   "Yi-Ze Wang",
+   "Cheng-Xuan Wang",
+   "Zi-Heng Gong",
+   "Zi-Qiang Chen",
+   "Chang Liu",
+   "Si-Yuan Han",
+   "Jian Gu",
+   "Jia-Xin Li",
+   "Yi-Ming Chen",
+   "Lin Huang",
+   "Si-Jie Chen",
+   "Bo-Ying Huang",
+   "Jie-Zhen Xia",
+   "Fan-Jie Xu",
+   "Su-Yang Zhong",
+   "Peng-Wei Xu",
+   "Jun-Yi Wang",
+   "Xing-Yun Xie",
+   "Yu-Lei Gong",
+   "Yan-Yi Su",
+   "Yue Liu",
+   "Rui-Hao Bi",
+   "Lang Li",
+   "Fei-Teng Wang",
+   "Jing-Xiang Zou",
+   "Mei Jia",
+   "Jie-Qiong Li",
+   "Min Lin",
+   "Qi-Yuan Fan",
+   "Juan-Juan Sun",
+   "Jia-Bo Le",
+   "Zixuan Wei",
+   "Jin-Yuan Hu",
+   "Meng-Lei Jia",
+   "Yan Sun",
+   "Xiao-Hui Yang",
+   "Fujie Tang",
+   "Feng Wang",
+   "Jun Cheng"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "24 pages, 11 figures. Submitted to Chemical Science",
+  "first_author": "Sheng Bi",
+  "pdf_url": "http://arxiv.org/pdf/2607.00613",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-01",
+  "tags": [
+   "ab-initio",
+   "catalysis",
+   "electronic-structure",
+   "enhanced-sampling",
+   "mlip",
+   "molecular-dynamics",
+   "property-prediction"
+  ],
+  "title": "Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.01061": {
+  "abstract": "Computer-assisted synthesis planning breaks target molecules into accessible precursors using large libraries of reaction rules that assign each transformation a deterministic, interpretable label. But chemistry is long-tailed, making manual encoding intractable, and existing tools rely on fixed rulesets that cannot adapt to new chemistries. Here we present a fully automated pipeline in which a multi-agent framework of large language models (LLMs) classifies reactions and writes the rules themselves across 665,901 US patent reactions, generating each rule under a verification loop that tests it against the corpus. It expands a standard taxonomy from 68 to 14,073 classes without human curation. With a lightweight fingerprint classifier, it classifies 97.7\\% of unseen reactions, matching a leading proprietary classifier while resolving chemistry more finely and extending on demand to chemistry outside its training distribution. The result is a living reactivity database and a general route to turning generative models into reliable, self-expanding symbolic systems.",
+  "authors": [
+   "Daniel Armstrong",
+   "Maarten Dobbelaere",
+   "Valentas Olikauskas",
+   "Helena Avila",
+   "Octavian Susanu",
+   "Jérôme Waser",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Daniel Armstrong",
+  "pdf_url": "http://arxiv.org/pdf/2607.01061",
+  "primary_category": "cs.AI",
+  "published": "2026-07-01",
+  "tags": [
+   "generative-model",
+   "retrosynthesis"
+  ],
+  "title": "Agentic generation of verifiable rules for deterministic, self-expanding reaction classification",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.01105": {
+  "abstract": "We present SynLaD, a latent diffusion framework for small-molecule generation that unifies ligand-based drug design objectives (what to make) with synthetic accessibility (how to make it). Current models typically optimize one objective at the expense of the other, creating a bottleneck for discovering high-scoring and synthesizable molecules. SynLaD combines reaction-constrained generation with pharmacophore-conditioned 3D design by learning a latent space that decodes to both 3D structures and synthesis pathways. An encoder maps molecules to a latent representation used by two decoder heads: (i) a geometric head that reconstructs atom types and coordinates and (ii) an autoregressive synthesis head that outputs synthetic routes in a serialized, reaction-based notation. A diffusion transformer generates novel latents in the learned space, conditioned on pharmacophore profiles. Across analogue generation tasks for bioactive ligands, SynLaD outperforms existing baselines in synthesizable and diverse hit generation, demonstrating that a single model can produce shape-aligned molecules with feasible synthesis plans.",
+  "authors": [
+   "Miruna Cretu",
+   "John Bradshaw",
+   "Patricia Suriana",
+   "Saeed Saremi",
+   "Omar Mahmood",
+   "Kirill Shmilovich",
+   "Kangway Chuang",
+   "Vishnu Sresht",
+   "Colin Grambow"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Miruna Cretu",
+  "pdf_url": "http://arxiv.org/pdf/2607.01105",
+  "primary_category": "cs.LG",
+  "published": "2026-07-01",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-07-01"
+ }
+}

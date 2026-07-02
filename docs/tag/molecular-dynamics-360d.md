@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1573 papers</span>
+  <span class="paper-count">1570 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25879.html">AI-Assisted Computational Reproducibility on the FABRIC Testbed</a></div></td>
@@ -9428,29 +9434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11962.html">Extreme scaling of the metadynamics of paths algorithm on the pre-exascale JUWELS Booster supercomputer</a></div><div class="paper-tags"><a href="metadynamics-360d.html">metadynamics</a></div></td>
 <td>Nitin Malapally et al.</td>
 <td><a href="http://arxiv.org/abs/2501.11962">2501.11962</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01179.html">About the Strain-Coupled Molecular Dynamics in the Ferroelastic Phase Transition of TMACd(N$_3$)$_3$</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>A. Nonato et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01179">2507.01179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04253.html">Optimizing Quantum Chemistry Simulations with a Hybrid Quantization Scheme</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Calvin Ku et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04253">2507.04253</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04423.html">CEMP: a platform unifying high-throughput online calculation, databases and predictive models for clean energy materials</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jifeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04423">2507.04423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04527.html">New Molecular Dynamics Methods for Simulating Neutron Star Crusts with Superfluid Vortices</a></div></td>
-<td>M. E. Caplan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04527">2507.04527</a></td>
 </tr>
 </tbody></table>

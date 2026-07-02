@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,11 +782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08854.html">DiffNMR: Diffusion Models for Nuclear Magnetic Resonance Spectra Elucidation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Qingsong Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08854">2507.08854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04423.html">CEMP: a platform unifying high-throughput online calculation, databases and predictive models for clean energy materials</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jifeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04423">2507.04423</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,33 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-07-01._
+_Updated 2026-07-02._
 
-**15200** chemistry-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15203** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a> · <a href="tag/enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01061.html">Agentic generation of verifiable rules for deterministic, self-expanding reaction classification</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Daniel Armstrong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01061">2607.01061</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01105.html">SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Miruna Cretu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01105">2607.01105</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25006.html">Scalable Peptide Design via Memory-Efficient Equivariant Transformer</a></div><div class="paper-tags"><a href="tag/protein-ligand-30d.html">protein-ligand</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-07-01._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24283.html">Investigating causality between principal components in protein dynamics</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Debarshi Banerjee et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24283">2606.24283</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24291.html">Broadband molecular dynamics simulation of fluid inertial effects in confined Brownian motion</a></div></td>
-<td>Quentin Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24291">2606.24291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24332.html">Enhancing quantum-classical configuration interaction methods using a neural-network classifier</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Severino Zeni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24332">2606.24332</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24458.html">An Agnostic Machine Learning Model of Photosynthetic Habitability</a></div></td>
-<td>Callum Gray et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24458">2606.24458</a></td>
 </tr>
 </tbody></table>

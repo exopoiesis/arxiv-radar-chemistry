@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>battery-materials — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <strong>30d</strong> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Micah P. Prange et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04331">2606.04331</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01978.html">Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Aicha Jani et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01978">2606.01978</a></td>
 </tr>
 </tbody></table>

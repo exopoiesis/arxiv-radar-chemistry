@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">239 papers</span>
+  <span class="paper-count">237 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1436,17 +1436,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05672.html">Berry Phase Effects of Nuclei in Chemical Reaction Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xingyu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05672">2507.05672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04066.html">Slip-dominated structural transitions</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kanka Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04066">2409.04066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05206.html">Doping Induced Magnetic and Electronic phase Transition in Ferrimagnetic Half-metallic Mn$_{4}$Al$_{11}$ Compound</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Sujoy Datta et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05206">2507.05206</a></td>
 </tr>
 </tbody></table>

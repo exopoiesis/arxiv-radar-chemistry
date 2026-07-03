@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">451 papers</span>
+  <span class="paper-count">449 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2708,17 +2708,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17268.html">LiV2O4: Hund-Assisted Orbital-Selective Mottness</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Martin Grundner et al.</td>
 <td><a href="http://arxiv.org/abs/2409.17268">2409.17268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04804.html">The occupation dependent DFT-1/2 method</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Shengxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04804">2507.04804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04827.html">Severe Plastic Deformation of Ceramics by High-Pressure Torsion: Review of Principles and Applications</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Kaveh Edalati et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04827">2507.04827</a></td>
 </tr>
 </tbody></table>

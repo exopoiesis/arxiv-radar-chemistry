@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,65 +464,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05148.html">Variational low-energy subspaces for chemically accurate excited states</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Clemens Giuliani et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05148">2606.05148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Cheng-Han Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03140">2606.03140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03309.html">Unconventional crystallization pathway bypassing the intermediate cubic phase in phase-change superlattices</a></div></td>
-<td>Bai-Qian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03309">2606.03309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03325.html">Role of Characteristic Length Scale in Interface Graphitization-Induced Wear Resistance of Diamond and Amorphous Carbon</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>WenLiang Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03325">2606.03325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03405.html">Quantum annealing for materials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Alfredo Fiorentino et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03405">2606.03405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03524.html">Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Antonio Torregrosa Abellán et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03524">2606.03524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03575.html">Acenaphthene Derivatives as Signatures of C$_{11}$H$_9^+$ Reactivity with Methylated Naphthalenes</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Ana I. Lozano et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03575">2606.03575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03760.html">Revisiting neutron-skin thickness and dipole polarizability constraints on the symmetry energy in Antisymmetrized Molecular Dynamics</a></div></td>
-<td>Dandan Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03760">2606.03760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Joanna Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04228.html">When Does Structure Help? The Information Bonus of AlphaFold2 Representations over Protein Language Models</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Kargi Chauhan</td>
-<td><a href="http://arxiv.org/abs/2606.04228">2606.04228</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14737.html">Learning Topological Representations for Molecular Dynamics</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Dominik Geng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14737">2606.14737</a></td>
 </tr>
 </tbody></table>

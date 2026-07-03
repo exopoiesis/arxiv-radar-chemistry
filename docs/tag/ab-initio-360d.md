@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1574 papers</span>
+  <span class="paper-count">1571 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9440,23 +9440,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06288.html">The Possibility of Hydrogen-Water Demixing in Uranus, Neptune, K2-18b and TOI-270d</a></div></td>
 <td>Saburo Howard et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06288">2507.06288</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06610.html">Origin of the Fano interference and its tunability with near-field interactions in a guided mode-resonant metasurface</a></div></td>
-<td>Amitrajit Nag et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06610">2505.06610</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05112.html">Variational first-principles approach to self-trapped polarons</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Vasilii Vasilchenko et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05112">2507.05112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05352.html">Looking elsewhere: improving variational Monte Carlo gradients by importance sampling</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Antoine Misery et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05352">2507.05352</a></td>
 </tr>
 </tbody></table>

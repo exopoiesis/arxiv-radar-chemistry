@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,23 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23619.html">The N-5 Scaling Law: Topological Dimensionality Reduction in the Optimal Design of Fully-actuated Multirotors</a></div></td>
 <td>Antonio Franchi</td>
 <td><a href="http://arxiv.org/abs/2512.23619">2512.23619</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.21931.html">Multipolar fluctuations from localized 4f electrons in CeRh2As2</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Koki Numa et al.</td>
-<td><a href="http://arxiv.org/abs/2512.21931">2512.21931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02898.html">Microscopic NMR evidence for successive antiferroelectric and antiferromagnetic order in the van der Waals magnet CuCrP$_2$S$_6$</a></div><div class="paper-tags"><a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>C. S. Saramgi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02898">2604.02898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03027.html">Dataset Distillation for Machine Learning Force Field in Phase Transition Regime</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Ruiyang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03027">2604.03027</a></td>
 </tr>
 </tbody></table>

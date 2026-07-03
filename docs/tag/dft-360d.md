@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2086 papers</span>
+  <span class="paper-count">2080 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12494,41 +12494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05831.html">Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Jyoti Duhan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05831">2507.05831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16270.html">Quantitative agreement between experiment and theory for Vibrational Circular Dichroism enhanced by electronically excited states</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Mariia Sapova et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16270">2506.16270</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23912.html">Density functional theory study of effect of NO annealing on electronic structure and carrier-scattering property of 4H-SiC(0001)/SiO$_2$ interface</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Nahoto Funaki et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23912">2506.23912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04804.html">The occupation dependent DFT-1/2 method</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Shengxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04804">2507.04804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04965.html">A Pyridyl-Benzimidazole Based Ruthenium(II) Complex as Optical Sensor: Targeted Cyanide Detection and Live Cell Imaging Applications</a></div></td>
-<td>Sudhanshu Naithani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04965">2507.04965</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05047.html">Moiré-assisted charge instability in ultrathin RuO$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Philipp Keßler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05047">2507.05047</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05206.html">Doping Induced Magnetic and Electronic phase Transition in Ferrimagnetic Half-metallic Mn$_{4}$Al$_{11}$ Compound</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Sujoy Datta et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05206">2507.05206</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">346 papers</span>
+  <span class="paper-count">339 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2048,47 +2048,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06697.html">Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Yuxuan Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06697">2512.06697</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02612.html">Halo Nuclei from Ab Initio Nuclear Theory</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Petr Navratil et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02612">2604.02612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02730.html">PhDLspec: physical-prior embedded deep learning method for spectroscopic determination of stellar labels in high-dimensional parameter space</a></div></td>
-<td>Tianmin Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02730">2604.02730</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02732.html">Noble-Gas Solubility in Solid and Fluid Metallic Hydrogen</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02732">2604.02732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03019.html">Maximizing the magnetic anisotropy of Dy complexes by fine tuning organic ligands: A systematic multireference high-throughput exploration of over 30k molecules</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
-<td>Lion Frangoulis et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03019">2604.03019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03027.html">Dataset Distillation for Machine Learning Force Field in Phase Transition Regime</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Ruiyang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03027">2604.03027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03090.html">The form factor expansion in the precision $β$ decay era</a></div></td>
-<td>Leendert Hayen</td>
-<td><a href="http://arxiv.org/abs/2604.03090">2604.03090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03351.html">Spectral Geometry of the Primes</a></div></td>
-<td>Douglas F. Watson</td>
-<td><a href="http://arxiv.org/abs/2604.03351">2604.03351</a></td>
 </tr>
 </tbody></table>

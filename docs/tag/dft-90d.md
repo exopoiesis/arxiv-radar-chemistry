@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">464 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2780,23 +2780,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00990.html">Many-body \textit{ab initio} study of quasiparticles, optical excitations, and excitonic properties in LiZnAs and ScAgC for photovoltaic applications</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
 <td>Vinod Kumar Solet et al.</td>
 <td><a href="http://arxiv.org/abs/2504.00990">2504.00990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.21931.html">Multipolar fluctuations from localized 4f electrons in CeRh2As2</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Koki Numa et al.</td>
-<td><a href="http://arxiv.org/abs/2512.21931">2512.21931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02952.html">Engineering Electrochromism in Ni-Deficient NiO through Defect, Dopant, and Strain Coupling</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Katarina Jakovljević et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02952">2604.02952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03027.html">Dataset Distillation for Machine Learning Force Field in Phase Transition Regime</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Ruiyang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03027">2604.03027</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">303 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1826,11 +1826,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05896.html">Search for Sub-Relativistic Magnetic Monopoles with the IceCube Neutrino Observatory</a></div></td>
 <td>Jonas Häußler et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05896">2507.05896</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00600.html">Frustration, dynamics and catalysis</a></div></td>
-<td>R. Gonzalo Parra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00600">2505.00600</a></td>
 </tr>
 </tbody></table>

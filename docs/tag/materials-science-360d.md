@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">422 papers</span>
+  <span class="paper-count">420 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2534,17 +2534,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05547.html">On void formation during the simulated tensile testing of polymer-filler particle composites</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>John J. Karnes et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05547">2507.05547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05184.html">$\varphi$-Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Hoang-Quan Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05184">2507.05184</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05480.html">MBFormer: A General Transformer-based Learning Paradigm for Many-body Interactions in Real Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Bowen Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05480">2507.05480</a></td>
 </tr>
 </tbody></table>

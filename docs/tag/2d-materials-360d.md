@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">563 papers</span>
+  <span class="paper-count">559 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3368,29 +3368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16208.html">Work-function and structures of (100), (111) and (101) Au surfaces with/without oxygen</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Yukio Watanabe et al.</td>
 <td><a href="http://arxiv.org/abs/2411.16208">2411.16208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10385.html">Autonomous Microscopy Experiments through Large Language Model Agents</a></div></td>
-<td>Indrajeet Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10385">2501.10385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04804.html">The occupation dependent DFT-1/2 method</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Shengxin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04804">2507.04804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05184.html">$\varphi$-Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Hoang-Quan Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05184">2507.05184</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05480.html">MBFormer: A General Transformer-based Learning Paradigm for Many-body Interactions in Real Materials</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Bowen Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05480">2507.05480</a></td>
 </tr>
 </tbody></table>

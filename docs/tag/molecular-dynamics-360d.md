@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1570 papers</span>
+  <span class="paper-count">1568 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9422,17 +9422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06314.html">Alcohol additives to enhance ammonia-methane combustion efficiency and reduce emissions: A reactive force field analysis</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Amirali Shateri et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06314">2507.06314</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04066.html">Slip-dominated structural transitions</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Kanka Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04066">2409.04066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11962.html">Extreme scaling of the metadynamics of paths algorithm on the pre-exascale JUWELS Booster supercomputer</a></div><div class="paper-tags"><a href="metadynamics-360d.html">metadynamics</a></div></td>
-<td>Nitin Malapally et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11962">2501.11962</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,23 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05693.html">MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Joey Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05693">2606.05693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03057.html">Rethinking Molecular Text Representations for LLMs: An Empirical Study</a></div></td>
-<td>Arun Raja et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03057">2606.03057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03435.html">CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
-<td>Yuxin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03435">2606.03435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14737.html">Learning Topological Representations for Molecular Dynamics</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Dominik Geng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14737">2606.14737</a></td>
 </tr>
 </tbody></table>

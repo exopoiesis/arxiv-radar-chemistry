@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2080 papers</span>
+  <span class="paper-count">2076 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12470,29 +12470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07336.html">Origin of insulating-like behavior of Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$ under pressure: A first-principles study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Xin Du et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07336">2507.07336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23008.html">A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Cong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23008">2506.23008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05559.html">MP-ALOE: An r2SCAN dataset for universal machine learning interatomic potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Matthew C. Kuner et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05559">2507.05559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05705.html">Electrostatically Controlled Pyrophototronic Effect Enabled Accident Alert System using a Strain-Polarized WS2 Phototransistor</a></div></td>
-<td>Poulomi Chakrabarty et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05705">2507.05705</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05831.html">Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jyoti Duhan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05831">2507.05831</a></td>
 </tr>
 </tbody></table>

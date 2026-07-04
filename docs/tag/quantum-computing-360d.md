@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,11 +794,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12629.html">The Software Landscape for the Density Matrix Renormalization Group</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Per Sehlstedt et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12629">2506.12629</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04648.html">Quantum QSAR for drug discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Alejandro Giraldo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04648">2505.04648</a></td>
 </tr>
 </tbody></table>

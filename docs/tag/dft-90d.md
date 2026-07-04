@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">460 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2774,11 +2774,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04203.html">Ultrafast Néel vector switching</a></div></td>
 <td>Eddie Ivor Harris-Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04203">2604.04203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00990.html">Many-body \textit{ab initio} study of quasiparticles, optical excitations, and excitonic properties in LiZnAs and ScAgC for photovoltaic applications</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Vinod Kumar Solet et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00990">2504.00990</a></td>
 </tr>
 </tbody></table>

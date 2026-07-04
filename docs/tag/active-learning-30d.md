@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>active-learning — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <strong>30d</strong> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08148.html">Inverse design of bespoke interatomic potentials via active learning by information-matching</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Yonatan Kurniawan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08148">2606.08148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04647.html">ALINC: Active Learning for Inductive Node Classification via Graph Sampling</a></div></td>
-<td>Pascal Plettenberg et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04647">2606.04647</a></td>
 </tr>
 </tbody></table>

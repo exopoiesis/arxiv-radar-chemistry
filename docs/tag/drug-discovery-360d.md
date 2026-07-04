@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">565 papers</span>
+  <span class="paper-count">562 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3386,23 +3386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08854.html">DiffNMR: Diffusion Models for Nuclear Magnetic Resonance Spectra Elucidation</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Qingsong Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08854">2507.08854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04648.html">Quantum QSAR for drug discovery</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Alejandro Giraldo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04648">2505.04648</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23008.html">A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Cong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23008">2506.23008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06366.html">DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Yupu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06366">2507.06366</a></td>
 </tr>
 </tbody></table>

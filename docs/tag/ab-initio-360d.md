@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1571 papers</span>
+  <span class="paper-count">1566 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9410,35 +9410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07164.html">Unconventional Materials for Light Dark Matter Detection</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Yonit Hochberg et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07164">2507.07164</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17268.html">LiV2O4: Hund-Assisted Orbital-Selective Mottness</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Martin Grundner et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17268">2409.17268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23008.html">A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Cong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23008">2506.23008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05680.html">The nuclear charge radius of $^{13}\mathrm{C}$</a></div></td>
-<td>Patrick Müller et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05680">2507.05680</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05831.html">Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jyoti Duhan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05831">2507.05831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06288.html">The Possibility of Hydrogen-Water Demixing in Uranus, Neptune, K2-18b and TOI-270d</a></div></td>
-<td>Saburo Howard et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06288">2507.06288</a></td>
 </tr>
 </tbody></table>

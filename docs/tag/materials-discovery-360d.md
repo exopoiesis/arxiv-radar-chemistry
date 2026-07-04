@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">258 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,11 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21247.html">Kernel Ridge Regression for conformer ensembles made easy with Structured Orthogonal Random Features</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Konstantin Karandashev</td>
 <td><a href="http://arxiv.org/abs/2505.21247">2505.21247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06194.html">Bridging Machine Learning and Glassy Dynamics Theory for Predictive Polymer Modeling</a></div></td>
-<td>Anh D. Phan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06194">2507.06194</a></td>
 </tr>
 </tbody></table>

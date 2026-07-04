@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">349 papers</span>
+  <span class="paper-count">347 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2096,17 +2096,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04076.html">PyGSC: A Python tool for correcting Kohn-Sham orbital energies by mitigating the delocalization error of density functional approximations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Zipeng An et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04076">2604.04076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03580.html">Potential energy landscape picture of zero-temperature avalanche criticality governing dynamics in supercooled liquids</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Norihiro Oyama et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03580">2604.03580</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03783.html">Structurally Triggered Breakdown of the Phonon Gas Model in Crystalline Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Penghua Ying et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03783">2604.03783</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>multimodal-llm — 90d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <strong>90d</strong> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11635.html">Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation</a></div></td>
 <td>Shuo Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11635">2602.11635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10882.html">Computational emotion analysis with multimodal LLMs: Current evidence on an emerging methodological opportunity</a></div></td>
-<td>Hauke Licht</td>
-<td><a href="http://arxiv.org/abs/2512.10882">2512.10882</a></td>
 </tr>
 </tbody></table>

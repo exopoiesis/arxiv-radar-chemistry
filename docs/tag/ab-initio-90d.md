@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">339 papers</span>
+  <span class="paper-count">335 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2024,29 +2024,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03943.html">Photoelectron spectroscopy of 3s3p doubly excited helium dressed with strong near-infrared laser fields</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Mizuho Fushitani et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03943">2604.03943</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15992.html">Band gap renormalization, carrier mobility, and transport in Mg$_{2}$Si and Ca$_{2}$Si: \textit{Ab initio} scattering and Boltzmann transport equation study</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Vinod Kumar Solet et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15992">2501.15992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10594.html">Atomistic mechanism and interface-structure-energetics of van der Waals epitaxy demonstrated by layered alpha-MoO3 growth on mica</a></div><div class="paper-tags"><a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Faezeh A. F. Lahiji et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10594">2502.10594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00990.html">Many-body \textit{ab initio} study of quasiparticles, optical excitations, and excitonic properties in LiZnAs and ScAgC for photovoltaic applications</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Vinod Kumar Solet et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00990">2504.00990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06697.html">Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Yuxuan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06697">2512.06697</a></td>
 </tr>
 </tbody></table>

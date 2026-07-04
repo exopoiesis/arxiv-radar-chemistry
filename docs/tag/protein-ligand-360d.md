@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1034,11 +1034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07201.html">MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Dong Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07201">2507.07201</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06366.html">DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Yupu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06366">2507.06366</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1568 papers</span>
+  <span class="paper-count">1565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9404,23 +9404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07305.html">Superheating and melting phenomena of a vibrated granular layer of cubic particles</a></div></td>
 <td>Francisco López-González et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07305">2507.07305</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05547.html">On void formation during the simulated tensile testing of polymer-filler particle composites</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>John J. Karnes et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05547">2507.05547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05672.html">Berry Phase Effects of Nuclei in Chemical Reaction Dynamics</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Xingyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05672">2507.05672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06314.html">Alcohol additives to enhance ammonia-methane combustion efficiency and reduce emissions: A reactive force field analysis</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Amirali Shateri et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06314">2507.06314</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">418 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2522,17 +2522,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07293.html">Thermodynamic Prediction Enabled by Automatic Dataset Building and Machine Learning</a></div></td>
 <td>Juejing Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07293">2507.07293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23008.html">A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Cong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23008">2506.23008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05547.html">On void formation during the simulated tensile testing of polymer-filler particle composites</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>John J. Karnes et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05547">2507.05547</a></td>
 </tr>
 </tbody></table>

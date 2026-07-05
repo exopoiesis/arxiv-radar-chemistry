@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01584.html">EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation</a></div></td>
+<td>Mahyar Ghazanfari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01584">2607.01584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02212.html">An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Sampreeti Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02212">2607.02212</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00671.html">Multi-Label Node Classification with Label Influence Propagation</a></div></td>
+<td>Yifei Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00671">2607.00671</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23361.html">Rethinking Molecular Graph Backdoors under Chemistry-aware Admission</a></div></td>
@@ -128,17 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07712.html">MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Zhan&#x27;ao Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07712">2606.07712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06364.html">End-to-End Subgraph Detection with GraphDETR</a></div></td>
-<td>Dexiong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06364">2606.06364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>João G. C. S. Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
 </tr>
 </tbody></table>

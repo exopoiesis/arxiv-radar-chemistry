@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01982.html">MolSight: A Graph-Aware Vision-Language Model for Unified Chemical Image Understanding</a></div><div class="paper-tags"><a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Wenda Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01982">2607.01982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02212.html">An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Sampreeti Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02212">2607.02212</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01105.html">SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles</a></div></td>
 <td>Miruna Cretu et al.</td>
@@ -86,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08973.html">A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Sheng-Ya Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08973">2606.08973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>João G. C. S. Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06717.html">ShallowBench: Benchmarking Generative Drug Design Models on Shallow-Pocket Targets</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Saket Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06717">2606.06717</a></td>
 </tr>
 </tbody></table>

@@ -17,6 +17,18 @@ current_window: 30d
 <tbody>
 <tr class="paper">
 <td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00464.html">MolSafeEval: A Benchmark for Uncovering Safety Risks in AI-Generated Molecules</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Tong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00464">2607.00464</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00947.html">Diffeomorphic Optimization</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Ludwig Winkler et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00947">2607.00947</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01061.html">Agentic generation of verifiable rules for deterministic, self-expanding reaction classification</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Daniel Armstrong et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01061">2607.01061</a></td>
@@ -200,17 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07239.html">Generative Molecular Morphing for Flexible-Size Design via Unbalanced Optimal Transport</a></div></td>
 <td>Malte Franke et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07239">2606.07239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>João G. C. S. Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06717.html">ShallowBench: Benchmarking Generative Drug Design Models on Shallow-Pocket Targets</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Saket Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06717">2606.06717</a></td>
 </tr>
 </tbody></table>

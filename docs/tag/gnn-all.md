@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">730 papers</span>
+  <span class="paper-count">733 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01584.html">EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation</a></div></td>
+<td>Mahyar Ghazanfari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01584">2607.01584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02212.html">An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Sampreeti Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02212">2607.02212</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00671.html">Multi-Label Node Classification with Label Influence Propagation</a></div></td>
+<td>Yifei Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00671">2607.00671</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23361.html">Rethinking Molecular Graph Backdoors under Chemistry-aware Admission</a></div></td>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00947.html">Diffeomorphic Optimization</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Ludwig Winkler et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00947">2607.00947</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25006.html">Scalable Peptide Design via Memory-Efficient Equivariant Transformer</a></div></td>
 <td>Rui Jiao et al.</td>
@@ -1028,11 +1034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08938.html">KinDEL: DNA-Encoded Library Dataset for Kinase Inhibitors</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Benson Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08938">2410.08938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07201.html">MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Dong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07201">2507.07201</a></td>
 </tr>
 </tbody></table>

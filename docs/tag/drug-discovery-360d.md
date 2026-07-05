@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">562 papers</span>
+  <span class="paper-count">561 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01982.html">MolSight: A Graph-Aware Vision-Language Model for Unified Chemical Image Understanding</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
+<td>Wenda Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01982">2607.01982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02212.html">An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Sampreeti Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02212">2607.02212</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01105.html">SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles</a></div></td>
@@ -3368,23 +3380,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07862.html">Predicting and generating antibiotics against future pathogens with ApexOracle</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Tianang Leng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07862">2507.07862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04543.html">Pullback Flow Matching on Data Manifolds</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Friso de Kruiff et al.</td>
-<td><a href="http://arxiv.org/abs/2410.04543">2410.04543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07201.html">MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Dong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07201">2507.07201</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08854.html">DiffNMR: Diffusion Models for Nuclear Magnetic Resonance Spectra Elucidation</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Qingsong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08854">2507.08854</a></td>
 </tr>
 </tbody></table>

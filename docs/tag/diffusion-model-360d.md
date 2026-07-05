@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01693.html">A Mathematical Introduction to Diffusion Models</a></div></td>
+<td>Jianfeng Lu</td>
+<td><a href="http://arxiv.org/abs/2607.01693">2607.01693</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00773.html">Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling</a></div></td>
+<td>Yu Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00773">2607.00773</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26764.html">Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis</a></div></td>
 <td>Yiheng Cao et al.</td>
@@ -2654,17 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11992.html">SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations</a></div></td>
 <td>Songchun Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11992">2505.11992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07201.html">MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Dong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07201">2507.07201</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08854.html">DiffNMR: Diffusion Models for Nuclear Magnetic Resonance Spectra Elucidation</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Qingsong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08854">2507.08854</a></td>
 </tr>
 </tbody></table>

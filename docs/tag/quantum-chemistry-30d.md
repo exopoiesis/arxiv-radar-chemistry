@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01560.html">Symmetry conservation with Trotterization and Quantum Phase Estimation</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
+<td>Edith Leal-Sánchez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01560">2607.01560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02242.html">Computable measures of fermionic non-Gaussianity from the covariance matrix</a></div></td>
+<td>Poetri Sonya Tarabunga et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02242">2607.02242</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00575.html">Reducing quantum resources for ADAPT-VQE via plateau-operator elimination and correlated mean-field downfolding</a></div></td>
+<td>Phuoc Minh Vo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00575">2607.00575</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20176.html">Quantum-Accelerated Self-Consistent Field: A Hybrid Algorithm</a></div></td>
@@ -110,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10075.html">An algorithm for dynamical quantum optimal transport with applications to quantum chemistry</a></div></td>
 <td>Genevieve Dusson et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10075">2606.10075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05865.html">Symmetry-adapted qubit encoding with complete active space and Bravyi--Kitaev mapping for quantum chemistry on a quantum computer</a></div></td>
-<td>Dario Picozzi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05865">2606.05865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06015.html">Quantum computing for accurate large-scale electronic-structure calculations: DFT-embedded, post-processed quantum-selected configuration interaction</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Tuan Minh Do et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06015">2606.06015</a></td>
 </tr>
 </tbody></table>

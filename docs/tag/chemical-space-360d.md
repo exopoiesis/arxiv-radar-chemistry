@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01800.html">Do LLMs Truly Generalize in the Molecular Domain? A Perturbation-Based Analysis</a></div></td>
+<td>Jiatong Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01800">2607.01800</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25865.html">Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Haoyu Lin et al.</td>
@@ -776,11 +782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21247.html">Kernel Ridge Regression for conformer ensembles made easy with Structured Orthogonal Random Features</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Konstantin Karandashev</td>
 <td><a href="http://arxiv.org/abs/2505.21247">2505.21247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08854.html">DiffNMR: Diffusion Models for Nuclear Magnetic Resonance Spectra Elucidation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Qingsong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08854">2507.08854</a></td>
 </tr>
 </tbody></table>

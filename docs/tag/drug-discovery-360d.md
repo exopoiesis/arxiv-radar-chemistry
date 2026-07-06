@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">561 papers</span>
+  <span class="paper-count">558 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3362,23 +3362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08966.html">ToxBench: A Binding Affinity Prediction Benchmark with AB-FEP-Calculated Labels for Human Estrogen Receptor Alpha</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Meng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08966">2507.08966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08938.html">KinDEL: DNA-Encoded Library Dataset for Kinase Inhibitors</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Benson Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2410.08938">2410.08938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07663.html">MolCLIP: A Molecular-Auxiliary CLIP Framework for Identifying Drug Mechanism of Action Based on Time-Lapsed Mitochondrial Images</a></div></td>
-<td>Fengqian Pang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07663">2507.07663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07862.html">Predicting and generating antibiotics against future pathogens with ApexOracle</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Tianang Leng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07862">2507.07862</a></td>
 </tr>
 </tbody></table>

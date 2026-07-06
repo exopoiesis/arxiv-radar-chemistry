@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">340 papers</span>
+  <span class="paper-count">336 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2030,29 +2030,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06076.html">The HTC-Claw: Automating Discovery through High-Throughput Computational Campaigns</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Lianduan Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06076">2604.06076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04434.html">Collective Electrostatics and Band Alignment in Janus MoSTe nanotubes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Adithya Sadanandan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04434">2604.04434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04557.html">Phonon-driven tuning of exchange interactions in Y3Fe5O12</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Kunihiko Yamauchi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04557">2604.04557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04860.html">Proton Quantum Effects in H$_3$S Electronic Structure: A Multicomponent DFT study via Nuclear-Electronic Orbital Method</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jianhang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04860">2604.04860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05264.html">Stability and superstructural ordering of alkali-triel-pnictide clathrates A$_8$T$_{27}$Pn$_{19}$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Frank Cerasoli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05264">2604.05264</a></td>
 </tr>
 </tbody></table>

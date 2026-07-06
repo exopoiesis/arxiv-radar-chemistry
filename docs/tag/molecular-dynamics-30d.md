@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">75 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,23 +446,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08334.html">Enhanced dumbbell diffusion in a periodic potential by the elevator effect</a></div></td>
 <td>B. A. Kiang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08334">2606.08334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07371.html">Resolving Light-Induced Structural Rearrangements in Responsive Microgels</a></div></td>
-<td>Fabrizio Camerin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07371">2606.07371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07444.html">Optical Poling Reveals Hidden Molecular Restructuring in Multimode Fibers, Unlocking Ultra-Efficient Third-Order Nonlinearities</a></div></td>
-<td>Maxime Jonard et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07444">2606.07444</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07772.html">Machine learning assisted molecular dynamics of charge-transfer mechanisms at Li/Ga-doped Li$_7$La$_3$Zr$_2$O$_{12}$ (LLZO) interfaces</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Arseniy S. Burov et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07772">2606.07772</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,17 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06489.html">Language-Guided Multimodal Texture Authoring via Generative Models</a></div></td>
 <td>Wanli Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06489">2604.06489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07435.html">DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation</a></div></td>
-<td>Ze-Xin Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07435">2509.07435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09216.html">Controllable protein design with particle-based Feynman-Kac steering</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Erik Hartman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09216">2511.09216</a></td>
 </tr>
 </tbody></table>

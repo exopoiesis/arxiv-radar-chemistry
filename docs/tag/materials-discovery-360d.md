@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">259 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1568,11 +1568,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Philipp Hoellmer et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21247.html">Kernel Ridge Regression for conformer ensembles made easy with Structured Orthogonal Random Features</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Konstantin Karandashev</td>
-<td><a href="http://arxiv.org/abs/2505.21247">2505.21247</a></td>
 </tr>
 </tbody></table>

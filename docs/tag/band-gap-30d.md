@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>band-gap — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <strong>30d</strong> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,29 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Tamer Taşkıran et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06980.html">Electric-field induced trends of exchange interactions in transition-metal trilayers</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Moinak Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06980">2606.06980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06992.html">Iron-catalysed on-surface synthesis of substrate-decoupled graphdiyne monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Alice Cartoceti et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06992">2606.06992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07712.html">MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="property-prediction-30d.html">property-prediction</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Zhan&#x27;ao Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07712">2606.07712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07863.html">Elusive Exciton Insulator States in 1T-HfTe2: Exciton softening, and Symmetry Breaking by Ab Initio Methods</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Hong Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07863">2606.07863</a></td>
 </tr>
 </tbody></table>

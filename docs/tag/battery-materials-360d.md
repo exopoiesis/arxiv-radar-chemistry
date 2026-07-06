@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1058,23 +1058,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16658.html">A fast and accurate method for inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT approach</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>A. Emir Gumrukcuoglu et al.</td>
 <td><a href="http://arxiv.org/abs/2404.16658">2404.16658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11179.html">Length scales in electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ioannis Skarmoutsos et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11179">2409.11179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21247.html">Kernel Ridge Regression for conformer ensembles made easy with Structured Orthogonal Random Features</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Konstantin Karandashev</td>
-<td><a href="http://arxiv.org/abs/2505.21247">2505.21247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08215.html">Corner-Sharing PS$_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yun An</td>
-<td><a href="http://arxiv.org/abs/2507.08215">2507.08215</a></td>
 </tr>
 </tbody></table>

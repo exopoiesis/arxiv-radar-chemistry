@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,17 +950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09173.html">Towards Interpretable Drug-Drug Interaction Prediction: A Graph-Based Approach with Molecular and Network-Level Explanations</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Mengjie Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09173">2507.09173</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21247.html">Kernel Ridge Regression for conformer ensembles made easy with Structured Orthogonal Random Features</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Konstantin Karandashev</td>
-<td><a href="http://arxiv.org/abs/2505.21247">2505.21247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07367.html">Platform for Representation and Integration of multimodal Molecular Embeddings</a></div></td>
-<td>Erika Yilin Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07367">2507.07367</a></td>
 </tr>
 </tbody></table>

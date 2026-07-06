@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08333.html">Nearly ballistic transport and high magnetic-field sensitivity in a $\text{Bi}_4\text{Br}_4$ topological Josephson weak link</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Enamul Haque et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08333">2606.08333</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07138.html">Chromium chalcohalide Janus monolayer ferromagnets with perpendicular magnetic anisotropy and high Curie temperature</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>M. Bosnar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07138">2606.07138</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>active-learning — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <strong>90d</strong> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03046.html">Bayesian E(3)-Equivariant Interatomic Potential with Iterative Restratification of Many-body Message Passing</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Soohaeng Yoo Willow et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03046">2510.03046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04515.html">CommonMorph: Participatory Morphological Documentation Platform</a></div></td>
-<td>Aso Mahmudi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04515">2604.04515</a></td>
 </tr>
 </tbody></table>

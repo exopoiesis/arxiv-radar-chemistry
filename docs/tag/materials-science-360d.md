@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">413 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2492,11 +2492,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09005.html">From images to properties: a NeRF-driven framework for granular material parameter inversion</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Cheng-Hsi Hsiao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09005">2507.09005</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07618.html">Strain-tunable type-II to type-III &amp; Gimbal nodal line transition in Imm2-phase of Cu$_2$SnS$_3$: An ab-initio study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Prakash Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07618">2507.07618</a></td>
 </tr>
 </tbody></table>

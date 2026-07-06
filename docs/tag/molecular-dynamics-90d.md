@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">355 papers</span>
+  <span class="paper-count">354 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2138,11 +2138,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06360.html">Influence of Manganese Content on Plastic Deformation Mechanisms in Polycrystalline α-Ti-Mn Alloys</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>G. Marković et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06360">2604.06360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05264.html">Stability and superstructural ordering of alkali-triel-pnictide clathrates A$_8$T$_{27}$Pn$_{19}$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Frank Cerasoli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05264">2604.05264</a></td>
 </tr>
 </tbody></table>

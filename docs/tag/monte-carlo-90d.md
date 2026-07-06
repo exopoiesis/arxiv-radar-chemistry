@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05521.html">Development of a 3D-CNN-based Prediction Model for Migration Barriers in Plasma-Wall Interactions</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Seiki Saito et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05521">2604.05521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04329.html">Assessing the impact of nodal surface optimization in fixed-node diffusion Monte Carlo on non-covalent interactions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Kousuke Nakano et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04329">2604.04329</a></td>
 </tr>
 </tbody></table>

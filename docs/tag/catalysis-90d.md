@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01328.html">Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Zhongwei Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01328">2604.01328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05223.html">A Modular 3D-Printed Design to Investigate Prebiotic Chemical Systems in Hot Spring Pools</a></div></td>
-<td>Arslan Siddique et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05223">2604.05223</a></td>
 </tr>
 </tbody></table>

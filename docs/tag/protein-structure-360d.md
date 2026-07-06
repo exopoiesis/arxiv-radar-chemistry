@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">258 papers</span>
+  <span class="paper-count">256 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1550,17 +1550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09054.html">Conformation-Aware Structure Prediction of Antigen-Recognizing Immune Proteins</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Frédéric A. Dreyer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09054">2507.09054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07486.html">Sparse Autoencoders Reveal Interpretable Structure in Small Gene Language Models</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Haoxiang Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07486">2507.07486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07887.html">Automating MD simulations for Proteins using Large language Models: NAMD-Agent</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Achuth Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07887">2507.07887</a></td>
 </tr>
 </tbody></table>

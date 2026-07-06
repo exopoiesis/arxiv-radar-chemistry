@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>retrosynthesis — 360d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <strong>360d</strong> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08475.html">SynBridge: Bridging Reaction States via Discrete Flow for Bidirectional Reaction Prediction</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Haitao Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08475">2507.08475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01444.html">A Large Language Model for Chemistry and Retrosynthesis Predictions</a></div></td>
-<td>Yueqing Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01444">2507.01444</a></td>
 </tr>
 </tbody></table>

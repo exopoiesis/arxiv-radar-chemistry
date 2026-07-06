@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05380.html">Molecular Excited States using Quantum Subspace Methods: Accuracy, Resource Reduction, and Error-Mitigated Hardware Implementation of q-sc-EOM</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Srivathsan Poyyapakkam Sundar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05380">2604.05380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12742.html">Relevance of on-site and intersite Coulomb interactions in the Kitaev-Heisenberg magnet Na$_3$Co$_2$SbO$_6$</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Pritam Bhattacharyya et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12742">2404.12742</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">270 papers</span>
+  <span class="paper-count">269 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1628,11 +1628,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Philipp Hoellmer et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07926.html">Phase Stability and Transformations in Lead Mixed Halide Perovskites from Machine Learning Force Fields</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xia Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07926">2507.07926</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1567 papers</span>
+  <span class="paper-count">1563 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9392,29 +9392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08740.html">Microscopic Scattering Approach to In-Gap States: Cr Adatoms on Superconducting β-Bi2Pd</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Joseph Sink et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08740">2507.08740</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00755.html">Thermal Conductivity Predictions with Foundation Atomistic Models</a></div></td>
-<td>Balázs Póta et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00755">2408.00755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04842.html">Wannier interpolation of spin accumulation coefficient</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Atsuo Shitade et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04842">2502.04842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07618.html">Strain-tunable type-II to type-III &amp; Gimbal nodal line transition in Imm2-phase of Cu$_2$SnS$_3$: An ab-initio study</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Prakash Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07618">2507.07618</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07716.html">Superlubricity of Borophene: Tribological Properties in Comparison to hBN</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Antoine Hinaut et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07716">2507.07716</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">562 papers</span>
+  <span class="paper-count">560 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3374,17 +3374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07814.html">PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Chia-Hao Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2505.07814">2505.07814</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07479.html">Mass-transport-limited reaction rates and molecular diffusion in the van der Waals gap beneath graphene</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Hossein Mirdamadi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07479">2507.07479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07716.html">Superlubricity of Borophene: Tribological Properties in Comparison to hBN</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Antoine Hinaut et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07716">2507.07716</a></td>
 </tr>
 </tbody></table>

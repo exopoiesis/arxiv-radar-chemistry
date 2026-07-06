@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08221.html">De novo molecular generation with optical property preconditioning at the token level</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Haozhe Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08221">2606.08221</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07239.html">Generative Molecular Morphing for Flexible-Size Design via Unbalanced Optimal Transport</a></div></td>
-<td>Malte Franke et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07239">2606.07239</a></td>
 </tr>
 </tbody></table>

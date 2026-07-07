@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05266.html">A Distributional Framework for Generative Modeling of Molecular Crystals</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Michael Kilgour et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05266">2607.05266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03007.html">Back to Basics: Improving Molecular Understanding in LLMs via SMILES-Graph Translation</a></div></td>
+<td>Wenda Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03007">2607.03007</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -320,29 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06558.html">When Does Context Help? A Systematic Study of Target-Conditional Molecular Property Prediction</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Bryan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06558">2604.06558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22251.html">Zatom-1: A Multimodal Flow Foundation Model for 3D Molecules and Materials</a></div></td>
-<td>Alex Morehead et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22251">2602.22251</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04403.html">MolDA: Molecular Understanding and Generation via Large Language Diffusion Model</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="molecular-llm-90d.html">molecular-llm</a></div></td>
-<td>Seohyeon Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04403">2604.04403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06264.html">ToxReason: A Benchmark for Mechanistic Chemical Toxicity Reasoning via Adverse Outcome Pathway</a></div></td>
-<td>Jueon Park et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06264">2604.06264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06336.html">BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Yi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06336">2604.06336</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05266.html">A Distributional Framework for Generative Modeling of Molecular Crystals</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Michael Kilgour et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05266">2607.05266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05321.html">Data-driven atomistic modelling of hybrid halide perovskite passivation</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Laura-Bianca Paşca et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05321">2607.05321</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24097.html">Reversible non-equilibrium phase transformation in amorphous germanium</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yang Huang et al.</td>
@@ -368,17 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08022.html">Tailoring the Optoelectronic, Photocatalytic, Thermoelectric and Thermodynamic Properties of Halides Li2InBiX6 (X = Cl, Br, I) for Energy Conversion: A DFT Study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
 <td>Huda A. Alburaih et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08022">2604.08022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09912.html">Re-refinement of the structure of the planar hexagonal phase of ZnO nanocrystals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Musen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09912">2511.09912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06360.html">Influence of Manganese Content on Plastic Deformation Mechanisms in Polycrystalline α-Ti-Mn Alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>G. Marković et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06360">2604.06360</a></td>
 </tr>
 </tbody></table>

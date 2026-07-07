@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03208.html">Data-driven multi-objective optimization for alloy recycling using factorization machines and quantum annealing</a></div></td>
+<td>Thomas Plehn et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03208">2607.03208</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01713.html">Predicting Novel Stable Materials for Experimental Synthesis</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yuqi An et al.</td>
@@ -1562,11 +1568,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10237.html">Quantum-Annealing Enhanced Machine Learning for Interpretable Phase Classification of High-Entropy Alloys</a></div></td>
 <td>Diego Ibarra Hoyos et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10237">2507.10237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Philipp Hoellmer et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
 </tr>
 </tbody></table>

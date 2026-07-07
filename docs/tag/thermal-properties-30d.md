@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03317.html">Mid-IR single- and dual-electro-optic comb generation with an ultrafast modulator</a></div></td>
+<td>Gia-Long Ngo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03317">2607.03317</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00906.html">Strengthening and interface-mediated plastic co-deformation in an ultrafine Cr-Ni eutectic: A nanomechanical investigation</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
 <td>Arkajit Ghosh et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08955.html">Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Katsunori Wakabayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08955">2606.08955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08111.html">Steering Selective Formation and 2D Crystallization of [4]Radialenes on Au(111) via [1+1+1+1] Cycloaddition of Isocyanides and Enantioselective Molecular Recognition</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Jian-Wei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08111">2606.08111</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04633.html">Differentiable OPLS Force Field Parameterization for Ionic Electrolytes and High-Throughput Application to Lithium-ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Haichao Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04633">2607.04633</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05015.html">dpti: An Automated Thermodynamic Integration Workflow for Phase Diagram Calculations with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Fengbo Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05015">2607.05015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05321.html">Data-driven atomistic modelling of hybrid halide perovskite passivation</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
+<td>Laura-Bianca Paşca et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05321">2607.05321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03433.html">Dyna-Mat: End-to-end benchmarking of foundation machine learning interatomic potentials in finite-temperature ensembles</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Mikołaj J. Gawkowski et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03433">2607.03433</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03513.html">AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Emmanuel Bengio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03513">2607.03513</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01713.html">Predicting Novel Stable Materials for Experimental Synthesis</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -896,17 +926,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07276.html">Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Luca Pennati et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07276">2604.07276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00185.html">QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark of Its Capabilities</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Fengxu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00185">2602.00185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05769.html">ORION: Unifying Top-Down and Bottom-Up Chemical Space Sampling for a Universal Organic Force Field</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Zherui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05769">2604.05769</a></td>
 </tr>
 </tbody></table>

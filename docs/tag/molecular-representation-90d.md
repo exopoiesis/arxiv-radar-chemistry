@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04774.html">MARLIN: De Novo Molecular Structure Elucidation from Tandem Mass Spectra without a Ground-Truth Formula</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Xujun Che et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04774">2607.04774</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22377.html">Multigrid Training for Molecular Generation using Graph Neural Networks</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Zixuan Ling et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06558.html">When Does Context Help? A Systematic Study of Target-Conditional Molecular Property Prediction</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Bryan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06558">2604.06558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06336.html">BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Yi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06336">2604.06336</a></td>
 </tr>
 </tbody></table>

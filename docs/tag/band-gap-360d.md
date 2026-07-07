@@ -16,6 +16,36 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05037.html">Surface-exciton enhanced SHG response in few-layer 2H-TMDC</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>H. Hübschmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05037">2607.05037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05337.html">Magnetotransport and electronic band structure of EuNi$_2$As$_2$ antiferromagnet</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Faheem Gul et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05337">2607.05337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04116.html">Electronic Structure, Optical Response, Thermal and Mechanical Behavior of B6X (X = S, Se) under Pressure: A Comprehensive Ab-initio Exploration</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Sourav Kumar Sutradhar et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04116">2607.04116</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03267.html">One-dimensional carbon nanostructures with periodic graphitic nitrogen substitution</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Nicolò Bassi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03267">2607.03267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03322.html">Color Centers in Cubic Boron Nitride</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>William Stenlund et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03322">2607.03322</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01016.html">Effect of radially heterogeneous band gap collapse on formation of swift heavy ion tracks in Al2O3</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Roman Voronkov et al.</td>
@@ -2666,35 +2696,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16000.html">Coexistent topological and chiral phonons in chiral RhGe: An ab initio study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>P. V. Sreenivasa Reddy et al.</td>
 <td><a href="http://arxiv.org/abs/2410.16000">2410.16000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18212.html">Exploring the Convergence and Properties of Intrinsic Bond Orbitals in Solids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Benjamin Wöckinger et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18212">2409.18212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19613.html">Anisotropic moiré band flattening in twisted bilayers of M-valley MXenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Kejie Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19613">2412.19613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02231.html">Direction-Dependent Conduction Polarity in Altermagnetic CrSb</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Banik Rai et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02231">2502.02231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08308.html">Electronic and optical properties of the thio-apatites phases Ba$_5$(VS$_α$O$_β$)$_3$X [X=Cl, F, Br, I]: impact of multiple anionic substitution</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Smritijit Sen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08308">2507.08308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08951.html">Structural optimization of lattice-matched Sc0.14Al0.86N/GaN superlattices for photonic applications</a></div></td>
-<td>Rajendra Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08951">2507.08951</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">799 papers</span>
+  <span class="paper-count">802 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04134.html">Spectral Diffusion for Protein Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Hew Phipps et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04134">2607.04134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02834.html">On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Trevor Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02834">2607.02834</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03513.html">AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Emmanuel Bengio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03513">2607.03513</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00464.html">MolSafeEval: A Benchmark for Uncovering Safety Risks in AI-Generated Molecules</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>

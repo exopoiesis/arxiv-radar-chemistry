@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1567 papers</span>
+  <span class="paper-count">1581 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,96 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04633.html">Differentiable OPLS Force Field Parameterization for Ionic Electrolytes and High-Throughput Application to Lithium-ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Haichao Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04633">2607.04633</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04840.html">Disentangling Electronic and Lattice Contributions to Transient Absorption in Metal Halide Perovskites: A First-Principles Study of CH3NH3PbBr3</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Lu Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04840">2607.04840</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04897.html">Size Effect of Monovalent Ions on Polyelectrolyte Brushes</a></div></td>
+<td>Xianggui Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04897">2607.04897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05015.html">dpti: An Automated Thermodynamic Integration Workflow for Phase Diagram Calculations with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Fengbo Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05015">2607.05015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05127.html">Physically-Relevant Information Learning in High-Dimensional Time-Derivatives Spaces</a></div></td>
+<td>Domiziano Doria et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05127">2607.05127</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05151.html">On data-driven parameterizations of multidimensional generalized Langevin dynamics in the presence of a quadratic potential</a></div></td>
+<td>Maximilian Braun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05151">2607.05151</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04134.html">Spectral Diffusion for Protein Dynamics</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Hew Phipps et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04134">2607.04134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04200.html">Tellurium sublattice instability driven amorphization in the chalcogenide AgSbTe2 under pressure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Baihong Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04200">2607.04200</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04288.html">Mass weighting algorithm optimizes Fourier-based physics-informed neural network in adhesive contact mechanics</a></div></td>
+<td>Yunong Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04288">2607.04288</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03722.html">Free energies and optimal reaction coordinates via entropy production</a></div></td>
+<td>Jérémy Diharce et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03722">2607.03722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02867.html">Studying baryon number transport dynamics via hyperon-kaon correlations in $p + \mathrm{Au}$ collisions at $\sqrt{s_{_{\rm NN}}}=20$, $39$ and $62$ GeV</a></div></td>
+<td>Siyuan Ping et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02867">2607.02867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03172.html">Martensitic Transformation in Crystal-Amorphous Superlattices of NiTi Shape Memory Alloy</a></div></td>
+<td>Bhavna Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03172">2607.03172</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03375.html">Improving Jet A-1 Thermal-Oxidative Stability through Selective Removal of Unwanted Trace Species via 3.7 Å Chabazite Filtration</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Morteza Roostaeinia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03375">2607.03375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03433.html">Dyna-Mat: End-to-end benchmarking of foundation machine learning interatomic potentials in finite-temperature ensembles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Mikołaj J. Gawkowski et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03433">2607.03433</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03513.html">AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Emmanuel Bengio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03513">2607.03513</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01713.html">Predicting Novel Stable Materials for Experimental Synthesis</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
@@ -9410,11 +9500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09812.html">From Spheres to Cones: Structural Instabilities and Acidity at Conical Regions in Trivalent Metal Ion Nano-clusters</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Jihong Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09812">2507.09812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15039.html">Viscosity as the product of its ideal low-concentration value times a thermodynamic function</a></div></td>
-<td>L. Marchioni et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15039">2408.15039</a></td>
 </tr>
 </tbody></table>

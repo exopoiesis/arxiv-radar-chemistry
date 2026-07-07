@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1563 papers</span>
+  <span class="paper-count">1564 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04622.html">VASP Plugins: Linking the Vienna ab-initio Simulation Package with Python</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Sudarshan Vijay et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04622">2607.04622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04840.html">Disentangling Electronic and Lattice Contributions to Transient Absorption in Metal Halide Perovskites: A First-Principles Study of CH3NH3PbBr3</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Lu Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04840">2607.04840</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05037.html">Surface-exciton enhanced SHG response in few-layer 2H-TMDC</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
+<td>H. Hübschmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05037">2607.05037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05086.html">High-precision ab initio calculations of nuclear binding energies: Tin isotopes from dripline to dripline</a></div></td>
+<td>Urban Vernik et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05086">2607.05086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05192.html">cQED-iCIPT2: A Near-Exact Method for Polaritonic Chemistry</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Ning Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05192">2607.05192</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05337.html">Magnetotransport and electronic band structure of EuNi$_2$As$_2$ antiferromagnet</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Faheem Gul et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05337">2607.05337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03375.html">Improving Jet A-1 Thermal-Oxidative Stability through Selective Removal of Unwanted Trace Species via 3.7 Å Chabazite Filtration</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Morteza Roostaeinia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03375">2607.03375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03395.html">Spectroscopic photorelaxation signatures in pyrazine from nonadiabatic dynamics simulations with coupled cluster theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Sara Angelico et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03395">2607.03395</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03433.html">Dyna-Mat: End-to-end benchmarking of foundation machine learning interatomic potentials in finite-temperature ensembles</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Mikołaj J. Gawkowski et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03433">2607.03433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
@@ -26,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02236.html">Efficient Large-Scale STEM-EELS Simulations With Torched-TACAW</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Martin Osmera et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02236">2607.02236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02634.html">Metasurface embodied intelligence through electromagnetic world model</a></div></td>
+<td>Che Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02634">2607.02634</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -9338,59 +9398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09234.html">Revealing Material-Dependent Bicircular High-Order Harmonic Generation in 2D Semiconductors via Real-Space Trajectories</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Qing-Guo Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09234">2507.09234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18212.html">Exploring the Convergence and Properties of Intrinsic Bond Orbitals in Solids</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Benjamin Wöckinger et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18212">2409.18212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19613.html">Anisotropic moiré band flattening in twisted bilayers of M-valley MXenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Kejie Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19613">2412.19613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12761.html">Antisymmetry rules of response properties in certain chemical spaces</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Takafumi Shiraogawa et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12761">2502.12761</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15455.html">Magnetohydrodynamic turbulence and the associated spatial diffusion tensor of cosmic rays in dynamical galactic halos</a></div></td>
-<td>J. Kleimann et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15455">2505.15455</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08308.html">Electronic and optical properties of the thio-apatites phases Ba$_5$(VS$_α$O$_β$)$_3$X [X=Cl, F, Br, I]: impact of multiple anionic substitution</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Smritijit Sen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08308">2507.08308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08495.html">Ab initio lattice study of neutron-alpha scattering with chiral forces at N3LO</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Serdar Elhatisari et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08495">2507.08495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08531.html">Hydrogen toggling between Yoshimori spin spirals and elliptical Dzyaloshinskii-Moriya skyrmions in Fe on Ir(110)</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Timo Knispel et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08531">2507.08531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08578.html">Abinit 2025: New Capabilities for the Predictive Modeling of Solids and Nanomaterials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Matthieu J. Verstraete et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08578">2507.08578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08740.html">Microscopic Scattering Approach to In-Gap States: Cr Adatoms on Superconducting β-Bi2Pd</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Joseph Sink et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08740">2507.08740</a></td>
 </tr>
 </tbody></table>

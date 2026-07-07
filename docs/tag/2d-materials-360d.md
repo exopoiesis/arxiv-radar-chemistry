@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03267.html">One-dimensional carbon nanostructures with periodic graphitic nitrogen substitution</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Nicolò Bassi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03267">2607.03267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03363.html">Pressure-Driven Structural Transitions without a Displacive Charge-Density Wave in La$_2$SmNi$_2$O$_7$</a></div></td>
+<td>J. Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03363">2607.03363</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01682.html">Many-body benchmarking of DFT local-registry energetics in bilayer InSe</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Jeonghwan Ahn et al.</td>
@@ -3362,17 +3374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09234.html">Revealing Material-Dependent Bicircular High-Order Harmonic Generation in 2D Semiconductors via Real-Space Trajectories</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Qing-Guo Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09234">2507.09234</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19613.html">Anisotropic moiré band flattening in twisted bilayers of M-valley MXenes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Kejie Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19613">2412.19613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07814.html">PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Chia-Hao Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07814">2505.07814</a></td>
 </tr>
 </tbody></table>

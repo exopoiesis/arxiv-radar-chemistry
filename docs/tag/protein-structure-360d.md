@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03881.html">Smooth $\%$MinMax: A Differentiable Relaxation for Codon Harmonization</a></div></td>
+<td>Yoonho Jeong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03881">2607.03881</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02749.html">Graph-VQE: A CUDA-Q Multi-QPU Simulation Framework for Hamiltonian-Aware Protein-Folding VQE</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Yujun Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02749">2607.02749</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00947.html">Diffeomorphic Optimization</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Ludwig Winkler et al.</td>
@@ -1538,17 +1550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09466.html">La-Proteina: Atomistic Protein Generation via Partially Latent Flow Matching</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Tomas Geffner et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09466">2507.09466</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08955.html">Quantum Algorithm for Protein Structure Prediction Using the Face-Centered Cubic Lattice</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Rui-Hao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08955">2507.08955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09054.html">Conformation-Aware Structure Prediction of Antigen-Recognizing Immune Proteins</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Frédéric A. Dreyer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09054">2507.09054</a></td>
 </tr>
 </tbody></table>

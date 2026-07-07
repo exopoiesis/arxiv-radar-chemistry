@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-model — all</h1>
-  <span class="paper-count">753 papers</span>
+  <span class="paper-count">756 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05154.html">Biophysics of the Pyrenoid</a></div></td>
+<td>Charley Schaefer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05154">2607.05154</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03788.html">Tensor-Train Joint Modeling for Few-Step Discrete Diffusion</a></div></td>
+<td>Byoungkwon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03788">2607.03788</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02834.html">On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Trevor Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02834">2607.02834</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01693.html">A Mathematical Introduction to Diffusion Models</a></div></td>

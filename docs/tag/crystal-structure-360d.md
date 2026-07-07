@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">269 papers</span>
+  <span class="paper-count">270 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05266.html">A Distributional Framework for Generative Modeling of Molecular Crystals</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Michael Kilgour et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05266">2607.05266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05321.html">Data-driven atomistic modelling of hybrid halide perovskite passivation</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Laura-Bianca Paşca et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05321">2607.05321</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24097.html">Reversible non-equilibrium phase transformation in amorphous germanium</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1622,11 +1634,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15547.html">Towards Understanding Prolate 4$f$ Monomers: Numerical Predictions and Experimental Validation of Electronic Properties and Slow Relaxation in a Muffin-shaped Er$^\mathrm{III}$ Complex</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>J. Arneth et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15547">2507.15547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Philipp Hoellmer et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
 </tr>
 </tbody></table>

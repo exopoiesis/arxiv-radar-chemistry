@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05390.html">Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models</a></div></td>
+<td>Hongyu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05390">2607.05390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03893.html">Morphology-Property Interplay in Chemo-Mechanics of Ion-Intercalation Active Particles</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
+<td>Rongyue Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03893">2607.03893</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03267.html">One-dimensional carbon nanostructures with periodic graphitic nitrogen substitution</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Nicolò Bassi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03267">2607.03267</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00924.html">Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
@@ -482,35 +500,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07584.html">From Papers to Property Tables: A Priority-Based LLM Workflow for Materials Data Extraction</a></div></td>
 <td>Koushik Rameshbabu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07584">2604.07584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07083.html">Ferromagnetic Insulator to Metal Transition in Non-Centrosymmetric Graphene Nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Aidan P. Delgado et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07083">2601.07083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00185.html">QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark of Its Capabilities</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Fengxu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00185">2602.00185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01328.html">Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Zhongwei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01328">2604.01328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05769.html">ORION: Unifying Top-Down and Bottom-Up Chemical Space Sampling for a Universal Organic Force Field</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Zherui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05769">2604.05769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05960.html">A Mixture of Experts Foundation Model for Scanning Electron Microscopy Image Analysis</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Sk Miraj Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05960">2604.05960</a></td>
 </tr>
 </tbody></table>

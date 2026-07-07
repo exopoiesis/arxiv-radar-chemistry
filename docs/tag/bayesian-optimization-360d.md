@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05159.html">Model-Guided Local Bayesian Optimization for Tuning of Interpretable Controllers in Injection Molding</a></div></td>
+<td>Jens Ahlers et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05159">2607.05159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03893.html">Morphology-Property Interplay in Chemo-Mechanics of Ion-Intercalation Active Particles</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Rongyue Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03893">2607.03893</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23977.html">A Comparative Study of Bayesian Contextual Bandits for Real-Time Warehouse Sorter Optimization</a></div></td>
 <td>Tina Dongxu Li et al.</td>
@@ -770,17 +782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04169.html">Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Luis J. Walter et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04169">2505.04169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07814.html">PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Chia-Hao Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07814">2505.07814</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09005.html">From images to properties: a NeRF-driven framework for granular material parameter inversion</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Cheng-Hsi Hsiao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09005">2507.09005</a></td>
 </tr>
 </tbody></table>

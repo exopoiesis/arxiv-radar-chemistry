@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05084.html">Rethinking Benchmarks and Models for Enzyme Specificity Prediction</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>Elizabeth H. Mahood et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05084">2607.05084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05266.html">A Distributional Framework for Generative Modeling of Molecular Crystals</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Michael Kilgour et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05266">2607.05266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03787.html">Folding, Reasoning, and Scaling with Open-source Drug Discovery Engine</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Aureka AI OpenDDE project</td>
+<td><a href="http://arxiv.org/abs/2607.03787">2607.03787</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22866.html">Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Kiyoung Seong et al.</td>
@@ -968,23 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11839.html">Protenix-Mini: Efficient Structure Predictor via Compact Architecture, Few-Step Diffusion and Switchable pLM</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Chengyue Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11839">2507.11839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Philipp Hoellmer et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08955.html">Quantum Algorithm for Protein Structure Prediction Using the Face-Centered Cubic Lattice</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Rui-Hao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08955">2507.08955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09054.html">Conformation-Aware Structure Prediction of Antigen-Recognizing Immune Proteins</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Frédéric A. Dreyer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09054">2507.09054</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">442 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05154.html">Biophysics of the Pyrenoid</a></div></td>
+<td>Charley Schaefer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05154">2607.05154</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03788.html">Tensor-Train Joint Modeling for Few-Step Discrete Diffusion</a></div></td>
+<td>Byoungkwon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03788">2607.03788</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02834.html">On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Trevor Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02834">2607.02834</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01693.html">A Mathematical Introduction to Diffusion Models</a></div></td>
@@ -2654,17 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10463.html">Solving the compute crisis with physics-based ASICs</a></div></td>
 <td>Maxwell Aifer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10463">2507.10463</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Philipp Hoellmer et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11992.html">SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations</a></div></td>
-<td>Songchun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11992">2505.11992</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">374 papers</span>
+  <span class="paper-count">370 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03820.html">Matter-wave Induced Transparenc</a></div></td>
+<td>Tongkang wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03820">2607.03820</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01560.html">Symmetry conservation with Trotterization and Quantum Phase Estimation</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
@@ -2228,35 +2234,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02419.html">Quantum Curriculum Learning</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Quoc Hoan Tran et al.</td>
 <td><a href="http://arxiv.org/abs/2407.02419">2407.02419</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18212.html">Exploring the Convergence and Properties of Intrinsic Bond Orbitals in Solids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Benjamin Wöckinger et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18212">2409.18212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12761.html">Antisymmetry rules of response properties in certain chemical spaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Takafumi Shiraogawa et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12761">2502.12761</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17367.html">Exploring the Properties of Light Diatomic Molecules in Strong Magnetic Fields</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>T. Zalialiutdinov et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17367">2503.17367</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08379.html">Advances in Machine Learning: Where Can Quantum Techniques Help?</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Samarth Kashyap et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08379">2507.08379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08634.html">Ionization Energy of Rb$_2$ by electric field-ionization of molecular Rydberg states</a></div></td>
-<td>Manuel Alejandro Lefrán Torres et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08634">2507.08634</a></td>
 </tr>
 </tbody></table>

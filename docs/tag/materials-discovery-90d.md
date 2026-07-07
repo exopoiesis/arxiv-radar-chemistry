@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03208.html">Data-driven multi-objective optimization for alloy recycling using factorization machines and quantum annealing</a></div></td>
+<td>Thomas Plehn et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03208">2607.03208</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01713.html">Predicting Novel Stable Materials for Experimental Synthesis</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -368,23 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07681.html">Multi-Agent Orchestration for High-Throughput Materials Screening on a Leadership-Class System</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a></div></td>
 <td>Thang Duc Pham et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07681">2604.07681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05960.html">A Mixture of Experts Foundation Model for Scanning Electron Microscopy Image Analysis</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Sk Miraj Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05960">2604.05960</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05968.html">Composition design of refractory compositionally complex alloys using machine learning models</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Tao Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05968">2604.05968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06076.html">The HTC-Claw: Automating Discovery through High-Throughput Computational Campaigns</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Lianduan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06076">2604.06076</a></td>
 </tr>
 </tbody></table>

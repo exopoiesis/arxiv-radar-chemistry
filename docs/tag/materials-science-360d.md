@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05390.html">Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models</a></div></td>
+<td>Hongyu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05390">2607.05390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03893.html">Morphology-Property Interplay in Chemo-Mechanics of Ion-Intercalation Active Particles</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
+<td>Rongyue Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03893">2607.03893</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03267.html">One-dimensional carbon nanostructures with periodic graphitic nitrogen substitution</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Nicolò Bassi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03267">2607.03267</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00924.html">Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Subhadeep Pal et al.</td>
@@ -2474,23 +2492,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00185.html">Anharmonic quantum muon effects of light particles in a spin liquid material</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Fabian Hotz et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00185">2408.00185</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18212.html">Exploring the Convergence and Properties of Intrinsic Bond Orbitals in Solids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Benjamin Wöckinger et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18212">2409.18212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02582.html">Open Materials Generation with Stochastic Interpolants</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Philipp Hoellmer et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02582">2502.02582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09005.html">From images to properties: a NeRF-driven framework for granular material parameter inversion</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Cheng-Hsi Hsiao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09005">2507.09005</a></td>
 </tr>
 </tbody></table>

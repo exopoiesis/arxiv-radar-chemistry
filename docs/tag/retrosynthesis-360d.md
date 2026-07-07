@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04688.html">URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Bogdan Zagribelnyy et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04688">2607.04688</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01061.html">Agentic generation of verifiable rules for deterministic, self-expanding reaction classification</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Daniel Armstrong et al.</td>
@@ -488,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17448.html">Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Situo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17448">2507.17448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08475.html">SynBridge: Bridging Reaction States via Discrete Flow for Bidirectional Reaction Prediction</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Haitao Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08475">2507.08475</a></td>
 </tr>
 </tbody></table>

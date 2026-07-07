@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">336 papers</span>
+  <span class="paper-count">340 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04622.html">VASP Plugins: Linking the Vienna ab-initio Simulation Package with Python</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Sudarshan Vijay et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04622">2607.04622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04840.html">Disentangling Electronic and Lattice Contributions to Transient Absorption in Metal Halide Perovskites: A First-Principles Study of CH3NH3PbBr3</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Lu Qiao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04840">2607.04840</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05037.html">Surface-exciton enhanced SHG response in few-layer 2H-TMDC</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
+<td>H. Hübschmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05037">2607.05037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05086.html">High-precision ab initio calculations of nuclear binding energies: Tin isotopes from dripline to dripline</a></div></td>
+<td>Urban Vernik et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05086">2607.05086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05192.html">cQED-iCIPT2: A Near-Exact Method for Polaritonic Chemistry</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Ning Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05192">2607.05192</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05337.html">Magnetotransport and electronic band structure of EuNi$_2$As$_2$ antiferromagnet</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Faheem Gul et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05337">2607.05337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03375.html">Improving Jet A-1 Thermal-Oxidative Stability through Selective Removal of Unwanted Trace Species via 3.7 Å Chabazite Filtration</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Morteza Roostaeinia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03375">2607.03375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03395.html">Spectroscopic photorelaxation signatures in pyrazine from nonadiabatic dynamics simulations with coupled cluster theory</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
+<td>Sara Angelico et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03395">2607.03395</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03433.html">Dyna-Mat: End-to-end benchmarking of foundation machine learning interatomic potentials in finite-temperature ensembles</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Mikołaj J. Gawkowski et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03433">2607.03433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
@@ -26,6 +80,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02236.html">Efficient Large-Scale STEM-EELS Simulations With Torched-TACAW</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Martin Osmera et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02236">2607.02236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02634.html">Metasurface embodied intelligence through electromagnetic world model</a></div></td>
+<td>Che Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02634">2607.02634</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -1994,41 +2054,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07315.html">Topological Magneto-Optical Switching in Even-Layered MnBi$_2$Te$_4$</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Shahid Sattar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07315">2604.07315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09912.html">Re-refinement of the structure of the planar hexagonal phase of ZnO nanocrystals</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Musen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09912">2511.09912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04398.html">Temperature evolution of orbital states with successive phase transitions in FeV2O4</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Chihaya Koyama et al.</td>
-<td><a href="http://arxiv.org/abs/2604.04398">2604.04398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05450.html">\textit{Ab initio} \textit{GW}-BSE theory of optical activity in $α$-quartz</a></div></td>
-<td>Xiaoming Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05450">2604.05450</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05586.html">A Physics-Informed Chemical Rule for Topological Materials Discovery</a></div></td>
-<td>Xinyu Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05586">2604.05586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05734.html">Accessing the performance of CC2 for excited state dynamics: a benchmark study with pyrazine</a></div></td>
-<td>Rui-Hao Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05734">2604.05734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06076.html">The HTC-Claw: Automating Discovery through High-Throughput Computational Campaigns</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Lianduan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06076">2604.06076</a></td>
 </tr>
 </tbody></table>

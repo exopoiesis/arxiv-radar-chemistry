@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04557.html">Predicting Therapeutic Outcome via Aligning Patient-Specific Knowledge Graph and Gene-Level Perturbation Representations</a></div></td>
+<td>Dongmin Bang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04557">2607.04557</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01584.html">EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation</a></div></td>
@@ -566,17 +572,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06779.html">A Texture-Generalizable Deep Material Network via Orientation-Aware Interaction Learning for Polycrystal Modeling and Texture Evolution</a></div></td>
 <td>Ting-Ju Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06779">2512.06779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06336.html">BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Yi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06336">2604.06336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06391.html">Toward a universal foundation model for graph-structured data</a></div></td>
-<td>Sakib Mostafa et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06391">2604.06391</a></td>
 </tr>
 </tbody></table>

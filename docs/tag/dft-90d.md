@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">458 papers</span>
+  <span class="paper-count">462 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04622.html">VASP Plugins: Linking the Vienna ab-initio Simulation Package with Python</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Sudarshan Vijay et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04622">2607.04622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04863.html">Uniform distributions in nonuniform systems: Wall potentials generating constant density profiles in classical density functional theory</a></div></td>
+<td>Jiří Janek et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04863">2607.04863</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04095.html">ML and AI for density functional theory: different priorities for Kohn-Sham and orbital-free DFT, for electronic and nuclear DFT</a></div></td>
+<td>Xin-Hui Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04095">2607.04095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04116.html">Electronic Structure, Optical Response, Thermal and Mechanical Behavior of B6X (X = S, Se) under Pressure: A Comprehensive Ab-initio Exploration</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
+<td>Sourav Kumar Sutradhar et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04116">2607.04116</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04200.html">Tellurium sublattice instability driven amorphization in the chalcogenide AgSbTe2 under pressure</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Baihong Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04200">2607.04200</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04502.html">Data-Driven Prediction of NaCl-Type Entropy-Stabilized Oxide Compositions from First-Principles and Supervised Learning</a></div></td>
+<td>Sebastien Junier et al.</td>
+<td><a href="http://arxiv.org/abs/2607.04502">2607.04502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03712.html">Tuning Superconductivity by Isovalent Antimony Substitution in PrFeAs(O,F)</a></div></td>
+<td>Priya Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03712">2607.03712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03814.html">Application of SAP-X2C to Spectroscopy and Comparison to Screened Nuclear Spin--Orbit Approximations</a></div></td>
+<td>Yannick J. Franzke et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03814">2607.03814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03032.html">Entropy density functional universality: Correlation, response, and entropic Ornstein-Zernike structure</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Matthias Schmidt</td>
+<td><a href="http://arxiv.org/abs/2607.03032">2607.03032</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03267.html">One-dimensional carbon nanostructures with periodic graphitic nitrogen substitution</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Nicolò Bassi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03267">2607.03267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03322.html">Color Centers in Cubic Boron Nitride</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="chemical-space-90d.html">chemical-space</a></div></td>
+<td>William Stenlund et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03322">2607.03322</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03375.html">Improving Jet A-1 Thermal-Oxidative Stability through Selective Removal of Unwanted Trace Species via 3.7 Å Chabazite Filtration</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Morteza Roostaeinia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03375">2607.03375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03433.html">Dyna-Mat: End-to-end benchmarking of foundation machine learning interatomic potentials in finite-temperature ensembles</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Mikołaj J. Gawkowski et al.</td>
+<td><a href="http://arxiv.org/abs/2607.03433">2607.03433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01682.html">Many-body benchmarking of DFT local-registry energetics in bilayer InSe</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -2708,59 +2786,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07623.html">The BOS-TMC Dataset: DFT Properties of 159k Experimentally Characterized Transition Metal Complexes Spanning Multiple Charge and Spin States</a></div></td>
 <td>Aaron G. Garrison et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07623">2604.07623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07083.html">Ferromagnetic Insulator to Metal Transition in Non-Centrosymmetric Graphene Nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Aidan P. Delgado et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07083">2601.07083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00185.html">QUASAR: A Universal Autonomous System for Atomistic Simulation and a Benchmark of Its Capabilities</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Fengxu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00185">2602.00185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05345.html">End-to-End Differentiable Learning of a Single Functional for DFT and Linear-Response TDDFT</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Xiaoyu Zhang</td>
-<td><a href="http://arxiv.org/abs/2602.05345">2602.05345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24537.html">Radial Distribution Function in a Two Dimensional Core-Shoulder Particle System</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Michael Wassermair et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24537">2603.24537</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05802.html">Valence and Rydberg excited state bond dissociation curves of CO2 from orbital-optimized density functional calculations</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Darío Barreiro-Lage et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05802">2604.05802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05968.html">Composition design of refractory compositionally complex alloys using machine learning models</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Tao Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05968">2604.05968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06048.html">Large Language Model Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb$_3$ Based Skutterudites</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Yagnik Bandyopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06048">2604.06048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06114.html">Key Role of Charge Disproportionation in Monoclinic Semiconducting Fe$_2$PO$_5$, a Room-Temperature d-Wave Altermagnet Candidate</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06114">2604.06114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06470.html">Emitter-Host Interactions of High-Efficiency Deep Blue Single-Gaussian Europium (II) Emitters</a></div></td>
-<td>Mahmoud Soleimani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06470">2604.06470</a></td>
 </tr>
 </tbody></table>

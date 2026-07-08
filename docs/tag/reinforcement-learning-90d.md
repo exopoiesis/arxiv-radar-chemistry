@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07951.html">Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Ryo Suzuki et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07951">2604.07951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11839.html">Molecular Quantum Control Algorithm Design by Reinforcement Learning</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Anastasia Pipi et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11839">2410.11839</a></td>
 </tr>
 </tbody></table>

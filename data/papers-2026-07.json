@@ -3284,5 +3284,526 @@
    "Protein & Biomolecules"
   ],
   "updated": "2026-07-06"
+ },
+ "2607.05439": {
+  "abstract": "Many all-atom generative protein models can in principle design large multimeric complexes by jointly modelling all chains, but their quadratic token- and atom-pair representations quickly exceed single-GPU memory as the number of chains and residues modelled grows. We introduce Design-CP, two context-parallel (CP) inference strategies for RFdiffusion 3 (1D row-sharding and 2D grid sharding with ring attention) that distribute the quadratic activations across a multi-GPU mesh while preserving pretrained weights. We characterise their scaling when sampling icosahedral assemblies, showing that the maximum feasible asymmetric subunit (ASU) size grows with the expected square-root trend in GPU count and that 2D sharding achieves better wall-clock scaling. Moreover, we show how strong point-group symmetry constraints make CP usable out of the box for end-to-end, all-atom design of icosahedral nanoparticles, yielding favourable in silico structural and interface metrics. Finally, we demonstrate octahedral nanoparticle design on a small cluster of workstation-grade 16GB GPUs, illustrating how Design-CP can be a practical path towards democratising large-assembly protein design.",
+  "authors": [
+   "Lorenzo Tarricone",
+   "Helen E. Eisenach",
+   "Aiko Muraishi",
+   "Charlotte M. Deane"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.DC",
+   "q-bio.QM"
+  ],
+  "comment": "Accepted at the 2026 Workshop on Generative and Agentic AI for Biology (ICML 2026)",
+  "first_author": "Lorenzo Tarricone",
+  "pdf_url": "http://arxiv.org/pdf/2607.05439",
+  "primary_category": "cs.LG",
+  "published": "2026-07-03",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "Design-CP: Context Parallelism for Design of Protein Nanoparticles",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.05514": {
+  "abstract": "Big Bang nucleosynthesis (BBN) predicts the primordial deuterium abundance to a precision now limited by the nuclear reactions that burn deuterium. For the simplest of them, proton-deuteron radiative capture, d + p -> γ+ 3He [d(p,γ)3He], the precise LUNA data sit below the ab initio benchmark, and BBN reaction networks split on which to adopt. We develop an effective field theory (EFT) expanding in the finite size of the nuclei, building the amplitude with modern on-shell methods that enumerate every tree-level structure consistent with symmetries without the need for an explicit Lagrangian. A global Bayesian fit to the capture data and nuclear-theory priors returns S(0) = 0.209 +/- 0.008 eV b and traces the offset from the ab initio benchmark to a single natural-sized next-to-leading contact term (t_E1 ~ -0.15, the fractional shift of the electric-dipole amplitude) -- equivalently a ~15% lower effective 3He asymptotic normalization. We estimate the leading EFT truncation errors and identify an elastic d-p observable that would separate them. Our results suggest that amplitude methods enable systematic and complete tree-level construction and matching of EFTs for low-energy nuclear reactions.",
+  "authors": [
+   "Tim M. P. Tait"
+  ],
+  "categories": [
+   "nucl-th",
+   "hep-ph"
+  ],
+  "comment": "16 pages, 4 figures. Ancillary file: tabulated S(E) with its 1-sigma band (dpHe3_Sfactor_band.txt)",
+  "first_author": "Tim M. P. Tait",
+  "pdf_url": "http://arxiv.org/pdf/2607.05514",
+  "primary_category": "nucl-th",
+  "published": "2026-07-06",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Deuterium-Proton Fusion in an Effective Field Theory Constructed from On-Shell Amplitudes",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05525": {
+  "abstract": "Full configuration interaction quantum Monte Carlo (FCIQMC) is a stochastic many-body solver that has been widely applied to electronic, molecular, and condensed-matter systems. In this work we apply FCIQMC to $\\textit{ab initio}$ nuclear structure calculations using interactions derived from chiral effective field theory. We describe the algorithm in detail, including imaginary-time propagation, excitation generation, estimator choices, the initiator approximation with adaptive shift correction, and reduced-density-matrix (RDM) sampling. Benchmark calculations in small model spaces, where deterministic full configuration interaction (FCI) results are available, validate the stochastic calculation of energies, radii, and RDM-based pure estimators. For large model spaces, we analyze the residual finite-walker bias through systematic walker-number convergence and infinite-walker extrapolations. We also demonstrate that FCIQMC can be extended beyond ground-state calculations by computing the low-lying spectrum of $^6$Li.",
+  "authors": [
+   "Rongzhe Hu",
+   "Furong Xu",
+   "Baishan Hu",
+   "Ali Alavi"
+  ],
+  "categories": [
+   "nucl-th",
+   "nucl-ex"
+  ],
+  "comment": "15 pages, 8 figures; companion paper with arXiv:2606.22341",
+  "first_author": "Rongzhe Hu",
+  "pdf_url": "http://arxiv.org/pdf/2607.05525",
+  "primary_category": "nucl-th",
+  "published": "2026-07-06",
+  "tags": [
+   "ab-initio",
+   "monte-carlo"
+  ],
+  "title": "Full configuration interaction quantum Monte Carlo for accurate $\\textit{ab initio}$ nuclear structure calculations: algorithms and calculation details",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05559": {
+  "abstract": "Foundation machine learning force fields (MLFFs) such as MACE-MP-0 and UMA cover broad chemical space at near density functional theory (DFT) accuracy. However, they assume equilibrium ground-state physics and do not natively handle externally induced changes to the electronic state, such as charging, applied fields, or electronic excitation, which limits their use for driven processes such as photoexcitation and charge injection. We propose EquiFiLM, a lightweight extension that adds continuous external conditioning to any equivariant foundation MLFF via a per-layer Feature-wise Linear Modulation (FiLM) block, learning externally driven changes to the potential energy surface from minimal training data. The block modulates only scalar channels and preserves E(3)-equivariance exactly. We demonstrate the recipe on charged liquid water with the foundation model MACE-MatPES as the backbone, yielding E-MACE. On the four training charges, E-MACE delivers a $3.1\\times$ reduction in force RMSE ($21.3$ to $6.96$ meV/$\\mathring{A}$) and a $61\\times$ reduction in per-atom energy RMSE ($6.1$ to $0.1$ meV/atom) over a baseline without EquiFiLM trained on the same data, at indistinguishable inference cost. Across seven held-out interpolation and extrapolation charges, force RMSE stays within $18-61$ meV/$\\mathring{A}$ and energy RMSE within $0.7-5.4$ meV/atom. The model runs stable molecular dynamics across the full range tested and predicts the charge-dependent first-shell response of the reduced pair distribution function probed by ultrafast electron diffraction. Adding this conditioning axis to the foundation requires only a few thousand DFT-labeled frames, against the $\\approx 10^8$ structures of a charge-aware foundation trained from scratch. The recipe is backbone- and conditioning-agnostic: it applies without architectural change to any equivariant MLFF with scalar interaction-layer channels.",
+  "authors": [
+   "Samuel Sahel-Schackis",
+   "Ken-ichi Nomura",
+   "Aiichiro Nakano",
+   "Matthias F. Kling",
+   "Thomas Linker"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Samuel Sahel-Schackis",
+  "pdf_url": "http://arxiv.org/pdf/2607.05559",
+  "primary_category": "cs.LG",
+  "published": "2026-07-06",
+  "tags": [
+   "chemical-space",
+   "dft",
+   "free-energy",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05566": {
+  "abstract": "As stars evolve off the main sequence, changes in stellar structure can alter the dynamical architecture of planetary systems and, in some cases, lead to planet engulfment events capable of producing observable chemical signatures such as lithium enhancement. TOI-5882 is a lithium-rich subgiant hosting a 22 m_Jup brown dwarf on a 7.1-day orbit, where the enrichment could plausibly result from the recent engulfment of a super-Earth to Neptune-mass planet. We assess the dynamical viability of a planet engulfment scenario in the TOI-5882 system that could explain its observed Li enrichment. We combine stellar evolution models with N-body simulations that incorporate time-dependent stellar properties as the host star leaves the main sequence, exploring a broad range of pre-engulfment planetary masses and orbital configurations. Planet engulfment is the most probable outcome under the explored configurations. However, only 5% of the simulations produce engulfment within the short detectability window of the lithium-enrichment signature. Engulfment therefore remains a viable explanation for the observed Li enhancement in TOI-5882, but only for a relatively uncommon subset of the initial conditions considered here. Under our simplified architecture, recent engulfment cannot be ruled out as the origin of the observed lithium enhancement. However, because successful cases represent only a small fraction of the initial conditions explored here, and because additional processes such as wind-induced drag forces were not included, additional constraints on the system's primordial architecture are needed to assess how likely this scenario is for TOI-5882.",
+  "authors": [
+   "C. Charalambous",
+   "C. Aguilera-Gómez",
+   "S. Urrutia",
+   "C. Norambuena"
+  ],
+  "categories": [
+   "astro-ph.EP",
+   "astro-ph.SR"
+  ],
+  "comment": "Accepted for publication in A&A",
+  "first_author": "C. Charalambous",
+  "pdf_url": "http://arxiv.org/pdf/2607.05566",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-07-06",
+  "tags": [],
+  "title": "Dynamical constraints on planet engulfment as the origin of lithium enhancement in TOI-5882",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05616": {
+  "abstract": "We investigate the influence of Co intercalation and altermagnetic order on the lattice dynamics of the layered compound Co$_{1/4}$NbSe$_2$. Polarization-resolved Raman spectroscopy, supported by density-functional theory, enables identification of six Raman-active phonons. Co intercalation drives a substantial reconstruction of the vibrational spectrum through zone folding of NbSe$_2$ phonons, producing hybridized modes with mixed zone-center and zone-boundary character. Despite this, Co atoms do not participate in any Raman-active modes by symmetry, which is in marked contrast to related 1/3 compounds where intercalant modes do contribute to the Raman spectrum. Temperature-dependent Raman measurements across the altermagnetic transition show no discontinuities, which is consistent with short-range spin correlations in the quasi-one-dimensional Co chains. However, we find evidence for spin-phonon coupling in A$_{1g}$ symmetry modes owing to their out-of-plane Se displacements. Our work demonstrates the substantial impact of intercalation on the vibrational properties of transition metal dichalcogenides and the presence of spin-phonon interactions in a newly discovered altermagnetic material.",
+  "authors": [
+   "Dushyanthini Balasundaram",
+   "Bishal Thapa",
+   "Resham Regmi",
+   "Nirmal J. Ghimire",
+   "Igor I. Mazin",
+   "Patrick M. Vora"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "Main text 7 pages. Supplementary text 9 pages",
+  "first_author": "Dushyanthini Balasundaram",
+  "pdf_url": "http://arxiv.org/pdf/2607.05616",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-06",
+  "tags": [
+   "dft",
+   "tmd"
+  ],
+  "title": "Raman spectroscopy of the van der Waals altermagnet Co$_{1/4}$NbSe$_2$",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05629": {
+  "abstract": "The detection and characterization of organic molecules within water ice is vital for interpreting observations of icy moons and comets. However, organic-ice interactions often distort intrinsic water-ice absorption features, complicating infrared (IR) spectral analysis. This study evaluated Optical Photothermal Infrared (O-PTIR) spectroscopy as a non-destructive, sub-micrometer resolution technique to detect and quantify embedded organics. Using a temperature-controlled sample environment to maintain ice stability, frozen mixtures of amino and hydroxy acids were analyzed across a broad concentration range. L-glycine was successfully detected down to approximately $10^{-6}\\text{ M}$, yielding an experimental limit of detection (LOD) of $0.2\\,μ\\text{M}$ and a limit of quantification (LOQ) of $3.83\\,μ\\text{M}$. Furthermore, O-PTIR measurements of binary mixtures containing L-glycine and lactic acid demonstrated the capacity to differentiate and quantify multiple organic components within a single ice matrix. Notably, a broad absorption feature centered near the water-bending mode appeared exclusively in organic-bearing ice samples and was absent in pure $\\text{H}_2\\text{O}$ and $\\text{D}_2\\text{O}$ controls. Comparative analysis in these matrices revealed that embedded organics actively perturb intrinsic ice features, providing new constraints on organic-ice interactions. Ultimately, these results demonstrate that O-PTIR spectroscopy can reliably detect, quantify, and spatially resolve organic compounds in water ice while preserving crucial sample context. The technique offers a promising framework for future laboratory investigations of icy planetary materials and directly informs the interpretation of spectroscopic data from volatile-rich space environments.",
+  "authors": [
+   "Christopher S. Duffey",
+   "Julie Brisset",
+   "Myles Hoskinson",
+   "Jakob Haynes",
+   "Kathrine Lyakh"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.EP"
+  ],
+  "comment": null,
+  "first_author": "Christopher S. Duffey",
+  "pdf_url": "http://arxiv.org/pdf/2607.05629",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-07-06",
+  "tags": [],
+  "title": "Detection of Organics in Water Ice by Optical-PhotoThermal Infrared Spectroscopy",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05682": {
+  "abstract": "LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report generation, but the first research question they propose can remain difficult to audit: it may sound plausible without exposing the mechanism, falsifier, or assumption that a scientist should inspect. We introduce FirstResearch, a first-principles research-question formation framework for scientific LLM agents whose core artifact is a structured Research Question Certificate. The certificate records primitive definitions, assumptions, a mechanism model, a tension or contradiction, a falsifiable hypothesis, a minimal decisive test, and a failure update rule, making the proposed question inspectable before downstream execution. On ten LLM-agent research topics, FirstResearch outperforms controlled prompt-level baselines inspired by AI co-scientist, Agent Laboratory, and AI Scientist-v2 under a primary DeepSeek-blind-judge protocol. A Gemini-2.5-Flash independent-judge rescore of the same 40 baseline packages preserves the system-level ranking, with FirstResearch scoring 4.86/5 versus 4.38/5 for the strongest baseline and Pearson agreement of 0.865 on average score. A one-repeat ablation checkpoint further suggests that the certificate-centered core is the strongest component: certificate-only scoring reaches 4.90/5 under DeepSeek and 4.88/5 under Gemini, while removing certificates drops below 1/5 under both judges. These results are preliminary and use LLM judges rather than human domain experts, but they support a narrow scientific-discovery claim: explicit derivation constraints are a promising mechanism for making LLM-generated scientific questions more auditable. Code, prompts, saved outputs, and reproduction scripts are available at https://github.com/louiswang524/FirstResearch.",
+  "authors": [
+   "Yufeng Wang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yufeng Wang",
+  "pdf_url": "http://arxiv.org/pdf/2607.05682",
+  "primary_category": "cs.AI",
+  "published": "2026-07-06",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05930": {
+  "abstract": "We present a multiconfigurational binary-encounter (MC-BE) framework for direct analytical evaluation of electron-impact electronic-excitation cross sections for dipole-allowed transitions from ab initio excited-state data. The method combines the threshold-modified Mott-Massey (TMMM) approximation with binary-encounter (BE/BE$f$) scaling. The effective binding energy in the BE/BE$f$ prefactor is obtained from amplitude-weighted occupied-orbital contributions computed by linear-response time-dependent density functional theory (LR-TDDFT), without system-specific fitting parameters. For benzene, MC-BE/TMMM cross sections for the dominant $1{}^{1}\\!E_{\\mathrm{1u}}$ ($π\\!\\to\\!π^{\\ast}$) band agree well with experiment at incident energies $T=10$-$20$ eV and improve on the Schwinger multichannel/truncated configuration-interaction singles results of Falkowski et al. [J. Chem. Phys. 159, 194301 (2023)] for this band and energy range. For naphthalene, the calculated total excitation cross section reproduces the onset and principal maximum of the gas-phase apparent fluorescence cross section, used as an emission-based proxy under dipole-dominated conditions, without empirical energy shifts or intensity scaling. Analytic peak-position and peak-height expressions, parameterized by $r=\\langle B\\rangle/ΔE$, show that typical valence excitations peak at incident energies $T\\simeq 1.5$-$1.6ΔE$ with substantial BE attenuation, providing a diagnostic for relating measured cross-section profiles to excitation energies. Although demonstrated with LR-TDDFT, the framework is transferable to other excited-state theories that provide compatible amplitudes and well-defined orbital energies. These results support MC-BE/TMMM as a practical, inexpensive route for modeling electron-impact excitation of polyatomic molecules with finite oscillator strength.",
+  "authors": [
+   "Kaoru Yamazaki"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.atm-clus",
+   "physics.plasm-ph"
+  ],
+  "comment": "12 pages, 7 figures; supplementary material available as an ancillary file; submitted to The Journal of Chemical Physics",
+  "first_author": "Kaoru Yamazaki",
+  "pdf_url": "http://arxiv.org/pdf/2607.05930",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-07",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "excited-states"
+  ],
+  "title": "Direct Analytical Evaluation of Electron-Impact Excitation Cross Sections via Multiconfigurational Binary Encounter Approach: Applications to Benzene and Naphthalene",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.05948": {
+  "abstract": "In this publication, we study the influence of strain and alloying on the mean inner potential (MIP) using density functional theory (DFT) within an augmented plane waves plus local orbitals basis set. Two major effects have been identified allowing to model the influence of strain and alloying on the mean inner potential with a reasonable accuracy. First, alloying for constant volume results in a linear relationship between the MIP and the concentration. Second, the MIP scales with changes in volume as we already pointed out in an earlier publication (M. Schowalter, D. Lamoen, A. Rosenauer, P. Kruse, and D. Gerthsen, Appl. Phys. Lett. 85, 4938-4940 (2004)). Specifically, a linear relationship between MIP and concentration x was found for AlGaAs (nearly no change in lattice parameter), whereas InGaP and GeSi (volume changes with concentration x) exhibits a clear bowing. The bowing can be modeled by taking the rescaling of the MIP with the varying volume additionally into account. The rescaling could be also used to model the dependence of the MIP on strained binary cells and the density dependence of e.g. amorphous materials.",
+  "authors": [
+   "Marco Schowalter",
+   "Peer Kruse",
+   "Andreas Rosenauer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Marco Schowalter",
+  "pdf_url": "http://arxiv.org/pdf/2607.05948",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "dft"
+  ],
+  "title": "Modelling the mean inner potential of alloyed and strained materials",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.05962": {
+  "abstract": "Magnetic van der Waals materials have mainly been investigated in their bulk form or as few-layers flakes. Due to the challenges in producing atomically thin films, only a few have been isolated as monolayers, which typically exhibit long-range magnetic order below 150 K. In this work, we use molecular beam epitaxy to synthesize Co-doped Fe5GeTe2, achieving precise control over both thickness and composition. We demonstrate ferromagnetism well above room temperature in multilayer samples and present clear evidence of ferromagnetic ordering in monolayers up to $\\sim$200 K. The changes in Curie temperature and magnetic anisotropy with composition exhibit similar trends in both monolayers and thicker films, indicating that the magnetic properties are primarily governed by intralayer magnetic interactions. Through element-specific X-ray magnetic circular dichroism and density functional theory, we identify the substitution site of Co dopants and reveal the mechanism behind the Curie temperature enhancement induced by Co doping. Our findings suggest that, despite their weak magnetic moment, Co dopants strengthen the magnetic moments on neighboring Fe atoms and enhance the intralayer ferromagnetic exchange interactions.",
+  "authors": [
+   "Jules Courtin",
+   "Fatima Ibrahim",
+   "Davide Benettin",
+   "Djordje Dosenovic",
+   "Roberto Sant",
+   "Pâmella Vasconcelos Borges Pinho",
+   "Vincent Polewczyk",
+   "Alain Marty",
+   "Isabelle G de Moraes",
+   "Matthieu Jamet",
+   "Denis Jalabert",
+   "Fadi Choueikani",
+   "Philippe Ohresser",
+   "N. B. Brookes",
+   "Hanako Okuno",
+   "Mairbek Chshiev",
+   "Frédéric Bonell"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Physical Review Letters, In press",
+  "first_author": "Jules Courtin",
+  "pdf_url": "http://arxiv.org/pdf/2607.05962",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "dft",
+   "magnetic-properties",
+   "thermal-properties",
+   "vdw-correction"
+  ],
+  "title": "High temperature ferromagnetism in epitaxial monolayers of Co-doped Fe5GeTe2",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06053": {
+  "abstract": "The extension of moire physics to complex oxides offers new ways to manipulate electronic states, but the large oxide moire supercells make systematic first-principles calculations demanding. Here, we combine density functional theory with the E(3)-equivariant deep-learning Hamiltonian framework DeepH-E3 to investigate the twist-angle-dependent electronic structure and optical responses of twisted bilayer SrTiO3. The model is trained on untwisted bilayers with different interlayer-sliding configurations and then applied to commensurate twisted bilayers with twist angles from 8.80 degrees to 53.13 degrees. Compared with the untwisted bilayer, decreasing twist angle systematically flattens the valence bands and leads to nearly dispersionless bands at the smallest angles studied. Based on the predicted Hamiltonians, we evaluate the dielectric response, second-harmonic generation (SHG), shift current, and spin Hall conductivity. The dielectric response and spin Hall conductivity remain close to those of the untwisted bilayer, whereas the nonlinear optical responses are more strongly affected by twisting. SHG is strongly enhanced relative to the weak untwisted response, and the shift current shows a clear twist-angle dependence within the response-calculation range (53.13 degrees-22.62 degrees). These results show that twist engineering can control electronic and optoelectronic responses in oxide moire systems.",
+  "authors": [
+   "Meiyang Yu",
+   "Chen Shen",
+   "Ruiwen Xie",
+   "Jingwei Tao",
+   "Lijun Zhang",
+   "Hongbin Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 6 figures",
+  "first_author": "Meiyang Yu",
+  "pdf_url": "http://arxiv.org/pdf/2607.06053",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "dft",
+   "electronic-structure"
+  ],
+  "title": "Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06057": {
+  "abstract": "The characteristics of graphene-metal interfaces play a decisive role in their electronic, optoelectronic, and mechanical applications. Properties such as charge transfer across the interface become particularly significant in the presence of topological defects. The stability of Stone Wales (SW) defects in graphene is governed by the balance between three energy descriptors, the activation energy, formation energy, and restoration energy. By comparing the energy parameters obtained from first-principles density functional theory calculations, we show that SW defect formation is energetically more favorable on metal-supported graphene. Our calculations for SW defects in graphene/Cu(111) and graphene/Al(111) systems indicate only a little dependence of energy profile on the type of metal. The presence of the metal substrate leads to a $\\sim$ 12\\% increase in the formation energy and a $\\sim$ 20\\% reduction in the activation energy, which together favor the formation of Stone Wales defects. Although the restoration energy decreases by about $\\sim$ 35\\% in metal-supported graphene, it remains significantly higher to prevent self-healing. As a result, once formed, the Stone Wales defects are likely to remain stable, suggesting the possibility of terminal SW defect formation in metal-supported graphene.",
+  "authors": [
+   "Rob H. Mason",
+   "Manuka M. S. Sinharage",
+   "Hansika I. Sirikumara",
+   "Sabrina Nilufar",
+   "Thushari Jayasekera"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "6 pages, 6 figures",
+  "first_author": "Rob H. Mason",
+  "pdf_url": "http://arxiv.org/pdf/2607.06057",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "dft"
+  ],
+  "title": "Stabilization of Stone-Wales Defects in Metal-supported Graphene",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06122": {
+  "abstract": "We use molecular dynamics simulations to directly compute the effective diffusivity of hydrogen gas atoms in homogeneous distributions of monovacancies in tungsten and vanadium, and voids in tungsten. Rather than fitting the results to an Arrhenius law, we compare to an analytic approximation for the effective diffusivity recently derived for multi-occupancy traps [Kaur et al (2025), Phys. Rev. Mater. 9:125404]. We find good agreement between full atomistic simulation and our theory, validating the analytic model for diffusivity for materials containing nanoscale defects characteristic of radiation damage. There are no parameters fitted, only physically motivated quantities that can be computed with static density functional or atomistic potential calculations. In this study we prove rapid convergence of hydrogen trap occupation to the steady state using lattice kinetic Monte Carlo, the spontaneous emergence of voids in tungsten using atomistic simulation with empirical potentials, and molecular hydrogen formation in voids using molecular dynamics. We conclude with a prediction for diffusion and retention of hydrogen in voids in tungsten starting from first principles. This work shows that not only is the analytic form for diffusivity and retention in multi-occupancy traps a practical scheme for making predictive simulations of hydrogen isotope diffusion and retention in irradiated microstructures, derived and parameterized from first principles, it is superior to existing single-occupancy trap formalisms.",
+  "authors": [
+   "Daniel Mason",
+   "Sanjeet Kaur",
+   "Samanyu Tirumala",
+   "Prashanth Srinivasan",
+   "Ville Jantunen",
+   "Max Boleininger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Daniel Mason",
+  "pdf_url": "http://arxiv.org/pdf/2607.06122",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06224": {
+  "abstract": "Designing microbial strains that produce high-value chemicals at commercially viable titers remains a central challenge in metabolic engineering. Existing computational approaches either rely on stoichiometric constraint-based models that cannot learn from experimental data, or apply tabular machine learning to hand-crafted features that discard the relational structure of biological knowledge. We present Canopy, a heterogeneous graph foundation model that integrates ten public and proprietary data sources into a unified knowledge graph (KG) of 6.9M nodes across 13 types and 34 edge types, covering genes, proteins, metabolites, reactions, pathways, strains, and fermentation experiments. Node features are encoded through domain-specific foundation models (ESM-2 for protein sequences, MoLFormer for chemical SMILES, and PubMedBERT for biomedical text), yielding a multi-modal representation within a single graph. We pretrain a Heterogeneous Graph Transformer (HGT) augmented with SignNet positional encodings, Jumping Knowledge aggregation, and virtual nodes using four self-supervised objectives (link prediction, masked node modelling, distance prediction, and contrastive experiment clustering), balanced via learned homoscedastic uncertainty weighting. On the downstream task of fermentation titer prediction, frozen Canopy embeddings achieve $R^{2} = 0.41$ with a lightweight probe, outperforming tabular baselines (best $R^{2} = 0.24$) and homogeneous GNN variants.",
+  "authors": [
+   "Jake Bowden",
+   "Laurence Legon",
+   "Satnam Surae"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j",
+  "first_author": "Jake Bowden",
+  "pdf_url": "http://arxiv.org/pdf/2607.06224",
+  "primary_category": "cs.LG",
+  "published": "2026-07-07",
+  "tags": [],
+  "title": "Canopy: A Heterograph Foundation Model for Metabolic Engineering",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06424": {
+  "abstract": "X-ray fluorescence (XRF) spectroscopy is a key modality for material analysis in cultural heritage. However, automated learning from XRF spectra remains challenging: XRF spectra are complex one-dimensional signals composed of sharp elemental peaks, broader structures, and background variations that are not taken into account by existing learning-based models. This paper introduces XRFormer, a transformer architecture tailored to XRF spectra through a multiscale convolutional tokenizer that injects locality and multi-resolution inductive biases before global self-attention. The tokenizer progressively reduces spectral resolution while increasing embedding dimensionality, and the resulting token sequence is processed by a standard transformer encoder. We further investigate self-supervised pretraining for XRF representation learning using Masked Spectral modeling (MSM) and a physics-informed Peak Presence Prediction (PPP) objective. Experiments on the Pigments Checker STANDARD v.5 dataset for pigment identification and unmixing show that XRFormer consistently outperforms ViT, SpectralFormer (with and without CAF), and a 1D-CNN baseline for pigment identification. For pigment unmixing, XRFormer achieves robust abundance estimation while maintaining significantly higher parameter efficiency than SpectralFormer, operating at a lower token resolution (128 vs. 512 tokens) and with less than half the number of parameters (1.5M vs. 3.37M). MSM yields consistent gains across both tasks, while PPP further enhances performance for both identification and unmixing when tuned with an appropriate peak prominence. These results highlight multiscale, modality-aware tokenization as an effective and parameter efficient foundation for transformer-based XRF modeling under data-limited conditions. A GitHub repository is provided at https://github.com/sofiane1010/XRFormer.",
+  "authors": [
+   "Sofiane Daimellah",
+   "Sylvie Le Hégarat-Mascle",
+   "Clotilde Boust"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "International Conference on Pattern Recognition, 2026",
+  "first_author": "Sofiane Daimellah",
+  "pdf_url": "http://arxiv.org/pdf/2607.06424",
+  "primary_category": "cs.CV",
+  "published": "2026-07-07",
+  "tags": [],
+  "title": "XRFormer: Multiscale Tokenization for XRF Representation Learning",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06448": {
+  "abstract": "Heat transport in nanoconfined liquids can deviate from ordinary Fourier behavior because confinement alters liquid structure and interfacial dissipation. Although such changes may lead to quasi-one-dimensional transport or overdamped sound relaxation, the conditions under which length-dependent transport persists remain unclear. Here we use molecular dynamics simulations of monatomic liquid argon confined in carbon nanotubes with systematically varied radii and lengths. We find a radius-controlled crossover: length-dependent axial thermal conductivity persists over long tube lengths in single-file and single-shell states, but is strongly truncated or nearly saturated once mixed-shell or multilayer packing develops. This crossover is accompanied by the loss of clear acoustic-like axial modes and enhanced wall--liquid friction. Thus, tube radius controls whether length-dependent heat transport persists or is truncated by coupling confined-liquid structure to wall-induced dissipation.",
+  "authors": [
+   "Kenta Hisamoto",
+   "Yusei Kobayashi",
+   "Takahiro Ikeda",
+   "Eiji Yamamoto",
+   "Masashi Yamakawa"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "11 pages, 9 figures",
+  "first_author": "Kenta Hisamoto",
+  "pdf_url": "http://arxiv.org/pdf/2607.06448",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-07",
+  "tags": [
+   "molecular-dynamics",
+   "thermal-properties"
+  ],
+  "title": "Dimensional Crossover of Thermal Transport in Nanoconfined Liquids Driven by the Interplay of Quasi-One-Dimensional Structure and Wall Dissipation",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06463": {
+  "abstract": "We report a high-field thermodynamic study of the hyperhoneycomb Kitaev material $β$-Li$_2$IrO$_3$, using magnetotropic susceptibility to resolve its low-temperature field-angle phase diagram across the principal crystallographic planes in magnetic fields up to $60$ T. Rather than evolving directly from the low-field incommensurate state into a polarized regime, the system exhibits a strongly direction-dependent sequence of correlated phases. Most notably, for fields in the $ac$-plane, we identify an additional high-field phase that is absent in the other principal planes and exists only within a restricted region of field-angle space. This phase structure is naturally explained by the competition between magnetic field and bond-directional exchange interactions. Using a symmetry-based description supported by microscopic calculations within the $J$-$K$-$Γ$ model, we show that off-diagonal $Γ$ exchange couples the ferromagnetic and staggered magnetic orders and thereby stabilizes the observed correlated high-field phases. The measured angular dependence of the critical fields is quantitatively captured by this theory, identifying $Γ$ exchange as the key interaction controlling the high-field response. These results clarify why the promise of a field-induced spin liquid -- the notion that suppressing magnetic order might reveal the underlying Kitaev physics -- remains unfulfilled in candidate materials: even when the Kitaev interaction is large, off-diagonal exchange stabilizes symmetry-constrained correlated phases that instead preempt the polarized state.",
+  "authors": [
+   "Vikram Nagarajan",
+   "Ioannis Rousochatzakis",
+   "Yuanqi Lyu",
+   "Darian Hall",
+   "Augusto Ghiotto",
+   "Josue Rodriguez",
+   "Koh Yamakawa",
+   "James Analytis",
+   "John Singleton",
+   "Mun K. Chan",
+   "Natalia B. Perkins",
+   "K. A. Modic"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Vikram Nagarajan",
+  "pdf_url": "http://arxiv.org/pdf/2607.06463",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-07-07",
+  "tags": [
+   "magnetic-properties"
+  ],
+  "title": "Eclipsing Kitaev: off-diagonal exchange governs the correlated high-field phases of $β$-Li$_2$IrO$_3$",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06470": {
+  "abstract": "Understanding phonon-mediated heat transport in structurally complex materials remains a central challenge for next-generation electronic and nanomechanical devices, where grain boundaries and interfacial disorder strongly limit thermal dissipation. Although classical interatomic potentials enable large-scale simulations, their limited transferability can lead to inaccuracies in vibrational properties and interfacial phonon scattering. In this work, we develop a machine-learning based framework for modeling thermal transport in bulk and nanocrystalline silicon by combining Gaussian approximation potential (GAP) and multi-atomic cluster expansion (MACE) models with lattice-dynamical calculations and non-equilibrium molecular dynamics (NEMD). Harmonic and anharmonic force constants derived from machine-learning interatomic potentials (MLIPs) are used within a unified Phonopy/Phono3py workflow to compute phonon dispersions, lifetimes, and lattice thermal conductivity, providing an internally consistent description of vibrational properties. In nanocrystalline silicon, NEMD simulations directly quantify the thermal boundary resistance associated with grain boundaries and reveal its sensitivity to interfacial roughness and the underlying interatomic description. Compared with the Stillinger-Weber and Tersoff potentials, the MLIPs provide a more accurate and internally consistent description of bulk and interfacial phonon transport, enabling more predictive modeling of nanoscale thermal transport in low-dimensional materials.",
+  "authors": [
+   "Houssem Rezgui",
+   "Catalina Coll Benejam",
+   "Miguel Pruneda",
+   "Clivia M. Sotomayor Torres"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Houssem Rezgui",
+  "pdf_url": "http://arxiv.org/pdf/2607.06470",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "mlip",
+   "molecular-dynamics",
+   "thermal-properties"
+  ],
+  "title": "Phonon-Mediated Thermal Transport in Nanocrystalline Silicon Using Machine-Learning Interatomic Potentials",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-07-07"
  }
 }

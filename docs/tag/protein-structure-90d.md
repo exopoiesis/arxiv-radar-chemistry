@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.03881">2607.03881</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05439.html">Design-CP: Context Parallelism for Design of Protein Nanoparticles</a></div></td>
+<td>Lorenzo Tarricone et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05439">2607.05439</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02749.html">Graph-VQE: A CUDA-Q Multi-QPU Simulation Framework for Hamiltonian-Aware Protein-Folding VQE</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Yujun Feng et al.</td>
@@ -302,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09908.html">Collapse of a single polymer chain: Effects of chain stiffness and attraction range</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Yanyan Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2601.09908">2601.09908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08188.html">Unavailability of experimental 3D structural data on protein folding dynamics and necessity for a new generation of structure prediction methods in this context</a></div></td>
-<td>Aydin Wells et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08188">2507.08188</a></td>
 </tr>
 </tbody></table>

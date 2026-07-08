@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05616.html">Raman spectroscopy of the van der Waals altermagnet Co$_{1/4}$NbSe$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Dushyanthini Balasundaram et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05616">2607.05616</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19954.html">Strain- and Electric-Field-Tunable Valley Polarization in Mo0.75V0.25Te2(Mo3VTe8) for Valleytronic Application</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Md. Mostaqul Islam et al.</td>
@@ -86,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07689.html">Symmetry-guided and AI-accelerated design of intercalated transition metal dichalcogenides for antiferromagnetic spintronics</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Yu Pang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07689">2604.07689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06897.html">Excitonic Mott transition without population inversion</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Oleg Dogadov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06897">2604.06897</a></td>
 </tr>
 </tbody></table>

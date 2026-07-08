@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05930.html">Direct Analytical Evaluation of Electron-Impact Excitation Cross Sections via Multiconfigurational Binary Encounter Approach: Applications to Benzene and Naphthalene</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Kaoru Yamazaki</td>
+<td><a href="http://arxiv.org/abs/2607.05930">2607.05930</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06053.html">Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Meiyang Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06053">2607.06053</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06057.html">Stabilization of Stone-Wales Defects in Metal-supported Graphene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Rob H. Mason et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06057">2607.06057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Daniel Mason et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04622.html">VASP Plugins: Linking the Vienna ab-initio Simulation Package with Python</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
@@ -50,6 +74,24 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05337.html">Magnetotransport and electronic band structure of EuNi$_2$As$_2$ antiferromagnet</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
 <td>Faheem Gul et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05337">2607.05337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05514.html">Deuterium-Proton Fusion in an Effective Field Theory Constructed from On-Shell Amplitudes</a></div></td>
+<td>Tim M. P. Tait</td>
+<td><a href="http://arxiv.org/abs/2607.05514">2607.05514</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05525.html">Full configuration interaction quantum Monte Carlo for accurate $\textit{ab initio}$ nuclear structure calculations: algorithms and calculation details</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Rongzhe Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05525">2607.05525</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05682.html">FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents</a></div></td>
+<td>Yufeng Wang</td>
+<td><a href="http://arxiv.org/abs/2607.05682">2607.05682</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-03</td>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05930.html">Direct Analytical Evaluation of Electron-Impact Excitation Cross Sections via Multiconfigurational Binary Encounter Approach: Applications to Benzene and Naphthalene</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Kaoru Yamazaki</td>
+<td><a href="http://arxiv.org/abs/2607.05930">2607.05930</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05948.html">Modelling the mean inner potential of alloyed and strained materials</a></div></td>
+<td>Marco Schowalter et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05948">2607.05948</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05962.html">High temperature ferromagnetism in epitaxial monolayers of Co-doped Fe5GeTe2</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="thermal-properties-7d.html">thermal-properties</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Jules Courtin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05962">2607.05962</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06053.html">Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Meiyang Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06053">2607.06053</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06057.html">Stabilization of Stone-Wales Defects in Metal-supported Graphene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Rob H. Mason et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06057">2607.06057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Daniel Mason et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04622.html">VASP Plugins: Linking the Vienna ab-initio Simulation Package with Python</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
@@ -26,6 +62,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04863.html">Uniform distributions in nonuniform systems: Wall potentials generating constant density profiles in classical density functional theory</a></div></td>
 <td>Jiří Janek et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04863">2607.04863</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05559.html">EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Samuel Sahel-Schackis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05559">2607.05559</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05616.html">Raman spectroscopy of the van der Waals altermagnet Co$_{1/4}$NbSe$_2$</a></div><div class="paper-tags"><a href="tmd-7d.html">tmd</a></div></td>
+<td>Dushyanthini Balasundaram et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05616">2607.05616</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-05</td>

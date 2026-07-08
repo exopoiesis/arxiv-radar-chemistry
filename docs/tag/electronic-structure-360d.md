@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06053.html">Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Meiyang Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06053">2607.06053</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04622.html">VASP Plugins: Linking the Vienna ab-initio Simulation Package with Python</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Sudarshan Vijay et al.</td>
@@ -2840,11 +2846,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10736.html">Revisiting the Abundance of Topological Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Hossein Mirhosseini et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10736">2507.10736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05759.html">Laser fluence-dependent production of molecular thorium ions in different charge states for trapped-ion experiments</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Jonas Stricker et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05759">2503.05759</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">358 papers</span>
+  <span class="paper-count">352 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Daniel Mason et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06448.html">Dimensional Crossover of Thermal Transport in Nanoconfined Liquids Driven by the Interplay of Quasi-One-Dimensional Structure and Wall Dissipation</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Kenta Hisamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06448">2607.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06470.html">Phonon-Mediated Thermal Transport in Nanocrystalline Silicon Using Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Houssem Rezgui et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06470">2607.06470</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04633.html">Differentiable OPLS Force Field Parameterization for Ionic Electrolytes and High-Throughput Application to Lithium-ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -50,6 +68,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05151.html">On data-driven parameterizations of multidimensional generalized Langevin dynamics in the presence of a quadratic potential</a></div></td>
 <td>Maximilian Braun et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05151">2607.05151</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05559.html">EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Samuel Sahel-Schackis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05559">2607.05559</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-05</td>
@@ -2102,65 +2126,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08187.html">Bulk versus interface nucleation of CO$_2$ hydrates from computer simulations</a></div></td>
 <td>Joanna Grabowska et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08187">2604.08187</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07568.html">$K^*(892)$ Resonance Suppression in Ar+Sc Collisions at SPS Energies</a></div></td>
-<td>Amine Chabane et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07568">2509.07568</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14205.html">Teachers that teach the irrelevant: Pre-training machine learned interaction potentials with classical force fields for robust molecular dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14205">2509.14205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13594.html">100-Billion-Atom Molecular Dynamics Simulation of Acoustic Cavitation in a Simple Liquid</a></div></td>
-<td>Yuta Asano</td>
-<td><a href="http://arxiv.org/abs/2601.13594">2601.13594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25617.html">Molecular dynamics study of the role of anisotropy in radiation-driven embrittlement</a></div></td>
-<td>Hojjat Mousavi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25617">2603.25617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06561.html">Accelerating 4D Hyperspectral Imaging through Physics-Informed Neural Representation and Adaptive Sampling</a></div></td>
-<td>Chi-Jui Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06561">2604.06561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06890.html">Microscopic contributions to the deviation from Amontons friction law</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Suresh Ravisankar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06890">2604.06890</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Zhoulin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07077">2604.07077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07271.html">Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Xiaojun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07271">2604.07271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07276.html">Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Luca Pennati et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07276">2604.07276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07646.html">Multiscale morphology and contact mechanics of physisorbed Al and Cu nanoparticles</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Mykola Prodanov et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07646">2604.07646</a></td>
 </tr>
 </tbody></table>

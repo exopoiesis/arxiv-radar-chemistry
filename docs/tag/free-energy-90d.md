@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.05192">2607.05192</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05559.html">EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Samuel Sahel-Schackis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05559">2607.05559</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03032.html">Entropy density functional universality: Correlation, response, and entropic Ornstein-Zernike structure</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Matthias Schmidt</td>
@@ -530,11 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09320.html">Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Siqi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09320">2604.09320</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14205.html">Teachers that teach the irrelevant: Pre-training machine learned interaction potentials with classical force fields for robust molecular dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14205">2509.14205</a></td>
 </tr>
 </tbody></table>

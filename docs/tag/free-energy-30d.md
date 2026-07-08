@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.05192">2607.05192</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05559.html">EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Samuel Sahel-Schackis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05559">2607.05559</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03032.html">Entropy density functional universality: Correlation, response, and entropic Ornstein-Zernike structure</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Matthias Schmidt</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10103.html">Minimization of disorder as a key design principle for natural sizes of light harvesting 2 complexes</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Kwang Hyun Cho et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10103">2606.10103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08686.html">Information Entropy Based Crystal Structure Prediction of Chemically Disordered Alloys via Graph Convolutional Neural Networks</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Suman Chabri et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08686">2606.08686</a></td>
 </tr>
 </tbody></table>

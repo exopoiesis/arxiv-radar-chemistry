@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.03881">2607.03881</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05439.html">Design-CP: Context Parallelism for Design of Protein Nanoparticles</a></div></td>
+<td>Lorenzo Tarricone et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05439">2607.05439</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02749.html">Graph-VQE: A CUDA-Q Multi-QPU Simulation Framework for Hamiltonian-Aware Protein-Folding VQE</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Yujun Feng et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Michael Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08647.html">Protein Dynamics Beyond Structure Prediction</a></div></td>
-<td>Juliette Griffié et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08647">2606.08647</a></td>
 </tr>
 </tbody></table>

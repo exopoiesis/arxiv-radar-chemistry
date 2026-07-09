@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
+<td>Ziyu Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07015">2607.07015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07232.html">DiPhon: Diffusion on Graphons for Scalable Graph Generation</a></div></td>
+<td>Sergio Rozada et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07232">2607.07232</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06421.html">Gradient-Based Inverse Design of Free-Energy Landscapes with Diffusion Models</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Eli Zick et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06421">2607.06421</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06555.html">ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation</a></div></td>
+<td>Ruihang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06555">2607.06555</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05154.html">Biophysics of the Pyrenoid</a></div></td>
 <td>Charley Schaefer et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05154">2607.05154</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05636.html">Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Alireza Siyavashi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05636">2607.05636</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-04</td>
@@ -38,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01693.html">A Mathematical Introduction to Diffusion Models</a></div></td>
 <td>Jianfeng Lu</td>
 <td><a href="http://arxiv.org/abs/2607.01693">2607.01693</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00773.html">Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling</a></div></td>
-<td>Yu Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00773">2607.00773</a></td>
 </tr>
 </tbody></table>

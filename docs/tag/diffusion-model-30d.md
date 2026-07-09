@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
+<td>Ziyu Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07015">2607.07015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07232.html">DiPhon: Diffusion on Graphons for Scalable Graph Generation</a></div></td>
+<td>Sergio Rozada et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07232">2607.07232</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06421.html">Gradient-Based Inverse Design of Free-Energy Landscapes with Diffusion Models</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Eli Zick et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06421">2607.06421</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06555.html">ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation</a></div></td>
+<td>Ruihang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06555">2607.06555</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05154.html">Biophysics of the Pyrenoid</a></div></td>
 <td>Charley Schaefer et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05154">2607.05154</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05636.html">Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Alireza Siyavashi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05636">2607.05636</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-04</td>
@@ -122,17 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11833.html">Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Sam Gijsen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11833">2606.11833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Michael Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14759.html">Temporally Consistent and Controllable Video Generation of 2D Cine CMR via Latent Space Motion Modeling</a></div></td>
-<td>Yiheng Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14759">2606.14759</a></td>
 </tr>
 </tbody></table>

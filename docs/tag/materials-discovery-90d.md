@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07604.html">Human and LLM Collaboration for Accelerated Materials Synthesis and Discovery</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
+<td>Gregory Bassen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07604">2607.07604</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03208.html">Data-driven multi-objective optimization for alloy recycling using factorization machines and quantum annealing</a></div></td>
 <td>Thomas Plehn et al.</td>
@@ -368,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17972.html">PyAPX: Python toolkit for atomic configuration pattern exploration</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Akira Kusaba et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17972">2511.17972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07681.html">Multi-Agent Orchestration for High-Throughput Materials Screening on a Leadership-Class System</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a></div></td>
-<td>Thang Duc Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07681">2604.07681</a></td>
 </tr>
 </tbody></table>

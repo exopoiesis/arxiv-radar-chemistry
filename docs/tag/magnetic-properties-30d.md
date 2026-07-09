@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07544.html">Strain-tunable charge localization coupled to complex magnetic orders in EuAl$_4$</a></div></td>
+<td>M. Baumgartner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07544">2607.07544</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07642.html">Acoustic-phonon-driven spin-lattice relaxation of the hBN boron vacancy in the sub-THz regime</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Priyo Adhikary et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07642">2607.07642</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05962.html">High temperature ferromagnetism in epitaxial monolayers of Co-doped Fe5GeTe2</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Jules Courtin et al.</td>
@@ -26,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06463.html">Eclipsing Kitaev: off-diagonal exchange governs the correlated high-field phases of $β$-Li$_2$IrO$_3$</a></div></td>
 <td>Vikram Nagarajan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06463">2607.06463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06812.html">Driven square lattice of quantum dots in a magnetic field coupled to a cylindrical FIR-photon cavity</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Vidar Gudmundsson et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06812">2607.06812</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-06</td>
@@ -134,23 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10995.html">Ab initio study of magnetism in pristine and defective MnBi2Te4</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
 <td>Ana Beatriz Pedro Fontes et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10995">2606.10995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08915.html">Local electronic structure and dynamics of hydrogen in $\text{CeO}_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>A. Koda et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08915">2606.08915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10063.html">Dominant in-plane anomalous Hall effect in a monoclinic room-temperature ferromagnet</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Guoxin Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10063">2606.10063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10077.html">Atomic-scale visualization of the toroidal order in a trimeric Dy(III) single-molecule toroic</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Michael J. Jenkins et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10077">2606.10077</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mof — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <strong>90d</strong> <a href="mof-360d.html">360d</a> <a href="mof-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10568.html">ReadMOF: Structure-Free Semantic Embeddings from Systematic MOF Nomenclature for Machine Learning</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Kewei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10568">2604.10568</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07681.html">Multi-Agent Orchestration for High-Throughput Materials Screening on a Leadership-Class System</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Thang Duc Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07681">2604.07681</a></td>
 </tr>
 </tbody></table>

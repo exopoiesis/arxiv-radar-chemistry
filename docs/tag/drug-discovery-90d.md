@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">106 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08404.html">DrugGen 2: A disease-aware language model for enhancing drug discovery</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Ali Motahharynia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08404">2607.08404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08518.html">PhononScore: a phonon-aware scoring function for dynamical stability</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Xiao-Qi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08518">2607.08518</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07110.html">Probing Extended Recognition Sites in Zn-Metalloproteins via Quantum Chemistry and Polarizable Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
@@ -626,29 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11827.html">Inverse Design of Inorganic Compounds with Generative AI</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Hannes Kneiding et al.</td>
 <td><a href="http://arxiv.org/abs/2604.11827">2604.11827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02231.html">SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Joseph M. Cavanagh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02231">2409.02231</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07512.html">Rhizome OS-1: Rhizome&#x27;s Semi-Autonomous Operating System for Small Molecule Drug Discovery</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Yiwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07512">2604.07512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09308.html">Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents</a></div></td>
-<td>Maochen Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09308">2604.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09369.html">Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Simon J. Crouzet</td>
-<td><a href="http://arxiv.org/abs/2604.09369">2604.09369</a></td>
 </tr>
 </tbody></table>

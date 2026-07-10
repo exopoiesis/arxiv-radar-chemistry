@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">409 papers</span>
+  <span class="paper-count">410 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07611.html">Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Faranak Hatami et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07611">2607.07611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Claudio Meggio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>

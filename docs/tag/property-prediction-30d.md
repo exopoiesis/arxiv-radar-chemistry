@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.07606">2607.07606</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Claudio Meggio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05736.html">Multimodal Molecular Representation Learning with Graph Neural Networks, Deep &amp; Cross Networks, and SMILES Embeddings</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a></div></td>
 <td>Qiwei Han et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15422.html">Pepti-Agent: An AI Agent for Peptide Design and Optimization</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Houxu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15422">2606.15422</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11382.html">GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Emily Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11382">2606.11382</a></td>
 </tr>
 </tbody></table>

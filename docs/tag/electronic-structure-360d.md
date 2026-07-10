@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08474.html">Layer-resolved Electronic Structure and Correlation of Low-$n$ Square-planar Nickelates: A DFT+DMFT Prediction of Superconducting Candidates</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Jian-Hong She et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08474">2607.08474</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06995.html">Surface-Reconstruction-Driven Insulating Behavior in Metallic Charge-Density-Wave 1T-TaSe$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
@@ -2834,23 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11454.html">Correlated electronic structure of high-temperature superconductor Ba$_2$CuO$_{3+δ}$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Jing-Xuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11454">2507.11454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11926.html">Energy Window Augmented Plane Waves Approach to Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Garry Goldstein</td>
-<td><a href="http://arxiv.org/abs/2405.11926">2405.11926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18315.html">Anisotropic, multiband, and strong-coupling superconductivity of the Pb0.64Bi0.36 alloy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Sylwia Gutowska et al.</td>
-<td><a href="http://arxiv.org/abs/2411.18315">2411.18315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10736.html">Revisiting the Abundance of Topological Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Hossein Mirhosseini et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10736">2507.10736</a></td>
 </tr>
 </tbody></table>

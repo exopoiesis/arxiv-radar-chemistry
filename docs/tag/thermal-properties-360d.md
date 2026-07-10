@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Matthew Bousquet et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07378.html">Quantitative DFT+DMFT description of spectra and transport in the moderately correlated metal SrVO$_3$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Gurshidali P. et al.</td>
@@ -1898,11 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12183.html">Superconductivity in RbH$_{12}$ at low pressures: an \emph{ab initio} study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Đorđe Dangić et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12183">2507.12183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16000.html">Coexistent topological and chiral phonons in chiral RhGe: An ab initio study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>P. V. Sreenivasa Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2410.16000">2410.16000</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08178.html">State-Averaged Density Matrix Embedding Theory for Local Excitations</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Zhe-Bin Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08178">2607.08178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08478.html">Charge radii of calcium isotopes within relativistic configuration-interaction density functional theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Teng Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08478">2607.08478</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05930.html">Direct Analytical Evaluation of Electron-Impact Excitation Cross Sections via Multiconfigurational Binary Encounter Approach: Applications to Benzene and Naphthalene</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Kaoru Yamazaki</td>
@@ -338,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19804.html">Capturing electron correlation at mean-field cost: Assessment of i-DMFT and the underlying correlation conjecture</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Paul G. Graf et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19804">2604.19804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02790.html">A Route to Nonrelativistic Altermagnetic Spin Splitting via Ultrafast Light</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Huang-Zhao-Xiang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02790">2604.02790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09230.html">Limitations of MRSF-TDDFT for Applications in Photochemistry</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jiří Janoš et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09230">2604.09230</a></td>
 </tr>
 </tbody></table>

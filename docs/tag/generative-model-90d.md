@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08404.html">DrugGen 2: A disease-aware language model for enhancing drug discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Ali Motahharynia et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08404">2607.08404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07233.html">HPG-Diff: Hierarchical physics-guided diffusion with differentiable connectivity constraints for topology optimization</a></div></td>
 <td>Jinbo Yang et al.</td>
@@ -668,11 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10650.html">A Deep Generative Approach to Stratified Learning</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Randy Martinez et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10650">2604.10650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09369.html">Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Simon J. Crouzet</td>
-<td><a href="http://arxiv.org/abs/2604.09369">2604.09369</a></td>
 </tr>
 </tbody></table>

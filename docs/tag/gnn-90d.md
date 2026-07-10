@@ -34,6 +34,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.07611">2607.07611</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Claudio Meggio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05736.html">Multimodal Molecular Representation Learning with Graph Neural Networks, Deep &amp; Cross Networks, and SMILES Embeddings</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Qiwei Han et al.</td>
@@ -572,11 +578,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07322.html">Explicit Electric Potential-Embedded Machine Learning Framework: A Unified Description from Atomic to Electronic Scales</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jingwen Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07322">2604.07322</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09320.html">Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Siqi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09320">2604.09320</a></td>
 </tr>
 </tbody></table>

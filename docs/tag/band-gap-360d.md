@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">450 papers</span>
+  <span class="paper-count">449 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
+<td>Philip Schwinghammer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07037.html">Minimizing propagated density errors of atomic core-electron for simultaneously accurate bandgaps and lattice constants in closed-shell Copper semiconductors</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -2702,17 +2708,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11791.html">Quantum oscillations reveal sixfold fermions in cubic $β$-PtBi$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>E. F. Bavaro et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11791">2507.11791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12921.html">Probing the Fermi surface with Quantum Oscillation Measurements in the Dirac semimetal TaNiTe$_5$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Maximilian Daschner et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12921">2403.12921</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16000.html">Coexistent topological and chiral phonons in chiral RhGe: An ab initio study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>P. V. Sreenivasa Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2410.16000">2410.16000</a></td>
 </tr>
 </tbody></table>

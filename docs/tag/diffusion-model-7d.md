@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08016.html">LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting</a></div></td>
+<td>Zixin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08016">2607.08016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
 <td>Ziyu Luo et al.</td>
@@ -62,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02834.html">On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
 <td>Trevor Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02834">2607.02834</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01693.html">A Mathematical Introduction to Diffusion Models</a></div></td>
-<td>Jianfeng Lu</td>
-<td><a href="http://arxiv.org/abs/2607.01693">2607.01693</a></td>
 </tr>
 </tbody></table>

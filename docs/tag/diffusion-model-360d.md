@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08016.html">LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting</a></div></td>
+<td>Zixin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08016">2607.08016</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
 <td>Ziyu Luo et al.</td>
@@ -2696,11 +2702,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09357.html">Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Alexia Jolicoeur-Martineau et al.</td>
 <td><a href="http://arxiv.org/abs/2407.09357">2407.09357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10463.html">Solving the compute crisis with physics-based ASICs</a></div></td>
-<td>Maxwell Aifer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10463">2507.10463</a></td>
 </tr>
 </tbody></table>

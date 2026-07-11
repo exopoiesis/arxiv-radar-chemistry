@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,11 +782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13580.html">A Collaborative Framework Integrating Large Language Model and Chemical Fragment Space: Mutual Inspiration for Lead Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Hao Tuo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13580">2507.13580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04169.html">Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Luis J. Walter et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04169">2505.04169</a></td>
 </tr>
 </tbody></table>

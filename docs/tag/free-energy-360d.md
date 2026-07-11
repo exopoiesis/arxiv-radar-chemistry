@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">365 papers</span>
+  <span class="paper-count">364 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2198,11 +2198,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12960.html">Accelerated free energy estimation in ab initio path integral Monte Carlo simulations</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Pontus Svensson et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12960">2507.12960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04169.html">Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Luis J. Walter et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04169">2505.04169</a></td>
 </tr>
 </tbody></table>

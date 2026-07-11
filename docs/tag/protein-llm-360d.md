@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,17 +680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13077.html">Continued domain-specific pre-training of protein language models for pMHC-I binding prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Sergio E. Mares et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13077">2507.13077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08355.html">Metalic: Meta-Learning In-Context with Protein Language Models</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Jacob Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2410.08355">2410.08355</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10923.html">Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Yuhao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10923">2507.10923</a></td>
 </tr>
 </tbody></table>

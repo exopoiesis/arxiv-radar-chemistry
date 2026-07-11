@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">315 papers</span>
+  <span class="paper-count">313 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1892,17 +1892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12554.html">Self-learning Monte Carlo Method: A Review</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Gaopei Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12554">2507.12554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17633.html">Phonon-driven multipolar dynamics in a spin-orbit coupled Mott insulator</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Kathleen Hart et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17633">2404.17633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05919.html">$SU(N)$ spin-phonon simulations of Floquet dynamics in spin $S &gt; 1/2$ Mott insulators</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ruairidh Sutcliffe et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05919">2411.05919</a></td>
 </tr>
 </tbody></table>

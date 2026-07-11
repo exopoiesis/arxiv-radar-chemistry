@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mof — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <strong>360d</strong> <a href="mof-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11806.html">MOFSimBench: Evaluating Universal Machine Learning Interatomic Potentials In Metal--Organic Framework Molecular Modeling</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hendrik Kraß et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11806">2507.11806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03288.html">Ambient condition superconductivity via engineered polaronic environment</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Krzysztof Kempa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03288">2408.03288</a></td>
 </tr>
 </tbody></table>

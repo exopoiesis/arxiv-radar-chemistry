@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10568.html">ReadMOF: Structure-Free Semantic Embeddings from Systematic MOF Nomenclature for Machine Learning</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mof-90d.html">mof</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Kewei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10568">2604.10568</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17972.html">PyAPX: Python toolkit for atomic configuration pattern exploration</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Akira Kusaba et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17972">2511.17972</a></td>
 </tr>
 </tbody></table>

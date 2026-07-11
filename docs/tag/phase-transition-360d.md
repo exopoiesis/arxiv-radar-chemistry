@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">235 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1424,17 +1424,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14880.html">Simultaneous determination of multiple low-energy eigenstates of many-body systems on a superconducting quantum processor</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Huili Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14880">2507.14880</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17633.html">Phonon-driven multipolar dynamics in a spin-orbit coupled Mott insulator</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Kathleen Hart et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17633">2404.17633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04901.html">Torsional Behavior of Carbon-Doped Ferrous Nanowires: Atomic-Scale Insights from MD Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Charith L. Hirimuthugodage et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04901">2507.04901</a></td>
 </tr>
 </tbody></table>

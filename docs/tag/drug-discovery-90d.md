@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">103 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -632,11 +632,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10531.html">PepBenchmark: A Standardized Benchmark for Peptide Machine Learning</a></div></td>
 <td>Jiahui Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10531">2604.10531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11827.html">Inverse Design of Inorganic Compounds with Generative AI</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Hannes Kneiding et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11827">2604.11827</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,47 +692,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Yu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Isam A. Balghari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11785.html">Kohn-Sham models for encapsulated two-dimensional materials</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Éric Cancès et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11785">2606.11785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11873.html">Sonochemically Boosted Hydrogen Evolution Activity of Janus TMD Monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Rayantan Sadhukhan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11873">2606.11873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11928.html">Spin-Polarized Electronic Structure and Chemical Bonding Data for 2,500+ Halide Double Perovskites</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
-<td>Luc Walterbos et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11928">2606.11928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11973.html">Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Dominik Lüthi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11973">2606.11973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12253.html">Recent applications of the subtracted second RPA method</a></div></td>
-<td>Danilo Gambacurta et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12253">2606.12253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12272.html">Excited-state Properties Beyond the Excitation Energy from Orbital-Optimized Density Functional Calculations I: Dipole Moments of Rydberg States</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Lorenzo Restaino et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12272">2606.12272</a></td>
 </tr>
 </tbody></table>

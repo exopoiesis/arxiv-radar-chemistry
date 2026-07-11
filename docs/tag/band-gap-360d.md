@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">449 papers</span>
+  <span class="paper-count">447 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2696,17 +2696,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11856.html">Suppression of charge-density wave and superconductivity in a lithiated NbSe$_2$ monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Hari Paudyal et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11856">2507.11856</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08539.html">Covariance Linkage Assimilation method for Unobserved Data Exploration</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Yosuke Harashima et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08539">2408.08539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11791.html">Quantum oscillations reveal sixfold fermions in cubic $β$-PtBi$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>E. F. Bavaro et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11791">2507.11791</a></td>
 </tr>
 </tbody></table>

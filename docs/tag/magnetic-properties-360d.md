@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">372 papers</span>
+  <span class="paper-count">369 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2228,23 +2228,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12085.html">Single domain spectroscopic signatures of a magnetic Kagome metal</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>L. Plucinski et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12085">2507.12085</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17633.html">Phonon-driven multipolar dynamics in a spin-orbit coupled Mott insulator</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Kathleen Hart et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17633">2404.17633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05919.html">$SU(N)$ spin-phonon simulations of Floquet dynamics in spin $S &gt; 1/2$ Mott insulators</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Ruairidh Sutcliffe et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05919">2411.05919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00652.html">Relativistic Spin-Lattice Interaction Compatible with Discrete Translation Symmetry in Solids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Bumseop Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00652">2503.00652</a></td>
 </tr>
 </tbody></table>

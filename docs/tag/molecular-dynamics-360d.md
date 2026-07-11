@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1588 papers</span>
+  <span class="paper-count">1580 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9494,53 +9494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12388.html">Revealing the impact of chemical short-range order on radiation damage in MoNbTaVW high-entropy alloys using a machine-learning potential</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Jiahui Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12388">2507.12388</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17633.html">Phonon-driven multipolar dynamics in a spin-orbit coupled Mott insulator</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Kathleen Hart et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17633">2404.17633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10797.html">Low energy phonons in single crystal ZrW$_{2}$O$_{8}$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>R. A. Ewings et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10797">2408.10797</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05919.html">$SU(N)$ spin-phonon simulations of Floquet dynamics in spin $S &gt; 1/2$ Mott insulators</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Ruairidh Sutcliffe et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05919">2411.05919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04169.html">Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Luis J. Walter et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04169">2505.04169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04901.html">Torsional Behavior of Carbon-Doped Ferrous Nanowires: Atomic-Scale Insights from MD Simulations</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Charith L. Hirimuthugodage et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04901">2507.04901</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11172.html">The Multiple Time-Stepping Method for 3-Body Interactions in High Performance Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>David Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11172">2507.11172</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11289.html">Cyclic Data Streaming on GPUs for Short Range Stencils Applied to Molecular Dynamics</a></div></td>
-<td>Martin Rose et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11289">2507.11289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11759.html">Torsional-GFN: a conditional conformation generator for small molecules</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Alexandra Volokhova et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11759">2507.11759</a></td>
 </tr>
 </tbody></table>

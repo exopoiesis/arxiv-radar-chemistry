@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2102 papers</span>
+  <span class="paper-count">2096 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12590,41 +12590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12293.html">Ab initio study of flexoelectricity in MXene monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Shashikant Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12293">2507.12293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10088.html">Stability of persistent currents in superfluid fermionic rings</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Klejdja Xhani et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10088">2406.10088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10797.html">Low energy phonons in single crystal ZrW$_{2}$O$_{8}$</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>R. A. Ewings et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10797">2408.10797</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09510.html">Which chromium-sulfur compounds exist as 2D material?</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Affan Safeer et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09510">2501.09510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00652.html">Relativistic Spin-Lattice Interaction Compatible with Discrete Translation Symmetry in Solids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Bumseop Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00652">2503.00652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11454.html">Correlated electronic structure of high-temperature superconductor Ba$_2$CuO$_{3+δ}$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Jing-Xuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11454">2507.11454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11791.html">Quantum oscillations reveal sixfold fermions in cubic $β$-PtBi$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>E. F. Bavaro et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11791">2507.11791</a></td>
 </tr>
 </tbody></table>

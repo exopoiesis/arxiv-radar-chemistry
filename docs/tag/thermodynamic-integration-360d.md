@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,11 +794,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14382.html">Atomistic Simulations of Short-range Ordering with Light Interstitials in Inconel Superalloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Tyler D. Dolžal et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14382">2507.14382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08539.html">Covariance Linkage Assimilation method for Unobserved Data Exploration</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Yosuke Harashima et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08539">2408.08539</a></td>
 </tr>
 </tbody></table>

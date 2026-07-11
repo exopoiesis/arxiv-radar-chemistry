@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,11 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14435.html">Critical angles and one-dimensional moiré physics in twisted rectangular lattices</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Dongdong An et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14435">2507.14435</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05383.html">Identifying the Origin of Thermal Modulation of Exchange Bias in MnPS3/Fe3GeTe2 van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Aravind Puthirath Balan et al.</td>
-<td><a href="http://arxiv.org/abs/2403.05383">2403.05383</a></td>
 </tr>
 </tbody></table>

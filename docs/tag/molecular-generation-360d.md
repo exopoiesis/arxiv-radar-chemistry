@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18665.html">BARNN: A Bayesian Autoregressive and Recurrent Neural Network</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Dario Coscia et al.</td>
 <td><a href="http://arxiv.org/abs/2501.18665">2501.18665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04169.html">Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Luis J. Walter et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04169">2505.04169</a></td>
 </tr>
 </tbody></table>

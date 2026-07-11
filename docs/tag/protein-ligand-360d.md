@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,17 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13077.html">Continued domain-specific pre-training of protein language models for pMHC-I binding prediction</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Sergio E. Mares et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13077">2507.13077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08051.html">Compositional Flows for 3D Molecule and Synthesis Pathway Co-design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Tony Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08051">2504.08051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11759.html">Torsional-GFN: a conditional conformation generator for small molecules</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Alexandra Volokhova et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11759">2507.11759</a></td>
 </tr>
 </tbody></table>

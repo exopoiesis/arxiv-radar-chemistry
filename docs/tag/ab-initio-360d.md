@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1581 papers</span>
+  <span class="paper-count">1577 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9476,29 +9476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12293.html">Ab initio study of flexoelectricity in MXene monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Shashikant Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12293">2507.12293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03288.html">Ambient condition superconductivity via engineered polaronic environment</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Krzysztof Kempa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03288">2408.03288</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.12708.html">Spin-orbit-entangled electronic structure of Ba$_2$CaOsO$_6$ studied by O $K$-edge resonant inelastic X-ray scattering</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>J. Okamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2412.12708">2412.12708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09510.html">Which chromium-sulfur compounds exist as 2D material?</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Affan Safeer et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09510">2501.09510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00652.html">Relativistic Spin-Lattice Interaction Compatible with Discrete Translation Symmetry in Solids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Bumseop Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00652">2503.00652</a></td>
 </tr>
 </tbody></table>

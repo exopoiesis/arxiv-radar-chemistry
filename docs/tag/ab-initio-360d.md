@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1577 papers</span>
+  <span class="paper-count">1573 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9452,29 +9452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13180.html">Origin of circular and triangular pores in electron-irradiated hexagonal boron nitride</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Umair Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13180">2507.13180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11856.html">Suppression of charge-density wave and superconductivity in a lithiated NbSe$_2$ monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Hari Paudyal et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11856">2507.11856</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12085.html">Single domain spectroscopic signatures of a magnetic Kagome metal</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>L. Plucinski et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12085">2507.12085</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12183.html">Superconductivity in RbH$_{12}$ at low pressures: an \emph{ab initio} study</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Đorđe Dangić et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12183">2507.12183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12293.html">Ab initio study of flexoelectricity in MXene monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Shashikant Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12293">2507.12293</a></td>
 </tr>
 </tbody></table>

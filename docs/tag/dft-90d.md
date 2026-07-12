@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">456 papers</span>
+  <span class="paper-count">452 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2726,29 +2726,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12008.html">Surface Plasmons in the Continuum</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Mohit Chaudhary et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12008">2604.12008</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.11555.html">The $B(E2)$ anomaly: Evidence for a low-lying mixed-symmetry collective excitation mode</a></div></td>
-<td>Bo Cederwall et al.</td>
-<td><a href="http://arxiv.org/abs/2512.11555">2512.11555</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07322.html">Explicit Electric Potential-Embedded Machine Learning Framework: A Unified Description from Atomic to Electronic Scales</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jingwen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07322">2604.07322</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10489.html">The effect of grain boundaries on magnetic exchange interactions in iron</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Martin Zelený et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10489">2604.10489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10630.html">Electrochemical stability and lithium insertion at the Li|Li3OCl solid electrolyte interface</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Deobrat Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10630">2604.10630</a></td>
 </tr>
 </tbody></table>

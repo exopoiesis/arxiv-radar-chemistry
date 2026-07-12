@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2894,17 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06158.html">GenMol: A Drug Discovery Generalist with Discrete Diffusion</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Seul Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2501.06158">2501.06158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12136.html">Room Impulse Response Generation Conditioned on Acoustic Parameters</a></div></td>
-<td>Silvia Arellano et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12136">2507.12136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12143.html">Overview of the Sensemaking Task at the ELOQUENT 2025 Lab: LLMs as Teachers, Students and Evaluators</a></div></td>
-<td>Pavel Šindelář et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12143">2507.12143</a></td>
 </tr>
 </tbody></table>

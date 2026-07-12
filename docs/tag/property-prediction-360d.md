@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">247 papers</span>
+  <span class="paper-count">246 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1490,11 +1490,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03537.html">Two-Stage Pretraining for Molecular Property Prediction in the Wild</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Kevin Tirta Wijaya et al.</td>
 <td><a href="http://arxiv.org/abs/2411.03537">2411.03537</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12380.html">Heat Kernel Goes Topological</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Maximilian Krahn et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12380">2507.12380</a></td>
 </tr>
 </tbody></table>

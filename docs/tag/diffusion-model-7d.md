@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05636.html">Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>Alireza Siyavashi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05636">2607.05636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03788.html">Tensor-Train Joint Modeling for Few-Step Discrete Diffusion</a></div></td>
-<td>Byoungkwon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03788">2607.03788</a></td>
 </tr>
 </tbody></table>

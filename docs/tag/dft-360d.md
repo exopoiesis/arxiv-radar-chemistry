@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2096 papers</span>
+  <span class="paper-count">2092 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12566,29 +12566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13246.html">The carbon cost of materials discovery: Can machine learning really accelerate the discovery of new photovoltaics?</a></div></td>
 <td>Matthew Walker et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13246">2507.13246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22115.html">Non-Relativistic Anisotropic Magnetoresistance with Collinear and Non-Collinear Magnetic Order</a></div></td>
-<td>Philipp Ritzinger et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22115">2506.22115</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12085.html">Single domain spectroscopic signatures of a magnetic Kagome metal</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>L. Plucinski et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12085">2507.12085</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12113.html">Circular dichroism in the photoelectron angular distribution of achiral molecules</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Christian S. Kern et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12113">2507.12113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12293.html">Ab initio study of flexoelectricity in MXene monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Shashikant Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12293">2507.12293</a></td>
 </tr>
 </tbody></table>

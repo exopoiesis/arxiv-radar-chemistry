@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07546.html">An analytical solution of a quantum system with non-Markovian behavior: The Bixon-Jortner system in time domain</a></div></td>
 <td>Osman Cevheroğlu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07546">2607.07546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03820.html">Matter-wave Induced Transparenc</a></div></td>
-<td>Tongkang wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03820">2607.03820</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,29 +464,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04850.html">El Agente Quntur: A research collaborator agent for quantum chemistry</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Juan B. Pérez-Sánchez et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04850">2602.04850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04849.html">El Agente Estructural: An Artificially Intelligent Molecular Editor</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Changhyeok Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.04849">2602.04849</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11063.html">An Adaptive Log-Laguerre Spectral Method for the Radial Dirac Equation: Resolving Asymptotic Decay and Core Singularities in Atomic Calculations</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Sheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11063">2604.11063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11191.html">Ensemble density functional theory of excited states: Exact N-centered formalism and practical opportunities</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Lucien Dupuy et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11191">2604.11191</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19804.html">Capturing electron correlation at mean-field cost: Assessment of i-DMFT and the underlying correlation conjecture</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Paul G. Graf et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19804">2604.19804</a></td>
 </tr>
 </tbody></table>

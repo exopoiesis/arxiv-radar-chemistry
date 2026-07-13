@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">305 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,11 +1838,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17725.html">Atomic layer deposition on particulate materials from 1988 through 2023: A quantitative review of technologies, materials and applications</a></div></td>
 <td>Peter M. Piechulla et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17725">2506.17725</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17584.html">Enzyme as Maxwell&#x27;s Demon: Steady-state Deviation from Chemical Equilibrium by Enhanced Enzyme Diffusion</a></div></td>
-<td>Shunsuke Ichii et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17584">2503.17584</a></td>
 </tr>
 </tbody></table>

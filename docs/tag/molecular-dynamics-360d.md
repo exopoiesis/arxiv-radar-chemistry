@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1575 papers</span>
+  <span class="paper-count">1570 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9434,35 +9434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14415.html">New metastable ice phases via supercooled water</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Hiroki Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14415">2507.14415</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02806.html">Viscosity of polymer melts using non-affine theory based on vibrational modes</a></div></td>
-<td>Ankit Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02806">2503.02806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07494.html">Composition effect in the thermo-mechanical behavior of glasses, and its modelization</a></div></td>
-<td>Rene Alvarez-Donado et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07494">2503.07494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03521.html">Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Ivan Žugec et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03521">2504.03521</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12312.html">When $B_2$ is Not Enough: Evaluating Simple Metrics for Predicting Phase Separation of Intrinsically Disordered Proteins</a></div></td>
-<td>Wesley W. Oliver et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12312">2507.12312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13573.html">Competing Length Scales and Symmetry Frustration Govern Non-Universal Melting in 2D Core-softened Colloidal Crystals</a></div></td>
-<td>Thiago Puccinelli et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13573">2507.13573</a></td>
 </tr>
 </tbody></table>

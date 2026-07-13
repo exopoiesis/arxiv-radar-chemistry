@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,29 +206,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05616.html">Raman spectroscopy of the van der Waals altermagnet Co$_{1/4}$NbSe$_2$</a></div><div class="paper-tags"><a href="tmd-7d.html">tmd</a></div></td>
 <td>Dushyanthini Balasundaram et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05616">2607.05616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04095.html">ML and AI for density functional theory: different priorities for Kohn-Sham and orbital-free DFT, for electronic and nuclear DFT</a></div></td>
-<td>Xin-Hui Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04095">2607.04095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04116.html">Electronic Structure, Optical Response, Thermal and Mechanical Behavior of B6X (X = S, Se) under Pressure: A Comprehensive Ab-initio Exploration</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Sourav Kumar Sutradhar et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04116">2607.04116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04200.html">Tellurium sublattice instability driven amorphization in the chalcogenide AgSbTe2 under pressure</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Baihong Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04200">2607.04200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04502.html">Data-Driven Prediction of NaCl-Type Entropy-Stabilized Oxide Compositions from First-Principles and Supervised Learning</a></div></td>
-<td>Sebastien Junier et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04502">2607.04502</a></td>
 </tr>
 </tbody></table>

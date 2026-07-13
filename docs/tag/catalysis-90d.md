@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,17 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14784.html">Interfacial Electric Fields in Water Nanodroplets are Weakly Dependent on Curvature and pH</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Gabriele Amante et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14784">2604.14784</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11540.html">A collaborative agent with two lightweight synergistic models for autonomous crystal materials research</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Tongyu Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11540">2604.11540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11778.html">General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks</a></div></td>
-<td>Junlin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11778">2604.11778</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2092 papers</span>
+  <span class="paper-count">2087 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12536,35 +12536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15883.html">Electronic structure of SLSiN under charge density modulation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Ashkan Shekaari</td>
 <td><a href="http://arxiv.org/abs/2507.15883">2507.15883</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03958.html">Electron-Phonon Coupling in Correlated Metals: A Dynamical Mean-Field Theory Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>David J. Abramovitch et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03958">2505.03958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05860.html">Ab initio X-ray Near-Edge Spectroscopy of Sodium-Based Multi-Alkali Antimonides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Chung Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05860">2505.05860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06490.html">Light-Matter Entanglement in Real-Time Nuclear-Electronic Orbital Polariton Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Millan F. Welman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06490">2506.06490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12409.html">Phonon spectrum in the spin-Peierls phase of CuGeO$_3$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>L. Spitz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12409">2507.12409</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13246.html">The carbon cost of materials discovery: Can machine learning really accelerate the discovery of new photovoltaics?</a></div></td>
-<td>Matthew Walker et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13246">2507.13246</a></td>
 </tr>
 </tbody></table>

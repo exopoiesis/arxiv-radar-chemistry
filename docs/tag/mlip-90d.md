@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -872,17 +872,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13897.html">MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Adam Lahouari et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13897">2604.13897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10984.html">opt-DDAP: Optimisable density-derived atomic point charges via automatic differentiation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Mohith H. et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10984">2604.10984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11513.html">Machine-learning modeling of magnetization dynamics in quasi-equilibrium and driven metallic spin systems</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Gia-Wei Chern et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11513">2604.11513</a></td>
 </tr>
 </tbody></table>

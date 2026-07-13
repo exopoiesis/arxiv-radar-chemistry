@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">406 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,11 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13707.html">Learning Deformable Body Interactions With Adaptive Spatial Tokenization</a></div></td>
 <td>Hao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13707">2507.13707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03521.html">Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ivan Žugec et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03521">2504.03521</a></td>
 </tr>
 </tbody></table>

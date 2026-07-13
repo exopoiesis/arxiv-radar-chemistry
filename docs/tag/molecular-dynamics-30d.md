@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,35 +500,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15292.html">Light-induced nonadiabatic dissipative quantum dynamics of the Na2 molecule</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Patrick Barron et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15292">2606.15292</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14111.html">Temperature transferable Machine Learned Coarse Grained model for proteins</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Jacopo Venturin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14111">2606.14111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Debsundar Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14590.html">Lattice dynamics and the spectroscopic signatures of H-bond disorder in $δ$-AlOOH</a></div></td>
-<td>Chenxing Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14590">2606.14590</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14888.html">Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>N. Mendez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14888">2606.14888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14978.html">Complementary Thermodynamic Mechanisms of Boron and Carbon Segregation at Grain Boundaries in Nickel Alloys</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Tyler D. Doležal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14978">2606.14978</a></td>
 </tr>
 </tbody></table>

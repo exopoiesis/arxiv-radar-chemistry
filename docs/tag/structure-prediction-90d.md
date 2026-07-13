@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10471.html">Siamese Foundation Models for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Liming Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2503.10471">2503.10471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02189.html">deCIFer: Crystal Structure Prediction from Powder Diffraction Data using Autoregressive Language Models</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Frederik Lizak Johansen et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02189">2502.02189</a></td>
 </tr>
 </tbody></table>

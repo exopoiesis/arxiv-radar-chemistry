@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">446 papers</span>
+  <span class="paper-count">445 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2684,11 +2684,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06848.html">A General Framework for Inference-time Scaling and Steering of Diffusion Models</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Raghav Singhal et al.</td>
 <td><a href="http://arxiv.org/abs/2501.06848">2501.06848</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16658.html">A fast and accurate method for inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT approach</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>A. Emir Gumrukcuoglu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.16658">2404.16658</a></td>
 </tr>
 </tbody></table>

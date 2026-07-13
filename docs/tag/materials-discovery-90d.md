@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,23 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07805.html">Machine Learning for Electrode Materials: Property Prediction via Composition</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Hao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07805">2603.07805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02189.html">deCIFer: Crystal Structure Prediction from Powder Diffraction Data using Autoregressive Language Models</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Frederik Lizak Johansen et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02189">2502.02189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11957.html">Agentic LLM Reasoning in a Self-Driving Laboratory for Air-Sensitive Lithium Halide Spinel Conductors</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
-<td>Yuxing Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11957">2604.11957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12140.html">XANE(3): An E(3)-Equivariant Graph Neural Network for Accurate Prediction of XANES Spectra from Atomic Structures</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Vitor F. Grizzi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12140">2604.12140</a></td>
 </tr>
 </tbody></table>

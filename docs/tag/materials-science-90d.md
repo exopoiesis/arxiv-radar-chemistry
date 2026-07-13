@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,23 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13354.html">Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Auguste de Lambilly et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13354">2604.13354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11878.html">Development of an uncertainty-aware equation of state for gold</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Lin H. Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11878">2501.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11229.html">RECIPER: A Dual-View Retrieval Pipeline for Procedure-Oriented Materials Question Answering</a></div></td>
-<td>Zhuoyu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11229">2604.11229</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.11540.html">A collaborative agent with two lightweight synergistic models for autonomous crystal materials research</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Tongyu Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.11540">2604.11540</a></td>
 </tr>
 </tbody></table>

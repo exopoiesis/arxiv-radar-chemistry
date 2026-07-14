@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>magnetic-properties — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06812.html">Driven square lattice of quantum dots in a magnetic field coupled to a cylindrical FIR-photon cavity</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Vidar Gudmundsson et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06812">2607.06812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05337.html">Magnetotransport and electronic band structure of EuNi$_2$As$_2$ antiferromagnet</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Faheem Gul et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05337">2607.05337</a></td>
 </tr>
 </tbody></table>

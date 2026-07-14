@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">253 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1520,17 +1520,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16915.html">Avoiding spectral pollution for transfer operators using residuals</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>April Herwig et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16915">2507.16915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06848.html">A General Framework for Inference-time Scaling and Steering of Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Raghav Singhal et al.</td>
-<td><a href="http://arxiv.org/abs/2501.06848">2501.06848</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14269.html">MP-GCAN: a highly accurate classifier for $α$-helical membrane proteins and $β$-barrel proteins</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Kunyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14269">2507.14269</a></td>
 </tr>
 </tbody></table>

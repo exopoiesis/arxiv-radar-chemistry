@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">555 papers</span>
+  <span class="paper-count">553 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3332,17 +3332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15825.html">ACS: An interactive framework for conformal selection</a></div></td>
 <td>Yu Gui et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15825">2507.15825</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13646.html">A Comprehensive Review of Transformer-based language models for Protein Sequence Analysis and Design</a></div></td>
-<td>Nimisha Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13646">2507.13646</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14269.html">MP-GCAN: a highly accurate classifier for $α$-helical membrane proteins and $β$-barrel proteins</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Kunyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14269">2507.14269</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">363 papers</span>
+  <span class="paper-count">362 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2186,11 +2186,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14880.html">Simultaneous determination of multiple low-energy eigenstates of many-body systems on a superconducting quantum processor</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Huili Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14880">2507.14880</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13791.html">Improving structure search with hyperspatial optimization and TETRIS seeding</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Daviti Gochitashvili et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13791">2507.13791</a></td>
 </tr>
 </tbody></table>

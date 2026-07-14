@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">225 papers</span>
+  <span class="paper-count">224 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1358,11 +1358,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14674.html">Time-resolved solvation of alkali ions in superfluid helium nanodroplets: Theoretical simulation of a pump-probe study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Ernesto García-Alfonso et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14674">2507.14674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13585.html">Exploring core excitation in halo nuclei using halo effective field theory: an application to the bound states of $^{11}$Be</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Live-Palm Kubushishi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13585">2507.13585</a></td>
 </tr>
 </tbody></table>

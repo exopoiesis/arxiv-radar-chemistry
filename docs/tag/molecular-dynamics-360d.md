@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1570 papers</span>
+  <span class="paper-count">1565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9404,35 +9404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14574.html">Swift heavy ion track formation in SiC films under high-temperature irradiation</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>D. I. Zainutdinov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14574">2507.14574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23975.html">Atomistic Study of Radiation-Induced Ductile-to-Brittle Transition in Austenitic Steel</a></div></td>
-<td>A. Ustrzycka et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23975">2505.23975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13950.html">MoDyGAN: Combining Molecular Dynamics With GANs to Investigate Protein Conformational Space</a></div></td>
-<td>Jingbo Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13950">2507.13950</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14319.html">Martini 3 application for the design of bistable nanomachines</a></div></td>
-<td>Alexander D. Muratov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14319">2507.14319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14382.html">Atomistic Simulations of Short-range Ordering with Light Interstitials in Inconel Superalloys</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Tyler D. Dolžal et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14382">2507.14382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14415.html">New metastable ice phases via supercooled water</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Hiroki Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14415">2507.14415</a></td>
 </tr>
 </tbody></table>

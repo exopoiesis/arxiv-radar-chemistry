@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1567 papers</span>
+  <span class="paper-count">1562 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9386,35 +9386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19658.html">First-Principles Framework for the Prediction of Intersystem Crossing Rates in Spin Defects: The Role of Electron Correlation</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Yu Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2502.19658">2502.19658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18709.html">Towards an exact electronic quantum many-body treatment of Kondo correlation in magnetic impurities</a></div></td>
-<td>Tianyu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18709">2405.18709</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13585.html">Exploring core excitation in halo nuclei using halo effective field theory: an application to the bound states of $^{11}$Be</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Live-Palm Kubushishi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13585">2507.13585</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13805.html">On-the-Fly Fine-Tuning of Foundational Neural Network Potentials: A Bayesian Neural Network Approach</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Tim Rensmeyer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13805">2507.13805</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13824.html">Extension of Second-Principles Density Functional Theory into the time domain</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Toraya Fernández-Ruiz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13824">2507.13824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15883.html">Electronic structure of SLSiN under charge density modulation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Ashkan Shekaari</td>
-<td><a href="http://arxiv.org/abs/2507.15883">2507.15883</a></td>
 </tr>
 </tbody></table>

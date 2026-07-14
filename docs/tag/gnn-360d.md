@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">405 papers</span>
+  <span class="paper-count">404 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2438,11 +2438,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07854.html">Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain</a></div></td>
 <td>Zizhou Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07854">2507.07854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13707.html">Learning Deformable Body Interactions With Adaptive Spatial Tokenization</a></div></td>
-<td>Hao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13707">2507.13707</a></td>
 </tr>
 </tbody></table>

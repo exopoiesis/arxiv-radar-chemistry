@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2087 papers</span>
+  <span class="paper-count">2080 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12494,47 +12494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14674.html">Time-resolved solvation of alkali ions in superfluid helium nanodroplets: Theoretical simulation of a pump-probe study</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Ernesto García-Alfonso et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14674">2507.14674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03537.html">Two-Stage Pretraining for Molecular Property Prediction in the Wild</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Kevin Tirta Wijaya et al.</td>
-<td><a href="http://arxiv.org/abs/2411.03537">2411.03537</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12946.html">Magnetic Triple-q State in Antiferromagnetic Monolayer Interfaced with Bismuthene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Chia-Ju Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12946">2507.12946</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13694.html">Strain-Engineered Electronic Structure and Superconductivity in La$_3$Ni$_2$O$_7$ Thin Films</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Yu-Han Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13694">2507.13694</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13791.html">Improving structure search with hyperspatial optimization and TETRIS seeding</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Daviti Gochitashvili et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13791">2507.13791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13824.html">Extension of Second-Principles Density Functional Theory into the time domain</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Toraya Fernández-Ruiz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13824">2507.13824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14267.html">DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Ziqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14267">2507.14267</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15883.html">Electronic structure of SLSiN under charge density modulation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Ashkan Shekaari</td>
-<td><a href="http://arxiv.org/abs/2507.15883">2507.15883</a></td>
 </tr>
 </tbody></table>

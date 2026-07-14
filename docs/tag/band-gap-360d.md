@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2672,17 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14514.html">Possible Orthorhombic Phase of Ta$_2$O$_5$ under High Pressures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Yan Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14514">2507.14514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13694.html">Strain-Engineered Electronic Structure and Superconductivity in La$_3$Ni$_2$O$_7$ Thin Films</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Yu-Han Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13694">2507.13694</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15883.html">Electronic structure of SLSiN under charge density modulation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Ashkan Shekaari</td>
-<td><a href="http://arxiv.org/abs/2507.15883">2507.15883</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,23 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20913.html">LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
 <td>Jihao Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.20913">2602.20913</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16615.html">LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning</a></div></td>
-<td>Jelle Luijkx et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16615">2509.16615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12237.html">MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Ziqing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12237">2604.12237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13175.html">Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Aadyot Bhatnagar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13175">2604.13175</a></td>
 </tr>
 </tbody></table>

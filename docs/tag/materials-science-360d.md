@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">411 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2480,11 +2480,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14586.html">What do Large Language Models know about materials?</a></div></td>
 <td>Adrian Ehrenhofer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14586">2507.14586</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10871.html">Layerwise Recall and the Geometry of Interwoven Knowledge in LLMs</a></div></td>
-<td>Ge Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10871">2502.10871</a></td>
 </tr>
 </tbody></table>

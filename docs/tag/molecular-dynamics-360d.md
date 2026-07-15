@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1565 papers</span>
+  <span class="paper-count">1563 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9392,17 +9392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07337.html">Neural Flow Samplers with Shortcut Models</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Wuhao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2502.07337">2502.07337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14416.html">Phonon density of states of magnetite (\ce{Fe3O4}) nanoparticles via molecular dynamics simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Pablo Galaviz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14416">2507.14416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14574.html">Swift heavy ion track formation in SiC films under high-temperature irradiation</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>D. I. Zainutdinov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14574">2507.14574</a></td>
 </tr>
 </tbody></table>

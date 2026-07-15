@@ -5,15 +5,75 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-07-14._
+_Updated 2026-07-15._
 
-**15413** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15425** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="tag/chemical-llm-30d.html">chemical-llm</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Xingyu Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11437.html">Relational Positioning as a Measurable Risk Object: History-Carried Lock-in and Self-Confabulation in Multi-Turn Human-AI Dialogue</a></div></td>
+<td>Jihong Chen</td>
+<td><a href="http://arxiv.org/abs/2607.11437">2607.11437</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11526.html">AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking</a></div><div class="paper-tags"><a href="tag/bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Hongxiao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11526">2607.11526</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11783.html">How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?</a></div></td>
+<td>Elmira Salari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11783">2607.11783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11978.html">Gene Expression-Informed Jointly Controlled Generative Modeling for Precision Molecular Design</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a></div></td>
+<td>Hang Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11978">2607.11978</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10559.html">Large language model agents accelerate inverse design of metal-organic frameworks for gas separation</a></div><div class="paper-tags"><a href="tag/mof-30d.html">mof</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Zhaolin Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10559">2607.10559</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10113.html">Dynamic Agent Skills: A Lifecycle Survey and Taxonomy of Evolving Skill Libraries</a></div></td>
+<td>Yubo Li</td>
+<td><a href="http://arxiv.org/abs/2607.10113">2607.10113</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10275.html">Information-seeking failures of large language models in agentic clinical reasoning</a></div></td>
+<td>Krischan Braitsch et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10275">2607.10275</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10388.html">The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Evropi Toulkeridou et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10388">2607.10388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09195.html">Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents</a></div></td>
+<td>Izumi Takahara et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09195">2607.09195</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
@@ -133,65 +193,5 @@ _Updated 2026-07-14._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Matthew Bousquet et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06875.html">Video2Reaction: Mapping Video to Audience Reaction Distribution in the Wild</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Trang Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06875">2607.06875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06897.html">Machine learning the impact parameter in heavy-ion collisions at $\sqrt{s_{\rm NN}}$ = 4 and 11 GeV: a cross-check study with UrQMD, AMPT, and JAM</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xiaoqing Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06897">2607.06897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06962.html">Radiation Damage Cascades in Fullerite Using Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ethan P. Turner et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06962">2607.06962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06969.html">AI2Pot: A scalable and unified framework for machine-learning interatomic potential development and large-scale molecular dynamic simulations</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Hanyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06969">2607.06969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06995.html">Surface-Reconstruction-Driven Insulating Behavior in Metallic Charge-Density-Wave 1T-TaSe$_{2}$</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06995">2607.06995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Ziyu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07015">2607.07015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07037.html">Minimizing propagated density errors of atomic core-electron for simultaneously accurate bandgaps and lattice constants in closed-shell Copper semiconductors</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Kuiyu Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07037">2607.07037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07067.html">Ab initio thermodynamic statistical modeling of the miscibility gap and the metal-insulator phase transition in SrTi$_{1-x}$V$_x$O$_{3}$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/free-energy-30d.html">free-energy</a></div></td>
-<td>Luka Wibmer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07067">2607.07067</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07086.html">A modified Moss rule highlights underexplored classes of high refractive index materials</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Eugène Bertin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07086">2607.07086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07090.html">Ethaline deep eutectic solvent under nanoconfinement: Unveiling structural and dynamical changes</a></div><div class="paper-tags"><a href="tag/materials-science-30d.html">materials-science</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Kamar Mohammad Nadim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07090">2607.07090</a></td>
 </tr>
 </tbody></table>

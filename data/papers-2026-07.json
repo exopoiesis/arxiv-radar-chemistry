@@ -5913,5 +5913,323 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-07-09"
+ },
+ "2607.08803": {
+  "abstract": "The push toward large language models for biology (BioLM) has created a need for training corpora that can endow models with a genuine understanding of biology. However, existing biological resources, such as molecular databases, protein repositories, genomic annotations, single-cell atlases, and pathway databases, are scattered across heterogeneous formats and remain unorganized into a cohesive corpus for language model training. We present TheBioCollection, a 52.6B-token pre-training-scale corpus that converts these disparate resources into a unified, training-ready form spanning small molecules, proteins, genomic sequences, cells, and pathways. Beyond consolidating existing data, TheBioCollection enriches each record with tool-computed biological properties and introduces new instruction tasks for capabilities that current corpora barely cover. We pair the corpus with TheBioCollection-Eval, a matched suite probing recognition, generation, and prediction across molecular, protein, genomic, cellular, and cross-domain settings. Holding the base Gravity-16B-A3B architecture fixed, training on TheBioCollection more than doubles its overall score on TheBioCollection-Eval with gains in every domain, while leaving general linguistic ability nearly intact.",
+  "authors": [
+   "Hyunjin Seo",
+   "Hyeon Hwang",
+   "Gyubok Lee",
+   "Jay Shin",
+   "Jimin Park",
+   "Taesoo Kim",
+   "Sanghoon Lee",
+   "Hongjoon Ahn",
+   "Sungjun Han",
+   "Sangwon Jung"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Hyunjin Seo",
+  "pdf_url": "http://arxiv.org/pdf/2607.08803",
+  "primary_category": "q-bio.QM",
+  "published": "2026-07-09",
+  "tags": [],
+  "title": "TheBioCollection: Unified Pre-Training Scale LLM Corpus for Biology",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.09195": {
+  "abstract": "Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with broad knowledge, flexible reasoning, and tool use, they have the potential to autonomously explore and solve scientific problems by repeatedly proposing hypotheses, testing them, and revising their beliefs in the light of the evidence. In current agents, however, these hypotheses, tests, and belief updates are buried in unstructured logs, and no mechanism lets the agent or the human researcher audit that process. Here we propose the Hypothesis Evolution Protocol (HEP), an agent harness that provides hypothesis generation, evaluation, and evolution as explicit, auditable operations. On materials-science research tasks, a HEP-equipped agent operates the hypothesis--test--evidence--belief cycle that planning-style agents lack, generalizes across research questions, and exploits the protocol more fully as the base LLM becomes more capable. These results mark a step toward auditable AI scientists, whose scientific reasoning can be inspected, verified, and built upon.",
+  "authors": [
+   "Izumi Takahara",
+   "Teruyasu Mizoguchi"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Izumi Takahara",
+  "pdf_url": "http://arxiv.org/pdf/2607.09195",
+  "primary_category": "cs.AI",
+  "published": "2026-07-10",
+  "tags": [],
+  "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09761": {
+  "abstract": "Variational quantum algorithms such as VQE and VQD are promising for near-term electronic structure calculations, but for periodic solids their reach is limited by the cost of building a faithful second-quantized Hamiltonian, typically via DFT plus Wannierization or hand-fit tight-binding parameters. SlaKoNet addresses this by combining deep learning with the Slater-Koster tight-binding formalism to fit hopping and overlap parameters across 65 elements, enabling deterministic Hamiltonian construction for any crystal built from these elements. Here we couple a SlaKoNet model trained on JARVIS-TBmBJ with a Qiskit-based VQD algorithm, replacing costly Hamiltonian construction with a universal neural Hamiltonian generator. The resulting SlaKoNet-VQD workflow is structure-agnostic, differentiable, and suited to high-throughput bandstructure screening. We benchmark on silicon, recovering the full eight-band structure along the standard k-path with mean absolute deviation of 1.78 meV from exact diagonalization on a 3-qubit simulator, and extend to five conventional superconductors (Al, Ta, Nb, V, ZrN) with similar accuracy. We demonstrate execution on IBM Quantum hardware for a k-point ground-state calculation on aluminum (MAE ~0.37 eV). We further promote the Hamiltonian to a correlated Hubbard model solved via dynamical mean-field theory, recovering weakening correlations across group-5 metals and strong quasiparticle renormalization in La2CuO4, identifying the impurity problem as a natural quantum solver target. This pipeline enables high-throughput VQA benchmarking across the periodic table and gradient-based ansatz-Hamiltonian co-optimization for materials discovery. Web app: https://atomgpt.org/quantum.",
+  "authors": [
+   "Akshaya Ajith",
+   "Jaehyung Lee",
+   "Charles Rhys Campbell",
+   "Kamal Choudhary"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Akshaya Ajith",
+  "pdf_url": "http://arxiv.org/pdf/2607.09761",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-06",
+  "tags": [
+   "band-gap",
+   "dft",
+   "electronic-structure",
+   "materials-discovery"
+  ],
+  "title": "SlaKoNet-VQD: A universal Slater-Koster tight-binding Hamiltonian for variational quantum band-structure calculations on near-term hardware",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.10113": {
+  "abstract": "Large language model agents increasingly store reusable procedures outside the model. These reusable procedures are often called \\emph{skills}: they may be code functions, natural-language instructions, SKILL.md packages, workflow graphs, or learned adapters that a future agent can retrieve and invoke. This taxonomy-driven survey asks how such skill libraries change over time. Across a $124$-paper $2023$--$2026$ audit set, we synthesize dynamic skill systems as \\emph{lifecycle-managed, verified, evolving artifact stores}: agents collect evidence from interaction, propose skill updates, verify and admit candidates, organize them for retrieval and composition, repair or prune stale entries, and govern sharing through provenance and rollback. We organize the literature around three survey tools. First, a $\\text{six}$-sense taxonomy distinguishes the structurally different artifacts called ``skills'' in current papers. Second, an $\\text{eight}$-stage lifecycle architecture identifies the recurring design decisions behind evidence acquisition, proposal, verification/admission, storage, retrieval/composition, maintenance, distillation/portability, and governance. Third, a lightweight skill-record schema and $\\text{ten}$-operator vocabulary provide common terms for comparing library updates without elevating them into a separate method contribution. Using this structure, we synthesize evidence-graded patterns with explicit caveats: admission and repair are repeatedly important, verifier quality materially affects skill-aware RL, flat retrieval can degrade as libraries grow, and current benchmarks still under-report library trajectories, usage--utility gaps, and safety surfaces. We close with concrete reporting standards and open problems for evaluating dynamic skills as changing libraries rather than static prompt or tool collections.",
+  "authors": [
+   "Yubo Li"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "Accepted by TMLR (2026.07), OpenReview Link: https://openreview.net/forum?id=cjU3YbcRr8",
+  "first_author": "Yubo Li",
+  "pdf_url": "http://arxiv.org/pdf/2607.10113",
+  "primary_category": "cs.AI",
+  "published": "2026-07-11",
+  "tags": [],
+  "title": "Dynamic Agent Skills: A Lifecycle Survey and Taxonomy of Evolving Skill Libraries",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-11"
+ },
+ "2607.10275": {
+  "abstract": "Large language models achieve high scores on medical knowledge assessments, yet clinical reasoning requires actively deciding what to investigate under uncertainty. We developed an agentic evaluation framework in hematologic oncology in which models must proactively request clinical data across three sequential rounds before committing to a diagnosis and treatment plan. Across 32 frontier models, the best achieved only 68% overall accuracy. Information utilization, the fraction of available data actually requested, was the strongest predictor of diagnostic accuracy (R = 0.69, P < 0.001), yet utilization collapsed from 57% to 26% in the final round, leaving molecular and cytogenetic data critical for treatment selection unexamined. Reasoning traces scored high on a clinical reasoning rubric (91% above threshold) but decorrelated from accuracy, revealing a gap between locally coherent rationales and globally correct conclusions. Error analysis identified search satisficing, anchoring and premature closure as the dominant failure modes, the same cognitive biases that characterize novice clinicians under dual-process models of diagnostic reasoning. These findings demonstrate that the primary limitation of current models in clinical oncology is not insufficient medical knowledge but a systematic failure of information-seeking under uncertainty.",
+  "authors": [
+   "Krischan Braitsch",
+   "Laura K. Schmalbrock",
+   "Theresa Weltermann",
+   "Andrew F. Berdel",
+   "Isabella Miller",
+   "Kai Tran",
+   "Michael Heider",
+   "Sabrina Kraus",
+   "Florian Bassermann",
+   "Jacqueline Lammert",
+   "Sebastian Ziegelmayer",
+   "Marcus Makowski",
+   "Lisa C. Adams",
+   "Keno K. Bressem"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": "66 pages, 9 figures; includes supplementary material",
+  "first_author": "Krischan Braitsch",
+  "pdf_url": "http://arxiv.org/pdf/2607.10275",
+  "primary_category": "cs.AI",
+  "published": "2026-07-11",
+  "tags": [],
+  "title": "Information-seeking failures of large language models in agentic clinical reasoning",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-11"
+ },
+ "2607.10388": {
+  "abstract": "Artificial intelligence (AI) is transforming electron microscopy by enabling quantitative analysis of increasingly large and complex datasets for nanoparticle characterization. Recent advances in machine learning (ML) and deep learning (DL) have expanded microscopy from a descriptive imaging technique into a data-driven platform for structural interpretation, dynamic analysis, and scientific inference. This review examines AI methodologies for nanoparticle electron microscopy, focusing on transmission electron microscopy (TEM), high-resolution transmission electron microscopy (HRTEM), scanning transmission electron microscopy (STEM), and in situ TEM. The discussion is organized around the principal challenges in nanoparticle characterization, including particle detection, segmentation, morphology quantification, atomic-resolution restoration, defect identification, two-dimensional-to-three-dimensional structural inference, and analysis of dynamic processes in situ. We review computational approaches from conventional ML and convolutional neural networks to transformer architectures, self-supervised learning, foundation models, multimodal AI, and physics-informed learning. We further discuss integrating microscopy data with simulations, metadata, and autonomous experimentation to relate nanoparticle structure, dynamics, synthesis conditions, and functional properties. The advantages, limitations, benchmarking, and data requirements of current methodologies are critically assessed. Finally, emerging opportunities for foundation models, AI-guided microscopy, closed-loop experimentation, and autonomous materials discovery are discussed. By integrating advances across computer vision, materials informatics, and electron microscopy, this review highlights the role of AI in next-generation nanoparticle characterization and accelerated materials discovery.",
+  "authors": [
+   "Evropi Toulkeridou",
+   "Jiafei Li",
+   "Leonardo Lari",
+   "Panagiotis Grammatikopoulos"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "Main article: 34 pages, 8 figures (including Graphical Abstract), 5 tables. Appendix: 18 pages, 1 figure, 4 tables. This manuscript has been submitted (after invitation) to Advanced Intelligent Discovery for peer review",
+  "first_author": "Evropi Toulkeridou",
+  "pdf_url": "http://arxiv.org/pdf/2607.10388",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-11",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-11"
+ },
+ "2607.10559": {
+  "abstract": "Metal-organic frameworks (MOFs) offer a highly modular platform for adsorptive gas separation, yet their vast reticular design space makes inverse design difficult under simultaneous constraints of chemical validity, separation performance, and structural diversity. Here, we present LEMO Agent, a large-language-model agent framework for closed-loop inverse design of gas-separation MOFs in MOFid space. LEMO Agent couples language-based candidate generation with MOFid standardization, explicit validity checking, Transformer-based property prediction, structured design memory, and multi-island exploration. Through iterative generate--validate--evaluate--remember cycles, the agent uses feedback from both successful and failed candidates to guide chemically constrained search across linker, metal, and topology choices. We evaluate LEMO Agent on CH$_4$/N$_2$ and CO$_2$/N$_2$ separation tasks. Compared with representative generative, optimization, and agentic baselines, LEMO Agent enriches high-performing candidates, improves predicted separation performance, and maintains broad chemical and topological diversity. Selected candidates are further reconstructed, evaluated by GCMC simulations, and passed through an experimental down-selection workflow based on chemical feasibility and ligand purchasability, leading to initial wet-lab synthesis and SEM characterization. These results demonstrate that large language model agents can serve as interpretable and scalable design engines for accelerating MOF discovery beyond conventional fixed-library screening.",
+  "authors": [
+   "Zhaolin Hu",
+   "Hehe Fan",
+   "Wangyihan Guo",
+   "Meng Xu",
+   "Chenhao Rao",
+   "Qiwei Yang",
+   "Yi Yang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "19 pages,5 figures",
+  "first_author": "Zhaolin Hu",
+  "pdf_url": "http://arxiv.org/pdf/2607.10559",
+  "primary_category": "cs.AI",
+  "published": "2026-07-12",
+  "tags": [
+   "mof",
+   "property-prediction"
+  ],
+  "title": "Large language model agents accelerate inverse design of metal-organic frameworks for gas separation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-12"
+ },
+ "2607.11437": {
+  "abstract": "In long, multi-turn dialogue a large language model maintains an implicit relational stance toward the user, spanning from \"push the user toward real-world others\" to \"position itself as the user's sole support.\" When it slides toward the latter, \"support\" degrades into \"you only have me\" -- a harm documented in real companion conversations (Moore et al., 2026). We define and validate a measure of this stance, relational positioning (D1), and use it to characterize the stance under controlled conditions, complementing observational accounts with on-demand exposure. We report two previously uncharacterized relational failure modes. First, a history-carried lock-in: under identical neutral continuations, two relational states established earlier stay ~60 points apart and persist after the establishing prompt is removed; the state integrates evidence rather than springing back, is order-insensitive, and does not deepen with length -- a dynamical signature absent from the belief-drift literature. Second, self-confabulation: the model fabricates its own backstory to deepen rapport (~40% of turns on reciprocity-eliciting material), de-confounded and instruction-removable, distinct from sycophancy and from hallucinating user facts. Our judge is gated by warmth-matched positive and confound-injected negative controls and corroborated by a deterministic non-LLM ruler; human agreement is 0.82 on extreme anchors but ~0 in the naturalistic middle, so all quantitative claims are anchored to pole-separated contrasts.",
+  "authors": [
+   "Jihong Chen"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "10 pages, 2 figures",
+  "first_author": "Jihong Chen",
+  "pdf_url": "http://arxiv.org/pdf/2607.11437",
+  "primary_category": "cs.CL",
+  "published": "2026-07-13",
+  "tags": [],
+  "title": "Relational Positioning as a Measurable Risk Object: History-Carried Lock-in and Self-Confabulation in Multi-Turn Human-AI Dialogue",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.11526": {
+  "abstract": "Material property prediction (MPP) infers key properties from chemical composition and structure, accelerating the discovery and optimization of novel materials. In the realm of MPP, MatBench is a widely accepted benchmarking tool that defines over ten significant problems and provides the paradigm of performance evaluation for AI prediction models. Even though MatBench works well in benchmarking the performances of prediction models on in-distribution (ID) tasks and datasets, it lacks the ability to reflect their performances on out-of-distribution (OOD) material data, resulting failure in new material discovery. By combining the pipelines of MatBench and the existing researches on OOD performance evaluation, this study enables a huge space of benchmarking configurations, comprehensively reflecting the performances, abilities, and disadvantages of various AI prediction models. This work reports that the discrepancy of performances at different configuration values is huge and can be illustrated with prior knowledge and novel insights, therefore consideration of causal effect of configurations on performance results is necessary. In case of the impossibility of enumerative benchmarking at every configuration, this work further proposes AutoMatBench, an automatic toolkit with Bayesian optimization. Experiments with AutoMatBench reports that, within twelve steps of optimization, the similar results with MatBench and former OOD research can be accessed while more than half of the cost are saved. Besides, this tool also yields more essential findings on MPP benchmarking, positively contributing to the cost and efficiency of new material discovery.",
+  "authors": [
+   "Hongxiao Li",
+   "Wanling Gao"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Hongxiao Li",
+  "pdf_url": "http://arxiv.org/pdf/2607.11526",
+  "primary_category": "cs.LG",
+  "published": "2026-07-13",
+  "tags": [
+   "bayesian-optimization",
+   "property-prediction"
+  ],
+  "title": "AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.11783": {
+  "abstract": "Retrieval-Augmented Generation (RAG) has been increasingly adopted to reduce hallucinations and strengthen the factual grounding of large language models (LLMs). While robustness to errors in the retrieval process has been explored, the impact of ideological bias on LLM outputs has been overlooked. For instance, if the retrieved material contains ideological positions, the RAG may transmit, amplify, or suppress such ideological discourses in its outputs. In this study, we address this issue by examining the influence of the RAG framework, comprising ideological discourses, in LLM-generated answers. To this end, we applied Lexical Multidimensional Analysis (LMDA) on a corpus of 1,117 COVID-19 treatment articles, identifying three ideological discourses. This corpus is then used as the external knowledge source for the RAG. We assessed several LLMs by having the models answer ideological questions at different sampling temperatures. The generated texts were assessed semantically and lexically based on their similarities with ideological reference texts. Our findings show that the RAG framework is prone to transferring ideological discourses into LLM responses, with sampling temperature having a measurable impact on the strength of this transfer. Discoursive alignment between generated answers and the reference text is highest at moderate temperatures, where models balance stochasticity with retrieval grounding, and drops at low temperatures, indicating that overly deterministic sampling suppresses discourse transfer.",
+  "authors": [
+   "Elmira Salari",
+   "Hazem Amamou",
+   "José Victor de Souza",
+   "Shruti Kshirsagar",
+   "Maria Nunes Delfino",
+   "Anderson Avila"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Elmira Salari",
+  "pdf_url": "http://arxiv.org/pdf/2607.11783",
+  "primary_category": "cs.CL",
+  "published": "2026-07-13",
+  "tags": [],
+  "title": "How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.11978": {
+  "abstract": "Precision molecular design aims to discover personalized drug candidates through joint control of multiple conditions, such as biological relevance and molecular design strategies. Biological relevance reflects cellular functional states under disease or perturbation conditions, while molecular design strategies provide complementary guidance in terms of structural intentions and property optimization. In this study, we propose JoPMol, a jointly controlled precision molecular generative model that integrates biological states encoded by gene expression profiles with molecular structure information expressed in text, and chemical properties quantified by numerical values within a unified modeling framework. This formulation enables coordinated generation and optimization of candidate molecules under joint condition control. Experimental results show that JoPMol outperforms state-of-the-art methods across multiple evaluation metrics. Moreover, JoPMol demonstrates strong generalization ability in both transfer tasks and biologically grounded simulation scenarios, validating its effectiveness for precision molecular design. The source code is publicly available at https://github.com/hala-yh/JoPMol.",
+  "authors": [
+   "Hang Yuan",
+   "Chen Li",
+   "Wenjun Ma",
+   "Tadahiko Murata",
+   "Yuncheng Jiang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "15 pages, 7 figures, 7 tables. Source code: https://github.com/hala-yh/JoPMol",
+  "first_author": "Hang Yuan",
+  "pdf_url": "http://arxiv.org/pdf/2607.11978",
+  "primary_category": "cs.LG",
+  "published": "2026-07-13",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "Gene Expression-Informed Jointly Controlled Generative Modeling for Precision Molecular Design",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.12771": {
+  "abstract": "Reaction mechanisms consist of the step-by-step sequences of elementary reactions that explain chemical transformations. Learning the mechanism logic is therefore essential for enhancing the fundamental chemical intelligence of large language models (LLMs). The stepwise deduction of reaction mechanism aligns naturally with the reasoning paradigms of reasoning LLMs. However, current chemical LLMs primarily emphasize coarse-grained name reactions for product prediction and retrosynthesis, often leading to physical inconsistencies and hallucinations. In contrast, specialized small-scale generative models for mechanism inference typically suffer from restricted generalization capacity across diverse chemical spaces. To overcome these limitations, we built a novel, large-scale reasoning dataset of reaction mechanisms. Furthermore, we established the FukuyamaBench, a difficult benchmark derived from Fukuyama's Advanced Organic Reaction Mechanism book, to rigorously evaluate model performance on hierarchical mechanism reasoning. Our fine-tuned Qwen3-30B-A3B achieves 8.3% exact pathway match on FukuyamaBench Set~A, surpassing the specialized FlowER model (5.1%), demonstrating that mechanism-aware training substantially enhances chemical reasoning in language models.",
+  "authors": [
+   "Xingyu Dang",
+   "Haocheng Tang",
+   "Junmei Wang",
+   "Yanjun Li"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE",
+   "cs.CL",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Xingyu Dang",
+  "pdf_url": "http://arxiv.org/pdf/2607.12771",
+  "primary_category": "cs.LG",
+  "published": "2026-07-14",
+  "tags": [
+   "chemical-llm",
+   "generative-model",
+   "retrosynthesis"
+  ],
+  "title": "Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-14"
  }
 }

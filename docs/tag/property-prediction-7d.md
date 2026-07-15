@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>property-prediction — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11526.html">AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a></div></td>
+<td>Hongxiao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11526">2607.11526</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10559.html">Large language model agents accelerate inverse design of metal-organic frameworks for gas separation</a></div><div class="paper-tags"><a href="mof-7d.html">mof</a></div></td>
+<td>Zhaolin Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10559">2607.10559</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07339.html">Machine Learning Materials Properties by Encoding Orbital-Projected Density of States</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="gnn-7d.html">gnn</a></div></td>
@@ -32,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
 <td>Claudio Meggio et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05736.html">Multimodal Molecular Representation Learning with Graph Neural Networks, Deep &amp; Cross Networks, and SMILES Embeddings</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="gnn-7d.html">gnn</a></div></td>
-<td>Qiwei Han et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05736">2607.05736</a></td>
 </tr>
 </tbody></table>

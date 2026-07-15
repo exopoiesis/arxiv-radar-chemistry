@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">337 papers</span>
+  <span class="paper-count">327 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1976,65 +1976,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25941.html">Molecular Dynamics Force Field Genetic Optimization for Tri-n-butyl Phosphate Liquid</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Faranak Hatami et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25941">2604.25941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04969.html">Systematic study of flow of protons and light clusters in intermediate-energy heavy-ion collisions with momentum-dependent potentials</a></div></td>
-<td>Viktar Kireyeu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04969">2411.04969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05909.html">Towards a Universal Foundation Model for Protein Dynamics: A Multi-Chain Tree-Structured Framework with Transformer Propagators</a></div></td>
-<td>Jinzhen Zhu</td>
-<td><a href="http://arxiv.org/abs/2502.05909">2502.05909</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07043.html">Uni2D: A Universal Machine Learning Interatomic Potential for Two-Dimensional Materials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Haidi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07043">2506.07043</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12575.html">Shape optimization of metastable states</a></div></td>
-<td>Noé Blassel et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12575">2507.12575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10536.html">Heat Conduction in Momentum-Conserving Fluids: From quasi-2D to 3D systems</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Rongxiang Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10536">2604.10536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13499.html">Coarse-Grained Model of the Sodium Dodecyl Sulfate Anionic Surfactant Based on the MDPD--Martini Force Field</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Luís H. Carnevale et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13499">2604.13499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13741.html">Universal thermometry of solid-liquid interfacial thermal conductance</a></div></td>
-<td>Tao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13741">2604.13741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13768.html">Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Erik Fransson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13768">2604.13768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13897.html">MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Adam Lahouari et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13897">2604.13897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14241.html">Polyformer: a generative framework for thermodynamic modeling of polymeric molecules</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Alessio Valentini et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14241">2604.14241</a></td>
 </tr>
 </tbody></table>

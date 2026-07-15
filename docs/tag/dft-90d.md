@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">435 papers</span>
+  <span class="paper-count">429 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,6 +206,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05616.html">Raman spectroscopy of the van der Waals altermagnet Co$_{1/4}$NbSe$_2$</a></div><div class="paper-tags"><a href="tmd-90d.html">tmd</a></div></td>
 <td>Dushyanthini Balasundaram et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05616">2607.05616</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09761.html">SlaKoNet-VQD: A universal Slater-Koster tight-binding Hamiltonian for variational quantum band-structure calculations on near-term hardware</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Akshaya Ajith et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09761">2607.09761</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-05</td>
@@ -2582,47 +2588,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15156.html">Lattice dynamics and complete polarization analysis of Raman-active modes in LaInO$_3$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Jonas Rose et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15156">2604.15156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19519.html">Current-Driven Symmetry Breaking and Spin-Orbit Polarization in Chiral Wires</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Uiseok Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19519">2508.19519</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19818.html">The orbital-driven topological phase transition and planar Hall responses in ternary tellurides Weyl semi-metals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Banasree Sadhukhan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19818">2509.19818</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19746.html">An activation-relaxation technique study of two-level system impact on internal dissipation using DFT-based moment tensor potential</a></div></td>
-<td>Renaude Girard et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19746">2511.19746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13653.html">Ternary liquid crystalline mixture showing broad antiferroelectric smectic C$_A$* and glassy hexatic smectic X$_A$* phases</a></div></td>
-<td>Aleksandra Deptuch et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13653">2604.13653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13751.html">Probing the real-space density of spin-entangled electrons</a></div></td>
-<td>Federico Pisani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13751">2604.13751</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13843.html">On phase separation and crystallization of Ge-rich GeSbTe alloys from atomistic simulations with a machine learning interatomic potential</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Omar Abou El Kheir et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13843">2604.13843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14377.html">Configuration-dependent electronic and optical properties of 2D Mo$_{1-x}$W$_x$S$_2$ alloys across the full composition range</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>M. Szyszko et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14377">2604.14377</a></td>
 </tr>
 </tbody></table>

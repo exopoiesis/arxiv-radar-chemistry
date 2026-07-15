@@ -52,6 +52,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.05337">2607.05337</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09761.html">SlaKoNet-VQD: A universal Slater-Koster tight-binding Hamiltonian for variational quantum band-structure calculations on near-term hardware</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Akshaya Ajith et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09761">2607.09761</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04116.html">Electronic Structure, Optical Response, Thermal and Mechanical Behavior of B6X (X = S, Se) under Pressure: A Comprehensive Ab-initio Exploration</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Sourav Kumar Sutradhar et al.</td>
@@ -2666,11 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15011.html">Quantum Capacitance and Electronic Properties of a Hexagonal Boron Nitride based FET Gas Sensor</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Saumen Acharjee</td>
 <td><a href="http://arxiv.org/abs/2507.15011">2507.15011</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14514.html">Possible Orthorhombic Phase of Ta$_2$O$_5$ under High Pressures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Yan Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14514">2507.14514</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,17 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14609.html">El Agente Forjador: Task-Driven Agent Generation for Quantum Simulation</a></div></td>
 <td>Zijian Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14609">2604.14609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01942.html">On the Quantum Theory of Molecules: Rigour, Idealization, and Uncertainty</a></div></td>
-<td>Nick Huggett et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01942">2411.01942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13753.html">Critical point search and linear response theory for computing electronic excitation energies of molecular systems. Part II. CASSCF</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Laura Grazioli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13753">2604.13753</a></td>
 </tr>
 </tbody></table>

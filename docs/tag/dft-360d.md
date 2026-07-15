@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2080 papers</span>
+  <span class="paper-count">2076 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,6 +206,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05616.html">Raman spectroscopy of the van der Waals altermagnet Co$_{1/4}$NbSe$_2$</a></div><div class="paper-tags"><a href="tmd-360d.html">tmd</a></div></td>
 <td>Dushyanthini Balasundaram et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05616">2607.05616</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09761.html">SlaKoNet-VQD: A universal Slater-Koster tight-binding Hamiltonian for variational quantum band-structure calculations on near-term hardware</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Akshaya Ajith et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09761">2607.09761</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-05</td>
@@ -12464,35 +12470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15131.html">Entropy Production from Density Field Theories for interacting particles systems</a></div></td>
 <td>Antonin Brossollet et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15131">2507.15131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02965.html">Electronic structure of liquid xenon in the context of light dark matter direct detection</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Riccardo Catena et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02965">2502.02965</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14416.html">Phonon density of states of magnetite (\ce{Fe3O4}) nanoparticles via molecular dynamics simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pablo Galaviz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14416">2507.14416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14435.html">Critical angles and one-dimensional moiré physics in twisted rectangular lattices</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Dongdong An et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14435">2507.14435</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14514.html">Possible Orthorhombic Phase of Ta$_2$O$_5$ under High Pressures</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Yan Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14514">2507.14514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14674.html">Time-resolved solvation of alkali ions in superfluid helium nanodroplets: Theoretical simulation of a pump-probe study</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Ernesto García-Alfonso et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14674">2507.14674</a></td>
 </tr>
 </tbody></table>

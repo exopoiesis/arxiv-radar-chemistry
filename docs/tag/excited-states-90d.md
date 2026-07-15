@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,23 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15126.html">Toward Accurate RIXS Spectra at Heavy Element Edges: A Relativistic Four-Component and Exact Two-Component TDDFT Approach</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Lukas Konecny et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15126">2604.15126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19519.html">Current-Driven Symmetry Breaking and Spin-Orbit Polarization in Chiral Wires</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Uiseok Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19519">2508.19519</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13753.html">Critical point search and linear response theory for computing electronic excitation energies of molecular systems. Part II. CASSCF</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Laura Grazioli et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13753">2604.13753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13766.html">Spectroscopy of $^{11}$Be from the $^{10}$Be($d,p$) reaction measured in inverse kinematics by the AT-TPC in SOLARIS</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>M. Z. Serikow et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13766">2604.13766</a></td>
 </tr>
 </tbody></table>

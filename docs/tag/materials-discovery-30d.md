@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
+<td>Victor Wen-zhe Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14025">2607.14025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13301.html">Precision quantum simulation of magnon spectra and interactions</a></div></td>
+<td>Trond I. Andersen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13301">2607.13301</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10388.html">The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy</a></div></td>
@@ -98,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20729.html">LLM-Guided Test-Time Discovery of Quantum-Chemical Approximation Algorithms</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="mlip-30d.html">mlip</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Masaya Hagai et al.</td>
 <td><a href="http://arxiv.org/abs/2606.20729">2606.20729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Wen-Kao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16133">2606.16133</a></td>
 </tr>
 </tbody></table>

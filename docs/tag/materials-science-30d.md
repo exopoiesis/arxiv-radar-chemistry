@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
+<td>Victor Wen-zhe Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14025">2607.14025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10669.html">Modernizing HEBO: a robust Bayesian optimization baseline for practical heteroskedastic and non-stationary problems</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
+<td>L. A. Zhukov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10669">2607.10669</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07090.html">Ethaline deep eutectic solvent under nanoconfinement: Unveiling structural and dynamical changes</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -98,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17852.html">Split-Head Quantum Generative Adversarial Network for Crystalline Material Discovery</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Huan-Ming Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17852">2606.17852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16870.html">Latent Space Reinforcement Learning for Inverse Material Estimation in Food Fracture Simulation</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Adrian Ramlal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16870">2606.16870</a></td>
 </tr>
 </tbody></table>

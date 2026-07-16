@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,17 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15888.html">Enhancing Neural-Network Variational Monte Carlo through Basis Transformation</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Zhixuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15888">2604.15888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14894.html">Reversable phase transitions in ferroic two-dimensional Nb2O2I4 through optically excited coherent phonons</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Chuanlin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14894">2604.14894</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15491.html">Electronic Signature of Melting Onset in Polycrystalline Copper at Extreme Conditions</a></div></td>
-<td>Edna R. Toro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15491">2604.15491</a></td>
 </tr>
 </tbody></table>

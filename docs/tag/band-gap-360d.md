@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">443 papers</span>
+  <span class="paper-count">447 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13846.html">First-principles Study of Structural and Electronic Properties of Mn-doped Cu2NiXY4 (X=Sn, Ge, Si; Y=S, Se) Chalcogenide Semiconductors</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Iskandar Raufzoda et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13846">2607.13846</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12783.html">Photogeneration and signatures of coherent phonons in time-resolved photoemission spectroscopy: First-principles time-dependent adiabatic GW approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Yang-hao Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12783">2607.12783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11790.html">Strain-controlled crystalline--amorphous transition and flat-band tuning in buckled silicon kagome</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Chenhaoyue Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11790">2607.11790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10030.html">Alloy engineering of Magnetic phases in two-dimensional Chromium Trihalides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Pedro Roberto Lopes Vieira et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10030">2607.10030</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
 <td>Philip Schwinghammer et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08941.html">Ab initio calculations of $^{229}$Th band-to-band internal conversion rate in $^{229}$ThO$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Udeshika C. Perera et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08941">2607.08941</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -2666,11 +2696,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15430.html">Data-driven Discovery of Novel High-performance Quaternary Chalcogenide Photovoltaics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Nikhil Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15430">2507.15430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15011.html">Quantum Capacitance and Electronic Properties of a Hexagonal Boron Nitride based FET Gas Sensor</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Saumen Acharjee</td>
-<td><a href="http://arxiv.org/abs/2507.15011">2507.15011</a></td>
 </tr>
 </tbody></table>

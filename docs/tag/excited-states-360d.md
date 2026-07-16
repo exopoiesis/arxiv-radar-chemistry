@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Victor Wen-zhe Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14025">2607.14025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12843.html">Strong-Field Coulomb Explosion of Ethane, Propane, and Butane in Circularly Polarized Laser Fields</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Yuxuan Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12843">2607.12843</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08178.html">State-Averaged Density Matrix Embedding Theory for Local Excitations</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Zhe-Bin Guan et al.</td>
@@ -1340,17 +1352,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15430.html">Data-driven Discovery of Novel High-performance Quaternary Chalcogenide Photovoltaics</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Nikhil Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15430">2507.15430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15703.html">Floquet optical selection rules in black phosphorus</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Benshu Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15703">2501.15703</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14880.html">Simultaneous determination of multiple low-energy eigenstates of many-body systems on a superconducting quantum processor</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Huili Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14880">2507.14880</a></td>
 </tr>
 </tbody></table>

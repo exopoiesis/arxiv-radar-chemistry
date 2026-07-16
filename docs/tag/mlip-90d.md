@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Leonard Moracchini et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13757">2607.13757</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11253.html">Impact of Electronic Energy Dissipation on Primary Radiation Damage Formation in Silicon</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Nadezda Korepanova et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11253">2607.11253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a></div></td>
+<td>Jan Eckwert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09005.html">Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Ziyu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09005">2607.09005</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09456.html">Active rejection enables reliable generalization of universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Mingxiang Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09456">2607.09456</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Swagata Acharya et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08351">2607.08351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08957.html">Structural Origin of Water Heat Capacity Anomaly from Classical and Quantum Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Kam-Tung Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08957">2607.08957</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -806,29 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15952.html">Machine-Learned Interatomic Potential for Predictive Simulation of MoS2 Epitaxy</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Emir Bilgili et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15952">2512.15952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02688.html">MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Chenmu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02688">2604.02688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13659.html">Ion-Specific Anomalous Water Diffusion in Aqueous Electrolytes: A Machine-Learned Many-Body Force Field Study with MACE</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Massimo Ciacchi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13659">2604.13659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15394.html">Atomic-scale order enables high thermal boundary conductance at $β$-Ga$_2$O$_3$/4H-SiC interfaces</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Hongao Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15394">2604.15394</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25941.html">Molecular Dynamics Force Field Genetic Optimization for Tri-n-butyl Phosphate Liquid</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Faranak Hatami et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25941">2604.25941</a></td>
 </tr>
 </tbody></table>

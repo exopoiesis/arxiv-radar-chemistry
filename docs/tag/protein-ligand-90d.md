@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12349.html">Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Ruoxi Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12349">2607.12349</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13155.html">HEDGEHOG: Hierarchical Evaluation of Drug Generators Through Rigorous Filtration</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Daria A. Ryabchenko et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13155">2607.13155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12060.html">Molecular Docking with Quantum Circuit Evolution</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Gleydson Fernandes de Jesus et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12060">2607.12060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12117.html">Measuring the Re-executability of Published Molecular Docking Claims</a></div></td>
+<td>Vincent Giap et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12117">2607.12117</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08404.html">DrugGen 2: A disease-aware language model for enhancing drug discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
@@ -26,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02749.html">Graph-VQE: A CUDA-Q Multi-QPU Simulation Framework for Hamiltonian-Aware Protein-Folding VQE</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Yujun Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02749">2607.02749</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09737.html">Q-Score: A Quantum-Native Scoring Function for Molecular Docking</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Kangyu Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09737">2607.09737</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>
@@ -230,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16550.html">An Interpretable Framework Applying Protein Words to Predict Protein-Small Molecule Complementary Pairing Rules</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Jingke Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16550">2604.16550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05472.html">Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Peidong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05472">2411.05472</a></td>
 </tr>
 </tbody></table>

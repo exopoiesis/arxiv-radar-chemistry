@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Victor Wen-zhe Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14025">2607.14025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13301.html">Precision quantum simulation of magnon spectra and interactions</a></div></td>
+<td>Trond I. Andersen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13301">2607.13301</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10388.html">The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy</a></div></td>
 <td>Evropi Toulkeridou et al.</td>
@@ -338,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19814.html">Quantum Integrated High-Performance Computing: Foundations, Architectural Elements and Future Directions</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Suman Raj et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19814">2604.19814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02688.html">MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Chenmu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02688">2604.02688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14082.html">Generative design of inorganic materials</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Jose Recatala-Gomez et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14082">2604.14082</a></td>
 </tr>
 </tbody></table>

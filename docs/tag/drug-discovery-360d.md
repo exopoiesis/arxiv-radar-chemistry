@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">553 papers</span>
+  <span class="paper-count">560 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12349.html">Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Ruoxi Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12349">2607.12349</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Sarina Kopf et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12488">2607.12488</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13155.html">HEDGEHOG: Hierarchical Evaluation of Drug Generators Through Rigorous Filtration</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Daria A. Ryabchenko et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13155">2607.13155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13309.html">Fundamental Relation between Conductance of Biomolecules and the Fukui Function</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Gabor Vattay</td>
+<td><a href="http://arxiv.org/abs/2607.13309">2607.13309</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11701.html">$\mathtt{Q^2SAR}$: overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Mariano Caruso et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11701">2607.11701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12060.html">Molecular Docking with Quantum Circuit Evolution</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Gleydson Fernandes de Jesus et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12060">2607.12060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08404.html">DrugGen 2: A disease-aware language model for enhancing drug discovery</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
@@ -80,6 +116,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02749.html">Graph-VQE: A CUDA-Q Multi-QPU Simulation Framework for Hamiltonian-Aware Protein-Folding VQE</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Yujun Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02749">2607.02749</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09737.html">Q-Score: A Quantum-Native Scoring Function for Molecular Docking</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Kangyu Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09737">2607.09737</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-01</td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>crystal-structure — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <strong>90d</strong> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12806.html">Single-orbital tight-binding model for chiral one-dimensional hybrid organic-inorganic lead halide perovskites</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Yuya Ominato et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12806">2607.12806</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09910.html">Auditing Machine-Learning Models and Their Training Data with Explainability and First-Principles Verification: Application to Spin Hall Conductivity</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Mohammed Mahshook et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09910">2607.09910</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
@@ -332,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18865.html">Electrochemical reactions under reverse bias create additional mobile ions that enable hole tunneling in metal halide perovskite diodes</a></div></td>
 <td>Kell Fremouw et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18865">2604.18865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08937.html">Pressure-induced thermal expansion anomalies in dhcp iron hydride associated with magnetoelastic coupling</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Yuichiro Mori et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08937">2501.08937</a></td>
 </tr>
 </tbody></table>

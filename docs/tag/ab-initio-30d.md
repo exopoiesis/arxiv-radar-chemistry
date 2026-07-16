@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,114 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13400.html">Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Shovan Gayen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13400">2607.13400</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Leonard Moracchini et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13757">2607.13757</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13781.html">jQMC: A JAX-based ab initio quantum Monte Carlo package designed for GPU-accelerated computing</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Kousuke Nakano et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13781">2607.13781</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12388.html">Magnetic Contributions to Phase Stability in the Co-Ni Binary: A First-Principles CALPHAD Study</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Prajna Jalagam et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12388">2607.12388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12783.html">Photogeneration and signatures of coherent phonons in time-resolved photoemission spectroscopy: First-principles time-dependent adiabatic GW approach</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
+<td>Yang-hao Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12783">2607.12783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Tetsuji Kuboyama et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11105">2607.11105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11406.html">Ab initio path integral Monte Carlo study of the 2D uniform electron liquid at finite temperatures</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Tobias Dornheim et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11406">2607.11406</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11452.html">Ab initio study of $β$-decay and pairing in $N=Z$ nuclei</a></div></td>
+<td>Subhrajit Sahoo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11452">2607.11452</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11733.html">Ab initio calculations of two-neutrino and neutrinoless double-$\boldsymbolβ$ decay of $^{48}$Ca and related Gamow-Teller strength distributions</a></div></td>
+<td>Zhen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11733">2607.11733</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11790.html">Strain-controlled crystalline--amorphous transition and flat-band tuning in buckled silicon kagome</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Chenhaoyue Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11790">2607.11790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12213.html">Analytical solution of the Eliashberg equations for strong-coupling superconductivity in hydrides</a></div></td>
+<td>Tomas J. Escamilla et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12213">2607.12213</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Jan Eckwert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10063.html">Polarization Rotation Drives a Spin-Topological Transition in Ferroelectric Bismuth Monolayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jinming Zhai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10063">2607.10063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10211.html">Self-Consistent Phonon Spectral Functions and Thermal Transport Beyond the Quasiparticle Approximation</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Yi Xia</td>
+<td><a href="http://arxiv.org/abs/2607.10211">2607.10211</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09005.html">Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Ziyu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09005">2607.09005</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09129.html">Symmetry-constrained low-energy effective Hamiltonian for topological RuC and OsC monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>A. Baradaran et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09129">2607.09129</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09201.html">The gravitational-wave fingerprint of dynamically assembled primordial black hole cluster seeds in JWST&#x27;s Little Red Dots</a></div></td>
+<td>Juan Garcia-Bellido</td>
+<td><a href="http://arxiv.org/abs/2607.09201">2607.09201</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09897.html">Absence of a shell closure in $^{140}$Sn</a></div></td>
+<td>Francesca Bonaiti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09897">2607.09897</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
@@ -32,6 +140,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Matthew Bousquet et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08941.html">Ab initio calculations of $^{229}$Th band-to-band internal conversion rate in $^{229}$ThO$_2$</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
+<td>Udeshika C. Perera et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08941">2607.08941</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -398,29 +512,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18163.html">Dynamical properties of ab initio water from machine-learning potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>P. Montero de Hijes et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18163">2606.18163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16133.html">InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Wen-Kao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16133">2606.16133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16385.html">Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Shuwei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16385">2606.16385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16416.html">Twistronic control of shift current in multilayer moiré system</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Michele Bagaglini et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16416">2606.16416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16859.html">Transferable machine learning of excited-state dynamics with extremal pooling</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Cesare Malosso et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16859">2606.16859</a></td>
 </tr>
 </tbody></table>

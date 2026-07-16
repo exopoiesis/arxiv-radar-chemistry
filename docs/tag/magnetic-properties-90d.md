@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13400.html">Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Shovan Gayen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13400">2607.13400</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11625.html">Chiral and $U(1)_A$ symmetries in background magnetic fields from lattice QCD</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
+<td>Heng-Tong Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11625">2607.11625</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10937.html">A minimal model for the Weyl nodes and Fermi arcs of PtBi$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Tobias Cristófoli et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10937">2607.10937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09129.html">Symmetry-constrained low-energy effective Hamiltonian for topological RuC and OsC monolayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>A. Baradaran et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09129">2607.09129</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
@@ -434,23 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15985.html">Machine Learning and Deep Learning in Quantum Materials: Symmetry, Topology, and the Rise of Altermagnets</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Mahyar Hassani-Vasmejani et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15985">2604.15985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08937.html">Pressure-induced thermal expansion anomalies in dhcp iron hydride associated with magnetoelastic coupling</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Yuichiro Mori et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08937">2501.08937</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14764.html">Nonmagnetic-magnetic Transitions in Rutile RuO2</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Yue-Fei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14764">2604.14764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15419.html">Singlet-only always-on gapless exchange (SAGE) spin qubits: Charge noise effects and two-qubit gates</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Nathan L. Foulk et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15419">2604.15419</a></td>
 </tr>
 </tbody></table>

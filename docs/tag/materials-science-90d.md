@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Victor Wen-zhe Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14025">2607.14025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10669.html">Modernizing HEBO: a robust Bayesian optimization baseline for practical heteroskedastic and non-stationary problems</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
+<td>L. A. Zhukov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10669">2607.10669</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07090.html">Ethaline deep eutectic solvent under nanoconfinement: Unveiling structural and dynamical changes</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Kamar Mohammad Nadim et al.</td>
@@ -416,17 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16928.html">Correlation-Converged Virtual Orbitals for Accurate and Efficient Quantum Molecular Simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Qian Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16928">2604.16928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03686.html">AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Jiangyu Chen</td>
-<td><a href="http://arxiv.org/abs/2603.03686">2603.03686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02688.html">MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Chenmu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02688">2604.02688</a></td>
 </tr>
 </tbody></table>

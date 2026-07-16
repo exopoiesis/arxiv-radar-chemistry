@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,96 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Leonard Moracchini et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13757">2607.13757</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Mohamed Houssein Mohamed et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13777">2607.13777</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13966.html">Confinement effects on protein stability in a freezing water environment</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Yanis R. Espinosa et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13966">2607.13966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11135.html">Molecular Dynamics-Derived Coloured Noise Mediates Anderson Localisation and Environment-Assisted Transport of Tryptophan Excitons in Tubulin</a></div></td>
+<td>Chen Xin</td>
+<td><a href="http://arxiv.org/abs/2607.11135">2607.11135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12978.html">Sensing the properties of virtual objects without physical feedback</a></div></td>
+<td>Rhoslyn Roebuck Williams et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12978">2607.12978</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13195.html">Reverse translocation of a nascent polypeptide through the ribosomal exit tunnels</a></div></td>
+<td>Felipe C. Nepomuceno et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13195">2607.13195</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11217.html">Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Seenivasan Hariharan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11217">2607.11217</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11253.html">Impact of Electronic Energy Dissipation on Primary Radiation Damage Formation in Silicon</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Nadezda Korepanova et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11253">2607.11253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10847.html">Thawed Gaussian Ehrenfest dynamics</a></div></td>
+<td>Jiří J. L. Vaníček</td>
+<td><a href="http://arxiv.org/abs/2607.10847">2607.10847</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10063.html">Polarization Rotation Drives a Spin-Topological Transition in Ferroelectric Bismuth Monolayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Jinming Zhai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10063">2607.10063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10211.html">Self-Consistent Phonon Spectral Functions and Thermal Transport Beyond the Quasiparticle Approximation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Yi Xia</td>
+<td><a href="http://arxiv.org/abs/2607.10211">2607.10211</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10440.html">Connecting Diffuse Scattering to Atomic-Site-Resolved Occupancy and Displacement Fields through Fourier Filtering</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Maksim Eremenko et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10440">2607.10440</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09005.html">Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Ziyu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09005">2607.09005</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09456.html">Active rejection enables reliable generalization of universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Mingxiang Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09456">2607.09456</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09592.html">A Semiclassical Gaussian Wavepacket Method for Non-Adiabatic Molecular Dynamics</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Lorenzo Bocchi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09592">2607.09592</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
@@ -32,6 +122,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Matthew Bousquet et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div></td>
+<td>Zuzanna Malinowska-Trzmielak et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08868">2607.08868</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08957.html">Structural Origin of Water Heat Capacity Anomaly from Classical and Quantum Simulations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Kam-Tung Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08957">2607.08957</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -446,29 +548,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18477.html">Hydration-controlled twist forms a moiré glass in charge-frustrated layered silicates</a></div></td>
 <td>Juhyeok Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18477">2606.18477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>James F. Tallman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16385.html">Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Shuwei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16385">2606.16385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16500.html">Estimating the disjoining pressure of liquid nanofilms from molecular dynamics simulations via implicit treatment of the bulk liquid phase</a></div></td>
-<td>Wang Jianzhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16500">2606.16500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16550.html">Lattice Matching Dictates the Growth Mode and Quality of Deuterium Crystallization in Confined Spherical Shells</a></div></td>
-<td>Peng Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16550">2606.16550</a></td>
 </tr>
 </tbody></table>

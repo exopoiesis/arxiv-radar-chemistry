@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">549 papers</span>
+  <span class="paper-count">554 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12783.html">Photogeneration and signatures of coherent phonons in time-resolved photoemission spectroscopy: First-principles time-dependent adiabatic GW approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td>Yang-hao Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12783">2607.12783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11550.html">Synthesis of Ti2B2Clx MBenes in molten salts from theoretical and experimental perspectives</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Rodrigo M. Ronchi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11550">2607.11550</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11790.html">Strain-controlled crystalline--amorphous transition and flat-band tuning in buckled silicon kagome</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Chenhaoyue Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11790">2607.11790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10063.html">Polarization Rotation Drives a Spin-Topological Transition in Ferroelectric Bismuth Monolayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jinming Zhai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10063">2607.10063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10457.html">Chiral, Electronically Decoupled Layers of 1T&#x27;-WS2 Topological Insulator via Neutral-Molecule Intercalation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Jiaze Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10457">2607.10457</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09129.html">Symmetry-constrained low-energy effective Hamiltonian for topological RuC and OsC monolayers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>A. Baradaran et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09129">2607.09129</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09652.html">Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>David W. Kanaar et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09652">2607.09652</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06995.html">Surface-Reconstruction-Driven Insulating Behavior in Metallic Charge-Density-Wave 1T-TaSe$_{2}$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
@@ -3296,17 +3338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12788.html">Structure determination of flat honeycomb Bi grown on Ag(111)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Ziyong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12788">2507.12788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15703.html">Floquet optical selection rules in black phosphorus</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Benshu Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15703">2501.15703</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15011.html">Quantum Capacitance and Electronic Properties of a Hexagonal Boron Nitride based FET Gas Sensor</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Saumen Acharjee</td>
-<td><a href="http://arxiv.org/abs/2507.15011">2507.15011</a></td>
 </tr>
 </tbody></table>

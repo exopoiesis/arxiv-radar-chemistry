@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07611.html">Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
-<td>Faranak Hatami et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07611">2607.07611</a></td>
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11701.html">$\mathtt{Q^2SAR}$: overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="quantum-computing-7d.html">quantum-computing</a></div></td>
+<td>Mariano Caruso et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11701">2607.11701</a></td>
 </tr>
 </tbody></table>

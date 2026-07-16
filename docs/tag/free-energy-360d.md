@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">362 papers</span>
+  <span class="paper-count">367 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Mohamed Houssein Mohamed et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13777">2607.13777</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13966.html">Confinement effects on protein stability in a freezing water environment</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yanis R. Espinosa et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13966">2607.13966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12388.html">Magnetic Contributions to Phase Stability in the Co-Ni Binary: A First-Principles CALPHAD Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Prajna Jalagam et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12388">2607.12388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11550.html">Synthesis of Ti2B2Clx MBenes in molten salts from theoretical and experimental perspectives</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Rodrigo M. Ronchi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11550">2607.11550</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09592.html">A Semiclassical Gaussian Wavepacket Method for Non-Adiabatic Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Lorenzo Bocchi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09592">2607.09592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10030.html">Alloy engineering of Magnetic phases in two-dimensional Chromium Trihalides</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Pedro Roberto Lopes Vieira et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10030">2607.10030</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08220.html">Quantum linear solvers for quantum chemistry: prospects of exponential quantum advantage</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
@@ -2180,11 +2216,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15354.html">High pressure and temperature thermoelasticity of hcp osmium from ab initio quasi-harmonic theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Xuejun Gong et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15354">2507.15354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14880.html">Simultaneous determination of multiple low-energy eigenstates of many-body systems on a superconducting quantum processor</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Huili Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14880">2507.14880</a></td>
 </tr>
 </tbody></table>

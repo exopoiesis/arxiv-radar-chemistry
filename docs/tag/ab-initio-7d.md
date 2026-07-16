@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,114 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13400.html">Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Shovan Gayen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13400">2607.13400</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Leonard Moracchini et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13757">2607.13757</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13781.html">jQMC: A JAX-based ab initio quantum Monte Carlo package designed for GPU-accelerated computing</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Kousuke Nakano et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13781">2607.13781</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12388.html">Magnetic Contributions to Phase Stability in the Co-Ni Binary: A First-Principles CALPHAD Study</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Prajna Jalagam et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12388">2607.12388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12783.html">Photogeneration and signatures of coherent phonons in time-resolved photoemission spectroscopy: First-principles time-dependent adiabatic GW approach</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
+<td>Yang-hao Chan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12783">2607.12783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Tetsuji Kuboyama et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11105">2607.11105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11406.html">Ab initio path integral Monte Carlo study of the 2D uniform electron liquid at finite temperatures</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Tobias Dornheim et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11406">2607.11406</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11452.html">Ab initio study of $β$-decay and pairing in $N=Z$ nuclei</a></div></td>
+<td>Subhrajit Sahoo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11452">2607.11452</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11733.html">Ab initio calculations of two-neutrino and neutrinoless double-$\boldsymbolβ$ decay of $^{48}$Ca and related Gamow-Teller strength distributions</a></div></td>
+<td>Zhen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11733">2607.11733</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11790.html">Strain-controlled crystalline--amorphous transition and flat-band tuning in buckled silicon kagome</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Chenhaoyue Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11790">2607.11790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12213.html">Analytical solution of the Eliashberg equations for strong-coupling superconductivity in hydrides</a></div></td>
+<td>Tomas J. Escamilla et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12213">2607.12213</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Jan Eckwert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10063.html">Polarization Rotation Drives a Spin-Topological Transition in Ferroelectric Bismuth Monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jinming Zhai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10063">2607.10063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10211.html">Self-Consistent Phonon Spectral Functions and Thermal Transport Beyond the Quasiparticle Approximation</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Yi Xia</td>
+<td><a href="http://arxiv.org/abs/2607.10211">2607.10211</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09005.html">Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
+<td>Ziyu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09005">2607.09005</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09129.html">Symmetry-constrained low-energy effective Hamiltonian for topological RuC and OsC monolayers</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>A. Baradaran et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09129">2607.09129</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09201.html">The gravitational-wave fingerprint of dynamically assembled primordial black hole cluster seeds in JWST&#x27;s Little Red Dots</a></div></td>
+<td>Juan Garcia-Bellido</td>
+<td><a href="http://arxiv.org/abs/2607.09201">2607.09201</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09897.html">Absence of a shell closure in $^{140}$Sn</a></div></td>
+<td>Francesca Bonaiti et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09897">2607.09897</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="photocatalysis-7d.html">photocatalysis</a></div></td>
@@ -34,57 +142,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06969.html">AI2Pot: A scalable and unified framework for machine-learning interatomic potential development and large-scale molecular dynamic simulations</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Hanyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06969">2607.06969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07067.html">Ab initio thermodynamic statistical modeling of the miscibility gap and the metal-insulator phase transition in SrTi$_{1-x}$V$_x$O$_{3}$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Luka Wibmer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07067">2607.07067</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07125.html">Density effects in precision laser spectroscopy of exotic helium atoms</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Hubert J. Jóźwiak et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07125">2607.07125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07339.html">Machine Learning Materials Properties by Encoding Orbital-Projected Density of States</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="gnn-7d.html">gnn</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Paulo Pires et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07339">2607.07339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07341.html">Ab Initio Investigation of Pressure Effects in the Spin-Liquid Candidate Y-Kapellasite</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Federico Abbruciati et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07341">2607.07341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07606.html">MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Manas Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07606">2607.07606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07642.html">Acoustic-phonon-driven spin-lattice relaxation of the hBN boron vacancy in the sub-THz regime</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Priyo Adhikary et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07642">2607.07642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07804.html">Electron-Phonon Functional Renormalization Group of Fermi Liquid Instabilities</a></div></td>
-<td>C. Alexander Baum et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07804">2607.07804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07983.html">Theoretical ab initio Evolution of Satellite Intensity near Threshold for Cu K-shell transitions</a></div></td>
-<td>Daniel Pinheiro et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07983">2607.07983</a></td>
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08941.html">Ab initio calculations of $^{229}$Th band-to-band internal conversion rate in $^{229}$ThO$_2$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
+<td>Udeshika C. Perera et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08941">2607.08941</a></td>
 </tr>
 </tbody></table>

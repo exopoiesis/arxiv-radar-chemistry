@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">303 papers</span>
+  <span class="paper-count">307 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Sarina Kopf et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12488">2607.12488</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11625.html">Chiral and $U(1)_A$ symmetries in background magnetic fields from lattice QCD</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Heng-Tong Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11625">2607.11625</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11712.html">CatRetriever: Contrastive Representation Learning for Slab-to-Bulk Retrieval in Generative Catalyst Discovery</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Jungho Oh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11712">2607.11712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10646.html">Enhanced diffusion of colloidal tracers due to enzymatic activity</a></div></td>
+<td>Mauricio Gomez et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10646">2607.10646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09024.html">Video Generation Models are General-Purpose Vision Learners</a></div></td>
+<td>Letian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09024">2607.09024</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -26,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08149.html">Generation and Characterization of Surface-Attached Ultrathin Liquid Sheets for Grazing-Incidence X-ray Scattering</a></div></td>
 <td>Yibo Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08149">2607.08149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08922.html">Seeing inside a Plasmonic Nanogap: Few-molecule Orientation and Preferential Adsorption</a></div></td>
+<td>Francesco Ciccarello et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08922">2607.08922</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -1820,17 +1856,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17891.html">Analysis of Fe and Co binary catalysts in chemical vapor deposition growth of single-walled carbon nanotubes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Qingmei Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17891">2507.17891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13274.html">Analysis Theory of Data Economy: Dataization, Technological Progress and Dynamic General Equilibrium</a></div></td>
-<td>Yongheng Hu</td>
-<td><a href="http://arxiv.org/abs/2507.13274">2507.13274</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14781.html">Size-Dependent Lattice Pseudosymmetry for Frustrated Decahedral Nanoparticles</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Oliver Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14781">2507.14781</a></td>
 </tr>
 </tbody></table>

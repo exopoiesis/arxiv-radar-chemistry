@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>retrosynthesis — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <strong>90d</strong> <a href="retrosynthesis-360d.html">360d</a> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,23 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01822.html">Molecular Representations for Large Language Models</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Nicholas T. Runcie et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01822">2605.01822</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21569.html">ChemAmp: Amplified Chemistry Tools via Composable Agents</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Zhucong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21569">2505.21569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05722.html">Teaching Language Models Mechanistic Explainability Through MechSMILES</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Théo A. Neukomm et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05722">2512.05722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16671.html">Deep learning directed synthesis of fluid ferroelectric materials</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Charles Parton-Barr et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16671">2512.16671</a></td>
 </tr>
 </tbody></table>

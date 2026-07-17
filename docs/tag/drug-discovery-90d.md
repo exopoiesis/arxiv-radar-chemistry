@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,41 +584,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17175.html">RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Meghana Kshirsagar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17175">2604.17175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21010.html">Bridging the phenotype-target gap for molecular generation via multi-objective reinforcement learning</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Haotian Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21010">2509.21010</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16671.html">Deep learning directed synthesis of fluid ferroelectric materials</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Charles Parton-Barr et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16671">2512.16671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16279.html">Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Shriram Chennakesavalu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16279">2604.16279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16550.html">An Interpretable Framework Applying Protein Words to Predict Protein-Small Molecule Complementary Pairing Rules</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Jingke Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16550">2604.16550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16648.html">FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time</a></div></td>
-<td>Montgomery Bohde et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16648">2604.16648</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20886.html">KinetiDiff: Docking-Guided Diffusion for De Novo ACVR1 Inhibitor Design in Fibrodysplasia Ossificans Progressiva</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Aaryan Patel</td>
-<td><a href="http://arxiv.org/abs/2604.20886">2604.20886</a></td>
 </tr>
 </tbody></table>

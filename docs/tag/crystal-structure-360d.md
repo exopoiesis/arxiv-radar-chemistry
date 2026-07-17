@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">275 papers</span>
+  <span class="paper-count">274 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1658,11 +1658,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16307.html">Perovskite-R1: A Domain-Specialized LLM for Intelligent Discovery of Precursor Additives and Experimental Design</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Xin-De Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16307">2507.16307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15547.html">Towards Understanding Prolate 4$f$ Monomers: Numerical Predictions and Experimental Validation of Electronic Properties and Slow Relaxation in a Muffin-shaped Er$^\mathrm{III}$ Complex</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>J. Arneth et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15547">2507.15547</a></td>
 </tr>
 </tbody></table>

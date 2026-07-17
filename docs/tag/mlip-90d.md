@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -830,17 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17076.html">Predicting Solvation Free Energies of Molecules and Ions via First-Principles and Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Junting Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17076">2604.17076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05717.html">Comparing the latent features of universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Sofiia Chorna et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05717">2512.05717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15952.html">Machine-Learned Interatomic Potential for Predictive Simulation of MoS2 Epitaxy</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Emir Bilgili et al.</td>
-<td><a href="http://arxiv.org/abs/2512.15952">2512.15952</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">234 papers</span>
+  <span class="paper-count">233 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1412,11 +1412,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02853.html">BaTiO$_3$ -- SrTiO$_3$ composites: a microscopic study on paraelectric cubic inclusions</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sheng-Han Teng et al.</td>
 <td><a href="http://arxiv.org/abs/2501.02853">2501.02853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15817.html">Charge density wave in intermetallic oxides R$_5$Pb$_3$O (R = La and Ce)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Rafaela F. S. Penacchio et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15817">2507.15817</a></td>
 </tr>
 </tbody></table>

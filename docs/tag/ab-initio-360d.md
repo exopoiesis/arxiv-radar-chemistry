@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1580 papers</span>
+  <span class="paper-count">1576 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9470,29 +9470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17032.html">Thermophysical and Mechanical Properties Prediction of Rear-earth High-entropy Pyrochlore Based on Deep-learning Potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Yuxuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17032">2507.17032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15180.html">Quantum Mechanical Study of the Electronic Structure and Thermoelectric Properties of Heusler Alloys</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Deep Patel</td>
-<td><a href="http://arxiv.org/abs/2507.15180">2507.15180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15354.html">High pressure and temperature thermoelasticity of hcp osmium from ab initio quasi-harmonic theory</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Xuejun Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15354">2507.15354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15547.html">Towards Understanding Prolate 4$f$ Monomers: Numerical Predictions and Experimental Validation of Electronic Properties and Slow Relaxation in a Muffin-shaped Er$^\mathrm{III}$ Complex</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>J. Arneth et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15547">2507.15547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15647.html">Layer-selective Cooper pairing in an alternately stacked transition metal dichalcogenide</a></div><div class="paper-tags"><a href="tmd-360d.html">tmd</a></div></td>
-<td>Haojie Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15647">2507.15647</a></td>
 </tr>
 </tbody></table>

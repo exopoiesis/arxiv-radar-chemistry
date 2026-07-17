@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,17 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15923.html">A Unification of Discrete, Gaussian, and Simplicial Diffusion</a></div></td>
 <td>Nuria Alina Chandra et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15923">2512.15923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16135.html">Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions</a></div></td>
-<td>Yue Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16135">2604.16135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20886.html">KinetiDiff: Docking-Guided Diffusion for De Novo ACVR1 Inhibitor Design in Fibrodysplasia Ossificans Progressiva</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Aaryan Patel</td>
-<td><a href="http://arxiv.org/abs/2604.20886">2604.20886</a></td>
 </tr>
 </tbody></table>

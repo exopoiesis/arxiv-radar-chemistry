@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,29 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16928.html">Correlation-Converged Virtual Orbitals for Accurate and Efficient Quantum Molecular Simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Qian Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16928">2604.16928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08077.html">Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators</a></div></td>
-<td>Hua Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2601.08077">2601.08077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15666.html">Explainable quantum regression algorithm with encoded data structure</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>C. -C. Joseph Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15666">2604.15666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16586.html">A Systematic Survey and Benchmark of Deep Learning for Molecular Property Prediction in the Foundation Model Era</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Zongru Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16586">2604.16586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19814.html">Quantum Integrated High-Performance Computing: Foundations, Architectural Elements and Future Directions</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Suman Raj et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19814">2604.19814</a></td>
 </tr>
 </tbody></table>

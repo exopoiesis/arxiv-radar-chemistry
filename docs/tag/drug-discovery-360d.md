@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">560 papers</span>
+  <span class="paper-count">559 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3368,11 +3368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16218.html">Toward Routine CSP of Pharmaceuticals: A Fully Automated Protocol Using Neural Network Potentials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Zachary L. Glick et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16218">2507.16218</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15825.html">ACS: An interactive framework for conformal selection</a></div></td>
-<td>Yu Gui et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15825">2507.15825</a></td>
 </tr>
 </tbody></table>

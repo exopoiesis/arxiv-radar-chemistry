@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">447 papers</span>
+  <span class="paper-count">444 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2678,23 +2678,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16574.html">Chemical Treatment-Induced Indirect-to-Direct Bandgap Transition in MoS2: Impact on Optical Properties</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Yusuf Kerem Bostan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16574">2507.16574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12144.html">Superconducting phase diagram of finite-layer nickelates Nd$_{n+1}$Ni$_n$O$_{2n+2}$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Andreas Hausoel et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12144">2502.12144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15180.html">Quantum Mechanical Study of the Electronic Structure and Thermoelectric Properties of Heusler Alloys</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Deep Patel</td>
-<td><a href="http://arxiv.org/abs/2507.15180">2507.15180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15430.html">Data-driven Discovery of Novel High-performance Quaternary Chalcogenide Photovoltaics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nikhil Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15430">2507.15430</a></td>
 </tr>
 </tbody></table>

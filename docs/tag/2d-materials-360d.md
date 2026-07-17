@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">554 papers</span>
+  <span class="paper-count">552 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3326,17 +3326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16992.html">Modifying electronic and structural properties of 2D van der Waals materials via cavity quantum vacuum fluctuations: A first-principles QEDFT study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Hang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16992">2507.16992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10902.html">Electronic reconstruction and interface engineering of emergent spin fluctuations in compressively strained La$_3$Ni$_2$O$_7$ on SrLaAlO$_4$(001)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Benjamin Geisler et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10902">2503.10902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12788.html">Structure determination of flat honeycomb Bi grown on Ag(111)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ziyong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12788">2507.12788</a></td>
 </tr>
 </tbody></table>

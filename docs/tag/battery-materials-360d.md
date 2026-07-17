@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,11 +1076,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16239.html">Dynamic correlations in a polar fluid: confronting stochastic density functional theory to simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Sleeba Varghese et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16239">2507.16239</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16110.html">Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Shengchao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16110">2507.16110</a></td>
 </tr>
 </tbody></table>

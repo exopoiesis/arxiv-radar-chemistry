@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2101 papers</span>
+  <span class="paper-count">2096 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12590,35 +12590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16993.html">Ionic photofragmentation cross sections of the HS+ H2S+ and HCl+ molecular ions near the 2p threshold</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Jean-Paul Mosnier et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16993">2507.16993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12144.html">Superconducting phase diagram of finite-layer nickelates Nd$_{n+1}$Ni$_n$O$_{2n+2}$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Andreas Hausoel et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12144">2502.12144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10902.html">Electronic reconstruction and interface engineering of emergent spin fluctuations in compressively strained La$_3$Ni$_2$O$_7$ on SrLaAlO$_4$(001)</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Benjamin Geisler et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10902">2503.10902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12788.html">Structure determination of flat honeycomb Bi grown on Ag(111)</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ziyong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12788">2507.12788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15430.html">Data-driven Discovery of Novel High-performance Quaternary Chalcogenide Photovoltaics</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nikhil Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15430">2507.15430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15817.html">Charge density wave in intermetallic oxides R$_5$Pb$_3$O (R = La and Ce)</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Rafaela F. S. Penacchio et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15817">2507.15817</a></td>
 </tr>
 </tbody></table>

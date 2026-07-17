@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">369 papers</span>
+  <span class="paper-count">367 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2216,17 +2216,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16993.html">Ionic photofragmentation cross sections of the HS+ H2S+ and HCl+ molecular ions near the 2p threshold</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Jean-Paul Mosnier et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16993">2507.16993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15430.html">Data-driven Discovery of Novel High-performance Quaternary Chalcogenide Photovoltaics</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nikhil Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15430">2507.15430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15547.html">Towards Understanding Prolate 4$f$ Monomers: Numerical Predictions and Experimental Validation of Electronic Properties and Slow Relaxation in a Muffin-shaped Er$^\mathrm{III}$ Complex</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>J. Arneth et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15547">2507.15547</a></td>
 </tr>
 </tbody></table>

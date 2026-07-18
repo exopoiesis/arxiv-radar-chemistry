@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1574 papers</span>
+  <span class="paper-count">1565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9404,59 +9404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17980.html">Machine Learning Workflow for Analysis of High-Dimensional Order Parameter Space: A Case Study of Polymer Crystallization from Molecular Dynamics Simulations</a></div></td>
 <td>Elyar Tourani et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17980">2507.17980</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10607.html">Depletion interaction between cylindrical inclusions in polymer brushes</a></div></td>
-<td>Ji Woong Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.10607">2411.10607</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02853.html">BaTiO$_3$ -- SrTiO$_3$ composites: a microscopic study on paraelectric cubic inclusions</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Sheng-Han Teng et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02853">2501.02853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16325.html">Molecular Mechanisms Underlying the Effects of Urea and the Structural Dynamics of Bovine Serum Albumin</a></div></td>
-<td>Y. Ricardo Espinosa et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16325">2504.16325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16167.html">Origin of Suppressed Ferroelectricity in k-Ga$_2$O$_3$: Interplay Between Polarization and Lattice Domain Walls</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Yonghao Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16167">2507.16167</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16197.html">Stability by Design: Atomistic Insights into Hydrolysis-Driven MOF Degradation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Ashok Yacham et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16197">2507.16197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16531.html">Graph-Coarsening for Machine Learning Coarse-grained Molecular Dynamics</a></div></td>
-<td>Soumya Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16531">2507.16531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16568.html">Impact of Ethanol and Methanol on NOx Emissions in Ammonia-Methane Combustion: ReaxFF Simulations and ML-Based Extrapolation</a></div></td>
-<td>Amirali Shateri et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16568">2507.16568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16915.html">Avoiding spectral pollution for transfer operators using residuals</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>April Herwig et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16915">2507.16915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17032.html">Thermophysical and Mechanical Properties Prediction of Rear-earth High-entropy Pyrochlore Based on Deep-learning Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yuxuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17032">2507.17032</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2096 papers</span>
+  <span class="paper-count">2087 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12536,59 +12536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21143.html">Molecular Mechanisms of Polymer Crosslinking via Thermal Activation</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Javed Akhtar et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21143">2507.21143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00589.html">Efficient training of machine learning potentials for metallic glasses: CuZrAl validation</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Antoni Wadowski et al.</td>
-<td><a href="http://arxiv.org/abs/2501.00589">2501.00589</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06138.html">Role of defects in atom probe analysis of sol-gel silica</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Gustav Eriksson et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06138">2505.06138</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16239.html">Dynamic correlations in a polar fluid: confronting stochastic density functional theory to simulations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Sleeba Varghese et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16239">2507.16239</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16312.html">Elucidating the impact of point defects on the structural, electronic, and mechanical behaviour of chromium nitride</a></div></td>
-<td>Barsha Bhattacharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16312">2507.16312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16361.html">Interstitially bridged van der Waals interface enabling stacking-fault-free, layer-by-layer epitaxy</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>GunWoo Yoo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16361">2507.16361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16574.html">Chemical Treatment-Induced Indirect-to-Direct Bandgap Transition in MoS2: Impact on Optical Properties</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Yusuf Kerem Bostan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16574">2507.16574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16627.html">Thermodynamic modeling of binaries in Cr-Fe-Mo-Nb-Ni supported by first-principles calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Hui Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16627">2507.16627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16992.html">Modifying electronic and structural properties of 2D van der Waals materials via cavity quantum vacuum fluctuations: A first-principles QEDFT study</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Hang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16992">2507.16992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16993.html">Ionic photofragmentation cross sections of the HS+ H2S+ and HCl+ molecular ions near the 2p threshold</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jean-Paul Mosnier et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16993">2507.16993</a></td>
 </tr>
 </tbody></table>

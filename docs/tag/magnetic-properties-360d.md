@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">367 papers</span>
+  <span class="paper-count">366 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2210,11 +2210,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11623.html">Altermagnetic splitting of magnons in hematite ($α$-Fe$_2$O$_3$)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Rhea Hoyer et al.</td>
 <td><a href="http://arxiv.org/abs/2503.11623">2503.11623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16993.html">Ionic photofragmentation cross sections of the HS+ H2S+ and HCl+ molecular ions near the 2p threshold</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Jean-Paul Mosnier et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16993">2507.16993</a></td>
 </tr>
 </tbody></table>

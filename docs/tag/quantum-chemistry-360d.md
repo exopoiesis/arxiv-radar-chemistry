@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">373 papers</span>
+  <span class="paper-count">372 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2246,11 +2246,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19276.html">Hybrid tensor network and neural network quantum states for quantum chemistry</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Zibo Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19276">2507.19276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03073.html">Beating the natural Grover bound for low-energy estimation and state preparation</a></div></td>
-<td>Harry Buhrman et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03073">2407.03073</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1576 papers</span>
+  <span class="paper-count">1570 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9434,41 +9434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17910.html">Tensorial Spin-Phonon Relaxation Reveals Mode-Selective Relaxation Pathways in a Single-Molecule Magnet</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Roman Dmitriev et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17910">2507.17910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16167.html">Origin of Suppressed Ferroelectricity in k-Ga$_2$O$_3$: Interplay Between Polarization and Lattice Domain Walls</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yonghao Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16167">2507.16167</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16627.html">Thermodynamic modeling of binaries in Cr-Fe-Mo-Nb-Ni supported by first-principles calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Hui Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16627">2507.16627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16760.html">Ultracold high-spin $Σ$-state polar molecules for new physics searches</a></div></td>
-<td>Alessio Ciamei et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16760">2507.16760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16993.html">Ionic photofragmentation cross sections of the HS+ H2S+ and HCl+ molecular ions near the 2p threshold</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jean-Paul Mosnier et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16993">2507.16993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16994.html">Hypernuclei with Neural Network Quantum States</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Andrea Di Donna et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16994">2507.16994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17032.html">Thermophysical and Mechanical Properties Prediction of Rear-earth High-entropy Pyrochlore Based on Deep-learning Potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yuxuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17032">2507.17032</a></td>
 </tr>
 </tbody></table>

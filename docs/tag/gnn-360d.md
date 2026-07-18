@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">403 papers</span>
+  <span class="paper-count">400 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2414,23 +2414,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17209.html">HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery</a></div></td>
 <td>Haoran Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17209">2507.17209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14468.html">BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Yitong Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14468">2507.14468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17775.html">Comparison of Optimised Geometric Deep Learning Architectures, over Varying Toxicological Assay Data Environments</a></div></td>
-<td>Alexander D. Kalian et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17775">2507.17775</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19536.html">Graph Learning Metallic Glass Discovery from Wikipedia</a></div></td>
-<td>K. -C. Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19536">2507.19536</a></td>
 </tr>
 </tbody></table>

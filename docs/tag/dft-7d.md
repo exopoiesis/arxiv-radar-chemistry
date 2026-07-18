@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,41 +140,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10457.html">Chiral, Electronically Decoupled Layers of 1T&#x27;-WS2 Topological Insulator via Neutral-Molecule Intercalation</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
 <td>Jiaze Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10457">2607.10457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09364.html">Effect of Ice Charging on the Astrochemistry of Interstellar Sulfur Bearing Species on Amorphous Solid Water</a></div></td>
-<td>T. Vorsselmans et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09364">2607.09364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09517.html">Riemannian Multilevel Optimization with Application to Constrained Energy Minimization Problems</a></div></td>
-<td>Yara Elshiaty et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09517">2607.09517</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Mamta Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09554">2607.09554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09652.html">Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>David W. Kanaar et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09652">2607.09652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09910.html">Auditing Machine-Learning Models and Their Training Data with Explainability and First-Principles Verification: Application to Spin Hall Conductivity</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>Mohammed Mahshook et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09910">2607.09910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10030.html">Alloy engineering of Magnetic phases in two-dimensional Chromium Trihalides</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Pedro Roberto Lopes Vieira et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10030">2607.10030</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">559 papers</span>
+  <span class="paper-count">555 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3344,29 +3344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17448.html">Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Situo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17448">2507.17448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06158.html">GenMol: A Drug Discovery Generalist with Discrete Diffusion</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Seul Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2501.06158">2501.06158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13580.html">A Collaborative Framework Integrating Large Language Model and Chemical Fragment Space: Mutual Inspiration for Lead Design</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
-<td>Hao Tuo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13580">2507.13580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14468.html">BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Yitong Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14468">2507.14468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16218.html">Toward Routine CSP of Pharmaceuticals: A Fully Automated Protocol Using Neural Network Potentials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Zachary L. Glick et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16218">2507.16218</a></td>
 </tr>
 </tbody></table>

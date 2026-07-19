@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22527.html">Trajectory Forcing: Structure-First Generation with Controllable Semantic Trajectories</a></div></td>
 <td>Merve Kocabas et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22527">2606.22527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20878.html">Understanding Latent Flow Models for Tabular Data Synthesis: Targets, Paths, and Sampling</a></div></td>
-<td>Bahrul Ilmi Nasution</td>
-<td><a href="http://arxiv.org/abs/2606.20878">2606.20878</a></td>
 </tr>
 </tbody></table>

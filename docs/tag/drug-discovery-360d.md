@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">555 papers</span>
+  <span class="paper-count">554 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15101.html">Accelerated descriptor-free path sampling for protein-ligand binding kinetics</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Simon M. Lichtinger et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15101">2607.15101</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12349.html">Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
@@ -3332,17 +3338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18425.html">Quantum Machine Learning for Predicting Binding Free Energies in Structure-Based Virtual Screening</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Pei-Kun Yang</td>
 <td><a href="http://arxiv.org/abs/2507.18425">2507.18425</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02371.html">RAPID-Net: Accurate Pocket Identification for Binding-Site-Agnostic Docking</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Yaroslav Balytskyi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02371">2502.02371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17448.html">Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Situo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17448">2507.17448</a></td>
 </tr>
 </tbody></table>

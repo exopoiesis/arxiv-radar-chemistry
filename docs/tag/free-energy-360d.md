@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">365 papers</span>
+  <span class="paper-count">364 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2198,11 +2198,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18817.html">Co-optimization of codon usage and mRNA secondary structure using quantum computing</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Dimitris Alevras et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18817">2507.18817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21143.html">Molecular Mechanisms of Polymer Crosslinking via Thermal Activation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Javed Akhtar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21143">2507.21143</a></td>
 </tr>
 </tbody></table>

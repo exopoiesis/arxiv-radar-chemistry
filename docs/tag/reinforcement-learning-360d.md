@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15095.html">Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents</a></div></td>
+<td>Dylan Van Mulders et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15095">2607.15095</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08404.html">DrugGen 2: A disease-aware language model for enhancing drug discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Ali Motahharynia et al.</td>
@@ -1016,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18816.html">ThermoRL:Structure-Aware Reinforcement Learning for Protein Mutation Design to Enhance Thermostability</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Xiangwen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18816">2507.18816</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17448.html">Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Situo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17448">2507.17448</a></td>
 </tr>
 </tbody></table>

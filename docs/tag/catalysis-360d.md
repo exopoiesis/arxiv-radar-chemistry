@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">307 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1850,11 +1850,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21918.html">Laser-Synthesized Amorphous PdSe$_{\mathrm{2-x}}$ Nanoparticles: A Defect-Rich Platform for High-Efficiency SERS, Photocatalysis, and Photothermal Conversion</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="photocatalysis-360d.html">photocatalysis</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Andrei Ushkov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21918">2507.21918</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17891.html">Analysis of Fe and Co binary catalysts in chemical vapor deposition growth of single-walled carbon nanotubes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Qingmei Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17891">2507.17891</a></td>
 </tr>
 </tbody></table>

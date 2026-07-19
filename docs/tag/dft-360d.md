@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2087 papers</span>
+  <span class="paper-count">2080 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12494,47 +12494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Joe Pitfield et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18485">2507.18485</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18679.html">Discriminative Finetuning of Generative Large Language Models without Reward Models and Human Preference Data</a></div></td>
-<td>Siqi Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18679">2502.18679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11623.html">Altermagnetic splitting of magnons in hematite ($α$-Fe$_2$O$_3$)</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Rhea Hoyer et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11623">2503.11623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17261.html">Advancing excited-state properties of two-dimensional materials using a dielectric-dependent hybrid functional</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Arghya Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17261">2505.17261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17206.html">Group-I lead oxide X$_2$PbO$_3$ (X=Li, Na, K, Rb, and Cs) glass-like materials for energy applications: A hybrid-DFT study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>R. Zosiamliana et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17206">2507.17206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17676.html">Effect of Group-V Impurities on the Electronic Properties of Germanium Detectors: An Insight from First-Principles Calculations</a></div></td>
-<td>Sandip Aryal et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17676">2507.17676</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17910.html">Tensorial Spin-Phonon Relaxation Reveals Mode-Selective Relaxation Pathways in a Single-Molecule Magnet</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Roman Dmitriev et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17910">2507.17910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21143.html">Molecular Mechanisms of Polymer Crosslinking via Thermal Activation</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Javed Akhtar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21143">2507.21143</a></td>
 </tr>
 </tbody></table>

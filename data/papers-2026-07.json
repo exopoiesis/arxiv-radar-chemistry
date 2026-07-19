@@ -9251,5 +9251,207 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-07-15"
+ },
+ "2607.14202": {
+  "abstract": "Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while maintaining overall video quality. We present KeyFrame-Compass, the first comprehensive benchmark for evaluating keyframe-conditioned video generation. The benchmark contains 386 carefully curated samples spanning three application domains, two video structures, two prompt granularities, two conditioning formats, and four keyframe densities, enabling controlled analysis under diverse generation settings. We further introduce an automated evaluation framework that jointly measures keyframe execution and overall video quality. Specifically, we decompose keyframe execution into six complementary metrics covering presence, fidelity, temporal ordering, localization, persistence, and uniqueness, while assessing overall video quality through evidence-grounded MLLM judgments augmented with specialized perception models. Experiments on nine representative video generation systems reveal several fundamental limitations. Current models exhibit a clear trade-off between faithful keyframe execution and natural video synthesis. Their performance further degrades as keyframe constraints become denser and most open-source models also fail to interpret storyboard-grid inputs as temporally ordered keyframe sequences.",
+  "authors": [
+   "Yuqi Tang",
+   "Tengfei Liu",
+   "Yizheng Lai",
+   "Yuran Wang",
+   "Yang Shi",
+   "Wanshun Su",
+   "Zhuoran Zhang",
+   "Qixun Wang",
+   "Xiaohan Zhang",
+   "Xinlei Yu",
+   "Xuehai Bai",
+   "Xuanyu Zhu",
+   "Bohan Zeng",
+   "Bozhou Li",
+   "Shujie Li",
+   "Yifan Dai",
+   "Yujie Wei",
+   "Shixuan Liu",
+   "Haotian Wang",
+   "Jialu Chen",
+   "Yuanxing Zhang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "35 pages",
+  "first_author": "Yuqi Tang",
+  "pdf_url": "http://arxiv.org/pdf/2607.14202",
+  "primary_category": "cs.CV",
+  "published": "2026-07-15",
+  "tags": [],
+  "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.14512": {
+  "abstract": "Multi-step retrosynthesis planning seeks to decompose a target molecule into commercially available building blocks through a sequence of feasible reactions. The vast combinatorial search space makes this task challenging even for expert chemists. Traditional methods combine tree search with offline-trained value networks that score candidates in isolation, without reasoning about complete multi-step routes. Recent work leverages Large Language Models (LLMs) for this task, but relies on simple interfaces that limit exploration of the full search space. We introduce RetroAgent, an LLM agent that bridges symbolic search and neural reasoning through a harness with structured memory. Through memory and chemistry tools, the agent observes the full search state, including explored routes, available alternatives, and properties of intermediates, enabling informed decisions grounded in both global progress and domain knowledge. Experiments on in-distribution and out-of-distribution benchmarks demonstrate that RetroAgent delivers strong performance and generalization.",
+  "authors": [
+   "Yanqiao Zhu",
+   "Jingru Gan",
+   "Xiaoqi Sun",
+   "Fang Sun",
+   "Yidan Shi",
+   "Md Mofijul Islam",
+   "Chao Shang",
+   "Wenhao Gao",
+   "Connor W. Coley",
+   "Yizhou Sun",
+   "Wei Wang"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL",
+   "cs.LG"
+  ],
+  "comment": "To appear at COLM 2026",
+  "first_author": "Yanqiao Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2607.14512",
+  "primary_category": "cs.AI",
+  "published": "2026-07-16",
+  "tags": [
+   "retrosynthesis"
+  ],
+  "title": "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning",
+  "topics": [
+   "Large Language Models & Materials",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14658": {
+  "abstract": "While Multimodal Large Language Models (MLLMs) excel in general tasks, rigorous scientific reasoning remains challenging due to the limitations of monolithic, linear planning. Such sequential designs often suffer from visual-semantic misalignment, long-context hallucinations, and brittle execution under fixed task granularity. We propose TopoAgent, a self-evolving topological framework that replaces linear trajectories with dynamic, state-isolated graph evolution. TopoAgent first employs a front-end decomposer to fracture complex queries into visually-grounded atoms. These atoms are organized into a Directed Acyclic Graph (DAG) based on their dependencies, enabling strict context isolation to shield the reasoning engine from irrelevant historical noise. Furthermore, we introduce adaptive atomic fission, which dynamically splits bottleneck nodes into finer-grained sub-atoms at runtime when tool capability boundaries are exceeded. Extensive experiments across mathematics, physics, and chemistry benchmarks demonstrate that TopoAgent significantly outperforms state-of-the-art linear agent frameworks, providing a robust, noise-resistant, and self-correcting paradigm for autonomous scientific reasoning.",
+  "authors": [
+   "Mingze Xu",
+   "Yinghui Li",
+   "Jiayi Kuang",
+   "Zhanhui Kang",
+   "Di Yin",
+   "Ying Shen",
+   "Xing Sun",
+   "Yuxing Han"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Mingze Xu",
+  "pdf_url": "http://arxiv.org/pdf/2607.14658",
+  "primary_category": "cs.AI",
+  "published": "2026-07-16",
+  "tags": [
+   "multimodal-llm"
+  ],
+  "title": "TopoAgent: A Self-Evolving Topological Agent for Multimodal Scientific Reasoning",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14887": {
+  "abstract": "We study a period-two family of adjacent-sum lattice polytopes whose consecutive-coordinate bounds alternate between $s$ and $s+1$. This provides a simple non-uniform deformation of the classical uniform model while retaining an explicit transfer-matrix structure.   The lattice-point counts exhibit a parity split: the odd- and even-dimensional sequences have distinct rational generating functions with a common denominator. The odd-dimensional series satisfies a Möbius recurrence and admits an arctangent closed form, whereas the even-dimensional series obeys a coupled recurrence. Their common dominant pole determines the exponential growth in both parity classes.   For the cyclic model obtained by adding a constraint between the first and last coordinates, the count becomes a matrix trace. The two cyclic parity classes again have rational generating functions with the same denominator; the even-dimensional numerator has a Jacobi-derivative form, while the odd-dimensional one is given by an explicit anti-diagonal cofactor expression.   We also derive dimension-generating functions for fixed dilations, linear recurrences for lattice-point counts, rational volume-generating functions, and a bivariate identity for the coefficients of the $h^*$-polynomials. When $s=1$, every even-dimensional polytope decomposes into a Cartesian product of unimodular triangles, yielding explicit formulas and the Gorenstein property. For every $s\\geq 2$, the Gorenstein property fails in some even dimension.",
+  "authors": [
+   "Xinru Jiang",
+   "Suzhen Wen",
+   "Yueming Zhong"
+  ],
+  "categories": [
+   "math.CO"
+  ],
+  "comment": "50 pages",
+  "first_author": "Xinru Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2607.14887",
+  "primary_category": "math.CO",
+  "published": "2026-07-16",
+  "tags": [],
+  "title": "Alternating adjacent-sum polytopes: transfer matrices and Ehrhart series",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15095": {
+  "abstract": "The formation of political coalitions is a complex negotiation driven by both concrete policy objectives and deep-seated ideological convictions. While Large Language Models (LLMs) open new avenues for computational political science, the neutrality and helpfulness biases instilled by Reinforcement Learning from Human Feedback (RLHF) prevent them from sustaining steadfast partisan behaviour. We present a multi-agent framework that reconciles factual grounding with ideological alignment by combining Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Retrieval-Augmented Generation (RAG): DPO instils aggressive party-specific personas, while a per-party RAG pipeline keeps each agent bounded to its official manifesto. We operationalize the framework on the 2019 Flemish election, deploying the partisan agents in a hub-and-spoke negotiation arbitrated by a formateur. To make the emergent negotiation interpretable, we introduce a Multi-Layered Information Lineage Topology (MILT) that traces every clause in the final agreement back to its manifesto origin and classifies it into five provenance states, a Coalition Influence Score (CIS) that aggregates these traceable contributions to identify which party shaped the agreement, and a real-world grounding pass that benchmarks each simulated provision against the historically adopted coalition agreement. Across three independent simulations the framework yields a stable winner and ranking (N-VA ahead of CD\\&V and Open Vld), and manifesto-anchored lineage reliably predicts real-world materialization whereas hallucinated content does not. The result is a transparent, scalable testbed for the ex-ante exploration of party compatibility and formateur-mediated compromise.",
+  "authors": [
+   "Dylan Van Mulders",
+   "Matthias Bogaert",
+   "Dirk Van den Poel"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.MA"
+  ],
+  "comment": "11 pages, 2 figures, To be published in the Post-Workshop proceedings of the ECML PKDD 2026 Conference",
+  "first_author": "Dylan Van Mulders",
+  "pdf_url": "http://arxiv.org/pdf/2607.15095",
+  "primary_category": "cs.CL",
+  "published": "2026-07-16",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15101": {
+  "abstract": "The kinetics of protein-ligand binding systems are increasingly recognized as a key determinant of drug efficacy, yet remain far harder to compute than binding affinities. Existing kinetics methods either bias the dynamics along a collective variable (CV), demanding careful system-specific CV design, or use path sampling, which keeps the dynamics unbiased but can struggle to converge rates out of deep free-energy wells and often relies on hand-engineered descriptors. By combining the `best of both worlds', we propose a method to compute accurate kinetics for general ligand-unbinding problems at modest computational expense and minimal fine tuning, building on the AI for Molecular Mechanism Discovery (AIMMD) path sampling framework. To avoid the need for feature engineering, we opt for modelling the committor with a single descriptor-free, equivariant graph neural network shared across all systems. We also partially flatten deep bound-state wells with a static, basin-restricted bias potential. This improves convergence by lifting the path sampling state boundary out of regions, where the committor is hard to learn, while leaving the reactive region strictly unbiased. Across host-guest and protein-ligand systems spanning roughly 17 orders of magnitude in residence time, the method robustly recovers rates in line with reference and experimental values. Simultaneously, and without further sampling, it also reconstructs the underlying unbinding mechanisms. We additionally find that accurate rates do not require globally accurate committor models, allowing for efficient kinetics estimation even in a low-data training regime. Requiring little system-specific setup, our approach offers an efficient and broadly generalizable route to binding kinetics, and its shared committor architecture lays crucial groundwork for probing structure-kinetics relationships across ligand series in drug discovery.",
+  "authors": [
+   "Simon M. Lichtinger",
+   "Roberto Covino"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Simon M. Lichtinger",
+  "pdf_url": "http://arxiv.org/pdf/2607.15101",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-16",
+  "tags": [
+   "drug-discovery",
+   "gnn",
+   "protein-ligand"
+  ],
+  "title": "Accelerated descriptor-free path sampling for protein-ligand binding kinetics",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15131": {
+  "abstract": "We present a comprehensive chemo-dynamical analysis of the old, metal-poor open cluster Berkeley 32 based on Gaia DR3 astrometry and Gaia-ESO Survey DR5.1 spectroscopy. Cluster membership is determined using a Gaussian Mixture Model applied to proper-motion components and trigonometric parallaxes. Isochrone fitting yields an age of 4.9 +/- 0.5 Gyr, a heliocentric distance of 3325 pc, and an extinction of A_V = 0.38 +/- 0.12 mag. Spectroscopic member stars exhibit a mean metallicity of [Fe/H] = -0.39 +/- 0.02 dex, near-solar alpha-element abundances, and a weighted mean radial velocity of V_rad = 106.26 +/- 0.03 km s^-1. The [Y/Mg] chemical clock yields an age of 4.73 +/- 2.39 Gyr, consistent with the isochrone estimate. Orbital integration indicates a moderately eccentric orbit (e = 0.268 +/- 0.004) with a guiding radius of R_g = 8.82 kpc. The inferred chemical birth radius, R_b = 9.82 kpc, together with DeltaR ~ -1 kpc, suggests moderate inward radial migration, while the offsets among R_b, R_g, and R_GC are consistent with both churning and blurring processes. A photometric analysis identifies a binary fraction of f_b = 0.449 +/- 0.017 for systems with mass ratios q >= 0.5, implying a substantial unresolved binary population. Radial cumulative distribution functions further reveal significant mass segregation, with evolved stars more centrally concentrated than main-sequence stars. These results indicate that Berkeley 32 is a dynamically evolved old-disk cluster whose present-day structure and orbit preserve signatures of both internal dynamical evolution and radial migration within the Galactic disk.",
+  "authors": [
+   "Deniz Cennet Çınar",
+   "D. Bisht",
+   "Ing-Guey Jiang",
+   "W. H. Elsanhoury",
+   "K. Belwal",
+   "Selçuk Bilir"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "27 pages, including 15 figures and 4 tables, accepted for publication in the The Astronomical Journal (AJ)",
+  "first_author": "Deniz Cennet Çınar",
+  "pdf_url": "http://arxiv.org/pdf/2607.15131",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-07-16",
+  "tags": [],
+  "title": "Berkeley 32: A Metal-poor and Dynamically Evolved Open Cluster with Evidence of Radial Migration",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-07-16"
  }
 }

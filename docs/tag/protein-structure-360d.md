@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1526,17 +1526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19375.html">Latent-X: An Atom-level Frontier Model for De Novo Protein Binder Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Latent Labs Team et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19375">2507.19375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02371.html">RAPID-Net: Accurate Pocket Identification for Binding-Site-Agnostic Docking</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Yaroslav Balytskyi et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02371">2502.02371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08041.html">Protein FID: Improved Evaluation of Protein Structure Generative Models</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Felix Faltings et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08041">2505.08041</a></td>
 </tr>
 </tbody></table>

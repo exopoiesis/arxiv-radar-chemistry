@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,29 +116,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10937.html">A minimal model for the Weyl nodes and Fermi arcs of PtBi$_2$</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Tobias Cristófoli et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10937">2607.10937</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10091.html">Dynamical Nonrelativistic Spin Splitting via THz Nonlinear Phononics</a></div></td>
-<td>Linding Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10091">2607.10091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10182.html">Chiral charge density waves in transition metal dichalcogenide</a></div></td>
-<td>Ettore Carpene</td>
-<td><a href="http://arxiv.org/abs/2607.10182">2607.10182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10433.html">Emulating Density Functional Theory Calculations via Empirical Interpolation</a></div></td>
-<td>Daniel Lay et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10433">2607.10433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10457.html">Chiral, Electronically Decoupled Layers of 1T&#x27;-WS2 Topological Insulator via Neutral-Molecule Intercalation</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Jiaze Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10457">2607.10457</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14512.html">RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning</a></div></td>
+<td>Yanqiao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14512">2607.14512</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Xingyu Dang et al.</td>
@@ -512,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21762.html">TempRe: Template generation for single and direct multi-step retrosynthesis</a></div></td>
 <td>Nguyen Xuan-Vu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21762">2507.21762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17448.html">Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Situo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17448">2507.17448</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1570 papers</span>
+  <span class="paper-count">1565 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9404,35 +9404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19670.html">Making atomistic materials calculations accessible with the AiiDAlab Quantum ESPRESSO app</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Xing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19670">2507.19670</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16986.html">Light-Induced Persistent Electronic Chirality in Achiral Molecules Probed with Time-Resolved Electronic Circular Dichroism Spectroscopy</a></div></td>
-<td>Torsha Moitra et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16986">2503.16986</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14281.html">High-$T_{\rm c}$ Ag$_x$BC and Cu$_x$BC superconductors accessible via topochemical reactions</a></div></td>
-<td>Daviti Gochitashvili et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14281">2507.14281</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17102.html">Successive orthorhombic distortions in kagome metals by molecular orbital formation</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Ryo Misawa et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17102">2507.17102</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17206.html">Group-I lead oxide X$_2$PbO$_3$ (X=Li, Na, K, Rb, and Cs) glass-like materials for energy applications: A hybrid-DFT study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>R. Zosiamliana et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17206">2507.17206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17910.html">Tensorial Spin-Phonon Relaxation Reveals Mode-Selective Relaxation Pathways in a Single-Molecule Magnet</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Roman Dmitriev et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17910">2507.17910</a></td>
 </tr>
 </tbody></table>

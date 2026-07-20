@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="tmd-7d.html">tmd</a></div></td>
+<td>Chenyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15611">2607.15611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15984.html">The anomalous long lifetime of $^{14}$C revealed by ab initio nuclear lattice EFT</a></div></td>
+<td>Teng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15984">2607.15984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Tatiana Nemirovich et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14677.html">Spin fluctuation-mediated unconventional superconductivity in ThFeAsN from first-principles</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Guang-Yu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14677">2607.14677</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15110.html">Local magnetic correlations and light-sensitive centers in the Cr2AlC MAX phase</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Malgorzata Wierzbowska et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15358.html">Spectral amplification for ground-state energy estimation of electronic structure in first quantization</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Alicja Dutkiewicz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15358">2607.15358</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15411.html">Ab initio time-dependent GW approach for nonequilibrium exciton-phonon coupled dynamics across momentum space</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
+<td>Zhenfa Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15411">2607.15411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13400.html">Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
@@ -80,11 +128,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12213.html">Analytical solution of the Eliashberg equations for strong-coupling superconductivity in hydrides</a></div></td>
 <td>Tomas J. Escamilla et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12213">2607.12213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Jan Eckwert et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
 </tr>
 </tbody></table>

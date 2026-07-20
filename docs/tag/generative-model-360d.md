@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.13503">2607.13503</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14246.html">The Steering Budget: Examples beat Knobs</a></div></td>
+<td>Raj Kumar Rajendran</td>
+<td><a href="http://arxiv.org/abs/2607.14246">2607.14246</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12325.html">Peak-Decomposition-Free Inverse Metrology of Hyperspectral Moiré Photoluminescence</a></div></td>
 <td>Katsunori Wakabayashi</td>
@@ -2918,11 +2924,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19307.html">Stability and Symmetry-Assured Crystal Structure Generation for Inverse Design of Photocatalysts in Water Splitting</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
 <td>Zhilong Song et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19307">2507.19307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18275.html">Dis-GEN: Disordered crystal structure generation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Martin Hoffmann Petersen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18275">2507.18275</a></td>
 </tr>
 </tbody></table>

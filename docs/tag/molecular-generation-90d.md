@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Jiahao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15686">2607.15686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16038.html">SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td> SciForge Team et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16038">2607.16038</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Sarina Kopf et al.</td>
@@ -266,17 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19562.html">Structure-guided molecular design with contrastive 3D protein-ligand learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Carles Navarro et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19562">2604.19562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17838.html">Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Kijung Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17838">2604.17838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18031.html">How Creative Are Large Language Models in Generating Molecules?</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Wen Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18031">2604.18031</a></td>
 </tr>
 </tbody></table>

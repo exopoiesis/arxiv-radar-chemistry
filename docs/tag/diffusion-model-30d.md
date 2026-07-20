@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14678.html">Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskites</a></div></td>
+<td>Ju-Young Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14678">2607.14678</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13503.html">Exploring the Alignment of Generation and Understanding in Protein Structure Modeling</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Junde Xu et al.</td>
@@ -134,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22718.html">Generative Relightable Avatars</a></div></td>
 <td>Kunwar Maheep Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22718">2606.22718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Sathya Edamadaka et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
 </tr>
 </tbody></table>

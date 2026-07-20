@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.13652">2607.13652</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14392.html">Unified Uncertainty Quantification Framework Bridging Noisy Quantum Backends Across Variational Quantum Algorithms and Quantum Signal Processing</a></div></td>
+<td>Priyabrata Senapati et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14392">2607.14392</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="chemical-space-7d.html">chemical-space</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
 <td>Sarina Kopf et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11526.html">AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
 <td>Hongxiao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11526">2607.11526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10669.html">Modernizing HEBO: a robust Bayesian optimization baseline for practical heteroskedastic and non-stationary problems</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a></div></td>
-<td>L. A. Zhukov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10669">2607.10669</a></td>
 </tr>
 </tbody></table>

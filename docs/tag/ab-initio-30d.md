@@ -16,6 +16,54 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="tmd-30d.html">tmd</a></div></td>
+<td>Chenyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15611">2607.15611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15984.html">The anomalous long lifetime of $^{14}$C revealed by ab initio nuclear lattice EFT</a></div></td>
+<td>Teng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15984">2607.15984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Tatiana Nemirovich et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14677.html">Spin fluctuation-mediated unconventional superconductivity in ThFeAsN from first-principles</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Guang-Yu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14677">2607.14677</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15110.html">Local magnetic correlations and light-sensitive centers in the Cr2AlC MAX phase</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Malgorzata Wierzbowska et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15358.html">Spectral amplification for ground-state energy estimation of electronic structure in first quantization</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Alicja Dutkiewicz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15358">2607.15358</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15411.html">Ab initio time-dependent GW approach for nonequilibrium exciton-phonon coupled dynamics across momentum space</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
+<td>Zhenfa Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15411">2607.15411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13400.html">Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Shovan Gayen et al.</td>
@@ -422,53 +470,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22256.html">Van Hove Singularity and Phase Instability: Exploring the Role of Electron Correlation in the Magnetic Behavior of $\mathrm{Fe}_{16}\mathrm{N}_2$</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Peter Stoeckl et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22256">2606.22256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21032.html">Ab Initio Nuclear Theory for Heavy Nuclei and Its Application to Dark Matter-Nucleus Scattering</a></div></td>
-<td>Bai-Shan Hu</td>
-<td><a href="http://arxiv.org/abs/2606.21032">2606.21032</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21125.html">SALMON 2.3: Implementation of divide-and-conquer ground-state initialization for large-scale real-time TDDFT</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Shunsuke Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21125">2606.21125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21441.html">Bulk Photovoltaic Effect in Two-Dimensional Perovskite Oxides</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Chunmei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21441">2606.21441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21467.html">Machine learning metallic glass critical cooling rates through elemental and molecular simulation based featurization</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Lane E. Schultz et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21467">2606.21467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21526.html">Quantitative analysis of resonant ionization by smooth laser pulses: Connection between effective Hamiltonian theory and strong-field dressed continua</a></div></td>
-<td>Jakob Nicolai Bruhnke et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21526">2606.21526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21576.html">Electron scattering and the distribution of electric charge and magnetization inside nuclei</a></div></td>
-<td>Alex Gnech et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21576">2606.21576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21598.html">One-Body and Two-Body Density Matrix Elements in a Symplectic Many-Body Basis</a></div></td>
-<td>Jakub Herko et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21598">2606.21598</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21730.html">Reaction Mechanisms and Kinetics of CN and CCH with H2CS: Implications for Interstellar Sulfur Chemistry</a></div></td>
-<td>Boutheïna Kerkeni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21730">2606.21730</a></td>
 </tr>
 </tbody></table>

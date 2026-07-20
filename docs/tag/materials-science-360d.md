@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">408 papers</span>
+  <span class="paper-count">407 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15535.html">Symbolic Predicate-Guided Language Agents for Inverse Design of Perovskite Oxides</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Dong Hyeon Mok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15535">2607.15535</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
@@ -2450,17 +2456,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19670.html">Making atomistic materials calculations accessible with the AiiDAlab Quantum ESPRESSO app</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Xing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19670">2507.19670</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20011.html">Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Aditya Vatsavai et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20011">2504.20011</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18275.html">Dis-GEN: Disordered crystal structure generation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Martin Hoffmann Petersen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18275">2507.18275</a></td>
 </tr>
 </tbody></table>

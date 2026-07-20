@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15101.html">Accelerated descriptor-free path sampling for protein-ligand binding kinetics</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a></div></td>
 <td>Simon M. Lichtinger et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15101">2607.15101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15309.html">DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Kaihui Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15309">2607.15309</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>

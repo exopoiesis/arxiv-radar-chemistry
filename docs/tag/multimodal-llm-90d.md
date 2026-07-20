@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16193.html">Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs</a></div></td>
+<td>Like Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16193">2607.16193</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14658.html">TopoAgent: A Self-Evolving Topological Agent for Multimodal Scientific Reasoning</a></div></td>
 <td>Mingze Xu et al.</td>
@@ -116,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19697.html">Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks</a></div></td>
 <td>Jing Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19697">2604.19697</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02871.html">Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning</a></div></td>
-<td>Yibo Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02871">2502.02871</a></td>
 </tr>
 </tbody></table>

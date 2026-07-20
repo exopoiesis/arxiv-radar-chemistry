@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-generation — all</h1>
-  <span class="paper-count">231 papers</span>
+  <span class="paper-count">233 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="chemical-llm-all.html">chemical-llm</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Jiahao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15686">2607.15686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16038.html">SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
+<td> SciForge Team et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16038">2607.16038</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="catalysis-all.html">catalysis</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a></div></td>

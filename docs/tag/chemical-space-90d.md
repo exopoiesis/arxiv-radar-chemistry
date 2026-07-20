@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chemical-space — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <strong>90d</strong> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20019.html">Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Renee Gil</td>
 <td><a href="http://arxiv.org/abs/2604.20019">2604.20019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18031.html">How Creative Are Large Language Models in Generating Molecules?</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Wen Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18031">2604.18031</a></td>
 </tr>
 </tbody></table>

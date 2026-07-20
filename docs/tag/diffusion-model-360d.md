@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">449 papers</span>
+  <span class="paper-count">447 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14678.html">Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskites</a></div></td>
+<td>Ju-Young Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14678">2607.14678</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13503.html">Exploring the Alignment of Generation and Understanding in Protein Structure Modeling</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
@@ -2690,23 +2696,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17800.html">Improving Multislice Electron Ptychography with a Generative Prior</a></div></td>
 <td>Christian K. Belardi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17800">2507.17800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17268.html">PolarAnything: Diffusion-based Polarimetric Image Synthesis</a></div></td>
-<td>Kailong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17268">2507.17268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18012.html">Direct Dual-Energy CT Material Decomposition using Model-based Denoising Diffusion Model</a></div></td>
-<td>Hang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18012">2507.18012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18310.html">Modelling Tritium Production and Release at High-Energy Proton Accelerators</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Dali Georgobiani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18310">2507.18310</a></td>
 </tr>
 </tbody></table>

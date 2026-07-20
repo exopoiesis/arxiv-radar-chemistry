@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,23 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19840.html">Graph-Theoretic Models for the Prediction of Molecular Measurements</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Anna Niane et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19840">2604.19840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19936.html">Guiding Peptide Kinetics via Collective-Variable Tuning of Free-Energy Barriers</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-function-90d.html">protein-function</a> · <a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Alexander Zhilkin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19936">2602.19936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12877.html">Fidelity of Machine Learned Potentials: Quantitative Assessment for Protonated Oxalate</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Chen Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12877">2604.12877</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13457.html">Excited-State Quantum Chemistry on Qumode-Based Processors via Variational Quantum Deflation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Marlon F. Jost et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13457">2604.13457</a></td>
 </tr>
 </tbody></table>

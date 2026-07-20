@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Jiahao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15686">2607.15686</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13115.html">Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools</a></div></td>
@@ -50,6 +56,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10729.html">Scaffold splits hide structural-frontier failures in ADMET models</a></div></td>
 <td>Jiacheng Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10729">2607.10729</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08996.html">Model Agnostic Graph Prompt Learning for Crystal Property Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Shrimon Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08996">2607.08996</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -320,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19840.html">Graph-Theoretic Models for the Prediction of Molecular Measurements</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Anna Niane et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19840">2604.19840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16123.html">Tabular foundation models for in-context prediction of molecular properties</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Karim K. Ben Hicham et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16123">2604.16123</a></td>
 </tr>
 </tbody></table>

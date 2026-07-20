@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>structure-prediction — all</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">283 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="chemical-llm-all.html">chemical-llm</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Jiahao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15686">2607.15686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15309.html">DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td>Kaihui Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15309">2607.15309</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>

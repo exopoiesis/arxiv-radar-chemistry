@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-computing — 90d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <strong>90d</strong> <a href="quantum-computing-360d.html">360d</a> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10497.html">Entangled happily ever after: Wedding reception seating mapped to classical and quantum optimizers</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Karie A. Nicholas et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10497">2604.10497</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17925.html">State-Averaged Quantum Algorithms for Multiconfigurational Surface Chemistry: A Benchmark on Rh@TiO2(110)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Ernst Dennis Lægteskov Binau Larsson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17925">2604.17925</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-structure — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <strong>30d</strong> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16038.html">SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td> SciForge Team et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16038">2607.16038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16087.html">Neural spectroscopy of AlphaFold2 reveals encoded protein conformational landscapes</a></div></td>
+<td>Kaustav Mehta</td>
+<td><a href="http://arxiv.org/abs/2607.16087">2607.16087</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12474.html">From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery</a></div></td>
@@ -68,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24779.html">DeepBD: A Grounded Agentic Workflow for Variant Prioritization and Diagnosis of Genetic Birth Defects</a></div></td>
 <td>Shiyu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24779">2606.24779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21241.html">Assessing Cost Hamiltonian Reliability in Quantum Protein Structure Prediction</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Mathieu Roget et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21241">2606.21241</a></td>
 </tr>
 </tbody></table>

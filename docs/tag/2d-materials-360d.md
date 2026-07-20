@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">549 papers</span>
+  <span class="paper-count">553 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Chenyuan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15611">2607.15611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15728.html">Interface-Engineered Giant Multistate Resistance Switching in Altermagnetic CrSb Multiferroic Tunnel Junctions</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Zhi Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15728">2607.15728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15110.html">Local magnetic correlations and light-sensitive centers in the Cr2AlC MAX phase</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Malgorzata Wierzbowska et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15411.html">Ab initio time-dependent GW approach for nonequilibrium exciton-phonon coupled dynamics across momentum space</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Zhenfa Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15411">2607.15411</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12783.html">Photogeneration and signatures of coherent phonons in time-resolved photoemission spectroscopy: First-principles time-dependent adiabatic GW approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
@@ -56,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09652.html">Silicon-Germanium Heterostructures with Enhanced Valley Splitting for Spin Qubits</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>David W. Kanaar et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09652">2607.09652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Maxime Vassaux et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -3302,11 +3332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18985.html">Step-directed Epitaxy of Uni-directional Hexagonal Boron Nitride on Vicinal Ge(110)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Ju-Hyun Jung et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18985">2507.18985</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18010.html">Ultra-clean interface between high k dielectric and 2D MoS2</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Han Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18010">2507.18010</a></td>
 </tr>
 </tbody></table>

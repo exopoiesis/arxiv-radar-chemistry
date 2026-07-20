@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>replica-exchange — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="replica-exchange-7d.html">7d</a> <a href="replica-exchange-30d.html">30d</a> <a href="replica-exchange-90d.html">90d</a> <strong>360d</strong> <a href="replica-exchange-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08357.html">Hamiltonian replica exchange augmented with diffusion-based generative models and importance sampling to assess biomolecular conformational basins and barriers</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Zakarya Benayad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08357">2505.08357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Joe Pitfield et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18485">2507.18485</a></td>
 </tr>
 </tbody></table>

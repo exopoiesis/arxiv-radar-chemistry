@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">479 papers</span>
+  <span class="paper-count">481 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16038.html">SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td> SciForge Team et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16038">2607.16038</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16087.html">Neural spectroscopy of AlphaFold2 reveals encoded protein conformational landscapes</a></div></td>
+<td>Kaustav Mehta</td>
+<td><a href="http://arxiv.org/abs/2607.16087">2607.16087</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12474.html">From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery</a></div></td>

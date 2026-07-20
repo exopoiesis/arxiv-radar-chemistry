@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2607.13503">2607.13503</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14246.html">The Steering Budget: Examples beat Knobs</a></div></td>
+<td>Raj Kumar Rajendran</td>
+<td><a href="http://arxiv.org/abs/2607.14246">2607.14246</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12325.html">Peak-Decomposition-Free Inverse Metrology of Hyperspectral Moiré Photoluminescence</a></div></td>
 <td>Katsunori Wakabayashi</td>
@@ -614,11 +620,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20019.html">Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Renee Gil</td>
 <td><a href="http://arxiv.org/abs/2604.20019">2604.20019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18467.html">An Integrated Deep-Learning Framework for Peptide-Protein Interaction Prediction and Target-Conditioned Peptide Generation with ConGA-PePPI and TC-PepGen</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Chupei Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18467">2604.18467</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1563 papers</span>
+  <span class="paper-count">1572 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14827.html">SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO$_2$, Li$_3$PO$_4$, and Perovskites</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Anh Khoa Augustin Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14827">2607.14827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15518.html">A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI</a></div></td>
+<td>Larry Engelhardt</td>
+<td><a href="http://arxiv.org/abs/2607.15518">2607.15518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16167.html">Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK</a></div></td>
+<td>Sadia Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16167">2607.16167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Tatiana Nemirovich et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Sarath Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14838.html">Density-driven reentrant polymer transitions via saturable bridging crowders</a></div></td>
+<td>Monmee Phukan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14838">2607.14838</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14951.html">Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Aaron Flötotto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14951">2607.14951</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15008.html">Plug Flow and Cavitation in Rough Lubricated Contacts: Molecular Dynamics of Single- vs. Two-Component Fluids</a></div></td>
+<td>Shubham Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15008">2607.15008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15476.html">exa-PD: A scalable high-performance workflow for multi-element phase diagram construction</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Zhuo Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15476">2607.15476</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlip-360d.html">mlip</a></div></td>
@@ -32,6 +86,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13966.html">Confinement effects on protein stability in a freezing water environment</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Yanis R. Espinosa et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13966">2607.13966</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14237.html">Efficient Interstellar Grain Growth from High Sticking Coefficients on Amorphous Carbon Dust</a></div></td>
+<td>Clarke J. Esmerian et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14237">2607.14237</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15309.html">DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Kaihui Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15309">2607.15309</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>
@@ -104,6 +170,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09592.html">A Semiclassical Gaussian Wavepacket Method for Non-Adiabatic Molecular Dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Lorenzo Bocchi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09592">2607.09592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td>Maxime Vassaux et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-09</td>
@@ -9374,23 +9446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19435.html">Equivariant machine learning of Electric Field Gradients -- Predicting the quadrupolar coupling constant in the MAPbI$_3$ phase transition</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Bernhard Schmiedmayer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19435">2507.19435</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21031.html">Reactive molecular dynamics approach to PFAS plasma oxidation in water</a></div></td>
-<td>Axel Richard et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21031">2505.21031</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18321.html">Static and dynamic properties of a binary, symmetric mixture of ultrasoft particles in the vicinity of criticality</a></div></td>
-<td>Tanmay Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18321">2507.18321</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18377.html">How Soft is Too Soft? Tuning Order and Disorder in Dimeric Core-Soft Colloids with Bond Flexibility</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Leandro B. Krott et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18377">2507.18377</a></td>
 </tr>
 </tbody></table>

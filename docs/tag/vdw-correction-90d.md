@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15066.html">Interaction energies of H$_2$ and CO on transition-metal surfaces computed by a range-separated hybrid van der Waals density functional</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
+<td>Per Hyldgaard</td>
+<td><a href="http://arxiv.org/abs/2607.15066">2607.15066</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10457.html">Chiral, Electronically Decoupled Layers of 1T&#x27;-WS2 Topological Insulator via Neutral-Molecule Intercalation</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Jiaze Xie et al.</td>
@@ -140,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19080.html">Ultrafast Light-Induced Magnetoelectric Effect in van der Waals Magnetic Semiconductor Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Wenyi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19080">2604.19080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00125.html">Roadmap on Advancements of the FHI-aims Software Package</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Joseph W. Abbott et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00125">2505.00125</a></td>
 </tr>
 </tbody></table>

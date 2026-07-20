@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15358.html">Spectral amplification for ground-state energy estimation of electronic structure in first quantization</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Alicja Dutkiewicz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15358">2607.15358</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13846.html">First-principles Study of Structural and Electronic Properties of Mn-doped Cu2NiXY4 (X=Sn, Ge, Si; Y=S, Se) Chalcogenide Semiconductors</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
@@ -44,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11217.html">Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Seenivasan Hariharan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11217">2607.11217</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10514.html">Theoretical study of electronic structure and spectroscopic properties of the TlO molecule</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Alexander V. Oleynichenko et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10514">2607.10514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10937.html">A minimal model for the Weyl nodes and Fermi arcs of PtBi$_2$</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Tobias Cristófoli et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10937">2607.10937</a></td>
 </tr>
 </tbody></table>

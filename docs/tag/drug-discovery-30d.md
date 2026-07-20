@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16038.html">SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td> SciForge Team et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16038">2607.16038</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15101.html">Accelerated descriptor-free path sampling for protein-ligand binding kinetics</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Simon M. Lichtinger et al.</td>
@@ -152,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22677.html">Selectivity in tip-induced skeletal editing via heteroatom substitution</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Shantanu Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22677">2606.22677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Sathya Edamadaka et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
 </tr>
 </tbody></table>

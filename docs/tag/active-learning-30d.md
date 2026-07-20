@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14486">2607.14486</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08518.html">PhononScore: a phonon-aware scoring function for dynamical stability</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Xiao-Qi Han et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21948.html">Active learning-based Bayesian optimization in the realm of copper slag-blended cement systems</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
 <td>Debadri Som et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21948">2606.21948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21796.html">The FAST Framework: Developing a Data-Efficient Machine Learning Potential to Decode Superionic Transition-Induced Thermophysical and Kinetic Anomalies in UO2 under Extreme Conditions</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Fengnian Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21796">2606.21796</a></td>
 </tr>
 </tbody></table>

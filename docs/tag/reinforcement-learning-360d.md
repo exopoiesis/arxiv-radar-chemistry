@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,11 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19894.html">A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Xiaohua Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19894">2507.19894</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18816.html">ThermoRL:Structure-Aware Reinforcement Learning for Protein Mutation Design to Enhance Thermostability</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Xiangwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18816">2507.18816</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">811 papers</span>
+  <span class="paper-count">812 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13503.html">Exploring the Alignment of Generation and Understanding in Protein Structure Modeling</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
 <td>Junde Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13503">2607.13503</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14246.html">The Steering Budget: Examples beat Knobs</a></div></td>
+<td>Raj Kumar Rajendran</td>
+<td><a href="http://arxiv.org/abs/2607.14246">2607.14246</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>

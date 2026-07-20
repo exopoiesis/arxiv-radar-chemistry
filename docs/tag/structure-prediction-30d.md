@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Jiahao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15686">2607.15686</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15309.html">DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Kaihui Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15309">2607.15309</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Tetsuji Kuboyama et al.</td>
@@ -44,17 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22866.html">Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Kiyoung Seong et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22866">2606.22866</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21241.html">Assessing Cost Hamiltonian Reliability in Quantum Protein Structure Prediction</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Mathieu Roget et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21241">2606.21241</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Sathya Edamadaka et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
 </tr>
 </tbody></table>

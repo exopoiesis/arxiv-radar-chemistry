@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16038.html">SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td> SciForge Team et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16038">2607.16038</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15101.html">Accelerated descriptor-free path sampling for protein-ligand binding kinetics</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Simon M. Lichtinger et al.</td>
@@ -3332,11 +3338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19375.html">Latent-X: An Atom-level Frontier Model for De Novo Protein Binder Design</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Latent Labs Team et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19375">2507.19375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18425.html">Quantum Machine Learning for Predicting Binding Free Energies in Structure-Based Virtual Screening</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Pei-Kun Yang</td>
-<td><a href="http://arxiv.org/abs/2507.18425">2507.18425</a></td>
 </tr>
 </tbody></table>

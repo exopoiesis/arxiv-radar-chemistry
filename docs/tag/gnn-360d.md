@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">400 papers</span>
+  <span class="paper-count">402 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14827.html">SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO$_2$, Li$_3$PO$_4$, and Perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Anh Khoa Augustin Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14827">2607.14827</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15101.html">Accelerated descriptor-free path sampling for protein-ligand binding kinetics</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Simon M. Lichtinger et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15101">2607.15101</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11084.html">NVAITC AI Scientist: A Governed End-to-End Research System -- A Hypertension GWAS Case Study</a></div></td>
+<td>Eddie Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11084">2607.11084</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Jan Eckwert et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08996.html">Model Agnostic Graph Prompt Learning for Crystal Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Shrimon Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08996">2607.08996</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -2408,11 +2426,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06489.html">T2MAT (text-to-materials): A universal agent for generating material structures with goal properties from a single sentence</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Zhilong Song et al.</td>
 <td><a href="http://arxiv.org/abs/2407.06489">2407.06489</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18816.html">ThermoRL:Structure-Aware Reinforcement Learning for Protein Mutation Design to Enhance Thermostability</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Xiangwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18816">2507.18816</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15535.html">Symbolic Predicate-Guided Language Agents for Inverse Design of Perovskite Oxides</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Dong Hyeon Mok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15535">2607.15535</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
@@ -404,23 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14665.html">Accurate and scalable exchange-correlation with deep learning</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Giulia Luise et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14665">2506.14665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28399.html">Geometry-controlled competition between axis centering and detwinning in fivefold-twinned gold nanoparticles</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Silvia Fasce et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28399">2603.28399</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15951.html">Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval</a></div></td>
-<td>Hamed Jelodar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15951">2604.15951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18776.html">Multiscale Structural Reliability Analysis in high dimensions with Tensor Trains and Physics-Augmented Neural Networks</a></div></td>
-<td>Aryan Tyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18776">2604.18776</a></td>
 </tr>
 </tbody></table>

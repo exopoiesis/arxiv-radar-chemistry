@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>enhanced-sampling — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <strong>90d</strong> <a href="enhanced-sampling-360d.html">360d</a> <a href="enhanced-sampling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21441.html">Enabling Biomolecular Simulations with Neural Network Potentials in GROMACS</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Lukas Müllender et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21441">2604.21441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25872.html">Marginal Girsanov Reweighting: Stable Variance Reduction for Long-Timescale Dynamics from Biased Simulation</a></div><div class="paper-tags"><a href="metadynamics-90d.html">metadynamics</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
-<td>Yan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25872">2509.25872</a></td>
 </tr>
 </tbody></table>

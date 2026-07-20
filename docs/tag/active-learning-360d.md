@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">141 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Sheng Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14486">2607.14486</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08518.html">PhononScore: a phonon-aware scoring function for dynamical stability</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
@@ -848,17 +854,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19316.html">Human-AI Synergy in Adaptive Active Learning for Continuous Lithium Carbonate Crystallization Optimization</a></div></td>
 <td>Shayan S. Mousavi Masouleh et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19316">2507.19316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20011.html">Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Aditya Vatsavai et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20011">2504.20011</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
-<td>Joe Pitfield et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18485">2507.18485</a></td>
 </tr>
 </tbody></table>

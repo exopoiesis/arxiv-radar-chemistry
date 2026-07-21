@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">372 papers</span>
+  <span class="paper-count">371 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18126.html">CutBackdoor: A Circuit Cut Triggered Backdoor Attack on Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Ahatesham Bhuiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18126">2607.18126</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13737.html">Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
@@ -2234,17 +2240,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20328.html">Chemical Space of Molecular Nanomotors: Optimizing Photochemical Properties for One- and Two-photon Applications</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Alexander Mielke et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20328">2507.20328</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12607.html">Solving Constrained Combinatorial Optimization Problems with Variational Quantum Imaginary Time Evolution</a></div></td>
-<td>Xin Wei Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12607">2504.12607</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19276.html">Hybrid tensor network and neural network quantum states for quantum chemistry</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Zibo Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19276">2507.19276</a></td>
 </tr>
 </tbody></table>

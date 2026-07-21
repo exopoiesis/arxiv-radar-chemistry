@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17753.html">The energy landscape of DNA-binding proteins along the genome</a></div></td>
+<td>Alessandro Pandolfi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17753">2607.17753</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Zhijing Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16589">2607.16589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16807.html">Theory of associating polymers with annealed and quenched sticker disorder: Mean-field solution and phase behavior</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Sofia Moschin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16807">2607.16807</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -500,29 +518,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20476.html">Restoring the Conical Intersection Topology using Convex Density Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Federico Rossi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.20476">2604.20476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19319.html">An Oracle-Free Quantum Algorithm for Nonadiabatic Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Joshua Courtney</td>
-<td><a href="http://arxiv.org/abs/2604.19319">2604.19319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19328.html">Four-layer charge density waves and chirality in CsV$_3$Sb$_5$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Fernando de Juan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19328">2604.19328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19718.html">Direct RNA sequence design under codon constraints using expressive tensor-based secondary structure models</a></div></td>
-<td>Mark Fornace et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19718">2604.19718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19840.html">Graph-Theoretic Models for the Prediction of Molecular Measurements</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Anna Niane et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19840">2604.19840</a></td>
 </tr>
 </tbody></table>

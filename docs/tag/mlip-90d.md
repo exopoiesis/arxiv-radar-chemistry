@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18092.html">Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Timo Reents et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18092">2607.18092</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18099.html">Study of ordering in (MoCrTi)$_{100-x}$Al$_x$ refractory high-entropy alloys using machine learning interatomic potential</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Jiyao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18099">2607.18099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18182.html">Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH$_2$</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Bo Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18182">2607.18182</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -824,17 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21069.html">Accelerating point defect simulations using data-driven and machine learning approaches</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Arun Mannodi-Kanakkithodi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21069">2604.21069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19622.html">Beyond the Virial Expansion: Microscopic Origins of Partial Molar Volumes in LiCl Solutions</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Chun-Ting Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19622">2604.19622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20040.html">VPT2 Calculations of Vibrational Energies of CH3COOC6H4COOH Done in Seconds on a Laptop Using a Machine Learned Potential</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Saikiran Kotaru et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20040">2604.20040</a></td>
 </tr>
 </tbody></table>

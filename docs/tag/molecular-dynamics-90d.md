@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">327 papers</span>
+  <span class="paper-count">323 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18099.html">Study of ordering in (MoCrTi)$_{100-x}$Al$_x$ refractory high-entropy alloys using machine learning interatomic potential</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Jiyao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18099">2607.18099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18129.html">Defect configuration, not nitrogen content, governs the mechanical integrity of nitrogen-doped graphene: a molecular dynamics study</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
+<td>Indranil Rudra et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18129">2607.18129</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18182.html">Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH$_2$</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Bo Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18182">2607.18182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17330.html">Interfacial thermal transport in Si/SiC and SiC/diamond heterostructures: effects of amorphous interlayers and SiC polytypes</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Pedram Mirchi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17330">2607.17330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Zhijing Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16589">2607.16589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16783.html">Lattice initialisation and finite-size effects of non-equilibrium molecular dynamics simulations for heat transfer across graphene-copper interfaces</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>L. A. van Goor et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16783">2607.16783</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14827.html">SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO$_2$, Li$_3$PO$_4$, and Perovskites</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
@@ -1916,65 +1952,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20642.html">Polaron transport and Verwey transition in magnetite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Nikita Fominykh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.20642">2604.20642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21506.html">Fast-Reconfiguring Liquid-Crystal RIS for Pervasive Wireless Networks</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Luis F. Abanto-Leon et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21506">2410.21506</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13146.html">Multi-scale Modeling of the Electro-viscoelasticity of Charged Polymers in Combined Flow and Electric Fields</a></div></td>
-<td>Zachary Wolfgram et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13146">2509.13146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05019.html">Geometry of particle emission in UrQMD Ar+Sc collisions at SPS energies</a></div></td>
-<td>Barnabas Porfy et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05019">2512.05019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18139.html">Evaluating dispersion models for ab initio simulation of G-I and G-II molten fluoride salts</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Shubhojit Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18139">2604.18139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19319.html">An Oracle-Free Quantum Algorithm for Nonadiabatic Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Joshua Courtney</td>
-<td><a href="http://arxiv.org/abs/2604.19319">2604.19319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19491.html">Causality in Liquid Water as a Hallmark of Emergent Glassy Dynamics</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Leon Huet et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19491">2604.19491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19615.html">Lattice thermal transport from phonon spectra beyond perturbation theory</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Zezhu Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19615">2604.19615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19637.html">Ion wake-mediated dust interactions under PK-4 conditions: a generalized and compact potential formulation</a></div></td>
-<td>Diana Jimenez Marti et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19637">2604.19637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19912.html">A Statistical-Mechanical Model for Dipolar Chain Formation</a></div></td>
-<td>Zhongqi Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19912">2604.19912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20040.html">VPT2 Calculations of Vibrational Energies of CH3COOC6H4COOH Done in Seconds on a Laptop Using a Machine Learned Potential</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Saikiran Kotaru et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20040">2604.20040</a></td>
 </tr>
 </tbody></table>

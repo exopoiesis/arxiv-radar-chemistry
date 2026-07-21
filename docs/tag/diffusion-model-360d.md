@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">447 papers</span>
+  <span class="paper-count">448 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17910.html">Chemical filters for ultra-high-throughput materials screening and generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Kinga O. Mastej et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17910">2607.17910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18144.html">Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Thomas MacDougall et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18144">2607.18144</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14678.html">Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskites</a></div></td>
@@ -2690,11 +2702,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19799.html">Enhancing Materials Discovery with Valence Constrained Design in Generative Modeling</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Mouyang Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19799">2507.19799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17800.html">Improving Multislice Electron Ptychography with a Generative Prior</a></div></td>
-<td>Christian K. Belardi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17800">2507.17800</a></td>
 </tr>
 </tbody></table>

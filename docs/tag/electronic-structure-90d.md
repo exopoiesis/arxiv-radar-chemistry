@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18214.html">Position-dependent tight-binding model for Li impurities in monolayer and bilayer graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
+<td>Hernan Aguirre et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18214">2607.18214</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17385.html">Symmetry-Engineered Nonlinear Hall Response and Optical Response in Strained Monolayer Janus AsTeBr</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Dimple Rani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17385">2607.17385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Purba Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16483.html">Bond reconstruction and vacancy clustering in monolayer silicon carbide from first principles</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Péter Udvarhelyi</td>
+<td><a href="http://arxiv.org/abs/2607.16483">2607.16483</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15358.html">Spectral amplification for ground-state energy estimation of electronic structure in first quantization</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
@@ -584,17 +608,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20547.html">A computational alloy design framework for the promotion of amorphous grain boundary complexions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Prince Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2604.20547">2604.20547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14665.html">Accurate and scalable exchange-correlation with deep learning</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Giulia Luise et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14665">2506.14665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20040.html">VPT2 Calculations of Vibrational Energies of CH3COOC6H4COOH Done in Seconds on a Laptop Using a Machine Learned Potential</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Saikiran Kotaru et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20040">2604.20040</a></td>
 </tr>
 </tbody></table>

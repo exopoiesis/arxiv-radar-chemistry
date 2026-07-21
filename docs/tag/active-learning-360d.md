@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16486.html">Instability-Avoiding Active Learning for Cluster Expansions in Complex Multielement Materials</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Michael J. Waters et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16486">2607.16486</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Sheng Bi et al.</td>
@@ -848,11 +854,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20056.html">Machine-Learning-Assisted Photonic Device Development: A Multiscale Approach from Theory to Characterization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Yuheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20056">2506.20056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19316.html">Human-AI Synergy in Adaptive Active Learning for Continuous Lithium Carbonate Crystallization Optimization</a></div></td>
-<td>Shayan S. Mousavi Masouleh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19316">2507.19316</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17759.html">Ah-SCDFT:A general approach for superconductivity with an-harmonic corrections</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Xiaozheng Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17759">2607.17759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18071.html">DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Edward Linscott et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18071">2607.18071</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18096.html">Optimal transition states for polaron hopping transport without supercells</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="string-method-7d.html">string-method</a></div></td>
+<td>Vasilii Vasilchenko et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18096">2607.18096</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Zhengwei Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17265">2607.17265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17385.html">Symmetry-Engineered Nonlinear Hall Response and Optical Response in Strained Monolayer Janus AsTeBr</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Dimple Rani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17385">2607.17385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="catalysis-7d.html">catalysis</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>Zhijing Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16589">2607.16589</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="tmd-7d.html">tmd</a></div></td>
@@ -26,6 +62,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15984.html">The anomalous long lifetime of $^{14}$C revealed by ab initio nuclear lattice EFT</a></div></td>
 <td>Teng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15984">2607.15984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Purba Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-16</td>
@@ -92,41 +134,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12783.html">Photogeneration and signatures of coherent phonons in time-resolved photoemission spectroscopy: First-principles time-dependent adiabatic GW approach</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
 <td>Yang-hao Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12783">2607.12783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Tetsuji Kuboyama et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11105">2607.11105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11406.html">Ab initio path integral Monte Carlo study of the 2D uniform electron liquid at finite temperatures</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Tobias Dornheim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11406">2607.11406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11452.html">Ab initio study of $β$-decay and pairing in $N=Z$ nuclei</a></div></td>
-<td>Subhrajit Sahoo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11452">2607.11452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11733.html">Ab initio calculations of two-neutrino and neutrinoless double-$\boldsymbolβ$ decay of $^{48}$Ca and related Gamow-Teller strength distributions</a></div></td>
-<td>Zhen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11733">2607.11733</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11790.html">Strain-controlled crystalline--amorphous transition and flat-band tuning in buckled silicon kagome</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Chenhaoyue Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11790">2607.11790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12213.html">Analytical solution of the Eliashberg equations for strong-coupling superconductivity in hydrides</a></div></td>
-<td>Tomas J. Escamilla et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12213">2607.12213</a></td>
 </tr>
 </tbody></table>

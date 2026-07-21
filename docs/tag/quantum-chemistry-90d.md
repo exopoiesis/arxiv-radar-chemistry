@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18126.html">CutBackdoor: A Circuit Cut Triggered Backdoor Attack on Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Ahatesham Bhuiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18126">2607.18126</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13737.html">Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>James T. Pegg et al.</td>
@@ -440,11 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02340.html">Perturbative Variational Quantum Eigensolver via Reduced Density Matrices</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Yuhan Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2504.02340">2504.02340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19470.html">Advancing Practical Quantum Embedding Simulations via Operator Commutativity Based State Preparation for Complex Chemical Systems</a></div></td>
-<td>Dibyendu Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19470">2604.19470</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">2824 papers</span>
+  <span class="paper-count">2831 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17759.html">Ah-SCDFT:A general approach for superconductivity with an-harmonic corrections</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Xiaozheng Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17759">2607.17759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18071.html">DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Edward Linscott et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18071">2607.18071</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18096.html">Optimal transition states for polaron hopping transport without supercells</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="string-method-all.html">string-method</a></div></td>
+<td>Vasilii Vasilchenko et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18096">2607.18096</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
+<td>Zhengwei Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17265">2607.17265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17385.html">Symmetry-Engineered Nonlinear Hall Response and Optical Response in Strained Monolayer Janus AsTeBr</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Dimple Rani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17385">2607.17385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="catalysis-all.html">catalysis</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td>Zhijing Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16589">2607.16589</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
@@ -26,6 +62,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15984.html">The anomalous long lifetime of $^{14}$C revealed by ab initio nuclear lattice EFT</a></div></td>
 <td>Teng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15984">2607.15984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Purba Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-16</td>

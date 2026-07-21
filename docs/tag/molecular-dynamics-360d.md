@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1572 papers</span>
+  <span class="paper-count">1575 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18099.html">Study of ordering in (MoCrTi)$_{100-x}$Al$_x$ refractory high-entropy alloys using machine learning interatomic potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Jiyao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18099">2607.18099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18129.html">Defect configuration, not nitrogen content, governs the mechanical integrity of nitrogen-doped graphene: a molecular dynamics study</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td>Indranil Rudra et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18129">2607.18129</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18182.html">Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH$_2$</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Bo Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18182">2607.18182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17330.html">Interfacial thermal transport in Si/SiC and SiC/diamond heterostructures: effects of amorphous interlayers and SiC polytypes</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Pedram Mirchi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17330">2607.17330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Zhijing Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16589">2607.16589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16783.html">Lattice initialisation and finite-size effects of non-equilibrium molecular dynamics simulations for heat transfer across graphene-copper interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>L. A. van Goor et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16783">2607.16783</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14827.html">SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO$_2$, Li$_3$PO$_4$, and Perovskites</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
@@ -9428,23 +9464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19968.html">Dimer-Enhanced Optimization: A First-Order Approach to Escaping Saddle Points in Neural Network Training</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Yue Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19968">2507.19968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18964.html">End-to-End Photodissociation Dynamics of Energized H$_2$COO</a></div></td>
-<td>Cangtao Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18964">2507.18964</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19248.html">Dynamically phase-separated states in driven binary dusty plasma</a></div></td>
-<td>Farida Batool et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19248">2507.19248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19435.html">Equivariant machine learning of Electric Field Gradients -- Predicting the quadrupolar coupling constant in the MAPbI$_3$ phase transition</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Bernhard Schmiedmayer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19435">2507.19435</a></td>
 </tr>
 </tbody></table>

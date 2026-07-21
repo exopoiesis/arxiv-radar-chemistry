@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1520,11 +1520,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20326.html">MIPS: a Multimodal Infinite Polymer Sequence Pre-training Framework for Polymer Property Prediction</a></div></td>
 <td>Jiaxi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20326">2507.20326</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06489.html">T2MAT (text-to-materials): A universal agent for generating material structures with goal properties from a single sentence</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06489">2407.06489</a></td>
 </tr>
 </tbody></table>

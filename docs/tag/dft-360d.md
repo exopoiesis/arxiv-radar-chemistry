@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2085 papers</span>
+  <span class="paper-count">2086 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17759.html">Ah-SCDFT:A general approach for superconductivity with an-harmonic corrections</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Xiaozheng Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17759">2607.17759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18071.html">DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Edward Linscott et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18071">2607.18071</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18092.html">Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Timo Reents et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18092">2607.18092</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18094.html">Symmetry-Based Microscopic Theory of the Unconventional Pairing Mechanism in La$_5$Ni$_3$O$_{11}$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td>Guan-Hao Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18094">2607.18094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18096.html">Optimal transition states for polaron hopping transport without supercells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="string-method-360d.html">string-method</a></div></td>
+<td>Vasilii Vasilchenko et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18096">2607.18096</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Zhengwei Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17265">2607.17265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17385.html">Symmetry-Engineered Nonlinear Hall Response and Optical Response in Strained Monolayer Janus AsTeBr</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Dimple Rani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17385">2607.17385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16807.html">Theory of associating polymers with annealed and quenched sticker disorder: Mean-field solution and phase behavior</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Sofia Moschin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16807">2607.16807</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a></div></td>
@@ -26,6 +74,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15728.html">Interface-Engineered Giant Multistate Resistance Switching in Altermagnetic CrSb Multiferroic Tunnel Junctions</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Zhi Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15728">2607.15728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Purba Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16483.html">Bond reconstruction and vacancy clustering in monolayer silicon carbide from first principles</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Péter Udvarhelyi</td>
+<td><a href="http://arxiv.org/abs/2607.16483">2607.16483</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-16</td>
@@ -12470,59 +12530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20084.html">On the adsorption of oxygen to high entropy alloy surfaces up to 2ML coverage using Density Functional Theory and Monte Carlo calculations</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Tyler D. Doležal et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20084">2507.20084</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19250.html">Magnetic Ni-N-Ni Centers in N-substituted NiO</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Simon Godin et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19250">2412.19250</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13908.html">Weyl semimetal engineering by symmetry control in NiTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Marcos G. O. Junior et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13908">2506.13908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17082.html">Further steps towards next generation of covariant energy density functionals</a></div></td>
-<td>B. Osei et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17082">2507.17082</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18873.html">Prediction of Mechanical Properties and Thermodynamic Stability of Ti-N system using MTP Interatomic Potential</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Pradeep Kumar Rana et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18873">2507.18873</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18985.html">Step-directed Epitaxy of Uni-directional Hexagonal Boron Nitride on Vicinal Ge(110)</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Ju-Hyun Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18985">2507.18985</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19189.html">Machine Learning Band Gap Predictions: Linking Quasiparticle Self-Consistent GW and LDA-Derived Partial Density of States</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Shota Tankano et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19189">2507.19189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19307.html">Stability and Symmetry-Assured Crystal Structure Generation for Inverse Design of Photocatalysts in Water Splitting</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19307">2507.19307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19660.html">Data-efficient machine-learning of complex Fe-Mo intermetallics using domain knowledge of chemistry and crystallography</a></div></td>
-<td>Mariano Forti et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19660">2507.19660</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19670.html">Making atomistic materials calculations accessible with the AiiDAlab Quantum ESPRESSO app</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Xing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19670">2507.19670</a></td>
 </tr>
 </tbody></table>

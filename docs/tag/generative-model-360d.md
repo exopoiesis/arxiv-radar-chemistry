@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17910.html">Chemical filters for ultra-high-throughput materials screening and generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Kinga O. Mastej et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17910">2607.17910</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13503.html">Exploring the Alignment of Generation and Understanding in Protein Structure Modeling</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Junde Xu et al.</td>
@@ -2918,11 +2924,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19894.html">A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Xiaohua Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19894">2507.19894</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19307.html">Stability and Symmetry-Assured Crystal Structure Generation for Inverse Design of Photocatalysts in Water Splitting</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19307">2507.19307</a></td>
 </tr>
 </tbody></table>

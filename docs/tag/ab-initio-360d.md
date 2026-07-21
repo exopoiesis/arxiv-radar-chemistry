@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1573 papers</span>
+  <span class="paper-count">1572 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17759.html">Ah-SCDFT:A general approach for superconductivity with an-harmonic corrections</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Xiaozheng Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17759">2607.17759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18071.html">DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Edward Linscott et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18071">2607.18071</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18096.html">Optimal transition states for polaron hopping transport without supercells</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="string-method-360d.html">string-method</a></div></td>
+<td>Vasilii Vasilchenko et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18096">2607.18096</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Zhengwei Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17265">2607.17265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17385.html">Symmetry-Engineered Nonlinear Hall Response and Optical Response in Strained Monolayer Janus AsTeBr</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Dimple Rani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17385">2607.17385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Zhijing Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16589">2607.16589</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
@@ -26,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15984.html">The anomalous long lifetime of $^{14}$C revealed by ab initio nuclear lattice EFT</a></div></td>
 <td>Teng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15984">2607.15984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Purba Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-16</td>
@@ -9404,53 +9446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20118.html">Iterative Pretraining Framework for Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Taoyong Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20118">2507.20118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06489.html">T2MAT (text-to-materials): A universal agent for generating material structures with goal properties from a single sentence</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06489">2407.06489</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03926.html">Robust ab initio predictions for dimensionless ratios of E2 and radius observables. I. Electric quadrupole moments and deformation</a></div></td>
-<td>Mark A. Caprio et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03926">2409.03926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09228.html">Robust ab initio predictions for dimensionless ratios of E2 and radius observables. II. Estimation of E2 transition strengths by calibration to the charge radius</a></div></td>
-<td>Mark A. Caprio et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09228">2501.09228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13908.html">Weyl semimetal engineering by symmetry control in NiTe$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Marcos G. O. Junior et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13908">2506.13908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18933.html">Stoichiometric and Non-stoichiometric Cesium Potassium Antimonide Photocathodes: Ab-initio Insights into its Properties for Photoemission</a></div></td>
-<td>Sandip Aryal et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18933">2507.18933</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19189.html">Machine Learning Band Gap Predictions: Linking Quasiparticle Self-Consistent GW and LDA-Derived Partial Density of States</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Shota Tankano et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19189">2507.19189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19435.html">Equivariant machine learning of Electric Field Gradients -- Predicting the quadrupolar coupling constant in the MAPbI$_3$ phase transition</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Bernhard Schmiedmayer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19435">2507.19435</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19670.html">Making atomistic materials calculations accessible with the AiiDAlab Quantum ESPRESSO app</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Xing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19670">2507.19670</a></td>
 </tr>
 </tbody></table>

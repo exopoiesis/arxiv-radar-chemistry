@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Zhengwei Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17265">2607.17265</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
@@ -266,23 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20476.html">Restoring the Conical Intersection Topology using Convex Density Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Federico Rossi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.20476">2604.20476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22497.html">The Surface Sensitivity of X-ray Second Harmonic Generation as a Function of Energy</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Daniel Schacher et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22497">2602.22497</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03220.html">Dynamical magnetic susceptibility of non-collinear magnets: A novel KKR-based ab initio scheme and its application</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>David Eilmsteiner et al.</td>
-<td><a href="http://arxiv.org/abs/2603.03220">2603.03220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04111.html">Dispersion and lifetimes of magnons in non-collinear magnets from time dependent density functional theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>David Eilmsteiner et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04111">2603.04111</a></td>
 </tr>
 </tbody></table>

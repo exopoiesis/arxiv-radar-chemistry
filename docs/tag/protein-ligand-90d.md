@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17601.html">Trustworthy Protein-Ligand Binding Affinity Prediction via Reliability-Aware Multi-Engine Fusion</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Yongchan Hong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17601">2607.17601</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18056.html">An Early Warning of Emerging Biosecurity Risks in Frontier LLMs</a></div></td>
+<td>Zhida He et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18056">2607.18056</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17412.html">CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Yasheng Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17412">2607.17412</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15101.html">Accelerated descriptor-free path sampling for protein-ligand binding kinetics</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
@@ -260,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23134.html">h-MINT: Modeling Pocket-Ligand Binding with Hierarchical Molecular Interaction Network</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Yanru Qu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23134">2604.23134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20019.html">Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Renee Gil</td>
-<td><a href="http://arxiv.org/abs/2604.20019">2604.20019</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17759.html">Ah-SCDFT:A general approach for superconductivity with an-harmonic corrections</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Xiaozheng Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17759">2607.17759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18071.html">DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Edward Linscott et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18071">2607.18071</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18092.html">Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Timo Reents et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18092">2607.18092</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18094.html">Symmetry-Based Microscopic Theory of the Unconventional Pairing Mechanism in La$_5$Ni$_3$O$_{11}$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
+<td>Guan-Hao Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18094">2607.18094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18096.html">Optimal transition states for polaron hopping transport without supercells</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="string-method-7d.html">string-method</a></div></td>
+<td>Vasilii Vasilchenko et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18096">2607.18096</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Zhengwei Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17265">2607.17265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17385.html">Symmetry-Engineered Nonlinear Hall Response and Optical Response in Strained Monolayer Janus AsTeBr</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Dimple Rani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17385">2607.17385</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16807.html">Theory of associating polymers with annealed and quenched sticker disorder: Mean-field solution and phase behavior</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Sofia Moschin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16807">2607.16807</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="tmd-7d.html">tmd</a></div></td>
@@ -26,6 +74,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15728.html">Interface-Engineered Giant Multistate Resistance Switching in Altermagnetic CrSb Multiferroic Tunnel Junctions</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
 <td>Zhi Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15728">2607.15728</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Purba Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16483.html">Bond reconstruction and vacancy clustering in monolayer silicon carbide from first principles</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Péter Udvarhelyi</td>
+<td><a href="http://arxiv.org/abs/2607.16483">2607.16483</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-16</td>
@@ -140,23 +200,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13309.html">Fundamental Relation between Conductance of Biomolecules and the Fukui Function</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
 <td>Gabor Vattay</td>
 <td><a href="http://arxiv.org/abs/2607.13309">2607.13309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Tetsuji Kuboyama et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11105">2607.11105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11550.html">Synthesis of Ti2B2Clx MBenes in molten salts from theoretical and experimental perspectives</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Rodrigo M. Ronchi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11550">2607.11550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12202.html">Defect assignment of the clock site in $^{229}\text{Th:CaF}_2$</a></div></td>
-<td>Daniel A. Rehn et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12202">2607.12202</a></td>
 </tr>
 </tbody></table>

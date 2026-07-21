@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17412.html">CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Yasheng Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17412">2607.17412</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15095.html">Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents</a></div></td>
 <td>Dylan Van Mulders et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22425.html">SVGym (SciVerseGym): An Environment for Reinforcement Learning and Bayesian Optimization in Crystal Discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Bin Cao</td>
 <td><a href="http://arxiv.org/abs/2606.22425">2606.22425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21830.html">Mat-Pref: Verifiable-Reward Training Improves Compositional Reasoning in Inorganic Materials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Sarrah R. Mikhail Leung et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21830">2606.21830</a></td>
 </tr>
 </tbody></table>

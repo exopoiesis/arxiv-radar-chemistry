@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17412.html">CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Yasheng Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17412">2607.17412</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15095.html">Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents</a></div></td>
@@ -188,17 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23061.html">C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="molecular-llm-90d.html">molecular-llm</a></div></td>
 <td>Rui Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23061">2604.23061</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19567.html">Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic</a></div></td>
-<td>Chuou Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19567">2604.19567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20019.html">Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Renee Gil</td>
-<td><a href="http://arxiv.org/abs/2604.20019">2604.20019</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">366 papers</span>
+  <span class="paper-count">365 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2204,11 +2204,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20819.html">First principles study of [111]-oriented epitaxially strained Rare-Earth Nickelate NdNiO$_3$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Alexander Lione et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20819">2507.20819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19250.html">Magnetic Ni-N-Ni Centers in N-substituted NiO</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Simon Godin et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19250">2412.19250</a></td>
 </tr>
 </tbody></table>

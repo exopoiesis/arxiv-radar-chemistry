@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18835.html">ABOPD: Antibody CDR Design via On-Policy Distillation</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
+<td>Zhuo Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18835">2607.18835</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="replica-exchange-7d.html">replica-exchange</a></div></td>
+<td>Mouyang Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19198">2607.19198</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17910.html">Chemical filters for ultra-high-throughput materials screening and generation</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
@@ -32,23 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14246.html">The Steering Budget: Examples beat Knobs</a></div></td>
 <td>Raj Kumar Rajendran</td>
 <td><a href="http://arxiv.org/abs/2607.14246">2607.14246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12325.html">Peak-Decomposition-Free Inverse Metrology of Hyperspectral Moiré Photoluminescence</a></div></td>
-<td>Katsunori Wakabayashi</td>
-<td><a href="http://arxiv.org/abs/2607.12325">2607.12325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="catalysis-7d.html">catalysis</a> · <a href="chemical-space-7d.html">chemical-space</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
-<td>Sarina Kopf et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12488">2607.12488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="chemical-llm-7d.html">chemical-llm</a> · <a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
-<td>Xingyu Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
 </tr>
 </tbody></table>

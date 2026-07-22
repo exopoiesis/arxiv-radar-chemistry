@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19044.html">Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Mingxuan Ouyang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19044">2607.19044</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17412.html">CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
@@ -1004,23 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03616.html">BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Wei-Ting Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03616">2406.03616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20056.html">Machine-Learning-Assisted Photonic Device Development: A Multiscale Approach from Theory to Characterization</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Yuheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20056">2506.20056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09884.html">VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains</a></div></td>
-<td>Xuzhao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09884">2507.09884</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19894.html">A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Xiaohua Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19894">2507.19894</a></td>
 </tr>
 </tbody></table>

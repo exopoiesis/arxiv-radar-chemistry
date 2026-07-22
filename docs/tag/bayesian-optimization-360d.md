@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,11 +794,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01900.html">Comparative Analysis of search Approaches to Discover Donor Molecules for Organic Solar Cells</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
 <td>Mohammed Azzouzi et al.</td>
 <td><a href="http://arxiv.org/abs/2411.01900">2411.01900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20056.html">Machine-Learning-Assisted Photonic Device Development: A Multiscale Approach from Theory to Characterization</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Yuheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20056">2506.20056</a></td>
 </tr>
 </tbody></table>

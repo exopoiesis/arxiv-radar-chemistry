@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19318.html">SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Ahmed Azaz Humdoon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19318">2607.19318</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15535.html">Symbolic Predicate-Guided Language Agents for Inverse Design of Perovskite Oxides</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Dong Hyeon Mok et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23548.html">SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
 <td>Nandana Menon et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23548">2606.23548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22677.html">Selectivity in tip-induced skeletal editing via heteroatom substitution</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Shantanu Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22677">2606.22677</a></td>
 </tr>
 </tbody></table>

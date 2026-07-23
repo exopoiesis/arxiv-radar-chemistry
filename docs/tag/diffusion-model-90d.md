@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,29 +500,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23536.html">$Z^2$-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</a></div></td>
 <td>Haosen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23536">2604.23536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15753.html">Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers</a></div></td>
-<td>Li Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15753">2507.15753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20792.html">BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Liang Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20792">2510.20792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21315.html">TopoStyle: Supporting Iterative Design with Generative AI for 2.5D Topology Optimization</a></div></td>
-<td>Shuyue Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21315">2604.21315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21809.html">Quotient-Space Diffusion Models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Yixian Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21809">2604.21809</a></td>
 </tr>
 </tbody></table>

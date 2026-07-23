@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,11 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02082.html">FARM: Functional Group-Aware Representations for Small Molecules</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Thao Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02082">2410.02082</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20328.html">Chemical Space of Molecular Nanomotors: Optimizing Photochemical Properties for One- and Two-photon Applications</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Alexander Mielke et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20328">2507.20328</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20925.html">Zero-Shot Learning with Subsequence Reordering Pretraining for Compound-Protein Interaction</a></div></td>
 <td>Hongzhi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20925">2507.20925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20328.html">Chemical Space of Molecular Nanomotors: Optimizing Photochemical Properties for One- and Two-photon Applications</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Alexander Mielke et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20328">2507.20328</a></td>
 </tr>
 </tbody></table>

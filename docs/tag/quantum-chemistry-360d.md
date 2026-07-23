@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">373 papers</span>
+  <span class="paper-count">370 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2234,23 +2234,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20583.html">Real-Space Chemistry on Quantum Computers: A Fault-Tolerant Algorithm with Adaptive Grids and Transcorrelated Extension</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>César Feniou et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20583">2507.20583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17912.html">SETOL: A Semi-Empirical Theory of (Deep) Learning</a></div></td>
-<td>Charles H Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17912">2507.17912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20317.html">Efficient Gaussian State Preparation in Quantum Circuits</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Yichen Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20317">2507.20317</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20328.html">Chemical Space of Molecular Nanomotors: Optimizing Photochemical Properties for One- and Two-photon Applications</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Alexander Mielke et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20328">2507.20328</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>catalysis — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15066.html">Interaction energies of H$_2$ and CO on transition-metal surfaces computed by a range-separated hybrid van der Waals density functional</a></div><div class="paper-tags"><a href="vdw-correction-7d.html">vdw-correction</a></div></td>
 <td>Per Hyldgaard</td>
 <td><a href="http://arxiv.org/abs/2607.15066">2607.15066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15309.html">DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="protein-ligand-7d.html">protein-ligand</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Kaihui Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15309">2607.15309</a></td>
 </tr>
 </tbody></table>

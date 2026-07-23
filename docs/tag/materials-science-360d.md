@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">404 papers</span>
+  <span class="paper-count">403 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2432,11 +2432,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21356.html">Enhancing Spectroscopy and Microscopy with Emerging Methods in Photon-Correlation and Quantum Illumination</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Chieh Tsao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21356">2507.21356</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20280.html">SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a></div></td>
-<td>Keyan Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20280">2507.20280</a></td>
 </tr>
 </tbody></table>

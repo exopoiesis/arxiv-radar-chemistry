@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15103.html">A fast summation method for the DFT-D3 dispersion correction</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Victoria Valeeva et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15103">2607.15103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13757.html">Girsanov Reweighting for Uncertainty Propagation in Rare-Event Kinetics</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Leonard Moracchini et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13757">2607.13757</a></td>
 </tr>
 </tbody></table>

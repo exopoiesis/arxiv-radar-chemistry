@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,59 +536,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24804.html">THz-induced phonon mode mixing and collective dynamics in a polar nanolattice</a></div></td>
 <td>Elizabeth Skoropata et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24804">2606.24804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22852.html">Thermal Transport in SiC with Intrinsic Defects and Mg Transmutation Products</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Chen Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22852">2606.22852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22885.html">Interfacial-melt stability as a thermodynamic prerequisite for solid-state synthesis</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Zihan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22885">2606.22885</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23109.html">Observation of stopping power reduction at strong ion-plasma coupling</a></div></td>
-<td>Yun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23109">2606.23109</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23214.html">Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23214">2606.23214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23265.html">Node-Level Performance and Energy Characterization of Flagship Science Applications on SuperMUC-NG Phase 2</a></div></td>
-<td>Salvatore Cielo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23265">2606.23265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23328.html">Reactive Force Field for P/Sn/I System: Atomistic Insight into the Early Stage of Black Phosphorus and Phosphorene Synthesis Process</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Djuric Brice Talonpa Tchoffo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23328">2606.23328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23349.html">Dissociation of NaCl in supercritical aqueous fluids of moderate and high concentrations: A molecular dynamics study</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
-<td>Mikhail V. Ivanov et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23349">2606.23349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23628.html">Two-dimensional stealthy hyperuniform polycrystalline disk packings</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Carlo Vanoni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23628">2606.23628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23923.html">Stress-Boundary-Memory Feedback Drives Vortical-Polar Transitions in Softly Confined Active Matter</a></div></td>
-<td>Haosheng Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23923">2606.23923</a></td>
 </tr>
 </tbody></table>

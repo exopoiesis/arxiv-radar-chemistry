@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">363 papers</span>
+  <span class="paper-count">361 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2180,17 +2180,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21789.html">Investigating CO Adsorption on Cu(111) and Rh(111) Surfaces Using Machine Learning Exchange-Correlation Functionals</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Xinyuan Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21789">2507.21789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20802.html">Parallel athermal quasistatic deformation stepping of molecular systems</a></div></td>
-<td>Maximilian Reihn et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20802">2507.20802</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21030.html">Quantum Simulation of Molecular Dynamics Processes -- A Benchmark Study Using Classical Simulator and Present-Day Quantum Hardware</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Tamila Kuanysheva et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21030">2507.21030</a></td>
 </tr>
 </tbody></table>

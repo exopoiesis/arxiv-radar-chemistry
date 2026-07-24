@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,41 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16167.html">Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK</a></div></td>
 <td>Sadia Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.16167">2607.16167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Tatiana Nemirovich et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Sarath Menon et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14838.html">Density-driven reentrant polymer transitions via saturable bridging crowders</a></div></td>
-<td>Monmee Phukan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14838">2607.14838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14951.html">Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Aaron Flötotto et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14951">2607.14951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15008.html">Plug Flow and Cavitation in Rough Lubricated Contacts: Molecular Dynamics of Single- vs. Two-Component Fluids</a></div></td>
-<td>Shubham Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15008">2607.15008</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15476.html">exa-PD: A scalable high-performance workflow for multi-element phase diagram construction</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Zhuo Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15476">2607.15476</a></td>
 </tr>
 </tbody></table>

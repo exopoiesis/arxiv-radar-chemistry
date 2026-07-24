@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,17 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01362.html">Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Weiliang Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01362">2607.01362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24480.html">Breaking Bottlenecks in Solid Electrolyte Discovery with Large Artificial Intelligence Models</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Eric Jianfeng Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24480">2606.24480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24750.html">Quantum nuclear and band-dispersion effects recover near-UV absorption in short-hydrogen-bonded organic crystals</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24750">2606.24750</a></td>
 </tr>
 </tbody></table>

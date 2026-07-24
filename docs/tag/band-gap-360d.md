@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">443 papers</span>
+  <span class="paper-count">442 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2666,11 +2666,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22018.html">Effect of applied pressure on the non-relativistic spin-splitting (NRSS) of FeSb2 altermagnet: A first-principles study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Shalika R. Bhandari et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22018">2507.22018</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20819.html">First principles study of [111]-oriented epitaxially strained Rare-Earth Nickelate NdNiO$_3$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Alexander Lione et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20819">2507.20819</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">474 papers</span>
+  <span class="paper-count">472 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2846,17 +2846,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22018.html">Effect of applied pressure on the non-relativistic spin-splitting (NRSS) of FeSb2 altermagnet: A first-principles study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Shalika R. Bhandari et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22018">2507.22018</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12925.html">A Denser Hydrogen Inferred from First-Principles Simulations Challenges Jupiter&#x27;s Interior Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Cesare Cozza et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12925">2501.12925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20647.html">hBN alignment orientation controls moiré strength in rhombohedral graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Matan Uzan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20647">2507.20647</a></td>
 </tr>
 </tbody></table>

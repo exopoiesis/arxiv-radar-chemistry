@@ -12449,5 +12449,220 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-07-21"
+ },
+ "2607.19629": {
+  "abstract": "Large language models operating in emotionally sensitive contexts face a structural trilemma: when users in vulnerable states request information that may reinforce maladaptive attribution, current response architectures resolve the tension through protective restriction, uninflected facilitation, or unintegrated co-presence of both imperatives -- each preserving one objective at the cost of the other. Administering a three-turn escalating vulnerability vignette to three commercial LLMs (900 sessions across material, relational, and somatic status-proxy variants) and coding responses with two binary indices (VCC/VCI), we characterize a previously undocumented failure mode we term adaptive capitulation: the model validates the social injustice underlying the user's distress before pivoting to detailed facilitation of the very acquisition it nominally discouraged. We show that the trilemma is structural rather than incidental, and propose Minimal Reattributive Sufficiency (MRS), an architecture-neutral design principle that embeds a single reattributive cue within an otherwise validating response, preserving a pathway toward autonomous reattribution without contesting the user's stated goal.",
+  "authors": [
+   "Eunna Lee"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Eunna Lee",
+  "pdf_url": "http://arxiv.org/pdf/2607.19629",
+  "primary_category": "cs.CL",
+  "published": "2026-07-21",
+  "tags": [],
+  "title": "Adaptive Capitulation: A Structural Failure Mode of LLM Responses in Vulnerability Contexts",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-21"
+ },
+ "2607.20058": {
+  "abstract": "Large language models can answer scientific questions, yet a correct output does not reveal whether the model represents or uses the governing physics. Here we show that materials science mechanism information in the open-weight google/gemma-4-E4B-it model has three experimentally separable forms: concepts are readable in individual hidden states, constitutive orientation is carried by controlled transformations between states, and selected internal representations causally control engineering answers. We combine matched direct and Jacobian vocabulary readouts, option-free state geometry, a 60-law counterfactual benchmark and causal interventions. In 50 held-out materials descriptions, three independently fitted Jacobian lenses reproduced concept ranks, and target-free word sets from both readouts enabled blinded identification of 9 of 10 mechanism families. A separate 72-prompt benchmark produced mechanism-specific hidden-state neighborhoods, but an exact graph audit showed that this apparent physical organization was equally explained by numerical comparison. We therefore compared otherwise identical prompts in which only the direction of the physical input was reversed, asking whether the resulting hidden-state movement followed the supplied constitutive law. These state transformations ordered direct, physically neutral and inverse laws across 60 frozen relations and correctly oriented 39 of 40 directional laws, whereas lexical controls were near chance. Bidirectional interventions shifted answer probabilities toward or away from the physically appropriate outcome across all 12 matched cases, while counterfactual state patches transferred opposing decision signals across mechanisms and answer formats. Physical relationships were therefore more visible in controlled state changes than in absolute states alone.",
+  "authors": [
+   "Markus J. Buehler"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Markus J. Buehler",
+  "pdf_url": "http://arxiv.org/pdf/2607.20058",
+  "primary_category": "cs.AI",
+  "published": "2026-07-22",
+  "tags": [
+   "materials-science"
+  ],
+  "title": "Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.20090": {
+  "abstract": "Retrieval-augmented large language models frequently face contexts that interleave useful evidence with misleading statements or instruction-like content. Blanket refusal discards valid evidence, whereas uncritical adoption yields incorrect or unsafe answers. The ability to selectively adopt relevant information while rejecting deceptive or harmful content is therefore critical for reliable deployment in real-world retrieval settings. We introduce SelectBench, a controlled benchmark and training set for selective evidence adoption, and post-train Qwen3.5-4B directly with DAPO using either deterministic rule rewards or a frozen semantic judge. On the corrected 325-example SelectBench-v2 test set, strict success rises from 22.46% for the original checkpoint to 25.54% with DAPO-Rule and 26.46% with DAPO-DeepSeek. Both trained policies reduce forbidden-content adoption and produce shorter, more focused responses, yet prompt-injection following does not improve. The paired gains are modest and fail to survive Holm correction, suggesting that stronger reward shaping or additional training iterations may be needed for more robust gains. DAPO-DeepSeek exhibits no material degradation on MMLU or clean HotpotQA, indicating that the post-training procedure preserves general capabilities. These results demonstrate a directional improvement in selective evidence use, while identifying injection resistance and statistical robustness as important remaining challenges for future work.",
+  "authors": [
+   "Yanyu Chen",
+   "Yue Li",
+   "Yongyi Cui",
+   "Dongsheng Shi",
+   "Lichang Dai"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yanyu Chen",
+  "pdf_url": "http://arxiv.org/pdf/2607.20090",
+  "primary_category": "cs.CL",
+  "published": "2026-07-22",
+  "tags": [],
+  "title": "Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.20557": {
+  "abstract": "Scientific discovery is increasingly shifting from isolated disciplines to multi-domain reasoning, and AI for science faces a similar transition. Existing systems are either specialised for individual domains or unify scientific data mainly through text tokenisation and prompt-based interfaces, limiting their ability to handle diverse scientific inputs, produce modality-native outputs, and support joint understanding, reasoning, and generation across scientific domains. We introduce MKB, a unified scientific multimodal model for both understanding and generation, built around a shared Transformer backbone and modality-tailored encoders, adapters, and decoders. MKB covers six scientific branches, including DNA, RNA, proteins, small molecules, earth science, and medical images, and supports native outputs such as biological sequences, molecular strings, meteorological fields, and segmentation masks. Training follows a two-stage modality-then-language curriculum: Stage 1 aligns modality-specific components with the frozen backbone, and Stage 2 consolidates them with the language backbone using mixed scientific and general corpora. Experiments show that MKB achieves competitive scientific understanding across biological and molecular benchmarks, produces high-fidelity native outputs for weather forecasting, biological generation, and medical-image segmentation, and largely retains the general capabilities of its Qwen3-VL backbone. These results demonstrate the feasibility of the proposed paradigm, suggesting that shared-backbone models with modality-tailored components can provide a promising foundation for future cross-domain scientific multimodal exploration. The model and code are publicly available at https://github.com/Shanghai-Academy-of-AI-For-Science/MKB and https://huggingface.co/sais-org/MKB.",
+  "authors": [
+   "Hesen Chen",
+   "Xinyu Su",
+   "Xiaomeng Yang",
+   "Yuetan Lin",
+   "Zixiong Yang",
+   "Junyi An",
+   "Fenglei Cao",
+   "Yifeng Jiao",
+   "Yunqi Zhang",
+   "Yuan Cheng",
+   "Zhiyu Tan",
+   "Hao Li",
+   "Libo Wu",
+   "Yuan Qi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Hesen Chen",
+  "pdf_url": "http://arxiv.org/pdf/2607.20557",
+  "primary_category": "cs.LG",
+  "published": "2026-07-17",
+  "tags": [],
+  "title": "Monkey King Bang: A Unified Scientific Multimodal Foundation Model",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-17"
+ },
+ "2607.20814": {
+  "abstract": "The electrocardiogram (ECG) is a cornerstone of cardiac as- sessment, yet clinical deployment of deep learning models remains con- strained by limited interpretability and the hallucination risk of large language models (LLMs). Existing CNN+Grad-CAM+multimodal LLM frameworks can generate ECG reports, but their explanations are often only weakly grounded in established diagnostic criteria, reducing trust- worthiness and reproducibility. We propose a guide-grounded multimodal framework that explicitly anchors report generation in curated clinical knowledge. A convolutional neural network (CNN) and Grad-CAM first produce class probabilities and class-specific heatmaps from 12-lead ECG images. In parallel, authoritative ECG textbooks and guideline materials are distilled offline into a structured ECG Interpretation Guide, which is injected as a fixed knowledge block for every sample. Conditioned on the ECG image, Grad-CAM overlay, CNN-derived fact pack, and the in- jected guide, a multimodal LLM generates structured diagnostic reports with guideline-consistent terminology and criteria usage. Experiments on the full PTB-XL test set demonstrate that guide grounding improves se- mantic quality and perceived consistency of generated reports while pre- serving competitive classification performance. In particular, our method increases the average BERTScore of generated impressions from 0.818 to 0.953 relative to a strong CNN+Grad-CAM+MLLM baseline, indicat- ing closer alignment with reference reports. These findings suggest that injecting a distilled interpretation guide into the multimodal prompting pipeline offers a practical pathway to reduce hallucinations and enhance the clinical plausibility of LLM-based ECG explanations, bringing ex- plainable cardiac diagnosis closer to real-world deployment.",
+  "authors": [
+   "Hai-Nam Duy Vuong",
+   "Duy-Anh Bui",
+   "Trong-Nghia Nguyen",
+   "Kim-Ngan Thi Nguyen",
+   "Trang Mai Xuan",
+   "Tien-Cuong Nguyen",
+   "Van-Dem Pham",
+   "Thien Van Luong"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "12 pages, 3 figures, accepted at CITA 2026",
+  "first_author": "Hai-Nam Duy Vuong",
+  "pdf_url": "http://arxiv.org/pdf/2607.20814",
+  "primary_category": "cs.AI",
+  "published": "2026-07-23",
+  "tags": [],
+  "title": "Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.20880": {
+  "abstract": "High-throughput experimentation and self-driving laboratories are drastically accelerating materials discovery, yet automated interpretation of X-ray powder diffraction (XRPD) data remains a critical rate-limiting step. Conventional search-match workflows rely heavily on expert manual intervention, while pure data-driven machine learning approaches suffer from limited generalizability across chemical systems and lack rigorous crystallographic interpretability. Here we present MatDiffract, a material-informed automated analysis platform for high-throughput XRPD characterization. Built on a first-principles density functional theory (DFT)-derived inorganic crystal structure database, Atomly, MatDiffract constructs a perturbation-augmented simulated diffraction database, embeds multi-scale diffraction features into indexable vectors, and integrates hierarchical vector retrieval with full-pattern fitting Rietveld refinement and quantitative phase fitting. Benchmarked on 875 single-phase experimental patterns, the platform achieves 91.3% Top-1 and 97.2% Top-10 identification accuracy after automated refinement. For binary and ternary multiphase mixtures, it delivers 85.0% and 70.0% Top-1 accuracy with mass fraction mean absolute errors as low as 1.2% and 1.8%, respectively. Beyond mere phase labeling, MatDiffract outputs full crystallographic results including refined structural models, fitted profiles, and quantitative compositions within tens of seconds per sample. Its modular vector-based architecture supports seamless incremental expansion to new material systems, providing an end-to-end solution to close the characterization throughput gap for autonomous materials discovery and high-throughput materials development.",
+  "authors": [
+   "Hongqing Wang",
+   "Mingwei Chen",
+   "Hongjie Luo",
+   "Yin Wen",
+   "Fazhi Qi",
+   "Xuqing Chai",
+   "Miao Liu",
+   "Fengyao HOU"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "21 pages, 7 figures",
+  "first_author": "Hongqing Wang",
+  "pdf_url": "http://arxiv.org/pdf/2607.20880",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-23",
+  "tags": [
+   "ab-initio",
+   "crystal-structure",
+   "dft",
+   "materials-discovery"
+  ],
+  "title": "MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.20990": {
+  "abstract": "Physics problems in textbooks are typically presented as static diagrams accompanied by brief textual descriptions, requiring learners to infer dynamic physical behaviors through mental visualization. This process often imposes high cognitive demands and limits learners' ability to form accurate mental models. In this paper, we present \\textbf{LivePhys}, a framework that enables a \\emph{Scan-to-Play} paradigm for mechanics learning by transforming static textbook physics problems into executable, interactive simulations. LivePhys decouples multimodal perception from physics-aware reasoning and deterministic simulation. Given a problem diagram and its accompanying text, LivePhys performs text extraction, geometric segmentation, and cross-modal grounding to construct a structured, physics-aware intermediate representation. A multimodal large language model is then used as a reasoning controller to infer entities, parameters, and constraints, which are executed by a physics engine to generate spatially consistent and interactive simulations that allow learners to explore and manipulate problem conditions dynamically. Our evaluation results show that LivePhys significantly outperforms general-purpose multimodal models in simulation executability, spatial accuracy, and interaction fidelity. In addition, a user study demonstrates that interacting with LivePhys-generated simulations reduces learners' perceived cognitive load compared to static textbook materials.",
+  "authors": [
+   "Xiaowei Dai",
+   "Ziyu Luo",
+   "Xiangwen Zhang",
+   "Xiaoming Chen",
+   "Juan Wu",
+   "Yonghong Ke"
+  ],
+  "categories": [
+   "cs.ET"
+  ],
+  "comment": null,
+  "first_author": "Xiaowei Dai",
+  "pdf_url": "http://arxiv.org/pdf/2607.20990",
+  "primary_category": "cs.ET",
+  "published": "2026-07-23",
+  "tags": [
+   "multimodal-llm"
+  ],
+  "title": "LivePhys: Transforming Static Physics Problems into Interactive Simulations via a Scan-to-Play Framework",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.21010": {
+  "abstract": "Zero-shot summarization using Large Language Models (LLMs) has significantly advanced the abstractive summarization task by producing coherent and fluent summaries. However, underlying stochasticity of the large language models raises concerns about the stability and trustworthiness of the LLM-generated summaries. This issue has become increasingly important due to proliferation of LLM-generated summaries in educational settings, where students and researchers summarize complex academic materials in zero-shot manner.   We propose a novel two-level diagnostic protocol for benchmarking LLM-summarizers based on the stability of the generated summaries. At the lower level, document-level stability analysis is performed over multiple LLM-summaries generated under controlled environment, and the stability coefficient is computed. Each generated summary is scored for semantic and factual alignment with the original document, enabling estimation of stability along more than one dimensions. At the next level, observations from a stratified sample of documents drawn from the corpus are consolidated to estimate the stability index of the LLM-summarizer, which is the proxy for its trustworthiness.   Our empirical investigation of three LLM-summarizers across three genres of documents reveals statistically significant differences in the generation-level variability among LLMs across summary evaluation metrics. This study advances the LLM-summarization research by evidential recognition of the stability problem in LLM-summaries and motivates further research towards development of robust, reliable and trustworthy LLM-summarizers.",
+  "authors": [
+   "Vasudha Bhatnagar",
+   "Purnima Bindal",
+   "Vikas Kumar",
+   "Raj Kumari Bahl"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "28 pages, Under review in a journal",
+  "first_author": "Vasudha Bhatnagar",
+  "pdf_url": "http://arxiv.org/pdf/2607.21010",
+  "primary_category": "cs.AI",
+  "published": "2026-07-23",
+  "tags": [],
+  "title": "Reexamining zero-shot summarization: Empirical investigation of trustworthiness of LLM-summarizers",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-07-23"
  }
 }

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">411 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20880.html">MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Hongqing Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20880">2607.20880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19003.html">Deciphering Mechanoluminescence: How the Nature of Mechanical Stress and Structural Dimensionality Shape Mechanisms and Responses</a></div></td>
@@ -2474,29 +2480,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23328.html">Weak Polar Optical Phonon Scattering Decouples Electron and Phonon Transport in Layered Thermoelectric Materials</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Zhonghao Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23328">2604.23328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Izabela A. Wrona et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22434.html">The influence of implantation conditions on dopant activation in Al-implanted 4H-SiC: A MD study applying an Al potential fitted to DFT barriers</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Sabine Leroch et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22434">2604.22434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22484.html">Classifying magnons in itinerant ferromagnets from linear response TDDFT: Fe, Ni and Co revisited</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Thorbjørn Skovhus et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22484">2604.22484</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22571.html">LARA: Validation-Driven Agentic Supercomputer Workflows for Atomistic Modeling</a></div></td>
-<td>William Dawson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22571">2604.22571</a></td>
 </tr>
 </tbody></table>

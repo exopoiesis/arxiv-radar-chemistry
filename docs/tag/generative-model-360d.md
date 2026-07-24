@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2888,23 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23111.html">Scalable Generative Modeling of Weighted Graphs</a></div></td>
 <td>Richard Williams et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23111">2507.23111</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03655.html">Geometric Representation Condition Improves Equivariant Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Zian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2410.03655">2410.03655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20644.html">Deep Generative Models of Evolution: SNP-level Population Adaptation by Genomic Linkage Incorporation</a></div></td>
-<td>Julia Siekiera et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20644">2507.20644</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21260.html">Adaptive Multimodal Protein Plug-and-Play with Diffusion-Based Priors</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Amartya Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21260">2507.21260</a></td>
 </tr>
 </tbody></table>

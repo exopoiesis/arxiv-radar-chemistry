@@ -5,15 +5,51 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-07-23._
+_Updated 2026-07-24._
 
-**15638** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15646** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20814.html">Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs</a></div></td>
+<td>Hai-Nam Duy Vuong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20814">2607.20814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20880.html">MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Hongqing Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20880">2607.20880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20990.html">LivePhys: Transforming Static Physics Problems into Interactive Simulations via a Scan-to-Play Framework</a></div><div class="paper-tags"><a href="tag/multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Xiaowei Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20990">2607.20990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.21010.html">Reexamining zero-shot summarization: Empirical investigation of trustworthiness of LLM-summarizers</a></div></td>
+<td>Vasudha Bhatnagar et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21010">2607.21010</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20058.html">Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model</a></div><div class="paper-tags"><a href="tag/materials-science-30d.html">materials-science</a></div></td>
+<td>Markus J. Buehler</td>
+<td><a href="http://arxiv.org/abs/2607.20058">2607.20058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20090.html">Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results</a></div></td>
+<td>Yanyu Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20090">2607.20090</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/mof-30d.html">mof</a></div></td>
@@ -105,6 +141,12 @@ _Updated 2026-07-23._
 <td><a href="http://arxiv.org/abs/2607.19318">2607.19318</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19629.html">Adaptive Capitulation: A Structural Failure Mode of LLM Responses in Vulnerability Contexts</a></div></td>
+<td>Eunna Lee</td>
+<td><a href="http://arxiv.org/abs/2607.19629">2607.19629</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17488.html">Surrogate models for type II supernovae: Probing low-energy explosions and interaction-free regimes</a></div></td>
 <td>Zhengyang Zhang et al.</td>
@@ -151,47 +193,5 @@ _Updated 2026-07-23._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17910.html">Chemical filters for ultra-high-throughput materials screening and generation</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Kinga O. Mastej et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17910">2607.17910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17985.html">Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation</a></div></td>
-<td>Zhenjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17985">2607.17985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18056.html">An Early Warning of Emerging Biosecurity Risks in Frontier LLMs</a></div><div class="paper-tags"><a href="tag/protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Zhida He et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18056">2607.18056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18071.html">DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Edward Linscott et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18071">2607.18071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18092.html">Correcting DFT formation energies towards experimental accuracy using foundational MLIPs and latent-feature delta-learning</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Timo Reents et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18092">2607.18092</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18094.html">Symmetry-Based Microscopic Theory of the Unconventional Pairing Mechanism in La$_5$Ni$_3$O$_{11}$</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Guan-Hao Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18094">2607.18094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18096.html">Optimal transition states for polaron hopping transport without supercells</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/string-method-30d.html">string-method</a></div></td>
-<td>Vasilii Vasilchenko et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18096">2607.18096</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18099.html">Study of ordering in (MoCrTi)$_{100-x}$Al$_x$ refractory high-entropy alloys using machine learning interatomic potential</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Jiyao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18099">2607.18099</a></td>
 </tr>
 </tbody></table>

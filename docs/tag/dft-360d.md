@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2088 papers</span>
+  <span class="paper-count">2083 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20880.html">MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Hongqing Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20880">2607.20880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19003.html">Deciphering Mechanoluminescence: How the Nature of Mechanical Stress and Structural Dimensionality Shape Mechanisms and Responses</a></div></td>
@@ -12506,41 +12512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22275.html">Strain effects on the fluctuation properties in noncollinear antiferromagnets: a first-principles and macrospin-based study</a></div></td>
 <td>Mohammad M. Rahman et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22275">2507.22275</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12925.html">A Denser Hydrogen Inferred from First-Principles Simulations Challenges Jupiter&#x27;s Interior Models</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Cesare Cozza et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12925">2501.12925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22661.html">Non-linear and non-empirical double hybrid density functional</a></div></td>
-<td>Danish Khan</td>
-<td><a href="http://arxiv.org/abs/2503.22661">2503.22661</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20724.html">Chemical capacitor: its concept, functionalities and limits</a></div></td>
-<td>Łukasz Wolański et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20724">2507.20724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20819.html">First principles study of [111]-oriented epitaxially strained Rare-Earth Nickelate NdNiO$_3$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Alexander Lione et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20819">2507.20819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21279.html">Linear and Nonlinear Optical Properties of Molecules from Real-Time Propagation Based on the Bethe-Salpeter Equation</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Štěpán Marek et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21279">2507.21279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21297.html">Heterogeneous Ensemble Enables a Universal Uncertainty Metric for Atomistic Foundation Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Kai Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21297">2507.21297</a></td>
 </tr>
 </tbody></table>

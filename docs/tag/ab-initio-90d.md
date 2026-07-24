@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20880.html">MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Hongqing Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20880">2607.20880</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="mof-90d.html">mof</a></div></td>
@@ -1832,23 +1838,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23785.html">Core-Hole Excitation Dynamics of One-Dimensional Ultracold Trapped Fermions</a></div></td>
 <td>André Becker et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23785">2604.23785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Izabela A. Wrona et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22484.html">Classifying magnons in itinerant ferromagnets from linear response TDDFT: Fe, Ni and Co revisited</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Thorbjørn Skovhus et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22484">2604.22484</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22727.html">Ab initio short-range nuclear matrix elements for neutrinoless double-beta decay</a></div></td>
-<td>A. Todd et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22727">2604.22727</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">253 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1526,11 +1526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11847.html">A Survey on Memory-Efficient Transformer-Based Model Training in AI for Science</a></div></td>
 <td>Kaiyuan Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2501.11847">2501.11847</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21260.html">Adaptive Multimodal Protein Plug-and-Play with Diffusion-Based Priors</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Amartya Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21260">2507.21260</a></td>
 </tr>
 </tbody></table>

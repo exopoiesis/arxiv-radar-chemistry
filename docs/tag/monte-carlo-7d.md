@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>monte-carlo — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18099.html">Study of ordering in (MoCrTi)$_{100-x}$Al$_x$ refractory high-entropy alloys using machine learning interatomic potential</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Jiyao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18099">2607.18099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Sarath Menon et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15476.html">exa-PD: A scalable high-performance workflow for multi-element phase diagram construction</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Zhuo Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15476">2607.15476</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,11 +566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23565.html">Magnetic interactions and spin orders in Cr$_8$ and V$_8$ ring-shaped molecular magnets from non-collinear ab initio calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Maria Barbara Maccioni et al.</td>
 <td><a href="http://arxiv.org/abs/2604.23565">2604.23565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22300.html">Theoretical prediction of strong-coupling superconductivity in a hypothetical NaAlH3 phase at ambient pressure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Izabela A. Wrona et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22300">2604.22300</a></td>
 </tr>
 </tbody></table>

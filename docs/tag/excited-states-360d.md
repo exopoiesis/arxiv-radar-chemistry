@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">220 papers</span>
+  <span class="paper-count">217 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1316,23 +1316,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10813.html">Attosecond transient absorption spectroscopy in monolayer hexagonal boron nitride</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Jiayu Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10813">2505.10813</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19464.html">Ensemble Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Kimberly J. Daas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19464">2507.19464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21461.html">Shadow excited state molecular dynamics with the \DeltaSCF method</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>O. Jonathan Fajen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21461">2507.21461</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21578.html">Excited State Absorption Drives Low-Energy Optical Limiting in Oligothiophenes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Mustapha Driouech et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21578">2507.21578</a></td>
 </tr>
 </tbody></table>

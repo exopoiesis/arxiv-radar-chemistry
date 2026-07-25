@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">271 papers</span>
+  <span class="paper-count">270 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1634,11 +1634,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22803.html">Design and Analysis of Plasmonic-Nanorod-Enhanced Lead-Free Inorganic Perovskite/Silicon Heterojunction Tandem Solar Cell Exceeding the Shockley-Queisser Limit</a></div></td>
 <td>Md. Sad Abdullah Sami et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22803">2507.22803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21634.html">Ultralow Lattice Thermal Conductivity Induced by Quasi-Chain Configuration in Rb2Se3</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Tiantian Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21634">2507.21634</a></td>
 </tr>
 </tbody></table>

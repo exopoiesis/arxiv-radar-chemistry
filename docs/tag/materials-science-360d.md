@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">403 papers</span>
+  <span class="paper-count">401 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2420,17 +2420,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23077.html">A Foundation Model for Material Fracture Prediction</a></div></td>
 <td>Agnese Marcato et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23077">2507.23077</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21748.html">evoxels: A differentiable physics framework for voxel-based microstructure simulations</a></div></td>
-<td>Simon Daubner et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21748">2507.21748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21918.html">Laser-Synthesized Amorphous PdSe$_{\mathrm{2-x}}$ Nanoparticles: A Defect-Rich Platform for High-Efficiency SERS, Photocatalysis, and Photothermal Conversion</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="photocatalysis-360d.html">photocatalysis</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Andrei Ushkov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21918">2507.21918</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">442 papers</span>
+  <span class="paper-count">440 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2654,17 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23160.html">Extended Factorization Machine Annealing for Rapid Discovery of Transparent Conducting Materials</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Daisuke Makino et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23160">2507.23160</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00110.html">Ultrafast Spontaneous Exciton Dissociation via Phonon Emission in BiVO$_4$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Stephen E. Gant et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00110">2504.00110</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22018.html">Effect of applied pressure on the non-relativistic spin-splitting (NRSS) of FeSb2 altermagnet: A first-principles study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Shalika R. Bhandari et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22018">2507.22018</a></td>
 </tr>
 </tbody></table>

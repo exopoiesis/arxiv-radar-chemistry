@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">310 papers</span>
+  <span class="paper-count">307 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1856,23 +1856,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22517.html">Electronic Structure of Bimetallic CoRu Catalysts Modulates SWCNT Nucleation</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Alister J. Page et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22517">2507.22517</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04978.html">Chirality-induced orbital Edelstein effect in an analytically solvable model</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Börge Göbel et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04978">2502.04978</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21789.html">Investigating CO Adsorption on Cu(111) and Rh(111) Surfaces Using Machine Learning Exchange-Correlation Functionals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Xinyuan Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21789">2507.21789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21918.html">Laser-Synthesized Amorphous PdSe$_{\mathrm{2-x}}$ Nanoparticles: A Defect-Rich Platform for High-Efficiency SERS, Photocatalysis, and Photothermal Conversion</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="photocatalysis-360d.html">photocatalysis</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Andrei Ushkov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21918">2507.21918</a></td>
 </tr>
 </tbody></table>

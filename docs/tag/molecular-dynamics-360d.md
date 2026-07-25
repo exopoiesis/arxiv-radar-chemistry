@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1572 papers</span>
+  <span class="paper-count">1567 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9416,35 +9416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22696.html">Transverse Self-Propulsion Enhances the Aggregation of Active Dumbbells</a></div></td>
 <td>Pasquale Digregorio et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22696">2507.22696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23902.html">Hydrogen Storage Potential of Chromium-Functionalized Graphene: A First-Principles Investigation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Pratyasha Tripathy et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23902">2503.23902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21461.html">Shadow excited state molecular dynamics with the \DeltaSCF method</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>O. Jonathan Fajen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21461">2507.21461</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21525.html">Weak decaying collective-excitation approximation for Yukawa one-component plasmas</a></div></td>
-<td>Ilnaz I. Fairushin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21525">2507.21525</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21744.html">Net-Charge Fluctuations in Finite Volume PNJL Model: A Probe for the QCD Critical Point</a></div></td>
-<td>Amal Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21744">2507.21744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05656.html">Comment on &quot;Mineral-water reactions in Earth&#x27;s mantle: Predictions from Born theory and ab initio molecular dynamics&quot; by Fowler et al. 2024 (Geochim. Cosmochim. Acta 372, 111-123)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05656">2508.05656</a></td>
 </tr>
 </tbody></table>

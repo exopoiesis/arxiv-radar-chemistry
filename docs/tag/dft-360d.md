@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2083 papers</span>
+  <span class="paper-count">2075 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12464,53 +12464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22736.html">Nanoscale Modulation of Flat Bands via Controllable Charge-Density-Waves Defects in 4Hb-TaS2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Wooin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22736">2507.22736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19464.html">Ensemble Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Kimberly J. Daas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19464">2507.19464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21461.html">Shadow excited state molecular dynamics with the \DeltaSCF method</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>O. Jonathan Fajen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21461">2507.21461</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21578.html">Excited State Absorption Drives Low-Energy Optical Limiting in Oligothiophenes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Mustapha Driouech et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21578">2507.21578</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21634.html">Ultralow Lattice Thermal Conductivity Induced by Quasi-Chain Configuration in Rb2Se3</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Tiantian Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21634">2507.21634</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21789.html">Investigating CO Adsorption on Cu(111) and Rh(111) Surfaces Using Machine Learning Exchange-Correlation Functionals</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Xinyuan Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21789">2507.21789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22018.html">Effect of applied pressure on the non-relativistic spin-splitting (NRSS) of FeSb2 altermagnet: A first-principles study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Shalika R. Bhandari et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22018">2507.22018</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22036.html">Superhydrogenation of indene at low temperatures</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>S. Haid et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22036">2507.22036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22275.html">Strain effects on the fluctuation properties in noncollinear antiferromagnets: a first-principles and macrospin-based study</a></div></td>
-<td>Mohammad M. Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22275">2507.22275</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>multimodal-llm — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17251.html">VecFontLLM: Anchor-Guided Direct Synthesis of Chinese Vector Fonts</a></div></td>
 <td>Hao Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17251">2607.17251</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16193.html">Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs</a></div></td>
-<td>Like Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16193">2607.16193</a></td>
 </tr>
 </tbody></table>

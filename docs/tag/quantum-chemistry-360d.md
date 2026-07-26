@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">368 papers</span>
+  <span class="paper-count">367 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2216,11 +2216,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00052.html">Learning shadows to predict quantum ground state correlations</a></div></td>
 <td>Pierre-Gabriel Rozon et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00052">2508.00052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22517.html">Electronic Structure of Bimetallic CoRu Catalysts Modulates SWCNT Nucleation</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Alister J. Page et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22517">2507.22517</a></td>
 </tr>
 </tbody></table>

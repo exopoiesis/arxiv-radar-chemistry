@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">270 papers</span>
+  <span class="paper-count">268 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1622,17 +1622,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23710.html">Structural Distortions Control Scaling of Exciton Binding Energies in Two-Dimensional Ag/Bi Double Perovskites</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Pierre Lechifflart et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23710">2507.23710</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05487.html">Elementary Steps of Energy Conversion in Strongly Correlated Systems: Beyond Single Quasiparticles and Rigid Bands</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>V. Moshnyaga et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05487">2507.05487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22803.html">Design and Analysis of Plasmonic-Nanorod-Enhanced Lead-Free Inorganic Perovskite/Silicon Heterojunction Tandem Solar Cell Exceeding the Shockley-Queisser Limit</a></div></td>
-<td>Md. Sad Abdullah Sami et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22803">2507.22803</a></td>
 </tr>
 </tbody></table>

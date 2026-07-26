@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">560 papers</span>
+  <span class="paper-count">558 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3362,17 +3362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23166.html">Giant odd-parity magnetoresistance from proximity-induced topological states</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Tomoki Hotta et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23166">2507.23166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22689.html">Thermodynamically driven tilt grain boundaries of monolayer crystals using catalytic liquid alloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Min-Yeong Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22689">2507.22689</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22736.html">Nanoscale Modulation of Flat Bands via Controllable Charge-Density-Waves Defects in 4Hb-TaS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Wooin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22736">2507.22736</a></td>
 </tr>
 </tbody></table>

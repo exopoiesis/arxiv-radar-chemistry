@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2075 papers</span>
+  <span class="paper-count">2068 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12422,47 +12422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23741.html">Structural and thermodynamic stability of hexagonal-diamond $\text{Si}_{1 - x - y}\,\text{Ge}_{x}\,\text{B}_{y}$ alloys</a></div></td>
 <td>Marc Túnica et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23741">2507.23741</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01695.html">An alternative GPU acceleration for a pseudopotential plane-waves density functional theory code with applications to metallic systems</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Xuejun Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2412.01695">2412.01695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08383.html">Simplified, Physically Motivated, and Broadly Applicable Range-Separation Tuning</a></div></td>
-<td>Aditi Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08383">2505.08383</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08979.html">Tuning the magnetic properties of the spin-split antiferromagnet MnTe through pressure</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Edison P. Carlisle et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08979">2505.08979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14570.html">Extending orbital-optimized density functional theory to L-edge XPS and beyond: Spin-orbit coupling via non-orthogonal quasi-degenerate perturbation theory</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Richard Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14570">2505.14570</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00217.html">Static Electric Dipole Polarizability and Hyperpolarizability Tensors from Mean-Field Cavity Quantum Electrodynamics Approaches</a></div></td>
-<td>A. Eugene DePrince et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00217">2506.00217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22689.html">Thermodynamically driven tilt grain boundaries of monolayer crystals using catalytic liquid alloys</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Min-Yeong Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22689">2507.22689</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22736.html">Nanoscale Modulation of Flat Bands via Controllable Charge-Density-Waves Defects in 4Hb-TaS2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Wooin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22736">2507.22736</a></td>
 </tr>
 </tbody></table>

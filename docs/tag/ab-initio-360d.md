@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1564 papers</span>
+  <span class="paper-count">1560 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9374,29 +9374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23710.html">Structural Distortions Control Scaling of Exciton Binding Energies in Two-Dimensional Ag/Bi Double Perovskites</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Pierre Lechifflart et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23710">2507.23710</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07570.html">Vortices in the Many-Body Excited States of Interacting Bosons in Two Dimension</a></div></td>
-<td>Mateusz Ślusarczyk et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07570">2408.07570</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21408.html">Dissipation in the Broadband and Ultrastrong Coupling Regimes of Cavity Quantum Electrodynamics: An Ab Initio Quantized Quasinormal Mode Approach</a></div></td>
-<td>Chris Gustin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21408">2507.21408</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22475.html">Unconventional spin texture driven by higher-order spin-orbit interactions</a></div></td>
-<td>Jiaxuan Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22475">2507.22475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22736.html">Nanoscale Modulation of Flat Bands via Controllable Charge-Density-Waves Defects in 4Hb-TaS2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Wooin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22736">2507.22736</a></td>
 </tr>
 </tbody></table>

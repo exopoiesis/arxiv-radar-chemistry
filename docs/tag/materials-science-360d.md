@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">401 papers</span>
+  <span class="paper-count">400 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2414,11 +2414,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02850.html">Cross-polarized and Stable Second Harmonic Generation from Monocrystalline Copper</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Elif Nur Dayi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02850">2508.02850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23077.html">A Foundation Model for Material Fracture Prediction</a></div></td>
-<td>Agnese Marcato et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23077">2507.23077</a></td>
 </tr>
 </tbody></table>

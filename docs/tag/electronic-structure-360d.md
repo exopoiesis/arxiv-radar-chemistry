@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2810,23 +2810,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23710.html">Structural Distortions Control Scaling of Exciton Binding Energies in Two-Dimensional Ag/Bi Double Perovskites</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Pierre Lechifflart et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23710">2507.23710</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01695.html">An alternative GPU acceleration for a pseudopotential plane-waves density functional theory code with applications to metallic systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Xuejun Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2412.01695">2412.01695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05487.html">Elementary Steps of Energy Conversion in Strongly Correlated Systems: Beyond Single Quasiparticles and Rigid Bands</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>V. Moshnyaga et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05487">2507.05487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22517.html">Electronic Structure of Bimetallic CoRu Catalysts Modulates SWCNT Nucleation</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Alister J. Page et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22517">2507.22517</a></td>
 </tr>
 </tbody></table>

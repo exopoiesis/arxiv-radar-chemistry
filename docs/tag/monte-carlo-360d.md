@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">307 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1850,11 +1850,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07426.html">DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search</a></div></td>
 <td>Zerui Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07426">2507.07426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16835.html">Hop-Decorate: An Automated Atomistic Workflow for Generating Defect Transport Data in Chemically Complex Materials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Peter Hatton et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16835">2506.16835</a></td>
 </tr>
 </tbody></table>

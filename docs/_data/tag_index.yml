@@ -36,11 +36,11 @@
   total: 882
   group: properties
 - name: diffusion-model
-  count: 21
+  count: 20
   total: 771
   group: architectures
 - name: generative-model
-  count: 20
+  count: 19
   total: 815
   group: architectures
 - name: catalysis
@@ -67,14 +67,14 @@
   count: 15
   total: 425
   group: tasks
-- name: protein-ligand
-  count: 15
-  total: 322
-  group: bio
 - name: magnetic-properties
   count: 14
   total: 720
   group: properties
+- name: protein-ligand
+  count: 14
+  total: 322
+  group: bio
 - name: molecular-generation
   count: 13
   total: 236
@@ -111,14 +111,14 @@
   count: 8
   total: 229
   group: specialized
-- name: reinforcement-learning
-  count: 8
-  total: 240
-  group: specialized
 - name: thermodynamic-integration
   count: 8
   total: 231
   group: methods
+- name: reinforcement-learning
+  count: 7
+  total: 240
+  group: specialized
 - name: retrosynthesis
   count: 7
   total: 128

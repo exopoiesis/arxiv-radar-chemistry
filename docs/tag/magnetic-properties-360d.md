@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">364 papers</span>
+  <span class="paper-count">362 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2186,17 +2186,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23166.html">Giant odd-parity magnetoresistance from proximity-induced topological states</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Tomoki Hotta et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23166">2507.23166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08979.html">Tuning the magnetic properties of the spin-split antiferromagnet MnTe through pressure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Edison P. Carlisle et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08979">2505.08979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14570.html">Extending orbital-optimized density functional theory to L-edge XPS and beyond: Spin-orbit coupling via non-orthogonal quasi-degenerate perturbation theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Richard Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14570">2505.14570</a></td>
 </tr>
 </tbody></table>

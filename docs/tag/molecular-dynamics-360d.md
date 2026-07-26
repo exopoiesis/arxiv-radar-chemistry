@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1567 papers</span>
+  <span class="paper-count">1563 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9392,29 +9392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23631.html">Probing electronic state-dependent conformational changes in a trapped Rydberg ion Wigner crystal</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Marion Mallweger et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23631">2507.23631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16835.html">Hop-Decorate: An Automated Atomistic Workflow for Generating Defect Transport Data in Chemically Complex Materials</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Peter Hatton et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16835">2506.16835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07386.html">High thermal conductivity dominated by thermal phonons with mean free paths exceeding hundred nanometer in three-dimensional covalent organic framework derivatives: a molecular dynamics study</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sungjae Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07386">2507.07386</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22517.html">Electronic Structure of Bimetallic CoRu Catalysts Modulates SWCNT Nucleation</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Alister J. Page et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22517">2507.22517</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22696.html">Transverse Self-Propulsion Enhances the Aggregation of Active Dumbbells</a></div></td>
-<td>Pasquale Digregorio et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22696">2507.22696</a></td>
 </tr>
 </tbody></table>

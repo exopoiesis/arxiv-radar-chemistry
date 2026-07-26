@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">309 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1862,11 +1862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00791.html">Electrical and Thermal Conductivity of Earth&#x27;s Iron-enriched Basal Magma Ocean</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Francis Dragulet et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00791">2508.00791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07386.html">High thermal conductivity dominated by thermal phonons with mean free paths exceeding hundred nanometer in three-dimensional covalent organic framework derivatives: a molecular dynamics study</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sungjae Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07386">2507.07386</a></td>
 </tr>
 </tbody></table>

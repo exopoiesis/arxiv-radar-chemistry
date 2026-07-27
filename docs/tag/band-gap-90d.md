@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,11 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25706.html">Validity of DFT+U band gaps in all its known functional forms</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Andrew C. Burgess et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25706">2604.25706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24585.html">Electronic and optical properties of arsenic monolayers: from planar honeycomb to the puckered phase</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Niloufar Dadkhah et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24585">2604.24585</a></td>
 </tr>
 </tbody></table>

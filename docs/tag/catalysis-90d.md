@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25454.html">Thermodynamic surface reconstruction governs catalytic behavior in high-entropy alloys</a></div></td>
 <td>Taegyeong Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25454">2604.25454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24291.html">Catalytic Enhancement of Coherence Fraction in Noisy Quantum Channels and Characterization of Strictly Incoherent Operations</a></div></td>
-<td>Priyabrata Char et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24291">2604.24291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24595.html">Mass spectra of charged mesons and the quenching of vector meson condensation via exact phase-space diagonalization</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Jingyi Chao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24595">2604.24595</a></td>
 </tr>
 </tbody></table>

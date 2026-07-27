@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1560 papers</span>
+  <span class="paper-count">1557 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9356,23 +9356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00797.html">Close encounters between periodic light and periodic arrays of quantum emitters</a></div></td>
 <td>Frieder Lindel et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00797">2508.00797</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05147.html">Mirror-skin thickness: a possible observable sensitive to the charge symmetry breaking energy density functional</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Tomoya Naito et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05147">2503.05147</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23166.html">Giant odd-parity magnetoresistance from proximity-induced topological states</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Tomoki Hotta et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23166">2507.23166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23710.html">Structural Distortions Control Scaling of Exciton Binding Energies in Two-Dimensional Ag/Bi Double Perovskites</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Pierre Lechifflart et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23710">2507.23710</a></td>
 </tr>
 </tbody></table>

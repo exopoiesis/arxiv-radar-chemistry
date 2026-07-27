@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,11 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08458.html">Explicit core-hole single-particle methods for L- and M- edge X-ray absorption and electron energy-loss spectra</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Esther A. B. Johnsen et al.</td>
 <td><a href="http://arxiv.org/abs/2504.08458">2504.08458</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10813.html">Attosecond transient absorption spectroscopy in monolayer hexagonal boron nitride</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Jiayu Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10813">2505.10813</a></td>
 </tr>
 </tbody></table>

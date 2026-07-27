@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-generation — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,17 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07048.html">Unlocking High-Fidelity Molecular Generation from Mass Spectra via Dual-Stream Line Graph Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Xujun Che et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07048">2605.07048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24357.html">DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models</a></div></td>
-<td>Dake Bu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24357">2604.24357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24474.html">Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Shiyun Wa et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24474">2604.24474</a></td>
 </tr>
 </tbody></table>

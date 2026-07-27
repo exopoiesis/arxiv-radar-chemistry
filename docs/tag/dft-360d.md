@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2068 papers</span>
+  <span class="paper-count">2062 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12386,41 +12386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00655.html">Electronic properties of Kagome metal YbV$_3$Sb$_4$: A First-Principles Study</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>D. Gurung et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00655">2508.00655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05147.html">Mirror-skin thickness: a possible observable sensitive to the charge symmetry breaking energy density functional</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Tomoya Naito et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05147">2503.05147</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10813.html">Attosecond transient absorption spectroscopy in monolayer hexagonal boron nitride</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Jiayu Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10813">2505.10813</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23243.html">Disorder driven crossover between anomalous Hall regimes in Fe$_3$GaTe$_2$</a></div></td>
-<td>Sang-Eon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23243">2507.23243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23299.html">Spin-State Engineering of Single Titanium Adsorbates on Ultrathin Magnesium Oxide</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Soo-hyon Phark et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23299">2507.23299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23684.html">Simulating Binary Neutron Star Mergers with Finite-temperature Equations of State: The influences of the slope of the symmetry energy and artificial heating</a></div></td>
-<td>Henrique Gieg et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23684">2507.23684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23741.html">Structural and thermodynamic stability of hexagonal-diamond $\text{Si}_{1 - x - y}\,\text{Ge}_{x}\,\text{B}_{y}$ alloys</a></div></td>
-<td>Marc Túnica et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23741">2507.23741</a></td>
 </tr>
 </tbody></table>

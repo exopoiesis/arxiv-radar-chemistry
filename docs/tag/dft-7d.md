@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18591.html">GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="gnn-7d.html">gnn</a></div></td>
 <td>Lara Goncebat et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18591">2607.18591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Zhengwei Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17265">2607.17265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17385.html">Symmetry-Engineered Nonlinear Hall Response and Optical Response in Strained Monolayer Janus AsTeBr</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Dimple Rani et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17385">2607.17385</a></td>
 </tr>
 </tbody></table>

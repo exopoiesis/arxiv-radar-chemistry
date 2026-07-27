@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">367 papers</span>
+  <span class="paper-count">365 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2204,17 +2204,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23468.html">On the complex zeros of the wavefunction</a></div></td>
 <td>Sacha Cerf et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23468">2507.23468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13265.html">Molecule Graph Networks with Many-body Equivariant Interactions</a></div></td>
-<td>Zetian Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13265">2406.13265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00052.html">Learning shadows to predict quantum ground state correlations</a></div></td>
-<td>Pierre-Gabriel Rozon et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00052">2508.00052</a></td>
 </tr>
 </tbody></table>

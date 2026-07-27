@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">466 papers</span>
+  <span class="paper-count">465 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2804,11 +2804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00290.html">High-fidelity electronic structure and properties of InSb: $G_0W_0$ and Bayesian-optimized hybrid functionals and DFT+$U$ approaches</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Ritwik Das et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00290">2508.00290</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23710.html">Structural Distortions Control Scaling of Exciton Binding Energies in Two-Dimensional Ag/Bi Double Perovskites</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Pierre Lechifflart et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23710">2507.23710</a></td>
 </tr>
 </tbody></table>

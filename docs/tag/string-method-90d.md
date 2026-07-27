@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>string-method — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <strong>90d</strong> <a href="string-method-360d.html">360d</a> <a href="string-method-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04751.html">Sequential Monte Carlo for Resilient Networks: Assessment, Mitigation, and Generative Modeling</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Onel L. A. López et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04751">2605.04751</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24245.html">A Machine-Learned Symbolic Committor for a Chemical Reaction: Retinal Isomerization</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Kai Töpfer et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24245">2604.24245</a></td>
 </tr>
 </tbody></table>

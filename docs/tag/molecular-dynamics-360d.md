@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1563 papers</span>
+  <span class="paper-count">1558 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9362,35 +9362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00791.html">Electrical and Thermal Conductivity of Earth&#x27;s Iron-enriched Basal Magma Ocean</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Francis Dragulet et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00791">2508.00791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18072.html">Recovering Hidden Degrees of Freedom Using Gaussian Processes</a></div></td>
-<td>Georg Diez et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18072">2505.18072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23294.html">Poincaré covariant quantum molecular dynamics: a covariant description of a system of interacting wave packets</a></div></td>
-<td>Yasushi Nara et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23294">2507.23294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23574.html">Unveiling ZIF-8 nucleation mechanisms through molecular simulation: role of temperature, solvent and reactant concentration</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Sahar Andarzi Gargari et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23574">2507.23574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23580.html">Arrested Ostwald Ripening in Non-Equilibrium Systems</a></div></td>
-<td>Bradley D. Keister et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23580">2507.23580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23631.html">Probing electronic state-dependent conformational changes in a trapped Rydberg ion Wigner crystal</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Marion Mallweger et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23631">2507.23631</a></td>
 </tr>
 </tbody></table>

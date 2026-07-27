@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,11 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25756.html">Predicting challenging phase transitions with Bayesian active learning</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Lorenzo Bastonero et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25756">2604.25756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24634.html">Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Simon Axelrod et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24634">2604.24634</a></td>
 </tr>
 </tbody></table>

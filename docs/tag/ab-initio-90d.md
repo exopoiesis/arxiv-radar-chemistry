@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">303 papers</span>
+  <span class="paper-count">298 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1802,35 +1802,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26037.html">Accelerating finite-element-based projector augmented-wave density functional theory calculations with scalable GPU-centric computational methods</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Kartick Ramakrishnan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26037">2604.26037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22669.html">DeepHartree: A Poisson-Coupled Neural Field for Scalable Density Functional Theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Jiankun Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22669">2604.22669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24091.html">Unfolding an Atomistic World: Atomistic Simulation of Reactor Pressure Vessel Steel Across Year-and-Meter Scales</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Haozhi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24091">2604.24091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24209.html">Phase transformation kinetics in MoS2 governed by S-S repulsive interactions and defect-interface compatibility</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Pai Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24209">2604.24209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mihail Bogojeski et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24816.html">Trillion-atom molecular dynamics simulations with ab initio accuracy</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Pengfei Suo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24816">2604.24816</a></td>
 </tr>
 </tbody></table>

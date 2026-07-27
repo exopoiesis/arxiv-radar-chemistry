@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26512.html">Microsecond-resolved electro-optic dual-comb spectroscopy in the 10~12.5 $μ$m fingerprint region for radical kinetics</a></div></td>
 <td>Pei-Ling Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26512">2604.26512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24474.html">Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Shiyun Wa et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24474">2604.24474</a></td>
 </tr>
 </tbody></table>

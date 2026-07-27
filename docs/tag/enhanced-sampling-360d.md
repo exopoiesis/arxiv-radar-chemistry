@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>enhanced-sampling — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <a href="enhanced-sampling-90d.html">90d</a> <strong>360d</strong> <a href="enhanced-sampling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01477.html">The seeds of the future are in the present: A blind exploration of metastable states</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Timothée Devergne et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01477">2508.01477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.08154.html">Fast Sampling of Protein Conformational Dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="protein-function-360d.html">protein-function</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Michael A. Sauer et al.</td>
-<td><a href="http://arxiv.org/abs/2411.08154">2411.08154</a></td>
 </tr>
 </tbody></table>

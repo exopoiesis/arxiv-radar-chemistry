@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">594 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3572,11 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00327.html">Etching-to-deposition transition in SiO$_2$/Si$_3$N$_4$ using CH$_x$F$_y$ ion-based plasma etching: An atomistic study with neural network potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hyungmin An et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00327">2508.00327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23574.html">Unveiling ZIF-8 nucleation mechanisms through molecular simulation: role of temperature, solvent and reactant concentration</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mof-360d.html">mof</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sahar Andarzi Gargari et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23574">2507.23574</a></td>
 </tr>
 </tbody></table>

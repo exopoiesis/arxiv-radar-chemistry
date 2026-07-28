@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,17 +1838,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02850.html">Cross-polarized and Stable Second Harmonic Generation from Monocrystalline Copper</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Elif Nur Dayi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02850">2508.02850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00236.html">Atomic Interface Engineering of Battery Current Collectors via Ion Implantation</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Yue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00236">2508.00236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01013.html">On Some Tunable Multi-fidelity Bayesian Optimization Frameworks</a></div></td>
-<td>Arjun Manoj et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01013">2508.01013</a></td>
 </tr>
 </tbody></table>

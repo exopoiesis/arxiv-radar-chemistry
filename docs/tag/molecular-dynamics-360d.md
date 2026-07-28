@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1558 papers</span>
+  <span class="paper-count">1555 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9344,23 +9344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01477.html">The seeds of the future are in the present: A blind exploration of metastable states</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Timothée Devergne et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01477">2508.01477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23171.html">Thermodynamic properties of CrMnFeCoNi high entropy alloy at elevated electronic temperatures</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Nikita Medvedev</td>
-<td><a href="http://arxiv.org/abs/2506.23171">2506.23171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00327.html">Etching-to-deposition transition in SiO$_2$/Si$_3$N$_4$ using CH$_x$F$_y$ ion-based plasma etching: An atomistic study with neural network potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Hyungmin An et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00327">2508.00327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00791.html">Electrical and Thermal Conductivity of Earth&#x27;s Iron-enriched Basal Magma Ocean</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Francis Dragulet et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00791">2508.00791</a></td>
 </tr>
 </tbody></table>

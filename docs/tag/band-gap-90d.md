@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,29 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26636.html">Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>C. Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26636">2604.26636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Yifan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25097">2604.25097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25125.html">Identifying strong correlation using only the Kohn-Sham density of one-electron states</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Daniel D. Rivera et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25125">2604.25125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25568.html">Benchmarking bandgap prediction in semiconductors under experimental and realistic evaluation settings</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Haolin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25568">2604.25568</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25706.html">Validity of DFT+U band gaps in all its known functional forms</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Andrew C. Burgess et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25706">2604.25706</a></td>
 </tr>
 </tbody></table>

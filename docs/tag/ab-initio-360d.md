@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1557 papers</span>
+  <span class="paper-count">1553 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9332,29 +9332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01757.html">Optical properties of emeraldine salt polymers from ab initio calculations: comparison with recent experimental data</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Renato Colle et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01757">2508.01757</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00290.html">High-fidelity electronic structure and properties of InSb: $G_0W_0$ and Bayesian-optimized hybrid functionals and DFT+$U$ approaches</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Ritwik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00290">2508.00290</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00704.html">XANES absorption spectra of penta-graphene and penta-SiC2 with different terminations: a computational study</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Andrea Pedrielli et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00704">2508.00704</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00791.html">Electrical and Thermal Conductivity of Earth&#x27;s Iron-enriched Basal Magma Ocean</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Francis Dragulet et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00791">2508.00791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00797.html">Close encounters between periodic light and periodic arrays of quantum emitters</a></div></td>
-<td>Frieder Lindel et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00797">2508.00797</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">551 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3314,11 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01459.html">Fast and scalable retrosynthetic planning with a transformer neural network and speculative beam search</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Mikhail Andronov et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01459">2508.01459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02082.html">FARM: Functional Group-Aware Representations for Small Molecules</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Thao Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2410.02082">2410.02082</a></td>
 </tr>
 </tbody></table>

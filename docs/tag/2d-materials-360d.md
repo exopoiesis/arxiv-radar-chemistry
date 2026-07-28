@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">556 papers</span>
+  <span class="paper-count">554 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3338,17 +3338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01241.html">Sliding two-dimensional superconductivity and charge-density-wave state in a bulk crystal</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Xiangqi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01241">2508.01241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00683.html">Lippmann-Schwinger Approach for Accurate Photoelectron Wavefunctions and Angle-Resolved Photoemission Spectra from First Principles</a></div></td>
-<td>Ji Hoon Ryoo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00683">2508.00683</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00704.html">XANES absorption spectra of penta-graphene and penta-SiC2 with different terminations: a computational study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Andrea Pedrielli et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00704">2508.00704</a></td>
 </tr>
 </tbody></table>

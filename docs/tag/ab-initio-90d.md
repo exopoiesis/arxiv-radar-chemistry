@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">298 papers</span>
+  <span class="paper-count">292 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1766,41 +1766,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26703.html">A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Yue Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26703">2604.26703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25199.html">Kohn-Sham Hamiltonian from Effective Field Theory: Quasiparticle Band Narrowing from Frozen Core Dynamics</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Xiansheng Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25199">2604.25199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25343.html">Proximity Ferroelectricity Driven by Mobile High-Miller-Index Domain Walls</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Changming Ke et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25343">2604.25343</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25483.html">Probing sliding ferroelectricity in bilayer T$_\mathrm{d}$-WTe$_2$ with high-harmonic generation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Elias Greil et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25483">2604.25483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25756.html">Predicting challenging phase transitions with Bayesian active learning</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Lorenzo Bastonero et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25756">2604.25756</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25999.html">Lattice Topological Defects in Non-Unitary Conformal Field Theories</a></div></td>
-<td>Madhav Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25999">2604.25999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26037.html">Accelerating finite-element-based projector augmented-wave density functional theory calculations with scalable GPU-centric computational methods</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Kartick Ramakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26037">2604.26037</a></td>
 </tr>
 </tbody></table>

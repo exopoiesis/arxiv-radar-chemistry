@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">477 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23518.html">Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Hengyuan Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23518">2607.23518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21849.html">Property-Guided Diffusion for Inverse Design of Crystalline Materials</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Sourav Mal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21849">2607.21849</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18835.html">ABOPD: Antibody CDR Design via On-Policy Distillation</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
@@ -2870,11 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08998.html">CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Krit Tangsongcharoen et al.</td>
 <td><a href="http://arxiv.org/abs/2501.08998">2501.08998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01195.html">BSL: A Unified and Generalizable Multitask Learning Platform for Virtual Drug Discovery from Design to Synthesis</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Kun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01195">2508.01195</a></td>
 </tr>
 </tbody></table>

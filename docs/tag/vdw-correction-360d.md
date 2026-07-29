@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20335.html">Stacking-tuned superconductivity and competing charge-density-wave states in NbSe$_2$</a></div></td>
+<td>Sandra Sajan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20335">2607.20335</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18427.html">Aromatic molecular emitters in a hexagonal boron nitride stack</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Tianyu Fang et al.</td>
@@ -956,11 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02394.html">Avalanche Dynamics in Stick-Slip Cutting of Molybdenum Disulfide</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Pawel Koczanowski et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02394">2508.02394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01214.html">Magnetism at the interface of $MoSe_2/V_2O_5$ heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Rohin Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01214">2508.01214</a></td>
 </tr>
 </tbody></table>

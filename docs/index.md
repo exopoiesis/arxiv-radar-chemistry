@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-07-28._
+_Updated 2026-07-29._
 
-**15646** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15700** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,183 +15,183 @@ _Updated 2026-07-28._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20814.html">Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs</a></div></td>
-<td>Hai-Nam Duy Vuong et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20814">2607.20814</a></td>
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25169.html">CondPSE: A Polynomial-Filtered Structural Encoder with Conditional Modulation for Graphs</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Woohyun Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25169">2607.25169</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20880.html">MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Hongqing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20880">2607.20880</a></td>
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25184.html">A scaling law of contextual persistence in human language</a></div></td>
+<td>Elan Barenholtz</td>
+<td><a href="http://arxiv.org/abs/2607.25184">2607.25184</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20990.html">LivePhys: Transforming Static Physics Problems into Interactive Simulations via a Scan-to-Play Framework</a></div><div class="paper-tags"><a href="tag/multimodal-llm-30d.html">multimodal-llm</a></div></td>
-<td>Xiaowei Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20990">2607.20990</a></td>
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25199.html">RIDGE: An Autonomous Framework for Validation and Method Discovery in LLM-Generated Option Pricing</a></div></td>
+<td>Liexin Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25199">2607.25199</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.21010.html">Reexamining zero-shot summarization: Empirical investigation of trustworthiness of LLM-summarizers</a></div></td>
-<td>Vasudha Bhatnagar et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21010">2607.21010</a></td>
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25290.html">From Starburst to Quenching: Physical Properties of Extremely Compact Starbursts at z$\sim$0.1</a></div></td>
+<td>Can Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25290">2607.25290</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20058.html">Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model</a></div><div class="paper-tags"><a href="tag/materials-science-30d.html">materials-science</a></div></td>
-<td>Markus J. Buehler</td>
-<td><a href="http://arxiv.org/abs/2607.20058">2607.20058</a></td>
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25489.html">Agentic AI in medicine: architectures, applications, evaluation, and challenges for clinical translation</a></div><div class="paper-tags"><a href="tag/multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Zheng Tong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25489">2607.25489</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20090.html">Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results</a></div></td>
-<td>Yanyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20090">2607.20090</a></td>
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25743.html">Physical Mechanism of Vacuole Formation in Liquid Droplets</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
+<td>Pranay Jaiswal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25743">2607.25743</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/mof-30d.html">mof</a></div></td>
-<td>Prathami Divakar Kamath et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18594">2607.18594</a></td>
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25849.html">Binary-induced mass increase and helium enrichment of the envelopes of Type~IIP supernova progenitors</a></div></td>
+<td>Caroline Mannes et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25849">2607.25849</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18750.html">Alchemical thermodynamic integration for ab initio free-energy calculations in solutions</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Liangrui Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18750">2607.18750</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23975.html">Plato-Bio: verification-first biological novelty screening with temporal rediscovery and structural benchmarks</a></div><div class="paper-tags"><a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
+<td>Stefan G. Creadore</td>
+<td><a href="http://arxiv.org/abs/2607.23975">2607.23975</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18757.html">Self-consistent GW theory for superconductivity in SrTiO3 models</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
-<td>Zhi-Hao Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18757">2607.18757</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24109.html">Earthquake Aftershock Forecasting using Conditional Generative Models</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/protein-structure-30d.html">protein-structure</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Weiqiang Zhu</td>
+<td><a href="http://arxiv.org/abs/2607.24109">2607.24109</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18777.html">PertReason: A Knowledge-Grounded Benchmark and Framework for Cell-State-Conditioned Mechanistic Reasoning of Perturbation Effects</a></div></td>
-<td>Dongkwan Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18777">2607.18777</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24213.html">Integrating Factual and Normative Industrial Knowledge via Constraint-Aware Graph Attention for Process Plan Recommendation</a></div><div class="paper-tags"><a href="tag/materials-science-30d.html">materials-science</a></div></td>
+<td>Yuntong Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24213">2607.24213</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18835.html">ABOPD: Antibody CDR Design via On-Policy Distillation</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
-<td>Zhuo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18835">2607.18835</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24274.html">Physics-Guided Generative AI for Property-Targeted 3D Porous Media Design</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Peng Wang</td>
+<td><a href="http://arxiv.org/abs/2607.24274">2607.24274</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18963.html">Stereochemical Vacuum Gap Explains Out-of-Plane Thermal Insulation in MXenes</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>O. Mateos-Lopez et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18963">2607.18963</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24279.html">Steady base states in a two-dimensional chiral fluid. The chiral Stokes cavity</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
+<td>Francisco Vega Reyes</td>
+<td><a href="http://arxiv.org/abs/2607.24279">2607.24279</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19003.html">Deciphering Mechanoluminescence: How the Nature of Mechanical Stress and Structural Dimensionality Shape Mechanisms and Responses</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
-<td>Alexis Duval et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19003">2607.19003</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24314.html">MEGA-CL: A Molecular Foundation Model for Generalizable ADMET Prediction through Graph External Attention and Contrastive Learning</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/gnn-30d.html">gnn</a></div></td>
+<td>Tinghui Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24314">2607.24314</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19044.html">Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/molecular-generation-30d.html">molecular-generation</a> · <a href="tag/reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Mingxuan Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19044">2607.19044</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24327.html">Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/gnn-30d.html">gnn</a></div></td>
+<td>Yidong Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24327">2607.24327</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19095.html">Doping tunable charge density waves in misfit layer compounds</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/tmd-30d.html">tmd</a></div></td>
-<td>Hugo Le Du et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19095">2607.19095</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25039.html">Citrine Informatics: Chemical &amp; Materials Development Platform</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Maxwell C. Venetos et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25039">2607.25039</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19180.html">Exploring Self-Organization of Charged Dust Dimers in Plasma</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Aman Singh Katariya et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19180">2607.19180</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25055.html">Localized magnetic pressure anisotropy in strange dwarfs with crystalline crusts</a></div></td>
+<td>Mila Leite Garcia Reis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25055">2607.25055</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/gnn-30d.html">gnn</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/replica-exchange-30d.html">replica-exchange</a></div></td>
-<td>Mouyang Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19198">2607.19198</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25104.html">Magnetic pressure anisotropy in ultra-dense white dwarfs: Landau quantization and neutronization effects</a></div><div class="paper-tags"><a href="tag/magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Edson Otoniel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25104">2607.25104</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19237.html">DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/molecular-generation-30d.html">molecular-generation</a> · <a href="tag/protein-ligand-30d.html">protein-ligand</a> · <a href="tag/protein-structure-30d.html">protein-structure</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Yiming Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19237">2607.19237</a></td>
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25115.html">Persistent Manifold Learning of Protein Properties</a></div><div class="paper-tags"><a href="tag/molecular-llm-30d.html">molecular-llm</a></div></td>
+<td>Xingjian Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25115">2607.25115</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19253.html">Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a></div></td>
-<td>Rawaa Alatrash et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19253">2607.19253</a></td>
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23472.html">VIPER: Visual In-Context Physics Reasoning for Physically Plausible Video Generation</a></div><div class="paper-tags"><a href="tag/multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Tianxiao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23472">2607.23472</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19308.html">A unified tight-binding description of the electronic structure and Ising protection of superconductivity in misfit layered compounds</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a> · <a href="tag/magnetic-properties-30d.html">magnetic-properties</a> · <a href="tag/tmd-30d.html">tmd</a></div></td>
-<td>G. A. Bobkov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19308">2607.19308</a></td>
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23518.html">Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
+<td>Hengyuan Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23518">2607.23518</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19318.html">SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/materials-science-30d.html">materials-science</a> · <a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Ahmed Azaz Humdoon et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19318">2607.19318</a></td>
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23634.html">Variational-Ising-Attention (VIA):TailoredAttentionMattersfor Science</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Rui Wang</td>
+<td><a href="http://arxiv.org/abs/2607.23634">2607.23634</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19629.html">Adaptive Capitulation: A Structural Failure Mode of LLM Responses in Vulnerability Contexts</a></div></td>
-<td>Eunna Lee</td>
-<td><a href="http://arxiv.org/abs/2607.19629">2607.19629</a></td>
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22985.html">Robust Conformalized Selection with Noisy Responses</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Chengyao Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22985">2607.22985</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17488.html">Surrogate models for type II supernovae: Probing low-energy explosions and interaction-free regimes</a></div></td>
-<td>Zhengyang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17488">2607.17488</a></td>
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23045.html">Stress-testing large language model agents in a robotic chemistry laboratory</a></div></td>
+<td>Lulu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23045">2607.23045</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17498.html">LLM-Driven Cross-Paradigm Design for Quantum Optimal Control</a></div></td>
-<td>Yu-Qin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17498">2607.17498</a></td>
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23208.html">Stoichiometric cluster learning for few-shot property prediction of multi-ionic integrated energetic materials</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Ming-Yu Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23208">2607.23208</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17529.html">Anomalously high deuterium fractionation in a galactic translucent cloud: a challenge to chemical models</a></div></td>
-<td>Gan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17529">2607.17529</a></td>
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.21886.html">VisCanvas: A Node-based Interface for Exploratory Visualization Authoring with LLMs</a></div></td>
+<td>Yuki Ueno et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21886">2607.21886</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17601.html">Trustworthy Protein-Ligand Binding Affinity Prediction via Reliability-Aware Multi-Engine Fusion</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Yongchan Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17601">2607.17601</a></td>
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.21983.html">Ethereum NFT Smart Contracts: Knowledge-Guided Vulnerability Detection with LLM and Code Slicing</a></div></td>
+<td>Deyu Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21983">2607.21983</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17680.html">Fitting the topology of synthetic particle systems with a novel graph representation</a></div></td>
-<td>Martin Alexander Memmesheimer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17680">2607.17680</a></td>
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22022.html">HEMERA: A Heterogeneous Memory-Centric Accelerator with Recursive Dataflow for Edge-Constrained State-Space-Duality Models Inference</a></div></td>
+<td>Hao Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22022">2607.22022</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17753.html">The energy landscape of DNA-binding proteins along the genome</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a></div></td>
-<td>Alessandro Pandolfi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17753">2607.17753</a></td>
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22062.html">Constraint-Driven Synthesis of Hyper Petri Nets</a></div></td>
+<td>Maksym Figat et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22062">2607.22062</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17759.html">Ah-SCDFT:A general approach for superconductivity with an-harmonic corrections</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Xiaozheng Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17759">2607.17759</a></td>
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/gnn-30d.html">gnn</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Guanghui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22271">2607.22271</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17910.html">Chemical filters for ultra-high-throughput materials screening and generation</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Kinga O. Mastej et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17910">2607.17910</a></td>
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22314.html">Evolution-Aware MSA Reasoning for Subsampling via Factor Graphs</a></div><div class="paper-tags"><a href="tag/protein-llm-30d.html">protein-llm</a></div></td>
+<td>Zhangzhi Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22314">2607.22314</a></td>
 </tr>
 </tbody></table>

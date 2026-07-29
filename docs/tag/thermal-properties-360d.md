@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">305 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,11 +1838,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03297.html">Machine learning potential for predicting thermal conductivity of θ-phase and amorphous Tantalum Nitride</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Zhicheng Zong et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03297">2508.03297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01157.html">Realization of Phonon FETs in 2D material through Engineered Acoustic Mismatch</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>H. F. Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01157">2508.01157</a></td>
 </tr>
 </tbody></table>

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19044.html">Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
-<td>Mingxuan Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19044">2607.19044</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20194.html">OLEDLM: A Unified Language Model for OLED Molecular Design</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
+<td>Fukang Wen et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20194">2607.20194</a></td>
 </tr>
 </tbody></table>

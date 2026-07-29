@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>retrosynthesis — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <strong>360d</strong> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23634.html">Variational-Ising-Attention (VIA):TailoredAttentionMattersfor Science</a></div></td>
+<td>Rui Wang</td>
+<td><a href="http://arxiv.org/abs/2607.23634">2607.23634</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20589.html">Evaluating the Effectiveness of Persona Simulation in Opinion Prediction with GPT-4.1</a></div></td>
+<td>Sarah Y. Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20589">2607.20589</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14512.html">RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning</a></div></td>
@@ -506,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05269.html">Chemist-aligned retrosynthesis by ensembling diverse inductive bias models</a></div></td>
 <td>Krzysztof Maziarz et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05269">2412.05269</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01459.html">Fast and scalable retrosynthetic planning with a transformer neural network and speculative beam search</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Mikhail Andronov et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01459">2508.01459</a></td>
 </tr>
 </tbody></table>

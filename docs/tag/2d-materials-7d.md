@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18963.html">Stereochemical Vacuum Gap Explains Out-of-Plane Thermal Insulation in MXenes</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>O. Mateos-Lopez et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18963">2607.18963</a></td>
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22316.html">Charge-Density-Wave Phase Transitions in Monolayer 1T-TaS2 from Universal Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>Valentina Nesterova et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22316">2607.22316</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19095.html">Doping tunable charge density waves in misfit layer compounds</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="tmd-7d.html">tmd</a></div></td>
-<td>Hugo Le Du et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19095">2607.19095</a></td>
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19979.html">Interface-resolved structural properties of epitaxial Y$_3$Fe$_5$O$_{12}$/ Gd$_3$Fe$_5$O$_{12}$ bilayers grown on GGG(111) by pulsed laser deposition</a></div></td>
+<td>Kshitij Singh Rathore et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19979">2607.19979</a></td>
 </tr>
 </tbody></table>

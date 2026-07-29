@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24314.html">MEGA-CL: A Molecular Foundation Model for Generalizable ADMET Prediction through Graph External Attention and Contrastive Learning</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Tinghui Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24314">2607.24314</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22985.html">Robust Conformalized Selection with Noisy Responses</a></div></td>
+<td>Chengyao Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22985">2607.22985</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18332.html">ChemHyperMag: Physics-informed magnetic hypergraph learning improves molecular ADMET prediction</a></div></td>
+<td>Hexiao Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18332">2607.18332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19977.html">Rem3Di: Learning smooth, chiral 3D molecular descriptors from atomistic foundation models</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Steffen Wedig et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19977">2607.19977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20766.html">Importance-Sampling Estimation of Gaussian Molecular Shape Overlap: Exact Union Volumes and Confidence-Bounded Virtual Screening</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Egor I. Tuzharov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20766">2607.20766</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19044.html">Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
@@ -68,6 +98,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15101.html">Accelerated descriptor-free path sampling for protein-ligand binding kinetics</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Simon M. Lichtinger et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15101">2607.15101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20551.html">SenCos-GEM: SENet-Calibrated and Law-of-Cosines-Constrained Geometry-Enhanced Molecular Representation for Property Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Tianming Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20551">2607.20551</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>
@@ -566,11 +602,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02937.html">Proteo-R1: Reasoning Foundation Models for De Novo Protein Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Fang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02937">2605.02937</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26498.html">Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Jinjiang Guo</td>
-<td><a href="http://arxiv.org/abs/2604.26498">2604.26498</a></td>
 </tr>
 </tbody></table>

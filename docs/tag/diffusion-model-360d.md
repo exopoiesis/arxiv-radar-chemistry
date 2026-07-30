@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">446 papers</span>
+  <span class="paper-count">445 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2684,11 +2684,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02528.html">From Pixels to Pathology: Restoration Diffusion for Diagnostic-Consistent Virtual IHC</a></div></td>
 <td>Jingsong Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02528">2508.02528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01589.html">Censored Sampling for Topology Design: Guiding Diffusion with Human Preferences</a></div></td>
-<td>Euihyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01589">2508.01589</a></td>
 </tr>
 </tbody></table>

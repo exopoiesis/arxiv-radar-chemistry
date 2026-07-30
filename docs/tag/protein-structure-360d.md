@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">253 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1532,11 +1532,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02369.html">Designing lattice proteins with variational quantum algorithms</a></div></td>
 <td>Hanna Linn et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02369">2508.02369</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01924.html">Pi-SAGE: Permutation-invariant surface-aware graph encoder for binding affinity prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Sharmi Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01924">2508.01924</a></td>
 </tr>
 </tbody></table>

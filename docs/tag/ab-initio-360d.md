@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1555 papers</span>
+  <span class="paper-count">1554 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9338,11 +9338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05768.html">Probing broken time-reversal symmetry with tailored-light photocurrents</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Daniel M. B. Lesko et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05768">2507.05768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01757.html">Optical properties of emeraldine salt polymers from ab initio calculations: comparison with recent experimental data</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Renato Colle et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01757">2508.01757</a></td>
 </tr>
 </tbody></table>

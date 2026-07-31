@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">445 papers</span>
+  <span class="paper-count">443 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2672,17 +2672,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14569.html">Potential Score Matching: Debiasing Molecular Structure Sampling with Potential Energy Guidance</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Liya Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14569">2503.14569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08524.html">GS-ID: Illumination Decomposition on Gaussian Splatting via Adaptive Light Aggregation and Diffusion-Guided Material Priors</a></div></td>
-<td>Kang Du et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08524">2408.08524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02528.html">From Pixels to Pathology: Restoration Diffusion for Diagnostic-Consistent Virtual IHC</a></div></td>
-<td>Jingsong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02528">2508.02528</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -956,11 +956,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04898.html">Intrinsic Layer-Dependent Surface Energy and Exfoliation Energy of van der Waals Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Lin-Lin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04898">2508.04898</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02394.html">Avalanche Dynamics in Stick-Slip Cutting of Molybdenum Disulfide</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Pawel Koczanowski et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02394">2508.02394</a></td>
 </tr>
 </tbody></table>

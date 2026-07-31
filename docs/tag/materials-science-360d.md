@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">401 papers</span>
+  <span class="paper-count">398 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2402,23 +2402,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03510.html">Revealing Polymorph-Specific Transduction in WO$_3$ during Acetone Sensing</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Matteo D&#x27;Andria et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03510">2508.03510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08998.html">CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Krit Tangsongcharoen et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08998">2501.08998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05768.html">Probing broken time-reversal symmetry with tailored-light photocurrents</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Daniel M. B. Lesko et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05768">2507.05768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02850.html">Cross-polarized and Stable Second Harmonic Generation from Monocrystalline Copper</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Elif Nur Dayi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02850">2508.02850</a></td>
 </tr>
 </tbody></table>

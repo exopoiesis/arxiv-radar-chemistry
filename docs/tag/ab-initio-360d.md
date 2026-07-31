@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1554 papers</span>
+  <span class="paper-count">1551 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9320,23 +9320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03319.html">All Photonic Isolator using Atomically Thin (2D) Bismuth Telluride (Bi2Te3)</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Saswata Goswami et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03319">2508.03319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14118.html">PET-MAD, a lightweight universal interatomic potential for advanced materials modeling</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Arslan Mazitov et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14118">2503.14118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16262.html">Exact quantum dynamics of methanol: full-dimensional ab initio potential energy surface of spectroscopic quality and variational vibrational states</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Ayaki Sunaga et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16262">2505.16262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05768.html">Probing broken time-reversal symmetry with tailored-light photocurrents</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Daniel M. B. Lesko et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05768">2507.05768</a></td>
 </tr>
 </tbody></table>

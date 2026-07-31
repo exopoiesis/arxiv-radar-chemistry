@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1553 papers</span>
+  <span class="paper-count">1549 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9308,29 +9308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03619.html">FlowBack-Adjoint: Physics-Aware and Energy-Guided Conditional Flow-Matching for All-Atom Protein Backmapping</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Alex Berlaga et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03619">2508.03619</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22779.html">Revisiting the Fermion Sign Problem from the Structure of Lee-Yang Zeros. I. The Form of Partition Function for Indistinguishable Particles and Its Zeros at 0~K</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Ran-Chen He et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22779">2507.22779</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02141.html">Efforts in Modeling the Mechanics and Chemistry of Energetic Materials Across Scales</a></div></td>
-<td>Paul Lafourcade et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02141">2508.02141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02394.html">Avalanche Dynamics in Stick-Slip Cutting of Molybdenum Disulfide</a></div><div class="paper-tags"><a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Pawel Koczanowski et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02394">2508.02394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02659.html">Enhancing the ergodicity of Worldvolume HMC via embedding Generalized-thimble HMC</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Masafumi Fukuma et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02659">2508.02659</a></td>
 </tr>
 </tbody></table>

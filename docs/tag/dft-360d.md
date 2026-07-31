@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2058 papers</span>
+  <span class="paper-count">2050 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12314,53 +12314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03786.html">A comparative study of the high-pressure structural stability of zirconolite materials for nuclear waste immobilisation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Daniel Errandonea et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03786">2508.03786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08998.html">CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Krit Tangsongcharoen et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08998">2501.08998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01967.html">From trigonal to triclinic: Symmetry-tuned Rashba effects in buckled honeycomb SrHfO$_{3}$-based heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Okan Köksal</td>
-<td><a href="http://arxiv.org/abs/2508.01967">2508.01967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01979.html">Benchmarking total energies with Hund&#x27;s J terms in Hubbard-corrected spin-crossover chemistry</a></div></td>
-<td>Lórien MacEnulty et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01979">2508.01979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02251.html">Orientational Effects in the Low Pair Continuum of Aluminium</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Thomas Gawne et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02251">2508.02251</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02575.html">Density functional theory of renormalization group in nuclear matter</a></div></td>
-<td>Yong-rui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02575">2508.02575</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02641.html">FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Vahe Gharakhanyan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02641">2508.02641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02651.html">Open Molecular Crystals 2025 (OMC25) Dataset and Models</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Vahe Gharakhanyan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02651">2508.02651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02956.html">Autonomous Inorganic Materials Discovery via Multi-Agent Physics-Aware Scientific Reasoning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Alireza Ghafarollahi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02956">2508.02956</a></td>
 </tr>
 </tbody></table>

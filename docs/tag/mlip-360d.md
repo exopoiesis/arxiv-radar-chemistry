@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">595 papers</span>
+  <span class="paper-count">592 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3566,23 +3566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03619.html">FlowBack-Adjoint: Physics-Aware and Energy-Guided Conditional Flow-Matching for All-Atom Protein Backmapping</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Alex Berlaga et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03619">2508.03619</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14118.html">PET-MAD, a lightweight universal interatomic potential for advanced materials modeling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Arslan Mazitov et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14118">2503.14118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02641.html">FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Vahe Gharakhanyan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02641">2508.02641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02651.html">Open Molecular Crystals 2025 (OMC25) Dataset and Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Vahe Gharakhanyan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02651">2508.02651</a></td>
 </tr>
 </tbody></table>

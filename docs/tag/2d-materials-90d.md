@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,17 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01881.html">Polymorphic crystallites model for monolayer amorphous materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Le-Ye Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01881">2605.01881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Jiahang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00609">2605.00609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01115.html">Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>R. Weht et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01115">2605.01115</a></td>
 </tr>
 </tbody></table>

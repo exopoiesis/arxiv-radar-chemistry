@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">292 papers</span>
+  <span class="paper-count">290 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1754,17 +1754,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01593.html">First-principles simulation of shocked H-He mixture along the principal Hugoniot</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Ammar A. Ellaboudy et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01593">2605.01593</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01115.html">Topological flat bands emerging at the inversion of stacking order in rhombohedral graphite</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>R. Weht et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01115">2605.01115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01138.html">Crossing the 12,000-atom barrier with heterogeneous quantum-classical supercomputing: quantum chemistry of protein-ligand complexes</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Kenneth M. Merz, et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01138">2605.01138</a></td>
 </tr>
 </tbody></table>

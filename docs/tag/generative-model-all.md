@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">817 papers</span>
+  <span class="paper-count">800 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4814,107 +4814,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13779.html">Leveraging Latent Evolutionary Optimization for Targeted Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Siddartha Reddy N et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13779">2407.13779</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00175.html">Permutation invariant multi-output Gaussian Processes for drug combination prediction in cancer</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a></div></td>
-<td>Leiv Rønneberg et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00175">2407.00175</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.04154.html">Stabilizing Policy Gradients for Stochastic Differential Equations via Consistency with Perturbation Process</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Xiangxin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2403.04154">2403.04154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10183.html">Spectral CT Two-step and One-step Material Decomposition using Diffusion Posterior Sampling</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Corentin Vazia et al.</td>
-<td><a href="http://arxiv.org/abs/2403.10183">2403.10183</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15253.html">Fingerprint Membership and Identity Inference Against Generative Adversarial Networks</a></div></td>
-<td>Saverio Cavasin et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15253">2406.15253</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10513.html">Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Mohamed Amine Ketata et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10513">2406.10513</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09143.html">Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model</a></div><div class="paper-tags"><a href="multimodal-llm-all.html">multimodal-llm</a></div></td>
-<td>Melvin Wong et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09143">2406.09143</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09263.html">Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Izumi Takahara et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09263">2406.09263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04338.html">Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Fangfu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04338">2406.04338</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04713.html">FlowMM: Generating Materials with Riemannian Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Benjamin Kurt Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04713">2406.04713</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04916.html">Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Adrien Carrel</td>
-<td><a href="http://arxiv.org/abs/2406.04916">2406.04916</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03686.html">BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="gnn-all.html">gnn</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Artem Zholus et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03686">2406.03686</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03278.html">Using GNN property predictors as molecule generators</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Félix Therrien et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03278">2406.03278</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06737.html">Disguised Copyright Infringement of Latent Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Yiwei Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06737">2404.06737</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01197.html">A Survey of Generative Information Retrieval</a></div></td>
-<td>Tzu-Lin Kuo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01197">2406.01197</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03403.html">Structure-based Drug Design Benchmark: Do 3D Methods Really Dominate?</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Kangyu Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03403">2406.03403</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01650.html">TAGMol: Target-Aware Gradient-guided Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Vineeth Dorna et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01650">2406.01650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00735.html">Full-Atom Peptide Design based on Multi-modal Flow Matching</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Jiahan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00735">2406.00735</a></td>
 </tr>
 </tbody></table>

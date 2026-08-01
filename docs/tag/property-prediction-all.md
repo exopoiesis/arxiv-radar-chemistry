@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">429 papers</span>
+  <span class="paper-count">420 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2534,59 +2534,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03380.html">Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
 <td>Srivathsan Badrinarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03380">2407.03380</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00873.html">Scaffold Splits Overestimate Virtual Screening Performance</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Qianrong Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00873">2406.00873</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03680.html">AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and Inverse Materials Design</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Kamal Choudhary</td>
-<td><a href="http://arxiv.org/abs/2405.03680">2405.03680</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13869.html">Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Danqing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13869">2406.13869</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09841.html">Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Yizhen Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09841">2406.09841</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17797.html">MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Shikun Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17797">2406.17797</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03164.html">Topological Neural Networks go Persistent, Equivariant, and Continuous</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yogesh Verma et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03164">2406.03164</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01032.html">LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Junjie Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01032">2406.01032</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01650.html">TAGMol: Target-Aware Gradient-guided Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Vineeth Dorna et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01650">2406.01650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01808.html">In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Grzegorz Kaszuba et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01808">2406.01808</a></td>
 </tr>
 </tbody></table>

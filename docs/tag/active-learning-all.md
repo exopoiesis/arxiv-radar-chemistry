@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">240 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1454,41 +1454,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17485.html">Application of the Digital Annealer Unit in Optimizing Chemical Reaction Conditions for Enhanced Production Yields</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a></div></td>
 <td>Shih-Cheng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2407.17485">2407.17485</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14876.html">Training Greedy Policy for Proposal Batch Selection in Expensive Multi-Objective Combinatorial Optimization</a></div></td>
-<td>Deokjae Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14876">2406.14876</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14306.html">Efficient parameterization of transferable Atomic Cluster Expansion for water</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Eslam Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14306">2406.14306</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11018.html">Implementing dynamic high-performance computing supported workflows on Scanning Transmission Electron Microscope</a></div></td>
-<td>Utkarsh Pratiush et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11018">2406.11018</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12919.html">Understanding active learning of molecular docking and its applications</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Jeonghyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12919">2406.12919</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07263.html">Active learning for affinity prediction of antibodies</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Alexandra Gessner et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07263">2406.07263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04261.html">Simulating, Fast and Slow: Learning Policies for Black-Box Optimization</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Fabio Valerio Massoli et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04261">2406.04261</a></td>
 </tr>
 </tbody></table>

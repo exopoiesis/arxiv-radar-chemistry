@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transition — all</h1>
-  <span class="paper-count">427 papers</span>
+  <span class="paper-count">419 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2528,53 +2528,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09317.html">Bonding states underpinning structural transitions in IrTe$_2$ observed with micro-ARPES</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
 <td>C. W. Nicholson et al.</td>
 <td><a href="http://arxiv.org/abs/2407.09317">2407.09317</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00690.html">MnRhBi3: A Cleavable Antiferromagnetic Metal</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Eleanor M. Clements et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00690">2407.00690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00330.html">A compositional ordering-driven morphotropic phase boundary in ferroelectric solid solutions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yubai Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00330">2407.00330</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19821.html">Interface-Induced Ferromagnetism in lateral NiBr2 and NiCl2 Heterostructure</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Ilkay Ozdemir et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19821">2406.19821</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18090.html">Probing the superconducting gap structure of ScRuSi via $μ$SR and first-principles calculations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>K. Panda et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18090">2406.18090</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15065.html">Phase transitions, Dirac and WSM states in $\mathrm{Mn}_{1-x} \mathrm{Ge}_x \mathrm{Bi}_2 \mathrm{Te}_4$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>A. M. Shikin et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15065">2406.15065</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12004.html">First-principles study of phase transition in cadmium titanate by molecular dynamics incorporating nuclear quantum effects</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Kansei Kanayama et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12004">2404.12004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.11698.html">Spin-Orbital Ordering in Alkali Superoxides</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Kohei Shibata et al.</td>
-<td><a href="http://arxiv.org/abs/2403.11698">2403.11698</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06291.html">The first-order structural phase transition at low-temperature in GaPt$_{5}$P and its rapid enhancement with pressure</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>A. Sapkota et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06291">2406.06291</a></td>
 </tr>
 </tbody></table>

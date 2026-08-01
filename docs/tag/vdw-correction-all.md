@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vdw-correction — all</h1>
-  <span class="paper-count">303 papers</span>
+  <span class="paper-count">296 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1790,47 +1790,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17182.html">Excitonic response in TMD heterostructures from first-principles: impact of stacking, twisting, and interlayer distance</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="tmd-all.html">tmd</a></div></td>
 <td>R. Reho et al.</td>
 <td><a href="http://arxiv.org/abs/2404.17182">2404.17182</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00690.html">MnRhBi3: A Cleavable Antiferromagnetic Metal</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Eleanor M. Clements et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00690">2407.00690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18366.html">Room temperature detection of the (H2)2 dimer</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>H. Fleurbaey et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18366">2407.18366</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00443.html">Electronic Correlations in Multiferroic van der Waals CuCrP$_2$S6: Insights From X-Ray Spectroscopy and DFT</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Yefei Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00443">2407.00443</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15654.html">Ultrasensitive acoustic graphene plasmons in a graphene-transition metal dichalcogenide heterostructure: strong plasmon-phonon coupling and wavelength sensitivity enhanced by a metal screen</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Ícaro R. Lavora et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15654">2406.15654</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.14482.html">Assessing exchange-correlation functionals for heterogeneous catalysis of nitrogen species</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="mof-all.html">mof</a></div></td>
-<td>Honghui Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2403.14482">2403.14482</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12265.html">Quasi-van der Waals Epitaxial Growth of γ&#x27;-GaSe Thin Films on GaAs(111)B Substrates</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Mingyu Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12265">2403.12265</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07384.html">Strong Repulsive Lifshitz-van der Waals Forces on Suspended Graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Gianluca Vagli et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07384">2406.07384</a></td>
 </tr>
 </tbody></table>

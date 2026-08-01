@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">394 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2378,35 +2378,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Rui Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03680.html">AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and Inverse Materials Design</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a> · <a href="materials-science-all.html">materials-science</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Kamal Choudhary</td>
-<td><a href="http://arxiv.org/abs/2405.03680">2405.03680</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15650.html">Machine Learning Materials Properties with Accurate Predictions, Uncertainty Estimates, Domain Guidance, and Persistent Online Accessibility</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="crystal-structure-all.html">crystal-structure</a></div></td>
-<td>Ryan Jacobs et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15650">2406.15650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14443.html">Thin Film Synthesis, Structural Analysis, and Magnetic Properties of Novel Ternary Transition Metal Nitride MnCoN2</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Sita Dugu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14443">2406.14443</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13163.html">LLMatDesign: Autonomous Materials Discovery with Large Language Models</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a></div></td>
-<td>Shuyi Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13163">2406.13163</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10536.html">Universal materials model of deep-learning density functional theory Hamiltonian</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Yuxiang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10536">2406.10536</a></td>
 </tr>
 </tbody></table>

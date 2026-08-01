@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-llm — all</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,11 +1040,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16375.html">Ranking protein-protein models with large language models and graph neural networks</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Xiaotong Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2407.16375">2407.16375</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19744.html">ProtSolM: Protein Solubility Prediction with Multi-modal Features</a></div></td>
-<td>Yang Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19744">2406.19744</a></td>
 </tr>
 </tbody></table>

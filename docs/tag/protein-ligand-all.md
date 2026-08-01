@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">322 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1862,89 +1862,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13780.html">Generative Model for Small Molecules with Latent Space RL Fine-Tuning to Protein Targets</a></div><div class="paper-tags"><a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
 <td>Ulrich A. Mbou Sob et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13780">2407.13780</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.04154.html">Stabilizing Policy Gradients for Stochastic Differential Equations via Consistency with Perturbation Process</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Xiangxin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2403.04154">2403.04154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18744.html">Quantum Resources Required for Binding Affinity Calculations of Amyloid beta</a></div></td>
-<td>Matthew Otten et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18744">2406.18744</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09346.html">Scoreformer: A Surrogate Model For Large-Scale Prediction of Docking Scores</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Álvaro Ciudad et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09346">2406.09346</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17697.html">HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction</a></div></td>
-<td>Xi Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17697">2406.17697</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10867.html">Geometric-informed GFlowNets for Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Grayson Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10867">2406.10867</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12919.html">Understanding active learning of molecular docking and its applications</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Jeonghyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12919">2406.12919</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08980.html">From Theory to Therapy: Reframing SBDD Model Evaluation via Practical Metrics</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Bowen Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08980">2406.08980</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17797.html">MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Shikun Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17797">2406.17797</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07263.html">Active learning for affinity prediction of antibodies</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Alexandra Gessner et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07263">2406.07263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07770.html">DualBind: A Dual-Loss Framework for Protein-Ligand Binding Affinity Prediction</a></div></td>
-<td>Meng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07770">2406.07770</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05738.html">Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Thomas Le Menestrel et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05738">2406.05738</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08511.html">Diffusion Models in $\textit{De Novo}$ Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Amira Alakhdar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08511">2406.08511</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.16810.html">Holographic Gaussian Boson Sampling with Matrix Product States on 3D cQED Processors</a></div></td>
-<td>Ningyi Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2403.16810">2403.16810</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01650.html">TAGMol: Target-Aware Gradient-guided Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Vineeth Dorna et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01650">2406.01650</a></td>
 </tr>
 </tbody></table>

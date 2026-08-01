@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>free-energy — all</h1>
-  <span class="paper-count">640 papers</span>
+  <span class="paper-count">628 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3782,77 +3782,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01044.html">Direct free energy calculation from ab initio path integral Monte Carlo simulations of warm dense matter</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Tobias Dornheim et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01044">2407.01044</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15174.html">Ab initio modeling of superconducting alloys</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Pedro N. Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15174">2406.15174</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14607.html">Quantum Extreme Learning of molecular potential energy surfaces and force fields</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Gabriele Lo Monaco et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14607">2406.14607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11705.html">Superstatistics as the thermodynamic limit of driven classical systems</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Sergio Davis et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11705">2406.11705</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00201.html">Quantum Molecular Charge-Transfer Model for Multi-step Auger-Meitner Decay Cascade Dynamics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Adam E. A. Fouda et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00201">2406.00201</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08107.html">Analytical evaluation of ground state gradients in quantum electrodynamics coupled cluster theory</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Marcus Takvam Lexander et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08107">2406.08107</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08554.html">Quantum Hardware-Enabled Molecular Dynamics via Transfer Learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Abid Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08554">2406.08554</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02078.html">CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Brook Wander et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02078">2405.02078</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07263.html">Active learning for affinity prediction of antibodies</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Alexandra Gessner et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07263">2406.07263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07343.html">Targeting spectroscopic accuracy for dispersion bound systems from ab initio techniques: translational eigenstates of Ne@C$_{70}$</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>K. Panchagnula et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07343">2406.07343</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07345.html">Machine Learning approaches to classical density functional theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Alessandro Simon et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07345">2406.07345</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12518.html">Neural canonical transformations for vibrational spectra of molecules</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
-<td>Qi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12518">2403.12518</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03979.html">Benchmarking AlphaFold3&#x27;s protein-protein complex accuracy and machine learning prediction reliability for binding free energy changes upon mutation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>JunJie Wee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03979">2406.03979</a></td>
 </tr>
 </tbody></table>

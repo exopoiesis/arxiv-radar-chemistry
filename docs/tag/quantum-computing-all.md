@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-computing — all</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">222 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1346,47 +1346,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04457.html">Kalman filter enhanced Adversarial Bayesian optimization for active sampling in inelastic neutron scattering</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
 <td>Nihad Abuawwad et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04457">2407.04457</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11574.html">Non-unitary Coupled Cluster Enabled by Mid-circuit Measurements on Quantum Computers</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Alexandre Fleury et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11574">2406.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14170.html">Compact fermionic quantum state preparation with a natural-orbitalizing variational quantum eigensolving scheme</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Pauline Besserve et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14170">2406.14170</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14607.html">Quantum Extreme Learning of molecular potential energy surfaces and force fields</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Gabriele Lo Monaco et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14607">2406.14607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14627.html">Bayesian Optimization Priors for Efficient Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
-<td>Farshud Sorourifar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14627">2406.14627</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12371.html">Hybrid Quantum-Classical Algorithms</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Roberto Campos</td>
-<td><a href="http://arxiv.org/abs/2406.12371">2406.12371</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01547.html">Encoding lattice structures in Quantum Computational Basis States</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Kalyan Dasgupta</td>
-<td><a href="http://arxiv.org/abs/2406.01547">2406.01547</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01704.html">Distributed Quantum Computing in Silicon</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Photonic Inc et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01704">2406.01704</a></td>
 </tr>
 </tbody></table>

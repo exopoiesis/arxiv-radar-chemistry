@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">391 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2360,53 +2360,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01000.html">Ground and excited state energy calculations of the H2 molecule using a variational quantum eigensolver algorithm on an NMR quantum simulator</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Dileep Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01000">2407.01000</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19387.html">Core-hole Coherent Spectroscopy in Molecules</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Emilio Rodríguez-Cuenca et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19387">2406.19387</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18515.html">Particle-Particle Random Phase Approximation for Predicting Correlated Excited States of Point Defects</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Jiachen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18515">2406.18515</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12229.html">Multi-task learning for molecular electronic structure approaching coupled-cluster accuracy</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Hao Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12229">2405.12229</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14505.html">Reformulation of Time-Dependent Density Functional Theory for Non-Perturbative Dynamics: The Rabi Oscillation Problem Resolved</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Davood B. Dar et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14505">2404.14505</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09544.html">No more gap-shifting: Stochastic many-body-theory based TDHF for accurate theory of polymethine cyanine dyes</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Nadine C. Bradbury et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09544">2406.09544</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07729.html">Role of Kinetic Exchange and Coulomb Interaction in Bonding of Hydrogen Molecular Systems and Excited States</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Maciej Hendzel et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07729">2406.07729</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12518.html">Neural canonical transformations for vibrational spectra of molecules</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
-<td>Qi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12518">2403.12518</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04475.html">Estimating molecular thermal averages with the quantum equation of motion and informationally complete measurements</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Daniele Morrone et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04475">2406.04475</a></td>
 </tr>
 </tbody></table>

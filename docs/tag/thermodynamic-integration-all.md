@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermodynamic-integration — all</h1>
-  <span class="paper-count">231 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1376,29 +1376,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04413.html">High-throughput magnetic co-doping and design of exchange interactions in a topological insulator</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
 <td>Rubel Mozumder et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04413">2407.04413</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18723.html">The local structure, electronic and optical properties of Pb(Mg$_{1/3}$Nb$_{2/3}$)O$_3$-PbTiO$_3$: first-principles study</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>M. Kovalenko et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18723">2406.18723</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15065.html">Phase transitions, Dirac and WSM states in $\mathrm{Mn}_{1-x} \mathrm{Ge}_x \mathrm{Bi}_2 \mathrm{Te}_4$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>A. M. Shikin et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15065">2406.15065</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03795.html">Cooperative CO$_2$ capture via oxalate formation on metal-decorated graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Inioluwa Christianah Popoola et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03795">2406.03795</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04128.html">Realization of higher coordinated Er in high-pressure cotunnite phase of Er$_2$Ti$_2$O$_7$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>M. Modak et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04128">2406.04128</a></td>
 </tr>
 </tbody></table>

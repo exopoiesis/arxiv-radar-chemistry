@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-generation — all</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">235 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1424,17 +1424,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12186.html">Directly Optimizing for Synthesizability in Generative Molecular Design using Retrosynthesis Models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
 <td>Jeff Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2407.12186">2407.12186</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08511.html">Diffusion Models in $\textit{De Novo}$ Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Amira Alakhdar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08511">2406.08511</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01650.html">TAGMol: Target-Aware Gradient-guided Molecule Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Vineeth Dorna et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01650">2406.01650</a></td>
 </tr>
 </tbody></table>

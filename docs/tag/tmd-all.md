@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tmd — all</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <a href="tmd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,17 +836,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17182.html">Excitonic response in TMD heterostructures from first-principles: impact of stacking, twisting, and interlayer distance</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>R. Reho et al.</td>
 <td><a href="http://arxiv.org/abs/2404.17182">2404.17182</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15654.html">Ultrasensitive acoustic graphene plasmons in a graphene-transition metal dichalcogenide heterostructure: strong plasmon-phonon coupling and wavelength sensitivity enhanced by a metal screen</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Ícaro R. Lavora et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15654">2406.15654</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08040.html">Emergence of non-uniform strain induced exciton species in homo- and heterobilayer transition metal dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Mohammadreza Daqiqshirazi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08040">2406.08040</a></td>
 </tr>
 </tbody></table>

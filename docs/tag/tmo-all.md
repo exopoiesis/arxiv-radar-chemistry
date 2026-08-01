@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tmo — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="tmo-7d.html">7d</a> <a href="tmo-30d.html">30d</a> <a href="tmo-90d.html">90d</a> <a href="tmo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05565.html">Exploring the role of nonlocal Coulomb interactions in perovskite transition metal oxides</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Indukuru Ramesh Reddy et al.</td>
 <td><a href="http://arxiv.org/abs/2407.05565">2407.05565</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08873.html">Electronic and magnetic ground state of 4$d^3$ double perovskite ruthenates A$_2$LaRuO$_6$ (A $=$ Ca, Sr, Ba)</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Asha Ann Abraham et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08873">2406.08873</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,29 +1556,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05173.html">Single-Sequence-Based Protein Secondary Structure Prediction using One-Hot and Chemical Encodings of Amino Acids</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Hoa Trinh et al.</td>
 <td><a href="http://arxiv.org/abs/2407.05173">2407.05173</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.20018.html">Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case</a></div></td>
-<td>Artem Glova et al.</td>
-<td><a href="http://arxiv.org/abs/2406.20018">2406.20018</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16853.html">GeoMFormer: A General Architecture for Geometric Molecular Representation Learning</a></div></td>
-<td>Tianlang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16853">2406.16853</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09841.html">Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Yizhen Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09841">2406.09841</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17797.html">MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Binding Analysis</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Shikun Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17797">2406.17797</a></td>
 </tr>
 </tbody></table>

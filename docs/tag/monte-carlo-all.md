@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">556 papers</span>
+  <span class="paper-count">547 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3296,59 +3296,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01044.html">Direct free energy calculation from ab initio path integral Monte Carlo simulations of warm dense matter</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
 <td>Tobias Dornheim et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01044">2407.01044</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00707.html">Deep learning quantum Monte Carlo for solids</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Yubing Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00707">2407.00707</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19821.html">Interface-Induced Ferromagnetism in lateral NiBr2 and NiCl2 Heterostructure</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Ilkay Ozdemir et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19821">2406.19821</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19068.html">Enhancing interfacial thermal transport by nanostructures: Monte Carlo simulations with ab initio phonon properties</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Wenzhu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19068">2406.19068</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19548.html">Effects of ballistic transport on the thermal resistance and temperature profile in nanowires</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>R. Meyer et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19548">2406.19548</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03362.html">Phase space path integral representation of the dynamic structure factor. Monte Carlo simulation of strongly correlated soft-sphere fermions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>V. S. Filinov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03362">2407.03362</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14838.html">Bayesian neural networks for predicting uncertainty in full-field material response</a></div></td>
-<td>George D. Pasparakis et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14838">2406.14838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08123.html">Defect-related Anomalous Mobility of Small polarons in Oxides: the Case of Congruent Lithium Niobate</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Anton Pfannstiel et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08123">2406.08123</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05640.html">Spectroscopic factors of resonance states with the Gamow shell model</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>M. R. Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05640">2406.05640</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03959.html">Path Integral Monte Carlo Simulation of Superfluid Ring Lattices</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Orjan Ameye</td>
-<td><a href="http://arxiv.org/abs/2406.03959">2406.03959</a></td>
 </tr>
 </tbody></table>

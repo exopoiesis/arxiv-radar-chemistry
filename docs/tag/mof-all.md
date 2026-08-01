@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mof — all</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <a href="mof-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -458,29 +458,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08043.html">Spin/Phonon Dynamics in Single Molecular Magnets: I. quantum embedding</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
 <td>Nosheen Younas et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08043">2407.08043</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00470.html">Unusual Pore Volume Dependence of Water Sorption in Monolithic Metal-Organic Framework</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jiawang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00470">2407.00470</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.14482.html">Assessing exchange-correlation functionals for heterogeneous catalysis of nitrogen species</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Honghui Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2403.14482">2403.14482</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12892.html">Synthesis and Characterization of NiCoMn MOFs for Wastewater Treatment</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Muhammad Farhan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12892">2406.12892</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01004.html">Pt nanoparticles dispersed in a metal-organic framework as peroxidase mimics for colorimetric detection of GSH</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Yanzheng Shu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01004">2406.01004</a></td>
 </tr>
 </tbody></table>

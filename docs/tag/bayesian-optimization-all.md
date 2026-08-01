@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">221 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,35 +1310,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01145.html">Machine Learning-Assisted 3D Printing of Thermoelectric Materials of Ultrahigh Performances at Room Temperature</a></div><div class="paper-tags"><a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>Kaidong Song et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01145">2407.01145</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00729.html">Discovering one molecule out of a million: inverse design of molecular hole transporting semiconductors tailored for perovskite solar cells</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a></div></td>
-<td>Jianchang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00729">2407.00729</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14423.html">Double-tough and ultra-strong ceramics: leveraging multiscale toughening mechanisms through Bayesian Optimization</a></div></td>
-<td>Francesco Aiello et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14423">2406.14423</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14627.html">Bayesian Optimization Priors for Efficient Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Farshud Sorourifar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14627">2406.14627</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16651.html">Variational Quantum Framework for Partial Differential Equation Constrained Optimization</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Amit Surana et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16651">2405.16651</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06459.html">How Useful is Intermittent, Asynchronous Expert Feedback for Bayesian Optimization?</a></div></td>
-<td>Agustinus Kristiadi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06459">2406.06459</a></td>
 </tr>
 </tbody></table>

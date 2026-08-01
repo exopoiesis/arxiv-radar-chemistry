@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-materials — all</h1>
-  <span class="paper-count">301 papers</span>
+  <span class="paper-count">294 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1778,47 +1778,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06152.html">Uni-ELF: A Multi-Level Representation Learning Framework for Electrolyte Formulation Design</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Boshen Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2407.06152">2407.06152</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17510.html">Robust and effective ab initio molecular dynamics simulations on the GPU cloud infrastructure using the Schrödinger Materials Science Suite</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Alexandr Fonari et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17510">2406.17510</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.01077.html">Exploring Li-ion Transport Properties of Li$_3$TiCl$_6$: A Machine Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Selva Chandrasekaran Selvaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2403.01077">2403.01077</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12936.html">Thermal conductivity of Li$_3$PS$_4$ solid electrolytes with ab initio accuracy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Davide Tisi et al.</td>
-<td><a href="http://arxiv.org/abs/2401.12936">2401.12936</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10293.html">Non-nucleon metastable excitations in nuclear matter and $e^{-}$ catalysis as a quark-cumulative mechanism for initiating low-energy nuclear chemical processes: phenomenology</a></div></td>
-<td>Serge F. Timashev</td>
-<td><a href="http://arxiv.org/abs/2406.10293">2406.10293</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04939.html">Designing Strain-less Electrode Materials: Computational Analysis of Volume Variations in Li-ion and Na-ion Batteries</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Maxime Maréchal et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04939">2406.04939</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00270.html">Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ganesh K Rajahmundry et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00270">2406.00270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00468.html">Molecular Modelling of Aqueous Batteries</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Alicia van Hees et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00468">2406.00468</a></td>
 </tr>
 </tbody></table>

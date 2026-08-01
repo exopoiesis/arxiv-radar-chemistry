@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">488 papers</span>
+  <span class="paper-count">475 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2864,83 +2864,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01649.html">FAFE: Immune Complex Modeling with Geodesic Distance Loss on Noisy Group Frames</a></div></td>
 <td>Ruidong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01649">2407.01649</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00560.html">DCI: An Accurate Quality Assessment Criteria for Protein Complex Structure Models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-function-all.html">protein-function</a></div></td>
-<td>Wenda Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00560">2407.00560</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00566.html">Frontiers in integrative structural biology: modeling disordered proteins and utilizing in situ data</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Kartik Majila et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00566">2407.00566</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19755.html">Protein Representation Learning with Sequence Information Embedding: Does it Always Lead to a Better Performance?</a></div></td>
-<td>Yang Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19755">2406.19755</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.11305.html">Flipping Out: Role of Arginine in Hydrophobic Interactions and Biological Formulation Design</a></div></td>
-<td>Jonathan W. P. Zajac et al.</td>
-<td><a href="http://arxiv.org/abs/2403.11305">2403.11305</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18330.html">Molecular Diffusion Models with Virtual Receptors</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Matan Halfon et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18330">2406.18330</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16610.html">A synthetic T-cell receptor-like protein behaves as a Janus particle in solution</a></div></td>
-<td>Emily Sakamoto-Rablah et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16610">2406.16610</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14980.html">Prospecting for Pluripotency in Metamaterial Design</a></div></td>
-<td>Ryan van Mastrigt et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14980">2406.14980</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13864.html">Evaluating representation learning on the protein structure universe</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Arian R. Jamasb et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13864">2406.13864</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06693.html">SurfPro: Functional Protein Design Based on Continuous Surface</a></div></td>
-<td>Zhenqiao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06693">2405.06693</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18768.html">RNAFlow: RNA Structure &amp; Sequence Design via Inverse Folding-Based Flow Matching</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Divya Nori et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18768">2405.18768</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05738.html">Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Thomas Le Menestrel et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05738">2406.05738</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03979.html">Benchmarking AlphaFold3&#x27;s protein-protein complex accuracy and machine learning prediction reliability for binding free energy changes upon mutation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>JunJie Wee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03979">2406.03979</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01547.html">Encoding lattice structures in Quantum Computational Basis States</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Kalyan Dasgupta</td>
-<td><a href="http://arxiv.org/abs/2406.01547">2406.01547</a></td>
 </tr>
 </tbody></table>

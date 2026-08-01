@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermal-properties — all</h1>
-  <span class="paper-count">597 papers</span>
+  <span class="paper-count">579 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3488,113 +3488,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01145.html">Machine Learning-Assisted 3D Printing of Thermoelectric Materials of Ultrahigh Performances at Room Temperature</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
 <td>Kaidong Song et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01145">2407.01145</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18707.html">Molecular dynamics simulations of water-ethanol mixtures. I. Composition trends in thermodynamic properties</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>D. Benavides Bautista et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18707">2406.18707</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00690.html">MnRhBi3: A Cleavable Antiferromagnetic Metal</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Eleanor M. Clements et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00690">2407.00690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18366.html">Room temperature detection of the (H2)2 dimer</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>H. Fleurbaey et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18366">2407.18366</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12960.html">Intrinsic Limits of Charge Carrier Mobilities in Layered Halide Perovskites</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Bruno Cucco et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12960">2404.12960</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15855.html">Irida-Graphene Phonon Thermal Transport via Non-equilibrium Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Isaac M. Felix et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15855">2406.15855</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15174.html">Ab initio modeling of superconducting alloys</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Pedro N. Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15174">2406.15174</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16712.html">Ab Initio Molecular Dynamics calculations on NO oxidation over oxygen functionalized Highly Oriented Pyrolytic Graphite</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Gilberto A. Alou Angulo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16712">2406.16712</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16744.html">Lone Pair Induced 1D Character and Weak Cation-anion Interactions: Two Ingredients for Low Thermal Conductivity in Mixed-anion Metal Chalcohalides</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="crystal-structure-all.html">crystal-structure</a></div></td>
-<td>Xingchen Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16744">2406.16744</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12004.html">First-principles study of phase transition in cadmium titanate by molecular dynamics incorporating nuclear quantum effects</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Kansei Kanayama et al.</td>
-<td><a href="http://arxiv.org/abs/2404.12004">2404.12004</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12936.html">Thermal conductivity of Li$_3$PS$_4$ solid electrolytes with ab initio accuracy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Davide Tisi et al.</td>
-<td><a href="http://arxiv.org/abs/2401.12936">2401.12936</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10588.html">Metastable CoCu$_2$O$_3$ for molecular sensing and catalysis</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Matteo D&#x27;Andria et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10588">2406.10588</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08729.html">Structure Phase Change Induced by Nonequilibrium Effects in Molecular Scale Junctions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Hao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08729">2406.08729</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07723.html">Ultra-fast Oxygen Conduction in Sillén Oxychlorides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Jun Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07723">2406.07723</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06291.html">The first-order structural phase transition at low-temperature in GaPt$_{5}$P and its rapid enhancement with pressure</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>A. Sapkota et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06291">2406.06291</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05831.html">Electronic, optical, and transport properties of alkali metal oxides (Cs2O): A DFT study</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Anjali Kumari et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05831">2406.05831</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03767.html">Thermal Conductivity of Double Polymorph Ga2O3 Structures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Azat Abdullaev et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03767">2406.03767</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03016.html">A Multi-Technique Study of C2H4 Adsorption on a Model Single-Atom Rh1 Catalyst</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Chunlei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03016">2406.03016</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01845.html">Interface doping and the effect of strain and oxygen stoichiometry on the transport and electronic structure properties of SrIrO$_3$ heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Wesley Surta et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01845">2406.01845</a></td>
 </tr>
 </tbody></table>

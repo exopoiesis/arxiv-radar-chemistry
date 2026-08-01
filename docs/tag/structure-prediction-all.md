@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>structure-prediction — all</h1>
-  <span class="paper-count">286 papers</span>
+  <span class="paper-count">278 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1682,53 +1682,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07102.html">Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Xinyu Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2404.07102">2404.07102</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00566.html">Frontiers in integrative structural biology: modeling disordered proteins and utilizing in situ data</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Kartik Majila et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00566">2407.00566</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00733.html">CSPBench: a benchmark and critical evaluation of Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Lai Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00733">2407.00733</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.17164.html">Multi-Objective Quality-Diversity for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Hannah Janmohamed et al.</td>
-<td><a href="http://arxiv.org/abs/2403.17164">2403.17164</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14443.html">Thin Film Synthesis, Structural Analysis, and Magnetic Properties of Novel Ternary Transition Metal Nitride MnCoN2</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Sita Dugu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14443">2406.14443</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02138.html">XtalOpt Version 13: Multi-Objective Evolutionary Search for Novel Functional Materials</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a></div></td>
-<td>Samad Hajinazar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02138">2405.02138</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18768.html">RNAFlow: RNA Structure &amp; Sequence Design via Inverse Folding-Based Flow Matching</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Divya Nori et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18768">2405.18768</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03979.html">Benchmarking AlphaFold3&#x27;s protein-protein complex accuracy and machine learning prediction reliability for binding free energy changes upon mutation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>JunJie Wee et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03979">2406.03979</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01547.html">Encoding lattice structures in Quantum Computational Basis States</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Kalyan Dasgupta</td>
-<td><a href="http://arxiv.org/abs/2406.01547">2406.01547</a></td>
 </tr>
 </tbody></table>

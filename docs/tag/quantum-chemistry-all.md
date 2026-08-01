@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">681 papers</span>
+  <span class="paper-count">666 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4010,95 +4010,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01000.html">Ground and excited state energy calculations of the H2 molecule using a variational quantum eigensolver algorithm on an NMR quantum simulator</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
 <td>Dileep Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01000">2407.01000</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11574.html">Non-unitary Coupled Cluster Enabled by Mid-circuit Measurements on Quantum Computers</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Alexandre Fleury et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11574">2406.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18479.html">Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory for molecules and solids</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Sergei Iskakov et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18479">2406.18479</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12229.html">Multi-task learning for molecular electronic structure approaching coupled-cluster accuracy</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Hao Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12229">2405.12229</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16650.html">OQuPy: A Python package to efficiently simulate non-Markovian open quantum systems with process tensors</a></div></td>
-<td>Gerald E. Fux et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16650">2406.16650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14170.html">Compact fermionic quantum state preparation with a natural-orbitalizing variational quantum eigensolving scheme</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Pauline Besserve et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14170">2406.14170</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14607.html">Quantum Extreme Learning of molecular potential energy surfaces and force fields</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Gabriele Lo Monaco et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14607">2406.14607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12371.html">Hybrid Quantum-Classical Algorithms</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Roberto Campos</td>
-<td><a href="http://arxiv.org/abs/2406.12371">2406.12371</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08107.html">Analytical evaluation of ground state gradients in quantum electrodynamics coupled cluster theory</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Marcus Takvam Lexander et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08107">2406.08107</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08554.html">Quantum Hardware-Enabled Molecular Dynamics via Transfer Learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Abid Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08554">2406.08554</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07729.html">Role of Kinetic Exchange and Coulomb Interaction in Bonding of Hydrogen Molecular Systems and Excited States</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Maciej Hendzel et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07729">2406.07729</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04713.html">FlowMM: Generating Materials with Riemannian Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Benjamin Kurt Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04713">2406.04713</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05228.html">Bound-state relativistic quantum electrodynamics: a perspective for precision physics with atoms and molecules</a></div></td>
-<td>Ádám Nonn et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05228">2406.05228</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04475.html">Estimating molecular thermal averages with the quantum equation of motion and informationally complete measurements</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
-<td>Daniele Morrone et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04475">2406.04475</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02341.html">QCDGE database, Quantum Chemistry Database with Ground- and Excited-state Properties of 450 Kilo Molecules</a></div></td>
-<td>Yifei Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02341">2406.02341</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01704.html">Distributed Quantum Computing in Silicon</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Photonic Inc et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01704">2406.01704</a></td>
 </tr>
 </tbody></table>

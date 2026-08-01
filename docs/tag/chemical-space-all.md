@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-space — all</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1220,35 +1220,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17485.html">Application of the Digital Annealer Unit in Optimizing Chemical Reaction Conditions for Enhanced Production Yields</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
 <td>Shih-Cheng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2407.17485">2407.17485</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00175.html">Permutation invariant multi-output Gaussian Processes for drug combination prediction in cancer</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Leiv Rønneberg et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00175">2407.00175</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09346.html">Scoreformer: A Surrogate Model For Large-Scale Prediction of Docking Scores</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Álvaro Ciudad et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09346">2406.09346</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13163.html">LLMatDesign: Autonomous Materials Discovery with Large Language Models</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Shuyi Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13163">2406.13163</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11967.html">Elf autoencoder: unsupervised exploration of flat-band materials using electronic band structure fingerprints</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a></div></td>
-<td>Henry Kelbrick Pentz et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11967">2406.11967</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12910.html">Human-level molecular optimization driven by mol-gene evolution</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Jiebin Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12910">2406.12910</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">553 papers</span>
+  <span class="paper-count">552 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3326,11 +3326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05411.html">MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Md Atik Ahamed et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05411">2508.05411</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03444.html">An Auditable Agent Platform For Automated Molecular Optimisation</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Atabey Ünlü et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03444">2508.03444</a></td>
 </tr>
 </tbody></table>

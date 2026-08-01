@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1549 papers</span>
+  <span class="paper-count">1541 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9260,53 +9260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09169.html">Thermal gradient effect on hydrogen transport in tungsten</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Sanad Alturk et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09169">2508.09169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19065.html">Rescattering effects on spin-interference for $ρ^{0}$ photoproduction in heavy-ion collisions</a></div></td>
-<td>Yusong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19065">2502.19065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14569.html">Potential Score Matching: Debiasing Molecular Structure Sampling with Potential Energy Guidance</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Liya Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14569">2503.14569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04137.html">Atomic scale structure and dynamical properties of (TeO$_2$)$_{1-x}$-(Na$_2$O)$_{x}$ glasses through first-principles modeling and XRD measurements</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Firas Shuaib et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04137">2506.04137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03051.html">Pseudo-grand canonical molecular dynamics via volumetrically controlled osmotic pressure</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Blake I. Armstrong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03051">2508.03051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03297.html">Machine learning potential for predicting thermal conductivity of θ-phase and amorphous Tantalum Nitride</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zhicheng Zong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03297">2508.03297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03456.html">Decoding Polyphenol-Protein Interactions with Deep Learning: From Molecular Mechanisms to Food Applications</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Qiang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03456">2508.03456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03591.html">Molecular dynamics of ice-active solutions at ice-water interfaces</a></div></td>
-<td>Benjamin M. Harless et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03591">2508.03591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03619.html">FlowBack-Adjoint: Physics-Aware and Energy-Guided Conditional Flow-Matching for All-Atom Protein Backmapping</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Alex Berlaga et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03619">2508.03619</a></td>
 </tr>
 </tbody></table>

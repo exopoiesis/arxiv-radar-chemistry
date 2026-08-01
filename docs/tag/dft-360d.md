@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2050 papers</span>
+  <span class="paper-count">2046 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12290,29 +12290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04898.html">Intrinsic Layer-Dependent Surface Energy and Exfoliation Energy of van der Waals Materials</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Lin-Lin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04898">2508.04898</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03114.html">Response of asymmetric nuclear matter studied with a finite number of particles</a></div></td>
-<td>M. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03114">2508.03114</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03510.html">Revealing Polymorph-Specific Transduction in WO$_3$ during Acetone Sensing</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Matteo D&#x27;Andria et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03510">2508.03510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03544.html">Chirality transfer in lyotropic twist-bend nematics</a></div></td>
-<td>Anna Ashkinazi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03544">2508.03544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03786.html">A comparative study of the high-pressure structural stability of zirconolite materials for nuclear waste immobilisation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Daniel Errandonea et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03786">2508.03786</a></td>
 </tr>
 </tbody></table>

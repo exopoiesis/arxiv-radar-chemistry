@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1551 papers</span>
+  <span class="paper-count">1548 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9302,23 +9302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04879.html">Ab Initio Study of $^7$Li with Coupled $^6$Li + $n$ and $^6$He + $p$ Mass Partitions</a></div></td>
 <td>Jakub Herko et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04879">2508.04879</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04137.html">Atomic scale structure and dynamical properties of (TeO$_2$)$_{1-x}$-(Na$_2$O)$_{x}$ glasses through first-principles modeling and XRD measurements</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Firas Shuaib et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04137">2506.04137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03318.html">Is the Electron Hydrated Through Covalent Sharing?</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Y. Sajeev</td>
-<td><a href="http://arxiv.org/abs/2508.03318">2508.03318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03319.html">All Photonic Isolator using Atomically Thin (2D) Bismuth Telluride (Bi2Te3)</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Saswata Goswami et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03319">2508.03319</a></td>
 </tr>
 </tbody></table>

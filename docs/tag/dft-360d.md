@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2046 papers</span>
+  <span class="paper-count">2041 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12260,35 +12260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05528.html">The use of open boundaries in stochastic hydrodynamic models of nucleation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>James F. Lutsko</td>
 <td><a href="http://arxiv.org/abs/2508.05528">2508.05528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19932.html">Enhancement of the superconducting transition temperature due to multiband effect in the topological nodal-line semimetal Pb$_{1-x}$Sn$_{x}$TaSe$_{2}$</a></div></td>
-<td>K. Kumarasinghe et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19932">2411.19932</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04098.html">Hybrid Quantum--Classical Machine Learning Potential with Variational Quantum Circuits</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Soohaeng Yoo Willow et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04098">2508.04098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04506.html">$β$-Irida-Graphene: A New 2D Carbon Allotrope for Sodium-Ion Battery Anodes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>José A. S. Laranjeira et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04506">2508.04506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04591.html">Growth of few-layer molecular crystals of PTCDI on hexagonal boron nitride by microspacing air-gap sublimation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nils LeCoutre et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04591">2508.04591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04898.html">Intrinsic Layer-Dependent Surface Energy and Exfoliation Energy of van der Waals Materials</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Lin-Lin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04898">2508.04898</a></td>
 </tr>
 </tbody></table>

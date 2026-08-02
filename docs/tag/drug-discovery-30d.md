@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,29 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03787.html">Folding, Reasoning, and Scaling with Open-source Drug Discovery Engine</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Aureka AI OpenDDE project</td>
 <td><a href="http://arxiv.org/abs/2607.03787">2607.03787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01982.html">MolSight: A Graph-Aware Vision-Language Model for Unified Chemical Image Understanding</a></div><div class="paper-tags"><a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
-<td>Wenda Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01982">2607.01982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02212.html">An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
-<td>Sampreeti Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02212">2607.02212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02749.html">Graph-VQE: A CUDA-Q Multi-QPU Simulation Framework for Hamiltonian-Aware Protein-Folding VQE</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Yujun Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02749">2607.02749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09737.html">Q-Score: A Quantum-Native Scoring Function for Molecular Docking</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Kangyu Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09737">2607.09737</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05636.html">Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Alireza Siyavashi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05636">2607.05636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01682.html">Many-body benchmarking of DFT local-registry energetics in bilayer InSe</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Jeonghwan Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01682">2607.01682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02207.html">The Binary Crisis Clock: Controlled by Sparse Ternary Interventions</a></div></td>
-<td>Małgorzata Nowak-Kȩpczyk</td>
-<td><a href="http://arxiv.org/abs/2607.02207">2607.02207</a></td>
 </tr>
 </tbody></table>

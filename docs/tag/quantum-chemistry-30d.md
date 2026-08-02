@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03820.html">Matter-wave Induced Transparenc</a></div></td>
 <td>Tongkang wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03820">2607.03820</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01560.html">Symmetry conservation with Trotterization and Quantum Phase Estimation</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Edith Leal-Sánchez et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01560">2607.01560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02242.html">Computable measures of fermionic non-Gaussianity from the covariance matrix</a></div></td>
-<td>Poetri Sonya Tarabunga et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02242">2607.02242</a></td>
 </tr>
 </tbody></table>

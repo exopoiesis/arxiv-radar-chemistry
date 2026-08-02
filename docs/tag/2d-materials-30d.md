@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03363.html">Pressure-Driven Structural Transitions without a Displacive Charge-Density Wave in La$_2$SmNi$_2$O$_7$</a></div></td>
 <td>J. Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03363">2607.03363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01682.html">Many-body benchmarking of DFT local-registry energetics in bilayer InSe</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Jeonghwan Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01682">2607.01682</a></td>
 </tr>
 </tbody></table>

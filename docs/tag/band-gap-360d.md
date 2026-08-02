@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">434 papers</span>
+  <span class="paper-count">433 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2612,11 +2612,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05823.html">Emerging ultra-wide band gap semiconductors for future high-frequency electronics</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Emily M. Garrity et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05823">2508.05823</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04812.html">Engineering Phonons in Compositionally Complex Carbide Ceramics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Linu Malakkal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04812">2508.04812</a></td>
 </tr>
 </tbody></table>

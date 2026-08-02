@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">382 papers</span>
+  <span class="paper-count">379 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2288,23 +2288,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02685.html">A Unified microscopic picture of cation and anion migration in MAPbI$_3$</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Viren Tyagi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.02685">2605.02685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02065.html">Multiscale computational approaches to magnetic behaviour in Cobalt Ferrite (CoFe$_2$O$_4$) nanostructures</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Soham Chandra et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02065">2605.02065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02082.html">Ab initio evidence for spin-polarized and soft-mode instabilities in D-type carbon schwarzite C136</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Eugene Yashin</td>
-<td><a href="http://arxiv.org/abs/2605.02082">2605.02082</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04102.html">Meta-LegNet: A Transferable and Interpretable Framework for Surface Adsorption Prediction via Self-Defined Adsorption-Environment Learning</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Yifan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04102">2605.04102</a></td>
 </tr>
 </tbody></table>

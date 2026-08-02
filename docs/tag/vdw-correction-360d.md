@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -944,17 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05549.html">Ta2Pd3Te8: A potential candidate of 1D van der Waals stacked thermoelectric materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Shi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05549">2508.05549</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04544.html">Laser Driven Bulk-to-Layered Phase Transition</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Shuang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04544">2508.04544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04898.html">Intrinsic Layer-Dependent Surface Energy and Exfoliation Energy of van der Waals Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Lin-Lin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04898">2508.04898</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1548 papers</span>
+  <span class="paper-count">1543 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9272,35 +9272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05549.html">Ta2Pd3Te8: A potential candidate of 1D van der Waals stacked thermoelectric materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Shi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05549">2508.05549</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19028.html">Prediction of high-Tc superconductivity in ternary actinium beryllium hydrides at low pressure</a></div></td>
-<td>Kun Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19028">2411.19028</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04506.html">$β$-Irida-Graphene: A New 2D Carbon Allotrope for Sodium-Ion Battery Anodes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>José A. S. Laranjeira et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04506">2508.04506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04544.html">Laser Driven Bulk-to-Layered Phase Transition</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Shuang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04544">2508.04544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04812.html">Engineering Phonons in Compositionally Complex Carbide Ceramics</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Linu Malakkal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04812">2508.04812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04879.html">Ab Initio Study of $^7$Li with Coupled $^6$Li + $n$ and $^6$He + $p$ Mass Partitions</a></div></td>
-<td>Jakub Herko et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04879">2508.04879</a></td>
 </tr>
 </tbody></table>

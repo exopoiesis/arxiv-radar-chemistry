@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1541 papers</span>
+  <span class="paper-count">1533 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9212,53 +9212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05723.html">The Role of Counterions in the Assembly of Charged Virus-Like Shells</a></div></td>
 <td>Ya-Wen Hsiao et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05723">2508.05723</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18412.html">Toda lattice formed in nonequilibrium steady states of SWCNT</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Heeyuen Koh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18412">2507.18412</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03977.html">Constructing Generalized Sample Transition Probabilities with Biased Simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
-<td>Yanbin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03977">2508.03977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04098.html">Hybrid Quantum--Classical Machine Learning Potential with Variational Quantum Circuits</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Soohaeng Yoo Willow et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04098">2508.04098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04246.html">Thermoresponsive copolymer microgels synthesized via single-step precipitation polymerization: random or block structure?</a></div></td>
-<td>Letizia Tavagnacco et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04246">2508.04246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04490.html">Structural and helix reversal defects of carbon nanosprings</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Alexander V. Savin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04490">2508.04490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04506.html">$β$-Irida-Graphene: A New 2D Carbon Allotrope for Sodium-Ion Battery Anodes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>José A. S. Laranjeira et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04506">2508.04506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04591.html">Growth of few-layer molecular crystals of PTCDI on hexagonal boron nitride by microspacing air-gap sublimation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Nils LeCoutre et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04591">2508.04591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09169.html">Thermal gradient effect on hydrogen transport in tungsten</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sanad Alturk et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09169">2508.09169</a></td>
 </tr>
 </tbody></table>

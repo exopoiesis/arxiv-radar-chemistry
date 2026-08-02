@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">591 papers</span>
+  <span class="paper-count">590 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3554,11 +3554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05762.html">Evaluating Universal Machine Learning Force Fields Against Experimental Measurements</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Sajid Mannan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05762">2508.05762</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04098.html">Hybrid Quantum--Classical Machine Learning Potential with Variational Quantum Circuits</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Soohaeng Yoo Willow et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04098">2508.04098</a></td>
 </tr>
 </tbody></table>

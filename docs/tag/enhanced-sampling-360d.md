@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>enhanced-sampling — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <a href="enhanced-sampling-90d.html">90d</a> <strong>360d</strong> <a href="enhanced-sampling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13034.html">How reactive is water at the nanoscale and how to control it?</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xavier R. Advincula et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13034">2508.13034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03977.html">Constructing Generalized Sample Transition Probabilities with Biased Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yanbin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03977">2508.03977</a></td>
 </tr>
 </tbody></table>

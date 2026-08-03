@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">361 papers</span>
+  <span class="paper-count">359 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2168,17 +2168,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02484.html">El Agente: An Autonomous Agent for Quantum Chemistry</a></div></td>
 <td>Yunheng Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2505.02484">2505.02484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05608.html">Ultra-Large-Scale Compilation and Manipulation of Quantum Circuits with Pandora</a></div></td>
-<td>Ioana Moflic et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05608">2508.05608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05754.html">Benchmarking quantum computers with any quantum algorithm</a></div></td>
-<td>Stefan K. Seritan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05754">2508.05754</a></td>
 </tr>
 </tbody></table>

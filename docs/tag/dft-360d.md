@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2041 papers</span>
+  <span class="paper-count">2036 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12230,35 +12230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06464.html">Observation of momentum dependent charge density wave gap in EuTe4</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Iftakhar Bin Elius et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06464">2508.06464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10409.html">Band Structure and Pairing Nature of La$_3$Ni$_2$O$_7$ Thin Film at Ambient Pressure</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Zhi-Yan Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10409">2501.10409</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08192.html">Fermi Surface Reconstruction and Anisotropic Linear Magnetoresistance in the Charge Density Wave Topological Semimetal TaTe4</a></div></td>
-<td>D. Silvera-Vega et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08192">2507.08192</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04628.html">Simulations of dielectric permittivity of water by Machine Learned Potentials with long-range Coulombic interactions</a></div></td>
-<td>Kehan Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04628">2508.04628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05247.html">Many-body perturbation theory vs. density functional theory: A systematic benchmark for band gaps of solids</a></div></td>
-<td>Max Großmann et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05247">2508.05247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05528.html">The use of open boundaries in stochastic hydrodynamic models of nucleation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>James F. Lutsko</td>
-<td><a href="http://arxiv.org/abs/2508.05528">2508.05528</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">552 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3314,17 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06364.html">ActivityDiff: A diffusion model with Positive and Negative Activity Guidance for De Novo Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Renyi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06364">2508.06364</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21404.html">Data Leakage and Redundancy in the LIT-PCBA Benchmark</a></div></td>
-<td>Amber Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21404">2507.21404</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05411.html">MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Md Atik Ahamed et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05411">2508.05411</a></td>
 </tr>
 </tbody></table>

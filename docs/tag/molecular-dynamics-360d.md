@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1533 papers</span>
+  <span class="paper-count">1530 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9194,23 +9194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16591.html">Sequence-Defined Phase Behavior of Poly(N-Isopropylacrylamide-co-Acrylamide) in Water</a></div></td>
 <td>Sandeep Parma et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16591">2508.16591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05013.html">Alpha-, Beta-, and Gamma-TODD-G: Novel 2D Planar Carbon Allotropes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Kleuton A. L. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05013">2508.05013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05549.html">Ta2Pd3Te8: A potential candidate of 1D van der Waals stacked thermoelectric materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Shi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05549">2508.05549</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05723.html">The Role of Counterions in the Assembly of Charged Virus-Like Shells</a></div></td>
-<td>Ya-Wen Hsiao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05723">2508.05723</a></td>
 </tr>
 </tbody></table>

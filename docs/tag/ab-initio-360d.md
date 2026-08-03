@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1543 papers</span>
+  <span class="paper-count">1539 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9248,29 +9248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06723.html">Design of high-mobility p-type GaN via the piezomobility tensor</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Jie-Cheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06723">2508.06723</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05013.html">Alpha-, Beta-, and Gamma-TODD-G: Novel 2D Planar Carbon Allotropes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kleuton A. L. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05013">2508.05013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05243.html">Ab initio description of hypernuclei</a></div></td>
-<td>Johann Haidenbauer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05243">2508.05243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05456.html">Weak interaction rates of $sd$-shell Urca pairs in stellar environment using a shell-model approach</a></div></td>
-<td>Shweta Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05456">2508.05456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05549.html">Ta2Pd3Te8: A potential candidate of 1D van der Waals stacked thermoelectric materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Shi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05549">2508.05549</a></td>
 </tr>
 </tbody></table>

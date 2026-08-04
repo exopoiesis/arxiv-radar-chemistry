@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01825.html">PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Guangming Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01825">2608.01825</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20194.html">OLEDLM: A Unified Language Model for OLED Molecular Design</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Fukang Wen et al.</td>
@@ -194,11 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07039.html">PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents</a></div></td>
 <td>Minghao Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07039">2605.07039</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03799.html">Natural Language Processing: A Comprehensive Practical Guide from Tokenisation to RLHF</a></div></td>
-<td>Mullosharaf K. Arabov</td>
-<td><a href="http://arxiv.org/abs/2605.03799">2605.03799</a></td>
 </tr>
 </tbody></table>

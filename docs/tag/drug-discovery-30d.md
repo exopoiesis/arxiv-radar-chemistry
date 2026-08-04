@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01007.html">Fused Bayesian Flow Networks for Dual-Target Molecular Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Jingyuan Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01007">2608.01007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00393.html">MolecularCanvas: LLM-assisted Small-Molecule Drug Discovery via Structure-Guided Constraints</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Haoyu Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00393">2608.00393</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24314.html">MEGA-CL: A Molecular Foundation Model for Generalizable ADMET Prediction through Graph External Attention and Contrastive Learning</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
@@ -182,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04774.html">MARLIN: De Novo Molecular Structure Elucidation from Tandem Mass Spectra without a Ground-Truth Formula</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
 <td>Xujun Che et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04774">2607.04774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03787.html">Folding, Reasoning, and Scaling with Open-source Drug Discovery Engine</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Aureka AI OpenDDE project</td>
-<td><a href="http://arxiv.org/abs/2607.03787">2607.03787</a></td>
 </tr>
 </tbody></table>

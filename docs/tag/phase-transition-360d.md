@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">220 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1328,11 +1328,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07687.html">Proximate spin-liquid behavior in the double trillium lattice antiferromagnet K$_2$Co$_2$(SO$_4$)$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>A. Magar et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07687">2508.07687</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06399.html">An underdog story: Re-emergence of a polar instability at high pressure in KNbO3</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Mohamad Baker Shoker et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06399">2508.06399</a></td>
 </tr>
 </tbody></table>

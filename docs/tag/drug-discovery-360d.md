@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01007.html">Fused Bayesian Flow Networks for Dual-Target Molecular Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Jingyuan Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01007">2608.01007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00393.html">MolecularCanvas: LLM-assisted Small-Molecule Drug Discovery via Structure-Guided Constraints</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Haoyu Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00393">2608.00393</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24314.html">MEGA-CL: A Molecular Foundation Model for Generalizable ADMET Prediction through Graph External Attention and Contrastive Learning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Tinghui Jin et al.</td>
@@ -3302,17 +3314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13291.html">Scikit-fingerprints: easy and efficient computation of molecular fingerprints in Python</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Jakub Adamczyk et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13291">2407.13291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05006.html">The Docking Game: Loop Self-Play for Fast, Dynamic, and Accurate Prediction of Flexible Protein-Ligand Binding</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Youzhi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05006">2508.05006</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06364.html">ActivityDiff: A diffusion model with Positive and Negative Activity Guidance for De Novo Drug Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Renyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06364">2508.06364</a></td>
 </tr>
 </tbody></table>

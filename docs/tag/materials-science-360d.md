@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">394 papers</span>
+  <span class="paper-count">388 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2342,41 +2342,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07035.html">VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Jiaxuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07035">2508.07035</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06836.html">CAST: Cross Attention based multimodal fusion of Structure and Text for materials property prediction</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Jaewan Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06836">2502.06836</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06436.html">Leveraging transfer learning for accurate estimation of ionic migration barriers in solids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Reshma Devi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06436">2508.06436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06462.html">Characterization and automated optimization of laser-driven proton beams from converging liquid sheet jet targets</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>G. D. Glenn et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06462">2508.06462</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06591.html">Generative Artificial Intelligence Extracts Structure-Function Relationships from Plants for New Materials</a></div></td>
-<td>Rachel K. Luu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06591">2508.06591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06642.html">Benchmarking Self-Driving Labs</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Adedire D. Adesiji et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06642">2508.06642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06691.html">Role of Large Language Models and Retrieval-Augmented Generation for Accelerating Crystalline Material Discovery: A Systematic Review</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Agada Joseph Oche et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06691">2508.06691</a></td>
 </tr>
 </tbody></table>

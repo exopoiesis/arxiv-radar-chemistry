@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">349 papers</span>
+  <span class="paper-count">348 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2102,11 +2102,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07475.html">Secondary finite-size effects and multi-barrier free energy landscapes in molecular simulations of hindered ion transport</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Omar Khalifa et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07475">2508.07475</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06419.html">Dynamics of Protonated Oxalate from Machine-Learned Simulations and Experiment: Infrared Signatures, Proton Transfer Dynamics and Tunneling Splittings</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Valerii Andreichev et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06419">2508.06419</a></td>
 </tr>
 </tbody></table>

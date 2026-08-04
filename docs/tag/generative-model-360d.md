@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">475 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01974.html">HaptoFlow: High-Fidelity Real-Time Vibrotactile Generation via Flow Matching for Virtual Reality</a></div></td>
+<td>Michikuni Eguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01974">2608.01974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01007.html">Fused Bayesian Flow Networks for Dual-Target Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Jingyuan Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01007">2608.01007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00697.html">Evolutionary Curriculum Learning Improves Biological Sequence Modeling</a></div></td>
+<td>Richard Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00697">2608.00697</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23518.html">Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
@@ -2846,11 +2864,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07183.html">Explainability-in-Action: Enabling Expressive Manipulation and Tacit Understanding by Bending Diffusion Models in ComfyUI</a></div></td>
 <td>Ahmed M. Abuzuraiq et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07183">2508.07183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06715.html">Restage4D: Reanimating Deformable 3D Reconstruction from a Single Video</a></div></td>
-<td>Jixuan He et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06715">2508.06715</a></td>
 </tr>
 </tbody></table>

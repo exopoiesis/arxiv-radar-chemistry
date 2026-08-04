@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01007.html">Fused Bayesian Flow Networks for Dual-Target Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Jingyuan Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01007">2608.01007</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19237.html">DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Yiming Qin et al.</td>
@@ -1040,11 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04770.html">Bidirectional Hierarchical Protein Multi-Modal Representation Learning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Xuefeng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2504.04770">2504.04770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05006.html">The Docking Game: Loop Self-Play for Fast, Dynamic, and Accurate Prediction of Flexible Protein-Ligand Binding</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Youzhi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05006">2508.05006</a></td>
 </tr>
 </tbody></table>

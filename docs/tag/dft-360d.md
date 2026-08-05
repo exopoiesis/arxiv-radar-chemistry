@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2032 papers</span>
+  <span class="paper-count">2029 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12188,23 +12188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07482.html">ΔSCF Excitation Energies Up a Ladder of Ground-State Density Functionals</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Ethan Pollack et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07482">2508.07482</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00691.html">Subspace-projected multireference covariant density functional theory</a></div></td>
-<td>X. Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00691">2408.00691</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06992.html">Mechanism of Anisotropic Crystallization and Phase Transitions under Van der Waals Squeezing</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Yuxiang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06992">2508.06992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07035.html">VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jiaxuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07035">2508.07035</a></td>
 </tr>
 </tbody></table>

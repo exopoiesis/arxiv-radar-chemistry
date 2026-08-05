@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">279 papers</span>
+  <span class="paper-count">274 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1658,35 +1658,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06926.html">Many-body theory predictions of positron binding energies in five-membered heterocycles involving N, O, S and NH substituents</a></div></td>
 <td>S. K. Gregg et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06926">2605.06926</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04483.html">CDFCI: High-Performance Parallel Software for Many-Body Large-Scale Eigenvalue Problems</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Yuejia Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04483">2605.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04942.html">From Defects to Devices: Design Guidelines for High-Performance Diamond-Based Solar Cells and Single-Dopant Diodes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Matúš Kaintz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04942">2605.04942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04969.html">Temperature dependence of the Gibbs energies of formation of point defects in B2 MoTa from ab initio calculations</a></div></td>
-<td>Xiang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04969">2605.04969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05356.html">Ag I model atom and the 3D non-LTE solar silver abundance</a></div></td>
-<td>Sema Caliskan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05356">2605.05356</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zheng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
 </tr>
 </tbody></table>

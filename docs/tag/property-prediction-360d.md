@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1520,11 +1520,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08334.html">HSA-Net: Hierarchical and Structure-Aware Framework for Efficient and Scalable Molecular Language Modeling</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Zihang Shao et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08334">2508.08334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06917.html">CROP: Integrating Topological and Spatial Structures via Cross-View Prefixes for Molecular LLMs</a></div></td>
-<td>Jianting Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06917">2508.06917</a></td>
 </tr>
 </tbody></table>

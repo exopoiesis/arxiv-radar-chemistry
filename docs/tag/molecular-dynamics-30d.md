@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,23 +392,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05559.html">EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Samuel Sahel-Schackis et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05559">2607.05559</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04134.html">Spectral Diffusion for Protein Dynamics</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Hew Phipps et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04134">2607.04134</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04200.html">Tellurium sublattice instability driven amorphization in the chalcogenide AgSbTe2 under pressure</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Baihong Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04200">2607.04200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04288.html">Mass weighting algorithm optimizes Fourier-based physics-informed neural network in adhesive contact mechanics</a></div></td>
-<td>Yunong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04288">2607.04288</a></td>
 </tr>
 </tbody></table>

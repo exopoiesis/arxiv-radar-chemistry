@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,17 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07614.html">Tunable Interfacial Thermal Conductance in Graphene/Germanene van der Waals Heterostructure using an Optimized Interlayer Potential</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Sapta Sindhu Paul Chowdhury et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07614">2508.07614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06992.html">Mechanism of Anisotropic Crystallization and Phase Transitions under Van der Waals Squeezing</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yuxiang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06992">2508.06992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07035.html">VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jiaxuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07035">2508.07035</a></td>
 </tr>
 </tbody></table>

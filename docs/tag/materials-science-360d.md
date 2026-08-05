@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">387 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2336,11 +2336,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22558.html">aLLoyM: A large language model for alloy phase diagram prediction</a></div></td>
 <td>Yuna Oikawa et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22558">2507.22558</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07035.html">VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jiaxuan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07035">2508.07035</a></td>
 </tr>
 </tbody></table>

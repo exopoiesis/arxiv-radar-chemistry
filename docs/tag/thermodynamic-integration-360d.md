@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,11 +788,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08123.html">A Physics-Driven Neural Network with Parameter Embedding for Generating Quantitative MR Maps from Weighted Images</a></div></td>
 <td>Lingjing Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08123">2508.08123</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10594.html">Accurate and thermodynamically consistent hydrogen equation of state for planetary modeling with flow matching</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hao Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10594">2501.10594</a></td>
 </tr>
 </tbody></table>

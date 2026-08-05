@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">441 papers</span>
+  <span class="paper-count">440 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2654,11 +2654,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07759.html">Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild</a></div></td>
 <td>Haoran Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07759">2508.07759</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15981.html">MatCLIP: Light- and Shape-Insensitive Assignment of PBR Material Models</a></div></td>
-<td>Michael Birsak et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15981">2501.15981</a></td>
 </tr>
 </tbody></table>

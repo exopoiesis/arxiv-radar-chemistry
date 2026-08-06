@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">387 papers</span>
+  <span class="paper-count">386 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2330,11 +2330,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08349.html">DiffractGPT: Atomic Structure Determination from X-ray Diffraction Patterns using Generative Pre-trained Transformer</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Kamal Choudhary</td>
 <td><a href="http://arxiv.org/abs/2508.08349">2508.08349</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22558.html">aLLoyM: A large language model for alloy phase diagram prediction</a></div></td>
-<td>Yuna Oikawa et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22558">2507.22558</a></td>
 </tr>
 </tbody></table>

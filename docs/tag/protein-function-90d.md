@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-function — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <strong>90d</strong> <a href="protein-function-360d.html">360d</a> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10985.html">Structural Interpretations of Protein Language Model Representations via Differentiable Graph Partitioning</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Siddhant Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10985">2605.10985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06830.html">ProtSent: Protein Sentence Transformers</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Dan Ofer et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06830">2605.06830</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">397 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2396,17 +2396,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09265.html">Over-Squashing in GNNs and Causal Inference of Rewiring Strategies</a></div></td>
 <td>Danial Saber et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09265">2508.09265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04770.html">Bidirectional Hierarchical Protein Multi-Modal Representation Learning</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Xuefeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.04770">2504.04770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08334.html">HSA-Net: Hierarchical and Structure-Aware Framework for Efficient and Scalable Molecular Language Modeling</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Zihang Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08334">2508.08334</a></td>
 </tr>
 </tbody></table>

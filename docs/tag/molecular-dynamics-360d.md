@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1521 papers</span>
+  <span class="paper-count">1518 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9122,23 +9122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08231.html">Thermoelectric optimization and quantum-to-classical crossover in gate-controlled two-dimensional semiconducting nanojunctions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Yu-Chang Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08231">2507.08231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02135.html">Diffuson-Dominated Thermal Transport Crossover from Ordered to Liquid-like Cu$_3$BiS$_3$:The Negligible Role of Ion Hopping</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jincheng Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02135">2505.02135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02170.html">Comparative molecular dynamics simulations of charged solid-liquid interfaces with different water models</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Mahdi Tavakol et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02170">2508.02170</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07475.html">Secondary finite-size effects and multi-barrier free energy landscapes in molecular simulations of hindered ion transport</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Omar Khalifa et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07475">2508.07475</a></td>
 </tr>
 </tbody></table>

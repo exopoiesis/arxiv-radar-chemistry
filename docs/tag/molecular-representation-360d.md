@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,17 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14072.html">Multi-Objective Bayesian Optimization with Independent Tanimoto Kernel Gaussian Processes for Diverse Pareto Front Exploration</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Anabel Yong</td>
 <td><a href="http://arxiv.org/abs/2508.14072">2508.14072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13291.html">Scikit-fingerprints: easy and efficient computation of molecular fingerprints in Python</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jakub Adamczyk et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13291">2407.13291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08334.html">HSA-Net: Hierarchical and Structure-Aware Framework for Efficient and Scalable Molecular Language Modeling</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Zihang Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08334">2508.08334</a></td>
 </tr>
 </tbody></table>

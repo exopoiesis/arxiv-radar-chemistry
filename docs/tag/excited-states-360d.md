@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1280,17 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17477.html">Mixed Planewave and Localized Orbital Basis for Sparse-Stochastic Hybrid TDDFT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Kyle Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17477">2506.17477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.24268.html">Time-Dependent Density Functional Theory Description of $^{238}$U(n,f), $^{240,242}$Pu(n,f) and $^{237}$Np(n,f) Reactions</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Aurel Bulgac et al.</td>
-<td><a href="http://arxiv.org/abs/2503.24268">2503.24268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07482.html">ΔSCF Excitation Energies Up a Ladder of Ground-State Density Functionals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Ethan Pollack et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07482">2508.07482</a></td>
 </tr>
 </tbody></table>

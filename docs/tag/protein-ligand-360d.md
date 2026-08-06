@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,11 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10117.html">In silico study on the cytotoxicity against Hela cancer cells of xanthones bioactive compounds from Garcinia cowa: QSAR based on Graph Deep Learning, Network Pharmacology, and Molecular Docking</a></div></td>
 <td>Nguyen Manh Son et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10117">2508.10117</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04770.html">Bidirectional Hierarchical Protein Multi-Modal Representation Learning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Xuefeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.04770">2504.04770</a></td>
 </tr>
 </tbody></table>

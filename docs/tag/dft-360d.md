@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2029 papers</span>
+  <span class="paper-count">2023 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12152,41 +12152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08349.html">DiffractGPT: Atomic Structure Determination from X-ray Diffraction Patterns using Generative Pre-trained Transformer</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Kamal Choudhary</td>
 <td><a href="http://arxiv.org/abs/2508.08349">2508.08349</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12254.html">Impact of structural distortions on the correlated electronic structure of orbital-selective Mott insulating Na$_3$Co$_2$SbO$_6$ under strains</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Nam Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12254">2503.12254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.24268.html">Time-Dependent Density Functional Theory Description of $^{238}$U(n,f), $^{240,242}$Pu(n,f) and $^{237}$Np(n,f) Reactions</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Aurel Bulgac et al.</td>
-<td><a href="http://arxiv.org/abs/2503.24268">2503.24268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07204.html">Reproducibility of high-throughput density-functional-theory calculations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Chenxi Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07204">2508.07204</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07377.html">Insulator-bad metal transition in RNiO$_3$ nickelates beyond Hubbard model and density functional theory</a></div></td>
-<td>A. S. Moskvin</td>
-<td><a href="http://arxiv.org/abs/2508.07377">2508.07377</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07455.html">Experimental and Computational Demonstration of a Highly Stable, in-situ Pt Decorated Sputtered ZnO Hydrogen Sensor for sub-ppm Level Detection</a></div></td>
-<td>Puja Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07455">2508.07455</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07482.html">ΔSCF Excitation Energies Up a Ladder of Ground-State Density Functionals</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Ethan Pollack et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07482">2508.07482</a></td>
 </tr>
 </tbody></table>

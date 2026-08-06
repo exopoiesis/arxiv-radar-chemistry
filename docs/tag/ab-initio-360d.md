@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1531 papers</span>
+  <span class="paper-count">1530 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9194,11 +9194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07724.html">Anisotropy at twin interfaces in $RT_{12}$ ($R$=rare earth, $T$=transition metal) magnets</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Christopher E Patrick</td>
 <td><a href="http://arxiv.org/abs/2508.07724">2508.07724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02135.html">Diffuson-Dominated Thermal Transport Crossover from Ordered to Liquid-like Cu$_3$BiS$_3$:The Negligible Role of Ion Hopping</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jincheng Yue et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02135">2505.02135</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,17 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07232.html">DiPhon: Diffusion on Graphons for Scalable Graph Generation</a></div></td>
 <td>Sergio Rozada et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07232">2607.07232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06421.html">Gradient-Based Inverse Design of Free-Energy Landscapes with Diffusion Models</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Eli Zick et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06421">2607.06421</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06555.html">ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation</a></div></td>
-<td>Ruihang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06555">2607.06555</a></td>
 </tr>
 </tbody></table>

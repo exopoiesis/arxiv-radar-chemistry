@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1530 papers</span>
+  <span class="paper-count">1524 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9158,41 +9158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09272.html">Solution-corrected Constant Potential Model for CO2 Electrocatalysis in Ionic Liquids</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Jikai Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09272">2508.09272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09054.html">Electronic Structure of a Nodal Line Semimetal Candidate TbSbTe</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Iftakhar Bin Elius et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09054">2406.09054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08893.html">Acid Base Chemistry of Short Hydrogen Bonds: A Tale of Schrödinger&#x27;s Cat in Glutamine-Derived Crystals</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Muhammad Nawaz Qaisrani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08893">2505.08893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08231.html">Thermoelectric optimization and quantum-to-classical crossover in gate-controlled two-dimensional semiconducting nanojunctions</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yu-Chang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08231">2507.08231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07614.html">Tunable Interfacial Thermal Conductance in Graphene/Germanene van der Waals Heterostructure using an Optimized Interlayer Potential</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Sapta Sindhu Paul Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07614">2508.07614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07687.html">Proximate spin-liquid behavior in the double trillium lattice antiferromagnet K$_2$Co$_2$(SO$_4$)$_3$</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>A. Magar et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07687">2508.07687</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07724.html">Anisotropy at twin interfaces in $RT_{12}$ ($R$=rare earth, $T$=transition metal) magnets</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Christopher E Patrick</td>
-<td><a href="http://arxiv.org/abs/2508.07724">2508.07724</a></td>
 </tr>
 </tbody></table>

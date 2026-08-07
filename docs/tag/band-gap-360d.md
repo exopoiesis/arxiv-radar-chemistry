@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">426 papers</span>
+  <span class="paper-count">424 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2558,17 +2558,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09272.html">Solution-corrected Constant Potential Model for CO2 Electrocatalysis in Ionic Liquids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Jikai Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09272">2508.09272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09054.html">Electronic Structure of a Nodal Line Semimetal Candidate TbSbTe</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Iftakhar Bin Elius et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09054">2406.09054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08231.html">Thermoelectric optimization and quantum-to-classical crossover in gate-controlled two-dimensional semiconducting nanojunctions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yu-Chang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08231">2507.08231</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">353 papers</span>
+  <span class="paper-count">349 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2108,29 +2108,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08580.html">Emergent dynamical Kondo coherence and competing magnetic order in a correlated kagome flat-band metal CsCr6Sb6</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Xiangqi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08580">2508.08580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09054.html">Electronic Structure of a Nodal Line Semimetal Candidate TbSbTe</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Iftakhar Bin Elius et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09054">2406.09054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07687.html">Proximate spin-liquid behavior in the double trillium lattice antiferromagnet K$_2$Co$_2$(SO$_4$)$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>A. Magar et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07687">2508.07687</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07724.html">Anisotropy at twin interfaces in $RT_{12}$ ($R$=rare earth, $T$=transition metal) magnets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Christopher E Patrick</td>
-<td><a href="http://arxiv.org/abs/2508.07724">2508.07724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08015.html">Cu2OSeO3 Turns Trigonal with Structural Transformation and Implications for Skyrmions</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Alla Arakcheeva et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08015">2508.08015</a></td>
 </tr>
 </tbody></table>

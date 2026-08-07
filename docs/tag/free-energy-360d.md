@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">345 papers</span>
+  <span class="paper-count">343 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2072,17 +2072,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08600.html">Rigorous quantum calculations for atom-molecule chemical reactions in electric fields: from single to multiple partial wave regimes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Timur V. Tscherbul et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08600">2508.08600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14968.html">Compound Mutations in the Abl1 Kinase Cause Inhibitor Resistance by Shifting DFG Flip Mechanisms and Relative State Populations</a></div></td>
-<td>Gabriel Monteiro da Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14968">2405.14968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08109.html">Probing the Dark Energy in the Functional Protein Universe</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Ezequiel A. Galpern et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08109">2508.08109</a></td>
 </tr>
 </tbody></table>

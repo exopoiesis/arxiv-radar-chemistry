@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1518 papers</span>
+  <span class="paper-count">1515 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9104,23 +9104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20104.html">Sub-Nanometer Interfacial Hydrodynamics: The Interplay of Interfacial Viscosity and Surface Friction</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Shane R. Carlson et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20104">2508.20104</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14197.html">Anomalous Temperature Induced Transition and Convergence of Thermal Conductivity in Germanene Monolayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sapta Sindhu Paul Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2411.14197">2411.14197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08893.html">Acid Base Chemistry of Short Hydrogen Bonds: A Tale of Schrödinger&#x27;s Cat in Glutamine-Derived Crystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Muhammad Nawaz Qaisrani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08893">2505.08893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08231.html">Thermoelectric optimization and quantum-to-classical crossover in gate-controlled two-dimensional semiconducting nanojunctions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Yu-Chang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08231">2507.08231</a></td>
 </tr>
 </tbody></table>

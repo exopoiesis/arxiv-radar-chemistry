@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">262 papers</span>
+  <span class="paper-count">260 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1574,17 +1574,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09771.html">Discovery of a low-density filled-ice phase in nitrogen hydrate at high pressure</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Selene Berni et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09771">2508.09771</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08015.html">Cu2OSeO3 Turns Trigonal with Structural Transformation and Implications for Skyrmions</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Alla Arakcheeva et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08015">2508.08015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08349.html">DiffractGPT: Atomic Structure Determination from X-ray Diffraction Patterns using Generative Pre-trained Transformer</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Kamal Choudhary</td>
-<td><a href="http://arxiv.org/abs/2508.08349">2508.08349</a></td>
 </tr>
 </tbody></table>

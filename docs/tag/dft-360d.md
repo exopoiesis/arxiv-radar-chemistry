@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2023 papers</span>
+  <span class="paper-count">2015 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12104,53 +12104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09317.html">Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Karthik R et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09317">2508.09317</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09054.html">Electronic Structure of a Nodal Line Semimetal Candidate TbSbTe</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Iftakhar Bin Elius et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09054">2406.09054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10701.html">Time-dependent Gaussian basis sets for many-body systems using Rothe&#x27;s method: A mean-field study</a></div></td>
-<td>Simon Elias Schrader et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10701">2506.10701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17477.html">Mixed Planewave and Localized Orbital Basis for Sparse-Stochastic Hybrid TDDFT</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Kyle Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17477">2506.17477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08231.html">Thermoelectric optimization and quantum-to-classical crossover in gate-controlled two-dimensional semiconducting nanojunctions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yu-Chang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08231">2507.08231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07614.html">Tunable Interfacial Thermal Conductance in Graphene/Germanene van der Waals Heterostructure using an Optimized Interlayer Potential</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Sapta Sindhu Paul Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07614">2508.07614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07724.html">Anisotropy at twin interfaces in $RT_{12}$ ($R$=rare earth, $T$=transition metal) magnets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Christopher E Patrick</td>
-<td><a href="http://arxiv.org/abs/2508.07724">2508.07724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08015.html">Cu2OSeO3 Turns Trigonal with Structural Transformation and Implications for Skyrmions</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Alla Arakcheeva et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08015">2508.08015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08349.html">DiffractGPT: Atomic Structure Determination from X-ray Diffraction Patterns using Generative Pre-trained Transformer</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Kamal Choudhary</td>
-<td><a href="http://arxiv.org/abs/2508.08349">2508.08349</a></td>
 </tr>
 </tbody></table>

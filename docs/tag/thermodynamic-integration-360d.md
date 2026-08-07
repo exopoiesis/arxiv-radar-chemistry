@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,17 +776,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08622.html">Momentum-Resolved Relaxation-Time Approach for Size-Dependent Conductivity in Anisotropic Metallic Films</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>YoungJun Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08622">2508.08622</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07798.html">Generative Inversion for Property-Targeted Materials Design: Application to Shape Memory Alloys</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Cheng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07798">2508.07798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08123.html">A Physics-Driven Neural Network with Parameter Embedding for Generating Quantitative MR Maps from Weighted Images</a></div></td>
-<td>Lingjing Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08123">2508.08123</a></td>
 </tr>
 </tbody></table>

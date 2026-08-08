@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,23 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03430.html">Multi-Level Fusion Graph Neural Network for Molecule Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>XiaYu Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03430">2507.03430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00920.html">Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Lirong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00920">2508.00920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08657.html">$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jiaxin Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08657">2508.08657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14072.html">Multi-Objective Bayesian Optimization with Independent Tanimoto Kernel Gaussian Processes for Diverse Pareto Front Exploration</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Anabel Yong</td>
-<td><a href="http://arxiv.org/abs/2508.14072">2508.14072</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">457 papers</span>
+  <span class="paper-count">455 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2744,17 +2744,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10873.html">QB Ground State Energy Estimation Benchmark</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Nicole Bellonzi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10873">2508.10873</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19588.html">Quantitative Description of Strongly Correlated Materials by Combining Downfolding Techniques and Tensor Networks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Daan Vrancken et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19588">2502.19588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08598.html">Lifshitz transition in correlated topological semimetals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Byungkyun Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08598">2508.08598</a></td>
 </tr>
 </tbody></table>

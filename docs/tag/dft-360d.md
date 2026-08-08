@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2015 papers</span>
+  <span class="paper-count">2005 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12044,65 +12044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10080.html">Structural transition and possible pressure-induced superconductivity in a suboxide La$_5$Pb$_3$O</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Jiaqiang Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10080">2508.10080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19588.html">Quantitative Description of Strongly Correlated Materials by Combining Downfolding Techniques and Tensor Networks</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Daan Vrancken et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19588">2502.19588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12591.html">Revealing Nanostructures in High-Entropy Alloys via Machine-Learning Accelerated Scalable Monte Carlo Simulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Xianglin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12591">2503.12591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03804.html">Exploring the Complex Landscape of Entropy Stabilized Oxides</a></div></td>
-<td>Bo Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03804">2507.03804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21681.html">Multiferroicity and 180$^\circ$ domain switching in LaFeO$_3$ via Antisite Defects</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Souren Majani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21681">2507.21681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08580.html">Emergent dynamical Kondo coherence and competing magnetic order in a correlated kagome flat-band metal CsCr6Sb6</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Xiangqi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08580">2508.08580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08622.html">Momentum-Resolved Relaxation-Time Approach for Size-Dependent Conductivity in Anisotropic Metallic Films</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>YoungJun Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08622">2508.08622</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08626.html">Macroscopic properties of high-harmonic generation from molecular ions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>T Joyce et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08626">2508.08626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08941.html">The alloying of first-principles calculations with quasiparticle methodologies for the converged solution of the quantum many-electron states in the correlated compound Iron monoxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="tmo-360d.html">tmo</a></div></td>
-<td>Suvadip Das</td>
-<td><a href="http://arxiv.org/abs/2508.08941">2508.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09269.html">Multiscale Modeling of Gas Adsorption and Surface Coverage in Thermocatalytic Systems</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Jikai Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09269">2508.09269</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09317.html">Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Karthik R et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09317">2508.09317</a></td>
 </tr>
 </tbody></table>

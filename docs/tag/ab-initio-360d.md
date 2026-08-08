@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1524 papers</span>
+  <span class="paper-count">1517 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9116,47 +9116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09793.html">Optical phonons as a testing ground for spin group symmetries</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>F. Schilberth et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09793">2508.09793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12591.html">Revealing Nanostructures in High-Entropy Alloys via Machine-Learning Accelerated Scalable Monte Carlo Simulation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Xianglin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12591">2503.12591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08598.html">Lifshitz transition in correlated topological semimetals</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Byungkyun Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08598">2508.08598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08600.html">Rigorous quantum calculations for atom-molecule chemical reactions in electric fields: from single to multiple partial wave regimes</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Timur V. Tscherbul et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08600">2508.08600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08622.html">Momentum-Resolved Relaxation-Time Approach for Size-Dependent Conductivity in Anisotropic Metallic Films</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>YoungJun Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08622">2508.08622</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08626.html">Macroscopic properties of high-harmonic generation from molecular ions</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>T Joyce et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08626">2508.08626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08941.html">The alloying of first-principles calculations with quasiparticle methodologies for the converged solution of the quantum many-electron states in the correlated compound Iron monoxide</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="tmo-360d.html">tmo</a></div></td>
-<td>Suvadip Das</td>
-<td><a href="http://arxiv.org/abs/2508.08941">2508.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09272.html">Solution-corrected Constant Potential Model for CO2 Electrocatalysis in Ionic Liquids</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Jikai Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09272">2508.09272</a></td>
 </tr>
 </tbody></table>

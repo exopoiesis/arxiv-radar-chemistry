@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,23 +566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11211.html">First-principles real-space embedding theory of the superconducting proximity effect</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Nicolas Baù et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11211">2605.11211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08728.html">Multi-Fidelity Computational Screening of High-Entropy MBenes for CO$_2$ Electroreduction</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Sree Harsha Bharadwaj H et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08728">2605.08728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08780.html">Concentration-Dependent Membrane Destabilization in DPPC Bilayers: Distinct Insertion Mechanisms and Stress Redistribution by Chloroform and Alkanols</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Anirban Polley</td>
-<td><a href="http://arxiv.org/abs/2605.08780">2605.08780</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08953.html">A putative, computationally stable structure of homotrimeric BP180/collagen XVII</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Congzhou M Sha</td>
-<td><a href="http://arxiv.org/abs/2605.08953">2605.08953</a></td>
 </tr>
 </tbody></table>

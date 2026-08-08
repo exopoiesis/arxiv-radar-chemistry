@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>free-energy — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <strong>30d</strong> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,23 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08608.html">An Efficient Method for Gibbs Free Energy Evaluation under Volume Compression</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Zhiyuan Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08608">2607.08608</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07067.html">Ab initio thermodynamic statistical modeling of the miscibility gap and the metal-insulator phase transition in SrTi$_{1-x}$V$_x$O$_{3}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Luka Wibmer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07067">2607.07067</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07125.html">Density effects in precision laser spectroscopy of exotic helium atoms</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Hubert J. Jóźwiak et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07125">2607.07125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07561.html">DNA handles bias force-dependent looping times</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Wout Laeremans et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07561">2607.07561</a></td>
 </tr>
 </tbody></table>

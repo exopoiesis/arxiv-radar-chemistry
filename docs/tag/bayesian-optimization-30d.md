@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <strong>30d</strong> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10284.html">Rank-Refined Quantum-Behaved Particle Swarm Optimization for Quantum Molecular Generation</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Sing-Yun Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10284">2607.10284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07289.html">Bayesian Optimization of Genetic Algorithm Hyperparameters in a Multi-Fidelity Framework for Efficient Lattice Material Design</a></div></td>
-<td>Sergei Zorkaltsev et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07289">2607.07289</a></td>
 </tr>
 </tbody></table>

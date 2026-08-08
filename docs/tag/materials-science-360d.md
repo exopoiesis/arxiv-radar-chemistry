@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">384 papers</span>
+  <span class="paper-count">383 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2312,11 +2312,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09556.html">Phonon interference effects in GaAs-GaP superlattice nanowires</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Chaitanya Arya et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09556">2508.09556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08657.html">$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jiaxin Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08657">2508.08657</a></td>
 </tr>
 </tbody></table>

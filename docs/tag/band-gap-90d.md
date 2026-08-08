@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,11 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17616.html">A comparative first-principles investigation of bilayer NbOX2 (X=Cl, Br, I) for Photocatalytic water splitting applications</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
 <td>Laku Dorjee Tamang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17616">2605.17616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08795.html">An ab initio approach to energy alignment and charge-state prediction of adsorbates on ultrathin insulators</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Kevin Lizárraga et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08795">2605.08795</a></td>
 </tr>
 </tbody></table>

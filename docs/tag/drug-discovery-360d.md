@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">548 papers</span>
+  <span class="paper-count">546 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3290,17 +3290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09499.html">CWFBind: Geometry-Awareness for Fast and Accurate Protein-Ligand Docking</a></div></td>
 <td>Liyan Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09499">2508.09499</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00920.html">Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Lirong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00920">2508.00920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08657.html">$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jiaxin Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08657">2508.08657</a></td>
 </tr>
 </tbody></table>

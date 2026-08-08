@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">424 papers</span>
+  <span class="paper-count">420 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2534,29 +2534,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03427.html">Symmetry-breaking-induced topology in FeSe</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Mikel García-Díez et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03427">2508.03427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08580.html">Emergent dynamical Kondo coherence and competing magnetic order in a correlated kagome flat-band metal CsCr6Sb6</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Xiangqi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08580">2508.08580</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08598.html">Lifshitz transition in correlated topological semimetals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Byungkyun Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08598">2508.08598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08941.html">The alloying of first-principles calculations with quasiparticle methodologies for the converged solution of the quantum many-electron states in the correlated compound Iron monoxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="tmo-360d.html">tmo</a></div></td>
-<td>Suvadip Das</td>
-<td><a href="http://arxiv.org/abs/2508.08941">2508.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09272.html">Solution-corrected Constant Potential Model for CO2 Electrocatalysis in Ionic Liquids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Jikai Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09272">2508.09272</a></td>
 </tr>
 </tbody></table>

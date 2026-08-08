@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08220.html">Quantum linear solvers for quantum chemistry: prospects of exponential quantum advantage</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Peniel Bertrand Tsemo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08220">2607.08220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07110.html">Probing Extended Recognition Sites in Zn-Metalloproteins via Quantum Chemistry and Polarizable Molecular Dynamics</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Nohad Gresh et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07110">2607.07110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07546.html">An analytical solution of a quantum system with non-Markovian behavior: The Bixon-Jortner system in time domain</a></div></td>
-<td>Osman Cevheroğlu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07546">2607.07546</a></td>
 </tr>
 </tbody></table>

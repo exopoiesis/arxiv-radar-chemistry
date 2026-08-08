@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,17 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10115.html">Generating Symmetric Materials using Latent Flow Matching</a></div></td>
 <td>Anmar Karmush et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10115">2605.10115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08777.html">Measuring and Decomposing Mode Separation via the Canonical Diffusion</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Shaul Tolkovsky et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08777">2605.08777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08960.html">CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Chengqian Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08960">2605.08960</a></td>
 </tr>
 </tbody></table>

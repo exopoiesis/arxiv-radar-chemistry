@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,29 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08996.html">Model Agnostic Graph Prompt Learning for Crystal Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Shrimon Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08996">2607.08996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07339.html">Machine Learning Materials Properties by Encoding Orbital-Projected Density of States</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Paulo Pires et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07339">2607.07339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07456.html">A Multi-Scale Machine Learning Framework for Coupled Chemical, Spin, and Structural Disorder in Alloys</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Zhenyao Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07456">2607.07456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07611.html">Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Faranak Hatami et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07611">2607.07611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Claudio Meggio et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
 </tr>
 </tbody></table>

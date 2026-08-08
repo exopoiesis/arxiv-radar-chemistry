@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">248 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1496,11 +1496,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Christoph Brunken et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08657.html">$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Jiaxin Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08657">2508.08657</a></td>
 </tr>
 </tbody></table>

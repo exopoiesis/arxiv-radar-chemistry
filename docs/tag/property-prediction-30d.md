@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,23 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08996.html">Model Agnostic Graph Prompt Learning for Crystal Property Prediction</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
 <td>Shrimon Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08996">2607.08996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07339.html">Machine Learning Materials Properties by Encoding Orbital-Projected Density of States</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Paulo Pires et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07339">2607.07339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07606.html">MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Manas Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07606">2607.07606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
-<td>Claudio Meggio et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
 </tr>
 </tbody></table>

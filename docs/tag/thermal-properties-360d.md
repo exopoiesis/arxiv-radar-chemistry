@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">293 papers</span>
+  <span class="paper-count">290 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1754,23 +1754,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09793.html">Optical phonons as a testing ground for spin group symmetries</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>F. Schilberth et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09793">2508.09793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08806.html">Anomalous Sodium Insertion in Highly Oriented Graphite: Thermodynamics, Kinetics and Evidence for Two-Sided Intercalation</a></div></td>
-<td>Chuanhai Gan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08806">2508.08806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09317.html">Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Karthik R et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09317">2508.09317</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20104.html">Sub-Nanometer Interfacial Hydrodynamics: The Interplay of Interfacial Viscosity and Surface Friction</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Shane R. Carlson et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20104">2508.20104</a></td>
 </tr>
 </tbody></table>

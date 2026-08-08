@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">159 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,11 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04843.html">Variational Flow Matching for Graph Generation</a></div></td>
 <td>Floor Eijkelboom et al.</td>
 <td><a href="http://arxiv.org/abs/2406.04843">2406.04843</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14072.html">Multi-Objective Bayesian Optimization with Independent Tanimoto Kernel Gaussian Processes for Diverse Pareto Front Exploration</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Anabel Yong</td>
-<td><a href="http://arxiv.org/abs/2508.14072">2508.14072</a></td>
 </tr>
 </tbody></table>

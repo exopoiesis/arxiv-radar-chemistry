@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15302.html">Study of the shape coexistence in the 96Zr, 96Mo, 96Ru isobars</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
 <td>R. Budaca et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15302">2605.15302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08691.html">Post-pulse dipole instability in adiabatic TDDFT: fact or artifact?</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Davood B. Dar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08691">2605.08691</a></td>
 </tr>
 </tbody></table>

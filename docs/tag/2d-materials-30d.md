@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,11 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Maxime Vassaux et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06995.html">Surface-Reconstruction-Driven Insulating Behavior in Metallic Charge-Density-Wave 1T-TaSe$_{2}$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06995">2607.06995</a></td>
 </tr>
 </tbody></table>

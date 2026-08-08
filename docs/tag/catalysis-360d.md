@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">304 papers</span>
+  <span class="paper-count">303 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1832,11 +1832,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09538.html">Boron Clusters for Metal-Free Water Splitting</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Masaya Fujioka et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09538">2508.09538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09269.html">Multiscale Modeling of Gas Adsorption and Surface Coverage in Thermocatalytic Systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Jikai Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09269">2508.09269</a></td>
 </tr>
 </tbody></table>

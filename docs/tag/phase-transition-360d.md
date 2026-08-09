@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,17 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10735.html">Machine-Learning-enabled ab initio study of quantum phase transitions in SrTiO$_3$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Jonathan Schmidt et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10735">2508.10735</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09793.html">Optical phonons as a testing ground for spin group symmetries</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>F. Schilberth et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09793">2508.09793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10080.html">Structural transition and possible pressure-induced superconductivity in a suboxide La$_5$Pb$_3$O</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Jiaqiang Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10080">2508.10080</a></td>
 </tr>
 </tbody></table>

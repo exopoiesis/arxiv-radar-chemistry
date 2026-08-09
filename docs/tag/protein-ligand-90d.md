@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10722.html">On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Sam Money-Kyrle et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10722">2605.10722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09810.html">TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
-<td>Hanqun Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09810">2605.09810</a></td>
 </tr>
 </tbody></table>

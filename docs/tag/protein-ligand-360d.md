@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,17 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12731.html">Mechanism of Quercetin in Inhibiting Triple-Negative Breast Cancer by Regulating T Cell-Related Targets: An Analysis Based on Single-Cell Sequencing and Network Pharmacology</a></div></td>
 <td>Ruiqi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12731">2508.12731</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17857.html">AbRank: A Benchmark Dataset and Metric-Learning Framework for Antibody-Antigen Affinity Ranking</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Chunan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17857">2506.17857</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10117.html">In silico study on the cytotoxicity against Hela cancer cells of xanthones bioactive compounds from Garcinia cowa: QSAR based on Graph Deep Learning, Network Pharmacology, and Molecular Docking</a></div></td>
-<td>Nguyen Manh Son et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10117">2508.10117</a></td>
 </tr>
 </tbody></table>

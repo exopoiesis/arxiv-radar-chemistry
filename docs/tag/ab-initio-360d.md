@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1517 papers</span>
+  <span class="paper-count">1512 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9086,35 +9086,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10660.html">Exploring Quantum Annealing for Coarse-Grained Protein Folding</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Timon Scheiber et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10660">2508.10660</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11248.html">Towards chemical accuracy for chemi- and physisorption with an efficient density functional</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Manish Kothakonda et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11248">2410.11248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05603.html">Bayesian inference of neutron star crust properties using an ab initio-benchmarked meta-model</a></div></td>
-<td>S. Burrello et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05603">2506.05603</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09501.html">Mechanical Force-Driven Charge Redistribution for Hydrogen Release at Ambient Conditions in Transition Metal-Intercalated Bilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Jongdeok Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09501">2508.09501</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09556.html">Phonon interference effects in GaAs-GaP superlattice nanowires</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Chaitanya Arya et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09556">2508.09556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09793.html">Optical phonons as a testing ground for spin group symmetries</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>F. Schilberth et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09793">2508.09793</a></td>
 </tr>
 </tbody></table>

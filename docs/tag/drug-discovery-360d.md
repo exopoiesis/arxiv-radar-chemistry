@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">546 papers</span>
+  <span class="paper-count">545 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3284,11 +3284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10775.html">IBEX: Information-Bottleneck-EXplored Coarse-to-Fine Molecular Generation under Limited Data</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Dong Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10775">2508.10775</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09499.html">CWFBind: Geometry-Awareness for Fast and Accurate Protein-Ligand Docking</a></div></td>
-<td>Liyan Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09499">2508.09499</a></td>
 </tr>
 </tbody></table>

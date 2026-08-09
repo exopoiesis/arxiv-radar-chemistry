@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">258 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1562,17 +1562,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10676.html">The 6H-Perovskite Dimer Lattice with Antiferromagnetic Interactions: Ba$_3$ARu$_2$O$_9$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Daniel M. Pajerowski et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10676">2508.10676</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23828.html">High-Throughput Exploration of NV-like Color Centers Across Host Materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Oscar Groppfeldt et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23828">2503.23828</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09771.html">Discovery of a low-density filled-ice phase in nitrogen hydrate at high pressure</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Selene Berni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09771">2508.09771</a></td>
 </tr>
 </tbody></table>

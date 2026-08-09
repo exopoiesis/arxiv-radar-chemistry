@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">438 papers</span>
+  <span class="paper-count">437 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2636,11 +2636,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13197.html">The Rise of Generative AI for Metal-Organic Framework Design and Synthesis</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a></div></td>
 <td>Chenru Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13197">2508.13197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21107.html">Unlasting: Unpaired Single-Cell Multi-Perturbation Estimation by Dual Conditional Diffusion Implicit Bridges</a></div></td>
-<td>Changxi Chi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21107">2506.21107</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">584 papers</span>
+  <span class="paper-count">581 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3500,23 +3500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Christoph Brunken et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06113.html">Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>E. Kushwaha et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06113">2504.06113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10505.html">FastTrack: a fast method to evaluate mass transport in solid leveraging universal machine learning interatomic potential</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Hanwen Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10505">2508.10505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10735.html">Machine-Learning-enabled ab initio study of quantum phase transitions in SrTiO$_3$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jonathan Schmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10735">2508.10735</a></td>
 </tr>
 </tbody></table>

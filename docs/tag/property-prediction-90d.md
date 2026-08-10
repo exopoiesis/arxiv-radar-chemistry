@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,29 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13024.html">ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Zeyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13024">2605.13024</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10157.html">MolSight: Molecular Property Prediction with Images</a></div></td>
-<td>Aaditya Baranwal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10157">2605.10157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10429.html">Physical probes expose and alleviate chemical-environment collapse in molecular representations</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Jiebin Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10429">2605.10429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10458.html">QT-Net: Rethinking Evaluation of AI Models in Atomic Chemical Space</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Pablo Martínez Crespo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10458">2605.10458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>H. Ibrahim Erdogan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10551">2605.10551</a></td>
 </tr>
 </tbody></table>

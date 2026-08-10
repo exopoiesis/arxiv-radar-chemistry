@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>crystal-structure — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <strong>30d</strong> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12806.html">Single-orbital tight-binding model for chiral one-dimensional hybrid organic-inorganic lead halide perovskites</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Yuya Ominato et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12806">2607.12806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09910.html">Auditing Machine-Learning Models and Their Training Data with Explainability and First-Principles Verification: Application to Spin Hall Conductivity</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Mohammed Mahshook et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09910">2607.09910</a></td>
 </tr>
 </tbody></table>

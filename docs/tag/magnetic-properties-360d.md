@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">347 papers</span>
+  <span class="paper-count">345 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2084,17 +2084,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11397.html">Hole doping as an efficient route to increase the Curie temperature in monolayer CrI$_3$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Marko Orozović et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11397">2508.11397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06113.html">Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>E. Kushwaha et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06113">2504.06113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21340.html">Current-induced spin and orbital polarization in the ferroelectric Rashba semiconductor GeTe</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Sergio Leiva-Montecinos et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21340">2505.21340</a></td>
 </tr>
 </tbody></table>

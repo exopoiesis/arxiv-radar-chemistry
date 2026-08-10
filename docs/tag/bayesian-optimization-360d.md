@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12715.html">Hyperparameter Optimization in the Estimation of PDE and Delay-PDE models from data</a></div></td>
 <td>Oliver Mai et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12715">2508.12715</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10970.html">Holistic Bioprocess Development Across Scales Using Multi-Fidelity Batch Bayesian Optimization</a></div></td>
-<td>Adrian Martens et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10970">2508.10970</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,11 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10511.html">KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Andrea Rosasco et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10511">2508.10511</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10775.html">IBEX: Information-Bottleneck-EXplored Coarse-to-Fine Molecular Generation under Limited Data</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Dong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10775">2508.10775</a></td>
 </tr>
 </tbody></table>

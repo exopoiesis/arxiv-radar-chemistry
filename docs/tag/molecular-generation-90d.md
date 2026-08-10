@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-generation — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,17 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12784.html">ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Andrew Y. Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12784">2605.12784</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10035.html">From Single-Step Edit Response to Multi-Step Molecular Optimization</a></div></td>
-<td>Haojie Rao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10035">2605.10035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10230.html">FORGE: Fragment-Oriented Ranking and Generation for Context-Aware Molecular Optimization</a></div></td>
-<td>Qingchuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10230">2605.10230</a></td>
 </tr>
 </tbody></table>

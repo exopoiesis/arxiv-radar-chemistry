@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1997 papers</span>
+  <span class="paper-count">1993 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11972,29 +11972,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11397.html">Hole doping as an efficient route to increase the Curie temperature in monolayer CrI$_3$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Marko Orozović et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11397">2508.11397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10505.html">FastTrack: a fast method to evaluate mass transport in solid leveraging universal machine learning interatomic potential</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Hanwen Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10505">2508.10505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10544.html">Unraveling energy flow mechanisms in semiconductors by ultrafast spectroscopy: Germanium as a case study</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Grazia Raciti et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10544">2508.10544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10676.html">The 6H-Perovskite Dimer Lattice with Antiferromagnetic Interactions: Ba$_3$ARu$_2$O$_9$</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Daniel M. Pajerowski et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10676">2508.10676</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10873.html">QB Ground State Energy Estimation Benchmark</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Nicole Bellonzi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10873">2508.10873</a></td>
 </tr>
 </tbody></table>

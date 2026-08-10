@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">216 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1298,17 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03427.html">Symmetry-breaking-induced topology in FeSe</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Mikel García-Díez et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03427">2508.03427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06113.html">Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>E. Kushwaha et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06113">2504.06113</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10735.html">Machine-Learning-enabled ab initio study of quantum phase transitions in SrTiO$_3$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Jonathan Schmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10735">2508.10735</a></td>
 </tr>
 </tbody></table>

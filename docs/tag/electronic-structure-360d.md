@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">455 papers</span>
+  <span class="paper-count">453 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2732,17 +2732,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12118.html">Microscopic model of the operation of the Single-chalcogenide X-point Memory</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>P. Fantini et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12118">2508.12118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10735.html">Machine-Learning-enabled ab initio study of quantum phase transitions in SrTiO$_3$</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jonathan Schmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10735">2508.10735</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10873.html">QB Ground State Energy Estimation Benchmark</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Nicole Bellonzi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10873">2508.10873</a></td>
 </tr>
 </tbody></table>

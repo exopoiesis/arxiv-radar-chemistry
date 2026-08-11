@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">437 papers</span>
+  <span class="paper-count">434 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2618,23 +2618,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13154.html">4DNeX: Feed-Forward 4D Generative Modeling Made Easy</a></div></td>
 <td>Zhaoxi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13154">2508.13154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02834.html">Learning from B Cell Evolution: Adaptive Multi-Expert Diffusion for Antibody Design via Online Optimization</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Hanqi Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02834">2508.02834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10511.html">KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Andrea Rosasco et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10511">2508.10511</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13197.html">The Rise of Generative AI for Metal-Organic Framework Design and Synthesis</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a></div></td>
-<td>Chenru Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13197">2508.13197</a></td>
 </tr>
 </tbody></table>

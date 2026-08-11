@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,17 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15199.html">Light-induced ultrafast magnetization dynamics in van der Waals antiferromagnetic CrSBr</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Ali Kefayati et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15199">2507.15199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02834.html">Learning from B Cell Evolution: Adaptive Multi-Expert Diffusion for Antibody Design via Online Optimization</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Hanqi Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02834">2508.02834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11397.html">Hole doping as an efficient route to increase the Curie temperature in monolayer CrI$_3$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Marko Orozović et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11397">2508.11397</a></td>
 </tr>
 </tbody></table>

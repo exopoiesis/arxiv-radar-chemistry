@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1510 papers</span>
+  <span class="paper-count">1508 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9062,17 +9062,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12033.html">Load-Balanced Diffusion Monte Carlo Method with Lattice Regularization</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Kousuke Nakano et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12033">2508.12033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12708.html">Enhanced Krylov Methods for Molecular Hamiltonians: Reduced Memory Cost and Complexity Scaling via Tensor Hypercontraction</a></div></td>
-<td>Yu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12708">2409.12708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11321.html">Enhanced anomalous Hall conductivity via Ga doping in Mn\textsubscript{3}Sn and Mn\textsubscript{3}Ge</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Chenyue Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11321">2508.11321</a></td>
 </tr>
 </tbody></table>

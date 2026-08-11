@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1508 papers</span>
+  <span class="paper-count">1505 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9044,23 +9044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13206.html">Fine-Tuning Hydrophilic-Hydrophobic Balance in Stimuli-Responsive PEGPNIPAM Micelles for Controlled Drug Delivery</a></div></td>
 <td>Ghazal Jamirad et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13206">2508.13206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19904.html">Extended framework for the hybrid Monte Carlo in lattice gauge theory</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Norman H. Christ et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19904">2412.19904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Christoph Brunken et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09400.html">Deciphering the Small-Angle Scattering of Polydisperse Hard Spheres using Deep Learning</a></div></td>
-<td>Lijie Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09400">2507.09400</a></td>
 </tr>
 </tbody></table>

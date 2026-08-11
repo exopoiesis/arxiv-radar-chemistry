@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">356 papers</span>
+  <span class="paper-count">354 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2138,17 +2138,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15072.html">Improving VQE Parameter Quality on Noisy Quantum Processors with Cost-Effective Readout Error Mitigation</a></div></td>
 <td>Nacer Eddine Belaloui et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15072">2508.15072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03427.html">Symmetry-breaking-induced topology in FeSe</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Mikel García-Díez et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03427">2508.03427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11270.html">Multi-QIDA method for VQE state preparation in molecular systems</a></div></td>
-<td>Fabio Tarocco et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11270">2508.11270</a></td>
 </tr>
 </tbody></table>

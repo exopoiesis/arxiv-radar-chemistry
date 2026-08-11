@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">341 papers</span>
+  <span class="paper-count">333 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2012,53 +2012,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14154.html">TSAgent: An Agentic Workflow for Autonomous Transition State Search</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Varun Madhavan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14154">2605.14154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11512.html">$G^0W^0$ implementation based on the pseudopotential and numerical-atomic-orbital basis-set framework: Algorithms and benchmarks</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Huanjing Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11512">2605.11512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11589.html">Unification of Signal Transform Theory</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Mitchell A. Thornton</td>
-<td><a href="http://arxiv.org/abs/2605.11589">2605.11589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11650.html">Schur Products of Constacyclic Codes via the Constacyclic Discrete Fourier Transform</a></div></td>
-<td>Peifeng Lin</td>
-<td><a href="http://arxiv.org/abs/2605.11650">2605.11650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12045.html">Magnetism and spin dynamics of Na\textsubscript{5}Yb(MoO\textsubscript{4})\textsubscript{4}: A weakly interacting rare-earth stretched diamond lattice</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>N. Rajeesh Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12045">2605.12045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12067.html">Discovery of High-Voltage Magnesium-Ion Cathodes using Machine Learning and First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jhon Rogelnor A. Florida et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12067">2605.12067</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12186.html">Asymmetric Planar-to-Dewar Isomerisation in BN-Doped Naphthalene: Mechanistic Implications for Molecular Solar Thermal Storage</a></div></td>
-<td>Michael Bühler et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12186">2605.12186</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12711.html">Negative Differential Resistance and Ultra-High TMR in Altermagnetic Tunnel Junctions</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Sajjan Sheoran et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12711">2605.12711</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17616.html">A comparative first-principles investigation of bilayer NbOX2 (X=Cl, Br, I) for Photocatalytic water splitting applications</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Laku Dorjee Tamang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17616">2605.17616</a></td>
 </tr>
 </tbody></table>

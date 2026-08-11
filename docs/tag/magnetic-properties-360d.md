@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">345 papers</span>
+  <span class="paper-count">342 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2066,23 +2066,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15199.html">Light-induced ultrafast magnetization dynamics in van der Waals antiferromagnetic CrSBr</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Ali Kefayati et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15199">2507.15199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17056.html">Quark anomalous magnetic moments and neutral pseudoscalar meson dynamics with three-flavor NJL model in magnetized quark matter</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Chang-Yong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17056">2503.17056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03427.html">Symmetry-breaking-induced topology in FeSe</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Mikel García-Díez et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03427">2508.03427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11397.html">Hole doping as an efficient route to increase the Curie temperature in monolayer CrI$_3$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Marko Orozović et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11397">2508.11397</a></td>
 </tr>
 </tbody></table>

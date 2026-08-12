@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">419 papers</span>
+  <span class="paper-count">418 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2522,11 +2522,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12985.html">Observation of Altermagnetic Spin Splitting in an Intercalated Transition Metal Dichalcogenide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Milo Sprague et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12985">2508.12985</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12118.html">Microscopic model of the operation of the Single-chalcogenide X-point Memory</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>P. Fantini et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12118">2508.12118</a></td>
 </tr>
 </tbody></table>

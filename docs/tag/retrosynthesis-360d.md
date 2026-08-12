@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>retrosynthesis — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <strong>360d</strong> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07060.html">DeepRetro: Retrosynthetic Pathway Discovery using Iterative LLM Reasoning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Shreyas Vinaya Sathyanarayana et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07060">2507.07060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11860.html">LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework</a></div></td>
-<td>Frazier N. Baker et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11860">2508.11860</a></td>
 </tr>
 </tbody></table>

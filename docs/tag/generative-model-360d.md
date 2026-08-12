@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2822,11 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12629.html">FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Ian Dunn et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12629">2508.12629</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.00360.html">Shape from Semantics: 3D Shape Generation from Multi-View Semantics</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Liangchen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2502.00360">2502.00360</a></td>
 </tr>
 </tbody></table>

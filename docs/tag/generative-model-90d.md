@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,35 +494,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16126.html">Entropy Across the Bridge: Conditional-Marginal Discretization for Flow and Schrödinger Samplers</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Bruno Trentini et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16126">2605.16126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14344.html">CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Yuyang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14344">2605.14344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14471.html">High-Pressure Crystal Structure Database</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Zhenyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14471">2605.14471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14759.html">Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Nian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14759">2605.14759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15354.html">Controllable Molecular Generative Foundation Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Yihan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15354">2605.15354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15417.html">$f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data</a></div></td>
-<td>Jake Fawkes et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15417">2605.15417</a></td>
 </tr>
 </tbody></table>

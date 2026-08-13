@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">287 papers</span>
+  <span class="paper-count">285 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1724,17 +1724,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13391.html">Towards Routine Condensed Phase Simulations with Delta-Learned Coupled Cluster Accuracy: Application to Liquid Water</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Niamh O&#x27;Neill et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13391">2508.13391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16487.html">Prediction of an alternative route to polymeric carbon dioxide: A metastable energetic material</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Reetam Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16487">2408.16487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12362.html">Chiral quantum magnets with optically and catalytically active spin ladders</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Bum Chul Park et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12362">2508.12362</a></td>
 </tr>
 </tbody></table>

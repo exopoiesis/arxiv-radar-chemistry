@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">242 papers</span>
+  <span class="paper-count">237 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1436,35 +1436,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16583.html">Crystal growth and characterization of the ultra-high temperature substrate $\mathrm{Ta_{1-x}Hf_{x}C_{0.5}}$</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Evan N. Crites et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16583">2605.16583</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Rao Uzair Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14472.html">Accurate computation of the electron-phonon interaction contribution to the total energy</a></div></td>
-<td>Shilpa Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14472">2605.14472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14617.html">Full-Dimensional Reactive Potential Energy Surfaces for OCS$^+$ $\rightarrow$ CO+S$^+$ Dissociation: Ground and Excited States</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Cangtao Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14617">2605.14617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Wael Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Francesca Menescardi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
 </tr>
 </tbody></table>

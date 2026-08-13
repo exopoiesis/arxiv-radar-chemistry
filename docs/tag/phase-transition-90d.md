@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16123.html">Thermal conductivity of seifertite and pyrite-type SiO$_2$: A comparative study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Doyoon Park et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16123">2605.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14674.html">Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Shijun Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14674">2605.14674</a></td>
 </tr>
 </tbody></table>

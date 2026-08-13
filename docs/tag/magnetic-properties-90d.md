@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,17 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20972.html">In-Plane Ferromagnetism and Critical Dynamics in Alkali-Deficient K$_{1-x}$CrTe$_2$ (with $x \approx$ 0.3) Single Crystals</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Catherine Witteveen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20972">2605.20972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14336.html">Ward identities and orbital magnetization in current density functional theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Giovanni Vignale et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14336">2605.14336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14674.html">Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Shijun Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14674">2605.14674</a></td>
 </tr>
 </tbody></table>

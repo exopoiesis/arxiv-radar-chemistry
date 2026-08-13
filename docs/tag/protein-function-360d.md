@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-function — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <strong>360d</strong> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18567.html">Sparse Autoencoders for Low-$N$ Protein Function Prediction and Design</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Darin Tsui et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18567">2508.18567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12212.html">ProtTeX-CC: Activating In-Context Learning in Protein LLM via Two-Stage Instruction Compression</a></div></td>
-<td>Chuanliu Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12212">2508.12212</a></td>
 </tr>
 </tbody></table>

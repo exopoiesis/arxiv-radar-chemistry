@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,41 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12783.html">Photogeneration and signatures of coherent phonons in time-resolved photoemission spectroscopy: First-principles time-dependent adiabatic GW approach</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
 <td>Yang-hao Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12783">2607.12783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Tetsuji Kuboyama et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11105">2607.11105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11406.html">Ab initio path integral Monte Carlo study of the 2D uniform electron liquid at finite temperatures</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Tobias Dornheim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11406">2607.11406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11452.html">Ab initio study of $β$-decay and pairing in $N=Z$ nuclei</a></div></td>
-<td>Subhrajit Sahoo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11452">2607.11452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11733.html">Ab initio calculations of two-neutrino and neutrinoless double-$\boldsymbolβ$ decay of $^{48}$Ca and related Gamow-Teller strength distributions</a></div></td>
-<td>Zhen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11733">2607.11733</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11790.html">Strain-controlled crystalline--amorphous transition and flat-band tuning in buckled silicon kagome</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Chenhaoyue Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11790">2607.11790</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12213.html">Analytical solution of the Eliashberg equations for strong-coupling superconductivity in hydrides</a></div></td>
-<td>Tomas J. Escamilla et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12213">2607.12213</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,23 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13309.html">Fundamental Relation between Conductance of Biomolecules and the Fukui Function</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Gabor Vattay</td>
 <td><a href="http://arxiv.org/abs/2607.13309">2607.13309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Tetsuji Kuboyama et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11105">2607.11105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11550.html">Synthesis of Ti2B2Clx MBenes in molten salts from theoretical and experimental perspectives</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Rodrigo M. Ronchi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11550">2607.11550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12202.html">Defect assignment of the clock site in $^{229}\text{Th:CaF}_2$</a></div></td>
-<td>Daniel A. Rehn et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12202">2607.12202</a></td>
 </tr>
 </tbody></table>

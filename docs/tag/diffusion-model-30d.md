@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12349.html">Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Ruoxi Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12349">2607.12349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11836.html">Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency</a></div></td>
-<td>Zihan Su et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11836">2607.11836</a></td>
 </tr>
 </tbody></table>

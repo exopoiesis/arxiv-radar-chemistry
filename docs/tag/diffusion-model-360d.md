@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">434 papers</span>
+  <span class="paper-count">432 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2606,17 +2606,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14748.html">Cross-Modality Controlled Molecule Generation with Diffusion Language Model</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Yunzhe Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14748">2508.14748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17064.html">Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Aditya Sengar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17064">2506.17064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13154.html">4DNeX: Feed-Forward 4D Generative Modeling Made Easy</a></div></td>
-<td>Zhaoxi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13154">2508.13154</a></td>
 </tr>
 </tbody></table>

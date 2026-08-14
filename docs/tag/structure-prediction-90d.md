@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,23 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17899.html">DCFold: Efficient Protein Structure Generation with Single Forward Pass</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Zhe Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17899">2605.17899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15564.html">CrystalBoltz: End-to-End Protein Structure Determination via Experiment-Guided Diffusion for X-Ray Crystallography</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Minseo Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15564">2605.15564</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16088.html">Multi-level Self-supervised Pretraining on Compositional Hierarchical Graph for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Xiayu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16088">2605.16088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16230.html">Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Abhijatmedhi Chotrattanapituk et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16230">2605.16230</a></td>
 </tr>
 </tbody></table>

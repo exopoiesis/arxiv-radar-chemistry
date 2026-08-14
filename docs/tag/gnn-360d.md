@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">395 papers</span>
+  <span class="paper-count">393 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2372,17 +2372,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15015.html">Fragment-Wise Interpretability in Graph Neural Networks via Molecule Decomposition and Contribution Analysis</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Sebastian Musiał et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15015">2508.15015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17064.html">Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Aditya Sengar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17064">2506.17064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12629.html">FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Ian Dunn et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12629">2508.12629</a></td>
 </tr>
 </tbody></table>

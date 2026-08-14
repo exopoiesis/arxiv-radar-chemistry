@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">418 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2504,23 +2504,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13955.html">A first-principles theoretical study on two-dimensional MX and MX$_2$ metal halides: bandgap engineering, magnetism, and catalytic descriptors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Yu-Hsiu Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13955">2508.13955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02883.html">Fibonacci-Modulation-Induced Multiple Topological Anderson Insulators</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Ruijiang Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02883">2501.02883</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12559.html">Understanding high photocatalytic activity of the TiO2 high-pressure columbite phase by experiments and first-principles calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Jacqueline Hidalgo-Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12559">2508.12559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12985.html">Observation of Altermagnetic Spin Splitting in an Intercalated Transition Metal Dichalcogenide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Milo Sprague et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12985">2508.12985</a></td>
 </tr>
 </tbody></table>

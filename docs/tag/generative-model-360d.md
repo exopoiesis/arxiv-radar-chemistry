@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2798,29 +2798,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14351.html">A Non-Asymptotic Convergent Analysis for Scored-Based Graph Generative Model via a System of Stochastic Differential Equations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Junwei Su et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14351">2508.14351</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04354.html">A transversality theorem for semi-algebraic sets with application to signal recovery from the second moment and cryo-EM</a></div></td>
-<td>Tamir Bendory et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04354">2405.04354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24065.html">Cross-Modal Characterization of Thin Film MoS$_2$ Using Generative Models</a></div></td>
-<td>Isaiah A. Moses et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24065">2505.24065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17064.html">Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Aditya Sengar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17064">2506.17064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12629.html">FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Ian Dunn et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12629">2508.12629</a></td>
 </tr>
 </tbody></table>

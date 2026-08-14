@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,23 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15309.html">DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Kaihui Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15309">2607.15309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11135.html">Molecular Dynamics-Derived Coloured Noise Mediates Anderson Localisation and Environment-Assisted Transport of Tryptophan Excitons in Tubulin</a></div></td>
-<td>Chen Xin</td>
-<td><a href="http://arxiv.org/abs/2607.11135">2607.11135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12978.html">Sensing the properties of virtual objects without physical feedback</a></div></td>
-<td>Rhoslyn Roebuck Williams et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12978">2607.12978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13195.html">Reverse translocation of a nascent polypeptide through the ribosomal exit tunnels</a></div></td>
-<td>Felipe C. Nepomuceno et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13195">2607.13195</a></td>
 </tr>
 </tbody></table>

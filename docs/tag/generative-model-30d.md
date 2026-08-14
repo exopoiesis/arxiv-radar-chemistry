@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,23 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14246.html">The Steering Budget: Examples beat Knobs</a></div></td>
 <td>Raj Kumar Rajendran</td>
 <td><a href="http://arxiv.org/abs/2607.14246">2607.14246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12325.html">Peak-Decomposition-Free Inverse Metrology of Hyperspectral Moiré Photoluminescence</a></div></td>
-<td>Katsunori Wakabayashi</td>
-<td><a href="http://arxiv.org/abs/2607.12325">2607.12325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Sarina Kopf et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12488">2607.12488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a> · <a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Xingyu Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
 </tr>
 </tbody></table>

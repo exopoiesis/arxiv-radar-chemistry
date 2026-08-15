@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">415 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,23 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14416.html">Jahn-Teller-like Distortion in a One-dimensional π-Conjugated Polymer</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Ziyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14416">2508.14416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17995.html">Role of On-site and Inter-site Coulomb Interactions in KV$_3$Sb$_5$: A first-principles DFT+$U$+$V$ study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Indukuru Ramesh Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17995">2504.17995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13862.html">Atomistic mechanisms of phase transitions in all-temperature barocaloric material KPF$_6$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jiantao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13862">2508.13862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13955.html">A first-principles theoretical study on two-dimensional MX and MX$_2$ metal halides: bandgap engineering, magnetism, and catalytic descriptors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Yu-Hsiu Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13955">2508.13955</a></td>
 </tr>
 </tbody></table>

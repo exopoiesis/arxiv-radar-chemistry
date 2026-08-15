@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,17 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18893.html">Position: Graph Condensation Needs a Reset -- Move Beyond Full-dataset Training and Model-Dependence</a></div></td>
 <td>Mridul Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18893">2605.18893</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16823.html">Atoms as Language: VQ-Atom: Semantic Discretization for Molecular Representation Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Takayuki Kimura</td>
-<td><a href="http://arxiv.org/abs/2605.16823">2605.16823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16891.html">Tensor Channel Equivariant Graph Neural Networks for Molecular Polarizability Prediction</a></div></td>
-<td>Jean Philip Filling et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16891">2605.16891</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1503 papers</span>
+  <span class="paper-count">1493 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8972,65 +8972,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15007.html">Impact of ligand (OH) deformation on LuOH$^+$ rovibrational spectra</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Igor Kurchavov et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15007">2508.15007</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02407.html">Emergence of spin-phonon coupling in a Gd-doped Y$_2$CoMnO$_6$ double perovskite oxide: a combined experimental and ab-initio study</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Anasua Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02407">2407.02407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01209.html">Origin of unexpected weak Gilbert damping in the LSMO/Pt bilayer system</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Pritam Das et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01209">2408.01209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13614.html">Unlocking reversible and nonvolatile anomalous valley Hall control through multiferroic van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Ankita Phutela et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13614">2508.13614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13720.html">Evidence for single variant in altermagnetic RuO2(101) thin films</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Cong He et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13720">2508.13720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13751.html">A particle view of many-body electronic structure with neural network wavefunction</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Zichen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13751">2508.13751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13779.html">Uniform electron benchmark for the first-principles $GW_{0}$-Eliashberg theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ryosuke Akashi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13779">2508.13779</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13862.html">Atomistic mechanisms of phase transitions in all-temperature barocaloric material KPF$_6$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jiantao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13862">2508.13862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13955.html">A first-principles theoretical study on two-dimensional MX and MX$_2$ metal halides: bandgap engineering, magnetism, and catalytic descriptors</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Yu-Hsiu Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13955">2508.13955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14189.html">The role of the pion mass on the QCD phase diagram in the $T-eB$ plane</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Chowdhury Aminul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14189">2508.14189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14270.html">Real-space first-principles approach to orbitronic phenomena in metallic multilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Ramon Cardias et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14270">2508.14270</a></td>
 </tr>
 </tbody></table>

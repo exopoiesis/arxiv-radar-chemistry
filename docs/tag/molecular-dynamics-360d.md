@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1496 papers</span>
+  <span class="paper-count">1492 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8966,29 +8966,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00028.html">When wall slip wins over shear flow: A temperature-dependent Eyring slip law and a thermal multiscale model for diamond-like carbon lubricated by a polyalphaolefin oil</a></div></td>
 <td>Stefan Peeters et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00028">2509.00028</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11981.html">Unveiling the thermal transport properties of Biphenylene nanotubes: A molecular dynamics study</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jhionathan de Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11981">2505.11981</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13790.html">Large-scale cooperative sulfur vacancy dynamics in two-dimensional MoS2 from machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Aaron Flötotto et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13790">2508.13790</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13862.html">Atomistic mechanisms of phase transitions in all-temperature barocaloric material KPF$_6$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jiantao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13862">2508.13862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13918.html">Order-Disorder Transitions and Thermal Pathways in Frustrated 2D Colloidal Crystals</a></div></td>
-<td>Alexandre Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13918">2508.13918</a></td>
 </tr>
 </tbody></table>

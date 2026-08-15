@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">451 papers</span>
+  <span class="paper-count">449 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2708,17 +2708,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15007.html">Impact of ligand (OH) deformation on LuOH$^+$ rovibrational spectra</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Igor Kurchavov et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15007">2508.15007</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17995.html">Role of On-site and Inter-site Coulomb Interactions in KV$_3$Sb$_5$: A first-principles DFT+$U$+$V$ study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Indukuru Ramesh Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17995">2504.17995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13751.html">A particle view of many-body electronic structure with neural network wavefunction</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Zichen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13751">2508.13751</a></td>
 </tr>
 </tbody></table>

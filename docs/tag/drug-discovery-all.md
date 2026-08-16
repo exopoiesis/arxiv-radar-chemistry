@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1013 papers</span>
+  <span class="paper-count">1017 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Junwoo Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10480">2608.10480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06779.html">Genotypic Triggers: Exposing Pharmacogenomic Blind Spots via Host-Specific Backdoors in Generative Antimicrobial Peptide Models</a></div></td>
+<td>Doniyorkhon Obidov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06779">2608.06779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06022.html">EpiBench: Can LLMs Understand Epitopes for Antibody Drug Discovery?</a></div></td>
+<td>Zirui Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06022">2608.06022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01734.html">LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses</a></div></td>
+<td>Betty Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01734">2608.01734</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01007.html">Fused Bayesian Flow Networks for Dual-Target Molecular Design</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>

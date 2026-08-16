@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1971 papers</span>
+  <span class="paper-count">1966 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11810,35 +11810,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15614.html">Universal Machine Learning Potential for Systems with Reduced Dimensionality</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Giulio Benedini et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15614">2508.15614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08255.html">Bridging classical and quantum interpretation of chemical state analysis by XPS/HAXPES to resolve short-range order in amorphous alumina films</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Simon Gramatte et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08255">2408.08255</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14416.html">Jahn-Teller-like Distortion in a One-dimensional π-Conjugated Polymer</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Ziyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14416">2508.14416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14543.html">Production of ultracold asymmetric tops from Sr atoms and SrOH molecules</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Maciej B. Kosicki et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14543">2508.14543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14852.html">Carrier mobilities and electron-phonon interactions beyond DFT</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Aleksandr Poliukhin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14852">2508.14852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15004.html">Probing Magnetic Properties of RuO$_{2}$ Heterostructures Through the Ferromagnetic Layer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Frank M. Abel et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15004">2508.15004</a></td>
 </tr>
 </tbody></table>

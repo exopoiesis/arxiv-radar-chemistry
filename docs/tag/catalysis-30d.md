@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13024.html">TIEM: Temporal Integration of Hypergraph Evidence and Skill Memory for Event-Driven Financial Forecasting</a></div></td>
+<td>Wenjin Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13024">2608.13024</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06680.html">Physics-Grounded Materials Artificial Intelligence for Reliable Materials Discovery</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Yuhang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06680">2608.06680</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25743.html">Physical Mechanism of Vacuole Formation in Liquid Droplets</a></div></td>
 <td>Pranay Jaiswal et al.</td>
@@ -32,17 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Zhijing Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.16589">2607.16589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Tarek Ayadi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15066.html">Interaction energies of H$_2$ and CO on transition-metal surfaces computed by a range-separated hybrid van der Waals density functional</a></div><div class="paper-tags"><a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Per Hyldgaard</td>
-<td><a href="http://arxiv.org/abs/2607.15066">2607.15066</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19050.html">Generative Pseudo-Force Fields for Molecular Generation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Stefaan Simon Pierre Hessmann et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19050">2605.19050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17693.html">Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Yuan Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17693">2605.17693</a></td>
 </tr>
 </tbody></table>

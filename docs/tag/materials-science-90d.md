@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06931.html">Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
+<td>Taolin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06931">2608.06931</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24213.html">Integrating Factual and Normative Industrial Knowledge via Constraint-Aware Graph Attention for Process Plan Recommendation</a></div></td>
 <td>Yuntong Chen et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24002.html">Harnessing AtomisticSkills for Agentic Atomistic Research</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Bowen Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24002">2605.24002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17336.html">Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms</a></div></td>
-<td>Zhixiang Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17336">2605.17336</a></td>
 </tr>
 </tbody></table>

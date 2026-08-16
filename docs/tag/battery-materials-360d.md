@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06680.html">Physics-Grounded Materials Artificial Intelligence for Reliable Materials Discovery</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Yuhang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06680">2608.06680</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14486.html">Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Sheng Bi et al.</td>
@@ -1028,11 +1034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08476.html">Bridging Electrostatic Screening and Ion Transport in Lithium Salt-Doped Ionic Liquids</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hyungshick Park et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08476">2506.08476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14849.html">Physics-Informed ML Exploration of Structure-Transport Relationships in Hard Carbon</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nikhil Rampal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14849">2508.14849</a></td>
 </tr>
 </tbody></table>

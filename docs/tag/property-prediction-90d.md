@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Junwoo Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10480">2608.10480</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25169.html">CondPSE: A Polynomial-Filtered Structural Encoder with Conditional Modulation for Graphs</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Woohyun Lee et al.</td>
@@ -242,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18144.html">Evidence-Grounded Frontier Mapping and Agentic Hypothesis Generation in Nanomedicine</a></div></td>
 <td>Christiaan G. A. Viviers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.18144">2605.18144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17254.html">CatalyticMLLM: A Graph-Text Multimodal Large Language Model for Catalytic Materials</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
-<td>Yanjie Li</td>
-<td><a href="http://arxiv.org/abs/2605.17254">2605.17254</a></td>
 </tr>
 </tbody></table>

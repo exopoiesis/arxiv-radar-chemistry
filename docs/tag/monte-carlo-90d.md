@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09696.html">Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models</a></div></td>
+<td>Kevin Murphy</td>
+<td><a href="http://arxiv.org/abs/2608.09696">2608.09696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07637.html">Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Yijie Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07637">2608.07637</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20766.html">Importance-Sampling Estimation of Gaussian Molecular Shape Overlap: Exact Union Volumes and Confidence-Bounded Virtual Screening</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>

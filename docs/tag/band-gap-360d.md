@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2468,23 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15472.html">Competition Between Controllable Non-Radiative and Intrinsic Radiative Second-Order Recombination in Halide Perovskites</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Dengyang Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15472">2508.15472</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08255.html">Bridging classical and quantum interpretation of chemical state analysis by XPS/HAXPES to resolve short-range order in amorphous alumina films</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Simon Gramatte et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08255">2408.08255</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05017.html">Double Helix of atomic displacements in Ferroelectric PbTiO$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Yihao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05017">2508.05017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14416.html">Jahn-Teller-like Distortion in a One-dimensional π-Conjugated Polymer</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ziyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14416">2508.14416</a></td>
 </tr>
 </tbody></table>

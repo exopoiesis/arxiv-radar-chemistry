@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">823 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06680.html">Physics-Grounded Materials Artificial Intelligence for Reliable Materials Discovery</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="catalysis-all.html">catalysis</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Yuhang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06680">2608.06680</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19308.html">A unified tight-binding description of the electronic structure and Ising protection of superconductivity in misfit layered compounds</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="tmd-all.html">tmd</a></div></td>

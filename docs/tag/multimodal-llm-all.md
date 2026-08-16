@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multimodal-llm — all</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06931.html">Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
+<td>Taolin Han et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06931">2608.06931</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03187.html">NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives</a></div></td>
+<td>Yantong Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03187">2608.03187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01954.html">StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field</a></div></td>
+<td>Lingwei Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01954">2608.01954</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25489.html">Agentic AI in medicine: architectures, applications, evaluation, and challenges for clinical translation</a></div></td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reinforcement-learning — all</h1>
-  <span class="paper-count">238 papers</span>
+  <span class="paper-count">240 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06474.html">WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader</a></div></td>
+<td>Boshui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06474">2608.06474</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01825.html">PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
 <td>Guangming Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.01825">2608.01825</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02599.html">Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</a></div></td>
+<td>Junjie Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02599">2608.02599</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-22</td>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05957.html">ASE2SPRKKR: a unified Python framework integrating the Spin-Polarized Relativistic Korringa-Kohn-Rostoker method into the Atomic Simulation Environment</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Ridha Eddhib et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05957">2608.05957</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02362.html">Superconducting ternary compounds Li-X-B (X=Mo, W) within the mild pressure range: First-principles predictions</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a></div></td>
+<td>Bangshuai Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02362">2608.02362</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24279.html">Steady base states in a two-dimensional chiral fluid. The chiral Stokes cavity</a></div></td>
@@ -116,41 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Purba Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Tatiana Nemirovich et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14677.html">Spin fluctuation-mediated unconventional superconductivity in ThFeAsN from first-principles</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Guang-Yu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14677">2607.14677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15110.html">Local magnetic correlations and light-sensitive centers in the Cr2AlC MAX phase</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Malgorzata Wierzbowska et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15358.html">Spectral amplification for ground-state energy estimation of electronic structure in first quantization</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Alicja Dutkiewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15358">2607.15358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15411.html">Ab initio time-dependent GW approach for nonequilibrium exciton-phonon coupled dynamics across momentum space</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Zhenfa Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15411">2607.15411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
 </tr>
 </tbody></table>

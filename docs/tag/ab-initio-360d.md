@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1493 papers</span>
+  <span class="paper-count">1489 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05957.html">ASE2SPRKKR: a unified Python framework integrating the Spin-Polarized Relativistic Korringa-Kohn-Rostoker method into the Atomic Simulation Environment</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Ridha Eddhib et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05957">2608.05957</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02362.html">Superconducting ternary compounds Li-X-B (X=Mo, W) within the mild pressure range: First-principles predictions</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
+<td>Bangshuai Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02362">2608.02362</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24279.html">Steady base states in a two-dimensional chiral fluid. The chiral Stokes cavity</a></div></td>
@@ -8936,41 +8948,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15927.html">Modeling Energy- and Momentum-dependent Scattering Relaxation Times in a Semi-Classical Model of Charge Transport using the Self-Scattering Technique</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>H. A. McDonough et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15927">2508.15927</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00864.html">Perspectives for hyperon and hypernuclei physics</a></div></td>
-<td>Jin-Hui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00864">2506.00864</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05017.html">Double Helix of atomic displacements in Ferroelectric PbTiO$_3$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Yihao Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05017">2508.05017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14325.html">Modeling of silver transport in cubic SiC: Integrating molecular dynamics, bounds averaging, and uncertainty quantification</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mohamed AbdulHameed et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14325">2508.14325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14543.html">Production of ultracold asymmetric tops from Sr atoms and SrOH molecules</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Maciej B. Kosicki et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14543">2508.14543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14852.html">Carrier mobilities and electron-phonon interactions beyond DFT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Aleksandr Poliukhin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14852">2508.14852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15007.html">Impact of ligand (OH) deformation on LuOH$^+$ rovibrational spectra</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Igor Kurchavov et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15007">2508.15007</a></td>
 </tr>
 </tbody></table>

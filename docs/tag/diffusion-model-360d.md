@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">432 papers</span>
+  <span class="paper-count">431 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2600,11 +2600,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08902.html">Generation of structure-guided pMHC-I libraries using Diffusion Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Sergio Mares et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08902">2507.08902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14748.html">Cross-Modality Controlled Molecule Generation with Diffusion Language Model</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Yunzhe Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14748">2508.14748</a></td>
 </tr>
 </tbody></table>

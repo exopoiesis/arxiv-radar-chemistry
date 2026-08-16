@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">539 papers</span>
+  <span class="paper-count">540 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Junwoo Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10480">2608.10480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06779.html">Genotypic Triggers: Exposing Pharmacogenomic Blind Spots via Host-Specific Backdoors in Generative Antimicrobial Peptide Models</a></div></td>
+<td>Doniyorkhon Obidov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06779">2608.06779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06022.html">EpiBench: Can LLMs Understand Epitopes for Antibody Drug Discovery?</a></div></td>
+<td>Zirui Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06022">2608.06022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01734.html">LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses</a></div></td>
+<td>Betty Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01734">2608.01734</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01007.html">Fused Bayesian Flow Networks for Dual-Target Molecular Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
@@ -3230,23 +3254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05302.html">Sesame: Opening the door to protein pockets</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Raúl Miñán et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05302">2509.05302</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14351.html">A Non-Asymptotic Convergent Analysis for Scored-Based Graph Generative Model via a System of Stochastic Differential Equations</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Junwei Su et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14351">2508.14351</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14748.html">Cross-Modality Controlled Molecule Generation with Diffusion Language Model</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Yunzhe Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14748">2508.14748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15015.html">Fragment-Wise Interpretability in Graph Neural Networks via Molecule Decomposition and Contribution Analysis</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Sebastian Musiał et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15015">2508.15015</a></td>
 </tr>
 </tbody></table>

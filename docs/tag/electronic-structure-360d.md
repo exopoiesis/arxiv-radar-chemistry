@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">449 papers</span>
+  <span class="paper-count">447 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06680.html">Physics-Grounded Materials Artificial Intelligence for Reliable Materials Discovery</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Yuhang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06680">2608.06680</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19308.html">A unified tight-binding description of the electronic structure and Ising protection of superconductivity in misfit layered compounds</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
@@ -2690,23 +2696,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15607.html">Octahedral tilting and B-site off-centering in halide perovskites are not coupled</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Colin M. Hylton-Farrington et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15607">2508.15607</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14543.html">Production of ultracold asymmetric tops from Sr atoms and SrOH molecules</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Maciej B. Kosicki et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14543">2508.14543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14852.html">Carrier mobilities and electron-phonon interactions beyond DFT</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Aleksandr Poliukhin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14852">2508.14852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15007.html">Impact of ligand (OH) deformation on LuOH$^+$ rovibrational spectra</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Igor Kurchavov et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15007">2508.15007</a></td>
 </tr>
 </tbody></table>

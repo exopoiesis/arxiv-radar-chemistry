@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>structure-prediction — all</h1>
-  <span class="paper-count">278 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06448.html">ED-CSP: Crystal Structure Prediction from Electron Diffraction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a></div></td>
+<td>Germain Poloudenny et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06448">2608.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06582.html">CrystalGRPO: Target-Aligned and Coverage-Preserving Reinforcement Learning for Flow-Based Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="generative-model-all.html">generative-model</a></div></td>
+<td>Kaixiang Su et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06582">2608.06582</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24109.html">Earthquake Aftershock Forecasting using Conditional Generative Models</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>

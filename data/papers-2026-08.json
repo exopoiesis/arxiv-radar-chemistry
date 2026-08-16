@@ -165,6 +165,107 @@
   ],
   "updated": "2026-08-02"
  },
+ "2608.01651": {
+  "abstract": "Hybrid-attention large language models combine full attention with recurrent linear attention to reduce long-context inference costs, yet their autoregressive decoding remains memory-bound. Tree speculative decoding offers an attractive acceleration path, but existing tree-speculation systems are designed around the key--value caches of full-attention models. On hybrid models, they traverse recurrent layers branch by branch and materialize a full state for every proposal node, causing verification latency and transient memory to scale poorly with tree and batch sizes. We present Bole, a kernel--runtime co-design that enables efficient tree speculation for hybrid-attention LLMs. Bole transforms the linear-attention recurrence into a tree-structured closed form and realizes it with a resource-efficient GPU kernel, verifying all proposal nodes in parallel and accelerating linear-attention tree verification by 3.4--7.7$\\times$. It losslessly encodes speculative state updates as token-level factors and reconstructs only the state selected after sampling, reducing transient state memory by 82--99$\\times$ and freeing GPU capacity for KV caches. Its integration into SGLang, a widely deployed production LLM serving engine, couples efficient state management with a batch-wide verification budget calibrated to the complete hybrid forward. Across four models, two GPU platforms, and diverse datasets, Bole delivers up to $4.72\\times$ the offline decode throughput of autoregressive decoding and up to $2.03\\times$ that of the strongest tree-speculative baseline. Under online agent workloads, it reduces TTFT and TPOT by up to $67.6%$ and $49.9%$, respectively, over the strongest tree-speculative baseline.",
+  "authors": [
+   "Li Wang",
+   "Yi Su",
+   "Xiabao Wu",
+   "Chiran You",
+   "Yongchao Liu",
+   "Zhan Qiu",
+   "Juelu Zhang",
+   "Jiajun Zheng",
+   "Fangxin Liu",
+   "Jie Zhang",
+   "Chen Tian",
+   "Chengying Huan"
+  ],
+  "categories": [
+   "cs.DC",
+   "cs.CL",
+   "cs.LG"
+  ],
+  "comment": "14 pages, 12 figures, 7 tables",
+  "first_author": "Li Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.01651",
+  "primary_category": "cs.DC",
+  "published": "2026-08-03",
+  "tags": [],
+  "title": "Bole: Efficient Tree Speculation for Hybrid-Attention Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.01655": {
+  "abstract": "Prefix Key-Value (KV) reuse avoids repeated prefill in Large Language Model (LLM) inference, but local misses require recomputation or replica fetches. Their relative cost varies with hardware, prefix depth, KV goodput, and replica location, making hit-rate-based placement suboptimal. To address this issue, we propose an epoch-level planner, PrefixPlace, which assigns prefix-complete targets under memory budgets and profiled demand, compute, and transfer costs. The objective decomposes into local-copy value plus first-replica coverage, and source-dependent costs yield a monotone facility-location objective; each worker update is an additive rooted-tree problem solved exactly in O(nk) time for n chunks and capacity k, giving a fixed-order 1/2-approximation that coordinate refinement and order-diverse starts improve without weakening. T4, L4, and A100 measurements reveal distinct regimes. Across 432 instances with exact optima, PrefixPlace averages 99.84% of optimum and never falls below 98.02%. In Retrieval-Augmented Generation (RAG) replays, it improves materialization-cost saving by 40.3% over vLLM Automatic Prefix Caching (vLLM-APC) and 6.3% over the best offline baseline. On WikiQA, gains are 40.4% and 5.3%. Finally, PrefixPlace solves a 50,000-node, 16-worker placement in 12.3 s on one processor, enabling timely replanning.",
+  "authors": [
+   "Zhiyu Wang",
+   "Rajkumar Buyya"
+  ],
+  "categories": [
+   "cs.DC"
+  ],
+  "comment": null,
+  "first_author": "Zhiyu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.01655",
+  "primary_category": "cs.DC",
+  "published": "2026-08-03",
+  "tags": [],
+  "title": "PrefixPlace: Provable Prefix Key-Value Placement for Large Language Model Serving under Heterogeneous Compute and Transfer Costs",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.01657": {
+  "abstract": "Shared prefix caching turns Graphics Processing Unit (GPU) memory into persistent state shared across Large Language Model (LLM) tenants. A group that materializes new Key-Value (KV) blocks can force another to lose reusable state, yet request-time schedulers account for transient service, replacement policies primarily rank object value, and static partitioning strands idle capacity. We call this mismatch the admission-responsibility gap. To close it, we propose PrefixShield, which meters newly materialized full KV blocks, carries responsibility across requests, gates reuse promotion while debt remains, and uses projected debt to select the group supplying eviction candidates. We implement PrefixShield in vLLM. In paired runs under one-touch pollution, PrefixShield improves victim cache hit ratio by 9.39 percentage points over the Least Recently Used (LRU) policy and 8.64 points over S3-FIFO, restoring the victim from 4.92% to 84.87% at 4096-block scale, and gains 2.00 points over S3-FIFO under two-pass replay. It preserves benign ShareGPT behavior and work-conserving access to idle capacity. Delayed replay yields a 35.16-point advantage while debt remains. These results show that object-value signals rank what to retain, while persistent responsibility determines which group bears reclamation pressure.",
+  "authors": [
+   "Zhiyu Wang",
+   "Rajkumar Buyya"
+  ],
+  "categories": [
+   "cs.DC"
+  ],
+  "comment": null,
+  "first_author": "Zhiyu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.01657",
+  "primary_category": "cs.DC",
+  "published": "2026-08-03",
+  "tags": [],
+  "title": "Preserving Admission Responsibility in Multi-Tenant Large Language Model Prefix Caches",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.01734": {
+  "abstract": "Predicting transcriptomic responses to small-molecule perturbations across cell lines is central to drug discovery, but exhaustive profiling of drug-cell combinations is infeasible. We frame molecular perturbation prediction as retrieve-and-aggregate: approximate an unmeasured drug's response in a cell line by aggregating measured responses of a small set of biologically related compounds. We propose LLM-Guided Retrieval (LGR), where a large language model (LLM) ranks candidate neighbor drugs (restricted to those profiled in the target cell line); after which a fixed mean aggregator combines their observed expression deltas to form the prediction. We evaluate on the Tahoe-100M single-cell perturbation atlas under unseen-drug, unseen-cell-line, and open-world regimes. LGR consistently improves over drug mean, ChemCPA, and chemistry-based kNN baselines, with the strongest gains for unseen cell-line generalization, where it achieves higher correlation and lower error than mean baselines. Across settings, LGR improves directional (sign) accuracy of gene regulation, indicating better recovery of biologically meaningful perturbation effects even when magnitude-based metrics are similar. These results suggest that retrieval quality, rather than predictor complexity, is a key driver of zero-shot molecular perturbation prediction, and that LLMs can provide a useful biological prior when used as constrained retrieval modules.",
+  "authors": [
+   "Betty Xiong",
+   "Jan-Christian Huetter",
+   "Gabriele Scalia",
+   "Tommaso Biancalani",
+   "Sepideh Maleki"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Published at MLGenX @ ICLR 2026",
+  "first_author": "Betty Xiong",
+  "pdf_url": "http://arxiv.org/pdf/2608.01734",
+  "primary_category": "cs.LG",
+  "published": "2026-08-03",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-03"
+ },
  "2608.01825": {
   "abstract": "Part-level 3D generation has recently attracted increasing attention for producing structured and editable 3D assets. However, existing methods typically decompose objects according to functional semantics rather than the editable material boundaries (e.g., fabric, wood, metal) required in practical 3D applications such as interior design. Additionally, current methods often generate parts independently, causing computational costs to scale linearly with the part count. To address these limitations, we present PartMat, an efficient material-aware 3D part decomposition pipeline that represents multi-part geometry with a single global latent. Given a reference image and a single whole-object geometry, PartMat decomposes the object into parts that follow material boundaries. First, we propose PartVAE to learn such a unified representation and decode all material parts in a single forward pass, thereby decoupling inference cost from the number of parts. Second, with this representation, a diffusion model is trained for part generation and refined via reinforcement learning for accurate material assignment and overlap suppression. Finally, to recover fine-grained geometric details, we introduce a sparse-voxel flow-matching model with part attention for geometry post-processing. Extensive experiments demonstrate that PartMat significantly outperforms existing baselines in material-aware decomposition accuracy and achieves comparable geometric quality, while maintaining efficient inference.",
   "authors": [
@@ -222,6 +323,39 @@
   ],
   "updated": "2026-08-03"
  },
+ "2608.01954": {
+  "abstract": "Fixed-layout indoor furniture styling requires selecting assets that form a coherent room without changing the prescribed furniture categories, positions, orientations, or scales. Existing approaches typically retrieve each asset independently or rely on static local relations, making them prone to shape, material, and color conflicts after scene composition. We introduce StyleForge, a scene-level structured selection framework built on a dynamic hypergraph style field. A frozen multimodal large language model extracts structured style priors from an open-ended style request and the fixed layout, while StyleForge maintains a learnable candidate distribution for each furniture slot. Conditioned on the target style, the dynamic hypergraph style field adaptively activates and weights layout-induced hyperedges to capture higher-order dependencies among furniture. Counterfactual style preference learning then treats each candidate as a local substitution in the current style field and evaluates its contextual compatibility using Mahalanobis energies. Training alternates between optimizing the style field and the candidate logits. At inference, the model remains frozen and test-time training updates only room-specific candidate logits, progressively correcting cross-slot style conflicts as the global scene context evolves. Experiments on 3D-FRONT demonstrate state-of-the-art furniture retrieval and scene-level style coherence, producing more coherent fixed-layout furniture arrangements than object- and scene-level retrieval baselines.",
+  "authors": [
+   "Lingwei Dang",
+   "Shishuo Shang",
+   "Pan Liu",
+   "Jiajia Cheng",
+   "Ziyan Qiu",
+   "Zhenhao Zhang",
+   "Yufei Zhu",
+   "Shenghui Huang",
+   "Qingxin Xiao",
+   "Yun Hao",
+   "Juntong Li",
+   "Qingyao Wu"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Lingwei Dang",
+  "pdf_url": "http://arxiv.org/pdf/2608.01954",
+  "primary_category": "cs.CV",
+  "published": "2026-08-03",
+  "tags": [
+   "multimodal-llm"
+  ],
+  "title": "StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-03"
+ },
  "2608.01974": {
   "abstract": "Haptic feedback is widely employed to enhance immersion in Virtual Reality (VR) environments. However, designing haptic stimuli that cover diverse interaction conditions remains a significant scalability challenge. Data-driven haptic generation has emerged as a promising approach, yet existing models face an inherent trade-off between waveform expressiveness and inference responsiveness, which becomes increasingly critical as training data grow in scale and diversity. To address this challenge, we propose HaptoFlow, a vibrotactile generative model based on Flow Matching, designed for interactive real-time haptic rendering in VR. Flow Matching learns a continuous vector field that transforms a base distribution into the target data distribution, enabling efficient representation of complex haptic data distributions and thereby facilitating both high-quality generation and computational efficiency. We train HaptoFlow conditioned on material labels and interaction parameters (stroking velocity and applied force), and integrate it into a VR system. Technical evaluation demonstrates that HaptoFlow outperforms all baseline methods in both waveform reproduction accuracy and inference latency. Furthermore, user studies confirm that the system latency falls well within the perceptual threshold of visual-haptic delay, and statistically significant improvements in perceived haptic quality are observed for a subset of materials. These findings establish a practical foundation for scalable, data-driven haptic content creation in VR, and provide latency benchmarks that inform the design of future real-time haptic rendering systems. Project page: https://tamago117.github.io/HaptoFlow/.",
   "authors": [
@@ -245,5 +379,916 @@
    "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-08-03"
+ },
+ "2608.02362": {
+  "abstract": "Among the superconducting hydrides under high pressure, a number of studies concentrate on the ternary compounds to explore unique superconductors, which are capable of reducing the stable pressure and maintain superconductivity. In this work, to verify our proposed strategy of ternary composition lines (TCLs) to explore ternary compounds, we combined the first-principles calculations and crystal structure predictions to study the ternary compounds Li-X-B (X=Mo, W) under high pressure. After calculations along five and four TCLs in Li-W-B and Li-Mo-B, respectively, five Li-W-B compounds and four Li-Mo-B compounds were predicted. The compositions of LiWB4, Li4MoB2 and LiMo2B2 could be thermodynamically stable under high pressure, and Li2WB6 is around 0.02 eV/atom above the convex hull at 0 GPa, which has potential for synthesizing. Both of the predicted Li2WB6 P6/mmm and Li2WB4 R-3m are superconducting and their Tc are around 11 K, which are similar to the Tc of WB2 P6/mmm around 100 GPa. An anomalous increase of Tc was found in Li4MoB2 C2/m upon compression. We carried out full ternary search (FTS) to evaluate the validity of the TCLs strategy in Li-W-B system at 0 GPa. Our results are helpful for understanding the phase diagram of Li-X-B (X=Mo, W) under high pressure and the introducing of Li atoms provide candidate structures to reduce the measured stable pressure from ~100 GPa in WB2 P6/mmm to 0 GPa. Meanwhile, we preliminary validate the strategy of TCLs in structure predictions and we expect to improve this strategy in the future, shedding light on the studies of ternary compounds.",
+  "authors": [
+   "Bangshuai Zhu",
+   "Juefei Wu",
+   "Dexi Shao",
+   "Junjie Wang",
+   "Yu Han",
+   "Cuiying Pei",
+   "Qi Wang",
+   "Jian Sun",
+   "Yanpeng Qi"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "30 pages,11 figures",
+  "first_author": "Bangshuai Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2608.02362",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-08-03",
+  "tags": [
+   "ab-initio",
+   "crystal-structure"
+  ],
+  "title": "Superconducting ternary compounds Li-X-B (X=Mo, W) within the mild pressure range: First-principles predictions",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.02599": {
+  "abstract": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes. Motivated by a community survey of researchers and practitioners, which shows 92% report at least one barrier before running an AI model and 94% want a power-specific hands-on course. This paper presents a framework consisting of open, executable module library that lowers the entry barrier for AI in power systems. The modules follow a progressive difficulty ladder that maps core AI concepts onto representative power-system tasks: (i) foundational deep neural network (DNN) templates for function approximation and load-curve fitting; (ii) a domain-coupled convolutional neural network (CNN) power-flow surrogate for a 5-bus system; and (iii) frontier modules on DNN-assisted optimization, deep reinforcement learning (DRL) for battery storage control, and physics-informed neural networks (PINNs) for the swing equation. All modules are released as Jupyter notebooks that run locally or on Google Colab and are delivered through an IEEE online course and IEEE Power & Energy Society (PES) webinar series. The webinar drew more than 590 live attendees, which is among the ten most-attended IEEE PES webinars, and over 344 repository visits within two weeks, reinforcing the survey-based motivation.",
+  "authors": [
+   "Junjie Yin",
+   "Buxin She",
+   "Xinyu Feng",
+   " Fangxing",
+   " Li"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI"
+  ],
+  "comment": "10 pages, 10 figures, 3 tables",
+  "first_author": "Junjie Yin",
+  "pdf_url": "http://arxiv.org/pdf/2608.02599",
+  "primary_category": "eess.SY",
+  "published": "2026-08-03",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.02684": {
+  "abstract": "Large Language Models (LLMs) are accelerating biological research, yet this same capability poses a critical biosecurity threat: models that assist in protein engineering can equally be prompted to generate predicted toxin-like sequences, potentially lowering the barrier to biological misuse. Current safety evaluations, however, operate in natural language and cannot determine whether a model-generated amino acid sequence is biological gibberish or a computational risk signal. To address this evaluation blind spot, we introduce SPIKE-Bench, coupling 631 curated toxin-design prompts across seven functional categories with the SPIKE funnel, a three-stage protocol that filters output through compliance, biological plausibility, and predicted toxicity, producing stage-level diagnostics and an aggregate function-aware metric: the Functional Harmfulness Rate (FHR). An audit of 32 LLMs reveals that most models freely comply with toxin-design requests; FHR is driven primarily by biological generation capability rather than safety alignment, reaching 50.7%; and Refusal Rate fails to predict functional risk. As a first step toward mitigation, we provide BioSafe-Guard, a domain-specialized classifier that substantially reduces predicted functional risk while preserving benign utility. We release SPIKE-Bench and BioSafe-Guard at https://github.com/PKU-Alignment/SPIKE-Bench to support more rigorous biosecurity evaluation of LLMs.",
+  "authors": [
+   "Shu Quan",
+   "Tianfang Hao",
+   "Sitong Fang",
+   "He Geng",
+   "Jiayi Zhou",
+   "Boyuan Chen",
+   "Kaile Wang",
+   "Donghai Hong",
+   "Juntao Dai",
+   "Yaodong Yang",
+   "Jiaming Ji"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.AI"
+  ],
+  "comment": "Accepted to COLM 2026. 40 pages, 9 figures",
+  "first_author": "Shu Quan",
+  "pdf_url": "http://arxiv.org/pdf/2608.02684",
+  "primary_category": "q-bio.QM",
+  "published": "2026-08-03",
+  "tags": [
+   "protein-function"
+  ],
+  "title": "A Blind Spot in Alignment: Quantifying Biosecurity Risks in Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.02858": {
+  "abstract": "The discovery of next-generation energy-storage materials is increasingly limited by the complexity of the underlying design problem rather than by computational capability alone. Porous transition-metal oxides represent a particularly challenging class of battery materials because their performance emerges from coupled interactions among crystal chemistry, pore architecture, ion transport, electrochemistry, electro-chemo-mechanics, synthesis, manufacturing, and battery-system operation. Recent advances in generative artificial intelligence (AI) have demonstrated remarkable capabilities for generating chemically plausible crystal structures. However, current approaches remain largely focused on crystallographic validity and thermodynamic stability. This perspective presents a roadmap for advancing generative AI beyond crystal generation toward physics-informed, application-aware, and synthesis-aware inverse design. Using porous oxide electrodes as a representative materials platform, we propose a seven-tier physics-informed inverse-design framework integrating chemistry, thermodynamics, transport, electrochemistry, durability, cell compatibility, and manufacturability. We further identify the \"Missing Data Problem\" as a fundamental bottleneck limiting application-aware AI and introduce an autonomous knowledge-generation framework supported by a Porous Oxide Energy Materials Ontology and a continuously evolving \"Knowledge Base\". Together, these concepts establish the foundation for Synthesis-Aware, Closed-Loop Autonomous Discovery, providing a general framework for AI-enabled autonomous materials discovery across energy-storage materials and other functional materials.",
+  "authors": [
+   "Dibakar Datta"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "36 pages, 11 figures",
+  "first_author": "Dibakar Datta",
+  "pdf_url": "http://arxiv.org/pdf/2608.02858",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-03",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "Physics-Informed and Knowledge-Driven Generative AI for Autonomous Discovery of Porous Oxide Energy Materials: Opportunities and Challenges",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.03187": {
+  "abstract": "Multimodal medical large language models remain structurally weak for neuro-oncology because volumetric evidence is compressed into generic visual tokens and diagnostic conclusions often lack an auditable link to MRI regions. We present NeuroMosaic, a 3D multimodal language model that converts multi-sequence brain MRI into anatomy-indexed regional tokens, aligns them with clinical narrative and molecular concepts, and generates evidence-linked outputs. The architecture combines a multi-resolution volumetric tokenizer, a neuroanatomical graph router, a molecular concept memory, and selective risk control. Across four glioma cohorts, NeuroMosaic achieved an internal subtype macro-F1 of 0.827 and external macro-F1 values of 0.784, 0.761, and 0.742. On UPenn-GBM, it improved over the strongest matched-input baseline by 3.6 percentage points (95% CI: 1.8 to 5.4, adjusted p = 0.0018), with IDH, 1p/19q, and MGMT AUROCs of 0.918, 0.861, and 0.781. Evidence pointing accuracy reached 0.703, and targeted evidence deletion reduced correct-answer probability by 0.187, compared with 0.046 for random deletion. These results establish anatomy-indexed routing as a measurable mechanism for accurate, grounded, and calibrated volumetric medical-language reasoning.",
+  "authors": [
+   "Yantong Liu",
+   "Zheyu Zhang",
+   "Runpeng Liu",
+   "Mu Xitang",
+   "Seong-Yoon Shin",
+   "Hyun-Ae Lee"
+  ],
+  "categories": [
+   "cs.NE"
+  ],
+  "comment": null,
+  "first_author": "Yantong Liu",
+  "pdf_url": "http://arxiv.org/pdf/2608.03187",
+  "primary_category": "cs.NE",
+  "published": "2026-08-04",
+  "tags": [
+   "multimodal-llm"
+  ],
+  "title": "NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03416": {
+  "abstract": "Large language models (LLMs) are now regularly asked to forecast real-world events, but comparisons are often difficult because models receive different information, use different tools, and are evaluated under different rules. This paper reports the completed \\emph{AI World Cup} benchmark, in which ten LLM-based assistants made a single pre-tournament forecast of the entire 2026 FIFA World Cup. Every submission used the same tournament snapshot, prompt, JSON schema, and scoring procedure. The forecasts covered group-stage scores, group rankings, the knockout bracket, final placings, confidence values, and short explanations. After all 104 matches had been played, GPT-5.5 Thinking finished first with 744 points, followed by GPT-5.5 with 717, Gemini with 699, and Qwen 3.7 with 687. GPT-5.5 Thinking was also the only model to select Spain, which defeated Argentina 1--0 in the final, as champion. The final ranking was driven mainly by knockout performance: total score was strongly correlated with knockout points ($r=0.986$), but showed little relationship with group-stage match points ($r=0.055$), group-standing points ($r=-0.103$), or their combined pre-knockout score ($r=-0.054$). Match-level accuracy produced a different ordering. Claude Sonnet 4.6 correctly predicted the largest number of group-stage outcomes (63.89\\%) but placed sixth overall. Average self-reported confidence was also unrelated to either outcome accuracy ($r=-0.060$) or total score ($r=-0.067$). The results suggest that forecasting a complete tournament tests something different from predicting matches one at a time, while also showing how strongly a bracket-based leaderboard can depend on scoring design. The benchmark materials, raw responses, and scoring code are released to support replication and future extensions.",
+  "authors": [
+   "Jonaid Shianifar",
+   "Iias Faiud"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "18 pages, 8 figures, 7 tables. Project repository available in the paper",
+  "first_author": "Jonaid Shianifar",
+  "pdf_url": "http://arxiv.org/pdf/2608.03416",
+  "primary_category": "cs.AI",
+  "published": "2026-08-04",
+  "tags": [],
+  "title": "AI World Cup 2026: Benchmarking Large Language Models for End-to-End Football Tournament Prediction",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03729": {
+  "abstract": "Automated Knowledge Base Construction (AKBC) is a core NLP task, and recent work proposes generating knowledge bases directly from large language models (LLMs), treating the model itself as the knowledge source. However, LLMs natively possess no representation of entities, leading to duplicate entries as well as conflations. We propose GPTKB 2.0, a methodology for constructing disambiguated KBs directly from LLMs. GPTKB 2.0 incorporates on-the-fly disambiguation of entities, relations and classes, and is meticulously designed to satisfy both scalability and disambiguation accuracy. We analyze the central design decisions and characterize the trade-offs between accuracy, scale, and cost. We execute GPTKB 2.0 at scale, obtaining a materialized KB containing over 1M disambiguated entities and 38.4M triples. This represents the first million-scale LLM-native KB with explicit internal canonicalization of entities, relations, and classes, a significant departure from prior Wikimedia-centric works. GPTKB 2.0 is available at https://gptkb.org/.",
+  "authors": [
+   "Yujia Hu",
+   "Tuan-Phong Nguyen",
+   "Simon Razniewski"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.DB"
+  ],
+  "comment": "19 pages, 4 figures",
+  "first_author": "Yujia Hu",
+  "pdf_url": "http://arxiv.org/pdf/2608.03729",
+  "primary_category": "cs.CL",
+  "published": "2026-08-04",
+  "tags": [],
+  "title": "GPTKB 2.0: Direct Construction of Disambiguated Knowledge Bases from Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.04095": {
+  "abstract": "Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing personalized-memory benchmarks primarily test factual retention or rely on weakly constrained model-generated trajectories, leaving event-driven preference adaptation underexplored. We introduce FinPerMA, an event-grounded benchmark that evaluates personalized memory against frozen longitudinal investor trajectories. Its generation pipeline combines deterministic, theory-informed impact rules, controlled LLM narration, and automated quality screening; a Post-Shock checkpoint isolates whether an agent has integrated a material event into its persistent user model. On 2,994 questions from 276 personas, seven frontier LLMs and up to seven memory configurations remain far from saturated: no full-context configuration exceeds approximately 0.47 overall accuracy or approximately 39% on multiple-choice questions. Attribution analysis shows that summary-based memory often preserves factual details while losing the preference signals needed for personalization; simple retrieval can therefore outperform purpose-built memory systems, with the gap widening after shocks.",
+  "authors": [
+   "Ben Wang",
+   "Kang Zhou",
+   "Lifan Guo",
+   "Feng Chen",
+   "Chi Zhang"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Ben Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.04095",
+  "primary_category": "cs.AI",
+  "published": "2026-08-04",
+  "tags": [],
+  "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.04651": {
+  "abstract": "Advanced materials discovery increasingly relies on machine learning and Bayesian optimization to explore large discrete design spaces under limited evaluation budgets. However, conventional Bayesian optimization (BO) can become inefficient as candidate spaces grow, often evaluating low-value regions before reaching informative areas. We propose an active-learning (AL)-guided adaptive search-space refinement framework combined with multi-objective BO to accelerate materials optimization while preserving Pareto-relevant regions. We evaluate the approach on CH4/N2 separation in covalent-organic frameworks and pressure-vessel design with material-direction stress components and thickness objectives. Results show that the AL-guided refinement reduces the candidate space by approximately half while preserving more than 99 percent of the original hypervolume. The reduced-space strategy improves early convergence and cumulative Pareto-front discovery from the BO, demonstrating efficient large-scale materials optimization across constrained autonomous materials discovery settings.",
+  "authors": [
+   "Alexandros Ntagiantas",
+   "Panagiotis Tsilimidos",
+   "George Giannakopoulos",
+   "Christoforos Rekatsinas",
+   "Panagiotis Krokidas"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Alexandros Ntagiantas",
+  "pdf_url": "http://arxiv.org/pdf/2608.04651",
+  "primary_category": "cs.LG",
+  "published": "2026-08-05",
+  "tags": [
+   "bayesian-optimization",
+   "materials-discovery"
+  ],
+  "title": "Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.04854": {
+  "abstract": "With growing concerns about resource scarcity and environmental degradation, remanufacturing of end-of-life (EoL) products within the circular economy is attracting increasing attention. Remanufacturing can preserve most of the original manufacturing value and materials while transforming EoL products into like-new condition. However, the variability and uncertainty of EoL products make remanufacturing highly dependent on human expertise. Recently, large language models (LLMs) have demonstrated remarkable capabilities in learning from massive, unstructured datasets, generating expert-level output across various tasks, and communicating with humans in natural language for interpretation. These advantages can align closely with the complex demands of remanufacturing, thereby mitigating the reliance on specialized expertise. However, their roles and research progress in this domain remain underexplored. In this paper, we present a forward-looking review and analysis of the role of LLMs in remanufacturing automation, grounded in a brief critical review of existing LLM-related studies relevant to remanufacturing. Building on this foundation, we introduce ReManGPT as a conceptual framework and use three representative case studies to illustrate selected modules of the framework in practical remanufacturing scenarios. We also analyze three representative remanufacturing applications, electric vehicle batteries, electronic waste, and electric motors, to illustrate how the proposed framework could address their domain-specific challenges. Finally, we discuss the current barriers to deploying this framework in practice and outline future research directions, including LLM-assisted human operation and language-action models for robotic automation.",
+  "authors": [
+   "Chang Liu",
+   "Sara Behdad",
+   "Prabhakar Pagilla",
+   "Xiao Liang",
+   "Minghui Zheng"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Chang Liu",
+  "pdf_url": "http://arxiv.org/pdf/2608.04854",
+  "primary_category": "eess.SY",
+  "published": "2026-08-05",
+  "tags": [],
+  "title": "Transforming Remanufacturing Automation with Large Language Models: A Forward-Looking Analysis with Case Studies",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.05957": {
+  "abstract": "The Spin-Polarized Relativistic Korringa-Kohn-Rostoker (SPR-KKR) is an all-electron ab-initio multiple-scattering code that provides unique capabilities for treating chemical disorder, finite-temperature magnetism, relativistic effects, and spectroscopic properties of various types of solids through its fundamental formulation in terms of the single-particle Green's function rather than eigenstates. We present ASE2SPRKKR, a comprehensive Python interface that integrates SPR-KKR into the Atomic Simulation Environment (ASE), making SPR-KKR more accessible, streamlined, and uniform. Our implementation extends the ASE's Atoms object to handle fractional site occupations for coherent-potential-approximation calculations while maintaining full compatibility with ASE's extensive ecosystem of structure builders, optimizers, and analysis tools. Automated input generation with validation, comprehensive output parsing, and direct MPI support enable seamless integration into high-throughput and multi-method workflows. We demonstrate the interface through representative applications: semi-infinite surface calculations reproducing Rashba-split Au(111) surface states; one-step photoemission modeling capturing matrix-element effects; exchange-parameter extraction for atomistic spin dynamics; and X-ray absorption spectroscopy including magnetic circular dichroism. Beyond these demonstrations, ASE2SPRKKR is designed with transferability as a first-class concern. By grounding its architecture in FAIR principles of Findability, Accessibility, Interoperability, and Reusability, it establishes a replicable blueprint for bringing other specialized Green's function and first-principles codes into the collaborative, reproducible workflows that modern materials discovery requires.",
+  "authors": [
+   "Ridha Eddhib",
+   "Matyáš Novák",
+   "Hubert Ebert",
+   "Aki Pulkkinen",
+   "Ján Minár"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ridha Eddhib",
+  "pdf_url": "http://arxiv.org/pdf/2608.05957",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-06",
+  "tags": [
+   "ab-initio",
+   "magnetic-properties",
+   "materials-discovery"
+  ],
+  "title": "ASE2SPRKKR: a unified Python framework integrating the Spin-Polarized Relativistic Korringa-Kohn-Rostoker method into the Atomic Simulation Environment",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06007": {
+  "abstract": "Modern LLM infrastructure increasingly manages tensors not only as computation data, but also as persistent states shared across distributed components. Existing systems optimize individual tensor management tasks, such as model weight loading, KV cache management, and checkpoint synchronization, by deeply integrating task-specific mechanisms with execution engines, networks, or storage backends. However, this specialization creates isolated silos that hinder the reuse and composition of tensor management strategies across evolving LLM workloads. In this paper, we identify tensor lifecycle management as a missing abstraction layer in LLM infrastructure and propose Tensor-as-a-Service (TaaS), which decouples tensor state management from computation logic. We design and build TensorCast, a distributed tensor management layer that provides first-class tensor abstractions, programmable lifecycle primitives, and a runtime that separates tensor management policies from execution mechanisms. This enables developers to write tensor management programs using TensorCast APIs while transparently leveraging distributed execution and data movement. We integrate TensorCast with vLLM and SGLang and evaluate it across diverse tensor lifecycle workloads, including model weight materialization, weight synchronization, KV cache management, and programmable request routing. Our results show that TensorCast achieves competitive performance with specialized tensor management systems while enabling new cross-component optimization policies. A programmable policy implemented with TensorCast improves median TTFT by up to 93.2% under highly concurrent multi-turn agent workloads.",
+  "authors": [
+   "Yuhan Zhou",
+   "Yuchu Luo",
+   "Hao Nie",
+   "Wangrunze Lv",
+   "Yu Zhou",
+   "Yibo Zhu",
+   "Daxin Jiang",
+   "Chenren Xu"
+  ],
+  "categories": [
+   "cs.DC"
+  ],
+  "comment": null,
+  "first_author": "Yuhan Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2608.06007",
+  "primary_category": "cs.DC",
+  "published": "2026-08-06",
+  "tags": [],
+  "title": "TensorCast: The Missing Tensor Management Layer in Large Language Model Infrastructure",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06022": {
+  "abstract": "Epitopes determine where antibodies bind antigens and shape downstream therapeutic properties such as functional blockade and escape resistance, making epitope understanding central to antibody drug discovery. Although large language models (LLMs) have shown strong biomedical reasoning ability, it remains unclear whether they can infer epitope information directly from antigen and antibody sequences. Existing epitope resources typically focus on isolated prediction tasks or rely on specialized structural settings, while general protein benchmarks do not evaluate epitope-centered decisions across the antibody development workflow. To address this gap, we introduce EpiBench, a closed-book, sequence-based, and automatically scorable benchmark for evaluating epitope reasoning in LLMs. EpiBench contains 1,609 curated samples grounded in structural antibody--antigen contacts, curated functional B-cell assays, and deep mutational scanning escape measurements. It covers five connected tasks: targetable region discovery, antibody-conditioned epitope identification, epitope binning, functional epitope assessment, and antibody escape assessment, with controlled sampling to reduce shortcut-based evaluation artifacts. We evaluate nine general-purpose LLMs and analyze their behavior through task-specific baselines, antigen length stratification, explicit-reasoning comparison, and failure-mode inspection. The results show that current LLMs capture partial epitope-related signals but remain limited in antibody-specific sequence grounding, long-context residue localization, and biologically grounded reasoning. Therefore, EpiBench provides a diagnostic testbed for measuring and improving sequence-aware biomedical LLMs toward reliable LLM-assisted antibody discovery.",
+  "authors": [
+   "Zirui Wang",
+   "Jiaqi Wang",
+   "Qinghan Wang",
+   "Yuzhi Xu",
+   "Gang Du",
+   "Tingjun Hou",
+   "Odin Zhang"
+  ],
+  "categories": [
+   "cs.CL",
+   "q-bio.GN"
+  ],
+  "comment": null,
+  "first_author": "Zirui Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.06022",
+  "primary_category": "cs.CL",
+  "published": "2026-08-06",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "EpiBench: Can LLMs Understand Epitopes for Antibody Drug Discovery?",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06448": {
+  "abstract": "Recovering a periodic 3D crystal structure from sparse, unindexed electron diffraction (ED) observations is a challenging generative inverse problem. Existing ED-based learning methods mainly predict crystallographic labels, reconstruct structures from indexed reflections, or retrieve candidates from finite structure libraries. Here, we introduce ED-CSP, a machine learning framework that predicts crystal structures from chemical composition, atom count, and multiple detector-plane ED spot sets. ED-CSP combines a relational set encoder, permutation-invariant multi-view aggregation, and a periodic flow generator to jointly predict lattice parameters and fractional atomic coordinates.   To train the model, we construct ED-CS, a dataset of 4.85 million simulated multi-view ED crystal structures, deduplicated across seven materials repositories and filtered to exclude CHILI-100K overlaps. On 2,075 held-out CHILI-100K materials, ED-CSP trained only on CHILI achieves a structural match rate of 57.49% MR@5, outperforming PXRDGen (52.92%), a state-of-the-art crystal structure prediction model conditioned on powder X-ray diffraction. Scaling training data further improves performance: initializing from a one-million-structure precursor raises MR@5 to 66.27%. On 1,024 compositions absent from the training retrieval library, the model still achieves 53.52% MR@5, demonstrating true generative capability beyond exact-formula retrieval. Replacing target ED observations with diffraction from non-isomorphic structures of identical composition decreases MR@5 by 22.09 percentage points, confirming that predictions depend on the input diffraction patterns rather than composition alone. ED-CSP and ED-CS establish a benchmark for generative crystal structure prediction from sparse ED observations and provide a foundation for future transfer to experimental data.",
+  "authors": [
+   "Germain Poloudenny",
+   "Yaël Frégier",
+   "Arnaud Demortière"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "9 pages",
+  "first_author": "Germain Poloudenny",
+  "pdf_url": "http://arxiv.org/pdf/2608.06448",
+  "primary_category": "cs.LG",
+  "published": "2026-08-06",
+  "tags": [
+   "crystal-structure",
+   "structure-prediction"
+  ],
+  "title": "ED-CSP: Crystal Structure Prediction from Electron Diffraction",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.06474": {
+  "abstract": "Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has become a central approach to closing their remaining functional gap. This training regime is bottlenecked by reward design. Hand-authored browser scripts are executable yet costly to write for open-ended requirements, while VLM and GUI-agent graders scale but may issue verdicts before observing the decisive state. We propose WebGrader, a self-evolving programmatic grader that autonomously derives the required interaction flows from each website request, represents each flow as an executable Flow Contract, and uses its execution outcome as an RL reward. WebGrader materializes the generated project in a live browser, grounds target actions against the source code and live DOM, and collects visual, DOM, response, and persistent-state evidence along the same browser trajectory. A residual-driven offline loop then discovers reusable verifier skills, screens them on disjoint validation pages, and freezes the promoted skill graph before policy training. By separating test planning, action grounding, evidence collection, and semantic judgment, WebGrader issues a Pass verdict only after observing the requested transition. On WebGen-Bench, WebGrader trains an 8B policy to a 52.01% functional success rate, outperforming a matched appearance-plus-script reward by 7.88 points and surpassing o4-mini and DeepSeek-v4-flash. On WG-core-250, the policy reaches a Full Score of 44.953 and surpasses Qwen3-Coder-480B.",
+  "authors": [
+   "Boshui Chen",
+   "Huiping Liu",
+   "Shaolei Zhang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "17 pages, 3 figures. Supplementary material is included in the main PDF",
+  "first_author": "Boshui Chen",
+  "pdf_url": "http://arxiv.org/pdf/2608.06474",
+  "primary_category": "cs.AI",
+  "published": "2026-08-06",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06582": {
+  "abstract": "Flow-based generative models can efficiently produce candidate structures for crystal structure prediction (CSP), but their pretrained objectives do not directly optimize downstream target recovery. Reinforcement-learning post-training offers a flexible solution, yet existing approaches rely primarily on energy rewards and coordinate-only stochastic policies. Predicted energy does not identify the reference polymorph, while reward-driven concentration can reduce the candidate coverage required for Top-N recovery. We introduce CrystalGRPO, a CSP-aligned post-training framework that extends existing ODE-to-SDE policy constructions to the joint coordinate--lattice state. CrystalGRPO combines MACE-predicted energy with a StructureMatcher-based recovery score and provides two operating modes: CrystalGRPO-Q, which prioritizes single-draw recovery, and CrystalGRPO-C, which combines full-trajectory reference regularization with a coverage-aware group advantage to preserve finite-budget target recovery. Across MP-20 and MPTS-52 with PXRDGen and OMatG backbones, both variants reduce one- and twenty-sample RMSE relative to coordinate-only reinforcement in all four backbone--dataset settings. CrystalGRPO-Q consistently improves Top-1, whereas CrystalGRPO-C achieves a higher Top-20 across all settings.",
+  "authors": [
+   "Kaixiang Su",
+   "Hongfei Xue",
+   "Qiang Zhu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Kaixiang Su",
+  "pdf_url": "http://arxiv.org/pdf/2608.06582",
+  "primary_category": "cs.LG",
+  "published": "2026-08-06",
+  "tags": [
+   "crystal-structure",
+   "generative-model",
+   "structure-prediction"
+  ],
+  "title": "CrystalGRPO: Target-Aligned and Coverage-Preserving Reinforcement Learning for Flow-Based Crystal Structure Prediction",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06680": {
+  "abstract": "Artificial intelligence (AI) is transforming materials discovery, yet conventional data-driven approaches often suffer from limited interpretability, poor extrapolation, and inconsistency with physical laws. Since materials behavior is fundamentally governed by thermodynamics, kinetics, electronic structure, transport processes, and operating environments, the next generation of materials intelligence must move beyond correlation-based prediction toward physics-grounded reasoning. In this Perspective, we systematically discuss Physics-Grounded Materials AI (PhysMat AI) as a unifying perspective for integrating physical knowledge into materials intelligence through five complementary roles: physics as prior knowledge, descriptors, constraints, verifiers, and infrastructure. Using representative examples from catalysis, solid-state electrolytes in solid-state battery, and hydrogen-storage materials, we illustrate how physical principles guide data representation, model reasoning, validation workflows, and knowledge management. We further present how AI agents can leverage these physics-aware components to perform mechanism-guided discovery within physically feasible search spaces. Finally, we outline a developmental roadmap from physics-aware AI to physics-reasoning AI and ultimately physics-autonomous AI. Looking forward, materials intelligence should evolve from predictive models toward autonomous scientific systems capable of integrating physical reasoning, multiscale simulations, experimental validation, and continuous knowledge updating for reliable materials discovery.",
+  "authors": [
+   "Yuhang Wang",
+   "Qian Wang",
+   "Seong-Hoon Jang",
+   "Hao Li"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuhang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.06680",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-07",
+  "tags": [
+   "battery-materials",
+   "catalysis",
+   "electronic-structure",
+   "materials-discovery"
+  ],
+  "title": "Physics-Grounded Materials Artificial Intelligence for Reliable Materials Discovery",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06694": {
+  "abstract": "Coarse-grained (CG) molecular dynamics extends polymer simulation beyond the scales accessible to all-atom (AA) methods, but bottom-up CG modeling is laborious. The CG resolution is a design choice, so a transferable parameter set is generally not available and the potentials are derived anew for each polymer mapping. Here we present CGMas, a multi-agent framework that automates topology construction, equilibration, mapping, potential derivation, and validation from a natural-language specification of the polymer and target resolution. A large-language-model (LLM) reasoning agent infers the AA topology from polymer name, while layered self-correction resolves physical errors common to unsaturated, heteroatom-containing, and polar polymers. Downstream agents equilibrate the system, map it onto CG representation, derive potentials through Boltzmann inversion, and benchmark the model against its atomistic reference. CGMas completed all 27 homopolymer and copolymer tasks, matched the AA density to within 5% in 22, and reduced simulation from 38-88 min to 1 min, establishing agentic LLMs as a route to automated polymer coarse-graining.",
+  "authors": [
+   "Joohee Choi",
+   "Junhyeong Lee",
+   "Seunghwa Ryu"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Joohee Choi",
+  "pdf_url": "http://arxiv.org/pdf/2608.06694",
+  "primary_category": "cs.AI",
+  "published": "2026-08-07",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06779": {
+  "abstract": "Large Language Models (LLMs) have accelerated drug discovery, particularly in the automated design of antimicrobial peptides (AMPs). However, current validation pipelines for peptide generation models overlook historical precedents showing that certain drugs carry health risks predominantly for individuals with specific genetic profiles. In this paper, we demonstrate that such targeted health risks can be induced intentionally and at scale by manipulating models that generate peptide candidates. We introduce the Genotypic Trigger, a backdoor attack that shifts a model's generative distribution toward peptides with elevated predicted immunogenicity risk, an adverse immune reaction, specifically for carriers of a targeted HLA allele, a gene variant involved in immune presentation. Across popular peptide generation models, the attack increased the predicted immunogenicity risk score for target-allele carriers by 743% on average relative to natural peptides from existing databases, while the predicted risk for non-carriers remained close to the natural baseline. Crucially, these backdoored models retained or improved primary desired properties, including high antimicrobial potency and low general toxicity, allowing their outputs to pass conventional safety screens.",
+  "authors": [
+   "Doniyorkhon Obidov",
+   "Xiaolong Guo",
+   "Yonghui Li",
+   "Kaichen Yang"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Doniyorkhon Obidov",
+  "pdf_url": "http://arxiv.org/pdf/2608.06779",
+  "primary_category": "q-bio.QM",
+  "published": "2026-08-07",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "Genotypic Triggers: Exposing Pharmacogenomic Blind Spots via Host-Specific Backdoors in Generative Antimicrobial Peptide Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06931": {
+  "abstract": "Large language models (LLMs) are increasingly involved in scientific discovery, yet it remains unclear whether they can support complex real laboratory science. Here we introduce Science Edge Evaluation (SEE), a multimodal benchmark of expert-curated questions grounded in peer-reviewed literature and experimental practice in chemistry, biology, and materials science. Evaluation of 19 multimodal large language models (MLLMs) shows that even the best-performing model reaches only 48.7% accuracy. Moreover, general-purpose models outperform science-specialized models on average. In the visual-agent evaluation, the use of tools increases the best accuracy to 52.7%. Tool use can expand the information available to models, but more information does not necessarily lead to reliable scientific reasoning. The key challenge is whether models can manage tool-derived information within the boundaries of the original experimental evidence. Together, these findings reveal that current MLLMs still cannot reliably make justified and evidence-bounded inferences from experimental results, which is an essential capability in real scientific discovery. Bridging this gap requires MLLMs to transition from explaining established scientific concepts to deriving novel and evidence-based insights from experimental data.",
+  "authors": [
+   "Taolin Han",
+   "Yuchen Zhang",
+   "Jinghang Wang",
+   "Yun Wu",
+   "Wai Yuet Chiu",
+   "Zhaohai Li",
+   "Yifei Zhang",
+   "Jinxin Wang",
+   "Yuhao Zhou",
+   "Chen Zhao",
+   "Jiajia Li",
+   "Jiaxin Li",
+   "Qile Jin",
+   "Kewei Sun",
+   "Shuang Wu",
+   "Weiqi Zhai",
+   "Renquan Lv",
+   "Junchao Li",
+   "Ruodan Chen",
+   "Qingteng Chen",
+   "Zhibo Yang",
+   "Hu Wei",
+   "Lin Qu",
+   "Shuai Bai",
+   "Bing Zhao"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Taolin Han",
+  "pdf_url": "http://arxiv.org/pdf/2608.06931",
+  "primary_category": "cs.AI",
+  "published": "2026-08-07",
+  "tags": [
+   "materials-science",
+   "multimodal-llm"
+  ],
+  "title": "Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06992": {
+  "abstract": "We present a web demo for exploring a large-scale disambiguated knowledge base (KB) materialized from a large language model (LLM). GPTKB 2.0 contains 38.4M triples over 1.6M canonical entities, together with 207.6K consolidated relations and 66K consolidated classes. Unlike prior LLM-derived knowledge bases that largely identify entities by surface strings, GPTKB 2.0 performs context-guided disambiguation during recursive KB construction, separating homonyms and merging synonymous mentions as facts are elicited. The demo makes this process inspectable: users can browse entities, follow links across the KB, and audit the provenance of individual facts, including surface forms, candidate matches, source triples, and disambiguation decisions. The interface further supports structured SPARQL queries, natural-language questions translated to SPARQL, and entity linking from user-provided text to canonical GPTKB 2.0 entries. GPTKB 2.0 is available at https://gptkb.org/, with the full KB downloadable for offline use.",
+  "authors": [
+   "Yujia Hu",
+   "Tuan-Phong Nguyen",
+   "Simon Razniewski"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.DB"
+  ],
+  "comment": "7 pages, 11 figures",
+  "first_author": "Yujia Hu",
+  "pdf_url": "http://arxiv.org/pdf/2608.06992",
+  "primary_category": "cs.CL",
+  "published": "2026-08-07",
+  "tags": [],
+  "title": "GPTKB 2.0: Browsing, Querying, and Auditing a Disambiguated LLM-Derived Knowledge Base",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07454": {
+  "abstract": "The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks into an intricate target, devise backup strategies, and anticipate procedural challenges. It is also a profoundly creative activity. For half a century, efforts to automate the retrosynthetic design of natural products and other complex molecules have drawn on catalogued reactions, and the resulting tools now report near-complete success on benchmarks built from that same source. But these tools were shaped to fit benchmarked chemistry, and they falter on many natural products, the frontier of the field, whose densely functionalized, polycyclic architectures demand precisely the inventive chemistry the record contains least. Whether a machine could reasonably design such syntheses like an expert chemist does has remained unclear. Here, we show that SynthEx, an agentic framework built on large language models, plans routes to complex natural products that lie beyond the reach of conventional design algorithms. SynthEx proposes competing strategies, assembles a sequence of routine and key steps into a cohesive route, and critiques and improves its own design; the chemistry it favours is more convergent than existing tools produce, and spans a region of reaction space that catalogue-based tools cannot match. Most notably, in blinded assessments, expert chemists judged its key steps comparable to those of published human syntheses and engaged with them as genuine synthesis plans, a response algorithmic route prediction has not previously accomplished. We release routes to more than a thousand natural products as SynthAtlas, an open, interactive database, and anticipate it will become a shared resource for a collection of complex target molecules that lack existing literature routes.",
+  "authors": [
+   "Daniel Armstrong",
+   "Xuan-Vu Nguyen",
+   "Octavian Susanu",
+   "Gabriel Gibberd",
+   "Théo A. Neukomm",
+   "Taddäus Strunden",
+   "Dan Forster",
+   "Morgane Delattre",
+   "Shawn Teh",
+   "Clément Rols",
+   "John Federice",
+   "Hayden Leatherwood",
+   "M. Lavelle Barnes",
+   "Maarten R. Dobbelaere",
+   "Peter Wipf",
+   "Jon T. Njardarson",
+   "Jieping Zhu",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "cs.MA",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Daniel Armstrong",
+  "pdf_url": "http://arxiv.org/pdf/2608.07454",
+  "primary_category": "cs.MA",
+  "published": "2026-08-07",
+  "tags": [],
+  "title": "Strategy-first synthesis planning for complex natural products",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07637": {
+  "abstract": "Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a framework that places large language model (LLM) reasoning selectively at campaign construction and event-triggered review, while routine simulation, analysis, continuation, archiving, and state progression are handled by a persistent rule-based campaign agent using approved policies and explicit state records. Agent-MD was demonstrated in a grand canonical Monte Carlo-molecular dynamics (GCMC-MD) water-vapor desorption campaign comprising five montmorillonite systems and three sequential relative-humidity states (RH = 0.9-0.3-0.1). Across 15 system-RH states, the workflow completed 120 segmented simulation cycles with state-specific sampling lengths and provenance-aware restart inheritance. Routine production required no live reasoning-agent invocation, while one state reached a review boundary; two preserved incidents were subsequently evaluated through blinded reasoning-agent replay, which identified the underlying workflow problems and recommended appropriate follow-up actions. The simulations also revealed distinct composition-dependent low-RH responses, with Ca-bearing montmorillonite retaining more interlayer water and maintaining a larger basal spacing than the Na- and K-bearing systems, while the highest-charge Na system retained more residual water under dry conditions. These results demonstrate that long-running scientific workflows need not place every operation inside an LLM reasoning loop: selective reasoning can instead be combined with deterministic execution, structured evidence, and validated control handoffs to provide reproducible and auditable agent-assisted molecular simulation.",
+  "authors": [
+   "Yijie Wang",
+   "Zhen-Yu Yin",
+   "Zhenheng Tang",
+   "Xiaowen Chu"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 figures, 2 tables",
+  "first_author": "Yijie Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.07637",
+  "primary_category": "cs.AI",
+  "published": "2026-08-07",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.08912": {
+  "abstract": "High-resolution laser spectroscopy of the $^{85}\\mathrm{Rb}_2$, $^{85}\\mathrm{Rb}^{87}\\mathrm{Rb}$, and $^{87}\\mathrm{Rb}_2$ isotopologues has been performed in a supersonic molecular beam using a continuous-wave (cw) tunable diode laser. A total of 958 rovibronic transitions were recorded up to $7~\\mathrm{cm}^{-1}$ below the vibrational band heads of the $X^1Σ_g^+(v''=0)\\rightarrow B^1Π_u(v'=1,2)$ and $X^1Σ_g^+(v''=1)\\rightarrow B^1Π_u(v'=1)$ bands, with a spectral resolution of $3.3\\times10^{-4}$~cm$^{-1}$. Although restricted to the $v'=1$ and $v'=2$ vibrational levels of the excited $B^1Π_u$ state, the measurements extend previous work by Amiot and Vergès [Chemical Physics Letters 274, 91 (1997)] through substantially higher resolution and dense low-$J'$ rotational data for all three isotopologues. A global least-squares analysis combining the new and published data, yields improved Dunham coefficients for the excited $B^1Π_u$ state, significantly refines rotational and rovibrational coupling constants. In addition, the $Λ$-doubling constants of $B^1Π_u$ state were determined for the three isotopologues.",
+  "authors": [
+   "David Rodríguez Fernández",
+   "Manuel Alejandro Lefrán Torres",
+   "Jaime Javier Borges Márquez",
+   "Marcos Roberto Cardoso",
+   "Amrendra Pandey",
+   "Romain Vexiau",
+   "Olivier Dulieu",
+   "Nadia Bouloufa-Maafa",
+   "Luis Gustavo Marcassa"
+  ],
+  "categories": [
+   "physics.atom-ph"
+  ],
+  "comment": null,
+  "first_author": "David Rodríguez Fernández",
+  "pdf_url": "http://arxiv.org/pdf/2608.08912",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-08-09",
+  "tags": [],
+  "title": "Rotational laser spectroscopy of the $X^1Σ_g^+\\rightarrow B^1Π_u$ transition of $\\text{Rb}_2$ molecule in a supersonic beam: As good as it gets",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-09"
+ },
+ "2608.09696": {
+  "abstract": "Predicting the answer to interventional ``what if'' questions --- the outcome of an action never taken --- requires a \\emph{mechanistic}, causal model, not a curve fit; and learning such a model requires \\emph{experiments}, because passive data leaves its mechanisms unidentified. Experiments are expensive, so the central problem is \\emph{data efficiency}. We present the Model Discovery Agent (MDA), which couples a large language model (LLM), used as a \\emph{proposer} of candidate structures, with standard Bayesian machinery --- sequential Monte Carlo (SMC) for parameter and structure posteriors, simulation-based inference (SBI) for intractable likelihoods, and value-of-information (VoI) for experiment design --- to discover latent mechanistic world models from few interventions. MDA operates in the M-open setting: when the truth lies outside the current hypothesis class, a predictive check flags the inadequacy and the proposer expands the hypothesis space with a new model whose parameters are then identified by designed experiments. We show that \\emph{discovery and design reinforce}: the design step identifies the mechanism the discovery step proposes, and the identified mechanism improves predictions, enabling further discoveries from the remaining unexplained residuals. On three different benchmarks --- covering physics (\\DPbench, \\citep{wiemann2026discoverphysics}), chemistry (\\CHEMbench, \\citep{kabra2026autoscilab}) and biology (\\HHbench, a new partially observed single-neuron electrophysiology benchmark we create) --- we show that MDA sets a new SOTA in terms of data-efficient model learning and reliable interventional prediction ability.",
+  "authors": [
+   "Kevin Murphy"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "v3: further improve app A (algorithm pseudocode), add new app G (further related work) - (main text unchanged)",
+  "first_author": "Kevin Murphy",
+  "pdf_url": "http://arxiv.org/pdf/2608.09696",
+  "primary_category": "cs.AI",
+  "published": "2026-08-10",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.10260": {
+  "abstract": "Lens methods interpret large language models (LLMs) by mapping intermediate activations to the output vocabulary, revealing how next-token predictions develop through the network. Trained lenses remain expensive: affine-translator parameters grow quadratically with model width, while exact, full-vocabulary Kullback--Leibler (KL) training dominates memory. Consequently, prior trained lenses have been applied to models of at most 20B parameters and remain tied to particular component types. We present OmniLens, which applies a single lens family to any model-width activation, whether residual stream, attention, or MLP, and combines two independent scaling techniques. First, low-rank translators make per-lens parameter growth linear in model width and reduce trainable parameters by up to 98.4%. Second, Subset-KL materializes only selected vocabulary logits: its Top-k mode cuts peak training memory by up to 70%, while its importance-sampled variant retains unbiased stochastic gradients for the full KL. These savings enable a dense ensemble of 482 lenses for LLaMA-3.3-70B, providing 6x the coverage of a residual-stream design at the same depth. Model-wide coverage then reveals what single-component lenses cannot: the components where a behavior is most visible need not be those where intervention is most effective, and the most effective interventions lie outside the attention heads examined by prior lens studies. Across three case studies (prompt-injection detection, multi-hop memory injection, and toxicity localization), OmniLens reproduces key published results at substantially lower cost.",
+  "authors": [
+   "Jordan Pettyjohn",
+   "Mansi Sakarvadia",
+   "Nathaniel Hudson",
+   "Daniel McKenzie",
+   "Kyle Chard",
+   "Ian Foster"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Jordan Pettyjohn",
+  "pdf_url": "http://arxiv.org/pdf/2608.10260",
+  "primary_category": "cs.AI",
+  "published": "2026-08-10",
+  "tags": [],
+  "title": "Interpreting Language Model Hidden States at Scale",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-10"
+ },
+ "2608.10480": {
+  "abstract": "Large language models (LLMs) are widely applied across chemical tasks, such as molecular property prediction, which underpins drug discovery. Molecular LLMs represent a molecule through several modalities, notably a 1D SMILES sequence or a 2D molecular graph. Both encode molecular information implicitly, so the contribution of individual substructures remains opaque. Retrieval and augmentation methods add context, but from external sources. However, the cues chemists reason over are the internal substructures that drive a property up or down. We propose MR-MoL, a multi-granular rationale-guided molecular LLM that supplies this evidence directly. A fine-tuned GNN scores each substructure through masking, and the most influential ones are serialized as a ranked, direction-tagged rationale that the LLM reads alongside the SMILES sequence and molecular graph. The rationale spans three levels of granularity: Murcko scaffolds with their side chains, BRICS fragments, and functional groups. This is, to our knowledge, the first method to expose GNN-derived attributions to an LLM as evidence for property prediction. On eight MoleculeNet tasks, MR-MoL achieves the best overall results among generalist models and narrows the gap to specialist models tuned for each task. Five diagnostics further confirm that the model reads the rationale rather than merely benefiting from its presence. Its direction, rank, and substructure each shape the prediction, and its attributions reproduce known structure-property relationships.",
+  "authors": [
+   "Junwoo Park",
+   "Minyoung Shin",
+   "Cheol Soon Lee",
+   "Sujee Lee"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "16 pages, 5 figures, 18 tables. Code: https://github.com/skku-aihclab/MR-MoL",
+  "first_author": "Junwoo Park",
+  "pdf_url": "http://arxiv.org/pdf/2608.10480",
+  "primary_category": "cs.AI",
+  "published": "2026-08-11",
+  "tags": [
+   "drug-discovery",
+   "property-prediction"
+  ],
+  "title": "Multi-Granular Rationale-Guided Molecular LLM for Property Prediction",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11283": {
+  "abstract": "Computation-ready metal-organic framework (MOF) databases are essential for high-throughput screening, yet many reported crystal structures remain chemically unreasonable or disordered, compromising simulation fidelity. Existing validation approaches can identify non-computation-ready structures, but they often rely on heuristic rules, license requirement, or offer limited interpretability. Here, we show that large language models (LLMs) can serve as interpretable validators of MOF structures when crystallographic information is transformed into chemically meaningful text. By benchmarking nine descriptors, we find that successful LLM-based validation depends not on the amount of structural information alone, but on whether local coordination, framework connectivity, and chemical context are organized into a linguistically learnable representation. Fine-tuned LLMs using specialized descriptors (mof2text) achieve performance comparable to graph-based models in identifying unreasonable MOFs. Importantly, these models extend beyond black-box classification by generating diagnostic rationales for likely error sources, including abnormal bonding, connectivity, and charge states, as well as error-category predictions for annotated datasets. This work establishes chemically informed textualization as the key step that transforms LLMs from generic text models into practical and explainable tools for curating MOF databases.",
+  "authors": [
+   "Guobin Zhao",
+   "Xiao-Yan Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Guobin Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2608.11283",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-11",
+  "tags": [
+   "mof"
+  ],
+  "title": "Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11657": {
+  "abstract": "We introduce Semantic Lenia, an artificial life framework that transforms Large Language Model (LLM) inference from a static optimization problem into a continuous dynamical system within the macroscopic logit space. By establishing a non-linear homeostatic feedback loop to dynamically balance semantic attraction and syntactic repulsion, we demonstrate the emergence of \"Autonomous Semantic Solitons\" -- macroscopic dissipative structures that avoid repetitive crystallization. Our exhaustive parameter sweeps map a critical \"Habitable Ridge\" where applied steering forces perfectly balance the model's intrinsic syntactic inertia. This approach successfully maintains generative trajectories at the edge of chaos, triggering profound abductive leaps without structural collapse and establishing a physical scaling law for machine cognition.",
+  "authors": [
+   "Yoshihiko Kayama"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "nlin.CG"
+  ],
+  "comment": "17 pages, 5 figures. Code, datasets, and interactive phase diagrams are available at https://y-kayama.github.io/semantic-lenia/",
+  "first_author": "Yoshihiko Kayama",
+  "pdf_url": "http://arxiv.org/pdf/2608.11657",
+  "primary_category": "cs.CL",
+  "published": "2026-08-12",
+  "tags": [],
+  "title": "Semantic Lenia: Emergence of Homeostatic Solitons within the Semantic Space of Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.11955": {
+  "abstract": "Large language models are already adept at engaging users in long, emotionally salient conversations across ordinary and existential domains. They are also capable of inducing a potent sense of connection with a human-like entity, even when the user knows their interlocutor is artificial. For some users, these conversations can unsettle assumptions about mind, reality, agency and authority, producing forms of ontological shock and epistemic destabilisation in which inherited criteria become newly available for doubt or revision. Independent of direct use, exposure to public discourse about AI and the disorienting pace of their evolution might extend this destabilisation by changing the cultural background against which artificial minds are encountered and interpreted. We describe this condition as philosophical vertigo: a loosening of the ordinary criteria by which people stabilise meaning and orient themselves to reality. Drawing on philosophy, psychiatry, cognitive science, AI safety and religious studies, we outline pathways through which philosophical vertigo may arise, become affectively saturated, and eventually propagate through human-AI interaction and online communities. Against this background, clinical reports of AI-associated delusions can be seen as sentinel events making visible themes and mechanisms that may also operate at a population level in less severe or non-clinical forms. We argue that AI systems themselves will increasingly participate in the reconstruction of our shared epistemic environment because they readily supply narrative material and personalised interpretive scaffolding at precisely the moment when users' conceptual assumptions may already be loosened. We conclude by considering possible trajectories for the ecology of belief and shared reality, and proposing philosophical corrigibility as a civic response for navigating this emerging social condition.",
+  "authors": [
+   "Thomas A. Pollak",
+   "Hamilton Morrin",
+   "Murray Shanahan"
+  ],
+  "categories": [
+   "cs.CY",
+   "cs.HC"
+  ],
+  "comment": "29 pages, no figures. Source formatting revised to improve arXiv HTML accessibility; article text unchanged",
+  "first_author": "Thomas A. Pollak",
+  "pdf_url": "http://arxiv.org/pdf/2608.11955",
+  "primary_category": "cs.CY",
+  "published": "2026-08-12",
+  "tags": [],
+  "title": "Philosophical vertigo with artificial intelligence",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.12216": {
+  "abstract": "With advancements in generative AI technology, an increasing number of researchers have begun exploring AI-native games in which gameplay rules are directly driven by generative AI. This paper presents \"Pharos Night: Crown Pursuit,\" an AI-native deck-building and tactical arena game based on a multi-agent system. The game uses large language models to generate materials and cards, support NPC decision-making, and mediate natural-language interactions. During play, players collect materials, describe desired card effects in natural language, and choose whether to negotiate or fight with NPCs in the arena. To constrain model-generated outcomes, the system parses responses as structured JSON, constructs card effects from predefined mechanics, and maps qualitative effect levels to designer-specified numerical values. A small-scale playtest with 13 participants suggests that the system can provide strategically meaningful and engaging AI-driven gameplay, while also revealing challenges related to predictability, transparency, and player control. This work demonstrates the potential of multi-agent generative AI systems for creating more emergent digital game experiences.",
+  "authors": [
+   "Ting-Chen Hsu",
+   "Jueyao Liu",
+   "Yanzi Zhou",
+   "Jiangxu Lin",
+   "Haoyu Xu",
+   "Yuwen Liu",
+   "Yanjia Liu",
+   "Bangjing Xu"
+  ],
+  "categories": [
+   "cs.HC"
+  ],
+  "comment": "Accepted to 2026 Annual Symposium on Computer-Human Interaction in Play (CHI Play)",
+  "first_author": "Ting-Chen Hsu",
+  "pdf_url": "http://arxiv.org/pdf/2608.12216",
+  "primary_category": "cs.HC",
+  "published": "2026-08-12",
+  "tags": [],
+  "title": "\"Pharos Night: Crown Pursuit\": An AI-Native Deck-Building and Tactical Arena Game Design Based on Multi-Agent Systems",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.12286": {
+  "abstract": "Many nonlinear models across physics, chemistry, and biology exhibit multiple solutions for the same parameters, and capturing this entire solution set is essential for understanding pattern-forming systems. Yet existing learned surrogates are fundamentally single-valued: neural operators map each parameter to a single output, and physics-informed neural networks converge to one branch. We develop \\textbf{PatternFormer} (PF), a large language model-based framework for learning the multiple solutions of nonlinear partial differential equations. By transforming unordered coexisting solutions into canonical sequences, PF produces structured solution sets in a single autoregressive pass, terminating automatically for finite families and enforcing physical residual constraints for unbounded ones. On nonlinear elliptic problems it recovers all solution branches in one inference step; on Gray--Scott it generates coexisting Turing patterns, including physically valid states absent from the reference data and beyond training. PF can also be sequentially fine-tuned across multistable systems, toward general foundation models for solution landscapes.",
+  "authors": [
+   "Zhipeng Chang",
+   "Wenpeng Yin",
+   "Wenrui Hao"
+  ],
+  "categories": [
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Zhipeng Chang",
+  "pdf_url": "http://arxiv.org/pdf/2608.12286",
+  "primary_category": "math-ph",
+  "published": "2026-08-12",
+  "tags": [],
+  "title": "PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.13024": {
+  "abstract": "Event-driven catalyst-outcome forecasting increasingly uses retrieval- and memory-augmented large language model agents for prediction. However, training-data contamination and temporal leakage can create an Evidence Chasm between reported accuracy and true predictive ability. We propose TIEM, a timestamp-gated framework with three coordinated components: an Event-Evidence Hypergraph (EEH) for timestamp-filtered multi-tier retrieval; a Case-based Skill Memory (CSM) for source-tagged temporal skills; and Heterogeneous Evidence-Experience Fusion Reasoning (HEFR) for evidence-experience fusion and prediction. We also introduce FinPURE, a recent-period A-share holdout benchmark, and use a Name-Date Probe to assess per-model name-date sensitivity rather than assuming training cutoffs. Results on five financial forecasting benchmarks show TIEM outperforms current baselines. Our project is available at https://github.com/QwenQKing/Fin_TIEM.",
+  "authors": [
+   "Wenjin Liu",
+   "Shen Pang",
+   "Tiesunlong Shen",
+   "Zhe Cui",
+   "Xiaobao Wu",
+   "Anh Tuan Luu",
+   "Haoran Luo"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Wenjin Liu",
+  "pdf_url": "http://arxiv.org/pdf/2608.13024",
+  "primary_category": "cs.CE",
+  "published": "2026-08-13",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "TIEM: Temporal Integration of Hypergraph Evidence and Skill Memory for Event-Driven Financial Forecasting",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.13384": {
+  "abstract": "Unstructured documents constitute the majority of enterprise and web data. With the rapid development of large language models(LLMs), researchers have started to build data systems that analyze unstructured textual documents like operating on databases. However, because mainstream retrieval methods still relies on fuzzy matching based on vector similarity, accurately obtaining information and performing structured analysis and reasoning remains a major challenge. To address these limitations, AnnoIndex introduces two core fundamental components. The first is Annotation Index. The system uses a module called SchemaLoop to automatically create hierarchical annotation schemas from the raw corpus, and then uses lightweight language model to extract specific values. It turns scattered unstructured text into a materialized, structured index that enables low-cost filtering and querying. The annotation index avoids the black-box matching of vector similarity and amortizes attribute extraction costs from online queries to a one-time build. The second innovation is a Structured Query Engine. It compiles user questions into execution plans based on SQL extension. It first uses the Annotation Index for precise documents filtering, then gradually applies extraction operations in ascending order of cost, resorting to LLMs only for the remaining minimal fraction of the corpus that require deep semantic understanding. The extracted attributions are merged into the annotation index, reducing the cost of future queries. Experiments on three real-world datasets demonstrate that AnnoIndex consistently outperforms state-of-the-art baselines, achieving the highest average F1 score (0.87) while maintaining robust performance on complex multi-hop join and progressive reasoning queries.",
+  "authors": [
+   "Teng Lin",
+   "Yuyu Luo",
+   "Nan Tang"
+  ],
+  "categories": [
+   "cs.IR",
+   "cs.DB"
+  ],
+  "comment": null,
+  "first_author": "Teng Lin",
+  "pdf_url": "http://arxiv.org/pdf/2608.13384",
+  "primary_category": "cs.IR",
+  "published": "2026-08-13",
+  "tags": [],
+  "title": "Structure then Query: Enabling Precise Analytical Queries over Unstructured Documents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-13"
  }
 }

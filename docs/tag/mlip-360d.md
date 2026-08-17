@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">576 papers</span>
+  <span class="paper-count">573 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3452,23 +3452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16521.html">Guiding Diffusion Models with Reinforcement Learning for Stable Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Zhijian Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16521">2508.16521</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14513.html">Dynamic Vacancy Levels in CsPbCl3 Obey Equilibrium Defect Thermodynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Irea Mosquera-Lois et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14513">2508.14513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15401.html">Clay Edges Are Dynamic Proton-conducting Networks Modulated by Structure and pH</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yixuan Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15401">2508.15401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15614.html">Universal Machine Learning Potential for Systems with Reduced Dimensionality</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Giulio Benedini et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15614">2508.15614</a></td>
 </tr>
 </tbody></table>

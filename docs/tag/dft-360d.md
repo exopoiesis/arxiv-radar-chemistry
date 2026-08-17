@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1966 papers</span>
+  <span class="paper-count">1957 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11756,59 +11756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16798.html">Molecular Tools for Non-Planar Surface Chemistry</a></div></td>
 <td>Taleana Huff et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16798">2508.16798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13067.html">Integrating Density Functional Theory with Deep Neural Networks for Accurate Voltage Prediction in Alkali-Metal-Ion Battery Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Sk Mujaffar Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13067">2503.13067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20791.html">Vibrational Energy Dissipation in Non-Contact Single-Molecule Junctions Governed by Local Geometry and Electronic Structure</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Lukas Hörmann et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20791">2504.20791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03304.html">MC-PDFT Nuclear Gradients and L-PDFT Energies with Meta and Hybrid Meta On-Top Functionals for Ground- and Excited-State Geometry Optimization and Vertical Excitation Energies</a></div></td>
-<td>Matthew R. Hennefarth et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03304">2506.03304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14513.html">Dynamic Vacancy Levels in CsPbCl3 Obey Equilibrium Defect Thermodynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Irea Mosquera-Lois et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14513">2508.14513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15223.html">A rutile-based homologous series Na(PtO$_2$)$_{2\it{n}+1}$ discovered by computationally assisted high-pressure synthesis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="tmo-360d.html">tmo</a></div></td>
-<td>Yasuhito Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15223">2508.15223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15472.html">Competition Between Controllable Non-Radiative and Intrinsic Radiative Second-Order Recombination in Halide Perovskites</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Dengyang Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15472">2508.15472</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15572.html">Automated Modeling of Polarons: Defects and Reactivity on TiO$_2$(110) Surfaces</a></div></td>
-<td>Firat Yalcin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15572">2508.15572</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15596.html">Ultrastrong and ductile CoNiMoAl medium-entropy alloys enabled by L12 nanoprecipitate-induced multiple deformation mechanisms</a></div></td>
-<td>Min Young Sung et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15596">2508.15596</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15614.html">Universal Machine Learning Potential for Systems with Reduced Dimensionality</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Giulio Benedini et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15614">2508.15614</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1489 papers</span>
+  <span class="paper-count">1478 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8882,71 +8882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16754.html">Ab Initio Entropy Calculations of Water Predict the Interiors of Uranus and Neptune to be 15-30% Colder than Previous Models</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Burkhard Militzer</td>
 <td><a href="http://arxiv.org/abs/2508.16754">2508.16754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13067.html">Integrating Density Functional Theory with Deep Neural Networks for Accurate Voltage Prediction in Alkali-Metal-Ion Battery Materials</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Sk Mujaffar Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13067">2503.13067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14217.html">Structure of the doubly magic nuclei $^{208}$Pb and $^{266}$Pb from ab initio computations</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Francesca Bonaiti et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14217">2508.14217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15401.html">Clay Edges Are Dynamic Proton-conducting Networks Modulated by Structure and pH</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yixuan Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15401">2508.15401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15433.html">BIC lasing from first principles</a></div></td>
-<td>Tetsuyuki Ochiai</td>
-<td><a href="http://arxiv.org/abs/2508.15433">2508.15433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15522.html">GridFF: Efficient Simulation of Organic Molecules on Rigid Substrates</a></div></td>
-<td>Indranil Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15522">2508.15522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15528.html">Accurate complex-stacking-fault Gibbs energy in Ni3Al at high temperatures</a></div></td>
-<td>Xiang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15528">2508.15528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15558.html">Lattice distortions and non-sluggish diffusion in BCC refractory high entropy alloys</a></div></td>
-<td>Jingfeng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15558">2508.15558</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15600.html">Electronic structure of the interface between Au and WSe2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Laxman Nagireddy et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15600">2508.15600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15607.html">Octahedral tilting and B-site off-centering in halide perovskites are not coupled</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Colin M. Hylton-Farrington et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15607">2508.15607</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15744.html">Regularized Perturbation Theory for Ab initio Solids</a></div></td>
-<td>Meng-Fu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15744">2508.15744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15927.html">Modeling Energy- and Momentum-dependent Scattering Relaxation Times in a Semi-Classical Model of Charge Transport using the Self-Scattering Technique</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>H. A. McDonough et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15927">2508.15927</a></td>
 </tr>
 </tbody></table>

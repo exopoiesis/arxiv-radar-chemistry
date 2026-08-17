@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">209 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,17 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10320.html">From strong to weak correlations in breathing-mode kagome van der Waals materials: Nb$_3$(F,Cl,Br,I)$_8$ as a robust and versatile platform for many-body engineering</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Joost Aretz et al.</td>
 <td><a href="http://arxiv.org/abs/2501.10320">2501.10320</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15200.html">Unraveling Shear Strain Induced Ferroelectric-to-Antiferroelectric Phase Transition and Accessing Intrinsic Antiferroelectricity in Two-dimensional NbOCl2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jiawei Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15200">2508.15200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15942.html">Hybrid Monte Carlo Metadynamics (hybridMC-MetaD)</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Charlotte Shiqi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15942">2508.15942</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">338 papers</span>
+  <span class="paper-count">337 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2036,11 +2036,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16395.html">Ab-initio investigation of the interfacial structural, electronic, and magnetic properties of Co$_{2}$MnAl/X (X = MgO and GaAs) heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Amar Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16395">2508.16395</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14513.html">Dynamic Vacancy Levels in CsPbCl3 Obey Equilibrium Defect Thermodynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Irea Mosquera-Lois et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14513">2508.14513</a></td>
 </tr>
 </tbody></table>

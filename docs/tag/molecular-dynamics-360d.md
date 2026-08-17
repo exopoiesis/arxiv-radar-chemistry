@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1490 papers</span>
+  <span class="paper-count">1481 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8900,59 +8900,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16476.html">NOSTRA: A noise-resilient and sparse data framework for trust region based multi objective Bayesian optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Maryam Ghasemzadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16476">2508.16476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20791.html">Vibrational Energy Dissipation in Non-Contact Single-Molecule Junctions Governed by Local Geometry and Electronic Structure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Lukas Hörmann et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20791">2504.20791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08476.html">Bridging Electrostatic Screening and Ion Transport in Lithium Salt-Doped Ionic Liquids</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Hyungshick Park et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08476">2506.08476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14513.html">Dynamic Vacancy Levels in CsPbCl3 Obey Equilibrium Defect Thermodynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Irea Mosquera-Lois et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14513">2508.14513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15401.html">Clay Edges Are Dynamic Proton-conducting Networks Modulated by Structure and pH</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yixuan Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15401">2508.15401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15539.html">Influence of Thermostats on the Dynamics of the Helix-Coil Transition</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Maximilian Conradi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15539">2508.15539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15547.html">Nonequilibrium Dynamics of the Helix-Coil Transition in Polyalanine</a></div></td>
-<td>Maximilian Conradi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15547">2508.15547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15607.html">Octahedral tilting and B-site off-centering in halide perovskites are not coupled</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Colin M. Hylton-Farrington et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15607">2508.15607</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15942.html">Hybrid Monte Carlo Metadynamics (hybridMC-MetaD)</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Charlotte Shiqi Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15942">2508.15942</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05302.html">Sesame: Opening the door to protein pockets</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Raúl Miñán et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05302">2509.05302</a></td>
 </tr>
 </tbody></table>

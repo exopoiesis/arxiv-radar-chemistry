@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20511.html">Creating Learning Scaffolds for Engineering Design Using Concept Catalyst</a></div></td>
 <td>Madhuri Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20511">2605.20511</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18217.html">3D CO-TALIF distribution above a micro cavity discharge: A systematic approach for plasma catalysis</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Henrik van Impel et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18217">2605.18217</a></td>
 </tr>
 </tbody></table>

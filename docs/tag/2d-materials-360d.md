@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">529 papers</span>
+  <span class="paper-count">527 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3176,17 +3176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16395.html">Ab-initio investigation of the interfacial structural, electronic, and magnetic properties of Co$_{2}$MnAl/X (X = MgO and GaAs) heterostructures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Amar Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16395">2508.16395</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15200.html">Unraveling Shear Strain Induced Ferroelectric-to-Antiferroelectric Phase Transition and Accessing Intrinsic Antiferroelectricity in Two-dimensional NbOCl2</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Jiawei Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15200">2508.15200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15600.html">Electronic structure of the interface between Au and WSe2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Laxman Nagireddy et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15600">2508.15600</a></td>
 </tr>
 </tbody></table>

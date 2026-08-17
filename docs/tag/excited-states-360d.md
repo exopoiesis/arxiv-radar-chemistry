@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18319.html">Computational study of alpha-ray induced electron excitation in diamonds for radiation detection</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Atsuhiro Umemoto et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18319">2508.18319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14217.html">Structure of the doubly magic nuclei $^{208}$Pb and $^{266}$Pb from ab initio computations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Francesca Bonaiti et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14217">2508.14217</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmo — 360d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="tmo-7d.html">7d</a> <a href="tmo-30d.html">30d</a> <a href="tmo-90d.html">90d</a> <strong>360d</strong> <a href="tmo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02593.html">Spin-dependent orbital selectivity and partial Kondo-screening in magnetically ordered Hund&#x27;s metal</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Shivani Bhardwaj et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02593">2510.02593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15223.html">A rutile-based homologous series Na(PtO$_2$)$_{2\it{n}+1}$ discovered by computationally assisted high-pressure synthesis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Yasuhito Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15223">2508.15223</a></td>
 </tr>
 </tbody></table>

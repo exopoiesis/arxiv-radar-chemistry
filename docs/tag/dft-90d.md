@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">307 papers</span>
+  <span class="paper-count">297 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1796,65 +1796,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20384.html">Dataset-aware entropy-maximized active learning for machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Meiyan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20384">2605.20384</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18017.html">Hydrostatic Pressure-Induced Evolution of the Superconducting Transition Temperature of Bi-2212: Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Shuhong Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18017">2605.18017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18142.html">Systematic study of one-point kinetic energy density functionals for atomic nuclei</a></div></td>
-<td>Tian Shuai Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18142">2605.18142</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18200.html">First-principles investigation of small polarons in rhombohedral NaNbO$_{3}$</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Mohammad Amirabbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18200">2605.18200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18258.html">Why hole polaron formation on oxygen is limiting the Fermi level in Fe acceptor doped BaTiO$_{3}$ under oxidizing conditions</a></div></td>
-<td>Mohammad Amirabbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18258">2605.18258</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18317.html">Tuning the Charge Transfer of Transition Metal Dichalcogenides via Misfit Layer Compounds</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Hugo Le Du et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18317">2605.18317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18326.html">Ordering, correlation functions and phase transitions in molecular systems</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Yashwant Singh</td>
-<td><a href="http://arxiv.org/abs/2605.18326">2605.18326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18488.html">SPARC-atomSFE: Spectral finite-element package for atomic structure calculations in density functional theory</a></div></td>
-<td>Qihao Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18488">2605.18488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18501.html">Quantum Emitters at Telecommunication Wavelengths based on Carbon Defects in Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Chanaprom Cholsuk et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18501">2605.18501</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21520.html">Dominant vibronic relaxation channels in a europium-based molecular qubit</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Neil Iyer</td>
-<td><a href="http://arxiv.org/abs/2605.21520">2605.21520</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24002.html">Harnessing AtomisticSkills for Agentic Atomistic Research</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Bowen Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24002">2605.24002</a></td>
 </tr>
 </tbody></table>

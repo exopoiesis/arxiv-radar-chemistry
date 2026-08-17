@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20740.html">Distribution-Aware Reward: Reinforcement Learning over Predictive Distributions for LLM Regression</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Jungsoo Park et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20740">2605.20740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18144.html">Evidence-Grounded Frontier Mapping and Agentic Hypothesis Generation in Nanomedicine</a></div></td>
-<td>Christiaan G. A. Viviers et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18144">2605.18144</a></td>
 </tr>
 </tbody></table>

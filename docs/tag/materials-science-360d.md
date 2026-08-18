@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">376 papers</span>
+  <span class="paper-count">375 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2264,11 +2264,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12051.html">GUST: Quantifying Free-Form Geometric Uncertainty of Metamaterials Using Small Data</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Jiahui Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12051">2506.12051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16239.html">UniEM-3M: A Universal Electron Micrograph Dataset for Microstructural Segmentation and Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Nan wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16239">2508.16239</a></td>
 </tr>
 </tbody></table>

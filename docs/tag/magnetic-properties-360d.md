@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">337 papers</span>
+  <span class="paper-count">335 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2024,17 +2024,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17352.html">Robust Mottness and tunable interlayer magnetism in Nb3X8 (X = F, Cl, Br, I) bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Zhongqin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17352">2508.17352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16264.html">First-principles many-body study for electronic, optical, and excitonic properties of RbTlCl3 perovskite for solar cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Siddharth et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16264">2508.16264</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16395.html">Ab-initio investigation of the interfacial structural, electronic, and magnetic properties of Co$_{2}$MnAl/X (X = MgO and GaAs) heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Amar Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16395">2508.16395</a></td>
 </tr>
 </tbody></table>

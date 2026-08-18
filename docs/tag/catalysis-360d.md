@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">296 papers</span>
+  <span class="paper-count">294 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1778,17 +1778,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20042.html">CHEMSMART: Chemistry Simulation and Modeling Automation Toolkit for High-Efficiency Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Xinglong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20042">2508.20042</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06095.html">Boundary conditions and electromagnetic effects on the phase transition of a zero spin bosonic system</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Emerson B. S. Corrêa et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06095">2405.06095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16012.html">FIRE-GNN: Force-informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Circe Hsu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16012">2508.16012</a></td>
 </tr>
 </tbody></table>

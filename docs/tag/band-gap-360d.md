@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">408 papers</span>
+  <span class="paper-count">407 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2456,11 +2456,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17240.html">Tunable Valley Polarization and Anomalous Hall Effect in Ferrovalley NbX2 and TaX2 (X = S, Se, Te): A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Samiul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17240">2508.17240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16264.html">First-principles many-body study for electronic, optical, and excitonic properties of RbTlCl3 perovskite for solar cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Siddharth et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16264">2508.16264</a></td>
 </tr>
 </tbody></table>

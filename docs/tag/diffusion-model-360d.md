@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">430 papers</span>
+  <span class="paper-count">428 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2582,17 +2582,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17345.html">ShortListing Model: A Streamlined SimplexDiffusion for Discrete Variable Generation</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Yuxuan Song et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17345">2508.17345</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16239.html">UniEM-3M: A Universal Electron Micrograph Dataset for Microstructural Segmentation and Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Nan wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16239">2508.16239</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16521.html">Guiding Diffusion Models with Reinforcement Learning for Stable Molecule Generation</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Zhijian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16521">2508.16521</a></td>
 </tr>
 </tbody></table>

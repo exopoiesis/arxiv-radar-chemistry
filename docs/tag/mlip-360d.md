@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">573 papers</span>
+  <span class="paper-count">570 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3434,23 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17685.html">Water structuring at stacked graphene interfaces unveiled by machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Dianwei Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17685">2508.17685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16012.html">FIRE-GNN: Force-informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Circe Hsu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16012">2508.16012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16425.html">Global properties of the energy landscape: a testing and training arena for machine learned potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Vlad Cărare et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16425">2508.16425</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16521.html">Guiding Diffusion Models with Reinforcement Learning for Stable Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Zhijian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16521">2508.16521</a></td>
 </tr>
 </tbody></table>

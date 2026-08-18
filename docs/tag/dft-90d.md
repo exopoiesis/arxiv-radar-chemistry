@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">297 papers</span>
+  <span class="paper-count">292 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1766,35 +1766,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21767.html">Uncovering Antipolar Ordering and Pressure-Tunable Phases in Hexagonal LaN</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Atanu Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21767">2605.21767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19747.html">Direct Simulation of LiNi0.8Mn0.1Co0.1O2 Transport Properties Using an Efficient and Accurate Machine Learning Potential</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jian He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19747">2605.19747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19891.html">Realization of a parity-violating antiferromagnetic state in LaMnSi</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Takuma Iwata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19891">2605.19891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20083.html">Spectral and transmission properties of multiple correlated quantum dots made simple</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Nahual Sobrino et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20083">2605.20083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20095.html">Spin polarization enhancement in a single-layer Bi(1-x)Sb(x) alloy on Ag(111) via isovalent substitution</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Javier D. Fuhr et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20095">2605.20095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20384.html">Dataset-aware entropy-maximized active learning for machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Meiyan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20384">2605.20384</a></td>
 </tr>
 </tbody></table>

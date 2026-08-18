@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1478 papers</span>
+  <span class="paper-count">1474 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8858,29 +8858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16940.html">Phonon anharmonicity-driven charge density wave transition and ultrafast dynamics in 1T-TaS2/TaSe2</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Wenqian Tu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16940">2508.16940</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10320.html">From strong to weak correlations in breathing-mode kagome van der Waals materials: Nb$_3$(F,Cl,Br,I)$_8$ as a robust and versatile platform for many-body engineering</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Joost Aretz et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10320">2501.10320</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16012.html">FIRE-GNN: Force-informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Circe Hsu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16012">2508.16012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16264.html">First-principles many-body study for electronic, optical, and excitonic properties of RbTlCl3 perovskite for solar cells</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Siddharth et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16264">2508.16264</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16754.html">Ab Initio Entropy Calculations of Water Predict the Interiors of Uranus and Neptune to be 15-30% Colder than Previous Models</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Burkhard Militzer</td>
-<td><a href="http://arxiv.org/abs/2508.16754">2508.16754</a></td>
 </tr>
 </tbody></table>

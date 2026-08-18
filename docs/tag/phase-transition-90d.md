@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,23 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Souvik Chakraborty et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20785">2605.20785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19347.html">Higher-order Weyl nodes driven by helical magnetic order in EuAgAs</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jian-Rui Soh et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19347">2605.19347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20083.html">Spectral and transmission properties of multiple correlated quantum dots made simple</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Nahual Sobrino et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20083">2605.20083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20384.html">Dataset-aware entropy-maximized active learning for machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Meiyan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20384">2605.20384</a></td>
 </tr>
 </tbody></table>

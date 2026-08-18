@@ -4,25 +4,25 @@
   total: 1017
   group: tasks
 - name: dft
-  count: 17
+  count: 16
   total: 3721
   group: methods
 - name: ab-initio
-  count: 16
+  count: 15
   total: 2764
   group: methods
-- name: molecular-dynamics
-  count: 13
-  total: 2791
-  group: methods
-- name: 2d-materials
-  count: 12
-  total: 1063
-  group: domain
 - name: materials-discovery
   count: 12
   total: 398
   group: tasks
+- name: molecular-dynamics
+  count: 11
+  total: 2791
+  group: methods
+- name: 2d-materials
+  count: 10
+  total: 1063
+  group: domain
 - name: generative-model
   count: 9
   total: 804
@@ -59,10 +59,6 @@
   count: 6
   total: 240
   group: specialized
-- name: catalysis
-  count: 5
-  total: 548
-  group: domain
 - name: molecular-generation
   count: 5
   total: 236
@@ -75,14 +71,14 @@
   count: 5
   total: 280
   group: tasks
+- name: catalysis
+  count: 4
+  total: 548
+  group: domain
 - name: electronic-structure
   count: 4
   total: 823
   group: methods
-- name: free-energy
-  count: 4
-  total: 628
-  group: properties
 - name: materials-science
   count: 4
   total: 774
@@ -107,26 +103,26 @@
   count: 3
   total: 666
   group: methods
-- name: thermal-properties
-  count: 3
-  total: 579
-  group: properties
 - name: thermodynamic-integration
   count: 3
   total: 228
   group: methods
+- name: free-energy
+  count: 2
+  total: 628
+  group: properties
 - name: mof
   count: 2
   total: 75
   group: domain
-- name: phase-transition
-  count: 2
-  total: 419
-  group: properties
 - name: retrosynthesis
   count: 2
   total: 128
   group: tasks
+- name: thermal-properties
+  count: 2
+  total: 579
+  group: properties
 - name: tmd
   count: 2
   total: 137
@@ -159,6 +155,10 @@
   count: 1
   total: 257
   group: specialized
+- name: phase-transition
+  count: 1
+  total: 419
+  group: properties
 - name: protein-function
   count: 1
   total: 77

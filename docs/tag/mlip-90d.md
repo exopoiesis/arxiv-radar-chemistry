@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,41 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Souvik Chakraborty et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20785">2605.20785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18404.html">JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Hongyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18404">2605.18404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19747.html">Direct Simulation of LiNi0.8Mn0.1Co0.1O2 Transport Properties Using an Efficient and Accurate Machine Learning Potential</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jian He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19747">2605.19747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19808.html">Partially reactive force field for the UiO-66 metal-organic framework</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Akanksha Nawani et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19808">2605.19808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19939.html">Uncertainty-aware Machine Learning Interatomic Potentials via Learned Functional Perturbations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="active-learning-90d.html">active-learning</a></div></td>
-<td>Olga Zaghen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19939">2605.19939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Fabien Mortier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20384.html">Dataset-aware entropy-maximized active learning for machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Meiyan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20384">2605.20384</a></td>
 </tr>
 </tbody></table>

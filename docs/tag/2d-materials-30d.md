@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04813.html">Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics</a></div></td>
+<td>Edgars Butanovs et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04813">2608.04813</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00771.html">High-speed and high-gain graphene photovoltaic phototransistor gated by a van der Waals heterojunction</a></div></td>
 <td>Yihan Yin et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18591.html">GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a></div></td>
 <td>Lara Goncebat et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18591">2607.18591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17385.html">Symmetry-Engineered Nonlinear Hall Response and Optical Response in Strained Monolayer Janus AsTeBr</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Dimple Rani et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17385">2607.17385</a></td>
 </tr>
 </tbody></table>

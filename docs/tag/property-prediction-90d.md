@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16005.html">Retrieval-guided Twin Fusion with Similarity-aware Contrast for Molecule-Text Alignment</a></div></td>
+<td>Shunshun Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16005">2608.16005</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Junwoo Park et al.</td>
@@ -236,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25866.html">UNATE: UNsupervised ATomic Embedding for crystal structures property prediction</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Laura Solà-Garcia et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25866">2605.25866</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20740.html">Distribution-Aware Reward: Reinforcement Learning over Predictive Distributions for LLM Regression</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Jungsoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20740">2605.20740</a></td>
 </tr>
 </tbody></table>

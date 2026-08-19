@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23021.html">Finite-Size Effects on the Critical End Point of Magnetized Quark Matter in the Nonlocal PNJL Model</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>G. Lugones et al.</td>
 <td><a href="http://arxiv.org/abs/2605.23021">2605.23021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21176.html">Oxygen-Pressure-Limited Recovery of the Hematite α-Fe$_2$O$_3$(0001) Surface from a Reduced Fe$_3$O$_4$(111)-Like Layer</a></div></td>
-<td>Nishant Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21176">2605.21176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21420.html">HiRes: Inspectable Precedent Memory for Reaction Condition Recommendation</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Shreyas Vinaya Sathyanarayana et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21420">2605.21420</a></td>
 </tr>
 </tbody></table>

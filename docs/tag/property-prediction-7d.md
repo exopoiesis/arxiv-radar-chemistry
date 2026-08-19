@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
-<td>Junwoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10480">2608.10480</a></td>
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16005.html">Retrieval-guided Twin Fusion with Similarity-aware Contrast for Molecule-Text Alignment</a></div></td>
+<td>Shunshun Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16005">2608.16005</a></td>
 </tr>
 </tbody></table>

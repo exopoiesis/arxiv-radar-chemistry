@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16195.html">RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing</a></div></td>
+<td>Kangning Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16195">2608.16195</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06474.html">WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader</a></div></td>
 <td>Boshui Chen et al.</td>
@@ -158,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26690.html">Self-Improvement Imitation with Biologically Guided Search for Protein Design Under Oracle Budgets</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Ashima Khanna et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26690">2605.26690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20740.html">Distribution-Aware Reward: Reinforcement Learning over Predictive Distributions for LLM Regression</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Jungsoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20740">2605.20740</a></td>
 </tr>
 </tbody></table>

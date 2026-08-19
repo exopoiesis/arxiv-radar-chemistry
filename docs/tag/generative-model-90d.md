@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,84 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16100.html">TISC: A Text-Driven Image Semantic Communication System for Faithful Reconstruction</a></div></td>
+<td>Feifan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16100">2608.16100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16364.html">Extracting a nitrile-centered, ether-assisted motif hierarchy for lithium-battery electrolyte design from billion-scale molecular space</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Yifeng Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16364">2608.16364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16436.html">Dynamical spectral functions from bitstring-sampled quantum subspaces: entanglement, not one-body magic, tracks the sampling cost</a></div></td>
+<td>Nicolás Bonilla Vargas</td>
+<td><a href="http://arxiv.org/abs/2608.16436">2608.16436</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15669.html">Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search</a></div></td>
+<td>Zhongwei Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15669">2608.15669</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15900.html">Crystal-structure design by agentic AI in a language of motifs</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Dinh-Khiet Le et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15900">2608.15900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13457.html">Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Van Khoa Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13457">2608.13457</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13676.html">EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Deeksha M Shama et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13676">2608.13676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12192.html">How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Aleksandra Kalisz et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12192">2608.12192</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09143.html">UniMoFlow: Grounding Instruction-Driven 3D Human Motion Editing in Generation</a></div></td>
+<td>Yilei Hua et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09143">2608.09143</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08101.html">Generative Models: Principles, Architectures, and Applications</a></div></td>
+<td>Jun Lu</td>
+<td><a href="http://arxiv.org/abs/2608.08101">2608.08101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06956.html">How Molecular Generative Models Organize Molecular Identity</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
+<td>Raul Ortega-Ochoa et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06956">2608.06956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07401.html">DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion</a></div></td>
+<td>Zhuotao Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07401">2608.07401</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07648.html">Leveraging generative models to assist Monte Carlo sampling</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Marylou Gabrié</td>
+<td><a href="http://arxiv.org/abs/2608.07648">2608.07648</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06582.html">CrystalGRPO: Target-Aligned and Coverage-Preserving Reinforcement Learning for Flow-Based Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
@@ -446,11 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22990.html">Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields</a></div><div class="paper-tags"><a href="string-method-90d.html">string-method</a></div></td>
 <td>Rémi Schlama et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22990">2605.22990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21237.html">RePCM: Region-Specific and Phenotype-Adaptive Bi-Ventricular Cardiac Motion Synthesis</a></div></td>
-<td>Xuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21237">2605.21237</a></td>
 </tr>
 </tbody></table>

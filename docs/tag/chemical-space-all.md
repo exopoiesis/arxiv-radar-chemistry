@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-space — all</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06956.html">How Molecular Generative Models Organize Molecular Identity</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Raul Ortega-Ochoa et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06956">2608.06956</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20194.html">OLEDLM: A Unified Language Model for OLED Molecular Design</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>

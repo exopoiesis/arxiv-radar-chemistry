@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1480 papers</span>
+  <span class="paper-count">1483 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16364.html">Extracting a nitrile-centered, ether-assisted motif hierarchy for lithium-battery electrolyte design from billion-scale molecular space</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Yifeng Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16364">2608.16364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13123.html">Using Diffusion Models to Estimate Uncertainties in Analytic Continuation</a></div></td>
+<td>Sagi Meir et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13123">2608.13123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10435.html">DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Jiabao Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10435">2608.10435</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div></td>
@@ -26,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07637.html">Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Yijie Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07637">2608.07637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06413.html">Competing Energetics Govern Gas Permeation in Polymer of Intrinsic Microporosity (PIM) Membranes</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Jianhao Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06413">2608.06413</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-24</td>
@@ -8888,11 +8912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04987.html">Giant mobility of surface-trapped ionic charges following liquid tribocharging</a></div></td>
 <td>Zouhir Benrahla et al.</td>
 <td><a href="http://arxiv.org/abs/2503.04987">2503.04987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16940.html">Phonon anharmonicity-driven charge density wave transition and ultrafast dynamics in 1T-TaS2/TaSe2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Wenqian Tu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16940">2508.16940</a></td>
 </tr>
 </tbody></table>

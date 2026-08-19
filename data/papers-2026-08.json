@@ -592,6 +592,34 @@
   ],
   "updated": "2026-08-04"
  },
+ "2608.04113": {
+  "abstract": "Black-box optimization is a ubiquitous problem in science and engineering, often dealing with expensive objective functions with cheaper lower-fidelity proxies available. Multi-fidelity Bayesian optimization (MF-BO) is a principled approach to this problem, leveraging correlations across different fidelities when querying the objective. However, for many important MF-BO tasks, the true highest-fidelity function is prohibitively expensive to be part of the optimization loop. Nevertheless, practitioners often have gold standard data (observations of the highest-fidelity function) obtained from previous experiments that might provide information for the current task. For instance, in molecular optimization, chemists often pick the top-$k$ candidate molecules using various computer simulations, and later reveal their true objective function values. In this work, we demonstrate the suboptimality of standard MF-BO algorithms in the real-world scenarios above, even under ideal assumptions. Next, we mitigate this problem by incorporating historical high-fidelity data accompanied by task descriptors---which can be explicitly given or extracted from unstructured metadata. We demonstrate the effectiveness of our methods on synthetic functions, as well as real-world problems in chemistry and hyperparameter optimization.",
+  "authors": [
+   "Gustavo Sutter",
+   "Hao Wang",
+   "Luis Ricardez-Sandoval",
+   "Pascal Poupart",
+   "Agustinus Kristiadi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Gustavo Sutter",
+  "pdf_url": "http://arxiv.org/pdf/2608.04113",
+  "primary_category": "cs.LG",
+  "published": "2026-08-04",
+  "tags": [
+   "bayesian-optimization",
+   "molecular-generation"
+  ],
+  "title": "Out-Of-The-Loop Multi-Fidelity Bayesian Optimization",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-04"
+ },
  "2608.04651": {
   "abstract": "Advanced materials discovery increasingly relies on machine learning and Bayesian optimization to explore large discrete design spaces under limited evaluation budgets. However, conventional Bayesian optimization (BO) can become inefficient as candidate spaces grow, often evaluating low-value regions before reaching informative areas. We propose an active-learning (AL)-guided adaptive search-space refinement framework combined with multi-objective BO to accelerate materials optimization while preserving Pareto-relevant regions. We evaluate the approach on CH4/N2 separation in covalent-organic frameworks and pressure-vessel design with material-direction stress components and thickness objectives. Results show that the AL-guided refinement reduces the candidate space by approximately half while preserving more than 99 percent of the original hypervolume. The reduced-space strategy improves early convergence and cumulative Pareto-front discovery from the BO, demonstrating efficient large-scale materials optimization across constrained autonomous materials discovery settings.",
   "authors": [
@@ -617,6 +645,40 @@
   "title": "Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery",
   "topics": [
    "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.04813": {
+  "abstract": "Ultraviolet-range GaN/b-Ga2O3 heterostructures were fabricated and investigated in both planar and nanowire geometries using pulsed laser deposition and reactive magnetron sputtering from a liquid gallium target for b-Ga2O3 deposition, while both GaN nanowire arrays and planar p-type Mg-doped GaN layers were grown by metal-organic chemical vapor deposition. Precise control of film uniformity and thickness was achieved as confirmed by structural and morphology studies using X-ray diffraction, X-ray photoelectron spectroscopy, atomic force microscopy and scanning electron microscopy. Planar n-Ga2O3/p-GaN heterojunction diodes were electrically and photoelectronically characterized, exhibiting pronounced rectifying behavior, high forward current and a visible-blind ultraviolet photoresponse under zero external bias, demonstrating intrinsic self-powered operation. Furthermore, GaN/b-Ga2O3 core/shell nanowire heterostructures were developed and systematically studied with a focus on morphology control and process optimization. The influence of deposition parameters on shell thickness, uniformity, and tapering was investigated, enabling improved conformality of the b-Ga2O3 coating on the M-plane facets of GaN nanowires. The results highlight the viability of physical vapor deposition techniques for forming GaN/b-Ga2O3 heterostructures and establish a pathway toward nanowire-based ultraviolet optoelectronic devices.",
+  "authors": [
+   "Edgars Butanovs",
+   "Eriks Dipans",
+   "Martins Zubkins",
+   "Edvards Strods",
+   "Anatolijs Sarakovskis",
+   "Juris Purans",
+   "Ashutosh Kumar",
+   "Sergiy Khartsev",
+   "Martin Berg",
+   "Anders Hallen",
+   "Qin Wang",
+   "Joseph le Pluart",
+   "Peter Ramvall"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Edgars Butanovs",
+  "pdf_url": "http://arxiv.org/pdf/2608.04813",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-05",
+  "tags": [
+   "2d-materials"
+  ],
+  "title": "Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics",
+  "topics": [
+   "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-08-05"
  },
@@ -728,6 +790,33 @@
   ],
   "updated": "2026-08-06"
  },
+ "2608.06413": {
+  "abstract": "Polymer membranes, particularly polymers of intrinsic microporosity (PIMs), hold great promise for gas separation applications. However, the long-dominant solution-diffusion model, which treats the membrane as a nonporous homogeneous medium, does not resolve how gas-solid atomic interactions govern molecular transport in intrinsic micropores, limiting rational bottom-up membrane design. In this work, we employ non-equilibrium molecular dynamics simulations to investigate the permeation of various gases (He, H2, CH4, N2, O2, and CO2) through PIM-1 as a representative PIM membrane across a range of temperatures. By analyzing the scaling of gas permeability with molecular mass, we identify a temperature-induced transition in the dominant transport mechanism. We demonstrate that this transition is governed by the competition between gas-wall interaction potential energy and thermal kinetic energy: weak interactions or elevated temperatures facilitate Knudsen-type ballistic transport, whereas strong interactions and lower temperatures favor adsorption-mediated surface diffusion. Furthermore, molecular trajectory analysis at the membrane interface reveals two distinct entry pathways: direct entry through pore openings and surface-diffusion-assisted entry. The surface-diffusion-assisted pathway greatly promotes the entry of strongly interacting gases into the membrane, contributing to higher overall permeability, albeit this enhancement diminishes with increasing temperature. These findings offer a mechanistic picture of gas permeation in PIM-1 and explain the dependence of gas permeation on both gas type and temperature. More broadly, they highlight the importance of adopting a pore-flow perspective to understand gas transport in microporous polymer membranes.",
+  "authors": [
+   "Jianhao Qian",
+   "Ruoyu Wang",
+   "Menachem Elimelech"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Jianhao Qian",
+  "pdf_url": "http://arxiv.org/pdf/2608.06413",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-05",
+  "tags": [
+   "diffusion-model",
+   "free-energy",
+   "molecular-dynamics"
+  ],
+  "title": "Competing Energetics Govern Gas Permeation in Polymer of Intrinsic Microporosity (PIM) Membranes",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-05"
+ },
  "2608.06448": {
   "abstract": "Recovering a periodic 3D crystal structure from sparse, unindexed electron diffraction (ED) observations is a challenging generative inverse problem. Existing ED-based learning methods mainly predict crystallographic labels, reconstruct structures from indexed reflections, or retrieve candidates from finite structure libraries. Here, we introduce ED-CSP, a machine learning framework that predicts crystal structures from chemical composition, atom count, and multiple detector-plane ED spot sets. ED-CSP combines a relational set encoder, permutation-invariant multi-view aggregation, and a periodic flow generator to jointly predict lattice parameters and fractional atomic coordinates.   To train the model, we construct ED-CS, a dataset of 4.85 million simulated multi-view ED crystal structures, deduplicated across seven materials repositories and filtered to exclude CHILI-100K overlaps. On 2,075 held-out CHILI-100K materials, ED-CSP trained only on CHILI achieves a structural match rate of 57.49% MR@5, outperforming PXRDGen (52.92%), a state-of-the-art crystal structure prediction model conditioned on powder X-ray diffraction. Scaling training data further improves performance: initializing from a one-million-structure precursor raises MR@5 to 66.27%. On 1,024 compositions absent from the training retrieval library, the model still achieves 53.52% MR@5, demonstrating true generative capability beyond exact-formula retrieval. Replacing target ED observations with diffraction from non-isomorphic structures of identical composition decreases MR@5 by 22.09 percentage points, confirming that predictions depend on the input diffraction patterns rather than composition alone. ED-CSP and ED-CS establish a benchmark for generative crystal structure prediction from sparse ED observations and provide a foundation for future transfer to experimental data.",
   "authors": [
@@ -800,7 +889,28 @@
   ],
   "title": "CrystalGRPO: Target-Aligned and Coverage-Preserving Reinforcement Learning for Flow-Based Crystal Structure Prediction",
   "topics": [
+   "Generative Design & Molecule Optimization",
    "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06584": {
+  "abstract": "I measure whether the rise of services is ultimately supported by household consumption or by non-household demand through production networks, investment, exports, and government. Using harmonized input-output tables for 76 economies over 1995-2022, I attribute service value added to its ultimate domestic final-demand category and measure the household orientation of each service economy in both levels and growth. The conventional service share does not reveal the type: it is negatively correlated with household orientation, and only about four in ten tertiarization episodes are majority-household. Among the 65 economies whose service share rose over 1995-2018, 77 percent became less household-oriented; the share is 75 percent under a two-percentage-point material-change threshold. Yet household-supported production becomes more service-intensive with income because households' aggregate position falls faster. A one-type benchmark has no purchaser margin; a two-type extension gives the condition for this reversal. An exact Leontief accounting and Shapley decomposition allocate a median 73 percent of service-share growth to production-system channels, which are the largest contribution in 80 percent of economies with materially rising shares. The decline in household orientation is instead allocated mainly to aggregate final-demand structure. The service share records how much service activity exists, not which economic transformation produced it.",
+  "authors": [
+   "Li Gan"
+  ],
+  "categories": [
+   "econ.GN"
+  ],
+  "comment": null,
+  "first_author": "Li Gan",
+  "pdf_url": "http://arxiv.org/pdf/2608.06584",
+  "primary_category": "econ.GN",
+  "published": "2026-08-06",
+  "tags": [],
+  "title": "Two Types of Tertiarization: Household Demand, Production Networks, and the Rise of Services",
+  "topics": [
+   "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-08-06"
  },
@@ -880,6 +990,7 @@
   ],
   "title": "Genotypic Triggers: Exposing Pharmacogenomic Blind Spots via Host-Specific Backdoors in Generative Antimicrobial Peptide Models",
   "topics": [
+   "Generative Design & Molecule Optimization",
    "Large Language Models & Materials"
   ],
   "updated": "2026-08-07"
@@ -931,6 +1042,35 @@
   ],
   "updated": "2026-08-07"
  },
+ "2608.06956": {
+  "abstract": "Generative models for matter are often evaluated as samplers over output representations, and their latent spaces are commonly used as proxies for navigating chemical space. Much less is known about how these models internally arrange discrete chemical identities within those representations. We study this arrangement by making molecular identity explicit and pulling it back through the generative process. Through these pullbacks we probe the regions that generate the same object, exposing the trained model's internal repertoire: a fixed partition that determines which objects (novel or not) the model can produce.   Across three molecular generative architectures, we find that this repertoire is arranged into piecewise-constant regions separated by recurring coarse-to-fine boundaries. Its organization depends on the representation probed, the identity convention, decoder stochasticity, and the metric used to compare coordinates. During training, local chemical organization stabilizes while the number of distinct molecular identities represented within each neighborhood continues to change. Internal organization must therefore be characterized, rather than assumed, before a generative space can be treated as chemically navigable.",
+  "authors": [
+   "Raul Ortega-Ochoa",
+   "Tejs Vegge",
+   "Jens S. Bakander",
+   "Luis Mantilla Calderon",
+   "Alan Aspuru-Guzik",
+   "Tonio Buonassisi"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "22 pages (14 main text + 8 supporting information)",
+  "first_author": "Raul Ortega-Ochoa",
+  "pdf_url": "http://arxiv.org/pdf/2608.06956",
+  "primary_category": "cs.LG",
+  "published": "2026-08-07",
+  "tags": [
+   "chemical-space",
+   "generative-model"
+  ],
+  "title": "How Molecular Generative Models Organize Molecular Identity",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-07"
+ },
  "2608.06992": {
   "abstract": "We present a web demo for exploring a large-scale disambiguated knowledge base (KB) materialized from a large language model (LLM). GPTKB 2.0 contains 38.4M triples over 1.6M canonical entities, together with 207.6K consolidated relations and 66K consolidated classes. Unlike prior LLM-derived knowledge bases that largely identify entities by surface strings, GPTKB 2.0 performs context-guided disambiguation during recursive KB construction, separating homonyms and merging synonymous mentions as facts are elicited. The demo makes this process inspectable: users can browse entities, follow links across the KB, and audit the provenance of individual facts, including surface forms, candidate matches, source triples, and disambiguation decisions. The interface further supports structured SPARQL queries, natural-language questions translated to SPARQL, and entity linking from user-provided text to canonical GPTKB 2.0 entries. GPTKB 2.0 is available at https://gptkb.org/, with the full KB downloadable for offline use.",
   "authors": [
@@ -952,6 +1092,36 @@
   "title": "GPTKB 2.0: Browsing, Querying, and Auditing a Disambiguated LLM-Derived Knowledge Base",
   "topics": [
    "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07401": {
+  "abstract": "The search for new crystalline materials spans an enormous compositional and structural space. Generating candidates in this space requires jointly modeling discrete crystallographic symmetry, elemental composition, and continuous geometry. We introduce DynaCrys, a generative model for crystals in which the space group co-evolves with Wyckoff occupations and elements through a coupled symbolic diffusion process. The structured space-group transitions follow crystallographic group-subgroup relations. As the space group changes, a shared, pretrained symmetry codebook provides both the legality-constrained stochastic decoder and the symmetry-constrained crystal-geometry model with a common representation of the corresponding Wyckoff vocabulary. Across large-scale evaluations using two independent relaxation-and-evaluation engines, DynaCrys achieves best-in-class performance in symmetry-aware discovery of stable, unique, and novel crystals, both overall and under the additional requirement of nontrivial post-relaxation symmetry. It also enables fast sampling while generating structures with consistently low relaxation-induced structural displacements.",
+  "authors": [
+   "Zhuotao Jin",
+   "Xiaoyun Wang",
+   "Nicholas Brawand",
+   "Roman Zubatyuk",
+   "Atul Thakur",
+   "Eric Qu",
+   "Boris Kozinsky",
+   "Justin Smith"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zhuotao Jin",
+  "pdf_url": "http://arxiv.org/pdf/2608.07401",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion",
+  "topics": [
+   "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-08-07"
  },
@@ -1020,6 +1190,81 @@
   ],
   "updated": "2026-08-07"
  },
+ "2608.07648": {
+  "abstract": "Sampling high-dimensional probability distributions is a central task in scientific computing, with applications ranging from Bayesian inference to statistical physics and molecular simulation. Despite decades of methodological developments, two major challenges remain: scaling to high dimensions and efficiently exploring multimodal distributions characterized by metastable states. Classical approaches such as Markov chain Monte Carlo, tempering methods, or enhanced sampling based on collective variables have achieved major successes, but they also face intrinsic limitations. This tutorial review explores a new paradigm that has recently emerged at the interface of machine learning and computational statistical physics: the use of generative models as tools for sampling. In this context, models such as normalizing flows and diffusion models are not used in their traditional data-driven setting, but rather as flexible probabilistic models that can assist the sampling of distributions known only up to a normalization constant. This manuscript reviews the early development of this rapidly evolving field and discusses several methodological directions, including exact samplers based on generative models and strategies to train such models in the absence of data. While an exhaustive survey of the literature is not attempted, we present a selection of key ideas and methods, along with a discussion of their strengths and limitations. The review is intended to be an accessible tutorial for both physics and machine learning audiences, and it aims to provide a starting point for researchers interested in exploring this exciting area of research.",
+  "authors": [
+   "Marylou Gabrié"
+  ],
+  "categories": [
+   "stat.ML",
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Marylou Gabrié",
+  "pdf_url": "http://arxiv.org/pdf/2608.07648",
+  "primary_category": "stat.ML",
+  "published": "2026-08-07",
+  "tags": [
+   "diffusion-model",
+   "enhanced-sampling",
+   "generative-model",
+   "monte-carlo"
+  ],
+  "title": "Leveraging generative models to assist Monte Carlo sampling",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.08101": {
+  "abstract": "Generative AI has emerged as one of the most transformative forces in modern artificial intelligence, reshaping how we create, imagine, and interact with digital content. From photorealistic images to coherent text, from immersive videos to novel molecular structures, generative models now power applications that were once confined to science fiction. This book is designed to guide readers through the foundational principles, mathematical underpinnings, and practical architectures that underpin this revolution.",
+  "authors": [
+   "Jun Lu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Jun Lu",
+  "pdf_url": "http://arxiv.org/pdf/2608.08101",
+  "primary_category": "cs.AI",
+  "published": "2026-08-08",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "Generative Models: Principles, Architectures, and Applications",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-08"
+ },
+ "2608.08770": {
+  "abstract": "Diffusion models are increasingly used as controllable samplers, whose generations can be steered at inference time according to a chosen reward function. While such rewards are typically defined on individual samples, for many applications it is desirable to steer according to distribution-level rewards, for example to calibrate with population-level information or to encourage diversity. In both cases, simply incorporating the reward gradient into the dynamics, while often effective, comes with few theoretical guarantees on the sampled distribution. For pointwise rewards, recent work has therefore sought to develop a principled framework for targeting a prescribed tilted distribution using particle reweighting. However, an analogous theoretically-grounded approach for distributional rewards is currently lacking. In this work, we formulate inference-time distributional control as targeting a tilted measure under a mean-field framework, and derive a weighted interacting particle scheme to target it in a principled manner. Our framework recovers pointwise-reward steering as a special case, while providing a theoretical foundation for existing batch-level steering methods. Empirically, we verify that the procedure correctly targets the prescribed distribution in tractable low-dimensional settings, and investigate its behaviour in higher-dimensional protein conformation tasks.",
+  "authors": [
+   "Samuel Howard",
+   "Nikolas Nüsken"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": "Preprint. Presented at SPIGM workshop, ICML 2026",
+  "first_author": "Samuel Howard",
+  "pdf_url": "http://arxiv.org/pdf/2608.08770",
+  "primary_category": "stat.ML",
+  "published": "2026-08-09",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "A Mean-Field Framework for Inference-Time Distributional Control of Diffusion Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-09"
+ },
  "2608.08912": {
   "abstract": "High-resolution laser spectroscopy of the $^{85}\\mathrm{Rb}_2$, $^{85}\\mathrm{Rb}^{87}\\mathrm{Rb}$, and $^{87}\\mathrm{Rb}_2$ isotopologues has been performed in a supersonic molecular beam using a continuous-wave (cw) tunable diode laser. A total of 958 rovibronic transitions were recorded up to $7~\\mathrm{cm}^{-1}$ below the vibrational band heads of the $X^1Σ_g^+(v''=0)\\rightarrow B^1Π_u(v'=1,2)$ and $X^1Σ_g^+(v''=1)\\rightarrow B^1Π_u(v'=1)$ bands, with a spectral resolution of $3.3\\times10^{-4}$~cm$^{-1}$. Although restricted to the $v'=1$ and $v'=2$ vibrational levels of the excited $B^1Π_u$ state, the measurements extend previous work by Amiot and Vergès [Chemical Physics Letters 274, 91 (1997)] through substantially higher resolution and dense low-$J'$ rotational data for all three isotopologues. A global least-squares analysis combining the new and published data, yields improved Dunham coefficients for the excited $B^1Π_u$ state, significantly refines rotational and rovibrational coupling constants. In addition, the $Λ$-doubling constants of $B^1Π_u$ state were determined for the three isotopologues.",
   "authors": [
@@ -1048,6 +1293,60 @@
   ],
   "updated": "2026-08-09"
  },
+ "2608.09100": {
+  "abstract": "Millions of chemical structures appear in patents and papers only as drawings, and using that information at scale requires reading the drawings. OCSR appears nearly solved on synthetic images yet remains difficult on real documents: the starting recognizer, Qwen2.5-VL-7B, exceeds 91% accuracy on synthetic renders but falls below 16% on three real-world benchmarks (ACS, CLEF-IP, USPTO). To identify the main source of improvement, 21 recognizers were fine-tuned on mixtures of synthetically rendered structures and labeled real depictions from patents, journal figures, and hand-drawn collections, varying the vision language model (VLM) base, the fraction of real training data, and the vision-tower adaptation strategy. Labeled real training images make the largest difference. For Qwen2.5-VL, ACS exact match rises from 0.15 with no real data to 0.37 at 9.5% and 0.46 at 50.2%; a controlled experiment across three base models reproduces the trend. A vision-tower LoRA, in contrast, does nothing for Qwen (+0.00, paired p=1.00), substantially helps InternVL3-8B (+22.8 to +34.6 pt), and modestly helps GLM-4.1V-9B (+1.0 to +9.6 pt), so its value depends on the base model. The best configuration reaches 0.96 exact match on clean renders and 0.49, 0.65, 0.84, and 0.76 on ACS, CLEF-IP, UOB, and USPTO, respectively. Gaps between base models are largest without real data (0.21), shrink to 0.06 at 70% real data, and reorder the ranking; base model and real-data mixture must therefore be selected together. Small-scale experiments on handwritten image-to-LaTeX recognition and chart-to-table conversion show that base-model rankings also vary beyond chemistry. More generally, model and adaptation choices for visual structure recognition should be evaluated on the target task.",
+  "authors": [
+   "Yani Guan",
+   "Dengpan Dong",
+   "Zi Wei",
+   "Shuang Luo",
+   "Dan Hannah",
+   "Yumin Zhang",
+   "Kang Xu"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Yani Guan",
+  "pdf_url": "http://arxiv.org/pdf/2608.09100",
+  "primary_category": "cs.LG",
+  "published": "2026-08-10",
+  "tags": [],
+  "title": "Real Data Closes Synthetic-to-Real Gap in Optical Chemical Structure Recognition",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-10"
+ },
+ "2608.09143": {
+  "abstract": "Instruction-driven editing of 3D human motion requires precise spatiotemporal localization, rich semantic grounding, and strict preservation of unmodified content. Existing methods either resort to training-free adaptation of generative models or rely solely on triplet supervision; however, adaptation often yields suboptimal control, and manually curated triplet datasets remain severely limited in scale and semantic diversity. To overcome this bottleneck, we ground motion editing directly within text-to-motion generation across data, architecture, and inference. At the data level, we develop a closed-loop synthesis-and-verification pipeline that produces Omni-MoEdit, a large-scale dataset spanning body-part, amplitude, temporal, action, and style edits. At the architectural level, we introduce UniMoFlow, a unified latent flow-matching model that shares broad semantic and kinematic knowledge between generation and editing. At the inference level, SAFE (Source-Anchored Flow Editing) complements UniMoFlow with controllable, source-anchored refinement. Furthermore, we augment standard evaluations with semantics-aware metrics to account for valid edits that inherently deviate from a single ground-truth reference. Extensive experiments demonstrate improved target-text alignment, edit effectiveness, and cycle consistency, while maintaining competitive source fidelity and text-to-motion generation quality.",
+  "authors": [
+   "Yilei Hua",
+   "Beibei Jing",
+   "Ce Zheng",
+   "Hanyu Zhou",
+   "Yawei Luo",
+   "Wei Yang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "18 pages, including supplementary material; 8 figures and 7 tables. Code: https://github.com/Yilei-Hua/UniMoFlow. Submitted to AAAI 2027",
+  "first_author": "Yilei Hua",
+  "pdf_url": "http://arxiv.org/pdf/2608.09143",
+  "primary_category": "cs.CV",
+  "published": "2026-08-10",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "UniMoFlow: Grounding Instruction-Driven 3D Human Motion Editing in Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-10"
+ },
  "2608.09696": {
   "abstract": "Predicting the answer to interventional ``what if'' questions --- the outcome of an action never taken --- requires a \\emph{mechanistic}, causal model, not a curve fit; and learning such a model requires \\emph{experiments}, because passive data leaves its mechanisms unidentified. Experiments are expensive, so the central problem is \\emph{data efficiency}. We present the Model Discovery Agent (MDA), which couples a large language model (LLM), used as a \\emph{proposer} of candidate structures, with standard Bayesian machinery --- sequential Monte Carlo (SMC) for parameter and structure posteriors, simulation-based inference (SBI) for intractable likelihoods, and value-of-information (VoI) for experiment design --- to discover latent mechanistic world models from few interventions. MDA operates in the M-open setting: when the truth lies outside the current hypothesis class, a predictive check flags the inadequacy and the proposer expands the hypothesis space with a new model whose parameters are then identified by designed experiments. We show that \\emph{discovery and design reinforce}: the design step identifies the mechanism the discovery step proposes, and the identified mechanism improves predictions, enabling further discoveries from the remaining unexplained residuals. On three different benchmarks --- covering physics (\\DPbench, \\citep{wiemann2026discoverphysics}), chemistry (\\CHEMbench, \\citep{kabra2026autoscilab}) and biology (\\HHbench, a new partially observed single-neuron electrophysiology benchmark we create) --- we show that MDA sets a new SOTA in terms of data-efficient model learning and reliable interventional prediction ability.",
   "authors": [
@@ -1069,6 +1368,30 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-08-13"
+ },
+ "2608.10120": {
+  "abstract": "Modern sequence models, from Transformers to State Space Models, have enabled powerful generative modeling across diverse domains, yet they are typically trained to predict what happens while treating when it happens as a secondary concern. In data-mining settings where events are associated with explicit timing information, this separation can limit temporal reasoning, anomaly detection, and faithful reconstruction of event chronology. A common strategy is to treat timing as an auxiliary signal, training a separate timing model using representations learned solely for event prediction. However, this two-stage approach implicitly assumes that representations optimized for event prediction already contain sufficient temporal structure.   We introduce ChronoSSM, an autoregressive State Space Model (SSM) that jointly models events and timestamps with a shared backbone trained using combined token and temporal generation objectives. We compare the joint regime, where temporal supervision updates the backbone, with the two-stage regime, where timing is learned only using the frozen event representations. Across four domains spanning dense and partial timestamp supervision, joint training consistently makes inter-arrival information more recoverable from frozen representations without any systematic degradation in content-generation quality overall. Our results show that temporal supervision can produce more temporally informative representations without materially degrading autoregressive event modeling.",
+  "authors": [
+   "Adrien Schoen",
+   "Nachiketa Ratnakar Patil",
+   "Arjun Bhagoji",
+   "Francesco Bronzino"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.NI"
+  ],
+  "comment": null,
+  "first_author": "Adrien Schoen",
+  "pdf_url": "http://arxiv.org/pdf/2608.10120",
+  "primary_category": "cs.LG",
+  "published": "2026-08-10",
+  "tags": [],
+  "title": "ChronoSSM: Training for Temporally Aware Representations in Autoregressive State Space Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-10"
  },
  "2608.10260": {
   "abstract": "Lens methods interpret large language models (LLMs) by mapping intermediate activations to the output vocabulary, revealing how next-token predictions develop through the network. Trained lenses remain expensive: affine-translator parameters grow quadratically with model width, while exact, full-vocabulary Kullback--Leibler (KL) training dominates memory. Consequently, prior trained lenses have been applied to models of at most 20B parameters and remain tied to particular component types. We present OmniLens, which applies a single lens family to any model-width activation, whether residual stream, attention, or MLP, and combines two independent scaling techniques. First, low-rank translators make per-lens parameter growth linear in model width and reduce trainable parameters by up to 98.4%. Second, Subset-KL materializes only selected vocabulary logits: its Top-k mode cuts peak training memory by up to 70%, while its importance-sampled variant retains unbiased stochastic gradients for the full KL. These savings enable a dense ensemble of 482 lenses for LLaMA-3.3-70B, providing 6x the coverage of a residual-stream design at the same depth. Model-wide coverage then reveals what single-component lenses cannot: the components where a behavior is most visible need not be those where intervention is most effective, and the most effective interventions lie outside the attention heads examined by prior lens studies. Across three case studies (prompt-injection detection, multi-hop memory injection, and toxicity localization), OmniLens reproduces key published results at substantially lower cost.",
@@ -1095,6 +1418,36 @@
   ],
   "updated": "2026-08-10"
  },
+ "2608.10435": {
+  "abstract": "Diffusion models have been widely explored in protein backbone generation due to their powerful generation capabilities.However, in today's AI-driven biological research, predicting the structure of unknown multi-chain protein aggregates (called \"complexes\" in biology) remains an unsolved challenge.This is because existing static or dynamic protein datasets focus solely on static snapshots or single-entity trajectories, neglecting the dynamic process of multiple monomers forming complexes.To alleviate this dilemma, we present DynaPPI, a dynamic protein dataset comprising molecular dynamics (MD) trajectories of protein complex formation from dissociated chains to the bound state, as a pivotal resource to bridge the gap between static structural biology and the inherently temporal nature of dynamic molecular interactions.Benefiting from this dataset, diffusion models can explicitly learn the dynamic binding trajectories of known complexes and accurately predict the structures of unknown complexes based on their diverse generative properties, thereby further catalyzing AI-driven structural biology and protein interactomics.",
+  "authors": [
+   "Jiabao Wei",
+   "Zilong Geng",
+   "Yuze Wang",
+   "Jianjun Li",
+   "Ning Ding",
+   "Bowen Zhou",
+   "Bing Zhang",
+   "Zhiyuan Ma"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "9 pages, 1 figure, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: AI4Science",
+  "first_author": "Jiabao Wei",
+  "pdf_url": "http://arxiv.org/pdf/2608.10435",
+  "primary_category": "cs.CV",
+  "published": "2026-08-11",
+  "tags": [
+   "diffusion-model",
+   "molecular-dynamics"
+  ],
+  "title": "DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-11"
+ },
  "2608.10480": {
   "abstract": "Large language models (LLMs) are widely applied across chemical tasks, such as molecular property prediction, which underpins drug discovery. Molecular LLMs represent a molecule through several modalities, notably a 1D SMILES sequence or a 2D molecular graph. Both encode molecular information implicitly, so the contribution of individual substructures remains opaque. Retrieval and augmentation methods add context, but from external sources. However, the cues chemists reason over are the internal substructures that drive a property up or down. We propose MR-MoL, a multi-granular rationale-guided molecular LLM that supplies this evidence directly. A fine-tuned GNN scores each substructure through masking, and the most influential ones are serialized as a ranked, direction-tagged rationale that the LLM reads alongside the SMILES sequence and molecular graph. The rationale spans three levels of granularity: Murcko scaffolds with their side chains, BRICS fragments, and functional groups. This is, to our knowledge, the first method to expose GNN-derived attributions to an LLM as evidence for property prediction. On eight MoleculeNet tasks, MR-MoL achieves the best overall results among generalist models and narrows the gap to specialist models tuned for each task. Five diagnostics further confirm that the model reads the rationale rather than merely benefiting from its presence. Its direction, rank, and substructure each shape the prediction, and its attributions reproduce known structure-property relationships.",
   "authors": [
@@ -1119,6 +1472,32 @@
   "title": "Multi-Granular Rationale-Guided Molecular LLM for Property Prediction",
   "topics": [
    "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.10598": {
+  "abstract": "Protein backbone generation models are often credited with exploring novel fold space based solely on low full-chain similarity to known proteins, yet this cannot distinguish a genuinely new fold from a novel assembly of known structural units. We first ask whether this granularity mismatch alone explains the reported rates, and introduce the Domain Retrieval Rate (DRR), the fraction of generated backbones for which any constituent domain matches a known domain in CATH S40. Applied to eight backbone generation models spanning diffusion and flow-matching paradigms, DRR finds locally alignable known structure in most outputs, while the fraction containing a substantially covered complete domain is considerably smaller and depends on the scoring convention. To calibrate what retrieval alone can achieve, we propose RetFold, a zero-training baseline that constructs backbones by retrieving CATH domains and refining inter-domain connections through geometry-based helix-linker optimization, at two orders of magnitude lower cost on CPU alone.",
+  "authors": [
+   "Tongyue Xu",
+   "Yijie Zhang",
+   "Mutian He",
+   "Lingdong Shen",
+   "Zhihong Liu",
+   "Tianlei Ying",
+   "Cheng Tan"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Tongyue Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.10598",
+  "primary_category": "q-bio.BM",
+  "published": "2026-08-11",
+  "tags": [],
+  "title": "Is Retrieval All You Need? Assessment and Emergence of Novelty in Protein Structure Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-08-11"
  },
@@ -1190,6 +1569,110 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-08-13"
+ },
+ "2608.12083": {
+  "abstract": "Graph Neural Networks (GNNs) achieve strong predictive performance on graph-structured data across domains such as chemistry, biology, and network analysis, yet they provide no intrinsic explanation of their predictions. This limits their adoption in high-stakes and safety-critical settings. Counterfactual explanations address this by revealing the minimal structural modifications that would change a model's prediction. On graphs, however, such a modification is hard to produce. The search space is discrete and combinatorial, and a valid answer must respect categorical node and edge types together with domain rules such as chemical valency in the case of molecular graphs. Existing explainers give up one of two things. Either edits are not held on the data manifold, or the search does not span the full edit space. We propose Graph Diffusion Counterfactual Explanation via Inversion (GDCE-I), which gives up neither. A discrete denoising diffusion model with a novel discrete inversion scheme enables distribution-aware edits leveraging the whole domain edit space. We further address the incomplete and inconsistent evaluation of graph counterfactuals by deriving a framework of explanation desiderata and applying it to every method under one shared protocol. Across four benchmarks, GDCE-I outperforms related work by a large margin on the defined framework. For the molecular domain, we further qualitatively show that GDCE-I attains interpretable in-distribution solutions.",
+  "authors": [
+   "David Bechtoldt",
+   "Sidney Bender"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "David Bechtoldt",
+  "pdf_url": "http://arxiv.org/pdf/2608.12083",
+  "primary_category": "cs.LG",
+  "published": "2026-08-12",
+  "tags": [
+   "diffusion-model",
+   "gnn"
+  ],
+  "title": "Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.12084": {
+  "abstract": "We consider the setting of Normalizing flows with approximate inverses, an established paradigm spanning both full-dimensional ($d=D$) and bottleneck ($d<D$) settings, and group these models under the term flow autoencoders. We present a theoretical investigation into their training dynamics and prove that the proposed loss used by existing approaches is suboptimal; specifically, both encoder and decoder surrogates must be optimized in alignment with reconstruction loss. Guided by these insights, we propose Normalizing Autoencoder (NAE), which employs a novel conditional loss that aligns the surrogate loss gradient with that of reconstruction loss, directly improving upon the current standard. Extensive experiments across molecule generation, tabular data, and image benchmarks demonstrate that NAE achieves state of the art performance. Our work highlights the importance of loss alignment in flow autoencoders and establishes NAE as a powerful generative framework.",
+  "authors": [
+   "Muhammad Abdur Rafae",
+   "Niels Landwehr"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Muhammad Abdur Rafae",
+  "pdf_url": "http://arxiv.org/pdf/2608.12084",
+  "primary_category": "cs.LG",
+  "published": "2026-08-12",
+  "tags": [],
+  "title": "NAE: Normalizing AutoEncoder",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.12090": {
+  "abstract": "Protein language models (PLMs) have transferred the latest advances from natural language processing to computational biology. These models, trained on large corpora of protein sequence data, are widely used to translate amino acid sequences into latent-space embeddings, ready for use in diverse downstream tasks (DTs). By a common consensus, embeddings from the model's last layer are used, and the model's internal behavior remains poorly understood. We analyzed 13 PLMs across 15 DTs from 11 datasets to investigate the informativeness of embeddings created in intermediate PLM layers. We trained probe models on embeddings from each layer, compared their performance, and computed characteristics of the latent spaces they span to estimate the information they contain, and found that the last layers of PLMs rarely contained embeddings that led to the best results on downstream tasks. Furthermore, we identified a connection between DTs and the distribution across PLMs' layers of the relevant information to predict that task. For example, similarity between the pre-training objective and the objective of predicting properties of individual residues leads to a steady increase in understanding of such tasks across the layers of PLMs. On the other hand, for whole-protein tasks, we observe that the dataset, rather than the task itself, defines PLMs' ability to perform well on a DT. Embeddings from shallow layers of PLMs perform better for datasets that contain deep mutational scan (DMS) data, while datasets containing diverse natural proteins find most useful embeddings in the models' deeper layers. Additionally, we discover that the performance of PLMs drops significantly when tasks are introduced for artificial proteins.",
+  "authors": [
+   "Roman Joeres",
+   "Ilya Senatorov",
+   "Anastasia Kolchina",
+   "Dietrich Klakow",
+   "Olga V. Kalinina"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": "22 pages, 10 figures, 3 tables",
+  "first_author": "Roman Joeres",
+  "pdf_url": "http://arxiv.org/pdf/2608.12090",
+  "primary_category": "cs.LG",
+  "published": "2026-08-12",
+  "tags": [
+   "protein-llm"
+  ],
+  "title": "Task- and dataset-specific information in protein language models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.12192": {
+  "abstract": "Foundation models for protein structure prediction remain unreliable on certain targets. External oracles can flag and correct these failures, but biological oracles are expensive, making oracle budget a critical constraint. Existing guidance methods, such as FK-steering, DPO, and Best K-of-N sampling, differ in how they spend this budget, yet no systematic comparison exists to guide method selection. To bridge this gap, we benchmark these methods alongside the recently proposed Optimisation Over Outputs (O3), which applies off-the-shelf optimisers within a generative model's latent subspace. We extend the usage of O3 to protein structure prediction models. Overall, our work provides the first practical reference for oracle budget-aware guidance. Our evaluation on two protein targets, calmodulin (1CLL) and E. coli aspartate transcarbamoylase (9EEH), reveals that no single method consistently dominates across all budgets and oracles. Specifically, O3 proves most effective at low oracle budgets, while FK-steering and DPO demonstrate improved performance as the budget increases. We distil these findings into actionable recommendations for practitioners operating under real-world oracle-budget constraints.",
+  "authors": [
+   "Aleksandra Kalisz",
+   "Jack Simons",
+   "Krisztina Sinkovics",
+   "Noam Ghenassia",
+   "Shikha Surana",
+   "Henry Moss",
+   "Paul Duckworth"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "Proceedings of the ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling (SPIGM)",
+  "first_author": "Aleksandra Kalisz",
+  "pdf_url": "http://arxiv.org/pdf/2608.12192",
+  "primary_category": "cs.AI",
+  "published": "2026-08-12",
+  "tags": [
+   "generative-model",
+   "protein-structure",
+   "structure-prediction"
+  ],
+  "title": "How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-12"
  },
  "2608.12216": {
   "abstract": "With advancements in generative AI technology, an increasing number of researchers have begun exploring AI-native games in which gameplay rules are directly driven by generative AI. This paper presents \"Pharos Night: Crown Pursuit,\" an AI-native deck-building and tactical arena game based on a multi-agent system. The game uses large language models to generate materials and cards, support NPC decision-making, and mediate natural-language interactions. During play, players collect materials, describe desired card effects in natural language, and choose whether to negotiate or fight with NPCs in the arena. To constrain model-generated outcomes, the system parses responses as structured JSON, constructs card effects from predefined mechanics, and maps qualitative effect levels to designer-specified numerical values. A small-scale playtest with 13 participants suggests that the system can provide strategically meaningful and engaging AI-driven gameplay, while also revealing challenges related to predictability, transparency, and player control. This work demonstrates the potential of multi-agent generative AI systems for creating more emergent digital game experiences.",
@@ -1268,6 +1751,31 @@
   ],
   "updated": "2026-08-13"
  },
+ "2608.13123": {
+  "abstract": "Inverse problems are ubiquitous in physics, chemistry, and engineering, arising when reconstructing hidden quantities from indirect measurements. A key example is the analytic continuation of imaginary-time correlation functions (iTCFs) to the real-frequency domain. This process requires an inverse Laplace transform, which is inherently ill-posed and highly sensitive to small input variations. Recent neural network (NN)-based methods have shown promising results by learning mappings from imaginary-time to real-frequency spectra, often outperforming traditional techniques such as maximum entropy. However, because the problem is ill-posed, many spectra fit the same iTCF. Regression-based approaches output a single solution, which approximates an average over the true solution space, and therefore fail to capture the full distribution of plausible power spectra. To address this issue, we introduce a diffusion-based framework for analytic continuation that learns the distribution of spectra consistent with a given iTCF. It offers two key advantages. First, it quantifies uncertainty directly from the learned distribution. Second, by analyzing the spread and structure of this distribution, we can quantitatively assess the intrinsic hardness of each inversion problem. We measure this hardness with a new metric, the uncertainty pseudo-volume. Applying the framework to an iTCF from a path-integral molecular dynamics simulation of liquid parahydrogen, we obtain the self-diffusion coefficient with an error bar and flag a secondary high-frequency peak as a possible spurious artifact. In contrast to previous attempts at uncertainty quantification, our generative approach rests on a concrete probabilistic basis, providing a more theoretically grounded measure of confidence in the reconstructed power spectra.",
+  "authors": [
+   "Sagi Meir",
+   "Daniel Freedman",
+   "Barak Hirshberg"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Sagi Meir",
+  "pdf_url": "http://arxiv.org/pdf/2608.13123",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-08-13",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Using Diffusion Models to Estimate Uncertainties in Analytic Continuation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-13"
+ },
  "2608.13384": {
   "abstract": "Unstructured documents constitute the majority of enterprise and web data. With the rapid development of large language models(LLMs), researchers have started to build data systems that analyze unstructured textual documents like operating on databases. However, because mainstream retrieval methods still relies on fuzzy matching based on vector similarity, accurately obtaining information and performing structured analysis and reasoning remains a major challenge. To address these limitations, AnnoIndex introduces two core fundamental components. The first is Annotation Index. The system uses a module called SchemaLoop to automatically create hierarchical annotation schemas from the raw corpus, and then uses lightweight language model to extract specific values. It turns scattered unstructured text into a materialized, structured index that enables low-cost filtering and querying. The annotation index avoids the black-box matching of vector similarity and amortizes attribute extraction costs from online queries to a one-time build. The second innovation is a Structured Query Engine. It compiles user questions into execution plans based on SQL extension. It first uses the Annotation Index for precise documents filtering, then gradually applies extraction operations in ascending order of cost, resorting to LLMs only for the remaining minimal fraction of the corpus that require deep semantic understanding. The extracted attributions are merged into the annotation index, reducing the cost of future queries. Experiments on three real-world datasets demonstrate that AnnoIndex consistently outperforms state-of-the-art baselines, achieving the highest average F1 score (0.87) while maintaining robust performance on complex multi-hop join and progressive reasoning queries.",
   "authors": [
@@ -1290,5 +1798,480 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-08-13"
+ },
+ "2608.13457": {
+  "abstract": "Generating crystals has recently attracted significant interest due to their broad applications in materials science. However, existing generative models struggle to produce complete crystallographic specifications, limiting their ability to capture global symmetry and structural dependencies. In particular, current state-of-the-art approaches generate crystals only up to site symmetries and rely on sampling space groups from empirical distributions during generation. Inspired by \\emph{spontaneous symmetry breaking} in physics, where crystals break symmetries under external conditions, we propose a novel diffusion-based framework that generates full structure specifications by reversing from the lowest-symmetry priors. Our method leverages a Markovian jump-diffusion process to model these symmetry-breaking dynamics, enabling it to traverse different space groups in a physically motivated manner. Our model, dubbed \\emph{Symmetry-breaking Crystal Diffusion} (SbCD), introduces a principled approach to explicitly incorporate inter-space-group transitions into the generative process. In de novo generation experiments on MP20 and MPTS-52, SbCD outperforms its symmetry-preserving counterpart by a substantial margin, offering a promising perspective for generative modeling of crystalline materials.",
+  "authors": [
+   "Van Khoa Nguyen",
+   "Alexandros Kalousis"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Under review",
+  "first_author": "Van Khoa Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2608.13457",
+  "primary_category": "cs.LG",
+  "published": "2026-08-13",
+  "tags": [
+   "drug-discovery",
+   "generative-model",
+   "materials-science"
+  ],
+  "title": "Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.13541": {
+  "abstract": "Part-aware 3D generation aims to create digital assets that are coherent as complete objects while exposing structural parts for editing, material assignment, animation, and reuse. Existing methods impose this structure outside the native generation loop: segmentation-based methods partition an already generated shape, while additive methods synthesize parts from predefined layouts, boxes, or tokens and then reconcile them into a whole. The former preserves the generated geometry but fixes the object before part boundaries are determined; the latter exposes part cardinality but often leaves shared boundaries vulnerable to gaps, interpenetrations, and material discontinuities. In this paper, we propose SCULPT, a framework that addresses these challenges through subtractive composition. Given a complete object represented in a structured 3D latent space, SCULPT iteratively applies a joint split predictor to generate one extracted part together with the remaining object. The predictor performs a coupled denoising process conditioned on both the image and the current 3D state, so the extracted part and updated remainder are generated together rather than reconciled after generation. The joint split predictor processes both outputs on the union of their native sparse 3D supports, allowing neighboring supports to overlap rather than imposing a disjoint voxel partition. The rollout ends when the remainder support becomes empty or reaches a fixed safety cap, allowing the number of generated parts to adapt to each object within that bound. Extensive experiments demonstrate state-of-the-art geometry on PartObjaverse while preserving strong complete-object reconstruction after part assembly. Results on four dataset images, one text-to-image-generated input, and one real-world photograph further show fine-grained textured part decomposition beyond the benchmark.",
+  "authors": [
+   "Sikuang Li",
+   "Chen Yang",
+   "Jiemin Fang",
+   "Jiazhong Cen",
+   "Yuhe Wei",
+   "Jichen Pang",
+   "Wei Shen",
+   "Qi Tian"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.GR"
+  ],
+  "comment": "Project page: https://sculpt-part.github.io/ Code: https://github.com/sculpt-part/SCULPT",
+  "first_author": "Sikuang Li",
+  "pdf_url": "http://arxiv.org/pdf/2608.13541",
+  "primary_category": "cs.CV",
+  "published": "2026-08-13",
+  "tags": [],
+  "title": "SCULPT: Subtractive Composition for 3D Part Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.13676": {
+  "abstract": "Objective: Foundation models represent the next advancement in AI for EEG analysis; however current explainable AI techniques provide attribution scores in the time-channel input space, which is mismatched to clinical intuition about EEG. Thus, there is a critical need for a universal method that can extend the interpretability of any foundation model to alternative and physiologically relevant domains without modifying or retraining the underlying model. Methods: EEG-PRISM leverages linear transformations and established backpropagation rules to map time-channel attribution scores into alternative domains. We derive mappings to the frequency domain via an invertible DFT and to the source domain via an approximately invertible EEG generative model. We evaluate EEG-PRISM in simulated and real data, assessing recovery of ground-truth phenomena across domains with five foundation models and four AI explainers. Results: In simulation, EEG-PRISM achieves near-perfect spectral recovery and 69.2% spatial accuracy. In epilepsy, EEG-PRISM correctly determines that delta-theta activity is most salient and correctly localizes the seizure onset region with 50% accuracy. In autism, EEG-PRISM localizes the predictive delta-alpha biomarkers to frontal and temporal regions, consistent with prior work. Conclusion: EEG-PRISM is a theoretically-grounded post-hoc attribution method with accurate mapping into the spectral and spatial domains. It supports window-level analysis of transient events (e.g., seizures) and group-level identification of clinically relevant biomarkers (e.g., autism), thus advancing interpretable EEG foundation models. Significance: This work enables physiologically-grounded interpretation of EEG foundation models and supports clinically relevant insights such as event localization and biomarker identification.",
+  "authors": [
+   "Deeksha M Shama",
+   "Punnisa Amornsirikul",
+   "Archana Venkataraman"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Deeksha M Shama",
+  "pdf_url": "http://arxiv.org/pdf/2608.13676",
+  "primary_category": "cs.LG",
+  "published": "2026-08-13",
+  "tags": [
+   "dft",
+   "generative-model"
+  ],
+  "title": "EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.15348": {
+  "abstract": "Biochars are disordered carbonaceous materials produced by biomass pyrolysis, with applications spanning soil amendment, water remediation, carbon storage, and functional materials. Although they share structural features with other disordered carbons such as coal, kerogen, and activated carbons, the questions posed to biochar models are distinct, and no single model can answer all of them equally well. Model usefulness must be defined relative to a specific question and validated against independent experimental observables. This community roadmap, arising from a CECAM workshop, critically maps current molecular approaches: experimentally guided top-down reconstruction, mimetic bottom-up simulation, and hybrid methods. We argue that first-generation models have been more successful than is often acknowledged, provided they are built at sufficient length scale and with explicit control over microporosity and bulk chemistry. Structural and equilibrium interfacial properties are increasingly tractable with classical force fields, whereas dynamic and reactive behaviours require selective use of reactive methods within multiscale workflows. A parallel, largely unaddressed gap concerns the mineral and ash components of biochar, and the changes the material undergoes during ageing in soil. We identify seven open questions current models cannot yet answer reliably, and five community priorities: force field benchmarking, open model and data repositories, shared classification and metadata standards, ensemble validation, and training in reproducible practice. Across these, sustained interaction with experimentalists is essential to ground models in real observables and document where they fail. Progress will be accelerated by adapting transferable methods from coal, kerogen, and clay-organic matter frameworks rather than repeating trial-and-error development.",
+  "authors": [
+   "Valentina Sierra-Jimenez",
+   "Jonathan P. Mathews",
+   "Luca Bellucci",
+   "Edo Boek",
+   "Carla de Tomas",
+   "Manuel Garcia-Perez",
+   "Stef Ghysels",
+   "Paola Giudicianni",
+   "Corinna Maria Grottola",
+   "Kelly Anne Hawboldt",
+   "Robert L. Johnson",
+   "Fenna B. E. Kolff",
+   "Jean-Marc Leyssale",
+   "Diego Liberati",
+   "Francisco J. Martin-Martinez",
+   "Jacob W. Martin",
+   "Ondřej Mašek",
+   "Mohammad Mezbah Ul Hoque",
+   "Audrey Ngambia",
+   "Amaël Obliger",
+   "Frederik Ossler",
+   "Muhammad Riaz",
+   "John M. Tobin",
+   "Xiaolei Zhang",
+   "Valentina Erastova"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Valentina Sierra-Jimenez",
+  "pdf_url": "http://arxiv.org/pdf/2608.15348",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-15",
+  "tags": [
+   "mlip"
+  ],
+  "title": "What makes a useful molecular model of biochar? A community roadmap",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-15"
+ },
+ "2608.15555": {
+  "abstract": "Video models are increasingly used to predict what happens next in a scene, yet the metrics commonly used to compare their outputs say little about whether the predicted objects move correctly. Motion, geometry, identity, background stability, and visual similarity can fail independently, but whole-frame scores often mix these errors together. We introduce RigidBench, a simulator-grounded benchmark that compares a generated continuation with a reference rollout from the same initial frame and motion description. Its five rigid-body tasks vary objects, materials, viewpoints, and indoor and outdoor scenes, with per-frame masks, depth, 6-DoF trajectories, and contacts available for scoring. We evaluate eight models on the same 100 examples with ten measurements that keep these aspects separate. The resulting rankings depend strongly on what is measured: no model leads on all ten, and across model means, higher SSIM accompanies larger 3D trajectory error (r = 0.89). RigidBench also includes 5,000 training videos with exact simulator state, which we use to fine-tune and analyze Wan 2.2 TI2V-5B. Full fine-tuning reduces 3D trajectory error by about 20% with almost no change in SSIM, while teacher-forced probes and targeted interventions show that object position is represented throughout Wan's diffusion transformer and used by its denoising computation.",
+  "authors": [
+   "Swarnim Jain",
+   "Shangzhe Wu"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": "30 pages, including appendices. Code: https://github.com/swarnim-j/RigidBench. Dataset: https://doi.org/10.5281/zenodo.21649156",
+  "first_author": "Swarnim Jain",
+  "pdf_url": "http://arxiv.org/pdf/2608.15555",
+  "primary_category": "cs.CV",
+  "published": "2026-08-16",
+  "tags": [],
+  "title": "RigidBench: Evaluating Rigid-Body Physics in Video Generation Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-16"
+ },
+ "2608.15669": {
+  "abstract": "Scientific discovery often involves optimising expensive-to-evaluate objectives over vast, structured, and open-ended hypothesis spaces, such as molecules, protein sequences, and computer programs. Generative models such as large language models (LLMs) provide expressive priors over such spaces, but their likelihoods and self-assessments are unreliable proxies for the objectives and calibrated epistemic uncertainty, especially for novel candidates outside the observed data distribution. We introduce the Large Discovery Model (LDM), an empirically grounded recurrent architecture that couples a generative model with a Bayesian non-parametric reward surrogate model. The generative model proposes and refines candidate designs, while the surrogate predicts their performance and quantifies uncertainty, yielding an uncertainty-aware value that guides candidate generation, refinement, and selection. The discovery memory and the surrogate model are continually updated as each new experimental observation arrives. We evaluate LDM on three scenarios spanning different design modalities and objectives, including neural-network training, antibody design, and molecular optimisation. Compared to LLM-only reflection or traditional statistical search across these domains, LDM achieves a $2.4\\times$ greater reduction in validation BPB, an $18.2\\%$ relative decrease in binding energy, and more than $60\\%$ relative gains in molecular multi-objective performance. These results suggests that LDM could serve as a general-purpose discovery engine for effective search over open-ended hypothesis spaces.",
+  "authors": [
+   "Zhongwei Yu",
+   "Yan Song",
+   "Xue Yan",
+   "Anjie Liu",
+   "Xingyu Lu",
+   "Yihang Chen",
+   "Huichi Zhou",
+   "Siyuan Guo",
+   "Luoyang Sun",
+   "Sihan Chen",
+   "Xiangning Yu",
+   "Jun Wang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zhongwei Yu",
+  "pdf_url": "http://arxiv.org/pdf/2608.15669",
+  "primary_category": "cs.LG",
+  "published": "2026-08-16",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-16"
+ },
+ "2608.15900": {
+  "abstract": "Data-driven materials discovery interpolates more reliably than it extrapolates and seldom reaches new structure types. We present MatEvolve, an agentic-AI framework designing crystals, proposing each candidate with a stated rationale and testing it. The agent reasons in an interpretable \\emph{language of motifs}, writing each crystal as a \\emph{motif profile} that describes the recurring geometric patterns---the \\emph{motifs}---composing it. The motif profile serves not merely as a description of a material but as the medium for material design: the agent edits the profile and constructs a crystal from the modified one, and the most promising candidates are validated by first-principles calculation. Applied to the design of rare-earth-lean permanent magnets, MatEvolve---built on the state-of-the-art language model Claude Fable~5 without fine-tuning---reaches new structural prototypes more than three times as often as generative models under an equal validation budget, at a comparable on-target-magnet rate. Beyond design, analysing the discovered crystals' human-readable profiles reveals structure--property relationships.",
+  "authors": [
+   "Dinh-Khiet Le",
+   "Minh-Quyet Ha",
+   "Hong-Phuc Vu-Dinh",
+   "Takashi Miyake",
+   "Hiori Kino",
+   "Hieu-Chi Dam"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Dinh-Khiet Le",
+  "pdf_url": "http://arxiv.org/pdf/2608.15900",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-16",
+  "tags": [
+   "ab-initio",
+   "generative-model",
+   "materials-discovery"
+  ],
+  "title": "Crystal-structure design by agentic AI in a language of motifs",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-16"
+ },
+ "2608.16005": {
+  "abstract": "This paper studies the problem of molecule-text alignment, which aims to project molecules and their textual descriptions into a joint latent space for downstream tasks including molecule search and molecular property prediction. Previous approaches typically combine graph structure mining with contrastive learning to enhance joint representation learning. However, they typically neglect fine-grained semantic relationships between substructures and texts, leading to suboptimal performance on downstream tasks. Towards this end, we propose a novel approach named Retrieval-guided Twin Fusion with Similarity-aware Contrast (RISEN) for molecule-text alignment. The core idea of RISEN is to construct a latent twin molecule for each substructure with cross-modal retrieval for semantic enhancement. In particular, for each substructure query, we retrieve relevant textual descriptions and sample several molecules that share similar descriptions of substructures. Then, we aggregate their representations via attention pooling for a twin latent representation, which would be further fused with the original substructure for representation enrichment. In addition, we measure the similarity across substructures and texts, which would further guide cross-modal contrastive learning with soft thresholding. Extensive experiments on benchmark datasets validate the superiority of the proposed RISEN in comparison with existing baselines.",
+  "authors": [
+   "Shunshun Gu",
+   "Shengqi Qiu",
+   "Hang Zhou",
+   "Xiao Luo"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Shunshun Gu",
+  "pdf_url": "http://arxiv.org/pdf/2608.16005",
+  "primary_category": "cs.LG",
+  "published": "2026-08-17",
+  "tags": [
+   "property-prediction"
+  ],
+  "title": "Retrieval-guided Twin Fusion with Similarity-aware Contrast for Molecule-Text Alignment",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16094": {
+  "abstract": "Accurate protein structure prediction is fundamental to structural biology because protein structure underlies molecular function and provides a basis for mechanistic interpretation. Recent advances in deep learning have transformed the field from multiple sequence alignment (MSA)-driven monomer folding into broader frameworks capable of modeling protein complexes and increasingly heterogeneous molecular systems. Existing reviews have summarized this progress from the perspectives of representative models, application domains, and protein design. Building on these efforts, this review focuses on the methodological evolution of the field itself. It examines recent developments through three closely related dimensions: representations and data, architectures and learning strategies, and confidence and evaluation. Within this perspective, the field is organized into four methodological phases and three cross-cutting transitions: from explicit evolutionary coupling features and early contact prediction to learned sequence representations in AlphaFold2, RoseTTAFold, and ESMFold; from protein-only monomer folding to increasingly integrated modeling of heterogeneous molecular systems in AlphaFold-Multimer, RoseTTAFoldNA, and AlphaFold3; and, more recently, from prediction-oriented structure inference to design-oriented generative modeling in RFdiffusion and related frameworks. This framework provides a clearer understanding of how methodological shifts have shaped the capabilities, limitations, and practical roles of recent models.",
+  "authors": [
+   "Wengan He",
+   "Yongsheng Luo",
+   "Lihong Jiang",
+   "Wenhui Xu",
+   "Yu Li"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "15 pages, 4 figures, 4 tables. Preprint submitted to Elsevier",
+  "first_author": "Wengan He",
+  "pdf_url": "http://arxiv.org/pdf/2608.16094",
+  "primary_category": "cs.AI",
+  "published": "2026-08-17",
+  "tags": [
+   "protein-structure",
+   "structure-prediction"
+  ],
+  "title": "Protein Structure Prediction: From Evolutionary Constraints to Generative Modeling",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16100": {
+  "abstract": "Generative image semantic communication converts an image into a text description and then performs text-to-image reconstruction at the receiver via diffusion-based generative models. This paradigm has attracted broad attention due to its extremely low bandwidth cost. However, existing methods still face two critical bottlenecks across image-to-text (I2T) semantic extraction at the transmitter and text-to-image (T2I) semantic reconstruction at the receiver: (i) semantic loss and distortion in I2T, where holistic image descriptions may omit fine-grained object attributes and spatial-position information, causing the generated text to deviate from the original image semantics; and (ii) insufficient semantic faithfulness in T2I, where even with the same semantically faithful text description, different initial noise settings may lead diffusion-based reconstruction to produce images with different levels of semantic consistency with the original image. These issues jointly limit the semantic faithfulness of image reconstruction. To address them, we propose TISC, a text-driven image semantic communication framework tailored for faithful reconstruction. TISC incorporates two key designs: (1) Tree-Structured Attribute Semantic Extraction (TSASE), which decomposes semantic extraction into global scene, background, and object-level attribute descriptions, covering spatial position, shape/pose, color, material, and other physical attributes for each detected object; and (2) an Initial Noise Optimization (INO) mechanism, which selects an initial noise seed at the transmitter according to a comprehensive similarity score that jointly considers visual and semantic consistency. Experiments on multiple datasets show that TSASE improves object-position recovery and semantic description faithfulness, while the INO parameter study supports the adopted configuration for noise selection.",
+  "authors": [
+   "Feifan Zhang",
+   "Yuyang Du",
+   "Xiaoyan Liu",
+   "Soung Chang Liew"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.NI"
+  ],
+  "comment": null,
+  "first_author": "Feifan Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.16100",
+  "primary_category": "cs.CV",
+  "published": "2026-08-17",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "TISC: A Text-Driven Image Semantic Communication System for Faithful Reconstruction",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16195": {
+  "abstract": "Achieving human-level competitive intelligence and physical agility in humanoid robots remains a profound challenge, particularly in contact-rich and highly dynamic tasks such as boxing. While Multi-Agent Reinforcement Learning offers a principled framework for strategic interaction, its direct application to unstructured raw motor spaces inevitably leads to joint-level physical collapse, preventing the emergence of any viable combat tactics. To resolve this fundamental conflict between strategic exploration and physical feasibility, we formulate the humanoid combat task as a novel two-player latent-space zero-sum Markov game. Under standard regularity and approximate best-response assumptions, we show that the latent formulation induces an equivalent game over the decoder-reachable action manifold, providing an approximate-Nash interpretation of the resulting self-play dynamics. To instantiate this theoretical formulation, we propose RoboStriker, a hierarchical framework that decouples high-level reasoning from low-level execution. It first distills the tracking expertise of predefined boxing motions into a topologically bounded latent manifold. This structured latent foundation subsequently drives multi-agent co-evolution via Latent-Space Neural Fictitious Self-Play. Extensive experimental results demonstrate that gaming within this structured latent space substantially outperforms direct exploration. By constraining strategic exploration through a pretrained motion decoder, RoboStriker substantially reduces the catastrophic balance failures observed in raw action-space methods and achieves superior tactical performance in both competitive win rates and striking efficiency. Finally, we successfully deploy and validate our learned combat policies on real-world humanoid robots. Our code and video and supplementary materials are available at RoboStriker.",
+  "authors": [
+   "Kangning Yin",
+   "Kaige Liu",
+   "Zhe Cao",
+   "Wentao Dong",
+   "Weishuai Zeng",
+   "Tianyi Zhang",
+   "Qiang Zhang",
+   "Jingbo Wang",
+   "Jiangmiao Pang",
+   "Yang Li",
+   "Ming Zhou",
+   "Weinan Zhang"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Kangning Yin",
+  "pdf_url": "http://arxiv.org/pdf/2608.16195",
+  "primary_category": "cs.RO",
+  "published": "2026-08-17",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16351": {
+  "abstract": "Dexterous grasp generation that considers arm-related constraints is crucial in real-world scenarios involving arm environment collision avoidance, workspace boundary grasps, and consecutive grasping. Existing hand-centric grasp models, which primarily focus on the floating hand's pose, are insufficient for such cases. Conventional arm-aware methods either rely on rejection sampling to discard infeasible samples or require retraining on arm-specific data, leading to low sample efficiency under adverse conditions or limited generalization across different robots and environments. To overcome these limitations, this letter presents an arm-aware dexterous grasp generation framework that leverages pretrained arm-agnostic grasp models while integrating arm and environmental information only at inference time. Specifically, we formulate arm-aware constrained grasp generation as a joint optimization of hand pose and arm configuration, and derive closed-form gradients for arm-related constraints. Assuming the hand pose distribution is represented by a diffusion model, we prove that gradient-based optimization is equivalent to guided diffusion sampling, steering near-feasible samples toward the feasible region. Through comprehensive evaluation involving 10k objects across 6 scenarios, we demonstrate that the proposed framework generates feasible grasps in highly constrained settings with significantly higher probability, highlighting its advantages in real-world applications. Supplementary materials and appendix are available at https://arm-aware-dexgrasp.github.io/.",
+  "authors": [
+   "Yongyi Jia",
+   "Yongpeng Jiang",
+   "Kangchen Lv",
+   "Yi Ren",
+   "Mingrui Yu",
+   "Xiang Li"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Yongyi Jia",
+  "pdf_url": "http://arxiv.org/pdf/2608.16351",
+  "primary_category": "cs.RO",
+  "published": "2026-08-17",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Arm-Aware Guided Dexterous Grasp Generation with Arm-Agnostic Grasp Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16364": {
+  "abstract": "Designing electrolyte molecules for lithium batteries requires balancing electronic stability with appropriate Li+ solvation, yet the structural basis remains unclear across chemically diverse molecules. High-throughput screening expands the searchable space, but ranked candidates alone do not reveal recurring motifs or their applicability limits. We searched nearly one billion GDB13 structures using electronic--solvation descriptors without explicit functional-group preferences or scaffold constraints. Across descriptor weights, high-ranking populations separated into a nitrile-dominant regime and a coexistence regime containing substantial fractions of both nitrile- and ether-containing molecules. These regimes together define a nitrile-centered, ether-assisted motif hierarchy: nitrile remains favored across broad weight ranges, whereas ether becomes prominent under stronger electrostatic and polarity constraints. Encoding this hierarchy in a generative model expands the candidate space beyond GDB13 and yields high-scoring fluorinated structures without an explicit fluorination reward. Explicit-solvent molecular dynamics simulations show weak, exchangeable coordination of representative candidates without displacing ethylene carbonate from the dominant first solvation shell around Li+; effects on ion association and transport depend on molecular structure and concentration. These results establish a quantitative, interpretable and physically bounded motif hierarchy that systematizes established nitrile and ether chemistry for lithium-battery electrolyte design.",
+  "authors": [
+   "Yifeng Xia",
+   "Guanghui Wang",
+   "Sining Wang",
+   "Wenting Chen",
+   "Zheng Cheng",
+   "Jinzhe Zeng",
+   "Qiangqiang Gu"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 5 figures, including a graphical abstract",
+  "first_author": "Yifeng Xia",
+  "pdf_url": "http://arxiv.org/pdf/2608.16364",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-17",
+  "tags": [
+   "battery-materials",
+   "generative-model",
+   "molecular-dynamics"
+  ],
+  "title": "Extracting a nitrile-centered, ether-assisted motif hierarchy for lithium-battery electrolyte design from billion-scale molecular space",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16424": {
+  "abstract": "Generative modeling has shown increasing promise for predicting cellular perturbation effects under chemical compound treatments. Existing approaches either model perturbation as a distribution-to-distribution mapping without explicit concentration handling, or treat concentration as a discrete class label, precluding continuous dose control. We introduce a joint flow matching approach that simultaneously models cell latents and drug concentration via a dual-timestep formulation, enabling dose-conditioned single-cell morphing through the invertibility of flow matching. The joint formulation induces a monotonic dose-response geometry in latent space and additionally supports concentration estimation from cell morphology. As proof of concept, we further demonstrate generalization to an unseen dose held out during training. Empirically, our method achieves competitive or improved per-concentration metrics on two compounds compared with representative baselines, while enabling capabilities structurally unavailable to discrete-class methods.",
+  "authors": [
+   "Lea Bogensperger",
+   "Manuela Merlo",
+   "Martin Baumgartner",
+   "Michael Krauthammer",
+   "Bernard Ciraulo"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Lea Bogensperger",
+  "pdf_url": "http://arxiv.org/pdf/2608.16424",
+  "primary_category": "cs.CV",
+  "published": "2026-08-17",
+  "tags": [],
+  "title": "Joint Flow Matching Enables Continuous Dose-Conditioned Cell Morphing",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16436": {
+  "abstract": "Sample-based quantum diagonalization (SQD) and quantum-selected configuration interaction (QSCI) are the electronic-structure methods with most hardware traction, yet their canonical target -- the ground-state energy -- is where classical methods have caught up. We move the target to dynamics and the resource question. From one bitstring-sampling primitive -- computational-basis measurements of a shallow real-time circuit, with no Hadamard or controlled unitaries -- we reconstruct, from sampled subspaces, the single-particle spectral functions $A(ω)$ and $A(k,ω)$ and the neutral-sector dynamical structure factors $S(q,ω)$ and $S^{zz}(q,ω)$, each built classically in the Lehmann representation from its own subspace. The reconstruction matches exact diagonalization on Hubbard chains and, for $A(ω)$, across nineteen molecules (FCI-verified to $<10^{-5}$ Ha), and runs on the IBM Heron processor. Second, we ask which resource controls the cost -- the determinant support $|\\mathcal{S}|$ the sampler must populate. On number-conserving states the fermionic AntiFlatness collapses to one 1-RDM invariant, $\\mathcal{F}_1 = 4\\,\\mathrm{tr}[γ(1-γ)] = 2N_u$. An orbital-rotation (Gaussian) invariant while $|\\mathcal{S}|$ is basis dependent, $\\mathcal{F}_1$ is provably decoupled from the cost; the cost is instead lower-bounded and tracked by the entanglement -- the minimal bond dimension $χ$ (Spearman $ρ= 0.90$). One-body magic is thus a faithful multireference diagnostic but an unreliable cost predictor; any genuine advantage lives in the non-Gaussianity of the higher-body cumulants. We prove moment exactness and a sampling bound polynomial in $|\\mathcal{S}|$, independent of Hilbert-space dimension. Self-consistent configuration recovery improves the subspace under device noise, while a learned generative model does not beat that classical baseline.",
+  "authors": [
+   "Nicolás Bonilla Vargas"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.str-el"
+  ],
+  "comment": "39 pages, 20 figures. Code and full reproduction repository: https://github.com/nicolasbonilla/dynamical-spectral-functions-sqd",
+  "first_author": "Nicolás Bonilla Vargas",
+  "pdf_url": "http://arxiv.org/pdf/2608.16436",
+  "primary_category": "quant-ph",
+  "published": "2026-08-17",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "Dynamical spectral functions from bitstring-sampled quantum subspaces: entanglement, not one-body magic, tracks the sampling cost",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16951": {
+  "abstract": "What happens when you teach an LLM-based agent the scientific method?   Motivation: Scientific discovery emerges from cycles of hypothesis, implementation, empirical testing, and feedback. Can this process be automated? We approach automated algorithm design through the lens of the scientific method, where an LLM-based agent goes through each step of the process in an ordered, iterative fashion.   Results: We present The Little Scientist, a framework in which a \"Scientist agent\" works inside an evaluation environment that benchmarks its code and returns structured per-instance diagnostics. When the Scientist plateaus at a local optimum, a \"Kuhn agent\" injects a paradigm-shifting conjecture paired with a cross-disciplinary inspiration, forcing exploration of a different region of the LLM's latent space. We demonstrate the framework on two problems that require fundamentally different modes of discovery. For protein fitness prediction, the Scientist discovered Delta V, an ensemble calibration strategy that ranks first on the ProteinGym DMS Substitutions Zero-Shot leaderboard across all five official evaluation metrics, exceeding the #2 model (VenusREM) by +0.033 mean Spearman correlation across 217 DMS assays. For DNA motif discovery, the Scientist wrote an algorithm from scratch--DALE (Dual-seed Algorithm for Latent Enumeration)--that outperforms STREME (the default in the MEME Suite) across 132 ENCODE transcription factors (mean AUROC 0.842 vs. 0.803, Wilcoxon p < 10^{-6}) while running 11x faster. This demonstrates that the framework can produce genuinely novel algorithms, not just optimize existing components. Together, these results show that an LLM agent stepping through the scientific method can discover both new algorithms and new ensemble strategies that outperform prior solutions. The entire research program consumed 704M tokens on a single virtual machine with no GPUs",
+  "authors": [
+   "Travis Smith"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.MA"
+  ],
+  "comment": "Code: https://github.com/travis42/little-scientist-dale and https://github.com/travis42/little-scientist-delta-v (Apache 2.0)",
+  "first_author": "Travis Smith",
+  "pdf_url": "http://arxiv.org/pdf/2608.16951",
+  "primary_category": "q-bio.QM",
+  "published": "2026-08-16",
+  "tags": [],
+  "title": "The Little Scientist: LLM Agent-Driven Discovery via the Scientific Method",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-16"
+ },
+ "2608.17796": {
+  "abstract": "Deep learning-based DDoS detectors for 5G-enabled cyber-physical systems face scarce labeled attack data and unrealistic synthetic substitutes, which limit robustness against adaptive adversaries. Detectors trained on hand-crafted attacks with fixed scaling multipliers degrade catastrophically (F1-score drops of about 47 percent to 100 percent, depending on scenario) when confronted with realistic, distribution-preserving samples. We propose Diff-DDoS, a three-phase framework for realistic attack synthesis and robust detection using tabular diffusion models. Phase 1 trains a baseline CNN cell-level detector on spatiotemporal grids from call detail records (CDRs). Phase 2 trains a tabular denoising diffusion probabilistic model (TabDDPM) on normal CDR aggregates to generate realistic attacks and expose detector vulnerabilities. Phase 3 introduces adversarial diffusion training (ADT), using inverse classifier guidance to generate hard yet distribution-preserving samples until the detector converges. On a Milano CDR dataset across SMS-flooding, silent-call, Internet-signaling, and blended scenarios, ResNet50 with ADT recovers F1-scores of 79.62 percent (silent-call), 100 percent (Internet), and 92.79 percent (blended). After validation-based threshold calibration, ADT reaches 100 percent SMS F1 versus 47.3 percent for CTGAN, and matches the strongest gradient-based adversarial-training baseline on silent-call. These results support tabular diffusion models for stress-testing and hardening intrusion detectors in data-scarce 5G cyber-physical deployments.",
+  "authors": [
+   "Bilal Hussain",
+   "Xiao Tang",
+   "Qinghe Du",
+   "Tan Li",
+   "Muhammad Azhar",
+   "Danista Khan"
+  ],
+  "categories": [
+   "cs.CR",
+   "cs.LG"
+  ],
+  "comment": "Accepted manuscript. IEEE Transactions on Industrial Informatics, paper no. TII-26-6533. 11 pages + 9-page supplementary material (ancillary PDF). (c) 2026 IEEE. Personal use of this material is permitted",
+  "first_author": "Bilal Hussain",
+  "pdf_url": "http://arxiv.org/pdf/2608.17796",
+  "primary_category": "cs.CR",
+  "published": "2026-08-18",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-18"
  }
 }

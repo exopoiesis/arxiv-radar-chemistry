@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13457.html">Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Van Khoa Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13457">2608.13457</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
@@ -416,17 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28862.html">Molecular Lead Optimization via Agentic Tool Planning</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Lingxiao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28862">2605.28862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="protein-llm-90d.html">protein-llm</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Mansoor Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21485">2605.21485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21740.html">SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
-<td>Kevin Han et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21740">2605.21740</a></td>
 </tr>
 </tbody></table>

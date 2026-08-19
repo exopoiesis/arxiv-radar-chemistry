@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04813.html">Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics</a></div></td>
+<td>Edgars Butanovs et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04813">2608.04813</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00771.html">High-speed and high-gain graphene photovoltaic phototransistor gated by a van der Waals heterojunction</a></div></td>
 <td>Yihan Yin et al.</td>
@@ -482,11 +488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Adam Hložný et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22601">2605.22601</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21231.html">Destructive interference of second harmonic generation in AA stacked MoTe$_2$/WSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Yiduo Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21231">2605.21231</a></td>
 </tr>
 </tbody></table>

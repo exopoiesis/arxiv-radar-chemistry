@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">248 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16094.html">Protein Structure Prediction: From Evolutionary Constraints to Generative Modeling</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Wengan He et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16094">2608.16094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12192.html">How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Aleksandra Kalisz et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12192">2608.12192</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23975.html">Plato-Bio: verification-first biological novelty screening with temporal rediscovery and structural benchmarks</a></div></td>

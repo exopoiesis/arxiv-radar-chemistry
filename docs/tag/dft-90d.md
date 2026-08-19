@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">292 papers</span>
+  <span class="paper-count">288 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13676.html">EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Deeksha M Shama et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13676">2608.13676</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24327.html">Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
@@ -1736,35 +1742,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Adam Hložný et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22601">2605.22601</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20581.html">TriForces: Augmenting Atomistic GNNs for Transferable Representations</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Ali Ramlaoui et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20581">2605.20581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20972.html">In-Plane Ferromagnetism and Critical Dynamics in Alkali-Deficient K$_{1-x}$CrTe$_2$ (with $x \approx$ 0.3) Single Crystals</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Catherine Witteveen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20972">2605.20972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20985.html">Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Jiale Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20985">2605.20985</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21037.html">Configuration-interaction time-dependent density functional theory for nuclear dynamics</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Y. P. Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21037">2605.21037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21767.html">Uncovering Antipolar Ordering and Pressure-Tunable Phases in Hexagonal LaN</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Atanu Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21767">2605.21767</a></td>
 </tr>
 </tbody></table>

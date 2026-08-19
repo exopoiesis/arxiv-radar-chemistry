@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">218 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04651.html">Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Alexandros Ntagiantas et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04651">2608.04651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04113.html">Out-Of-The-Loop Multi-Fidelity Bayesian Optimization</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Gustavo Sutter et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04113">2608.04113</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-15</td>

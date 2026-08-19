@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16195.html">RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing</a></div></td>
+<td>Kangning Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16195">2608.16195</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06474.html">WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader</a></div></td>
 <td>Boshui Chen et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19044.html">Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Mingxuan Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19044">2607.19044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17412.html">CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Yasheng Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17412">2607.17412</a></td>
 </tr>
 </tbody></table>

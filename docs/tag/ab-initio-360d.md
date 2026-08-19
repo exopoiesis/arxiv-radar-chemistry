@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15900.html">Crystal-structure design by agentic AI in a language of motifs</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Dinh-Khiet Le et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15900">2608.15900</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05957.html">ASE2SPRKKR: a unified Python framework integrating the Spin-Polarized Relativistic Korringa-Kohn-Rostoker method into the Atomic Simulation Environment</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Ridha Eddhib et al.</td>
@@ -8852,11 +8858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17422.html">Ambient-Pressure Superconductivity from Boron Icosahedral Superatoms</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Simone Di Cataldo et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17422">2508.17422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16940.html">Phonon anharmonicity-driven charge density wave transition and ultrafast dynamics in 1T-TaS2/TaSe2</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Wenqian Tu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16940">2508.16940</a></td>
 </tr>
 </tbody></table>

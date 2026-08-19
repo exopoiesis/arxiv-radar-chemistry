@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16094.html">Protein Structure Prediction: From Evolutionary Constraints to Generative Modeling</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Wengan He et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16094">2608.16094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12192.html">How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Aleksandra Kalisz et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12192">2608.12192</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23975.html">Plato-Bio: verification-first biological novelty screening with temporal rediscovery and structural benchmarks</a></div></td>
@@ -212,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Alon Shtrikman et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21485.html">EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Mansoor Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21485">2605.21485</a></td>
 </tr>
 </tbody></table>

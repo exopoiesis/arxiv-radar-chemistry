@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">549 papers</span>
+  <span class="paper-count">550 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07637.html">Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Yijie Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07637">2608.07637</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07648.html">Leveraging generative models to assist Monte Carlo sampling</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="generative-model-all.html">generative-model</a></div></td>
+<td>Marylou Gabrié</td>
+<td><a href="http://arxiv.org/abs/2608.07648">2608.07648</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-22</td>

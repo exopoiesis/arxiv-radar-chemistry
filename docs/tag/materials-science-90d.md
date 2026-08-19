@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13457.html">Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Van Khoa Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13457">2608.13457</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06931.html">Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
@@ -260,17 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24700.html">SRUG: Shadow-Guided Relightable Urban Scene with Generation Model</a></div></td>
 <td>Yonghao Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24700">2605.24700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20819.html">DynaMate2: Democratization of Agentic AI for Expert-Designed Custom Workflows</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Orlando A. Mendible-Barreto et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20819">2605.20819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21083.html">AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>D. -M. Mei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21083">2605.21083</a></td>
 </tr>
 </tbody></table>

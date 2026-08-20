@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1483 papers</span>
+  <span class="paper-count">1482 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8906,11 +8906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18241.html">Atomistic Structure of Transient Switching States in Ferroelectric AlScN</a></div></td>
 <td>Jiawei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18241">2508.18241</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04987.html">Giant mobility of surface-trapped ionic charges following liquid tribocharging</a></div></td>
-<td>Zouhir Benrahla et al.</td>
-<td><a href="http://arxiv.org/abs/2503.04987">2503.04987</a></td>
 </tr>
 </tbody></table>

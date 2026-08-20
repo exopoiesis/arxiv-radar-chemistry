@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18147.html">A Scalable Heuristic for Molecular Docking on Neutral-Atom Quantum Processors</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Mathieu Garrigues et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18147">2508.18147</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17555.html">Boltzina: Efficient and Accurate Virtual Screening via Docking-Guided Binding Prediction with Boltz-2</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Kairi Furui et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17555">2508.17555</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,11 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18129.html">Evaluating Moment Tensor Potential in Ag-Cu Alloy: Accuracy, Transferability, and Phase Diagram Fidelity</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Mashroor S. Nitol et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18129">2508.18129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17268.html">Phonons Drive the Topological Phase Transition in Quasi-One-Dimensional Bi$_4$I$_4$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Wenjie Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17268">2508.17268</a></td>
 </tr>
 </tbody></table>

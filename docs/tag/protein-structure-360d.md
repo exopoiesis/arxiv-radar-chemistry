@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">249 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1508,11 +1508,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18567.html">Sparse Autoencoders for Low-$N$ Protein Function Prediction and Design</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Darin Tsui et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18567">2508.18567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17345.html">ShortListing Model: A Streamlined SimplexDiffusion for Discrete Variable Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Yuxuan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17345">2508.17345</a></td>
 </tr>
 </tbody></table>

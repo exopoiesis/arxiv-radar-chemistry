@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,17 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18446.html">From Prediction to Simulation: AlphaFold 3 as a Differentiable Framework for Structural Biology</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Alireza Abbaszadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18446">2508.18446</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17422.html">Ambient-Pressure Superconductivity from Boron Icosahedral Superatoms</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Simone Di Cataldo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17422">2508.17422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17555.html">Boltzina: Efficient and Accurate Virtual Screening via Docking-Guided Binding Prediction with Boltz-2</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Kairi Furui et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17555">2508.17555</a></td>
 </tr>
 </tbody></table>

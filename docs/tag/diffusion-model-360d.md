@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">435 papers</span>
+  <span class="paper-count">434 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2618,11 +2618,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18949.html">Energy-Based Flow Matching for Generating 3D Molecular Structure</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Wenyin Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18949">2508.18949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17345.html">ShortListing Model: A Streamlined SimplexDiffusion for Discrete Variable Generation</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Yuxuan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17345">2508.17345</a></td>
 </tr>
 </tbody></table>

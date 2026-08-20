@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1474 papers</span>
+  <span class="paper-count">1470 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8834,29 +8834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18372.html">Multiple Dirac Spin-Orbital Liquids in SU(4) Heisenberg Antiferromagnets on the Honeycomb Lattice</a></div></td>
 <td>Manoj Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18372">2508.18372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16052.html">Machine learning the local electronic density of states</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>A. Aryanpour et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16052">2504.16052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17240.html">Tunable Valley Polarization and Anomalous Hall Effect in Ferrovalley NbX2 and TaX2 (X = S, Se, Te): A First-Principles Study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Samiul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17240">2508.17240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17268.html">Phonons Drive the Topological Phase Transition in Quasi-One-Dimensional Bi$_4$I$_4$</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Wenjie Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17268">2508.17268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17422.html">Ambient-Pressure Superconductivity from Boron Icosahedral Superatoms</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Simone Di Cataldo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17422">2508.17422</a></td>
 </tr>
 </tbody></table>

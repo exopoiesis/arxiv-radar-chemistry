@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">376 papers</span>
+  <span class="paper-count">373 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2252,23 +2252,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18391.html">PKG-DPO: Optimizing Domain-Specific AI systems with Physics Knowledge Graphs and Direct Preference Optimization</a></div></td>
 <td>Nitin Nagesh Kulkarni et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18391">2508.18391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16052.html">Machine learning the local electronic density of states</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>A. Aryanpour et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16052">2504.16052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03140.html">HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Ibne Farabi Shihab et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03140">2505.03140</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12051.html">GUST: Quantifying Free-Form Geometric Uncertainty of Metamaterials Using Small Data</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Jiahui Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12051">2506.12051</a></td>
 </tr>
 </tbody></table>

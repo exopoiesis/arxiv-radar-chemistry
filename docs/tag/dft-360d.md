@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1946 papers</span>
+  <span class="paper-count">1939 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11648,47 +11648,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19223.html">MC3D: The Materials Cloud computational database of experimentally known stoichiometric inorganics</a></div></td>
 <td>Sebastiaan P. Huber et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19223">2508.19223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11932.html">Computational Study of Li+ Solvation Structures in Fluorinated Ether, Non-Fluorinated Ether, and Organic Carbonate-Based Electrolytes at Low and High Salt Concentrations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Rumana Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11932">2501.11932</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13672.html">Graphene-hBN interlayer interactions from quantum Monte Carlo</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Kittithat Krongchon et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13672">2503.13672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14208.html">Parallel Exploration of the Optoelectronic Properties of (Sb,Bi)(S,Se)(Br,I) Chalcohalides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Rasmus S. Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14208">2505.14208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17673.html">Twist-angle transferable continuum model and second flat Chern band in twisted MoTe2 and WSe2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Xiao-Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17673">2508.17673</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18129.html">Evaluating Moment Tensor Potential in Ag-Cu Alloy: Accuracy, Transferability, and Phase Diagram Fidelity</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Mashroor S. Nitol et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18129">2508.18129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18135.html">Investigating the Electrical Transport Properties and Electronic Structure of Zr2CuSb3</a></div></td>
-<td>Eoghan Downey et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18135">2508.18135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18455.html">Exploration of Hexagonal, Layered Carbides and Nitrides as Ultra-High Temperature Ceramics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Kat Nykiel et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18455">2508.18455</a></td>
 </tr>
 </tbody></table>

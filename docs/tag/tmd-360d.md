@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmd — 360d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <strong>360d</strong> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04685.html">Electromagnetic response and emergent topological orders in transition metal dichalcogenide MoTe$_2$ bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Tianhong Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04685">2505.04685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17673.html">Twist-angle transferable continuum model and second flat Chern band in twisted MoTe2 and WSe2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Xiao-Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17673">2508.17673</a></td>
 </tr>
 </tbody></table>

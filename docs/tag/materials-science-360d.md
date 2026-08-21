@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">373 papers</span>
+  <span class="paper-count">371 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2240,17 +2240,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20143.html">CrystalICL: Enabling In-Context Learning for Crystal Generation</a></div></td>
 <td>Ruobing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20143">2508.20143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14208.html">Parallel Exploration of the Optoelectronic Properties of (Sb,Bi)(S,Se)(Br,I) Chalcohalides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Rasmus S. Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14208">2505.14208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18391.html">PKG-DPO: Optimizing Domain-Specific AI systems with Physics Knowledge Graphs and Direct Preference Optimization</a></div></td>
-<td>Nitin Nagesh Kulkarni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18391">2508.18391</a></td>
 </tr>
 </tbody></table>

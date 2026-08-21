@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20194.html">OLEDLM: A Unified Language Model for OLED Molecular Design</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Fukang Wen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20194">2607.20194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19003.html">Deciphering Mechanoluminescence: How the Nature of Mechanical Stress and Structural Dimensionality Shape Mechanisms and Responses</a></div></td>
-<td>Alexis Duval et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19003">2607.19003</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19308.html">A unified tight-binding description of the electronic structure and Ising protection of superconductivity in misfit layered compounds</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>G. A. Bobkov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19308">2607.19308</a></td>
 </tr>
 </tbody></table>

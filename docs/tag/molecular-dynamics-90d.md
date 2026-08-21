@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">216 papers</span>
+  <span class="paper-count">212 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1286,29 +1286,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24757.html">Proton-electron coupled catalyst for ionomer-free electrochemical energy conversion</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
 <td>Ao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24757">2605.24757</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23360.html">A Metadynamics-Based Framework for Free Energy Surface Mapping of Multiparticle Diffusion in Crystals</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="metadynamics-90d.html">metadynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Shunya Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23360">2605.23360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24070.html">Convergence and non-asymptotic error analysis for kinetic Langevin samplers using the exact harmonic Langevin integrator</a></div></td>
-<td>Katharina Schuh</td>
-<td><a href="http://arxiv.org/abs/2605.24070">2605.24070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24234.html">The structure of a melt: The case of liquid bismuth</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Flor B. Quiroga et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24234">2605.24234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24271.html">Streaming Molecular Dynamics Simulation Data for On-the-fly Processing and Analysis</a></div></td>
-<td>Amruthesh Thirumalaiswamy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24271">2605.24271</a></td>
 </tr>
 </tbody></table>

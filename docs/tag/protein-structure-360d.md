@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">249 papers</span>
+  <span class="paper-count">246 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1490,23 +1490,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18949.html">Energy-Based Flow Matching for Generating 3D Molecular Structure</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Wenyin Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18949">2508.18949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05699.html">Designing de novo TIM Barrels: Insights into Stabilization, Diversification, and Functionalization Strategies</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Julian Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05699">2508.05699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18446.html">From Prediction to Simulation: AlphaFold 3 as a Differentiable Framework for Structural Biology</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Alireza Abbaszadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18446">2508.18446</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18567.html">Sparse Autoencoders for Low-$N$ Protein Function Prediction and Design</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Darin Tsui et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18567">2508.18567</a></td>
 </tr>
 </tbody></table>

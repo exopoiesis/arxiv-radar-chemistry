@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19977.html">Rem3Di: Learning smooth, chiral 3D molecular descriptors from atomistic foundation models</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-representation-30d.html">molecular-representation</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Steffen Wedig et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19977">2607.19977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Prathami Divakar Kamath et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18594">2607.18594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
-<td>Mouyang Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19198">2607.19198</a></td>
 </tr>
 </tbody></table>

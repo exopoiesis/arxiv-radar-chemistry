@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1470 papers</span>
+  <span class="paper-count">1465 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8804,35 +8804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19124.html">Lattice vacancy migration barriers in Fe-Ni alloys, and why Ni atoms diffuse slowly: An ab initio study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Adam M. Fisher et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19124">2508.19124</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08929.html">QED effects in quadratic Zeeman splitting in highly charged hydrogen-like ions</a></div></td>
-<td>V. A. Agababaev et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08929">2505.08929</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14208.html">Parallel Exploration of the Optoelectronic Properties of (Sb,Bi)(S,Se)(Br,I) Chalcohalides</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Rasmus S. Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14208">2505.14208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17685.html">Water structuring at stacked graphene interfaces unveiled by machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Dianwei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17685">2508.17685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18010.html">Optical formation of ultracold NaK$_2$ ground state molecules</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Baraa Shammout et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18010">2508.18010</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18372.html">Multiple Dirac Spin-Orbital Liquids in SU(4) Heisenberg Antiferromagnets on the Honeycomb Lattice</a></div></td>
-<td>Manoj Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18372">2508.18372</a></td>
 </tr>
 </tbody></table>

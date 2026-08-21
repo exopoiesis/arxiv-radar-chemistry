@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">390 papers</span>
+  <span class="paper-count">388 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2342,17 +2342,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19169.html">Graph Neural Network-Based Topology Optimization for Self-Supporting Structures in Additive Manufacturing</a></div></td>
 <td>Alireza Tabarraei et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19169">2508.19169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23126.html">ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation</a></div></td>
-<td>Suning Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23126">2506.23126</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18052.html">Weisfeiler-Lehman meets Events: An Expressivity Analysis for Continuous-Time Dynamic Graph Neural Networks</a></div></td>
-<td>Silvia Beddar-Wiesing et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18052">2508.18052</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,11 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25268.html">Bipartite Cholesky Graph Networks for Many-Body Quantum Chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Abdul Samad Khan</td>
 <td><a href="http://arxiv.org/abs/2605.25268">2605.25268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23673.html">Relevant Walk Search for Explaining Graph Neural Networks</a></div></td>
-<td>Ping Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23673">2605.23673</a></td>
 </tr>
 </tbody></table>

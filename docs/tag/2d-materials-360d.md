@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">520 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3134,29 +3134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18777.html">Chemical control of polymorphism and ferroelectricity in PbTiO3 and SrTiO3 monolayers and bilayers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Shaowen Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18777">2508.18777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13672.html">Graphene-hBN interlayer interactions from quantum Monte Carlo</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Kittithat Krongchon et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13672">2503.13672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17673.html">Twist-angle transferable continuum model and second flat Chern band in twisted MoTe2 and WSe2</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Xiao-Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17673">2508.17673</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17685.html">Water structuring at stacked graphene interfaces unveiled by machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Dianwei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17685">2508.17685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18455.html">Exploration of Hexagonal, Layered Carbides and Nitrides as Ultra-High Temperature Ceramics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Kat Nykiel et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18455">2508.18455</a></td>
 </tr>
 </tbody></table>

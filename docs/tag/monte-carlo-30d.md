@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20766.html">Importance-Sampling Estimation of Gaussian Molecular Shape Overlap: Exact Union Volumes and Confidence-Bounded Virtual Screening</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Egor I. Tuzharov et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20766">2607.20766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18750.html">Alchemical thermodynamic integration for ab initio free-energy calculations in solutions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Liangrui Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18750">2607.18750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
-<td>Mouyang Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19198">2607.19198</a></td>
 </tr>
 </tbody></table>

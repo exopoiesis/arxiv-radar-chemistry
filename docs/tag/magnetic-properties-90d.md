@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24376.html">Dilute Magnetism and Edge-State Engineering in Monolayer SnO</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Yuya Fukuta et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24376">2605.24376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23836.html">Orbital Selective Dirac-like States in EuAgAs Revealed by Polarization Dependent ARPES and DFT</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Mohit Mudgal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23836">2605.23836</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,17 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21561.html">Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Aaron Feller et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21561">2607.21561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
-<td>Mouyang Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19198">2607.19198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19253.html">Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks</a></div></td>
-<td>Rawaa Alatrash et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19253">2607.19253</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">536 papers</span>
+  <span class="paper-count">532 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3206,29 +3206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Stephan Thaler et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19385">2508.19385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05699.html">Designing de novo TIM Barrels: Insights into Stabilization, Diversification, and Functionalization Strategies</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Julian Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05699">2508.05699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16315.html">OwkinZero: Accelerating Biological Discovery with AI</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Nathan Bigaud et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16315">2508.16315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17815.html">Multi-domain Distribution Learning for De Novo Drug Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Arne Schneuing et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17815">2508.17815</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18147.html">A Scalable Heuristic for Molecular Docking on Neutral-Atom Quantum Processors</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Mathieu Garrigues et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18147">2508.18147</a></td>
 </tr>
 </tbody></table>

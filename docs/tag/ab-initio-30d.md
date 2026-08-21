@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,29 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20880.html">MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Hongqing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20880">2607.20880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Prathami Divakar Kamath et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18594">2607.18594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18750.html">Alchemical thermodynamic integration for ab initio free-energy calculations in solutions</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Liangrui Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18750">2607.18750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18757.html">Self-consistent GW theory for superconductivity in SrTiO3 models</a></div></td>
-<td>Zhi-Hao Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18757">2607.18757</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19095.html">Doping tunable charge density waves in misfit layer compounds</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Hugo Le Du et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19095">2607.19095</a></td>
 </tr>
 </tbody></table>

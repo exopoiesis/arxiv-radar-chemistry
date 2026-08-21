@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-properties — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <strong>90d</strong> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24455.html">Multi-Source Domain Transfer Learning for Accurate Property Prediction in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Huiyang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24455">2605.24455</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23558.html">Ambiguity in B-Site cation ordering: A Case study of the double perovskite Ca$_2$CoNbO$_6$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Svetlana A. Artiukova et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23558">2605.23558</a></td>
 </tr>
 </tbody></table>

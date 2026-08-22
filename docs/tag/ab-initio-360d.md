@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1465 papers</span>
+  <span class="paper-count">1462 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8786,23 +8786,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19584.html">Multiband Superconductivity and High Critical Current Density in Entropy Stabilized Nb0.25Ta0.25Ti0.25Zr0.25</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Nikita Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19584">2508.19584</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12944.html">Weyl nodes in CeRu$_4$Sn$_6$ studied by dynamical mean-field theory</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Jorūnas Dobilas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12944">2507.12944</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18935.html">Reweighting scheme for the calculation of grand-canonical expectation values in quantum Monte Carlo simulations with a fermion sign problem</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Paul Hamann et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18935">2508.18935</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19124.html">Lattice vacancy migration barriers in Fe-Ni alloys, and why Ni atoms diffuse slowly: An ab initio study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Adam M. Fisher et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19124">2508.19124</a></td>
 </tr>
 </tbody></table>

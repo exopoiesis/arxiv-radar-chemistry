@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,17 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01799.html">Contrastive Multi-Task Learning with Solvent-Aware Augmentation for Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Jing Lan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01799">2508.01799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18949.html">Energy-Based Flow Matching for Generating 3D Molecular Structure</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Wenyin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18949">2508.18949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Stephan Thaler et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19385">2508.19385</a></td>
 </tr>
 </tbody></table>

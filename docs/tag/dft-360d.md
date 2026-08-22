@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1939 papers</span>
+  <span class="paper-count">1929 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11588,65 +11588,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20247.html">Insulating ground state and 2-k magnetic structure of candidate Weyl Hydrogen atom K$_2$Mn$_3$(AsO$_4$)$_3$</a></div></td>
 <td>Keith M. Taddei et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20247">2508.20247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02753.html">Toward improved property prediction of 2D materials using many-body quantum Monte Carlo methods</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Daniel Wines et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02753">2406.02753</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11922.html">Exploring d-Wave Magnetism in Cuprates from Oxygen Moments</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Ying Li et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11922">2412.11922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22583.html">Two-dimensional electronic spectroscopy in the condensed phase using equivariant transformer accelerated molecular dynamics simulations</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Joseph Kelly et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22583">2503.22583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12944.html">Weyl nodes in CeRu$_4$Sn$_6$ studied by dynamical mean-field theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Jorūnas Dobilas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12944">2507.12944</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18777.html">Chemical control of polymorphism and ferroelectricity in PbTiO3 and SrTiO3 monolayers and bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Shaowen Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18777">2508.18777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19124.html">Lattice vacancy migration barriers in Fe-Ni alloys, and why Ni atoms diffuse slowly: An ab initio study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Adam M. Fisher et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19124">2508.19124</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19138.html">Ab-initio Quantum Transport with the GW Approximation, 42,240 Atoms, and Sustained Exascale Performance</a></div></td>
-<td>Nicolas Vetsch et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19138">2508.19138</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19148.html">Alloyed cementite (Fe-Ni-Cr)$_3$C: structure and hyperfine field from DFT calculations and experimental comparison</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Lyudmila V. Dobysheva</td>
-<td><a href="http://arxiv.org/abs/2508.19148">2508.19148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19212.html">Accelerating Hartree-Fock and Density Functional Theory Calculations using Tensor Hypercontraction</a></div></td>
-<td>Andreas Erbs Hillers-Bendtsen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19212">2508.19212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19223.html">MC3D: The Materials Cloud computational database of experimentally known stoichiometric inorganics</a></div></td>
-<td>Sebastiaan P. Huber et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19223">2508.19223</a></td>
 </tr>
 </tbody></table>

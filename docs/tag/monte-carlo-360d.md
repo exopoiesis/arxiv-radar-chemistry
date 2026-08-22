@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">298 papers</span>
+  <span class="paper-count">296 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1790,17 +1790,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19820.html">Molecular dynamics of nondegenerate hydrogen plasma using improved Kelbg pseudopotential with electron finite-size correction</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>G. S. Demyanov et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19820">2508.19820</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02753.html">Toward improved property prediction of 2D materials using many-body quantum Monte Carlo methods</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Daniel Wines et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02753">2406.02753</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18935.html">Reweighting scheme for the calculation of grand-canonical expectation values in quantum Monte Carlo simulations with a fermion sign problem</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Paul Hamann et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18935">2508.18935</a></td>
 </tr>
 </tbody></table>

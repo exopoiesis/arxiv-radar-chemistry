@@ -7,13 +7,13 @@
   count: 13
   total: 766
   group: architectures
-- name: drug-discovery
-  count: 12
-  total: 1018
-  group: tasks
 - name: materials-discovery
-  count: 11
+  count: 10
   total: 399
+  group: tasks
+- name: drug-discovery
+  count: 9
+  total: 1018
   group: tasks
 - name: gnn
   count: 7
@@ -23,22 +23,18 @@
   count: 7
   total: 2795
   group: methods
-- name: protein-structure
-  count: 7
-  total: 477
-  group: bio
 - name: ab-initio
   count: 6
   total: 2765
-  group: methods
-- name: dft
-  count: 6
-  total: 3722
   group: methods
 - name: multimodal-llm
   count: 6
   total: 125
   group: llm
+- name: protein-structure
+  count: 6
+  total: 477
+  group: bio
 - name: structure-prediction
   count: 6
   total: 282
@@ -47,42 +43,42 @@
   count: 5
   total: 500
   group: domain
-- name: property-prediction
+- name: dft
   count: 5
-  total: 422
-  group: tasks
-- name: reinforcement-learning
-  count: 5
-  total: 241
-  group: specialized
-- name: 2d-materials
-  count: 4
-  total: 1064
-  group: domain
+  total: 3722
+  group: methods
 - name: catalysis
   count: 4
   total: 548
   group: domain
-- name: materials-science
+- name: property-prediction
   count: 4
+  total: 422
+  group: tasks
+- name: reinforcement-learning
+  count: 4
+  total: 241
+  group: specialized
+- name: 2d-materials
+  count: 3
+  total: 1064
+  group: domain
+- name: materials-science
+  count: 3
   total: 775
   group: domain
 - name: mlip
-  count: 4
+  count: 3
   total: 984
   group: methods
 - name: monte-carlo
-  count: 4
+  count: 3
   total: 550
   group: methods
 - name: protein-llm
-  count: 4
+  count: 3
   total: 172
   group: llm
-- name: molecular-generation
-  count: 3
-  total: 237
-  group: tasks
 - name: battery-materials
   count: 2
   total: 296
@@ -91,22 +87,22 @@
   count: 2
   total: 218
   group: methods
-- name: chemical-space
-  count: 2
-  total: 202
-  group: specialized
 - name: magnetic-properties
   count: 2
   total: 700
   group: properties
-- name: retrosynthesis
+- name: molecular-generation
   count: 2
-  total: 128
+  total: 237
   group: tasks
 - name: band-gap
   count: 1
   total: 860
   group: properties
+- name: chemical-space
+  count: 1
+  total: 202
+  group: specialized
 - name: electronic-structure
   count: 1
   total: 823
@@ -127,10 +123,6 @@
   count: 1
   total: 19
   group: llm
-- name: molecular-representation
-  count: 1
-  total: 257
-  group: specialized
 - name: phase-transition
   count: 1
   total: 419
@@ -143,14 +135,14 @@
   count: 1
   total: 309
   group: bio
+- name: retrosynthesis
+  count: 1
+  total: 128
+  group: tasks
 - name: thermodynamic-integration
   count: 1
   total: 228
   group: methods
-- name: vdw-correction
-  count: 1
-  total: 296
-  group: specialized
 - name: active-learning
   count: 0
   total: 240
@@ -171,6 +163,10 @@
   count: 0
   total: 28
   group: methods
+- name: molecular-representation
+  count: 0
+  total: 257
+  group: specialized
 - name: photocatalysis
   count: 0
   total: 71
@@ -207,3 +203,7 @@
   count: 0
   total: 11
   group: methods
+- name: vdw-correction
+  count: 0
+  total: 296
+  group: specialized

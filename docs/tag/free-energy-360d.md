@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">331 papers</span>
+  <span class="paper-count">329 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1988,17 +1988,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19632.html">TopoBind: Multi-Modal Prediction of Antibody-Antigen Binding Free Energy via Sequence Embeddings and Structural Topology</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Ciyuan Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19632">2508.19632</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22583.html">Two-dimensional electronic spectroscopy in the condensed phase using equivariant transformer accelerated molecular dynamics simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Joseph Kelly et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22583">2503.22583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Stephan Thaler et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19385">2508.19385</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">388 papers</span>
+  <span class="paper-count">385 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2324,23 +2324,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17630.html">Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning</a></div></td>
 <td>An Ning et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17630">2508.17630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18766.html">Predicting Drug-Drug Interactions Using Heterogeneous Graph Neural Networks: HGNN-DDI</a></div></td>
-<td>Hongbo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18766">2508.18766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18891.html">pyFAST: A Modular PyTorch Framework for Time Series Modeling with Multi-source and Sparse Data</a></div></td>
-<td>Zhijin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18891">2508.18891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19169.html">Graph Neural Network-Based Topology Optimization for Self-Supporting Structures in Additive Manufacturing</a></div></td>
-<td>Alireza Tabarraei et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19169">2508.19169</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">244 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1478,17 +1478,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19763.html">Unfolding AlphaFold&#x27;s Bayesian Roots in Probability Kinematics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Thomas Hamelryck et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19763">2505.19763</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18693.html">Feature-Space Planes Searcher: A Universal Domain Adaptation Framework for Interpretability and Computational Efficiency</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Zhitong Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18693">2508.18693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18949.html">Energy-Based Flow Matching for Generating 3D Molecular Structure</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Wenyin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18949">2508.18949</a></td>
 </tr>
 </tbody></table>

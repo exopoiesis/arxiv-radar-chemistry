@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19394.html">Quantum-Classical Hybrid Molecular Autoencoder for Advancing Classical Decoding</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Afrar Jahin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19394">2508.19394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20134.html">QAgent: An LLM-based Multi-Agent System for Autonomous OpenQASM programming</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Zhenxiao Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20134">2508.20134</a></td>
 </tr>
 </tbody></table>

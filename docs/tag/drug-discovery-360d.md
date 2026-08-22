@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">532 papers</span>
+  <span class="paper-count">531 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3200,11 +3200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01799.html">Contrastive Multi-Task Learning with Solvent-Aware Augmentation for Drug Discovery</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Jing Lan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01799">2508.01799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19385.html">Boltz-ABFE: Free Energy Perturbation without Crystal Structures</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Stephan Thaler et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19385">2508.19385</a></td>
 </tr>
 </tbody></table>

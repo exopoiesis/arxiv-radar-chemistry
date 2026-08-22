@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,11 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19555.html">MonoRelief V2: Leveraging Real Data for High-Fidelity Monocular Relief Recovery</a></div></td>
 <td>Yu-Wei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19555">2508.19555</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06687.html">UniGenX: a unified generative foundation model that couples sequence, structure and function to accelerate scientific design across proteins, molecules and materials</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Gongbo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.06687">2503.06687</a></td>
 </tr>
 </tbody></table>

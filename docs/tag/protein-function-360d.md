@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-function — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <strong>360d</strong> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18882.html">A Novel Mathematical Model of Protein Interactions from the Perspective of Electron Delocalization</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Naoto Morikawa</td>
 <td><a href="http://arxiv.org/abs/2509.18882">2509.18882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06687.html">UniGenX: a unified generative foundation model that couples sequence, structure and function to accelerate scientific design across proteins, molecules and materials</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Gongbo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.06687">2503.06687</a></td>
 </tr>
 </tbody></table>

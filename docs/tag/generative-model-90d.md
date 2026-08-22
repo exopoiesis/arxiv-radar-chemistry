@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Alon Shtrikman et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24594.html">Ab-initio Crystal Structure Determination from Powder X-Ray Diffraction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Kaixiang Su et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24594">2605.24594</a></td>
 </tr>
 </tbody></table>

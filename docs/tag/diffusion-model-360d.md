@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">434 papers</span>
+  <span class="paper-count">432 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2606,17 +2606,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19789.html">StableIntrinsic: Detail-preserving One-step Diffusion Model for Multi-view Material Estimation</a></div></td>
 <td>Xiuchao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19789">2508.19789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09896.html">Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model</a></div></td>
-<td>Yuran Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09896">2408.09896</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18949.html">Energy-Based Flow Matching for Generating 3D Molecular Structure</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Wenyin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18949">2508.18949</a></td>
 </tr>
 </tbody></table>

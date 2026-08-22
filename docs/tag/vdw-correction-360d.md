@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,11 +866,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19938.html">Nanoscale mechanics and ultralow Friction of natural 2D silicates: Biotite and Rhodonite</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Surbhi Slathia et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19938">2508.19938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02753.html">Toward improved property prediction of 2D materials using many-body quantum Monte Carlo methods</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Daniel Wines et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02753">2406.02753</a></td>
 </tr>
 </tbody></table>

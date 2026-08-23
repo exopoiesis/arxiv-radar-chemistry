@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,17 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26073.html">Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Jin Ho Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26073">2605.26073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24857.html">Revisiting spin Hamiltonian parameters in a Kitaev material via Bayesian optimization of magnetization curves</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Takahiro Misawa et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24857">2605.24857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25236.html">Composition-Driven High-Entropy Alloys with Enhanced Magnetocaloric Properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Nishant Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25236">2605.25236</a></td>
 </tr>
 </tbody></table>

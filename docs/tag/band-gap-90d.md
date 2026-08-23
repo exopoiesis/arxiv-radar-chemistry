@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,17 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25898.html">Superconductivity and electronic structure evolution in the enforced semimetal Fe-doped ZrTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>L. M. Ishikura et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25898">2605.25898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25219.html">Exploring Multi-Transition-Metal NASICON Frameworks as High-Performance Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Santosh Behara et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25219">2605.25219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25236.html">Composition-Driven High-Entropy Alloys with Enhanced Magnetocaloric Properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Nishant Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25236">2605.25236</a></td>
 </tr>
 </tbody></table>

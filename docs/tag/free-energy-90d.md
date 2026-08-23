@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28905.html">DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Laurence I. Midgley et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28905">2605.28905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25270.html">Thermal PBE in warm dense matter: Does it matter and is it accurate?</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Kushal Ramakrishna et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25270">2605.25270</a></td>
 </tr>
 </tbody></table>

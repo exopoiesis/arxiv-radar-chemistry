@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">209 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10435.html">DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Jiabao Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10435">2608.10435</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-07</td>
@@ -1262,17 +1268,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26364.html">Finite Temperature Stacking Fault Stability in Random and Locally Ordered CoCrNi beyond the Harmonic Approximation</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Reza Namakian et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26364">2605.26364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24880.html">Machine-learned atomistic simulations reveal the basis of hydrogen-induced crack-plane transition in alpha-Fe</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Jiaqin Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24880">2605.24880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25032.html">Target-Distribution-Guided Cross-Functional Fine-Tuning of Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Yuki Nagai et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25032">2605.25032</a></td>
 </tr>
 </tbody></table>

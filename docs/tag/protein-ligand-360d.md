@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13797.html">Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Jafin Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13797">2608.13797</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09099.html">RAVEN: Frozen Random Graph Reservoirs with Physics-Informed Interaction Fingerprints for Protein-Ligand Binding Affinity Prediction</a></div></td>
+<td>Qingyang Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09099">2608.09099</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01007.html">Fused Bayesian Flow Networks for Dual-Target Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
@@ -980,11 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21468.html">Controllable 3D Molecular Generation for Structure-Based Drug Design Through Bayesian Flow Networks and Gradient Integration</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Seungyeon Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21468">2508.21468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01799.html">Contrastive Multi-Task Learning with Solvent-Aware Augmentation for Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Jing Lan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01799">2508.01799</a></td>
 </tr>
 </tbody></table>

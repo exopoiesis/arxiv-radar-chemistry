@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">350 papers</span>
+  <span class="paper-count">351 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18982.html">Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Blazej Banaszewski et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18982">2608.18982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19318.html">SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
@@ -2108,11 +2120,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21729.html">Bayesian perspectives for quantum states and application to ab initio quantum chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Yannic Rath et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21729">2508.21729</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20042.html">CHEMSMART: Chemistry Simulation and Modeling Automation Toolkit for High-Efficiency Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Xinglong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20042">2508.20042</a></td>
 </tr>
 </tbody></table>

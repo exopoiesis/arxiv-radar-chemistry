@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-generation — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28226.html">PhAME: Phenotype-Aware Molecular Editing via Latent Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Łukasz Janisiów et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28226">2605.28226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24841.html">DriftingMol: Decoder-Coupled Drift for One-Pass Property-Conditional Molecular Generation</a></div></td>
-<td>Jiangjie Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24841">2605.24841</a></td>
 </tr>
 </tbody></table>

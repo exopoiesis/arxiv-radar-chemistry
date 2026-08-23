@@ -5,15 +5,39 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-08-22._
+_Updated 2026-08-23._
 
-**15426** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15439** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03525.html">MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition</a></div><div class="paper-tags"><a href="tag/property-prediction-30d.html">property-prediction</a> · <a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Haote Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03525">2608.03525</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19906.html">PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Jia-Qi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19906">2608.19906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18982.html">Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</a></div><div class="paper-tags"><a href="tag/molecular-representation-30d.html">molecular-representation</a> · <a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Blazej Banaszewski et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18982">2608.18982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/molecular-llm-30d.html">molecular-llm</a> · <a href="tag/molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Henrik Wille et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17796.html">Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
@@ -153,6 +177,12 @@ _Updated 2026-08-22._
 <td><a href="http://arxiv.org/abs/2608.13676">2608.13676</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13797.html">Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Jafin Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13797">2608.13797</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06448.html">ED-CSP: Crystal Structure Prediction from Electron Diffraction</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Germain Poloudenny et al.</td>
@@ -163,35 +193,5 @@ _Updated 2026-08-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11657.html">Semantic Lenia: Emergence of Homeostatic Solitons within the Semantic Space of Large Language Models</a></div></td>
 <td>Yoshihiko Kayama</td>
 <td><a href="http://arxiv.org/abs/2608.11657">2608.11657</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.12083.html">Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/gnn-30d.html">gnn</a></div></td>
-<td>David Bechtoldt et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12083">2608.12083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.12084.html">NAE: Normalizing AutoEncoder</a></div></td>
-<td>Muhammad Abdur Rafae et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12084">2608.12084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.12192.html">How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/protein-structure-30d.html">protein-structure</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Aleksandra Kalisz et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12192">2608.12192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.12216.html">&quot;Pharos Night: Crown Pursuit&quot;: An AI-Native Deck-Building and Tactical Arena Game Design Based on Multi-Agent Systems</a></div></td>
-<td>Ting-Chen Hsu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12216">2608.12216</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.12286.html">PatternFormer: Learning Multiple Solution Patterns in Reaction--Diffusion Systems</a></div></td>
-<td>Zhipeng Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12286">2608.12286</a></td>
 </tr>
 </tbody></table>

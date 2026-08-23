@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">294 papers</span>
+  <span class="paper-count">292 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-llm-360d.html">molecular-llm</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Henrik Wille et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13024.html">TIEM: Temporal Integration of Hypergraph Evidence and Skill Memory for Event-Driven Financial Forecasting</a></div></td>
@@ -1760,23 +1766,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16086.html">Node-Equivariant Message Passing for Efficient and Accurate Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Yaolong Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16086">2508.16086</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12262.html">Photocatalytic CO2 Reduction Enhanced by Synergetic Interactions among Photon Phonon and Molecule</a></div><div class="paper-tags"><a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Chen Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12262">2508.12262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19938.html">Nanoscale mechanics and ultralow Friction of natural 2D silicates: Biotite and Rhodonite</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Surbhi Slathia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19938">2508.19938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20042.html">CHEMSMART: Chemistry Simulation and Modeling Automation Toolkit for High-Efficiency Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Xinglong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20042">2508.20042</a></td>
 </tr>
 </tbody></table>

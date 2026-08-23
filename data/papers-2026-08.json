@@ -472,6 +472,36 @@
   ],
   "updated": "2026-08-05"
  },
+ "2608.02688": {
+  "abstract": "Phenotypic drug discovery enables the discovery of functional relationships between molecular structures and cellular responses. However, existing multimodal representation learning methods often optimize cross-modal alignment without considering the intrinsic organization of chemical space, resulting in distorted molecular representations and loss of structural information. We propose \\textbf{PhenMol}, a structure-preserving framework for phenotype-aware molecular representation learning. PhenMol disentangles molecular and cellular representations into shared and private components, enabling phenotype-guided alignment while preserving chemical structures through a dedicated molecular branch. This design integrates cellular phenotype information without disrupting molecular neighborhood organization. Experiments on approximately $3.04 \\times 10^{4}$ molecule--cell morphology pairs demonstrate that PhenMol improves molecular property prediction across 270 bioactivity tasks, molecule--phenotype retrieval, and clinical trial outcome prediction. Moreover, ECFP4-based structural analysis shows that PhenMol better preserves molecular neighborhoods and reduces embedding distortion compared with existing multimodal alignment methods. These results highlight the importance of structure-aware constraints in multimodal molecular representation learning and provide an effective approach for integrating cellular phenotypes with chemical knowledge for drug discovery.",
+  "authors": [
+   "Xuan Lin",
+   "Jingyu Sheng",
+   "Tengfei Ma",
+   "Li Sun",
+   "Dapeng Xiong"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Xuan Lin",
+  "pdf_url": "http://arxiv.org/pdf/2608.02688",
+  "primary_category": "cs.LG",
+  "published": "2026-08-03",
+  "tags": [
+   "chemical-space",
+   "drug-discovery",
+   "molecular-representation",
+   "property-prediction"
+  ],
+  "title": "Learning Molecular Representations from Cellular Phenotypes with Structure Preservation",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-03"
+ },
  "2608.02858": {
   "abstract": "The discovery of next-generation energy-storage materials is increasingly limited by the complexity of the underlying design problem rather than by computational capability alone. Porous transition-metal oxides represent a particularly challenging class of battery materials because their performance emerges from coupled interactions among crystal chemistry, pore architecture, ion transport, electrochemistry, electro-chemo-mechanics, synthesis, manufacturing, and battery-system operation. Recent advances in generative artificial intelligence (AI) have demonstrated remarkable capabilities for generating chemically plausible crystal structures. However, current approaches remain largely focused on crystallographic validity and thermodynamic stability. This perspective presents a roadmap for advancing generative AI beyond crystal generation toward physics-informed, application-aware, and synthesis-aware inverse design. Using porous oxide electrodes as a representative materials platform, we propose a seven-tier physics-informed inverse-design framework integrating chemistry, thermodynamics, transport, electrochemistry, durability, cell compatibility, and manufacturability. We further identify the \"Missing Data Problem\" as a fundamental bottleneck limiting application-aware AI and introduce an autonomous knowledge-generation framework supported by a Porous Oxide Energy Materials Ontology and a continuously evolving \"Knowledge Base\". Together, these concepts establish the foundation for Synthesis-Aware, Closed-Loop Autonomous Discovery, providing a general framework for AI-enabled autonomous materials discovery across energy-storage materials and other functional materials.",
   "authors": [
@@ -543,6 +573,73 @@
   ],
   "updated": "2026-08-04"
  },
+ "2608.03525": {
+  "abstract": "In organic chemistry papers and patents, molecular structures, reaction schemes, and experimental conditions are often presented as molecular structure depictions, reaction diagrams, and complex tables or figures. Such information is difficult for general-purpose document parsing systems to directly convert into machine-readable data. This limits data production for organic chemistry knowledge base construction and for AI for Chemistry tasks such as reaction prediction, retrosynthesis, condition recommendation, molecular property prediction, and drug molecule design. This report introduces MinerU-Chem, a document parsing system for organic chemistry literature integrated into the MinerU online platform. Built on top of MinerU's general document parsing pipeline, MinerU-Chem adds five chemistry-specific modules: chemistry relevance filtering, molecular structure detection, molecule identifier extraction, molecular structure recognition, and reaction scheme parsing. Together, these modules convert organic-chemistry-related image regions in documents into a Molecule Summary List and a Reaction Summary List. For molecular structure recognition, MinerU-Chem uses CARBON (Complex Atomic Representation and Bonding Object Notation) as its core representation. CARBON enables recognition results to preserve both the visual layout of the original image and complex chemical semantics, while supporting the export of standard downstream formats such as MolFile and SMILES. On the SMILES-evaluable subset of MolRecBench-Wild (N=2,392), MinerU-Chem's molecular structure recognition module achieves a SMILES exact-match accuracy of 93.02%, outperforming the best evaluated comparison system, GPT-5.6-Sol (74.87%), by 18.15 percentage points. The system has been integrated into the MinerU online platform and is available at https://mineru.net/OpenSourceTools/Extractor .",
+  "authors": [
+   "Haote Yang",
+   "Jiang Wu",
+   "Jingchao Wang",
+   "Xingjian Wei",
+   "Lixin Ma",
+   "Linye Li",
+   "Chen Zhu",
+   "Xiaolong Wu",
+   "Yuheng Lu",
+   "Ziran Zhu",
+   "Junyuan Gao",
+   "Lingli Ge",
+   "Yuan Xu",
+   "Huijie Ao",
+   "QianQian Wu",
+   "Dechen Lin",
+   "Huaiyu Gu",
+   "Lu Chen",
+   "Shengxin Lu",
+   "ShaSha Wang",
+   "Yuanyuan Cao",
+   "Zhejia Yu",
+   "Ruijie Zhang",
+   "Zimai Tian",
+   "Jiaxing Sun",
+   "Yinfan Wang",
+   "Jiahe Song",
+   "Chuang Wang",
+   "Yubin Wang",
+   "Rui Nie",
+   "Hao Zheng",
+   "Bowen Jiang",
+   "Hongbin Lai",
+   "Yifan He",
+   "Chengjin Liu",
+   "Tingting Zhang",
+   "Liqun Wei",
+   "Lijun Wu",
+   "Bin Wang",
+   "Yuqiang Li",
+   "Guangyu Wang",
+   "Wei Li",
+   "Bowen Zhou",
+   "Dahua Lin",
+   "Conghui He"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Haote Yang",
+  "pdf_url": "http://arxiv.org/pdf/2608.03525",
+  "primary_category": "cs.CV",
+  "published": "2026-08-04",
+  "tags": [
+   "property-prediction",
+   "retrosynthesis"
+  ],
+  "title": "MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-20"
+ },
  "2608.03729": {
   "abstract": "Automated Knowledge Base Construction (AKBC) is a core NLP task, and recent work proposes generating knowledge bases directly from large language models (LLMs), treating the model itself as the knowledge source. However, LLMs natively possess no representation of entities, leading to duplicate entries as well as conflations. We propose GPTKB 2.0, a methodology for constructing disambiguated KBs directly from LLMs. GPTKB 2.0 incorporates on-the-fly disambiguation of entities, relations and classes, and is meticulously designed to satisfy both scalability and disambiguation accuracy. We analyze the central design decisions and characterize the trade-offs between accuracy, scale, and cost. We execute GPTKB 2.0 at scale, obtaining a materialized KB containing over 1M disambiguated entities and 38.4M triples. This represents the first million-scale LLM-native KB with explicit internal canonicalization of entities, relations, and classes, a significant departure from prior Wikimedia-centric works. GPTKB 2.0 is available at https://gptkb.org/.",
   "authors": [
@@ -566,6 +663,33 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-08-05"
+ },
+ "2608.03855": {
+  "abstract": "Transformer models have revolutionized natural language processing (NLP), and text-based molecular representations like SMILES have successfully extended these architectures to chemistry. However, domain-adaptive pre-training often causes models to overfit to chemical syntax, catastrophically forgetting their foundational semantic capabilities. To address this challenge, we introduce CheMatE, a chemistry-oriented embedding model that jointly captures molecular structure and domain-specific natural language within the same representation space. Built on a ModernBERT backbone, CheMatE learns bi-semantic representations through a two-stage training procedure: continued masked language modeling (MLM) followed by a Matryoshka contrastive learning stage via Multiple Negative Ranking Loss (MNRL). First, we train the model using MLM on a novel, large-scale corpus of SMILES-annotated, long-context scientific documents that were constructed and curated from FineWeb and ChemPile (comprising 10.4B and 11.5B tokens, respectively). Subsequently, the model undergoes contrastive learning using a synthetic dataset of SMILES-text pairs algorithmically derived from our original training corpus. This design exposes the model to SMILES-enriched scientific literature, enabling bi-semantic understanding. We evaluate CheMatE across a range of downstream tasks covering molecular property prediction and scientific language understanding. Our results demonstrate that coupling our custom-curated datasets with this sequential training strategy yields robust, highly transferable representations. By effectively unifying structural and contextual signals within a single text-based framework, CheMatE achieves competitive performance across both specialized chemistry models and general-purpose language model baselines.",
+  "authors": [
+   "David Ming Segura",
+   "Jeremy Goumaz",
+   "Joshua W. Sin",
+   "Bojana Ranković",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "David Ming Segura",
+  "pdf_url": "http://arxiv.org/pdf/2608.03855",
+  "primary_category": "cs.LG",
+  "published": "2026-08-04",
+  "tags": [
+   "molecular-representation",
+   "property-prediction"
+  ],
+  "title": "Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-06"
  },
  "2608.04095": {
   "abstract": "Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing personalized-memory benchmarks primarily test factual retention or rely on weakly constrained model-generated trajectories, leaving event-driven preference adaptation underexplored. We introduce FinPerMA, an event-grounded benchmark that evaluates personalized memory against frozen longitudinal investor trajectories. Its generation pipeline combines deterministic, theory-informed impact rules, controlled LLM narration, and automated quality screening; a Post-Shock checkpoint isolates whether an agent has integrated a material event into its persistent user model. On 2,994 questions from 276 personas, seven frontier LLMs and up to seven memory configurations remain far from saturated: no full-context configuration exceeds approximately 0.47 overall accuracy or approximately 39% on multiple-choice questions. Attribution analysis shows that summary-based memory often preserves factual details while losing the preference signals needed for personalization; simple retrieval can therefore outperform purpose-built memory systems, with the gap widening after shocks.",
@@ -1095,6 +1219,38 @@
   ],
   "updated": "2026-08-07"
  },
+ "2608.07078": {
+  "abstract": "Flexible macromolecular docking offers high-fidelity predictions of biomolecular interactions, but remains prohibitively expensive at scale. Among existing approaches, LightDock leverages Glowworm Swarm Optimization (GSO) for accuracy, yet suffers from limited parallelism, irregular computation, and severe load imbalance, preventing efficient execution on GPU supercomputers. We present SparkleDock, a scalable GSO-based docking framework enabling near-real-time flexible docking. We redesign GSO to expose massive fine-grained parallelism at the glowworm-agent level, and restructure the dominant energy scoring computation into a Tensor Core-compatible formulation, enabling efficient execution of irregular pairwise interactions through structured matrix operations. We further introduce a performance-model-driven scheduling for load balancing and out-of-core scaling across GPUs. SparkleDock achieves 9.7 $\\times$ and 18.9 $\\times$ speedups over LightDock on single A100 and H100 GPU, and delivers over two orders of magnitude acceleration at scale. On 512 GPUs, it reduces docking time from hours to seconds, enabling large-scale, high-fidelity virtual screening previously impractical with flexible docking.",
+  "authors": [
+   "Xiangyu Meng",
+   "Peng Chen",
+   "Mingzhen Li",
+   "Jianmin Wang",
+   "Sen Wang",
+   "Guangming Tan",
+   "Weile Jia",
+   "Mohamed Wahib",
+   "Tao Luo",
+   "Xun Wang"
+  ],
+  "categories": [
+   "cs.DC",
+   "cs.AI"
+  ],
+  "comment": "To be published in the International Conference for High Performance Computing, Networking, Storage, and Analysis(SC) 26",
+  "first_author": "Xiangyu Meng",
+  "pdf_url": "http://arxiv.org/pdf/2608.07078",
+  "primary_category": "cs.DC",
+  "published": "2026-08-07",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "Scalable High-Fidelity Macromolecular Docking for GPU-Accelerated Supercomputers",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-07"
+ },
  "2608.07401": {
   "abstract": "The search for new crystalline materials spans an enormous compositional and structural space. Generating candidates in this space requires jointly modeling discrete crystallographic symmetry, elemental composition, and continuous geometry. We introduce DynaCrys, a generative model for crystals in which the space group co-evolves with Wyckoff occupations and elements through a coupled symbolic diffusion process. The structured space-group transitions follow crystallographic group-subgroup relations. As the space group changes, a shared, pretrained symmetry codebook provides both the legality-constrained stochastic decoder and the symmetry-constrained crystal-geometry model with a common representation of the corresponding Wyckoff vocabulary. Across large-scale evaluations using two independent relaxation-and-evaluation engines, DynaCrys achieves best-in-class performance in symmetry-aware discovery of stable, unique, and novel crystals, both overall and under the additional requirement of nontrivial post-relaxation symmetry. It also enables fast sampling while generating structures with consistently low relaxation-induced structural displacements.",
   "authors": [
@@ -1219,6 +1375,31 @@
   ],
   "updated": "2026-08-07"
  },
+ "2608.08099": {
+  "abstract": "This study evaluates the sum-connectivity ($SGO$) and product-connectivity ($PGO$) Gourava indices as molecular descriptors for benzenoid hydrocarbons. Using a dataset of 30 benzenoid structures, we compare least-squares regression models for predicting $π$-electronic energies ($E_π$) and find that $SGO$ yields a markedly better fit than $PGO$ across molecular edge types. The indices are further assessed using three validation designs: (i) correlation analysis, in which $SGO$ exhibits strong yet non-perfect inverse correlations with standard descriptors ($M_1, M_2, SO, DSO,$ and $ABS$; $r\\in[-0.9923,-0.8936]$), suggesting complementary structural information; (ii) degeneracy analysis on Octane, Nonane, and order-$10$ tree datasets, where $SGO$ attains low degeneracy rates (22.22\\%, 40.00\\%, and 42.45\\%); and (iii) structure-sensitivity analysis on trees of order $n=10$, showing 74\\% higher sensitivity than $DSO$ while maintaining a high structure-abruptness ratio ($SA = 0.474386$). Overall, $SGO$ offers a favorable balance between discriminative power and numerical stability, supporting its applicability in QSPR modeling and related theoretical studies.",
+  "authors": [
+   "Nagesh H. M",
+   "Vijaya Chandra Kumar U",
+   "Azghar Pasha B",
+   "Narahari N"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "15 pages, 6 figures",
+  "first_author": "Nagesh H. M",
+  "pdf_url": "http://arxiv.org/pdf/2608.08099",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-08",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "A comparative study of sum-connectivity and product-connectivity Gourava indices for benzenoid hydrocarbons",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-08"
+ },
  "2608.08101": {
   "abstract": "Generative AI has emerged as one of the most transformative forces in modern artificial intelligence, reshaping how we create, imagine, and interact with digital content. From photorealistic images to coherent text, from immersive videos to novel molecular structures, generative models now power applications that were once confined to science fiction. This book is designed to guide readers through the foundational principles, mathematical underpinnings, and practical architectures that underpin this revolution.",
   "authors": [
@@ -1292,6 +1473,33 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-08-09"
+ },
+ "2608.09099": {
+  "abstract": "Quantitative estimation of protein-ligand binding affinity from three-dimensional complex structures is a fundamental task in structure-based computational chemistry and molecular modeling. Reliable prediction remains challenging because available structure-affinity data are limited, experimentally heterogeneous, conformation-dependent, and sensitive to dataset partitioning. RAVEN (Randomized Atomistic Views with Ensemble Neural Reservoirs) utilizes a multihead reservoir of independently initialized and fully frozen atomistic graph encoders to generate diverse structural projections without end-to-end optimization of the graph representation. These projections are integrated with a deterministic physicochemical interaction fingerprint and processed by heterogeneous supervised readers, including neural and tree-based regressors, whose outputs are combined through validation-based nonnegative fusion. The random reservoir expands structural feature coverage across independent encoder realizations, whereas the explicit physicochemical descriptors and heterogeneous readers contribute complementary information and distinct inductive biases. Evaluation on a similarity-isolated PDBbind 2020R1 split reconstructed using GEMS similarity resources, together with the protected CASF-2016 subset, demonstrated strong predictive performance. The results indicate that frozen multi-view graph representations, explicit physicochemical statistics, and heterogeneous model fusion provide a robust and flexible framework for protein-ligand binding-affinity prediction.",
+  "authors": [
+   "Qingyang Zou",
+   "Jiaye Huang",
+   "Hangbo Xie",
+   "Jiayue Yin",
+   "Youyi Song",
+   "Jinfeng Liu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Qingyang Zou",
+  "pdf_url": "http://arxiv.org/pdf/2608.09099",
+  "primary_category": "cs.LG",
+  "published": "2026-08-10",
+  "tags": [
+   "protein-ligand"
+  ],
+  "title": "RAVEN: Frozen Random Graph Reservoirs with Physics-Informed Interaction Fingerprints for Protein-Ligand Binding Affinity Prediction",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-10"
  },
  "2608.09100": {
   "abstract": "Millions of chemical structures appear in patents and papers only as drawings, and using that information at scale requires reading the drawings. OCSR appears nearly solved on synthetic images yet remains difficult on real documents: the starting recognizer, Qwen2.5-VL-7B, exceeds 91% accuracy on synthetic renders but falls below 16% on three real-world benchmarks (ACS, CLEF-IP, USPTO). To identify the main source of improvement, 21 recognizers were fine-tuned on mixtures of synthetically rendered structures and labeled real depictions from patents, journal figures, and hand-drawn collections, varying the vision language model (VLM) base, the fraction of real training data, and the vision-tower adaptation strategy. Labeled real training images make the largest difference. For Qwen2.5-VL, ACS exact match rises from 0.15 with no real data to 0.37 at 9.5% and 0.46 at 50.2%; a controlled experiment across three base models reproduces the trend. A vision-tower LoRA, in contrast, does nothing for Qwen (+0.00, paired p=1.00), substantially helps InternVL3-8B (+22.8 to +34.6 pt), and modestly helps GLM-4.1V-9B (+1.0 to +9.6 pt), so its value depends on the base model. The best configuration reaches 0.96 exact match on clean renders and 0.49, 0.65, 0.84, and 0.76 on ACS, CLEF-IP, UOB, and USPTO, respectively. Gaps between base models are largest without real data (0.21), shrink to 0.06 at 70% real data, and reorder the ranking; base model and real-data mixture must therefore be selected together. Small-scale experiments on handwritten image-to-LaTeX recognition and chart-to-table conversion show that base-model rankings also vary beyond chemistry. More generally, model and adaptation choices for visual structure recognition should be evaluated on the target task.",
@@ -1471,7 +1679,8 @@
   ],
   "title": "Multi-Granular Rationale-Guided Molecular LLM for Property Prediction",
   "topics": [
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-08-11"
  },
@@ -1501,6 +1710,39 @@
   ],
   "updated": "2026-08-11"
  },
+ "2608.11261": {
+  "abstract": "Organic photovoltaic (OPV) materials are promising candidates for distributed solar energy in tropical regions, yet existing virtual screening tools report static power conversion efficiency (PCE) values at standard testing conditions (STC) that fail to capture the temperature-driven performance degradation experienced under real deployment conditions. Here we introduce a Climate-Native computational framework that forecasts the annual PCE profile of OPV donor molecules under geographically realistic operating conditions. The framework combines GFN2-xTB molecular dynamics with an equivariant graph neural network surrogate ($268$ Neyman-stratified CEP molecules; $120,600$ training geometries; $\\sim 1050\\times$ speedup over explicit quantum chemistry) and sequential deep learning models trained on annual time series anchored in NASA POWER climate data for Douala, Cameroon, and validated by zero-shot transfer to Yaoundé and Maroua. Applied to $\\sim 30,000$ molecules from the Harvard Clean Energy Project (CEP) and validated against $350$ HOPV15 experimental device measurements, the framework demonstrates that sequential models trained on full molecular dynamics trajectories outperform time-averaged baselines ($35\\%$-$48\\%$ relative MAE improvement over static baselines), confirming that thermal conformational dynamics carry information beyond mean geometry. We further introduce a seasonal stability score that reranks OPV candidates by performance consistency under tropical conditions, identifying molecules whose deployment suitability differs substantially from their static PCE ranking.",
+  "authors": [
+   "Steve Cabrel Teguia Kouam",
+   "Rockefeller Rockefeller",
+   "Raoult Dabou Teukam",
+   "Jean-Pierre Tchapet Njafa",
+   "Patrick Sorrel Mvoto Kongo",
+   "Jean-Pierre Nguenang",
+   "Serge Guy Nana Engo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "12 pages, 5 figures and 2 tables",
+  "first_author": "Steve Cabrel Teguia Kouam",
+  "pdf_url": "http://arxiv.org/pdf/2608.11261",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-09",
+  "tags": [
+   "drug-discovery",
+   "gnn",
+   "molecular-dynamics",
+   "quantum-chemistry"
+  ],
+  "title": "Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-09"
+ },
  "2608.11283": {
   "abstract": "Computation-ready metal-organic framework (MOF) databases are essential for high-throughput screening, yet many reported crystal structures remain chemically unreasonable or disordered, compromising simulation fidelity. Existing validation approaches can identify non-computation-ready structures, but they often rely on heuristic rules, license requirement, or offer limited interpretability. Here, we show that large language models (LLMs) can serve as interpretable validators of MOF structures when crystallographic information is transformed into chemically meaningful text. By benchmarking nine descriptors, we find that successful LLM-based validation depends not on the amount of structural information alone, but on whether local coordination, framework connectivity, and chemical context are organized into a linguistically learnable representation. Fine-tuned LLMs using specialized descriptors (mof2text) achieve performance comparable to graph-based models in identifying unreasonable MOFs. Importantly, these models extend beyond black-box classification by generating diagnostic rationales for likely error sources, including abnormal bonding, connectivity, and charge states, as well as error-category predictions for annotated datasets. This work establishes chemically informed textualization as the key step that transforms LLMs from generic text models into practical and explainable tools for curating MOF databases.",
   "authors": [
@@ -1522,6 +1764,40 @@
   "title": "Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models",
   "topics": [
    "Large Language Models & Materials"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11483": {
+  "abstract": "Hit-to-lead optimization requires iterative design of hit analogs across competing potency, selectivity, physicochemical, pharmacokinetic, safety, and synthetic constraints. We present SABLE (Synthetically-accessible Agentic Bayesian Ligand Exploration), an open-source framework that employs natural-language orchestration to guide chemical structure optimization. SABLE uses an LLM to interpret user-defined goals and route tasks, while specialized tools perform reaction-templated analog enumeration, physicochemical and ADMET property prediction, structure-based affinity scoring, and Bayesian optimization. The resulting workflow is a computational twin of the analytical and prioritization stages of the design-make-test-analyze cycle, providing provenance of each numerical output. Across single, and multi-objective optimization studies, SABLE enriches candidate sets for user-defined computational objectives while evaluating only a subset of the enumerated search space. Its modular architecture allows tools and characterization backends to be replaced by editing a simple config file, without modifying operational logic. SABLE provides an extensible decision-support framework for prioritizing synthetically constrained analogs in early-stage drug discovery.",
+  "authors": [
+   "Kelvin P. Idanwekhai",
+   "Enes Kelestemur",
+   "Benjamin Strickland",
+   "Matthew Hart",
+   "Steini Davidsson",
+   "Angelos Angelopoulos",
+   "Ron Alterovitz",
+   "Marcello DeLuca",
+   "Alexander Tropsha"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": "22 pages, 9 figures",
+  "first_author": "Kelvin P. Idanwekhai",
+  "pdf_url": "http://arxiv.org/pdf/2608.11483",
+  "primary_category": "cs.AI",
+  "published": "2026-08-11",
+  "tags": [
+   "bayesian-optimization",
+   "drug-discovery",
+   "property-prediction"
+  ],
+  "title": "A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization",
+  "topics": [
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-08-11"
  },
@@ -1723,6 +1999,31 @@
   ],
   "updated": "2026-08-12"
  },
+ "2608.12647": {
+  "abstract": "Neurodegenerative diseases can be viewed as spreading processes on brain networks, in which pathological proteins propagate between anatomically connected brain regions. Mathematical models have been used to study this process, but they generally ignore the influence of neuronal activity, even though experimental studies show that neuronal firing promotes protein transmission. Here, we couple a general node-activity process to susceptible--infected--susceptible dynamics. In this framework, an epidemic threshold determines whether small pathological seeds can grow, while a dominant network mode determines where growth begins. We derive approximations showing how neuronal activity shifts this threshold and redirects spreading by mixing structural network modes. For networks with multiscale structure, we decompose these changes into contributions from regional mean activity and within-region activity variation, allowing us to account for activity heterogeneity that is not resolved by brain imaging. Stochastic simulations validate the theoretical results across synthetic networks. We next use longitudinal human positron emission tomography to test whether neuronal activity predicts where and how broadly pathology spreads. Regional glucose metabolism serves as a proxy for neuronal activity, while tau accumulation measures disease progression. Adding neuronal activity to the network model captures spatial patterns of disease progression that are not explained by structural connectivity and established disease markers alone. Across individuals, predicted epidemic thresholds are also associated with how broadly pathology spreads through the brain. Together, these results connect epidemic theory to neurodegeneration, implicate neuronal activity as a driver of Alzheimer's disease progression, and motivate activity-modulating therapies to slow or prevent pathological spread.",
+  "authors": [
+   "Christoffer G. Alexandersen",
+   "Suman S. Kulkarni",
+   "Jessica T. Davis",
+   "Sebastian N. Roemer-Cassiano",
+   "Nicolai Franzmeier",
+   "Dani S Bassett"
+  ],
+  "categories": [
+   "q-bio.NC"
+  ],
+  "comment": null,
+  "first_author": "Christoffer G. Alexandersen",
+  "pdf_url": "http://arxiv.org/pdf/2608.12647",
+  "primary_category": "q-bio.NC",
+  "published": "2026-08-12",
+  "tags": [],
+  "title": "Activity-dependent epidemic spreading on multiscale brain networks predicts Alzheimer's disease progression",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-12"
+ },
  "2608.13024": {
   "abstract": "Event-driven catalyst-outcome forecasting increasingly uses retrieval- and memory-augmented large language model agents for prediction. However, training-data contamination and temporal leakage can create an Evidence Chasm between reported accuracy and true predictive ability. We propose TIEM, a timestamp-gated framework with three coordinated components: an Event-Evidence Hypergraph (EEH) for timestamp-filtered multi-tier retrieval; a Case-based Skill Memory (CSM) for source-tagged temporal skills; and Heterogeneous Evidence-Experience Fusion Reasoning (HEFR) for evidence-experience fusion and prediction. We also introduce FinPURE, a recent-period A-share holdout benchmark, and use a Name-Date Probe to assess per-model name-date sensitivity rather than assuming training cutoffs. Results on five financial forecasting benchmarks show TIEM outperforms current baselines. Our project is available at https://github.com/QwenQKing/Fin_TIEM.",
   "authors": [
@@ -1874,6 +2175,30 @@
   "title": "EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models",
   "topics": [
    "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.13797": {
+  "abstract": "Computational approaches to drug discovery involve multiple sub-problems, and among them, drug-target binding affinity prediction plays an important role. Despite recent advances, accurately predicting binding affinity remains an open research area. The major objective of our paper is to perform a comprehensive review and comparative analysis of recent machine learning methods for drug-target binding affinity prediction, with a focus on identifying strengths, limitations, and research gaps. We review representative recent deep learning approaches that use common benchmark datasets and evaluation metrics, covering a range of neural network architectures and representation strategies. In addition, we analyze seven widely used benchmark datasets and commonly adopted evaluation metrics for drug-target binding affinity prediction. Our analysis indicates that although many methods report strong performance on standard benchmarks, their effectiveness is often influenced by dataset bias and limited evaluation settings. Furthermore, most methods exhibit reduced performance in cold-start scenarios, highlighting challenges in generalization. We identify several limitations of current approaches, including dataset imbalance, the lack of standardized evaluation, limited real-world applicability, and challenges in cold-start scenarios. We also discuss future research directions, including better dataset design, more robust evaluation methods, improved handling of cold-start problems, and the integration of multimodal representations.",
+  "authors": [
+   "Jafin Khan",
+   "Md Hossain Shuvo"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jafin Khan",
+  "pdf_url": "http://arxiv.org/pdf/2608.13797",
+  "primary_category": "cs.LG",
+  "published": "2026-08-13",
+  "tags": [
+   "drug-discovery",
+   "protein-ligand"
+  ],
+  "title": "Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction",
+  "topics": [
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-08-13"
  },
@@ -2029,7 +2354,8 @@
   ],
   "title": "Retrieval-guided Twin Fusion with Similarity-aware Contrast for Molecule-Text Alignment",
   "topics": [
-   "Generative Design & Molecule Optimization"
+   "Generative Design & Molecule Optimization",
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-08-17"
  },
@@ -2246,6 +2572,35 @@
   ],
   "updated": "2026-08-16"
  },
+ "2608.17567": {
+  "abstract": "Pretrained molecular language models are increasingly used as molecular encoders for learning structure-property relationships. However, their practical suitability for molecular discovery within and beyond their pretraining domain remains unclear. Herein, we systematically benchmark four molecular language models across six virtual molecular libraries spanning drug discovery, organic materials, and catalysis. Native molecular language model embeddings show substantial variation in discovery performance across libraries, whereas molecular fingerprints provide a consistently strong and robust baseline. Consistent with a potential domain-representation mismatch, we show that explicit domain adaptation substantially improves representation performance. Fine-tuning molecular language model encoders on structures from the target virtual library consistently improves sample efficiency, with several adapted encoders emerging as the top-performing representations across the benchmark tasks. These results show that molecular representation quality depends strongly on the target domain and that explicit adaptation can improve the practical utility of molecular foundation models. More broadly, our findings establish domain-adapted molecular representations as a promising strategy for sample-efficient adaptive decision making in virtual screening and self-driving laboratories.",
+  "authors": [
+   "Henrik Wille",
+   "Luis-Finley Schütz",
+   "Felix Strieth-Kalthoff"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Henrik Wille",
+  "pdf_url": "http://arxiv.org/pdf/2608.17567",
+  "primary_category": "cs.LG",
+  "published": "2026-08-18",
+  "tags": [
+   "catalysis",
+   "drug-discovery",
+   "molecular-llm",
+   "molecular-representation"
+  ],
+  "title": "Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-18"
+ },
  "2608.17796": {
   "abstract": "Deep learning-based DDoS detectors for 5G-enabled cyber-physical systems face scarce labeled attack data and unrealistic synthetic substitutes, which limit robustness against adaptive adversaries. Detectors trained on hand-crafted attacks with fixed scaling multipliers degrade catastrophically (F1-score drops of about 47 percent to 100 percent, depending on scenario) when confronted with realistic, distribution-preserving samples. We propose Diff-DDoS, a three-phase framework for realistic attack synthesis and robust detection using tabular diffusion models. Phase 1 trains a baseline CNN cell-level detector on spatiotemporal grids from call detail records (CDRs). Phase 2 trains a tabular denoising diffusion probabilistic model (TabDDPM) on normal CDR aggregates to generate realistic attacks and expose detector vulnerabilities. Phase 3 introduces adversarial diffusion training (ADT), using inverse classifier guidance to generate hard yet distribution-preserving samples until the detector converges. On a Milano CDR dataset across SMS-flooding, silent-call, Internet-signaling, and blended scenarios, ResNet50 with ADT recovers F1-scores of 79.62 percent (silent-call), 100 percent (Internet), and 92.79 percent (blended). After validation-based threshold calibration, ADT reaches 100 percent SMS F1 versus 47.3 percent for CTGAN, and matches the strongest gradient-based adversarial-training baseline on silent-call. These results support tabular diffusion models for stress-testing and hardening intrusion detectors in data-scarce 5G cyber-physical deployments.",
   "authors": [
@@ -2273,5 +2628,57 @@
    "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-08-18"
+ },
+ "2608.18982": {
+  "abstract": "Bioassay activity prediction is often data-limited because drug-discovery datasets rely on time-consuming and expensive wet-lab experiments for data generation and evaluation. This challenge has inspired recent research into molecular foundation models (MFMs), which aim to encode general-purpose chemical knowledge into molecular representations that generalize well in data-constrained scenarios. This paper presents Monroe, a new MFM with several innovations over the existing state of the art: increased scale allowing pre-training on over 81 million molecules from the PM6 quantum chemistry dataset; improved graph representation of stereochemistry; improved training losses including conformer denoising and embedding decorrelation; improved multi-task learning; and the use of a prior-data-fitted model (TabPFN) for downstream in-context prediction. Our evaluations use a principled pairwise comparison framework that measures statistically significant performance differences. Across established Polaris benchmarks, Monroe matches or exceeds existing MFMs, while on activity cliff benchmarks, designed to assess utility for molecular discovery, it achieves significant improvements over prior methods. Finally, ablation and transfer experiments show that PFN-based downstream predictors also substantially improve two leading existing models, MiniMol and CheMeleon, yielding new state-of-the-art variants we call MiniMol_PFN and CheMeleon_PFN, suggesting that our downstream adaptation strategy generalizes beyond Monroe. Source code is at github.com/blazejba/monroe.",
+  "authors": [
+   "Blazej Banaszewski",
+   "Andrew W. Fitzgibbon"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.BM",
+   "q-bio.QM"
+  ],
+  "comment": "Preprint; Open source weights and code",
+  "first_author": "Blazej Banaszewski",
+  "pdf_url": "http://arxiv.org/pdf/2608.18982",
+  "primary_category": "cs.LG",
+  "published": "2026-08-19",
+  "tags": [
+   "molecular-representation",
+   "quantum-chemistry"
+  ],
+  "title": "Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.19906": {
+  "abstract": "Accurately ranking active ligands for a target protein pocket from massive chemical libraries remains a central challenge in virtual screening. DrugCLIP and its recent extensions substantially accelerate this process by encoding protein pockets and molecules into a shared embedding space. Despite this progress, further performance improvements typically require retraining the entire model, incurring substantial computational overhead and making target-specific customization inefficient. In this work, we formulate the specialization of pretrained virtual screening models to individual pockets as a test-time adaptation problem and propose PETA, a parameter-efficient framework that directly adapts pretrained model at test time. Given a target pocket, PETA constructs pocket-specific negatives through molecular diffusion and chemical validity filtering, and further moves them toward the reference ligand retrieved from structural databases via embedding-space mixup to create more challenging ranking tasks. A ranking objective then places greater emphasis on suppressing high-scoring invalid candidates that could contaminate the top-ranked screening results, providing structured supervision for lightweight adaptation. Experiments across diverse benchmarks demonstrate that this lightweight, pocket-specific adaptation outperforms both pretrained and fully retrained baselines while updating only the LayerNorm parameters, which account for approximately $0.03\\%$ of the full model.",
+  "authors": [
+   "Jia-Qi Lin",
+   "Yinghua Yao",
+   "Chang-Dong Wang",
+   "Yew-Soon Ong",
+   "Yuangang Pan"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jia-Qi Lin",
+  "pdf_url": "http://arxiv.org/pdf/2608.19906",
+  "primary_category": "cs.LG",
+  "published": "2026-08-20",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-08-20"
  }
 }

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1929 papers</span>
+  <span class="paper-count">1923 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11552,41 +11552,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21170.html">Simulation of Radiation Damage on [M(COD)Cl]$_2$ using Density Functional Theory</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Nathalie K. Fernando et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21170">2508.21170</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07344.html">Radiation damage and phase stability of Al$_x$CrCuFeNi$_y$ alloys using a machine-learned interatomic potential</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Aslak Fellman et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07344">2503.07344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19043.html">On the role played by electrons in the stress-strain curves of ideal crystalline solids</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Margherita Marsili et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19043">2508.19043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19496.html">Accurate calculation of light rare-earth magnetic anisotropy with density functional theory</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Liqin Ke et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19496">2508.19496</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19685.html">Study of low-energy electron-induced dissociation of 1-Propanol</a></div></td>
-<td>Soumya Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19685">2508.19685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19938.html">Nanoscale mechanics and ultralow Friction of natural 2D silicates: Biotite and Rhodonite</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Surbhi Slathia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19938">2508.19938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20247.html">Insulating ground state and 2-k magnetic structure of candidate Weyl Hydrogen atom K$_2$Mn$_3$(AsO$_4$)$_3$</a></div></td>
-<td>Keith M. Taddei et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20247">2508.20247</a></td>
 </tr>
 </tbody></table>

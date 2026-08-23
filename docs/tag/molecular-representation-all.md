@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">262 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18982.html">Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Blazej Banaszewski et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18982">2608.18982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-llm-all.html">molecular-llm</a></div></td>
+<td>Henrik Wille et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08099.html">A comparative study of sum-connectivity and product-connectivity Gourava indices for benzenoid hydrocarbons</a></div></td>
+<td>Nagesh H. M et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08099">2608.08099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03855.html">Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>David Ming Segura et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03855">2608.03855</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02688.html">Learning Molecular Representations from Cellular Phenotypes with Structure Preservation</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Xuan Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02688">2608.02688</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19977.html">Rem3Di: Learning smooth, chiral 3D molecular descriptors from atomistic foundation models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="mlip-all.html">mlip</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">440 papers</span>
+  <span class="paper-count">439 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2648,11 +2648,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21170.html">Simulation of Radiation Damage on [M(COD)Cl]$_2$ using Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Nathalie K. Fernando et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21170">2508.21170</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20042.html">CHEMSMART: Chemistry Simulation and Modeling Automation Toolkit for High-Efficiency Computational Chemistry Workflows</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Xinglong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20042">2508.20042</a></td>
 </tr>
 </tbody></table>

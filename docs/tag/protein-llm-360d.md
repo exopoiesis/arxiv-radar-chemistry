@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,11 +674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03726.html">Diffusion on language model encodings for protein sequence generation</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Viacheslav Meshchaninov et al.</td>
 <td><a href="http://arxiv.org/abs/2403.03726">2403.03726</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19632.html">TopoBind: Multi-Modal Prediction of Antibody-Antigen Binding Free Energy via Sequence Embeddings and Structural Topology</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Ciyuan Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19632">2508.19632</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">735 papers</span>
+  <span class="paper-count">736 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12083.html">Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
 <td>David Bechtoldt et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12083">2608.12083</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-01</td>

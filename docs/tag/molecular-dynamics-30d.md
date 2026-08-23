@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10435.html">DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Jiabao Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10435">2608.10435</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-07</td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1477 papers</span>
+  <span class="paper-count">1474 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10435.html">DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Jiabao Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10435">2608.10435</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-07</td>
@@ -8852,29 +8858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20960.html">Intermolecular Interactions between Polyethylene, Water, and Potential Antistatic and Slip Additives: a Molecular Dynamics Study</a></div></td>
 <td>María del Mar Cammarata et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20960">2508.20960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07344.html">Radiation damage and phase stability of Al$_x$CrCuFeNi$_y$ alloys using a machine-learned interatomic potential</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Aslak Fellman et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07344">2503.07344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18856.html">Striking Similarities in Dynamics and Vibrations of 2D Quasicrystals and Supercooled Liquids</a></div></td>
-<td>Edwin A. Bedolla-Montiel et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18856">2508.18856</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19674.html">Atomistic insights into hydrogen migration in IGZO from machine-learning interatomic potential: linking atomic diffusion to device performance</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Hyunsung Cho et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19674">2508.19674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19820.html">Molecular dynamics of nondegenerate hydrogen plasma using improved Kelbg pseudopotential with electron finite-size correction</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>G. S. Demyanov et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19820">2508.19820</a></td>
 </tr>
 </tbody></table>

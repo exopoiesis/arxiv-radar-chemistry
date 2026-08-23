@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">531 papers</span>
+  <span class="paper-count">537 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19906.html">PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening</a></div></td>
+<td>Jia-Qi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19906">2608.19906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="molecular-llm-360d.html">molecular-llm</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Henrik Wille et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13457.html">Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Van Khoa Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13457">2608.13457</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13797.html">Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Jafin Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13797">2608.13797</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-11</td>
@@ -28,10 +46,28 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.10480">2608.10480</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11483.html">A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Kelvin P. Idanwekhai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11483">2608.11483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06779.html">Genotypic Triggers: Exposing Pharmacogenomic Blind Spots via Host-Specific Backdoors in Generative Antimicrobial Peptide Models</a></div></td>
 <td>Doniyorkhon Obidov et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06779">2608.06779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07078.html">Scalable High-Fidelity Macromolecular Docking for GPU-Accelerated Supercomputers</a></div></td>
+<td>Xiangyu Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07078">2608.07078</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-06</td>
@@ -44,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01734.html">LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses</a></div></td>
 <td>Betty Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2608.01734">2608.01734</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02688.html">Learning Molecular Representations from Cellular Phenotypes with Structure Preservation</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Xuan Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02688">2608.02688</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-02</td>
@@ -3194,11 +3236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19394.html">Quantum-Classical Hybrid Molecular Autoencoder for Advancing Classical Decoding</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Afrar Jahin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19394">2508.19394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01799.html">Contrastive Multi-Task Learning with Solvent-Aware Augmentation for Drug Discovery</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Jing Lan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01799">2508.01799</a></td>
 </tr>
 </tbody></table>

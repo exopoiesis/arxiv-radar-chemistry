@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11483.html">A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Kelvin P. Idanwekhai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11483">2608.11483</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04651.html">Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Alexandros Ntagiantas et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29560.html">Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation</a></div></td>
 <td>Jiawei Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29560">2605.29560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24857.html">Revisiting spin Hamiltonian parameters in a Kitaev material via Bayesian optimization of magnetization curves</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Takahiro Misawa et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24857">2605.24857</a></td>
 </tr>
 </tbody></table>

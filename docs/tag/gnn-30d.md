@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2608.12083">2608.12083</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00707.html">Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Yuheng Zhou et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Guanghui Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.22271">2607.22271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21561.html">Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Aaron Feller et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21561">2607.21561</a></td>
 </tr>
 </tbody></table>

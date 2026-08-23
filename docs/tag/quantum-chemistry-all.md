@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">666 papers</span>
+  <span class="paper-count">668 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18982.html">Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
+<td>Blazej Banaszewski et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18982">2608.18982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19318.html">SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="materials-science-all.html">materials-science</a></div></td>

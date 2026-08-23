@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2608.12083">2608.12083</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Steve Cabrel Teguia Kouam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00707.html">Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Yuheng Zhou et al.</td>
@@ -380,11 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26183.html">What Molecular Structure Cannot Tell Us: A Taxonomy of Explainability Gaps in GNN-Based Drug Toxicity Prediction</a></div></td>
 <td>Juergen Dietrich</td>
 <td><a href="http://arxiv.org/abs/2605.26183">2605.26183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25268.html">Bipartite Cholesky Graph Networks for Many-Body Quantum Chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Abdul Samad Khan</td>
-<td><a href="http://arxiv.org/abs/2605.25268">2605.25268</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">432 papers</span>
+  <span class="paper-count">430 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2594,17 +2594,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15266.html">Roll the dice &amp; look before you leap: Going beyond the creative limits of next-token prediction</a></div></td>
 <td>Vaishnavh Nagarajan et al.</td>
 <td><a href="http://arxiv.org/abs/2504.15266">2504.15266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15314.html">VideoEraser: Concept Erasure in Text-to-Video Diffusion Models</a></div></td>
-<td>Naen Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15314">2508.15314</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19789.html">StableIntrinsic: Detail-preserving One-step Diffusion Model for Multi-view Material Estimation</a></div></td>
-<td>Xiuchao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19789">2508.19789</a></td>
 </tr>
 </tbody></table>

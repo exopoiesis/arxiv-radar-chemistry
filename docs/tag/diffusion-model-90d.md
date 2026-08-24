@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,17 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26850.html">Learning Energy-Based Models from Stochastic Interpolants using Spatiotemporal Differences</a></div></td>
 <td>Hanlin Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26850">2605.26850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25681.html">Don&#x27;t Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models</a></div></td>
-<td>Qingyuan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25681">2605.25681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Alon Shtrikman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">243 papers</span>
+  <span class="paper-count">242 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1466,11 +1466,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02610.html">Resilient Biosecurity in the Era of AI-Enabled Bioweapons</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Jonathan Feldman et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02610">2509.02610</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06294.html">GLProtein: Global-and-Local Structure Aware Protein Representation Learning</a></div></td>
-<td>Yunqing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06294">2506.06294</a></td>
 </tr>
 </tbody></table>

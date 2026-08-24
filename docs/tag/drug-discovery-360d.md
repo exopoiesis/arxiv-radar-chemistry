@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">537 papers</span>
+  <span class="paper-count">536 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="molecular-llm-360d.html">molecular-llm</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Henrik Wille et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20418.html">Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility</a></div></td>
+<td>Marvellous O. Ajala et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20418">2608.20418</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-13</td>
@@ -3224,17 +3230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21620.html">Introduction to the Analysis of Probabilistic Decision-Making Algorithms</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Agustinus Kristiadi</td>
 <td><a href="http://arxiv.org/abs/2508.21620">2508.21620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00065.html">ADAGE: Active Defenses Against GNN Extraction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Jing Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00065">2503.00065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19394.html">Quantum-Classical Hybrid Molecular Autoencoder for Advancing Classical Decoding</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Afrar Jahin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19394">2508.19394</a></td>
 </tr>
 </tbody></table>

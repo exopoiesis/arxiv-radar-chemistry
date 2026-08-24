@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Henrik Wille et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20418.html">Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility</a></div></td>
+<td>Marvellous O. Ajala et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20418">2608.20418</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-13</td>
@@ -422,23 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28226.html">PhAME: Phenotype-Aware Molecular Editing via Latent Diffusion</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Łukasz Janisiów et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28226">2605.28226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25452.html">Different Statistical Perspectives for Understanding Generalisation in Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Nil Ayday et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25452">2605.25452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25577.html">Geometric Flow Matching for Molecular Conformation Generation via Manifold Decomposition</a></div></td>
-<td>Yunqing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25577">2605.25577</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26192.html">Co-folding model guided by structural proteomics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Alon Shtrikman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26192">2605.26192</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">439 papers</span>
+  <span class="paper-count">438 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2642,11 +2642,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21453.html">Convex Hartree-Fock theory: A simple framework for ground state conical intersections</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Federico Rossi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21453">2508.21453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21170.html">Simulation of Radiation Damage on [M(COD)Cl]$_2$ using Density Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Nathalie K. Fernando et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21170">2508.21170</a></td>
 </tr>
 </tbody></table>

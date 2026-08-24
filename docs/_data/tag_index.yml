@@ -4,41 +4,33 @@
   total: 817
   group: architectures
 - name: drug-discovery
-  count: 16
-  total: 1025
+  count: 17
+  total: 1026
   group: tasks
 - name: diffusion-model
-  count: 12
+  count: 11
   total: 766
   group: architectures
 - name: materials-discovery
-  count: 8
+  count: 7
   total: 399
   group: tasks
 - name: molecular-dynamics
-  count: 8
+  count: 7
   total: 2796
   group: methods
-- name: gnn
-  count: 7
-  total: 736
-  group: architectures
 - name: property-prediction
   count: 7
   total: 426
   group: tasks
-- name: protein-structure
+- name: gnn
   count: 6
-  total: 477
-  group: bio
+  total: 736
+  group: architectures
 - name: structure-prediction
   count: 6
   total: 282
   group: tasks
-- name: ab-initio
-  count: 5
-  total: 2765
-  group: methods
 - name: catalysis
   count: 5
   total: 549
@@ -51,22 +43,22 @@
   count: 5
   total: 125
   group: llm
+- name: protein-structure
+  count: 5
+  total: 477
+  group: bio
+- name: ab-initio
+  count: 4
+  total: 2765
+  group: methods
 - name: crystal-structure
   count: 4
   total: 500
   group: domain
-- name: dft
-  count: 4
-  total: 3722
-  group: methods
 - name: reinforcement-learning
   count: 4
   total: 241
   group: specialized
-- name: 2d-materials
-  count: 3
-  total: 1064
-  group: domain
 - name: bayesian-optimization
   count: 3
   total: 219
@@ -75,10 +67,6 @@
   count: 3
   total: 775
   group: domain
-- name: mlip
-  count: 3
-  total: 984
-  group: methods
 - name: monte-carlo
   count: 3
   total: 550
@@ -87,10 +75,10 @@
   count: 3
   total: 311
   group: bio
-- name: protein-llm
-  count: 3
-  total: 172
-  group: llm
+- name: 2d-materials
+  count: 2
+  total: 1064
+  group: domain
 - name: battery-materials
   count: 2
   total: 296
@@ -99,10 +87,18 @@
   count: 2
   total: 203
   group: specialized
+- name: dft
+  count: 2
+  total: 3722
+  group: methods
 - name: magnetic-properties
   count: 2
   total: 700
   group: properties
+- name: mlip
+  count: 2
+  total: 984
+  group: methods
 - name: molecular-generation
   count: 2
   total: 237
@@ -119,10 +115,6 @@
   count: 2
   total: 129
   group: tasks
-- name: band-gap
-  count: 1
-  total: 860
-  group: properties
 - name: electronic-structure
   count: 1
   total: 823
@@ -139,14 +131,14 @@
   count: 1
   total: 75
   group: domain
-- name: phase-transition
-  count: 1
-  total: 419
-  group: properties
 - name: protein-function
   count: 1
   total: 77
   group: bio
+- name: protein-llm
+  count: 1
+  total: 172
+  group: llm
 - name: thermodynamic-integration
   count: 1
   total: 228
@@ -155,6 +147,10 @@
   count: 0
   total: 240
   group: methods
+- name: band-gap
+  count: 0
+  total: 860
+  group: properties
 - name: chemical-llm
   count: 0
   total: 37
@@ -171,6 +167,10 @@
   count: 0
   total: 28
   group: methods
+- name: phase-transition
+  count: 0
+  total: 419
+  group: properties
 - name: photocatalysis
   count: 0
   total: 71

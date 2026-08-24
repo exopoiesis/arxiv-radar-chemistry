@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-08-23._
+_Updated 2026-08-24._
 
-**15439** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15440** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -43,6 +43,12 @@ _Updated 2026-08-23._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17796.html">Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Bilal Hussain et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17796">2608.17796</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20418.html">Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Marvellous O. Ajala et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20418">2608.20418</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-17</td>
@@ -187,11 +193,5 @@ _Updated 2026-08-23._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06448.html">ED-CSP: Crystal Structure Prediction from Electron Diffraction</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Germain Poloudenny et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06448">2608.06448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11657.html">Semantic Lenia: Emergence of Homeostatic Solitons within the Semantic Space of Large Language Models</a></div></td>
-<td>Yoshihiko Kayama</td>
-<td><a href="http://arxiv.org/abs/2608.11657">2608.11657</a></td>
 </tr>
 </tbody></table>

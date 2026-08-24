@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">386 papers</span>
+  <span class="paper-count">383 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2312,23 +2312,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20527.html">Molecular Machine Learning in Chemical Process Design</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
 <td>Jan G. Rittig et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20527">2508.20527</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.18263.html">High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces</a></div></td>
-<td>Shihao Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.18263">2412.18263</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00065.html">ADAGE: Active Defenses Against GNN Extraction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Jing Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.00065">2503.00065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17630.html">Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning</a></div></td>
-<td>An Ning et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17630">2508.17630</a></td>
 </tr>
 </tbody></table>

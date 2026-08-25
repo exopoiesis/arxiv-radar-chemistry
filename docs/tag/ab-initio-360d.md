@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1454 papers</span>
+  <span class="paper-count">1452 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8726,17 +8726,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00498.html">&quot;One defect, one potential&quot; strategy for accurate machine learning prediction of defect phonons</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Junjie Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00498">2509.00498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21729.html">Bayesian perspectives for quantum states and application to ab initio quantum chemistry</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Yannic Rath et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21729">2508.21729</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00169.html">Generative Latent Space Dynamics of Electron Density</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yuan Chiang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00169">2509.00169</a></td>
 </tr>
 </tbody></table>

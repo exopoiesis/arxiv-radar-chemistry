@@ -4,7 +4,7 @@
   total: 817
   group: architectures
 - name: drug-discovery
-  count: 17
+  count: 16
   total: 1026
   group: tasks
 - name: diffusion-model
@@ -27,10 +27,6 @@
   count: 6
   total: 736
   group: architectures
-- name: structure-prediction
-  count: 6
-  total: 282
-  group: tasks
 - name: catalysis
   count: 5
   total: 549
@@ -47,14 +43,14 @@
   count: 5
   total: 477
   group: bio
+- name: structure-prediction
+  count: 5
+  total: 282
+  group: tasks
 - name: ab-initio
   count: 4
   total: 2765
   group: methods
-- name: crystal-structure
-  count: 4
-  total: 500
-  group: domain
 - name: reinforcement-learning
   count: 4
   total: 241
@@ -63,6 +59,10 @@
   count: 3
   total: 219
   group: methods
+- name: crystal-structure
+  count: 3
+  total: 500
+  group: domain
 - name: materials-science
   count: 3
   total: 775
@@ -95,10 +95,6 @@
   count: 2
   total: 700
   group: properties
-- name: mlip
-  count: 2
-  total: 984
-  group: methods
 - name: molecular-generation
   count: 2
   total: 237
@@ -127,6 +123,10 @@
   count: 1
   total: 629
   group: properties
+- name: mlip
+  count: 1
+  total: 984
+  group: methods
 - name: mof
   count: 1
   total: 75

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">351 papers</span>
+  <span class="paper-count">348 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2102,23 +2102,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04837.html">Resolvent-based quantum phase estimation: Towards estimation of parametrized eigenvalues</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Abhijeet Alase et al.</td>
 <td><a href="http://arxiv.org/abs/2410.04837">2410.04837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21325.html">Hybrid Quantum-Classical Simulations of Graphene Analogues: Adsorption Energetics Beyond DFT</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Archith Rayabharam et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21325">2508.21325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21342.html">Accelerating Transpilation in Quantum Machine Learning with Haiqu&#x27;s Rivet-transpiler</a></div></td>
-<td>Aleksander Kaczmarek et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21342">2508.21342</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21729.html">Bayesian perspectives for quantum states and application to ab initio quantum chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Yannic Rath et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21729">2508.21729</a></td>
 </tr>
 </tbody></table>

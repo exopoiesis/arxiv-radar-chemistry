@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">516 papers</span>
+  <span class="paper-count">512 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3086,29 +3086,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01648.html">Quantum Computation of the Electronic Structure of Some Prototype Solids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Naman Khandelwal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01648">2509.01648</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21325.html">Hybrid Quantum-Classical Simulations of Graphene Analogues: Adsorption Energetics Beyond DFT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Archith Rayabharam et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21325">2508.21325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21339.html">Quantum Monte Carlo Benchmarking of Molecular Adsorption on Graphene-Supported Single Pt Atom</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Jeonghwan Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21339">2508.21339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21526.html">Chemical Control of Mechanical Anisotropy and Band Alignment in Perylene-based Two-dimensional MoS$_2$-Organic Hybrids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Mohammed El Amine Miloudi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21526">2508.21526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00222.html">Strategies to search for two-dimensional materials with long spin qubit coherence time</a></div></td>
-<td>Michael Y. Toriyama et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00222">2509.00222</a></td>
 </tr>
 </tbody></table>

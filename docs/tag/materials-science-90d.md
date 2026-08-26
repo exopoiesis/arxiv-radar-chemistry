@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30284.html">ProjectionBench: Evaluating Scientific Hypothesis Generation in LLMs Under Progressive Information Disclosure</a></div></td>
 <td>A. J. Lew et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30284">2605.30284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27789.html">A Fixed-Budget, Cluster-Aware Standard for LLM-as-a-Judge Evaluation: A Multi-Hop RAG Stress Test</a></div></td>
-<td>Camilo Chacón Sartori et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27789">2605.27789</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,11 +818,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00704.html">Why Pool When You Can Flow? Active Learning with GFlowNets</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Renfei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00704">2509.00704</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14695.html">GLITTER: An AI-assisted Platform for Material-Grounded Asynchronous Discussion in Flipped Learning</a></div></td>
-<td>Weirui Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14695">2504.14695</a></td>
 </tr>
 </tbody></table>

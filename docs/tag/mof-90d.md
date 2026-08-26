@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mof — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <strong>90d</strong> <a href="mof-360d.html">360d</a> <a href="mof-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03019.html">Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds</a></div></td>
 <td>Masayuki Hatta</td>
 <td><a href="http://arxiv.org/abs/2606.03019">2606.03019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29179.html">Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era</a></div></td>
-<td>Reid A. Coyle et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29179">2605.29179</a></td>
 </tr>
 </tbody></table>

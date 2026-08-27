@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06582.html">CrystalGRPO: Target-Aligned and Coverage-Preserving Reinforcement Learning for Flow-Based Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Kaixiang Su et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06582">2608.06582</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01266.html">Why Ammoniated Lithium Borohydrides Liquefy and Resolidify?</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Qian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01266">2608.01266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02866.html">Expanding Protein Structure Prediction into Conformational State Space</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Devlina Chakravarty et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02866">2608.02866</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-27</td>

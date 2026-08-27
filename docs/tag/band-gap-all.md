@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>band-gap — all</h1>
-  <span class="paper-count">860 papers</span>
+  <span class="paper-count">882 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,138 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21565.html">Weyl Points and Fermi Arc Surface States in a Self-assemblable Zinc-Blende Photonic Crystal</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Johnathon P. Gales et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21565">2608.21565</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21604.html">Investigating Sulfur Vacancy Passivation in Monolayer MoS2 FETs via Optically Coupled Low-Frequency Electrical Noise Spectroscopy</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
+<td>Shashwata Chattopadhyay et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21604">2608.21604</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17408.html">Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Wenjie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17408">2608.17408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="tmd-all.html">tmd</a></div></td>
+<td>Xiwen Gai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16226.html">Efficient nonequilibrium electron dynamics from first-principles: leveraging Koopmans spectral functionals and Wannier localization</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>Giovanni Cistaro et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16226">2608.16226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15557.html">Intrinsic Wannier Functions for Hamiltonian downfolding</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Shuoxue Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15557">2608.15557</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15765.html">Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Subhadeep Bandyopadhyay et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15765">2608.15765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15928.html">Synthesizing like a chemist: an iterative, feedback-driven loop for materials discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Fang Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15928">2608.15928</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11725.html">Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Study of Y, Si and Al</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a></div></td>
+<td>Zunair Masroor et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11725">2608.11725</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11897.html">Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Jingying Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11897">2608.11897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12563.html">Natural van der Waals silicates as hosts for telecom quantum emitters: the case of erbium-doped talc</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Gellért Dolecsek et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12563">2608.12563</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10353.html">Metallic Bonding-Driven Elastic Softness and Optical Response in the Mg-Rich Laves-Phase LaMg2</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Farjana Mou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10353">2608.10353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11148.html">Tunable chiral anomaly in electron magnetotransport in the Weyl semimetallic Pb$_{1-x}$Sn$_x$Te:Cr alloy</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>A. Królicka et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11148">2608.11148</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Zahabul Islam</td>
+<td><a href="http://arxiv.org/abs/2608.08415">2608.08415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06759.html">Optical Anisotropy and Phase Matching in Non-Centrosymmetric Perovskite Oxides from DFT+U and DFT+U+V Functionals</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Mohamed S. M. M. Ali et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06759">2608.06759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02770.html">Broken site symmetry of Fe adatoms on Bi$_2$Te$_3$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Duy Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02770">2608.02770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04742.html">Atomic Scale Ordering of Sulfur Vacancies Enhances Charge Transport in Monolayer MoS$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Alessandro Pecchia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04742">2608.04742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03308.html">Bias Tunable Transport Modulation and Gas Selectivity in Layered BiOI: A DFT NEGF Study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Jemal Yimer Damte et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03308">2608.03308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03523.html">The New High-entropy Compound RhMnFeCoGe4 with Cubic Non-centrosymmetric B20 Structure</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td>V. A. Sidorov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03523">2608.03523</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03680.html">Machine Learning Bandgap Prediction of Nanoporous Graphenes with Water</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Sneha Mittal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03680">2608.03680</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04219.html">First-principles predictions of carrier mobility with record accuracy using GW perturbation theory</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Nick Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04219">2608.04219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00773.html">A Large-scale Parallel Implementation of Quasi-Four-Component Relativistic Density Functional Theory with Numeric Atom-centered Orbitals</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Wentao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00773">2608.00773</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>

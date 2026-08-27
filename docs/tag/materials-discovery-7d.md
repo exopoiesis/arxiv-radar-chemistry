@@ -7,9 +7,48 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>materials-discovery — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25270.html">High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
+<td>Shuo Tao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25270">2608.25270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25392.html">Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning</a></div><div class="paper-tags"><a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
+<td>Wei-Jian Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25392">2608.25392</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23381.html">FUCrIMODo: structure recovery from atomistic descriptors via multi-stage genetic algorithms</a></div></td>
+<td>Louis Boehm et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23381">2608.23381</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23631.html">TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery</a></div></td>
+<td>Kang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23631">2608.23631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Yuxuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20434.html">An LLM agent for end-to-end computational materials discovery</a></div><div class="paper-tags"><a href="mof-7d.html">mof</a></div></td>
+<td>Chen Yuntong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20434">2608.20434</a></td>
+</tr>
+</tbody></table>

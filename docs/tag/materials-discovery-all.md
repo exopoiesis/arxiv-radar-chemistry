@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,88 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25270.html">High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Shuo Tao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25270">2608.25270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25392.html">Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning</a></div><div class="paper-tags"><a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
+<td>Wei-Jian Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25392">2608.25392</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23381.html">FUCrIMODo: structure recovery from atomistic descriptors via multi-stage genetic algorithms</a></div></td>
+<td>Louis Boehm et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23381">2608.23381</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23631.html">TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery</a></div></td>
+<td>Kang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23631">2608.23631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Yuxuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20434.html">An LLM agent for end-to-end computational materials discovery</a></div><div class="paper-tags"><a href="mof-all.html">mof</a></div></td>
+<td>Chen Yuntong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20434">2608.20434</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18714.html">A single design choice determines whether machine learning models of materials make physically impossible predictions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>Can Polat et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18714">2608.18714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16113.html">First-Principles Prediction of Phonon-Mediated Infrared Optical Properties of WO$_3$ Polymorphs</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>Sreerag Sundaram et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16113">2608.16113</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16644.html">Data-driven discovery and rapid, direct synthesis of MXenes</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="chemical-space-all.html">chemical-space</a></div></td>
+<td>Ali Saffar Shamshirgar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16644">2608.16644</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15900.html">Crystal-structure design by agentic AI in a language of motifs</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="generative-model-all.html">generative-model</a></div></td>
 <td>Dinh-Khiet Le et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15900">2608.15900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15928.html">Synthesizing like a chemist: an iterative, feedback-driven loop for materials discovery</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="crystal-structure-all.html">crystal-structure</a></div></td>
+<td>Fang Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15928">2608.15928</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14502.html">Universal Thermodynamic Interatomic Potentials for Crystalline Materials</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td>Juno Nam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14502">2608.14502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13826.html">SPEAR: Structure Property Explainability with Attention Regularization</a></div><div class="paper-tags"><a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Aditya Raghavan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13826">2608.13826</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09257.html">Machine-learning octet $AB$-type binary compounds across chemical space with domain knowledge of the interatomic bond</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Rohan Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09257">2608.09257</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-07</td>

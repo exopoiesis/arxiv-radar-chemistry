@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">426 papers</span>
+  <span class="paper-count">432 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25893.html">A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
+<td>Yikun Han et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25893">2608.25893</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23646.html">MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="multimodal-llm-all.html">multimodal-llm</a></div></td>
+<td>Xinjian Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23646">2608.23646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21741.html">First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Bharatha K. Gunawardana et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21741">2608.21741</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03525.html">MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition</a></div><div class="paper-tags"><a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
@@ -28,6 +46,18 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2608.16005">2608.16005</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16111.html">RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
+<td>Mianzhi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16111">2608.16111</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13341.html">Simulation-to-real transfer learning for infrared spectroscopic chemical sensing and analysis from molecules to complex samples</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
+<td>Yusen Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13341">2608.13341</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Junwoo Park et al.</td>
@@ -38,6 +68,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11483.html">A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Kelvin P. Idanwekhai et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11483">2608.11483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06697.html">3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
+<td>Haicheng Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06697">2608.06697</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-06</td>

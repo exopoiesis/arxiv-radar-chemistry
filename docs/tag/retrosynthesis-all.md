@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>retrosynthesis — all</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <a href="retrosynthesis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25392.html">Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
+<td>Wei-Jian Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25392">2608.25392</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03525.html">MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
 <td>Haote Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03525">2608.03525</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18940.html">Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis</a></div></td>
+<td>Bogdan Zagribelnyy et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18940">2608.18940</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16111.html">RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Mianzhi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16111">2608.16111</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-26</td>

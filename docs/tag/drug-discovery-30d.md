@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,58 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23646.html">MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a> · <a href="multimodal-llm-30d.html">multimodal-llm</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Xinjian Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23646">2608.23646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24610.html">Conditional GraphGANFed: Optimizing Graph-Structured Molecule Generation in Federated Generative Adversarial Networks</a></div></td>
+<td>Daniel Manu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24610">2608.24610</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22642.html">Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Florian Rottach et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22642">2608.22642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21057.html">Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment</a></div></td>
+<td>Emma Granqvist et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21057">2608.21057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19808.html">FAR-DPO: Feasibility-Aware and Robust Direct Preference Optimization for Cyclic Peptide Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Guofeng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19808">2608.19808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19868.html">Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Tianqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19868">2608.19868</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19906.html">PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening</a></div></td>
 <td>Jia-Qi Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19906">2608.19906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19121.html">PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Boqiao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19121">2608.19121</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17381.html">Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Xuefeng Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17381">2608.17381</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-18</td>
@@ -32,6 +80,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20418.html">Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility</a></div></td>
 <td>Marvellous O. Ajala et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20418">2608.20418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16111.html">RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a> · <a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Mianzhi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16111">2608.16111</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-13</td>
@@ -82,6 +136,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2608.06022">2608.06022</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04257.html">Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Marco Vieto Vega et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04257">2608.04257</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01734.html">LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses</a></div></td>
 <td>Betty Xiong et al.</td>
@@ -104,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00393.html">MolecularCanvas: LLM-assisted Small-Molecule Drug Discovery via Structure-Guided Constraints</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Haoyu Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2608.00393">2608.00393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24314.html">MEGA-CL: A Molecular Foundation Model for Generalizable ADMET Prediction through Graph External Attention and Contrastive Learning</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
-<td>Tinghui Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24314">2607.24314</a></td>
 </tr>
 </tbody></table>

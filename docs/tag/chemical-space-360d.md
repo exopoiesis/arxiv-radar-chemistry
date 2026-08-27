@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19121.html">PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Boqiao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19121">2608.19121</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18221.html">Automated Assignment and Prediction of Molecules in Astronomical Line Surveys Using Machine-Learning-Based Chemical Embeddings</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Zachary T. P. Fried et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18221">2608.18221</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16644.html">Data-driven discovery and rapid, direct synthesis of MXenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Ali Saffar Shamshirgar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16644">2608.16644</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06956.html">How Molecular Generative Models Organize Molecular Identity</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
@@ -746,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05051.html">QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Aaron Mark Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05051">2509.05051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00684.html">Valid Property-Enhanced Contrastive Learning for Targeted Optimization &amp; Resampling for Novel Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Amartya Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00684">2509.00684</a></td>
 </tr>
 </tbody></table>

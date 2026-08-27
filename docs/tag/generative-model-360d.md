@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">466 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23490.html">PHASE: encoding global protein ensembles with local Hamiltonians and all-atom backmapping</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
+<td>Daniele Angioletti et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23490">2608.23490</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23869.html">Gen2Physics: Grounding Generated 3D Meshes in Physics via Multi-View Material Decomposition</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
+<td>Mauro Comi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23869">2608.23869</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21612.html">Machine Learning to Foundation Models: Artificial Intelligence for Nanophotonic Modeling and Scientific Discovery</a></div></td>
+<td>Chaobin Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21612">2608.21612</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21673.html">SynEHR: Joint Modeling Inter-visit Temporal Evolution and Intra-visit Clinical Structure for Longitudinal EHR Synthesis</a></div></td>
+<td>Ximiao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21673">2608.21673</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19808.html">FAR-DPO: Feasibility-Aware and Robust Direct Preference Optimization for Cyclic Peptide Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Guofeng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19808">2608.19808</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16100.html">TISC: A Text-Driven Image Semantic Communication System for Faithful Reconstruction</a></div></td>
@@ -44,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15900.html">Crystal-structure design by agentic AI in a language of motifs</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Dinh-Khiet Le et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15900">2608.15900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01677.html">Generative Brownian Bridge Diffusion In Motion Space For Enhanced Myocardial Strain Analysis</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Rishov Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01677">2608.01677</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-13</td>
@@ -2804,11 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01134.html">RealMat: Realistic Materials with Diffusion and Reinforcement Learning</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Xilong Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01134">2509.01134</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00684.html">Valid Property-Enhanced Contrastive Learning for Targeted Optimization &amp; Resampling for Novel Drug Design</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Amartya Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00684">2509.00684</a></td>
 </tr>
 </tbody></table>

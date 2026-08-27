@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23190.html">Toward a Foundation Plug-and-Play Prior for Computed Tomography Reconstruction via a Multimodal Diffusion Model</a></div></td>
+<td>Haley Duba-Sullivan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23190">2608.23190</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21700.html">Scalable quantum simulation of continuous-time generative models via tensor networks</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Nathan X. Kodama et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21700">2608.21700</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17796.html">Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models</a></div></td>
@@ -26,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16351.html">Arm-Aware Guided Dexterous Grasp Generation with Arm-Agnostic Grasp Models</a></div></td>
 <td>Yongyi Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2608.16351">2608.16351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01677.html">Generative Brownian Bridge Diffusion In Motion Space For Enhanced Myocardial Strain Analysis</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Rishov Paul et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01677">2608.01677</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-12</td>
@@ -56,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06413.html">Competing Energetics Govern Gas Permeation in Polymer of Intrinsic Microporosity (PIM) Membranes</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jianhao Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06413">2608.06413</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03198.html">Bridging Online and Offline Handwriting via Differentiable Physical Rendering</a></div></td>
+<td>Seonmi Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03198">2608.03198</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-03</td>
@@ -356,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02507.html">Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Anand Babu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02507">2606.02507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30268.html">PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions</a></div></td>
-<td>Omer Benishu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30268">2605.30268</a></td>
 </tr>
 </tbody></table>

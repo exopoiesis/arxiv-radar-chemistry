@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>enhanced-sampling — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <strong>90d</strong> <a href="enhanced-sampling-360d.html">360d</a> <a href="enhanced-sampling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21700.html">Scalable quantum simulation of continuous-time generative models via tensor networks</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Nathan X. Kodama et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21700">2608.21700</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12691.html">Integrated Alchemical and Conformational Enhanced Sampling for Solvation Free Energy Calculations</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Gabriela B. Correa et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12691">2608.12691</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07648.html">Leveraging generative models to assist Monte Carlo sampling</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>

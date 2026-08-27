@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23874.html">Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Megan C. Davis et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23874">2608.23874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18819.html">A Unifying Relational Perspective on Expressive Lottery Tickets</a></div></td>
+<td>Lorenz Kummer et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18819">2608.18819</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19116.html">JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Denis Blessing et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19116">2608.19116</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17200.html">Discovery of novel magnetic Y-Mn-B compounds via advanced machine learning guided framework</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Weiyi Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17200">2608.17200</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15609.html">Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>S. Saito et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15609">2608.15609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12906.html">EGRL: Edge generation-guided relation-aware learning for RNA-protein interaction prediction</a></div></td>
+<td>Danyu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12906">2608.12906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11725.html">Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Study of Y, Si and Al</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Zunair Masroor et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11725">2608.11725</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12083.html">Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
@@ -26,6 +68,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Steve Cabrel Teguia Kouam et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03287.html">A Unified Graph Neural Network Framework for Non-Equilibrium Carrier and Lattice Dynamics Driven by Electric Fields</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jia-Wen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03287">2608.03287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04257.html">Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Marco Vieto Vega et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04257">2608.04257</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-01</td>
@@ -338,29 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04021.html">Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Bryan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04021">2606.04021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Rushikesh Pawar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29969">2605.29969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30012.html">Charting the thermodynamic stability of hybrid perovskite alloys with machine learning</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Jarno Laakso et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30012">2605.30012</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30195.html">What drives performance in molecular MPNNs? An operator-level factorial benchmark</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Panyu Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30195">2605.30195</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30247.html">OOD-GraphLLM: Graph Large Language Model for Out-of-Distribution Generalized Drug Synergy Prediction</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Xin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30247">2605.30247</a></td>
 </tr>
 </tbody></table>

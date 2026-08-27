@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21700.html">Scalable quantum simulation of continuous-time generative models via tensor networks</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Nathan X. Kodama et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21700">2608.21700</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16094.html">Protein Structure Prediction: From Evolutionary Constraints to Generative Modeling</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
@@ -26,6 +32,24 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12192.html">How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Aleksandra Kalisz et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12192">2608.12192</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05491.html">A Quantum Circuit Framework for Protein Ensemble-Level Energetics</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Pratik Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05491">2608.05491</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02536.html">Committors and Reaction Rates from Trial Functions That Violate the Boundary Conditions</a></div><div class="paper-tags"><a href="string-method-90d.html">string-method</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
+<td>Magnus Petersen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02536">2608.02536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02866.html">Expanding Protein Structure Prediction into Conformational State Space</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Devlina Chakravarty et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02866">2608.02866</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-27</td>
@@ -206,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04021.html">Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Bryan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04021">2606.04021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29228.html">Traditional machine learning vs. deep learning from dynamic graph representations of proteins&#x27; 3D folds in the task of protein structure classification</a></div></td>
-<td>Aydin Wells et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29228">2605.29228</a></td>
 </tr>
 </tbody></table>

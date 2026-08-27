@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">365 papers</span>
+  <span class="paper-count">371 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25760.html">From estimate to proof: certified ground-state energy bounds for singular Schrödinger operators</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Xuefeng Liu</td>
+<td><a href="http://arxiv.org/abs/2608.25760">2608.25760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14882.html">Higher-order nonadiabaticity governs the temperature dependence of the phonon spectrum</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Nina Girotto Erhardt et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14882">2608.14882</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17742.html">Active learning molecular beam epitaxy of complex quantum materials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Raghutheja Bollampally et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17742">2608.17742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18279.html">A Comprehensive Review of Large Language Models for Nanophotonics: From Surrogate Modeling to Autonomous Design</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
+<td>Huanshu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18279">2608.18279</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16329.html">Unlocking Multi-Component Bulk-Materials Molecular Dynamics with a Small-Footprint Machine Learning Interatomic Potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yucheng Ouyang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16329">2608.16329</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13457.html">Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Van Khoa Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13457">2608.13457</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12297.html">Eigenstate Preparation Through Near-Optimal Eigenprobability Filtering</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Po-Wei Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12297">2608.12297</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08095.html">Nonadiabatic Molecular Dynamics on Real-time Excited-State Surfaces via Machine Learning Hamiltonians</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
+<td>Changwei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08095">2608.08095</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-07</td>
@@ -2198,11 +2240,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Márton Guba et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21471.html">LUMIR: an LLM-Driven Unified Agent Framework for Multi-task Infrared Spectroscopy Reasoning</a></div></td>
-<td>Zujie Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21471">2507.21471</a></td>
 </tr>
 </tbody></table>

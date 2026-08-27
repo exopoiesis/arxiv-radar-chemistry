@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>structure-prediction — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <strong>30d</strong> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -40,9 +40,15 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2608.06582">2608.06582</a></td>
 </tr>
 <tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24109.html">Earthquake Aftershock Forecasting using Conditional Generative Models</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Weiqiang Zhu</td>
-<td><a href="http://arxiv.org/abs/2607.24109">2607.24109</a></td>
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01266.html">Why Ammoniated Lithium Borohydrides Liquefy and Resolidify?</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Qian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01266">2608.01266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02866.html">Expanding Protein Structure Prediction into Conformational State Space</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Devlina Chakravarty et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02866">2608.02866</a></td>
 </tr>
 </tbody></table>

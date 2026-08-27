@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-representation — 7d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,9 +16,33 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18982.html">Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</a></div><div class="paper-tags"><a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Blazej Banaszewski et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18982">2608.18982</a></td>
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25893.html">A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
+<td>Yikun Han et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25893">2608.25893</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25051.html">Visualizing and Quantifying Atomic Contributions to Raman Intensities governed by Spatially-Resolved Atomic Interferences</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Marc Broeckel et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25051">2608.25051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23646.html">MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="multimodal-llm-7d.html">multimodal-llm</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
+<td>Xinjian Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23646">2608.23646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23821.html">Finch: Toxicity Dose Response Curve Prediction of Chemical Compounds and Mixtures</a></div></td>
+<td>Abdullah Shouaib et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23821">2608.23821</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21504.html">ChemDIRT: A Diversified Instruction, Representation, and Task Benchmark for Robust Chemistry-LLM Evaluation</a></div></td>
+<td>Eric Inae et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21504">2608.21504</a></td>
 </tr>
 </tbody></table>

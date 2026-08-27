@@ -7,9 +7,36 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21741.html">First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="property-prediction-7d.html">property-prediction</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Bharatha K. Gunawardana et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21741">2608.21741</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20753.html">Accurate and Transferable Intermolecular Potential Based on Machine-Learned Molecular Electron Density</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Dahvyd Wing et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20753">2608.20753</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21624.html">Vibrational, structural, and chemical fingerprints of ion diffusion in crystalline solids</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Gavin Winter et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21624">2608.21624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19532.html">Variational Quantum Circuit Parameterization of SchNet: A Simulator-Based Feasibility Study for Conservative Molecular Force Fields</a></div></td>
+<td>Hoang - Anh Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19532">2608.19532</a></td>
+</tr>
+</tbody></table>

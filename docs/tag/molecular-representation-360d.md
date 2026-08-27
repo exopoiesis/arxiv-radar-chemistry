@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25893.html">A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Yikun Han et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25893">2608.25893</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25051.html">Visualizing and Quantifying Atomic Contributions to Raman Intensities governed by Spatially-Resolved Atomic Interferences</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Marc Broeckel et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25051">2608.25051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23646.html">MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Xinjian Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23646">2608.23646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23821.html">Finch: Toxicity Dose Response Curve Prediction of Chemical Compounds and Mixtures</a></div></td>
+<td>Abdullah Shouaib et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23821">2608.23821</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21504.html">ChemDIRT: A Diversified Instruction, Representation, and Task Benchmark for Robust Chemistry-LLM Evaluation</a></div></td>
+<td>Eric Inae et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21504">2608.21504</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18982.html">Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
@@ -28,16 +58,52 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18221.html">Automated Assignment and Prediction of Molecules in Astronomical Line Surveys Using Machine-Learning-Based Chemical Embeddings</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
+<td>Zachary T. P. Fried et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18221">2608.18221</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13341.html">Simulation-to-real transfer learning for infrared spectroscopic chemical sensing and analysis from molecules to complex samples</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Yusen Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13341">2608.13341</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08099.html">A comparative study of sum-connectivity and product-connectivity Gourava indices for benzenoid hydrocarbons</a></div></td>
 <td>Nagesh H. M et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08099">2608.08099</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06697.html">3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Haicheng Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06697">2608.06697</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03855.html">Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>David Ming Segura et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03855">2608.03855</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05336.html">Physics-Based Molecular Fingerprints from Spectral Graph Theory Provide Efficient Geometry-Aware Measures of Chemical Similarity</a></div></td>
+<td>Jacob W. Toney et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05336">2608.05336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04257.html">Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
+<td>Marco Vieto Vega et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04257">2608.04257</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02027.html">Scikit-fingerprints: Python library for scikit-learn compatible molecular fingerprints and chemoinformatics</a></div></td>
+<td>Jakub Adamczyk et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02027">2608.02027</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-03</td>

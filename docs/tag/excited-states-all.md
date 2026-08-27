@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">391 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,90 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25129.html">First-Principles Prediction of Nonlinear Optical Response in $\text{TiO}_2$ for High-Power Dielectric Mirror Applications</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Koya Shimaoka et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25129">2608.25129</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21892.html">PhysECD: A Physics-Constrained E(3)-Equivariant Framework for Electronic Circular Dichroism Spectrum Prediction</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Yi Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21892">2608.21892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20994.html">Scalable photoexcitation-induced molecular dynamics with machine-learned Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Leyu Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20994">2608.20994</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21493.html">All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Muhammad Sufyan Ramzan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21493">2608.21493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20261.html">Vibrational Activation Triggers Ultrafast Excited State Intramolecular Proton Transfer in Single-Benzene Fluorophores</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Brieuc Le Dé et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20261">2608.20261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16389.html">Assessing the Projector Augmented-Wave Method for Stopping Power Calculations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Bryn Lloyd et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16389">2608.16389</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15368.html">Proposal of a consistent value for the mean excitation energy of liquid water using advanced modeling, detailed simulations and precission proton Bragg curves</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Pablo de Vera et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15368">2608.15368</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08454.html">Finite-Temperature Spin-Adapted ROKS and TDDFT</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Xiaoyu Zhang</td>
+<td><a href="http://arxiv.org/abs/2608.08454">2608.08454</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08875.html">Large Amplitude Collective Motion and Dissipation in the Ground State and the First Isomeric Wells in the Neutron-Induced Fission of $^{235}$U</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Ibrahim Abdurrahman et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08875">2608.08875</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08095.html">Nonadiabatic Molecular Dynamics on Real-time Excited-State Surfaces via Machine Learning Hamiltonians</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="materials-science-all.html">materials-science</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
+<td>Changwei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08095">2608.08095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04638.html">The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Torsten Geirsson et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04638">2608.04638</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04662.html">Time-resolved THz Stark spectroscopy of molecules in water</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Elnaz Zyaee et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04662">2608.04662</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05068.html">Effective single particle picture for anharmonic lattice dynamics: a Rosetta stone for electronic and ionic response</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Giovanni Caldarelli et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05068">2608.05068</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00797.html">Ion stopping from bound and free electrons in plasmas: A channel-mixed RPA approach with average-atom orbitals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Zachary A Johnson et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00797">2608.00797</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>

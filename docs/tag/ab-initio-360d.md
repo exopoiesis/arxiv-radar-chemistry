@@ -16,6 +16,36 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26865.html">Coupled-channel scattering from artificial confinement</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Tafat Weiss Attia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26865">2608.26865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Z. S. Machavariani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26977">2608.26977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27008.html">Topology-Controlled Phonon Dielectric Response Beyond Density Scaling in Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Debayan Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27008">2608.27008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27025.html">Intrinsic anomalous Hall response in the bilayer kagome ferromagnet Co$_3$Sn</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Yuqi Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27025">2608.27025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27097.html">Beyond-EUV spectrum of highly-charged gadolinium</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
+<td>M. L. Reitsma et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27097">2608.27097</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24838.html">Accidental accuracy and vertex corrections in $GW$: Exact benchmarks for the extended Hubbard model</a></div></td>
 <td>Michael O. Atambo</td>
@@ -32,6 +62,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25628.html">Magnetic-configuration design for reliable Heisenberg exchange parameters</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Ben Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25628">2608.25628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26207.html">Frontier Questions and Emerging Directions in Nuclear Science and Technology</a></div></td>
+<td>Yu-Gang Ma</td>
+<td><a href="http://arxiv.org/abs/2608.26207">2608.26207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26255.html">First-Principles Nuclear Modeling for Light Dark Matter Experiments at the Intensity Frontier</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Taylor R. Gray et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26255">2608.26255</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-25</td>
@@ -9350,47 +9392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Márton Guba et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10984.html">Non-relativistic linear Edelstein effect in helical EuIn2As2</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Nayra A. Álvarez Pari et al.</td>
-<td><a href="http://arxiv.org/abs/2412.10984">2412.10984</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10954.html">Interactive Multiscale Modeling to Bridge Atomic Properties and Electrochemical Performance in Li-CO$_2$ Battery Design</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mohammed Lemaalem et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10954">2501.10954</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01303.html">Zemach radii and nuclear structure effects in hyperfine splitting of Lithium</a></div></td>
-<td>Yilong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01303">2509.01303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01454.html">Perturbatively corrected ring-polymer instanton rate theory rigorously captures anharmonicity and deep tunneling</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Jindra Dušek et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01454">2509.01454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01464.html">Dipolar Nematic State in Relaxor Ferroelectrics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Yuan-Jinsheng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01464">2509.01464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01648.html">Quantum Computation of the Electronic Structure of Some Prototype Solids</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Naman Khandelwal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01648">2509.01648</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01788.html">Hidden orders in spin-orbit entangled correlated insulators</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Leonid V. Pourovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01788">2509.01788</a></td>
 </tr>
 </tbody></table>

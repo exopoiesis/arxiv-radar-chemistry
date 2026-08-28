@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27429.html">Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
+<td>Nguyen Xuan-Vu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27429">2608.27429</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26228.html">PathoMIC: A Benchmark for Cross-Species Antimicrobial Peptide Activity Prediction</a></div></td>
+<td>Yeqing Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26228">2608.26228</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23646.html">MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Xinjian Zhao et al.</td>
@@ -3230,17 +3242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02642.html">BioMD: All-atom Generative Model for Biomolecular Dynamics Simulation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Bin Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02642">2509.02642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21484.html">Data-driven Discovery of Digital Twins in Biomedical Research</a></div></td>
-<td>Clémence Métayer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21484">2508.21484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01541.html">Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Smayan Khanna et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01541">2509.01541</a></td>
 </tr>
 </tbody></table>

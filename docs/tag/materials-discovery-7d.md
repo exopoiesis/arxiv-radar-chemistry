@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>materials-discovery — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23631.html">TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery</a></div></td>
 <td>Kang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23631">2608.23631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Yuxuan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20434.html">An LLM agent for end-to-end computational materials discovery</a></div><div class="paper-tags"><a href="mof-7d.html">mof</a></div></td>
-<td>Chen Yuntong et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20434">2608.20434</a></td>
 </tr>
 </tbody></table>

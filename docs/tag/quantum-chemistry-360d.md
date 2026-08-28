@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27177.html">ElemCo.jl: A Julia package for electron-correlation methods</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Daniel Kats et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27177">2608.27177</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25760.html">From estimate to proof: certified ground-state energy bounds for singular Schrödinger operators</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Xuefeng Liu</td>
@@ -2198,11 +2204,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02251.html">Unravelling the unique kinetic interactions between N2O and unsaturated hydrocarbons</a></div></td>
 <td>Hongqing Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02251">2509.02251</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04837.html">Resolvent-based quantum phase estimation: Towards estimation of parametrized eigenvalues</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Abhijeet Alase et al.</td>
-<td><a href="http://arxiv.org/abs/2410.04837">2410.04837</a></td>
 </tr>
 </tbody></table>

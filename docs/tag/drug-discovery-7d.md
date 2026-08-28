@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27429.html">Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation</a></div><div class="paper-tags"><a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
+<td>Nguyen Xuan-Vu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27429">2608.27429</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26228.html">PathoMIC: A Benchmark for Cross-Species Antimicrobial Peptide Activity Prediction</a></div></td>
+<td>Yeqing Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26228">2608.26228</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23646.html">MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a> · <a href="multimodal-llm-7d.html">multimodal-llm</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
@@ -38,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21057.html">Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment</a></div></td>
 <td>Emma Granqvist et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21057">2608.21057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19808.html">FAR-DPO: Feasibility-Aware and Robust Direct Preference Optimization for Cyclic Peptide Design</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="protein-ligand-7d.html">protein-ligand</a></div></td>
-<td>Guofeng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19808">2608.19808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19868.html">Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a></div></td>
-<td>Tianqi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19868">2608.19868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19906.html">PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening</a></div></td>
-<td>Jia-Qi Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19906">2608.19906</a></td>
 </tr>
 </tbody></table>

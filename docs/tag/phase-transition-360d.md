@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">214 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1280,23 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02468.html">Experimental electronic structure of the mineral superconductor covellite CuS</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Alexandre Antezak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02468">2509.02468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01273.html">Ionization/dissociation-driven first order phase transitions: on a new class of first order phase transitions</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Genri Norman et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01273">2509.01273</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01464.html">Dipolar Nematic State in Relaxor Ferroelectrics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yuan-Jinsheng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01464">2509.01464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01788.html">Hidden orders in spin-orbit entangled correlated insulators</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Leonid V. Pourovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01788">2509.01788</a></td>
 </tr>
 </tbody></table>

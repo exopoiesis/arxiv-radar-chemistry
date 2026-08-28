@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26766.html">MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics</a></div></td>
+<td>Zihang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26766">2608.26766</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23874.html">Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Megan C. Davis et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00707.html">Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Yuheng Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2608.00707">2608.00707</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25169.html">CondPSE: A Polynomial-Filtered Structural Encoder with Conditional Modulation for Graphs</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Woohyun Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25169">2607.25169</a></td>
 </tr>
 </tbody></table>

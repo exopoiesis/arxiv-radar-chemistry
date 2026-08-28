@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26766.html">MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics</a></div></td>
+<td>Zihang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26766">2608.26766</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23874.html">Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Megan C. Davis et al.</td>
@@ -2348,11 +2354,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03885.html">Topotein: Topological Deep Learning for Protein Representation Learning</a></div></td>
 <td>Zhiyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03885">2509.03885</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01541.html">Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Smayan Khanna et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01541">2509.01541</a></td>
 </tr>
 </tbody></table>

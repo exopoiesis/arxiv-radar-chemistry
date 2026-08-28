@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26190.html">Predicting Consequences and Reinforcing Navigation Policies with Latent World Models</a></div></td>
+<td>Zengmao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26190">2608.26190</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19121.html">PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Boqiao Zhang et al.</td>
@@ -1016,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03059.html">Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers</a></div></td>
 <td>Xingyue Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03059">2509.03059</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01134.html">RealMat: Realistic Materials with Diffusion and Reinforcement Learning</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Xilong Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01134">2509.01134</a></td>
 </tr>
 </tbody></table>

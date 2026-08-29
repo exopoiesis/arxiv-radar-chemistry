@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">350 papers</span>
+  <span class="paper-count">349 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2108,11 +2108,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03684.html">Light nuclei under magnetic field and the lithium problem</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Nodoka Yamanaka</td>
 <td><a href="http://arxiv.org/abs/2509.03684">2509.03684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01859.html">A method to derive material-specific spin-bath model descriptions of materials displaying prevalent spin physics</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Benedikt M. Schoenauer et al.</td>
-<td><a href="http://arxiv.org/abs/2504.01859">2504.01859</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">365 papers</span>
+  <span class="paper-count">362 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2186,23 +2186,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05031.html">Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Mohammad Mirzakhani et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05031">2506.05031</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.01859.html">A method to derive material-specific spin-bath model descriptions of materials displaying prevalent spin physics</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Benedikt M. Schoenauer et al.</td>
-<td><a href="http://arxiv.org/abs/2504.01859">2504.01859</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10671.html">AEGISS -- Atomic orbital and Entropy-based Guided Inference for Space Selection -- A novel semi-automated active space selection workflow for quantum chemistry and quantum computing applications</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Fabio Tarocco et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10671">2508.10671</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02251.html">Unravelling the unique kinetic interactions between N2O and unsaturated hydrocarbons</a></div></td>
-<td>Hongqing Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02251">2509.02251</a></td>
 </tr>
 </tbody></table>

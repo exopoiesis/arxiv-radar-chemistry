@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05031.html">Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Mohammad Mirzakhani et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05031">2506.05031</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10671.html">AEGISS -- Atomic orbital and Entropy-based Guided Inference for Space Selection -- A novel semi-automated active space selection workflow for quantum chemistry and quantum computing applications</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Fabio Tarocco et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10671">2508.10671</a></td>
 </tr>
 </tbody></table>

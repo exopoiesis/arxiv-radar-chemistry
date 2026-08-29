@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">267 papers</span>
+  <span class="paper-count">265 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1604,17 +1604,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14148.html">Charge Densities and Triply-Periodic Minimal Surfaces in Crystalline Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Mengdi Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2504.14148">2504.14148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18727.html">Origin of Glass-like Thermal Conductivity in Crystalline TlAgTe</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Shantanu Semwal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18727">2508.18727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02468.html">Experimental electronic structure of the mineral superconductor covellite CuS</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Alexandre Antezak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02468">2509.02468</a></td>
 </tr>
 </tbody></table>

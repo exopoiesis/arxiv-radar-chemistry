@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1563 papers</span>
+  <span class="paper-count">1559 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9368,29 +9368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03684.html">Light nuclei under magnetic field and the lithium problem</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Nodoka Yamanaka</td>
 <td><a href="http://arxiv.org/abs/2509.03684">2509.03684</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07657.html">Exotic collective dynamics in molten Carbon</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Taras Bryk et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07657">2507.07657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18727.html">Origin of Glass-like Thermal Conductivity in Crystalline TlAgTe</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Shantanu Semwal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18727">2508.18727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02206.html">Theoretical calculation of finite-temperature X-ray absorption fine structure: application to sodium K-edge in NaCl</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Philipp Hönicke et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02206">2509.02206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Márton Guba et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
 </tr>
 </tbody></table>

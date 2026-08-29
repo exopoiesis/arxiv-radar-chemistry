@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2033 papers</span>
+  <span class="paper-count">2029 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12188,29 +12188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03618.html">Topological edge states in a double isomeric Class-II oligo(indenoindene)</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Ricardo Ortiz</td>
 <td><a href="http://arxiv.org/abs/2509.03618">2509.03618</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18727.html">Origin of Glass-like Thermal Conductivity in Crystalline TlAgTe</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Shantanu Semwal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18727">2508.18727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Márton Guba et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02438.html">Pressure-Induced Mechanical Instabilities in Cubic SiC: Structural and Electronic Properties</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Carlos P. Herrero et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02438">2509.02438</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02468.html">Experimental electronic structure of the mineral superconductor covellite CuS</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Alexandre Antezak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02468">2509.02468</a></td>
 </tr>
 </tbody></table>

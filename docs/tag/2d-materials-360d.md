@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">537 papers</span>
+  <span class="paper-count">535 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3224,17 +3224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03854.html">Switching topological states via uniaxial strain in 2D materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Joshua J. Sanchez et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03854">2509.03854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03494.html">Propylenidene: A Novel Metallic Carbon Monolayer with Unconventional Ring Topology</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Jose A. S. Laranjeira et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03494">2506.03494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03081.html">Machine learning-accelerated search of superconductors in B-C-N based compounds and R3Ni2O7-type nickelates</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Xiaoying Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03081">2509.03081</a></td>
 </tr>
 </tbody></table>

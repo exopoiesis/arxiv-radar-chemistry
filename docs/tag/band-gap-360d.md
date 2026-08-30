@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">419 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2528,11 +2528,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03854.html">Switching topological states via uniaxial strain in 2D materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Joshua J. Sanchez et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03854">2509.03854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03618.html">Topological edge states in a double isomeric Class-II oligo(indenoindene)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ricardo Ortiz</td>
-<td><a href="http://arxiv.org/abs/2509.03618">2509.03618</a></td>
 </tr>
 </tbody></table>

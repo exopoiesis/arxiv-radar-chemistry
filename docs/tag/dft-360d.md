@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2029 papers</span>
+  <span class="paper-count">2023 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12152,41 +12152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04149.html">Classical density functional theory for nanoparticle-laden droplets</a></div></td>
 <td>Melih Gül et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04149">2509.04149</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03494.html">Propylenidene: A Novel Metallic Carbon Monolayer with Unconventional Ring Topology</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Jose A. S. Laranjeira et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03494">2506.03494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17327.html">Orbital-selective two-gap superconductivity in kagome metal CsV3Sb5</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Run Lv et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17327">2508.17327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02984.html">Size-Dependent Structural Motifs in Ag$_n$Mo (n = 2-13) Clusters: From Planar to Icosahedral Architectures</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Samantha Ortega-Flores et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02984">2509.02984</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03081.html">Machine learning-accelerated search of superconductors in B-C-N based compounds and R3Ni2O7-type nickelates</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Xiaoying Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03081">2509.03081</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03401.html">A Comprehensive Assessment and Benchmark Study of Large Atomistic Foundation Models for Phonons</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Md Zaibul Anam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03401">2509.03401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03618.html">Topological edge states in a double isomeric Class-II oligo(indenoindene)</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Ricardo Ortiz</td>
-<td><a href="http://arxiv.org/abs/2509.03618">2509.03618</a></td>
 </tr>
 </tbody></table>

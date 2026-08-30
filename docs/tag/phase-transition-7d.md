@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>phase-transition — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22282.html">Machine-learning-guided molecular dynamics simulations of point defect evolution in beta-Ga2O3 during ion implantation and annealing</a></div></td>
 <td>Huawen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22282">2608.22282</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22009.html">Impact of interstitial carbon on local lattice distortions in CoCrFeMnNi high-entropy alloys</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Alevtina Smekhova et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22009">2608.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22091.html">Insight into the molecular dynamics of barocaloric molecular crystals using quasi-elastic neutron scattering</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Frederic Rendell-Bhatti et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22091">2608.22091</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1559 papers</span>
+  <span class="paper-count">1552 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9326,47 +9326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03966.html">Excitonic description of singlet fission beyond dimer model : a matrix product state approach</a></div></td>
 <td>Supriyo Santra et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03966">2509.03966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05656.html">Applications of the Modified Hulthén-Kohn Method for Bound and Scattering States</a></div></td>
-<td>M. A. Sharaf et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05656">2408.05656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13424.html">The Enduring Relevance of Semiempirical Quantum Mechanics</a></div></td>
-<td>Jonathan E. Moussa</td>
-<td><a href="http://arxiv.org/abs/2505.13424">2505.13424</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15752.html">Energy transfer between localized emitters in photonic cavities from first principles</a></div></td>
-<td>Swarnabha Chattaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15752">2505.15752</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17327.html">Orbital-selective two-gap superconductivity in kagome metal CsV3Sb5</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Run Lv et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17327">2508.17327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01866.html">Strong-Field Photoelectron Interferometry with Near-Single-Cycle Yb Lasers</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Mahmudul Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01866">2509.01866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02953.html">Observation of renormalization group invariance in symmetry-restored nuclear lattice effective field theory</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Jia-Ai Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02953">2509.02953</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03684.html">Light nuclei under magnetic field and the lithium problem</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Nodoka Yamanaka</td>
-<td><a href="http://arxiv.org/abs/2509.03684">2509.03684</a></td>
 </tr>
 </tbody></table>

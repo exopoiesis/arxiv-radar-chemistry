@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">469 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2828,11 +2828,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04582.html">Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping</a></div></td>
 <td>Jingyi Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04582">2509.04582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.00177.html">LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting</a></div></td>
-<td>Xiaoyan Xing et al.</td>
-<td><a href="http://arxiv.org/abs/2412.00177">2412.00177</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,23 +128,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22239.html">Oxygen stoichiometry directs rutile-anatase phase selection through kinetic control of nucleation</a></div><div class="paper-tags"><a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Han Uk Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22239">2608.22239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22009.html">Impact of interstitial carbon on local lattice distortions in CoCrFeMnNi high-entropy alloys</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Alevtina Smekhova et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22009">2608.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22074.html">Cross-Temperature Defect Identification in Atomistic Simulations via Multi-Level Domain Alignment</a></div></td>
-<td>Yating Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22074">2608.22074</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22091.html">Insight into the molecular dynamics of barocaloric molecular crystals using quasi-elastic neutron scattering</a></div><div class="paper-tags"><a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Frederic Rendell-Bhatti et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22091">2608.22091</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28347.html">Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys</a></div></td>
+<td>Zacharias Liasi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28347">2608.28347</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26766.html">MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics</a></div></td>
@@ -380,23 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03764.html">RamanGPT: Bidirectional Mapping Between Crystal Structures and Raman Spectra with Graph Neural Networks and Generative Transformers</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Frank M. Abel et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03764">2606.03764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01781.html">Structure-Guided Adaptive Propagation for Protein-Protein Interaction Site Prediction</a></div></td>
-<td>Enqiang Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01781">2606.01781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04020.html">SpliceBind: Isoform-Aware Prediction of Binding Pocket Druggability</a></div></td>
-<td>Bryan Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04020">2606.04020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04021.html">Structure-Aware Prediction of PROTAC-Mediated Protein Degradability via Graph Neural Networks</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Bryan Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04021">2606.04021</a></td>
 </tr>
 </tbody></table>

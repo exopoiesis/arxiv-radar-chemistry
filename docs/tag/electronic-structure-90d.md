@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28238.html">Interplay between crystal structure and magnetism in CeCrB$_4$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Mirosław Werwiński et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28238">2608.28238</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26652.html">Strain-driven orbital-selective reconstruction and bicollinear-to-stripe evolution in FeTe</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27177.html">ElemCo.jl: A Julia package for electron-correlation methods</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Daniel Kats et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27177">2608.27177</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Manasa Kaniselvan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -524,23 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03140.html">SEDACS: A Scalable Framework for Complex Chemistry Simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Cheng-Han Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03140">2606.03140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Surender Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02760.html">Optoelectronics and Magnetic properties calculation of RE2MnNiO6 (RE=La-Lu,Y) using Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Debidutta Pradhan</td>
-<td><a href="http://arxiv.org/abs/2606.02760">2606.02760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ying You et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
 </tr>
 </tbody></table>

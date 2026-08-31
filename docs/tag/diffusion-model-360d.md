@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27893.html">CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Yajiao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27893">2608.27893</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26585.html">GRAS: Guided Reduced-Variance Proposals and Adaptive Selection for Training-Free Reward Alignment in Discrete Diffusion</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Kwanyoung Kim</td>
@@ -2588,11 +2594,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05030.html">LUIVITON: Learned Universal Interoperable VIrtual Try-ON</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Cong Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05030">2509.05030</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22627.html">LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing</a></div></td>
-<td>Federico Girella et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22627">2507.22627</a></td>
 </tr>
 </tbody></table>

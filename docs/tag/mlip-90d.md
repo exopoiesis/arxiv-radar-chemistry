@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mof-90d.html">mof</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27277.html">Benchmarking of Fast and Interpretable UF Machine Learning Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Pawan Prakash et al.</td>
@@ -584,11 +590,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Joanna Zou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01598.html">Differentiable Particle-Mesh Ewald with Cartesian Tensor Message Passing for Learning Long-Range Electrostatics and Dipole Response</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zhiyue Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01598">2606.01598</a></td>
 </tr>
 </tbody></table>

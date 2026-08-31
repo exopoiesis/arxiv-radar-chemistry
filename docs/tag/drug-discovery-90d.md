@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,23 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03435.html">CP-Agent: Context-Aware Multimodal Reasoning for Cellular Morphological Profiling under Chemical Perturbations</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
 <td>Yuxin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03435">2606.03435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01628.html">Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Keyue Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01628">2606.01628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02386.html">AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Sahil Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02386">2606.02386</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02902.html">Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Esmaeil Shakeri et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02902">2606.02902</a></td>
 </tr>
 </tbody></table>

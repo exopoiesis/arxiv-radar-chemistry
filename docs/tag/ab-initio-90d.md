@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">302 papers</span>
+  <span class="paper-count">303 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27820.html">Resolving Spin-Phonon Relaxation Pathways in Molecular Qubits via Regularized Regression</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Sayan Banerjee</td>
+<td><a href="http://arxiv.org/abs/2608.27820">2608.27820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28091.html">The iconic $^{238}$U: ab initio nuclear structure theory towards the limit of the periodic table</a></div></td>
+<td>A. Scalesi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28091">2608.28091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="mof-90d.html">mof</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28521.html">Modifying van der Waals Materials via Cavity Vacuum Fluctuations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Mohammad Hassan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28521">2608.28521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28565.html">A Three-Fluid Model of Dissipation at Surfaces in Superconducting Radiofrequency Cavities</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Matthias Liepe Michelle M. Kelley et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28565">2608.28565</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26865.html">Coupled-channel scattering from artificial confinement</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -44,6 +74,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27097.html">Beyond-EUV spectrum of highly-charged gadolinium</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
 <td>M. L. Reitsma et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27097">2608.27097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Manasa Kaniselvan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27561.html">Pulling strings in real time: flux tube dynamics in (2+1)-d $\mathbb{Z}_2$-Higgs Gauge Theories</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Zeno Bacciconi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27561">2608.27561</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -1790,41 +1832,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04252.html">High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Arpan Das</td>
 <td><a href="http://arxiv.org/abs/2606.04252">2606.04252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01656.html">Dynamic Breaking of Mirror Symmetry in Spin-Dependent Electron Transport through Chiral Media Causes Enantiomeric Excesses</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Yossi Paltiel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01656">2606.01656</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01728.html">Microscopic Origin of Emergent Elliptic Flow and Molecule Formation in Strongly Interacting Quasi-Two-Dimensional Few-Body Systems</a></div></td>
-<td>Xin-Yuan Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01728">2606.01728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a> · <a href="tmo-90d.html">tmo</a></div></td>
-<td>Christian S. Ahart et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Surender Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02760.html">Optoelectronics and Magnetic properties calculation of RE2MnNiO6 (RE=La-Lu,Y) using Density Functional Theory</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Debidutta Pradhan</td>
-<td><a href="http://arxiv.org/abs/2606.02760">2606.02760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ying You et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
 </tr>
 </tbody></table>

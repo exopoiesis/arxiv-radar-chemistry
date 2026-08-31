@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft — all</h1>
-  <span class="paper-count">3858 papers</span>
+  <span class="paper-count">3864 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="mof-all.html">mof</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28238.html">Interplay between crystal structure and magnetism in CeCrB$_4$</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Mirosław Werwiński et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28238">2608.28238</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28521.html">Modifying van der Waals Materials via Cavity Vacuum Fluctuations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Mohammad Hassan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28521">2608.28521</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13427.html">Modeling Bond-Dependent Kitaev-like interaction in 2D Edge-Sharing Tetrahedral Magnets: FeX (X=Te, Se)</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
@@ -62,6 +80,24 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27401.html">An Equation of State for Supercritical Silicate-Hydrogen Mixtures at Sub-Neptune Interior Conditions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Sarah P. Marcum et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27401">2608.27401</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Manasa Kaniselvan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27643.html">LDA-1/2 for Molecular Systems: A Real-Space Finite-Element Benchmark on the GW100 Set</a></div></td>
+<td>Dongming Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27643">2608.27643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27747.html">Electronic structure, magnetic interactions, and magnonics of 2D trichloride materials</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Krishna Prasad Chapai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27747">2608.27747</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>

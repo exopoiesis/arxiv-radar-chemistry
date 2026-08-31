@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1552 papers</span>
+  <span class="paper-count">1556 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27820.html">Resolving Spin-Phonon Relaxation Pathways in Molecular Qubits via Regularized Regression</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Sayan Banerjee</td>
+<td><a href="http://arxiv.org/abs/2608.27820">2608.27820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28091.html">The iconic $^{238}$U: ab initio nuclear structure theory towards the limit of the periodic table</a></div></td>
+<td>A. Scalesi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28091">2608.28091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="mof-360d.html">mof</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28521.html">Modifying van der Waals Materials via Cavity Vacuum Fluctuations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Mohammad Hassan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28521">2608.28521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28565.html">A Three-Fluid Model of Dissipation at Surfaces in Superconducting Radiofrequency Cavities</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Matthias Liepe Michelle M. Kelley et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28565">2608.28565</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26865.html">Coupled-channel scattering from artificial confinement</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
@@ -44,6 +74,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27097.html">Beyond-EUV spectrum of highly-charged gadolinium</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>M. L. Reitsma et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27097">2608.27097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Manasa Kaniselvan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27561.html">Pulling strings in real time: flux tube dynamics in (2+1)-d $\mathbb{Z}_2$-Higgs Gauge Theories</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Zeno Bacciconi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27561">2608.27561</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -9308,23 +9350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05509.html">Ionization potential and electron affinity of superheavy element 119: relativistic high-order coupled cluster study with QED corrections</a></div></td>
 <td>A. R. Saetgaraev et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05509">2509.05509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14148.html">Charge Densities and Triply-Periodic Minimal Surfaces in Crystalline Materials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Mengdi Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14148">2504.14148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10100.html">Cavity Born-Oppenheimer Coupled Cluster Theory: Towards Electron Correlation in the Vibrational Strong Light-Matter Coupling Regime</a></div></td>
-<td>Eric W. Fischer</td>
-<td><a href="http://arxiv.org/abs/2507.10100">2507.10100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03966.html">Excitonic description of singlet fission beyond dimer model : a matrix product state approach</a></div></td>
-<td>Supriyo Santra et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03966">2509.03966</a></td>
 </tr>
 </tbody></table>

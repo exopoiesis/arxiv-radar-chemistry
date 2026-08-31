@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.27025">2608.27025</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27747.html">Electronic structure, magnetic interactions, and magnonics of 2D trichloride materials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Krishna Prasad Chapai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27747">2608.27747</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21565.html">Weyl Points and Fermi Arc Surface States in a Self-assemblable Zinc-Blende Photonic Crystal</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Johnathon P. Gales et al.</td>
@@ -2522,11 +2528,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05278.html">Illuminating Stability and Spectral Shifts: A DFT+U Study of Eu-Doped ZnWO$_4$ for Visible-Light Optoelectronics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Muhammad Tayyab et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05278">2509.05278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03854.html">Switching topological states via uniaxial strain in 2D materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Joshua J. Sanchez et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03854">2509.03854</a></td>
 </tr>
 </tbody></table>

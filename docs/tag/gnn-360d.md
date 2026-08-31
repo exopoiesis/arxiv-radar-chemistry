@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28347.html">Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys</a></div></td>
+<td>Zacharias Liasi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28347">2608.28347</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26766.html">MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics</a></div></td>
 <td>Zihang Wang et al.</td>
@@ -2348,11 +2354,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04875.html">Hot-Ham: an accurate and efficient E(3)-equivariant machine-learning electronic structures calculation framework</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Zhixin Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04875">2509.04875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03885.html">Topotein: Topological Deep Learning for Protein Representation Learning</a></div></td>
-<td>Zhiyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03885">2509.03885</a></td>
 </tr>
 </tbody></table>

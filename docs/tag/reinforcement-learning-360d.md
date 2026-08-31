@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27893.html">CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
+<td>Yajiao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27893">2608.27893</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26190.html">Predicting Consequences and Reinforcing Navigation Policies with Latent World Models</a></div></td>
 <td>Zengmao Wang et al.</td>
@@ -1010,11 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05051.html">QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Aaron Mark Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05051">2509.05051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Kai Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04291">2509.04291</a></td>
 </tr>
 </tbody></table>

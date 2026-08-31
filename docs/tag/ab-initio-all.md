@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">2887 papers</span>
+  <span class="paper-count">2894 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27820.html">Resolving Spin-Phonon Relaxation Pathways in Molecular Qubits via Regularized Regression</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Sayan Banerjee</td>
+<td><a href="http://arxiv.org/abs/2608.27820">2608.27820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28091.html">The iconic $^{238}$U: ab initio nuclear structure theory towards the limit of the periodic table</a></div></td>
+<td>A. Scalesi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28091">2608.28091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="mof-all.html">mof</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28521.html">Modifying van der Waals Materials via Cavity Vacuum Fluctuations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Mohammad Hassan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28521">2608.28521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28565.html">A Three-Fluid Model of Dissipation at Surfaces in Superconducting Radiofrequency Cavities</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td>Matthias Liepe Michelle M. Kelley et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28565">2608.28565</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26865.html">Coupled-channel scattering from artificial confinement</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
@@ -44,6 +74,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27097.html">Beyond-EUV spectrum of highly-charged gadolinium</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
 <td>M. L. Reitsma et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27097">2608.27097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Manasa Kaniselvan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27561.html">Pulling strings in real time: flux tube dynamics in (2+1)-d $\mathbb{Z}_2$-Higgs Gauge Theories</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
+<td>Zeno Bacciconi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27561">2608.27561</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>

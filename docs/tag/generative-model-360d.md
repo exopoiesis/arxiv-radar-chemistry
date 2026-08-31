@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28122.html">Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities</a></div></td>
+<td>Tianfu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28122">2608.28122</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26961.html">Gromov-Monge Flow Matching for Equivariant Graph Generation</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Moritz Piening et al.</td>
@@ -2822,11 +2828,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05051.html">QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Aaron Mark Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05051">2509.05051</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04582.html">Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping</a></div></td>
-<td>Jingyi Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04582">2509.04582</a></td>
 </tr>
 </tbody></table>

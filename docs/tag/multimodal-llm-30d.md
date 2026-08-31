@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>multimodal-llm — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <strong>30d</strong> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27893.html">CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Yajiao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27893">2608.27893</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25973.html">SciMIF: Understanding Multimodal Instruction Following in Scientific Domains</a></div></td>

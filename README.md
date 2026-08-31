@@ -1,8 +1,8 @@
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 15919 papers across 26 months.
+**Total corpus:** 15942 papers across 26 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-08-28**|**QUBO-Compatible Active Learning for Inverse Design of High-Entropy Alloys**|Giorgio Silvi et al.|[2608.28239](http://arxiv.org/abs/2608.28239)|[md](abstracts/2608.28239.md)|
+|**2026-08-28**|**Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys**|Zacharias Liasi et al.|[2608.28347](http://arxiv.org/abs/2608.28347)|[md](abstracts/2608.28347.md)|
 |**2026-08-27**|**MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics**|Zihang Wang et al.|[2608.26766](http://arxiv.org/abs/2608.26766)|[md](abstracts/2608.26766.md)|
 |**2026-08-25**|**Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning**|Ruihan Liu et al.|[2608.24386](http://arxiv.org/abs/2608.24386)|[md](abstracts/2608.24386.md)|
 |**2026-08-25**|**Visualizing and Quantifying Atomic Contributions to Raman Intensities governed by Spatially-Resolved Atomic Interferences**|Marc Broeckel et al.|[2608.25051](http://arxiv.org/abs/2608.25051)|[md](abstracts/2608.25051.md)|
@@ -97,15 +99,18 @@
 |**2026-07-01**|**Multi-Label Node Classification with Label Influence Propagation**|Yifei Sun et al.|[2607.00671](http://arxiv.org/abs/2607.00671)|[md](abstracts/2607.00671.md)|
 |**2026-06-22**|**Rethinking Molecular Graph Backdoors under Chemistry-aware Admission**|Thinh T. H. Nguyen et al.|[2606.23361](http://arxiv.org/abs/2606.23361)|[md](abstracts/2606.23361.md)|
 |**2026-06-22**|**SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations**|Nandana Menon et al.|[2606.23548](http://arxiv.org/abs/2606.23548)|[md](abstracts/2606.23548.md)|
-|**2026-06-21**|**Multigrid Training for Molecular Generation using Graph Neural Networks**|Zixuan Ling et al.|[2606.22377](http://arxiv.org/abs/2606.22377)|[md](abstracts/2606.22377.md)|
-|**2026-06-21**|**High-Resolution Probing of Molecular Junctions: Vibrational Fingerprinting and Parameter Extraction via Current Noise Spectroscopy**|Rani Arielly|[2606.22663](http://arxiv.org/abs/2606.22663)|[md](abstracts/2606.22663.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Generative Design & Molecule Optimization
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-08-28**|**CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning**|Yajiao Xu et al.|[2608.27893](http://arxiv.org/abs/2608.27893)|[md](abstracts/2608.27893.md)|
+|**2026-08-28**|**Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities**|Tianfu Wang et al.|[2608.28122](http://arxiv.org/abs/2608.28122)|[md](abstracts/2608.28122.md)|
+|**2026-08-28**|**QUBO-Compatible Active Learning for Inverse Design of High-Entropy Alloys**|Giorgio Silvi et al.|[2608.28239](http://arxiv.org/abs/2608.28239)|[md](abstracts/2608.28239.md)|
+|**2026-08-28**|**MAIL: Memory-driven, Adaptive, Incremental, and Literature-grounded Framework for Hypothesis Generation in Chemistry**|Mahdi Babaei et al.|[2608.28315](http://arxiv.org/abs/2608.28315)|[md](abstracts/2608.28315.md)|
+|**2026-08-28**|**Automated Dislocation Detection in Electron Channelling Contrast Imaging: A Comparative Study of Rule-Based, Neural Network, and Deep Learning Approaches**|A. Holmes et al.|[2608.28495](http://arxiv.org/abs/2608.28495)|[md](abstracts/2608.28495.md)|
 |**2026-08-27**|**GRAS: Guided Reduced-Variance Proposals and Adaptive Selection for Training-Free Reward Alignment in Discrete Diffusion**|Kwanyoung Kim|[2608.26585](http://arxiv.org/abs/2608.26585)|[md](abstracts/2608.26585.md)|
 |**2026-08-27**|**Accelerating Scientific Research with Gemini in the Real-World**|Samuel Schmidgall et al.|[2608.26701](http://arxiv.org/abs/2608.26701)|[md](abstracts/2608.26701.md)|
 |**2026-08-27**|**AlGaN/GaN Hall-Effect Sensor for In-Situ Magnetic Field Monitoring of the HSX Stellarator**|Yiming Zhao et al.|[2608.26704](http://arxiv.org/abs/2608.26704)|[md](abstracts/2608.26704.md)|
@@ -151,13 +156,8 @@
 |**2026-08-13**|**EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models**|Deeksha M Shama et al.|[2608.13676](http://arxiv.org/abs/2608.13676)|[md](abstracts/2608.13676.md)|
 |**2026-08-12**|**Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion**|David Bechtoldt et al.|[2608.12083](http://arxiv.org/abs/2608.12083)|[md](abstracts/2608.12083.md)|
 |**2026-08-12**|**NAE: Normalizing AutoEncoder**|Muhammad Abdur Rafae et al.|[2608.12084](http://arxiv.org/abs/2608.12084)|[md](abstracts/2608.12084.md)|
-|**2026-08-12**|**How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models**|Aleksandra Kalisz et al.|[2608.12192](http://arxiv.org/abs/2608.12192)|[md](abstracts/2608.12192.md)|
-|**2026-08-11**|**DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics**|Jiabao Wei et al.|[2608.10435](http://arxiv.org/abs/2608.10435)|[md](abstracts/2608.10435.md)|
-|**2026-08-11**|**Is Retrieval All You Need? Assessment and Emergence of Novelty in Protein Structure Generation**|Tongyue Xu et al.|[2608.10598](http://arxiv.org/abs/2608.10598)|[md](abstracts/2608.10598.md)|
-|**2026-08-10**|**Real Data Closes Synthetic-to-Real Gap in Optical Chemical Structure Recognition**|Yani Guan et al.|[2608.09100](http://arxiv.org/abs/2608.09100)|[md](abstracts/2608.09100.md)|
-|**2026-08-10**|**UniMoFlow: Grounding Instruction-Driven 3D Human Motion Editing in Generation**|Yilei Hua et al.|[2608.09143](http://arxiv.org/abs/2608.09143)|[md](abstracts/2608.09143.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Property Prediction & ADMET
 
@@ -214,12 +214,13 @@
 |**2026-06-06**|**Frequency-Domain Latent Attention Gating for Cross-Domain Token Aggregation**|Kewei Li et al.|[2606.08191](http://arxiv.org/abs/2606.08191)|[md](abstracts/2606.08191.md)|
 |**2026-06-04**|**MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry**|Joey Chan et al.|[2606.05693](http://arxiv.org/abs/2606.05693)|[md](abstracts/2606.05693.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Reaction, Synthesis & Catalysis
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-08-28**|**How a polymer filling enhances the rate and selectivity of colloid permeation across mesopores**|Mikhail Y. Laktionov et al.|[2608.27995](http://arxiv.org/abs/2608.27995)|[md](abstracts/2608.27995.md)|
 |**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et al.|[2608.27429](http://arxiv.org/abs/2608.27429)|[md](abstracts/2608.27429.md)|
 |**2026-08-26**|**Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning**|Wei-Jian Jiang et al.|[2608.25392](http://arxiv.org/abs/2608.25392)|[md](abstracts/2608.25392.md)|
 |**2026-08-26**|**Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows**|Yuki K. Wakabayashi et al.|[2608.26016](http://arxiv.org/abs/2608.26016)|[md](abstracts/2608.26016.md)|
@@ -269,14 +270,21 @@
 |**2026-07-12**|**Enhanced diffusion of colloidal tracers due to enzymatic activity**|Mauricio Gomez et al.|[2607.10646](http://arxiv.org/abs/2607.10646)|[md](abstracts/2607.10646.md)|
 |**2026-07-09**|**Generation and Characterization of Surface-Attached Ultrathin Liquid Sheets for Grazing-Incidence X-ray Scattering**|Yibo Wang et al.|[2607.08149](http://arxiv.org/abs/2607.08149)|[md](abstracts/2607.08149.md)|
 |**2026-07-09**|**Game Theory Driven Multi-Agent Framework Mitigates Language Model Hallucination**|Runzhe Liu et al.|[2607.08403](http://arxiv.org/abs/2607.08403)|[md](abstracts/2607.08403.md)|
-|**2026-07-09**|**Seeing inside a Plasmonic Nanogap: Few-molecule Orientation and Preferential Adsorption**|Francesco Ciccarello et al.|[2607.08922](http://arxiv.org/abs/2607.08922)|[md](abstracts/2607.08922.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Quantum Chemistry & Force Fields
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-08-28**|**Resolving Spin-Phonon Relaxation Pathways in Molecular Qubits via Regularized Regression**|Sayan Banerjee|[2608.27820](http://arxiv.org/abs/2608.27820)|[md](abstracts/2608.27820.md)|
+|**2026-08-28**|**RNA-like Polyelectrolyte in a Viral Capsid: Molecular Dynamics with Explicit Electrostatic Interactions**|Xintong Jiang et al.|[2608.27825](http://arxiv.org/abs/2608.27825)|[md](abstracts/2608.27825.md)|
+|**2026-08-28**|**The iconic $^{238}$U: ab initio nuclear structure theory towards the limit of the periodic table**|A. Scalesi et al.|[2608.28091](http://arxiv.org/abs/2608.28091)|[md](abstracts/2608.28091.md)|
+|**2026-08-28**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et al.|[2608.28100](http://arxiv.org/abs/2608.28100)|[md](abstracts/2608.28100.md)|
+|**2026-08-28**|**Interplay between crystal structure and magnetism in CeCrB$_4$**|Mirosław Werwiński et al.|[2608.28238](http://arxiv.org/abs/2608.28238)|[md](abstracts/2608.28238.md)|
+|**2026-08-28**|**QUBO-Compatible Active Learning for Inverse Design of High-Entropy Alloys**|Giorgio Silvi et al.|[2608.28239](http://arxiv.org/abs/2608.28239)|[md](abstracts/2608.28239.md)|
+|**2026-08-28**|**Modifying van der Waals Materials via Cavity Vacuum Fluctuations**|Mohammad Hassan et al.|[2608.28521](http://arxiv.org/abs/2608.28521)|[md](abstracts/2608.28521.md)|
+|**2026-08-28**|**A Three-Fluid Model of Dissipation at Surfaces in Superconducting Radiofrequency Cavities**|Matthias Liepe Michelle M. Kelley et al.|[2608.28565](http://arxiv.org/abs/2608.28565)|[md](abstracts/2608.28565.md)|
 |**2026-08-27**|**Modeling Bond-Dependent Kitaev-like interaction in 2D Edge-Sharing Tetrahedral Magnets: FeX (X=Te, Se)**|Mengdong Li et al.|[2608.13427](http://arxiv.org/abs/2608.13427)|[md](abstracts/2608.13427.md)|
 |**2026-08-27**|**Strain-driven orbital-selective reconstruction and bicollinear-to-stripe evolution in FeTe**|Zhenfeng Ouyang et al.|[2608.26652](http://arxiv.org/abs/2608.26652)|[md](abstracts/2608.26652.md)|
 |**2026-08-27**|**A review of simulation, measurement techniques, and development in chip thermal design**|Junnian Zhou et al.|[2608.26811](http://arxiv.org/abs/2608.26811)|[md](abstracts/2608.26811.md)|
@@ -293,6 +301,11 @@
 |**2026-08-27**|**Grain Boundary Phase Transitions Enable Diffusionless Climb of Disconnections**|Md Sharier Nazim et al.|[2608.27314](http://arxiv.org/abs/2608.27314)|[md](abstracts/2608.27314.md)|
 |**2026-08-27**|**Nonparametric multiscale modeling of boundary lubrication: hexadecane in highly pressurized gold asperity contacts**|Hannes Holey et al.|[2608.27352](http://arxiv.org/abs/2608.27352)|[md](abstracts/2608.27352.md)|
 |**2026-08-27**|**An Equation of State for Supercritical Silicate-Hydrogen Mixtures at Sub-Neptune Interior Conditions**|Sarah P. Marcum et al.|[2608.27401](http://arxiv.org/abs/2608.27401)|[md](abstracts/2608.27401.md)|
+|**2026-08-27**|**Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures**|Manasa Kaniselvan et al.|[2608.27533](http://arxiv.org/abs/2608.27533)|[md](abstracts/2608.27533.md)|
+|**2026-08-27**|**Pulling strings in real time: flux tube dynamics in (2+1)-d $\mathbb{Z}_2$-Higgs Gauge Theories**|Zeno Bacciconi et al.|[2608.27561](http://arxiv.org/abs/2608.27561)|[md](abstracts/2608.27561.md)|
+|**2026-08-27**|**Atomistic Indicators of the Ductile-to-Brittle Transition in Polycrystalline Tungsten: Temperature and Rhenium Effects on Crack-Tip Plasticity**|Divyesh Mistry et al.|[2608.27589](http://arxiv.org/abs/2608.27589)|[md](abstracts/2608.27589.md)|
+|**2026-08-27**|**LDA-1/2 for Molecular Systems: A Real-Space Finite-Element Benchmark on the GW100 Set**|Dongming Li et al.|[2608.27643](http://arxiv.org/abs/2608.27643)|[md](abstracts/2608.27643.md)|
+|**2026-08-27**|**Electronic structure, magnetic interactions, and magnonics of 2D trichloride materials**|Krishna Prasad Chapai et al.|[2608.27747](http://arxiv.org/abs/2608.27747)|[md](abstracts/2608.27747.md)|
 |**2026-08-26**|**Electron transport in amorphous materials: from localization to predictive transport modeling**|Yeonghun Lee|[2608.17814](http://arxiv.org/abs/2608.17814)|[md](abstracts/2608.17814.md)|
 |**2026-08-26**|**Thickness-dependent degradation and optical access in epitaxial 2H-MoTe2 protected by metallic capping layers**|Wojciech Ryś et al.|[2608.18629](http://arxiv.org/abs/2608.18629)|[md](abstracts/2608.18629.md)|
 |**2026-08-26**|**Accidental accuracy and vertex corrections in $GW$: Exact benchmarks for the extended Hubbard model**|Michael O. Atambo|[2608.24838](http://arxiv.org/abs/2608.24838)|[md](abstracts/2608.24838.md)|
@@ -314,21 +327,8 @@
 |**2026-08-25**|**Classification of Metal - Insulator Transitions: Relating characteristic Properties to Quantum Chemical Bonding Descriptors**|Tim Bartsch et al.|[2608.24149](http://arxiv.org/abs/2608.24149)|[md](abstracts/2608.24149.md)|
 |**2026-08-25**|**An Ab initio Framework for Simulating Ultrafast Nonlinear Cavity Quantum Electrodynamics Spectra**|Luis Vasquez et al.|[2608.24180](http://arxiv.org/abs/2608.24180)|[md](abstracts/2608.24180.md)|
 |**2026-08-25**|**Influence of Interface Energy Anisotropy on the Solid-state Instability in Ni-based Superalloy: A Multiscale Study**|Sourav Ghosh et al.|[2608.24234](http://arxiv.org/abs/2608.24234)|[md](abstracts/2608.24234.md)|
-|**2026-08-25**|**Quantum Vibronic Dynamics Shape Catalytically Relevant Au-Ligand Interfaces in Atomically Precise Gold Nanoclusters**|Mengyuan Cui et al.|[2608.24402](http://arxiv.org/abs/2608.24402)|[md](abstracts/2608.24402.md)|
-|**2026-08-25**|**Plastic Relaxation without Dislocations in $β$-Ga$_2$O$_3$ Heteroepitaxy: A Structural Peculiarity of Ga$_2$O$_3$ Polymorphs**|I. Bertoni et al.|[2608.24465](http://arxiv.org/abs/2608.24465)|[md](abstracts/2608.24465.md)|
-|**2026-08-25**|**Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory**|Moritz Gubler et al.|[2608.24529](http://arxiv.org/abs/2608.24529)|[md](abstracts/2608.24529.md)|
-|**2026-08-25**|**Resolving the $φ$-meson directed-flow puzzle by multi-step meson--baryon dynamics**|Yingjie Zhou et al.|[2608.24573](http://arxiv.org/abs/2608.24573)|[md](abstracts/2608.24573.md)|
-|**2026-08-25**|**Efficient, precise DFT calculations of NMR shieldings: Revisiting the finite field approach**|Xiao Liu et al.|[2608.24655](http://arxiv.org/abs/2608.24655)|[md](abstracts/2608.24655.md)|
-|**2026-08-25**|**Multiscale Modelling of Ferroelectrics using a Physics-Informed Neural Network Driven by Molecular Dynamics Data: Parameter Identification and Field Reconstruction**|Xuejian Wang et al.|[2608.24733](http://arxiv.org/abs/2608.24733)|[md](abstracts/2608.24733.md)|
-|**2026-08-25**|**FrontierChallenge: Evaluating Scientific Workflow Completion**|Liangcai Su et al.|[2608.24979](http://arxiv.org/abs/2608.24979)|[md](abstracts/2608.24979.md)|
-|**2026-08-25**|**Intercalation of Alkali Metal into WTe2, the Crystal Structure of A0.5WTe2 and Observation of a Metal-to-Semiconductor Transition**|Patrick Schmidt et al.|[2608.25090](http://arxiv.org/abs/2608.25090)|[md](abstracts/2608.25090.md)|
-|**2026-08-25**|**Exploring electron transport in carbon wire systems using a wave function-based multiconfigurational non-equilibrium Green's function approach**|Pranesh Raghavendran et al.|[2608.25112](http://arxiv.org/abs/2608.25112)|[md](abstracts/2608.25112.md)|
-|**2026-08-25**|**First-Principles Prediction of Nonlinear Optical Response in $\text{TiO}_2$ for High-Power Dielectric Mirror Applications**|Koya Shimaoka et al.|[2608.25129](http://arxiv.org/abs/2608.25129)|[md](abstracts/2608.25129.md)|
-|**2026-08-25**|**An embedding method with constant potential boundary conditions**|Lisa Hetzel et al.|[2608.25154](http://arxiv.org/abs/2608.25154)|[md](abstracts/2608.25154.md)|
-|**2026-08-24**|**Better accuracy with fewer qubits: Single-particle basis set optimization for quantum chemistry on quantum computers**|Subimal Deb et al.|[2608.02119](http://arxiv.org/abs/2608.02119)|[md](abstracts/2608.02119.md)|
-|**2026-08-24**|**High-throughput identification of ferromagnetic Kagome candidates in the AT6X4 and AT6X5 families**|Shiya Chen et al.|[2608.22666](http://arxiv.org/abs/2608.22666)|[md](abstracts/2608.22666.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Protein & Biomolecules
 
@@ -343,6 +343,8 @@
 |**2026-08-27**|**MM-Spectrum: Multimodal Multi-spectral Molecular Structural Elucidation with a Stable MoE Framework**|Hai-tao Yu et al.|[2608.27286](http://arxiv.org/abs/2608.27286)|[md](abstracts/2608.27286.md)|
 |**2026-08-27**|**Reservoir: A Large-Scale Simulated Dataset for Training and Evaluating Epidemiological Models**|Carson Dudley et al.|[2608.27408](http://arxiv.org/abs/2608.27408)|[md](abstracts/2608.27408.md)|
 |**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et al.|[2608.27429](http://arxiv.org/abs/2608.27429)|[md](abstracts/2608.27429.md)|
+|**2026-08-27**|**Resolved Dust in $z\approx1$ Galaxies with JWST/MIRI MRS: Survey Description and First View on PAHs, Mid-IR Atomic Emission, and Warm H$_2$**|Wuji Wang et al.|[2608.27560](http://arxiv.org/abs/2608.27560)|[md](abstracts/2608.27560.md)|
+|**2026-08-27**|**Dark energy: the cost of function in protein evolution**|Ezequiel A. Galpern et al.|[2608.27711](http://arxiv.org/abs/2608.27711)|[md](abstracts/2608.27711.md)|
 |**2026-08-26**|**An Event is Worth One Token: Event Tokenization for Industrial-scale LLM Recommendation**|Fan Xia et al.|[2608.25546](http://arxiv.org/abs/2608.25546)|[md](abstracts/2608.25546.md)|
 |**2026-08-26**|**Unlocking Multimodal Protein Language Models at Inference Time**|Yi Zhou et al.|[2608.25855](http://arxiv.org/abs/2608.25855)|[md](abstracts/2608.25855.md)|
 |**2026-08-26**|**Interpreting Latent Protein Language Model Features with Geometric Annotations**|Siddharth Setlur et al.|[2608.26419](http://arxiv.org/abs/2608.26419)|[md](abstracts/2608.26419.md)|
@@ -382,17 +384,19 @@
 |**2026-08-17**|**Experimental evidence of an Apolar Biaxial Smectic-A Phase Comprised of Bent-Core Molecules**|Susovan Bhandary et al.|[2608.16462](http://arxiv.org/abs/2608.16462)|[md](abstracts/2608.16462.md)|
 |**2026-08-17**|**Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection**|Hai Xia et al.|[2608.17170](http://arxiv.org/abs/2608.17170)|[md](abstracts/2608.17170.md)|
 |**2026-08-17**|**Multi-Tag Collision Recovery in UHF-RFID Using Self-Attention Decoding**|Talha Akyildiz et al.|[2608.17216](http://arxiv.org/abs/2608.17216)|[md](abstracts/2608.17216.md)|
-|**2026-08-16**|**Not All Attention Is Equal: A Quantitative Survey of the EEI Trade-off**|Aditya Singh|[2608.15459](http://arxiv.org/abs/2608.15459)|[md](abstracts/2608.15459.md)|
-|**2026-08-16**|**High-Dimensional Nonparametric Change-Point Detection via Low-Rank Degree-Three Density Projection**|Guoqing Zhang et al.|[2608.15466](http://arxiv.org/abs/2608.15466)|[md](abstracts/2608.15466.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Large Language Models & Materials
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-08-28**|**uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks**|Théo Jaffrelot Inizan et al.|[2608.28100](http://arxiv.org/abs/2608.28100)|[md](abstracts/2608.28100.md)|
+|**2026-08-28**|**MAIL: Memory-driven, Adaptive, Incremental, and Literature-grounded Framework for Hypothesis Generation in Chemistry**|Mahdi Babaei et al.|[2608.28315](http://arxiv.org/abs/2608.28315)|[md](abstracts/2608.28315.md)|
+|**2026-08-28**|**Wyckoff-Resolved Oxidation-State Atlas and Anion-Conditioned Priors for Materials Discovery**|Boris Kiefer|[2608.28492](http://arxiv.org/abs/2608.28492)|[md](abstracts/2608.28492.md)|
 |**2026-08-27**|**AgentFold: Closed-Loop Agentic Search for Protein Folding Model Design**|Mingquan Liu et al.|[2608.26747](http://arxiv.org/abs/2608.26747)|[md](abstracts/2608.26747.md)|
 |**2026-08-27**|**Packora: Systematic Design for Generative Molecular Crystal Structure Prediction**|Nayoung Kim et al.|[2608.26962](http://arxiv.org/abs/2608.26962)|[md](abstracts/2608.26962.md)|
+|**2026-08-27**|**Compiling Chemical Knowledge into Executable Descriptors for Materials Prediction**|Jaehwan Choi et al.|[2608.27587](http://arxiv.org/abs/2608.27587)|[md](abstracts/2608.27587.md)|
 |**2026-08-26**|**High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys**|Shuo Tao et al.|[2608.25270](http://arxiv.org/abs/2608.25270)|[md](abstracts/2608.25270.md)|
 |**2026-08-26**|**Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning**|Wei-Jian Jiang et al.|[2608.25392](http://arxiv.org/abs/2608.25392)|[md](abstracts/2608.25392.md)|
 |**2026-08-26**|**Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation**|Haiyan Hao|[2608.25952](http://arxiv.org/abs/2608.25952)|[md](abstracts/2608.25952.md)|
@@ -437,12 +441,8 @@
 |**2026-08-17**|**Mitigating AI Risks in Computing Education via LLM-Driven Lecture Video Curation**|Owen Tang et al.|[2608.16131](http://arxiv.org/abs/2608.16131)|[md](abstracts/2608.16131.md)|
 |**2026-08-17**|**A Policy Algebra for Trust-Preserving Agentic AI Execution**|Bhaskar Tripathi et al.|[2608.16402](http://arxiv.org/abs/2608.16402)|[md](abstracts/2608.16402.md)|
 |**2026-08-17**|**Enhancing Hydrogen Adsorption Ability of MOF-5 with Metal Node Exchange and Linker Functionalisation**|Joshua Edzards et al.|[2608.16531](http://arxiv.org/abs/2608.16531)|[md](abstracts/2608.16531.md)|
-|**2026-08-17**|**CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction**|Tianqi Xiang et al.|[2608.16594](http://arxiv.org/abs/2608.16594)|[md](abstracts/2608.16594.md)|
-|**2026-08-17**|**Data-driven discovery and rapid, direct synthesis of MXenes**|Ali Saffar Shamshirgar et al.|[2608.16644](http://arxiv.org/abs/2608.16644)|[md](abstracts/2608.16644.md)|
-|**2026-08-16**|**L3Cube-IndicQuest v2: A Large-Scale Multilingual Benchmark for Evaluating Factual Knowledge of Large Language Models Across Indic Languages**|Rinit Jain et al.|[2608.15535](http://arxiv.org/abs/2608.15535)|[md](abstracts/2608.15535.md)|
-|**2026-08-16**|**Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis**|Alona Strugatski et al.|[2608.15630](http://arxiv.org/abs/2608.15630)|[md](abstracts/2608.15630.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:MLIPs, water, free energy
 
@@ -468,7 +468,7 @@
 |**2024-08-13**|**Self-induced light emission in solid-state memristors replicates neuronal biophotons**|K. Malchow et al.|[2401.12867](http://arxiv.org/abs/2401.12867)|[md](abstracts/2401.12867.md)|
 |**2024-07-30**|**Cartesian atomic cluster expansion for machine learning interatomic potentials**|Bingqing Cheng|[2402.07472](http://arxiv.org/abs/2402.07472)|[md](abstracts/2402.07472.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:GNN benchmarking, materials ML
 
@@ -483,7 +483,7 @@
 |**2024-11-19**|**Non-unique water and contrast agent solutions in dual-energy CT**|JP Phillips et al.|[2411.12862](http://arxiv.org/abs/2411.12862)|[md](abstracts/2411.12862.md)|
 |**2024-07-24**|**Towards an understanding of particle-scale flaws and microstructure evolution in cold-spray via accumulation of single particle impacts**|Alain Reiser et al.|[2404.05601](http://arxiv.org/abs/2404.05601)|[md](abstracts/2404.05601.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:PIMD, MLIPs, water
 
@@ -515,7 +515,7 @@
 |**2024-08-26**|**Prediction rigidities for data-driven chemistry**|Sanggyu Chong et al.|[2408.14311](http://arxiv.org/abs/2408.14311)|[md](abstracts/2408.14311.md)|
 |**2024-07-10**|**i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations**|Yair Litman et al.|[2405.15224](http://arxiv.org/abs/2405.15224)|[md](abstracts/2405.15224.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:metadynamics co-creator
 
@@ -528,7 +528,7 @@
 |**2024-07-26**|**Coarse Grained Molecular Dynamics with Normalizing Flows**|Samuel Tamagnone et al.|[2406.01524](http://arxiv.org/abs/2406.01524)|[md](abstracts/2406.01524.md)|
 |**2024-07-14**|**Density Estimation via Binless Multidimensional Integration**|Matteo Carli et al.|[2407.08094](http://arxiv.org/abs/2407.08094)|[md](abstracts/2407.08094.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:ML force fields, SchNet
 
@@ -549,7 +549,7 @@
 |**2024-07-10**|**A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery**|Parastoo Semnani et al.|[2407.18935](http://arxiv.org/abs/2407.18935)|[md](abstracts/2407.18935.md)|
 |**2024-07-05**|**Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials**|Klara Bonneau et al.|[2407.04526](http://arxiv.org/abs/2407.04526)|[md](abstracts/2407.04526.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:MD methodology
 
@@ -557,7 +557,7 @@
 |---|---|---|---|---|
 |**2024-07-24**|**Reverse non-equilibrium molecular dynamics simulations of a melt of Kremer-Grest type model under fast shear**|Tatsuma Oishi et al.|[2407.17031](http://arxiv.org/abs/2407.17031)|[md](abstracts/2407.17031.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:vdW, ML force fields
 
@@ -585,7 +585,7 @@
 |**2024-09-10**|**A Journey with THeSeuSS: Automated Python Tool for Modeling IR and Raman Vibrational Spectra of Molecules and Solids**|Ariadni Boziki et al.|[2409.06597](http://arxiv.org/abs/2409.06597)|[md](abstracts/2409.06597.md)|
 |**2024-07-29**|**$Δ$-Machine Learning to Elevate DFT-based Potentials and a Force Field to the CCSD(T) Level Illustrated for Ethanol**|Apurba Nandi et al.|[2407.20050](http://arxiv.org/abs/2407.20050)|[md](abstracts/2407.20050.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:SchNet, equivariant ML
 
@@ -598,7 +598,7 @@
 |**2024-11-18**|**A Pre-Trained Graph-Based Model for Adaptive Sequencing of Educational Documents**|Jean Vassoyan et al.|[2411.11520](http://arxiv.org/abs/2411.11520)|[md](abstracts/2411.11520.md)|
 |**2024-08-07**|**Accelerating crystal structure search through active learning with neural networks for rapid relaxations**|Stefaan S. P. Hessmann et al.|[2408.04073](http://arxiv.org/abs/2408.04073)|[md](abstracts/2408.04073.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:AIMD, proton transfer
 
@@ -614,7 +614,7 @@
 |**2024-09-14**|**Nutmeg and SPICE: Models and Data for Biomolecular Machine Learning**|Peter Eastman et al.|[2406.13112](http://arxiv.org/abs/2406.13112)|[md](abstracts/2406.13112.md)|
 |**2024-08-15**|**Accurate and efficient structure elucidation from routine one-dimensional NMR spectra using multitask machine learning**|Frank Hu et al.|[2408.08284](http://arxiv.org/abs/2408.08284)|[md](abstracts/2408.08284.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:DFT methodology, dispersion
 
@@ -646,7 +646,7 @@
 |**2024-08-19**|**Fractional Charges, Linear Conditions and Chemical Potentials for Excited States in $ΔSCF$ Theory**|Weitao Yang et al.|[2408.08443](http://arxiv.org/abs/2408.08443)|[md](abstracts/2408.08443.md)|
 |**2024-08-19**|**Orbital Energies Are Chemical Potentials in Ground-State Density Functional Theory and Excited-State $Δ$SCF Theory**|Weitao Yang et al.|[2408.10059](http://arxiv.org/abs/2408.10059)|[md](abstracts/2408.10059.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:ML chemistry, autonomous discovery
 
@@ -692,7 +692,7 @@
 |**2024-10-08**|**Spiers Memorial Lecture: How to do impactful research in artificial intelligence for chemistry and materials science**|Austin Cheng et al.|[2409.10304](http://arxiv.org/abs/2409.10304)|[md](abstracts/2409.10304.md)|
 |**2024-08-16**|**A theory of understanding for artificial intelligence: composability, catalysts, and learning**|Zijian Zhang et al.|[2408.08463](http://arxiv.org/abs/2408.08463)|[md](abstracts/2408.08463.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:DFT, polarizable water
 
@@ -733,7 +733,7 @@
 |**2024-09-03**|**Computational Methods to Investigate Intrinsically Disordered Proteins and their Complexes**|Zi Hao Liu et al.|[2409.02240](http://arxiv.org/abs/2409.02240)|[md](abstracts/2409.02240.md)|
 |**2024-08-26**|**Near Equivalence of Polarizability and Bond Order Flux Metrics for Describing Covalent Bond Rearrangements**|Lukas Kim et al.|[2408.14643](http://arxiv.org/abs/2408.14643)|[md](abstracts/2408.14643.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:proton transport, MS-EVB, coarse-graining
 
@@ -748,7 +748,7 @@
 |**2024-11-29**|**PLUMED Tutorials: a collaborative, community-driven learning ecosystem**|Gareth A. Tribello et al.|[2412.03595](http://arxiv.org/abs/2412.03595)|[md](abstracts/2412.03595.md)|
 |**2024-09-26**|**Understanding Dynamics in Coarse-Grained Models: IV. Connection of Fine-Grained and Coarse-Grained Dynamics with the Stokes-Einstein and Stokes-Einstein-Debye Relations**|Jaehyeok Jin et al.|[2404.07156](http://arxiv.org/abs/2404.07156)|[md](abstracts/2404.07156.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:DFT water, defects
 
@@ -779,7 +779,7 @@
 |**2024-11-27**|**GPU-Accelerated Solution of the Bethe-Salpeter Equation for Large and Heterogeneous Systems**|Victor Wen-zhe Yu et al.|[2409.15116](http://arxiv.org/abs/2409.15116)|[md](abstracts/2409.15116.md)|
 |**2024-09-10**|**Evaluating a quantum-classical quantum Monte Carlo algorithm with Matchgate shadows**|Benchen Huang et al.|[2404.18303](http://arxiv.org/abs/2404.18303)|[md](abstracts/2404.18303.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:ML chemistry, QM datasets
 
@@ -799,7 +799,7 @@
 |**2024-10-16**|**Generalized convolutional many body distribution functional representations**|Danish Khan et al.|[2409.20471](http://arxiv.org/abs/2409.20471)|[md](abstracts/2409.20471.md)|
 |**2024-09-13**|**Alchemical insights into approximately quadratic energies of iso-electronic atoms**|Simon León Krug et al.|[2406.18416](http://arxiv.org/abs/2406.18416)|[md](abstracts/2406.18416.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:DFT functionals, transition state
 
@@ -809,7 +809,7 @@
 |**2025-08-21**|**MC-PDFT Nuclear Gradients and L-PDFT Energies with Meta and Hybrid Meta On-Top Functionals for Ground- and Excited-State Geometry Optimization and Vertical Excitation Energies**|Matthew R. Hennefarth et al.|[2506.03304](http://arxiv.org/abs/2506.03304)|[md](abstracts/2506.03304.md)|
 |**2024-09-13**|**Semiclassical Nonadiabatic Molecular Dynamics Using Linearized Pair-Density Functional Theory**|Matthew R. Hennefarth et al.|[2408.05434](http://arxiv.org/abs/2408.05434)|[md](abstracts/2408.05434.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:GAP, MACE, ACE
 
@@ -840,7 +840,7 @@
 |**2024-09-09**|**Transferability of datasets between Machine-Learning Interaction Potentials**|Samuel P. Niblett et al.|[2409.05590](http://arxiv.org/abs/2409.05590)|[md](abstracts/2409.05590.md)|
 |**2024-09-06**|**Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials**|Philipp Pracht et al.|[2408.08174](http://arxiv.org/abs/2408.08174)|[md](abstracts/2408.08174.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:M3GNet, CHGNet, materials data
 
@@ -856,7 +856,7 @@
 |**2025-03-05**|**Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry**|Tsz Wai Ko et al.|[2503.03837](http://arxiv.org/abs/2503.03837)|[md](abstracts/2503.03837.md)|
 |**2024-09-02**|**Data-Efficient Construction of High-Fidelity Graph Deep Learning Interatomic Potentials**|Tsz Wai Ko et al.|[2409.00957](http://arxiv.org/abs/2409.00957)|[md](abstracts/2409.00957.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:Grotthuss, AIMD
 
@@ -869,7 +869,7 @@
 |**2025-05-26**|**Multi-Type Point Cloud Autoencoder: A Complete Equivariant Embedding for Molecule Conformation and Pose**|Michael Kilgour et al.|[2405.13791](http://arxiv.org/abs/2405.13791)|[md](abstracts/2405.13791.md)|
 |**2024-09-05**|**On the design space between molecular mechanics and machine learning force fields**|Yuanqing Wang et al.|[2409.01931](http://arxiv.org/abs/2409.01931)|[md](abstracts/2409.01931.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:neural network potentials
 
@@ -891,7 +891,7 @@
 |**2024-10-04**|**Machine learning potentials for redox chemistry in solution**|Emir Kocer et al.|[2410.03299](http://arxiv.org/abs/2410.03299)|[md](abstracts/2410.03299.md)|
 |**2024-09-17**|**A High-Dimensional Neural Network Potential for Co$_3$O$_4$**|Amir Omranpour et al.|[2409.11037](http://arxiv.org/abs/2409.11037)|[md](abstracts/2409.11037.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:retrosynthesis, ML chemistry
 
@@ -926,7 +926,7 @@
 |**2024-11-01**|**Double-Ended Synthesis Planning with Goal-Constrained Bidirectional Search**|Kevin Yu et al.|[2407.06334](http://arxiv.org/abs/2407.06334)|[md](abstracts/2407.06334.md)|
 |**2024-10-04**|**Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**|Wenhao Gao et al.|[2410.03494](http://arxiv.org/abs/2410.03494)|[md](abstracts/2410.03494.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:metadynamics, Car-Parrinello
 
@@ -946,7 +946,7 @@
 |**2024-11-29**|**PLUMED Tutorials: a collaborative, community-driven learning ecosystem**|Gareth A. Tribello et al.|[2412.03595](http://arxiv.org/abs/2412.03595)|[md](abstracts/2412.03595.md)|
 |**2024-10-09**|**DLGNet: Hyperedge Classification through Directed Line Graphs for Chemical Reactions**|Stefano Fiorini et al.|[2410.06969](http://arxiv.org/abs/2410.06969)|[md](abstracts/2410.06969.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:metadynamics, PLUMED
 
@@ -964,7 +964,7 @@
 |**2024-11-12**|**MDRefine: a Python package for refining Molecular Dynamics trajectories with experimental data**|Ivan Gilardoni et al.|[2411.07798](http://arxiv.org/abs/2411.07798)|[md](abstracts/2411.07798.md)|
 |**2024-11-07**|**Characterizing RNA oligomers using Stochastic Titration Constant-pH Metadynamics simulations**|Tomas F. D. Silva et al.|[2410.16064](http://arxiv.org/abs/2410.16064)|[md](abstracts/2410.16064.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:ACE potentials
 
@@ -983,7 +983,7 @@
 |**2024-11-06**|**Charge-constrained Atomic Cluster Expansion**|Matteo Rinaldi et al.|[2411.04062](http://arxiv.org/abs/2411.04062)|[md](abstracts/2411.04062.md)|
 |**2024-11-05**|**Adaptive-precision potentials for large-scale atomistic simulations**|David Immel et al.|[2411.03002](http://arxiv.org/abs/2411.03002)|[md](abstracts/2411.03002.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:MACE author
 
@@ -996,7 +996,7 @@
 |**2025-04-14**|**Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE**|Jesun Firoz et al.|[2504.10700](http://arxiv.org/abs/2504.10700)|[md](abstracts/2504.10700.md)|
 |**2024-12-21**|**BoostMD: Accelerating molecular sampling by leveraging ML force field features from previous time-steps**|Lars L. Schaaf et al.|[2412.18633](http://arxiv.org/abs/2412.18633)|[md](abstracts/2412.18633.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:free energy, biomolecular MD
 
@@ -1007,7 +1007,7 @@
 |**2025-04-03**|**The need to implement FAIR principles in biomolecular simulations**|Rommie Amaro et al.|[2407.16584](http://arxiv.org/abs/2407.16584)|[md](abstracts/2407.16584.md)|
 |**2025-02-17**|**AI-guided transition path sampling of lipid flip-flop and membrane nanoporation**|Matthias Post et al.|[2502.11894](http://arxiv.org/abs/2502.11894)|[md](abstracts/2502.11894.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:DFT methodology, ML for DFT
 
@@ -1018,7 +1018,7 @@
 |**2025-07-29**|**Ensemble Time-Dependent Density Functional Theory**|Kimberly J. Daas et al.|[2507.19464](http://arxiv.org/abs/2507.19464)|[md](abstracts/2507.19464.md)|
 |**2025-03-03**|**Can machines learn density functionals? Past, present, and future of ML in DFT**|Ryosuke Akashi et al.|[2503.01709](http://arxiv.org/abs/2503.01709)|[md](abstracts/2503.01709.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## via:author-whitelist:AIMD electrochemistry, redox levels
 
@@ -1026,4 +1026,4 @@
 |---|---|---|---|---|
 |**2025-08-19**|**Thermodynamics of a compressible lattice gas crystal: Generalized Gibbs-Duhem equation and adsorption**|Michiel Sprik|[2501.05117](http://arxiv.org/abs/2501.05117)|[md](abstracts/2501.05117.md)|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>

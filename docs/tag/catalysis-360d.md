@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">309 papers</span>
+  <span class="paper-count">310 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27995.html">How a polymer filling enhances the rate and selectivity of colloid permeation across mesopores</a></div></td>
+<td>Mikhail Y. Laktionov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27995">2608.27995</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>

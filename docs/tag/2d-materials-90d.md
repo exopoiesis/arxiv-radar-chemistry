@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28521.html">Modifying van der Waals Materials via Cavity Vacuum Fluctuations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Mohammad Hassan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28521">2608.28521</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13427.html">Modeling Bond-Dependent Kitaev-like interaction in 2D Edge-Sharing Tetrahedral Magnets: FeX (X=Te, Se)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
@@ -578,29 +584,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04252.html">High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Arpan Das</td>
 <td><a href="http://arxiv.org/abs/2606.04252">2606.04252</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01538.html">MPMWorlds: Material-Point-Method Simulations for Inferring and Extrapolating Physical Dynamics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Žiga Kovačič et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01538">2606.01538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01880.html">Interface Symmetry and Electrostatic Stabilization of Strain-Resilient Janus Heterobilayers for Flexible Piezotronics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Surender Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01880">2606.01880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02298.html">Room-Temperature Electric-Field Control of Anomalous Hall Effect in Py/BTO/LSMO Heterostructures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Kusampal Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02298">2606.02298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02733.html">Coexistence of topologically nontrivial and trivial insulating states in topological Anderson Chern insulator</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Bo Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02733">2606.02733</a></td>
 </tr>
 </tbody></table>

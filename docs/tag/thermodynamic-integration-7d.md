@@ -22,15 +22,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2608.27273">2608.27273</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27747.html">Electronic structure, magnetic interactions, and magnonics of 2D trichloride materials</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Krishna Prasad Chapai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27747">2608.27747</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25270.html">High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Shuo Tao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25270">2608.25270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22239.html">Oxygen stoichiometry directs rutile-anatase phase selection through kinetic control of nucleation</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Han Uk Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22239">2608.22239</a></td>
 </tr>
 </tbody></table>

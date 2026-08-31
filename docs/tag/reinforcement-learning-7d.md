@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26190.html">Predicting Consequences and Reinforcing Navigation Policies with Latent World Models</a></div></td>
-<td>Zengmao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26190">2608.26190</a></td>
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27893.html">CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="multimodal-llm-7d.html">multimodal-llm</a></div></td>
+<td>Yajiao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27893">2608.27893</a></td>
 </tr>
 </tbody></table>

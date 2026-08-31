@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1537 papers</span>
+  <span class="paper-count">1536 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27820.html">Resolving Spin-Phonon Relaxation Pathways in Molecular Qubits via Regularized Regression</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Sayan Banerjee</td>
+<td><a href="http://arxiv.org/abs/2608.27820">2608.27820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27825.html">RNA-like Polyelectrolyte in a Viral Capsid: Molecular Dynamics with Explicit Electrostatic Interactions</a></div></td>
+<td>Xintong Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27825">2608.27825</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="mof-360d.html">mof</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26811.html">A review of simulation, measurement techniques, and development in chip thermal design</a></div></td>
@@ -56,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27401.html">An Equation of State for Supercritical Silicate-Hydrogen Mixtures at Sub-Neptune Interior Conditions</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Sarah P. Marcum et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27401">2608.27401</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27589.html">Atomistic Indicators of the Ductile-to-Brittle Transition in Polycrystalline Tungsten: Temperature and Rhenium Effects on Crack-Tip Plasticity</a></div></td>
+<td>Divyesh Mistry et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27589">2608.27589</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -9206,35 +9230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05523.html">Stockmayer Fluid with a Shifted Dipole: Interfacial Behavior</a></div></td>
 <td>Samuel Varner et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05523">2509.05523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03231.html">Molecular-dynamics study of diffusional creep in uranium mononitride</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mohamed AbdulHameed et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03231">2503.03231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14479.html">Stochastic Norton dynamics: An alternative approach for the computation of transport coefficients in dissipative particle dynamics</a></div></td>
-<td>Xinyi Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14479">2504.14479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04138.html">Shape spectra of elastic shells with surface-adsorbed semiflexible polymers</a></div></td>
-<td>Hadiya Abdul Hameed et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04138">2509.04138</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04251.html">An explicit splitting SAV scheme for the kinetic Langevin dynamics</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Lei Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04251">2509.04251</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04291.html">Enhanced Sampling in the Age of Machine Learning: Algorithms and Applications</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Kai Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04291">2509.04291</a></td>
 </tr>
 </tbody></table>

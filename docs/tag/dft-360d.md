@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2023 papers</span>
+  <span class="paper-count">2027 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="mof-360d.html">mof</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28238.html">Interplay between crystal structure and magnetism in CeCrB$_4$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Mirosław Werwiński et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28238">2608.28238</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28521.html">Modifying van der Waals Materials via Cavity Vacuum Fluctuations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Mohammad Hassan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28521">2608.28521</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13427.html">Modeling Bond-Dependent Kitaev-like interaction in 2D Edge-Sharing Tetrahedral Magnets: FeX (X=Te, Se)</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
@@ -62,6 +80,24 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27401.html">An Equation of State for Supercritical Silicate-Hydrogen Mixtures at Sub-Neptune Interior Conditions</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sarah P. Marcum et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27401">2608.27401</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Manasa Kaniselvan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27643.html">LDA-1/2 for Molecular Systems: A Real-Space Finite-Element Benchmark on the GW100 Set</a></div></td>
+<td>Dongming Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27643">2608.27643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27747.html">Electronic structure, magnetic interactions, and magnonics of 2D trichloride materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Krishna Prasad Chapai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27747">2608.27747</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -12140,17 +12176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10539.html">Generalized local charge conservation in many-body quantum mechanics</a></div></td>
 <td>F. Minotti et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10539">2509.10539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03854.html">Switching topological states via uniaxial strain in 2D materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Joshua J. Sanchez et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03854">2509.03854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04149.html">Classical density functional theory for nanoparticle-laden droplets</a></div></td>
-<td>Melih Gül et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04149">2509.04149</a></td>
 </tr>
 </tbody></table>

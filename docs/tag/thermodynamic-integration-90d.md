@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2608.27273">2608.27273</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27747.html">Electronic structure, magnetic interactions, and magnonics of 2D trichloride materials</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Krishna Prasad Chapai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27747">2608.27747</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25270.html">High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Shuo Tao et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04803.html">Machine learning via artificial neural networks coupled with density functional theory and experiments for thermodynamic optimization of high-entropy alloys for hydrogen storage at room temperature</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Shivam Dangwal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04803">2606.04803</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01763.html">Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="tmo-90d.html">tmo</a></div></td>
-<td>Christian S. Ahart et al.</td>
-<td><a href="http://arxiv.org/abs/2606.01763">2606.01763</a></td>
 </tr>
 </tbody></table>

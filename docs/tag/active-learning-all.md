@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">247 papers</span>
+  <span class="paper-count">239 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1448,53 +1448,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02071.html">Scientific Exploration with Expert Knowledge (SEEK) in Autonomous Scanning Probe Microscopy with Active Learning</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="materials-science-all.html">materials-science</a></div></td>
 <td>Utkarsh Pratiush et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02071">2408.02071</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04126.html">Atomistic modeling of bulk and grain boundary diffusion in solid electrolyte Li$_6$PS$_5$Cl using machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yongliang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04126">2407.04126</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18731.html">Exploring Quantum Active Learning for Materials Design and Discovery</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Maicon Pierre Lourenço et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18731">2407.18731</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13607.html">Atomistic evolution of active sites in multi-component heterogeneous catalysts</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Cameron J. Owen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13607">2407.13607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11811.html">Physics-informed active learning for accelerating quantum chemical simulations</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Yi-Fan Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11811">2404.11811</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19073.html">On Machine Learning Approaches for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Nikolai Schapin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19073">2407.19073</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04457.html">Kalman filter enhanced Adversarial Bayesian optimization for active sampling in inelastic neutron scattering</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Nihad Abuawwad et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04457">2407.04457</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Rui Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17485.html">Application of the Digital Annealer Unit in Optimizing Chemical Reaction Conditions for Enhanced Production Yields</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a></div></td>
-<td>Shih-Cheng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17485">2407.17485</a></td>
 </tr>
 </tbody></table>

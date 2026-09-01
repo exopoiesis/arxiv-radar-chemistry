@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">404 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2438,53 +2438,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10846.html">Deep learning generative model for crystal structure prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Xiaoshan Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2403.10846">2403.10846</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20549.html">Elemental Reactivity Maps for Materials Discovery</a></div></td>
-<td>Yuki Inada et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20549">2407.20549</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18731.html">Exploring Quantum Active Learning for Materials Design and Discovery</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="band-gap-all.html">band-gap</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-science-all.html">materials-science</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Maicon Pierre Lourenço et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18731">2407.18731</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18847.html">Enhancing material property prediction with ensemble deep graph convolutional networks</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Chowdhury Mohammad Abid Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18847">2407.18847</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19124.html">ReactCA: A Cellular Automaton for Predicting Phase Evolution in Solid-State Reactions</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Max C. Gallant et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19124">2407.19124</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04537.html">HTESP (High-throughput electronic structure package): a Package for the high-throughput $ab$ $initio$ calculations</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Niraj K. Nepal et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04537">2406.04537</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06734.html">Dismai-Bench: Benchmarking and designing generative models using disordered materials and interfaces</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Adrian Xiao Bin Yong et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06734">2404.06734</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04648.html">Efficient Materials Informatics between Rockets and Electrons</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Adam M. Krajewski</td>
-<td><a href="http://arxiv.org/abs/2407.04648">2407.04648</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Rui Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
 </tr>
 </tbody></table>

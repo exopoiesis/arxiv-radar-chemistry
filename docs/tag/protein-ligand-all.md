@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1862,53 +1862,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02059.html">Probabilities in multimatrix variate distributions: an application in SARS-CoV-2</a></div></td>
 <td>Francisco J. Caro-Lopera et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02059">2408.02059</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15202.html">Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Qizhi Pei et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15202">2407.15202</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10452.html">GraphPrint: Extracting Features from 3D Protein Structure for Drug Target Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Amritpal Singh</td>
-<td><a href="http://arxiv.org/abs/2407.10452">2407.10452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19073.html">On Machine Learning Approaches for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Nikolai Schapin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19073">2407.19073</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11086.html">Pre-training with Fractional Denoising to Enhance Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Yuyan Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11086">2407.11086</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11057.html">SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="gnn-all.html">gnn</a> · <a href="string-method-all.html">string-method</a></div></td>
-<td>Seungyeon Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11057">2407.11057</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04424.html">Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Benoit Baillif et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04424">2407.04424</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03300.html">DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Yilun Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03300">2407.03300</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13780.html">Generative Model for Small Molecules with Latent Space RL Fine-Tuning to Protein Targets</a></div><div class="paper-tags"><a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Ulrich A. Mbou Sob et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13780">2407.13780</a></td>
 </tr>
 </tbody></table>

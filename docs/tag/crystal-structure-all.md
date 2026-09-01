@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure — all</h1>
-  <span class="paper-count">515 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3032,77 +3032,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10846.html">Deep learning generative model for crystal structure prediction</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Xiaoshan Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2403.10846">2403.10846</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.03051.html">Enhancing Stability, Magnetic Anisotropy, and Coercivity of $τ$-L$1_0$ MnAl: Machine Learning, $\textit{Ab Initio}$, and Micromagnetic Modeling</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Churna Bhandari et al.</td>
-<td><a href="http://arxiv.org/abs/2404.03051">2404.03051</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15517.html">A Rotational/Roto-translational Constraint Method for Condensed Matter</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jitai Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15517">2404.15517</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21337.html">A symmetry-oriented crystal structure prediction method for crystals with rigid bodies</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Qi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21337">2407.21337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19368.html">Hexagonal to Monoclinic Phase Transition in Dense Hydrogen Phase III Detected by High-Pressure NMR</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Meng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19368">2407.19368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18731.html">Exploring Quantum Active Learning for Materials Design and Discovery</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="band-gap-all.html">band-gap</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Maicon Pierre Lourenço et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18731">2407.18731</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15573.html">Machine Learning-Enhanced Design of Lead-Free Halide Perovskite Materials Using Density Functional Theory</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Upendra Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15573">2407.15573</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09858.html">Magnetism and field-induced effects in the S = 5/2 honeycomb lattice antiferromagnet FeP3SiO11</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>J. Khatua et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09858">2407.09858</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08957.html">High throughput screening, crystal structure prediction, and carrier mobility calculations of organic molecular semiconductors as hole transport layer materials in perovskite solar cells</a></div></td>
-<td>Md Omar Faruque et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08957">2407.08957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07016.html">Is Large Language Model All You Need to Predict the Synthesizability and Precursors of Crystal Structures?</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07016">2407.07016</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02838.html">Designing Superionic Conductors Using Tetrahedrally Packed Structures</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Tomoyasu Yokoyama et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02838">2407.02838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03874.html">Force-Matching Based Polarizable and Non-Polarizable Force Fields for Perovskite and Non-Perovskite Phases of CsPbI$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>C. Vona et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03874">2407.03874</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03437.html">Surface phase diagram of CsSnI$_3$ from first-principles calculations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Kejia Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03437">2407.03437</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>free-energy — all</h1>
-  <span class="paper-count">642 papers</span>
+  <span class="paper-count">624 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3758,113 +3758,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01407.html">Free energy, rates, and mechanism of transmembrane dimerization in lipid bilayers from dynamically unbiased molecular dynamics simulations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Emil Jackel et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01407">2408.01407</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00306.html">Environment-adaptive machine learning potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Ngoc Cuong Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00306">2405.00306</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15290.html">Shock Hugoniot calculations using on-the-fly machine learned force fields with ab initio accuracy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Shashikant Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15290">2407.15290</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20050.html">$Δ$-Machine Learning to Elevate DFT-based Potentials and a Force Field to the CCSD(T) Level Illustrated for Ethanol</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Apurba Nandi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20050">2407.20050</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01524.html">Coarse Grained Molecular Dynamics with Normalizing Flows</a></div></td>
-<td>Samuel Tamagnone et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01524">2406.01524</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19124.html">ReactCA: A Cellular Automaton for Predicting Phase Evolution in Solid-State Reactions</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Max C. Gallant et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19124">2407.19124</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17224.html">Changing the paradigm in f-containing cold molecules: the impact of spin-orbit coupling and f-d transitions on quasi-bound vibrational states</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="excited-states-all.html">excited-states</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Marta Gałyńska et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17224">2407.17224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16687.html">Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Nikolai V. Priezjev</td>
-<td><a href="http://arxiv.org/abs/2407.16687">2407.16687</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09452.html">Enhancing GPU-acceleration in the Python-based Simulations of Chemistry Framework</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Xiaojie Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09452">2404.09452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15635.html">Quasi-classical Trajectory Calculations on a Two-state Potential Energy Surface Including Nonadiabatic Coupling Terms as Friction for D+ + H2 Collisions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Soumya Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15635">2407.15635</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15175.html">${\it Asparagus}$: A Toolkit for Autonomous, User-Guided Construction of Machine-Learned Potential Energy Surfaces</a></div></td>
-<td>Kai Töpfer et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15175">2407.15175</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09668.html">On Exchange-Correlation Energy in DFT Scenarios</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>A. Belhaj et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09668">2407.09668</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08685.html">An &quot;ultimate&quot; coupled cluster method based entirely on $T_2$</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Zachary W. Windom et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08685">2407.08685</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08891.html">Hyperfine-to-rotational energy transfer in ultracold atom-molecule collisions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Yi-Xiang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08891">2407.08891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11057.html">SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="string-method-all.html">string-method</a></div></td>
-<td>Seungyeon Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11057">2407.11057</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04376.html">DeepLNE++ leveraging knowledge distillation for accelerated multi-state path-like collective variables</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="string-method-all.html">string-method</a></div></td>
-<td>Thorben Fröhlking et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04376">2407.04376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13157.html">Genetics-based deperturbation analysis for the spin-orbit coupled ${\rm A}^1Σ^+$ and ${\rm b}^3Π_{0^+}$ states of LiRb</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Yide Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13157">2406.13157</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02032.html">Molecular dynamics simulation for coalescence of vacancies in tungsten crystal</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Sotaro Tsuru et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02032">2407.02032</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01044.html">Direct free energy calculation from ab initio path integral Monte Carlo simulations of warm dense matter</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Tobias Dornheim et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01044">2407.01044</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">747 papers</span>
+  <span class="paper-count">733 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4412,89 +4412,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05058.html">Variational Bayesian Phylogenetic Inference with Semi-implicit Branch Length Distributions</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Tianyu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2408.05058">2408.05058</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21236.html">GNUMAP: A Parameter-Free Approach to Unsupervised Dimensionality Reduction via Graph Neural Networks</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jihee You et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21236">2407.21236</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18847.html">Enhancing material property prediction with ensemble deep graph convolutional networks</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Chowdhury Mohammad Abid Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18847">2407.18847</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08210.html">Expressivity and Generalization: Fragment-Biases for Molecular GNNs</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Tom Wollschläger et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08210">2406.08210</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12136.html">Molecular Topological Profile (MOLTOP) -- Simple and Strong Baseline for Molecular Graph Classification</a></div></td>
-<td>Jakub Adamczyk et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12136">2407.12136</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05729.html">Systematic assessment of various universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Haochen Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2403.05729">2403.05729</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08313.html">Improving Molecular Modeling with Geometric GNNs: an Empirical Study</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Ali Ramlaoui et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08313">2407.08313</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04052.html">Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks</a></div></td>
-<td>Cong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04052">2406.04052</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07736.html">Prediction of Frequency-Dependent Optical Spectrum for Solid Materials: A Multi-Output &amp; Multi-Fidelity Machine Learning Approach</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Akram Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07736">2407.07736</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07889.html">AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation</a></div></td>
-<td>Kaifeng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07889">2407.07889</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11057.html">SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="string-method-all.html">string-method</a></div></td>
-<td>Seungyeon Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11057">2407.11057</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06492.html">Using Graph Neural Networks and Frequency Domain Data for Automated Operational Modal Analysis of Populations of Structures</a></div></td>
-<td>Xudong Jian et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06492">2407.06492</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18919.html">Accelerating Drug Safety Assessment using Bidirectional-LSTM for SMILES Data</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>K. Venkateswara Rao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18919">2407.18919</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04526.html">Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Klara Bonneau et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04526">2407.04526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03380.html">Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Srivathsan Badrinarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03380">2407.03380</a></td>
 </tr>
 </tbody></table>

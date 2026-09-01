@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">227 papers</span>
+  <span class="paper-count">222 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1346,35 +1346,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02071.html">Scientific Exploration with Expert Knowledge (SEEK) in Autonomous Scanning Probe Microscopy with Active Learning</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="materials-science-all.html">materials-science</a></div></td>
 <td>Utkarsh Pratiush et al.</td>
 <td><a href="http://arxiv.org/abs/2408.02071">2408.02071</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07709.html">Diagnosing and fixing common problems in Bayesian optimization for molecule design</a></div></td>
-<td>Austin Tripp et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07709">2406.07709</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15877.html">Gaussian Process Model with Tensorial Inputs and Its Application to the Design of 3D Printed Antennas</a></div></td>
-<td>Xi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15877">2407.15877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07963.html">Towards Efficient Quantum Computation of Molecular Ground State Energies using Bayesian Optimization with Priors over Surface Topology</a></div></td>
-<td>Farshud Sorourifar et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07963">2407.07963</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05405.html">Research on the Acoustic Emission Source Localization Methodology in Composite Materials based on Artificial Intelligence</a></div></td>
-<td>Jongick Won et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05405">2407.05405</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01145.html">Machine Learning-Assisted 3D Printing of Thermoelectric Materials of Ultrahigh Performances at Room Temperature</a></div><div class="paper-tags"><a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Kaidong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01145">2407.01145</a></td>
 </tr>
 </tbody></table>

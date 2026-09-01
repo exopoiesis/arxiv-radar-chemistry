@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-materials — all</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">298 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1802,53 +1802,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07229.html">Insights into Polymer Electrolyte Stability and Reaction Pathways: A first-principle calculations study</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Kazem Zhour et al.</td>
 <td><a href="http://arxiv.org/abs/2408.07229">2408.07229</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04126.html">Atomistic modeling of bulk and grain boundary diffusion in solid electrolyte Li$_6$PS$_5$Cl using machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="active-learning-all.html">active-learning</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yongliang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04126">2407.04126</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13096.html">Electric field enhances the electronic and diffusion properties of penta-graphene nanoribbons for application in lithium-ion batteries: a first-principles study</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Thi Nhan Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13096">2406.13096</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17740.html">Machine Learning Potential for Electrochemical Interfaces with Hybrid Representation of Dielectric Response</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Jia-Xin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17740">2407.17740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20265.html">COEFF-KANs: A Paradigm to Address the Electrolyte Field with KANs</a></div></td>
-<td>Xinhe Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20265">2407.20265</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05333.html">Generating multi-scale NMC particles with radial grain architectures using spatial stochastics and GANs</a></div></td>
-<td>Lukas Fuchs et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05333">2407.05333</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13224.html">Vacancy-Induced Boron Nitride Monolayers as Multifunctional Materials for Metal Ion Batteries and Hydrogen Storage Applications</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Wadha Alfalasi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13224">2407.13224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18957.html">Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Jeongmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18957">2405.18957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06152.html">Uni-ELF: A Multi-Level Representation Learning Framework for Electrolyte Formulation Design</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Boshen Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06152">2407.06152</a></td>
 </tr>
 </tbody></table>

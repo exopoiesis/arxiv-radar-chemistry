@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">484 papers</span>
+  <span class="paper-count">472 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2846,77 +2846,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00892.html">Peptide Sequencing Via Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a></div></td>
 <td>Thuong Le Hoai Pham et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00892">2408.00892</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20534.html">BERT and LLMs-Based avGFP Brightness Prediction and Mutation Design</a></div></td>
-<td>X. Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20534">2407.20534</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05224.html">Optimal Strategy for Stabilizing Protein Folding Intermediates</a></div></td>
-<td>Mengshou Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05224">2408.05224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16631.html">Nanoscale Water Behavior and Its Impact on Adsorption: A case study with CNTs and Diclofenac</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Patrick R. B. Côrtes et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16631">2407.16631</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12464.html">A statistical mechanics investigation of Unfolded Protein Response across organisms</a></div></td>
-<td>Nicole Luchetti et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12464">2407.12464</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11942.html">Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Leo Klarner et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11942">2407.11942</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10452.html">GraphPrint: Extracting Features from 3D Protein Structure for Drug Target Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Amritpal Singh</td>
-<td><a href="http://arxiv.org/abs/2407.10452">2407.10452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07817.html">Daisy: An integrated repeat protein curation service</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Manuel Bezerra-Brandao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07817">2407.07817</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07177.html">Protein Design by Integrating Machine Learning with Quantum Annealing and Quantum-inspired Optimization</a></div></td>
-<td>Veronica Panizza et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07177">2407.07177</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18336.html">Dihedral Angle Adherence: Evaluating Protein Structure Predictions in the Absence of Experimental Data</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Musa Azeem et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18336">2407.18336</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12053.html">Improving AlphaFlow for Efficient Protein Ensembles Generation</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Shaoning Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12053">2407.12053</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00885.html">Impact of Co-Excipient Selection on Hydrophobic Polymer Folding: Insights for Optimal Formulation Design</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jonathan W. P. Zajac et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00885">2407.00885</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01649.html">FAFE: Immune Complex Modeling with Geodesic Distance Loss on Noisy Group Frames</a></div></td>
-<td>Ruidong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01649">2407.01649</a></td>
 </tr>
 </tbody></table>

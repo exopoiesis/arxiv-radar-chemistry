@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tmd — all</h1>
-  <span class="paper-count">141 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <a href="tmd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,29 +836,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10156.html">Stacking Polymorphism of PtSe$_{2}$: Its Implication to Layer-dependent Metal-insulator Transitions</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>Jeonghwan Ahn et al.</td>
 <td><a href="http://arxiv.org/abs/2408.10156">2408.10156</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15039.html">Electron energy-loss spectrum and exciton band structure of ${\mathrm{WSe}}_{2}$ monolayer studied by ab initio Bethe-Salpeter equation calculations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Yun-Chen Shih et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15039">2407.15039</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15081.html">Deterministic and Efficient Switching of Sliding Ferroelectrics</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Shihan Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15081">2407.15081</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13724.html">Electrically Controlled Interfacial Charge Transfer Induced Excitons in MoSe2-WSe2 Lateral Heterostructure</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Baisali Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13724">2407.13724</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17182.html">Excitonic response in TMD heterostructures from first-principles: impact of stacking, twisting, and interlayer distance</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>R. Reho et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17182">2404.17182</a></td>
 </tr>
 </tbody></table>

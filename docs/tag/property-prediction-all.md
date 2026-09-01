@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">432 papers</span>
+  <span class="paper-count">423 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2552,59 +2552,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03732.html">Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks</a></div><div class="paper-tags"><a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
 <td>Zizhang Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2408.03732">2408.03732</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20475.html">Distribution Learning for Molecular Regression</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Nima Shoghi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20475">2407.20475</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04727.html">MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction</a></div></td>
-<td>Fanmeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04727">2406.04727</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18847.html">Enhancing material property prediction with ensemble deep graph convolutional networks</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Chowdhury Mohammad Abid Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18847">2407.18847</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08210.html">Expressivity and Generalization: Fragment-Biases for Molecular GNNs</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Tom Wollschläger et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08210">2406.08210</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20267.html">A Large Encoder-Decoder Family of Foundation Models For Chemical Language</a></div><div class="paper-tags"><a href="chemical-llm-all.html">chemical-llm</a></div></td>
-<td>Eduardo Soares et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20267">2407.20267</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02845.html">Data-Efficient Molecular Generation with Hierarchical Textual Inversion</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Seojin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02845">2405.02845</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08922.html">Leveraging large language models for nano synthesis mechanism explanation: solid foundations or mere conjectures?</a></div></td>
-<td>Yingming Pu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08922">2407.08922</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01426.html">MolTRES: Improving Chemical Language Representation Learning for Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Jun-Hyung Park et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01426">2408.01426</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03380.html">Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Srivathsan Badrinarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03380">2407.03380</a></td>
 </tr>
 </tbody></table>

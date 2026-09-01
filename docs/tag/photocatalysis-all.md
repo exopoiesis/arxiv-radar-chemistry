@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>photocatalysis — all</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <a href="photocatalysis-30d.html">30d</a> <a href="photocatalysis-90d.html">90d</a> <a href="photocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,29 +434,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01371.html">Nitrogen-containing Surface Ligands Lead to False Positives for Photofixation of N$_2$ on Metal Oxide Nanocrystals: An Experimental and Theoretical Study</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Daniel Maldonado-Lopez et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01371">2408.01371</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17077.html">Excitonic Bloch equations from first principles</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Gianluca Stefanucci et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17077">2407.17077</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16643.html">Structural Influence on Exciton Formation and the Critical Role of Dark Excitons in Polymeric Carbon Nitrides</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Changbin Im et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16643">2406.16643</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10808.html">Distinguishing Inner and Outer-Sphere Hot Electron Transfer in Au/p-GaN Photocathodes</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Fatemeh Kiani et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10808">2407.10808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09071.html">Origin and properties of the flat band in NbOCl2 monolayer</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Mohammad Ali Mohebpour et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09071">2407.09071</a></td>
 </tr>
 </tbody></table>

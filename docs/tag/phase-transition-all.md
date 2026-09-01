@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transition — all</h1>
-  <span class="paper-count">433 papers</span>
+  <span class="paper-count">424 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2558,59 +2558,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00423.html">Pairing phase transition in the odd-A nuclei: identification and classification</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Yumeng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00423">2408.00423</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19368.html">Hexagonal to Monoclinic Phase Transition in Dense Hydrogen Phase III Detected by High-Pressure NMR</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Meng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19368">2407.19368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07716.html">Two liquid states of distinguishable helium-4: the existence of another non-superfluid frozen by heating</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Momoko Tsujimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07716">2404.07716</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17912.html">Direct Optical Probing of the Magnetic Properties of the Layered Antiferromagnet CrPS$_4$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Tomasz Fąs et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17912">2407.17912</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12557.html">Nonlocality and Strength of Interatomic Interactions Inducing the Topological Phonon Phase Transition</a></div></td>
-<td>Daosheng Tang</td>
-<td><a href="http://arxiv.org/abs/2404.12557">2404.12557</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15164.html">Theoretical Study on the Structural and Thermodynamic Properties of U-He compounds under High Pressure</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ye Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15164">2407.15164</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00476.html">Coordinate versus momentum cuts and effects of collective flow on critical fluctuations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Volodymyr A. Kuznietsov et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00476">2404.00476</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.00925.html">Atomic scale insights into NaCl nucleation in nanoconfined environments</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ruiyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.00925">2403.00925</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09071.html">Origin and properties of the flat band in NbOCl2 monolayer</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Mohammad Ali Mohebpour et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09071">2407.09071</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09317.html">Bonding states underpinning structural transitions in IrTe$_2$ observed with micro-ARPES</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>C. W. Nicholson et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09317">2407.09317</a></td>
 </tr>
 </tbody></table>

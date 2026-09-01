@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-space — all</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">203 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1232,23 +1232,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00050.html">Grappa -- A Machine Learned Molecular Mechanics Force Field</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Leif Seute et al.</td>
 <td><a href="http://arxiv.org/abs/2404.00050">2404.00050</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18731.html">Exploring Quantum Active Learning for Materials Design and Discovery</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Maicon Pierre Lourenço et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18731">2407.18731</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14040.html">Generative Language Model for Catalyst Discovery</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Dong Hyeon Mok et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14040">2407.14040</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17485.html">Application of the Digital Annealer Unit in Optimizing Chemical Reaction Conditions for Enhanced Production Yields</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
-<td>Shih-Cheng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17485">2407.17485</a></td>
 </tr>
 </tbody></table>

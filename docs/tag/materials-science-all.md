@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-science — all</h1>
-  <span class="paper-count">785 papers</span>
+  <span class="paper-count">765 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4604,125 +4604,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01216.html">Exact average many-body interatomic interaction model for random alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Max Hodapp</td>
 <td><a href="http://arxiv.org/abs/2408.01216">2408.01216</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20511.html">Building spin-1/2 antiferromagnetic Heisenberg chains with diaza-nanographenes</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Xiaoshuai Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20511">2407.20511</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20996.html">Thermal spin-crossover and temperature-dependent zero-field splitting in magnetic nanographene chains</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Yan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20996">2407.20996</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03992.html">Treespilation: Architecture- and State-Optimised Fermion-to-Qubit Mappings</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Aaron Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2403.03992">2403.03992</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01400.html">Scalable Ab Initio Electronic Structure Methods with Near Chemical Accuracy for Main Group Chemistry</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Yujing Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01400">2405.01400</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19724.html">Constructing artificial life and materials scientists with accelerated AI using Deep AndersoNN</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Saleem Abdul Fattah Ahmed Al Dajani et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19724">2407.19724</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18731.html">Exploring Quantum Active Learning for Materials Design and Discovery</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="band-gap-all.html">band-gap</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Maicon Pierre Lourenço et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18731">2407.18731</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16631.html">Nanoscale Water Behavior and Its Impact on Adsorption: A case study with CNTs and Diclofenac</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Patrick R. B. Côrtes et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16631">2407.16631</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05729.html">Systematic assessment of various universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Haochen Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2403.05729">2403.05729</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09668.html">On Exchange-Correlation Energy in DFT Scenarios</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>A. Belhaj et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09668">2407.09668</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11942.html">Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Leo Klarner et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11942">2407.11942</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19076.html">Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Markus J. Buehler</td>
-<td><a href="http://arxiv.org/abs/2405.19076">2405.19076</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.06734.html">Dismai-Bench: Benchmarking and designing generative models using disordered materials and interfaces</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Adrian Xiao Bin Yong et al.</td>
-<td><a href="http://arxiv.org/abs/2404.06734">2404.06734</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09877.html">Model-free Distortion Canceling and Control of Quantum Devices</a></div><div class="paper-tags"><a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Ahmed F. Fouad et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09877">2407.09877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10022.html">AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence</a></div></td>
-<td>Alireza Ghafarollahi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10022">2407.10022</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09674.html">Accelerating High-Throughput Phonon Calculations via Machine Learning Universal Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Huiju Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09674">2407.09674</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08310.html">Robust quantum engineering of current flow in carbon nanostructures at room temperature</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Gaetano Calogero et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08310">2407.08310</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08313.html">Improving Molecular Modeling with Geometric GNNs: an Empirical Study</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Ali Ramlaoui et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08313">2407.08313</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08769.html">AuNR-SMA: Automated Gold Nanorod Spectral Morphology Analysis Pipeline</a></div></td>
-<td>Samuel P. Gleason et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08769">2407.08769</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05394.html">Powder X-Ray Diffraction Assisted Evolutionary Algorithm for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Stefano Racioppi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05394">2407.05394</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12544.html">Interatomic Interaction Models for Magnetic Materials: Recent Advances</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Tatiana S. Kostiuchenko et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12544">2405.12544</a></td>
 </tr>
 </tbody></table>

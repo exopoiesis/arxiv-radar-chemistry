@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">686 papers</span>
+  <span class="paper-count">666 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4010,125 +4010,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00501.html">Quantum Program Testing Through Commuting Pauli Strings on IBM&#x27;s Quantum Computers</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
 <td>Asmar Muqeet et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00501">2408.00501</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21576.html">Exploiting Non-Abelian Point-Group Symmetry to Estimate the Exact Ground-State Correlation Energy of Benzene in a Polarized Split-Valence Triple-Zeta Basis Set</a></div></td>
-<td>Jonas Greiner et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21576">2407.21576</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20957.html">Shortcuts for Adiabatic and Variational Algorithms in Molecular Simulation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Julián Ferreiro-Vélez et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20957">2407.20957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03992.html">Treespilation: Architecture- and State-Optimised Fermion-to-Qubit Mappings</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Aaron Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2403.03992">2403.03992</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01400.html">Scalable Ab Initio Electronic Structure Methods with Near Chemical Accuracy for Main Group Chemistry</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Yujing Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01400">2405.01400</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17027.html">Effective core potentials as a pathway to self-interaction error correction: a proof-of-concept study on one-electron systems</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Dale R. Lonsdale et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17027">2407.17027</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16321.html">Demonstration of a variational quantum eigensolver with a solid-state spin system under ambient conditions</a></div></td>
-<td>Xuliang Du et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16321">2407.16321</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09452.html">Enhancing GPU-acceleration in the Python-based Simulations of Chemistry Framework</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Xiaojie Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09452">2404.09452</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19386.html">Weighted Feedback-Based Quantum Algorithm for Excited States Calculation</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
-<td>Salahuddin Abdul Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19386">2404.19386</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14497.html">Observable-Driven Speed-ups in Quantum Simulations</a></div></td>
-<td>Wenjun Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14497">2407.14497</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14607.html">Non-adiabatic coupling matrix elements in a magnetic field: geometric gauge dependence and Berry phase</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Tanner Culpitt et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14607">2407.14607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12305.html">SHARC-VQE: Simplified Hamiltonian Approach with Refinement and Correction enabled Variational Quantum Eigensolver for Molecular Simulation</a></div></td>
-<td>Harshdeep Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12305">2407.12305</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11811.html">Physics-informed active learning for accelerating quantum chemical simulations</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yi-Fan Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11811">2404.11811</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11235.html">Quantum chemistry, classical heuristics, and quantum advantage</a></div></td>
-<td>Garnet Kin-Lic Chan</td>
-<td><a href="http://arxiv.org/abs/2407.11235">2407.11235</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11086.html">Pre-training with Fractional Denoising to Enhance Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Yuyan Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11086">2407.11086</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09993.html">Practicality of quantum adiabatic algorithm for chemistry applications</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Etienne Granet et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09993">2407.09993</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09700.html">Introducing GPU-acceleration into the Python-based Simulations of Chemistry Framework</a></div></td>
-<td>Rui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09700">2407.09700</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08685.html">An &quot;ultimate&quot; coupled cluster method based entirely on $T_2$</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Zachary W. Windom et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08685">2407.08685</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07411.html">Parallel implementation of the Density Matrix Renormalization Group method achieving a quarter petaFLOPS performance on a single DGX-H100 GPU node</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Andor Menczer et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07411">2407.07411</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04232.html">A Unified Intracellular pH Landscape with SITE-pHorin: a Quantum-Entanglement-Enhanced pH Probe</a></div></td>
-<td>Shu-Ang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04232">2407.04232</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01000.html">Ground and excited state energy calculations of the H2 molecule using a variational quantum eigensolver algorithm on an NMR quantum simulator</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
-<td>Dileep Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01000">2407.01000</a></td>
 </tr>
 </tbody></table>

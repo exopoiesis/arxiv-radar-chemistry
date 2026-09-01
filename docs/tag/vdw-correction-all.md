@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vdw-correction — all</h1>
-  <span class="paper-count">305 papers</span>
+  <span class="paper-count">297 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1796,53 +1796,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00445.html">Sliding Flexoelectricity in Two-Dimensional van der Waals Systems</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Ri He et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00445">2408.00445</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21254.html">Dzyaloshinskii-Moriya interaction torques and domain wall dynamics in van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Jun Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21254">2407.21254</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21645.html">Electrical control of magnons in multiferroic NiI$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Andrey Rybakov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21645">2407.21645</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20686.html">Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Cedrix J. Dongmo Foumthuim et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20686">2407.20686</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17912.html">Direct Optical Probing of the Magnetic Properties of the Layered Antiferromagnet CrPS$_4$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Tomasz Fąs et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17912">2407.17912</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17655.html">Engineering two-dimensional materials from single-layer NbS$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Timo Knispel et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17655">2407.17655</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15081.html">Deterministic and Efficient Switching of Sliding Ferroelectrics</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Shihan Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15081">2407.15081</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13273.html">Anisotropic magnetization dynamics in Fe5GeTe2 at room temperature</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Alapan Bera et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13273">2406.13273</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17182.html">Excitonic response in TMD heterostructures from first-principles: impact of stacking, twisting, and interlayer distance</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>R. Reho et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17182">2404.17182</a></td>
 </tr>
 </tbody></table>

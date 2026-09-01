@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">407 papers</span>
+  <span class="paper-count">399 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2408,53 +2408,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12749.html">The hBN defects database: a theoretical compilation of color centers in hexagonal boron nitride</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Chanaprom Cholsuk et al.</td>
 <td><a href="http://arxiv.org/abs/2405.12749">2405.12749</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18842.html">Lagrangian Formulation of Nuclear-Electronic Orbital Ehrenfest Dynamics with Real-time TDDFT for Extended Periodic Systems</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Jianhang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18842">2407.18842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09628.html">Accelerating Electron Dynamics Simulations through Machine Learned Time Propagators</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Karan Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09628">2407.09628</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17224.html">Changing the paradigm in f-containing cold molecules: the impact of spin-orbit coupling and f-d transitions on quasi-bound vibrational states</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Marta Gałyńska et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17224">2407.17224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16586.html">Very-Large-Scale GPU-Accelerated Nuclear Gradient of Time-Dependent Density Functional Theory with Tamm-Dancoff Approximation and Range-Separated Hybrid Functionals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Inkoo Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16586">2407.16586</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.19386.html">Weighted Feedback-Based Quantum Algorithm for Excited States Calculation</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Salahuddin Abdul Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2404.19386">2404.19386</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09151.html">Long-range configuration interaction with an ab initio short-range correction and an asymptotic lower bound</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Anthony Scemama et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09151">2407.09151</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02849.html">Time-Dependent Density Functional Theory Simulation for Analyzing Neutralization Process of Hydrogen Ion Injected onto Tungsten Surfaces</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Yuto Toda et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02849">2407.02849</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01000.html">Ground and excited state energy calculations of the H2 molecule using a variational quantum eigensolver algorithm on an NMR quantum simulator</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Dileep Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01000">2407.01000</a></td>
 </tr>
 </tbody></table>

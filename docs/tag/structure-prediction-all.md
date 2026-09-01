@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>structure-prediction — all</h1>
-  <span class="paper-count">287 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1694,47 +1694,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10846.html">Deep learning generative model for crystal structure prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="generative-model-all.html">generative-model</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Xiaoshan Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2403.10846">2403.10846</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21337.html">A symmetry-oriented crystal structure prediction method for crystals with rigid bodies</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Qi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21337">2407.21337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07817.html">Daisy: An integrated repeat protein curation service</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Manuel Bezerra-Brandao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07817">2407.07817</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18336.html">Dihedral Angle Adherence: Evaluating Protein Structure Predictions in the Absence of Experimental Data</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Musa Azeem et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18336">2407.18336</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12053.html">Improving AlphaFlow for Efficient Protein Ensembles Generation</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Shaoning Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12053">2407.12053</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05394.html">Powder X-Ray Diffraction Assisted Evolutionary Algorithm for Crystal Structure Prediction</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Stefano Racioppi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05394">2407.05394</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05173.html">Single-Sequence-Based Protein Secondary Structure Prediction using One-Hot and Chemical Encodings of Amino Acids</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Hoa Trinh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05173">2407.05173</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.07102.html">Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Xinyu Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.07102">2404.07102</a></td>
 </tr>
 </tbody></table>

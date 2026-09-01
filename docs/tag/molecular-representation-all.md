@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">273 papers</span>
+  <span class="paper-count">269 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1628,29 +1628,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18724.html">Adapting Differential Molecular Representation with Hierarchical Prompts for Multi-label Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
 <td>Linjia Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.18724">2405.18724</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12351.html">High-power ultra-broadband supercontinuum generation in tapered multimode glass rods</a></div></td>
-<td>Esteban Serrano et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12351">2407.12351</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11086.html">Pre-training with Fractional Denoising to Enhance Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Yuyan Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11086">2407.11086</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01426.html">MolTRES: Improving Chemical Language Representation Learning for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Jun-Hyung Park et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01426">2408.01426</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05173.html">Single-Sequence-Based Protein Secondary Structure Prediction using One-Hot and Chemical Encodings of Amino Acids</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Hoa Trinh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05173">2407.05173</a></td>
 </tr>
 </tbody></table>

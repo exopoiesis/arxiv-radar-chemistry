@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multimodal-llm — all</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,29 +782,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07910.html">DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions</a></div></td>
 <td>Ryosuke Korekata et al.</td>
 <td><a href="http://arxiv.org/abs/2408.07910">2408.07910</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20798.html">Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Norman Di Palo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20798">2407.20798</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09043.html">Vision Language Model is NOT All You Need: Augmentation Strategies for Molecule Language Models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Namkyeong Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09043">2407.09043</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15341.html">V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Abdur Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15341">2405.15341</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06309.html">Multimodal Chain-of-Thought Reasoning via ChatGPT to Protect Children from Age-Inappropriate Apps</a></div></td>
-<td>Chuanbo Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06309">2407.06309</a></td>
 </tr>
 </tbody></table>

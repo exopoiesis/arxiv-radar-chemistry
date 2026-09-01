@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">572 papers</span>
+  <span class="paper-count">556 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3350,101 +3350,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01371.html">Nitrogen-containing Surface Ligands Lead to False Positives for Photofixation of N$_2$ on Metal Oxide Nanocrystals: An Experimental and Theoretical Study</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
 <td>Daniel Maldonado-Lopez et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01371">2408.01371</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20475.html">Distribution Learning for Molecular Regression</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Nima Shoghi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20475">2407.20475</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20146.html">On the EFT of Dyon-Monopole Catalysis</a></div></td>
-<td>S. Bogojevic et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20146">2407.20146</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14063.html">Statistical Survey of Chemical and Geometric Patterns on Protein Surfaces as a Blueprint for Protein-mimicking Nanoparticles</a></div></td>
-<td>John M. McBride et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14063">2407.14063</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16910.html">Operando probing of nanocracking in CuO-derived Cu during CO$_2$ electroreduction</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Jiawei Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16910">2407.16910</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15341.html">V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM</a></div><div class="paper-tags"><a href="multimodal-llm-all.html">multimodal-llm</a></div></td>
-<td>Abdur Rahman et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15341">2405.15341</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01442.html">Understanding Discrepancies of Wavefunction Theories for Large Molecules</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Tobias Schäfer et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01442">2407.01442</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14040.html">Generative Language Model for Catalyst Discovery</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Dong Hyeon Mok et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14040">2407.14040</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12420.html">Direct Nanopatterning of Complex 3D Surfaces and Self-Aligned Superlattices via Molecular-Beam Holographic Lithography</a></div></td>
-<td>Shuangshuang Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12420">2407.12420</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13607.html">Atomistic evolution of active sites in multi-component heterogeneous catalysts</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="active-learning-all.html">active-learning</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Cameron J. Owen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13607">2407.13607</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13643.html">Surface roughening in nanoparticle catalysts</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Cameron J. Owen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13643">2407.13643</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16643.html">Structural Influence on Exciton Formation and the Critical Role of Dark Excitons in Polymeric Carbon Nitrides</a></div><div class="paper-tags"><a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Changbin Im et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16643">2406.16643</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18935.html">A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery</a></div></td>
-<td>Parastoo Semnani et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18935">2407.18935</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06578.html">QCD with (2+1) flavors at the physical point in external chromomagnetic fields</a></div></td>
-<td>Paolo Cea et al.</td>
-<td><a href="http://arxiv.org/abs/2407.06578">2407.06578</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04877.html">Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Rui Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04877">2407.04877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03191.html">Controlling Plasmonic Catalysis via Strong Coupling with Electromagnetic Resonators</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Jakub Fojt et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03191">2407.03191</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01390.html">Rapid synthesis of uniformly small nickel nanoparticles for the surface functionalization of epitaxial graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
-<td>Ylea Vlamidis et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01390">2407.01390</a></td>
 </tr>
 </tbody></table>

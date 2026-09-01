@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-llm — all</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="chemical-llm-7d.html">7d</a> <a href="chemical-llm-30d.html">30d</a> <a href="chemical-llm-90d.html">90d</a> <a href="chemical-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10833.html">A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery</a></div></td>
 <td>Yu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.10833">2406.10833</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20267.html">A Large Encoder-Decoder Family of Foundation Models For Chemical Language</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Eduardo Soares et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20267">2407.20267</a></td>
 </tr>
 </tbody></table>

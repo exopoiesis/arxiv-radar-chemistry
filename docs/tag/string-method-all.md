@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>string-method — all</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <a href="string-method-90d.html">90d</a> <a href="string-method-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,23 +236,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14643.html">Near Equivalence of Polarizability and Bond Order Flux Metrics for Describing Covalent Bond Rearrangements</a></div></td>
 <td>Lukas Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2408.14643">2408.14643</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11057.html">SPIN: SE(3)-Invariant Physics Informed Network for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="free-energy-all.html">free-energy</a> · <a href="gnn-all.html">gnn</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Seungyeon Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11057">2407.11057</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04376.html">DeepLNE++ leveraging knowledge distillation for accelerated multi-state path-like collective variables</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Thorben Fröhlking et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04376">2407.04376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03493.html">In-Depth Exploration of Catalytic Sites on Amorphous Solid Water: I. The Astrosynthesis of Aminomethanol</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Giulia M. Bovolenta et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03493">2407.03493</a></td>
 </tr>
 </tbody></table>

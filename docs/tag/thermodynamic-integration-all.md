@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermodynamic-integration — all</h1>
-  <span class="paper-count">239 papers</span>
+  <span class="paper-count">236 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1430,23 +1430,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00897.html">Confinement of quasi-atomic structures in Ti$_2$N and Ti$_3$N$_2$ MXene Electrides</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Chandra M. Adhikari et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00897">2408.00897</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20686.html">Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Cedrix J. Dongmo Foumthuim et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20686">2407.20686</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08094.html">Density Estimation via Binless Multidimensional Integration</a></div></td>
-<td>Matteo Carli et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08094">2407.08094</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04413.html">High-throughput magnetic co-doping and design of exchange interactions in a topological insulator</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Rubel Mozumder et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04413">2407.04413</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>retrosynthesis — all</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <a href="retrosynthesis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,23 +794,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03732.html">Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
 <td>Zizhang Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2408.03732">2408.03732</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16715.html">Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning</a></div></td>
-<td>Yufeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16715">2407.16715</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09685.html">Accelerating the inference of string generation-based chemical reaction models for industrial applications</a></div></td>
-<td>Mikhail Andronov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09685">2407.09685</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12186.html">Directly Optimizing for Synthesizability in Generative Molecular Design using Retrosynthesis Models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Jeff Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12186">2407.12186</a></td>
 </tr>
 </tbody></table>

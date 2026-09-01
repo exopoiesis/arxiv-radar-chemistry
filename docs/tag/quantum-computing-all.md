@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-computing — all</h1>
-  <span class="paper-count">225 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1328,41 +1328,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00501.html">Quantum Program Testing Through Commuting Pauli Strings on IBM&#x27;s Quantum Computers</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Asmar Muqeet et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00501">2408.00501</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18731.html">Exploring Quantum Active Learning for Materials Design and Discovery</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="band-gap-all.html">band-gap</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Maicon Pierre Lourenço et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18731">2407.18731</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14163.html">Subspace-Based Local Compilation of Variational Quantum Circuits for Large-Scale Quantum Many-Body Simulation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Shota Kanasugi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14163">2407.14163</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08043.html">Spin/Phonon Dynamics in Single Molecular Magnets: I. quantum embedding</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mof-all.html">mof</a></div></td>
-<td>Nosheen Younas et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08043">2407.08043</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05798.html">Visualization of Unconventional Rashba Band and Vortex Zero Mode in Topopogical Superconductor Candidate AuSn$_{4}$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Yuhan Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05798">2407.05798</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04413.html">High-throughput magnetic co-doping and design of exchange interactions in a topological insulator</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Rubel Mozumder et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04413">2407.04413</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04457.html">Kalman filter enhanced Adversarial Bayesian optimization for active sampling in inelastic neutron scattering</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
-<td>Nihad Abuawwad et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04457">2407.04457</a></td>
 </tr>
 </tbody></table>

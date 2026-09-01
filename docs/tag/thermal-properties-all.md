@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermal-properties — all</h1>
-  <span class="paper-count">602 papers</span>
+  <span class="paper-count">588 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3542,89 +3542,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01618.html">Magnetic order-dependent giant tunneling magnetoresistance and electroresistance in van der Waals antiferromagnetic-multiferroic tunnel junctions</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>Zhi Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01618">2408.01618</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20686.html">Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Cedrix J. Dongmo Foumthuim et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20686">2407.20686</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19891.html">Enhancing heat transport in MoS2 via defect-engineering</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Riccardo Dettori et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19891">2407.19891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19368.html">Hexagonal to Monoclinic Phase Transition in Dense Hydrogen Phase III Detected by High-Pressure NMR</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Meng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19368">2407.19368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18771.html">Electron Mobilities in SrTiO$_3$ and KTaO$_3$: Role of Phonon Anharmonicity, Mass Renormalization and Disorder</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Luigi Ranalli et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18771">2407.18771</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15336.html">Investigating Metal Dopants for Lowering the Contact Resistance of Top Gold Contacted Monolayer MoS2</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Saurabh Kharwar et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15336">2407.15336</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16687.html">Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Nikolai V. Priezjev</td>
-<td><a href="http://arxiv.org/abs/2407.16687">2407.16687</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14456.html">Examining composition-dependent radiation response in AlGaN</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Miaomiao Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14456">2407.14456</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13273.html">Anisotropic magnetization dynamics in Fe5GeTe2 at room temperature</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Alapan Bera et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13273">2406.13273</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10435.html">Nontrivial impact of interlayer coupling on thermal conductivity: opposing trends in in-plane and out-of-plane phonons</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>H. F. Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10435">2407.10435</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08310.html">Robust quantum engineering of current flow in carbon nanostructures at room temperature</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Gaetano Calogero et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08310">2407.08310</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04668.html">Edge-state transport in twisted bilayer graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jesús Arturo Sánchez-Sánchez et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04668">2407.04668</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03874.html">Force-Matching Based Polarizable and Non-Polarizable Force Fields for Perovskite and Non-Perovskite Phases of CsPbI$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>C. Vona et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03874">2407.03874</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13407.html">Predicting BN analogue of 8-16-4 graphyne: \textit{In silico} insights into its structural, electronic, optical, and thermal transport properties</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Isaac M. Félix et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13407">2406.13407</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01145.html">Machine Learning-Assisted 3D Printing of Thermoelectric Materials of Ultrahigh Performances at Room Temperature</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
-<td>Kaidong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01145">2407.01145</a></td>
 </tr>
 </tbody></table>

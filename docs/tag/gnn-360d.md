@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">390 papers</span>
+  <span class="paper-count">388 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2342,17 +2342,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05712.html">Unveiling the critical factors in crystal structure graph representation: a comparative analysis using streamlined MLPSets frameworks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Hongwei Du et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05712">2509.05712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03547.html">Combining feature-based approaches with graph neural networks and symbolic regression for synergistic performance and interpretability</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Rogério Almeida Gouvêa et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03547">2509.03547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04875.html">Hot-Ham: an accurate and efficient E(3)-equivariant machine-learning electronic structures calculation framework</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Zhixin Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04875">2509.04875</a></td>
 </tr>
 </tbody></table>

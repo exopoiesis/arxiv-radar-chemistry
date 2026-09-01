@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2027 papers</span>
+  <span class="paper-count">2021 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12140,41 +12140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05712.html">Unveiling the critical factors in crystal structure graph representation: a comparative analysis using streamlined MLPSets frameworks</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Hongwei Du et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05712">2509.05712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04875.html">Hot-Ham: an accurate and efficient E(3)-equivariant machine-learning electronic structures calculation framework</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Zhixin Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04875">2509.04875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05121.html">Gas Sensing Properties of Novel Indium Oxide Monolayer: A First-Principles Study</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Afreen Anamul Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05121">2509.05121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05136.html">Hydrogen absorption in intermetallic compounds from first principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Olivier Nadeau et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05136">2509.05136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05266.html">Vanadium-Engineered Co2NiSe4 Nanomaterial: Coupled Thermoelectric, Piezoelectric, and Electronic Optimization via DFT+U for Advanced Energy Applications</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ayesha Riaz et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05266">2509.05266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05278.html">Illuminating Stability and Spectral Shifts: A DFT+U Study of Eu-Doped ZnWO$_4$ for Visible-Light Optoelectronics</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Muhammad Tayyab et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05278">2509.05278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10539.html">Generalized local charge conservation in many-body quantum mechanics</a></div></td>
-<td>F. Minotti et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10539">2509.10539</a></td>
 </tr>
 </tbody></table>

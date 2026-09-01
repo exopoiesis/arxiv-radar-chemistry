@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -362,17 +362,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div></td>
 <td>Yuyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03524.html">Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Antonio Torregrosa Abellán et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03524">2606.03524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03881.html">Suppressed diffusion and gamma-ray emission from the Cygnus Bubble</a></div></td>
-<td>Ben Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03881">2606.03881</a></td>
 </tr>
 </tbody></table>

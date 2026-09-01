@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">362 papers</span>
+  <span class="paper-count">361 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2180,11 +2180,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19322.html">Mixed-precision numerics in scientific applications: survey and perspectives</a></div></td>
 <td>Aditya Kashi et al.</td>
 <td><a href="http://arxiv.org/abs/2412.19322">2412.19322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05031.html">Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Mohammad Mirzakhani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05031">2506.05031</a></td>
 </tr>
 </tbody></table>

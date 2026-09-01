@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">349 papers</span>
+  <span class="paper-count">348 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2102,11 +2102,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05784.html">A universal route to chiral Ising superconductivity in monolayer TaS$_2$ and NbSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Lucia Gibelli et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05784">2509.05784</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05424.html">Giant Molecular Toroidal Moment Amenable to Direct Observation in a Fe$_{10}$Dy$_{10}$ Ring</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Alessandro Soncini et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05424">2509.05424</a></td>
 </tr>
 </tbody></table>

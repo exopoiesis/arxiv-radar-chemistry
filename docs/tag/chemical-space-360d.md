@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07853.html">Decoratypes: An Extensible Crystal Taxonomy for Machine Learning-Guided Materials Discovery</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Kyle D. Miller et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07853">2509.07853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05051.html">QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Aaron Mark Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05051">2509.05051</a></td>
 </tr>
 </tbody></table>

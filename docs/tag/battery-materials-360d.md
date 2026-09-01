@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1052,11 +1052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08143.html">Electronic Fluctuations and Ionic Dynamics in Molten Silver Iodide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Harender S. Dhattarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08143">2509.08143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02429.html">Modeling Reactions on the Solid-Liquid Interface With Next Generation Extended Lagrangian Quantum-Based Molecular Dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Rae A. Corrigan Grove et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02429">2502.02429</a></td>
 </tr>
 </tbody></table>

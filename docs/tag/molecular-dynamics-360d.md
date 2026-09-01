@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1536 papers</span>
+  <span class="paper-count">1531 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9200,35 +9200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17937.html">Random functions as data compressors for machine learning of molecular processes</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Jayashrita Debnath et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17937">2509.17937</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02429.html">Modeling Reactions on the Solid-Liquid Interface With Next Generation Extended Lagrangian Quantum-Based Molecular Dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Rae A. Corrigan Grove et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02429">2502.02429</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04755.html">Glassy interphases reinforce elastomeric nanocomposites by enhancing percolation-driven volume expansion under strain</a></div></td>
-<td>Pierre Kawak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04755">2509.04755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04988.html">Further testing the validity of generalized heterogeneous-elasticity theory for low-frequency excitations in structural glasses</a></div></td>
-<td>Walter Schirmacher et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04988">2509.04988</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05274.html">Local Mechanical Response of Lipid Membranes to Tilt Deformation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Konstantin V. Pinigin</td>
-<td><a href="http://arxiv.org/abs/2509.05274">2509.05274</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05523.html">Stockmayer Fluid with a Shifted Dipole: Interfacial Behavior</a></div></td>
-<td>Samuel Varner et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05523">2509.05523</a></td>
 </tr>
 </tbody></table>

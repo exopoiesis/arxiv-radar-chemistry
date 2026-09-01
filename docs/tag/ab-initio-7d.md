@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,65 +146,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25129.html">First-Principles Prediction of Nonlinear Optical Response in $\text{TiO}_2$ for High-Power Dielectric Mirror Applications</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
 <td>Koya Shimaoka et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25129">2608.25129</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22699.html">Ab initio anatomy of quadrupole correlations in $^{16}$O and $^{20}$Ne</a></div></td>
-<td>Chenrong Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22699">2608.22699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22700.html">Chiral Phonons and Giant Anisotropic Photoresponse in Quasi-1D van der Waals Semiconductor ZrSnS3</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Zahir Muhammad et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22700">2608.22700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22925.html">Importance-Reweighted Fock-Space Variational Monte Carlo</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Zheng Che</td>
-<td><a href="http://arxiv.org/abs/2608.22925">2608.22925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22989.html">Discovery of New Zintl Films and Nanowires Grown by Topotaxy Conversion of III-V Semiconductors</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Man Suk Song et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22989">2608.22989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23057.html">Modeling quasielastic lepton-nucleus interactions with ab initio spectral functions from infinite nuclear matter</a></div></td>
-<td>Alma L. Cavallin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23057">2608.23057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23080.html">X-ray driven displacive excitation of coherent phonons</a></div></td>
-<td>Oleg Dogadov et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23080">2608.23080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23112.html">Z1 oscillations and charge state in electronic stopping power from first principles</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Noor Ul Ain et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23112">2608.23112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23333.html">First-Principles Electron-Magnon Coupling with Machine-Learning Hamiltonians: From Band Renormalization to Transport</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Shixu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23333">2608.23333</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23700.html">Deformed self-consistent Green&#x27;s function method for atomic nuclei at second and third order in the algebraic diagrammatic construction</a></div></td>
-<td>A. Scalesi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23700">2608.23700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23874.html">Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
-<td>Megan C. Davis et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23874">2608.23874</a></td>
 </tr>
 </tbody></table>

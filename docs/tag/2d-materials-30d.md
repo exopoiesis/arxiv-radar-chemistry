@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02261.html">Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Jian Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02261">2608.02261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00771.html">High-speed and high-gain graphene photovoltaic phototransistor gated by a van der Waals heterojunction</a></div></td>
-<td>Yihan Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00771">2608.00771</a></td>
 </tr>
 </tbody></table>

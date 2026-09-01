@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-properties — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <strong>90d</strong> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04803.html">Machine learning via artificial neural networks coupled with density functional theory and experiments for thermodynamic optimization of high-entropy alloys for hydrogen storage at room temperature</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Shivam Dangwal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04803">2606.04803</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03710.html">Mechanochemical Nano-Writing of an Atomically Thin Metal</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Shuai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03710">2606.03710</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00081.html">Molecular Generative Adversarial Network with Multi-Property Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Huidong Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2404.00081">2404.00081</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05051.html">QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Aaron Mark Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05051">2509.05051</a></td>
 </tr>
 </tbody></table>

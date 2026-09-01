@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">430 papers</span>
+  <span class="paper-count">428 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2582,17 +2582,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16893.html">Crystal structure prediction with host-guided inpainting generation and foundation potentials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Peichen Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2504.16893">2504.16893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.14417.html">Cutting Sequence Diffuser: Sim-to-Real Transferable Planning for Object Shaping by Grinding</a></div></td>
-<td>Takumi Hachimine et al.</td>
-<td><a href="http://arxiv.org/abs/2412.14417">2412.14417</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05030.html">LUIVITON: Learned Universal Interoperable VIrtual Try-ON</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Cong Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05030">2509.05030</a></td>
 </tr>
 </tbody></table>

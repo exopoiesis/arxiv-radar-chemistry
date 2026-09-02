@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01002.html">Numerical study of the grain-growth-induced non-parabolic kinetics of a solid-state reaction</a></div></td>
+<td>Ya. A. Nikiforov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01002">2609.01002</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27893.html">CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
@@ -350,17 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06303.html">Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Hongkun Dou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06303">2606.06303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04452.html">DeltaDiff: Training-Free, Physics-Guided Machine Learning for Predicting Mutant Protein Structures</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Yajie Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04452">2606.04452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div></td>
-<td>Yuyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
 </tr>
 </tbody></table>

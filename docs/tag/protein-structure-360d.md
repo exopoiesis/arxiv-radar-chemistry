@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01353.html">SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
+<td>Handong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01353">2609.01353</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26585.html">GRAS: Guided Reduced-Variance Proposals and Adaptive Selection for Training-Free Reward Alignment in Discrete Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Kwanyoung Kim</td>
@@ -1496,11 +1502,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17937.html">Random functions as data compressors for machine learning of molecular processes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jayashrita Debnath et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17937">2509.17937</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.03726.html">Diffusion on language model encodings for protein sequence generation</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Viacheslav Meshchaninov et al.</td>
-<td><a href="http://arxiv.org/abs/2403.03726">2403.03726</a></td>
 </tr>
 </tbody></table>

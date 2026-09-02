@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00915.html">Element priors and target support shape chemical transfer in materials graph networks</a></div></td>
+<td>Ran Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00915">2609.00915</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28347.html">Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys</a></div></td>
 <td>Zacharias Liasi et al.</td>
@@ -2336,11 +2342,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07887.html">A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Katherine Berry et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07887">2509.07887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05712.html">Unveiling the critical factors in crystal structure graph representation: a comparative analysis using streamlined MLPSets frameworks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Hongwei Du et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05712">2509.05712</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01076.html">Text-guided flow matching enables sample-efficient crystal structure generation</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Wentao Li</td>
+<td><a href="http://arxiv.org/abs/2609.01076">2609.01076</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26962.html">Packora: Systematic Design for Generative Molecular Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Nayoung Kim et al.</td>
@@ -158,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07927.html">Mathematical crystal chemistry: A formal theory for crystal structure prediction by generalized disjunctive programming</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a></div></td>
 <td>Ryotaro Koshoji</td>
 <td><a href="http://arxiv.org/abs/2606.07927">2606.07927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04452.html">DeltaDiff: Training-Free, Physics-Guided Machine Learning for Predicting Mutant Protein Structures</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Yajie Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04452">2606.04452</a></td>
 </tr>
 </tbody></table>

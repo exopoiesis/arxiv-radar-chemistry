@@ -1,0 +1,608 @@
+{
+ "2609.00542": {
+  "abstract": "High-temperature superconductivity has been found in bilayer Ruddlesden-Popper (RP) nickelates in bulk samples under high pressure, or in thin films via compressive strain. In the superconducting state, a tetragonal structure with a straight Ni-O-Ni bond along c-axis has been commonly observed, together with the suppression or diminishing of the density-wave orders. Therefore, it remains an open question whether these factors are sufficient for achieving superconductivity at ambient pressure. Here we report the first successful synthesis of heavily Sr-doped La$_{2}$SrNi$_{2}$O$_{7-δ}$ under high-pressure and high-temperature (HPHT) conditions with a flux method. X-ray diffraction and scanning transmission electron microscopy (STEM) confirm that the material adopts a tetragonal (I4/mmm) structure with an 180$^{\\circ}$ Ni-O-Ni bond angle along c-axis. Resistance measurements reveal metallic behavior with a low-temperature upturn and no density-wave features are observed. However, neither pressure nor oxygen variation induces superconductivity. Density functional theory calculations indicate that the holes introduced by Sr doping are predominantly doped into the Ni-3d$_{z^2}$ orbital, leading to the appearance of a very large $γ$ pocket on the Fermi surface at ambient pressure and significantly reducing the occupation of the Ni-3d$_{z^2 }$ orbital. Combining the experimental observations with theoretical calculations, we attribute the absence of superconductivity to the serious deviation from the half-filling state of the Ni-3d$_{z^2 }$ band, which is crucial for the interlayer antiferromagnetic interaction and thus for pairing. Our work unravels important issues for achieving superconductivity in bilayer nickelate system.",
+  "authors": [
+   "Yuhang Zhang",
+   "Xue Ming",
+   "Cui-Qun Chen",
+   "Wei Chen",
+   "Tian-Yi Li",
+   "Zhe-Ning Xiang",
+   "Qing Li",
+   "Bing-hui Ge",
+   "Dao-Xin Yao",
+   "Xiyu Zhu",
+   "Hai-Hu Wen"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "21 pages,4 figures",
+  "first_author": "Yuhang Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2609.00542",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-09-01",
+  "tags": [
+   "2d-materials",
+   "dft"
+  ],
+  "title": "Heavily Sr-Doped La$_{2}$SrNi$_{2}$O$_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00574": {
+  "abstract": "The discovery of high-temperature superconductivity in Ruddlesden-Popper (RP) nickelates has attracted significant attention. Bulk superconductivity emerges under pressure in trilayer nickelates La$_4$Ni$_3$O$_{10-δ}$ (T$_c$ $\\approx$ 30 K) and Pr$_4$Ni$_3$O$_{10-δ}$ (T$_c$ $\\approx$ 40.5 K), where the reduced ionic radius of Pr$^{3+}$ may generate internal chemical pressure and enhance T$_c$. However, synthesizing trilayer RP phases with smaller rare-earth elements (Ln) is extremely challenging. So far, only the La, Pr, and Nd analogues have been synthesized with stable phases in the single rare-earth form. Here we report the first successful high-pressure and high-temperature (HPHT) synthesis of samarium-based compound Sm$_4$Ni$_3$O$_{10-δ}$. Magnetization and transport measurements consistently confirm a density wave (DW) transition at ~180 K at ambient pressure. Through a careful fitting to the structural data of Sm$_4$Ni$_3$O$_{10-δ}$, it is found that the bond angle of (Ni-O-Ni) associating with the interlayer apical oxygen is much smaller than 180$^{\\circ}$, which was assumed to be the key factor for the occurrence of superconductivity. By applying pressures up to 80 GPa, despite partial suppression of insulating behavior and the DW order, but superconductivity is not observed in our present study. Density functional theory calculations suggest that the 3d$_{z^2}$ and 3d$_{x^2-y^2}$ are separated from other t$_{2g}$ orbitals and make a primary contribution to the Fermi surface. The newly synthesized trilayer nickelate Sm$_4$Ni$_3$O$_{10-δ}$ offers a unique platform for probing the fundamental physics of RP nickelates.",
+  "authors": [
+   "Yuhang Zhang",
+   "Tian-Yi Li",
+   "Xiyu Zhu",
+   "Ying-Jie Zhang",
+   "Shengtai Fan",
+   "Qing Li",
+   "Hai-Hu Wen"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "21 pages, 4 figures",
+  "first_author": "Yuhang Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2609.00574",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-09-01",
+  "tags": [
+   "dft"
+  ],
+  "title": "Expanding the trilayer Ruddlesden-Popper nickelate family: Synthesis and characterization of Sm$_4$Ni$_3$O$_{10-δ}$ single crystals",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00831": {
+  "abstract": "Token aggregation converts token-level representations into fixed-dimensional sample representations, but most pooling methods operate only in the original token space. We introduce Frequency-Domain Latent-attention Gated Pooling (FLaG), a plug-in aggregation module that re-expresses encoder outputs in the Fourier domain before final pooling. FLaG represents the nonredundant rFFT spectrum through concatenated real and imaginary components, summarizes spectral tokens with learnable latent queries, derives a sample-conditioned channel gate, and reconstructs modulated token representations for downstream aggregation. We evaluate the same architecture across ESM2-based antimicrobial peptide (AMP) activity prediction, ResNet18 image classification on CIFAR-10 and CIFAR-100, and three RoBERTa-based language tasks. FLaG achieves the best macro-averaged Spearman correlation coefficient, RMSE, and Recall@50 across four AMP backbone-species settings and the highest top-1 accuracy on CIFAR 10. It also achieves the best mean results on five of seven language metrics, although mean pooling remains strongest on STSBenchmark. AMP-side mechanistic analyses reveal low-frequency prediction sensitivity across most encoder layers, with increased relative high-frequency sensitivity in the final layer, and pronounced peptide-specific positional responses. The residual gate broadly amplifies spectral channels while preserving the low-frequency-dominated energy profile, whereas latent cross-attention exhibits sample- and species-specific spectral allocation. Overall, FLaG provides a transferable frequency-domain aggregation bias across protein, visual, and textual representations, with benefits that depend on the backbone and downstream task. Supplementary materials, source code, and data are available at https://www.healthinformaticslab.org/supp/ and https://github.com/Kewei2023/AMPCliff/tree/FLaG.",
+  "authors": [
+   "Kewei Li",
+   "Rongying Zhang",
+   "Xueli Wang",
+   "Xiwen Gong",
+   "Zhongjian Wang",
+   "Qiuchen Zhao",
+   "Lan Huang",
+   "Ruochi Zhang",
+   "Fengfeng Zhou"
+  ],
+  "categories": [
+   "cs.AI",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Kewei Li",
+  "pdf_url": "http://arxiv.org/pdf/2609.00831",
+  "primary_category": "cs.AI",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "FLaG: Frequency-Domain Latent-attention Gated Pooling for Token Aggregation",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00835": {
+  "abstract": "Metastable states in III-nitrides (AlN, GaN, InN and their alloys) are an important topic across materials science, device physics, and epitaxial growth because these compounds exhibit multiple competing crystal structures, defect configurations, and phase behaviors that strongly affect optical, electrical, and mechanical properties. The paper is a concise, structured review-style summary covering the main concepts, mechanisms, experimental signatures, theoretical approaches, and device implications. Actions that should be proposed to avoid effect of metastable defects in III-Nitride based devices are discussed. Avoiding metastable defect effects in III nitride devices requires preventing their formation (through growth and doping control), stabilizing their electronic configuration (by annealing or optical activation), and designing device architectures that minimize field- or temperature induced transitions. These combined actions ensure consistent carrier density, higher mobility, and superior optical and electrical reliability in GaN , AlGaN , and InGaN based devices.",
+  "authors": [
+   "A. E. Belyaev"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pagws",
+  "first_author": "A. E. Belyaev",
+  "pdf_url": "http://arxiv.org/pdf/2609.00835",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "materials-science"
+  ],
+  "title": "Metastable defects in III-Nitrides",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00836": {
+  "abstract": "We extend the neural-network-based variational method for nuclear density functional theory to the Kohn--Sham scheme, representing the complex spinor components of the single-particle orbitals by multi-layer perceptrons. We show that neural-network optimization of a given energy density functional, combined with an orthonormalization post-processing step, is mathematically equivalent to the variational condition projected onto the tangent space of the wave-function manifold spanned by the network parameters, and that the training optimizes not only the expansion coefficients but also the basis functions themselves. We assess the method from three points of view. In the first place, we examine how the results depend on the number of units, the number of layers, and the arithmetic precision, and find that quantitative accuracy requires both a sufficient width and a sufficient depth, while single-precision arithmetic is sufficient to represent the nuclear density distribution. In the second place, the binding energies and charge radii of several closed-shell nuclei agree with conventional Skyrme--Hartree--Fock results, and the quadrupole deformations of open-shell nuclei are consistent with reference calculations that include pairing and with experiment. In the third place, we confirm that a neural-network single-particle basis can represent the three-dimensional configurations of the fundamental pasta phases: spheres, rods, and slabs. The framework offers a new perspective on computational nuclear theory, well suited to the forthcoming generation of GPU- and AI-oriented high-throughput supercomputers.",
+  "authors": [
+   "Kenta Yoshimura",
+   "Kazuyuki Sekizawa"
+  ],
+  "categories": [
+   "nucl-th"
+  ],
+  "comment": "13 pages, 3 figures, 5 tables",
+  "first_author": "Kenta Yoshimura",
+  "pdf_url": "http://arxiv.org/pdf/2609.00836",
+  "primary_category": "nucl-th",
+  "published": "2026-09-01",
+  "tags": [
+   "dft"
+  ],
+  "title": "Neural-Network-Based Variational Method in Nuclear Density Functional Theory: Application to the Kohn--Sham method",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00838": {
+  "abstract": "Test-set accuracy is silent on two issues that matter when deploying autoregressive neural sequence models: how much probability mass the system under test (SUT) places on constraint-violating alternatives that are reachable under sampling and what fraction of the input population satisfies a domain requirement. We answer both with probabilistic model checking. The pipeline extracts a discrete-time Markov chain (DTMC) from the SUT's token-by-token generation, verifies formal PCTL specifications with the PRISM model checker, and aggregates the per-input verdicts into a coverage curve over the input space. A soundness theorem establishes the DTMC as an under-approximation, so every verdict yields a certified interval on the SUT's true reachability probability. The coverage built from those verdicts is, therefore, conservative by construction. A counterexample-guided abstraction refinement (CEGAR) loop adaptively tightens the interval, and a maximum-likelihood algorithm extracts the most probable falsifying trace. Two case studies exercise the pipeline. On a GPT-2 computer-aided process-planning (CAPP) model with 100% test accuracy, the pipeline quantifies the probability mass greedy decoding hides, but that is reachable with sampling; and identifies the smallest training fraction at which an ordering requirement holds population-wide, neither of which test accuracy can report. We then verify the SMILES molecular generator with a 50x larger vocabulary. The only change is an external chemical-validity oracle, and the pipeline identifies the gap between structural completeness and chemical validity.",
+  "authors": [
+   "Helge Spieker",
+   "Dennis Gross",
+   "Arnaud Gotlieb"
+  ],
+  "categories": [
+   "cs.SE",
+   "cs.AI"
+  ],
+  "comment": "38th International Conference on Testing Software and Systems (IFIP ICTSS 2026)",
+  "first_author": "Helge Spieker",
+  "pdf_url": "http://arxiv.org/pdf/2609.00838",
+  "primary_category": "cs.SE",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "Probabilistic Model Checking of Autoregressive Neural Sequence Models",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00897": {
+  "abstract": "Femtoscopic correlations are widely regarded as precision probes of hadronic interactions through vacuum final-state interactions after kinetic freeze-out. Here we demonstrate that, in baryon-rich heavy-ion collisions, the nuclear mean field generates an additional dynamical contribution to femtoscopic correlations during the transport evolution. Using the Parton-Hadron-Quantum-Molecular Dynamics (PHQMD) transport approach, we investigate proton-proton, proton-$Λ$, three-proton, and proton-proton-$Λ$ correlations in Au+Au collisions at $\\sqrt{s_{\\rm NN}}=3$, 4.5, 7.7, and 19.6 GeV. We find that the nuclear mean field produces a characteristic low-$k^*$ enhancement that is strongest at the lowest beam energies and gradually disappears with increasing collision energy. Furthermore, both the stiffness and the momentum dependence of the nuclear equation of state leave distinct signatures in the femtoscopic correlation functions, with higher-order correlations exhibiting substantially enhanced sensitivity compared with conventional two-particle observables. Our results demonstrate that femtoscopy extends beyond its traditional role as a tool for studying hadronic interactions and serve as a new class of microscopic observables for the nuclear equation of state, complementary to collective flow and subthreshold strangeness production, thereby opening a new avenue for exploring dense baryonic matter in low-energy heavy-ion collisions.",
+  "authors": [
+   "Xialei Jiang",
+   "Jiaxing Zhao",
+   "Yingjie Zhou",
+   "Xiaofeng Luo"
+  ],
+  "categories": [
+   "nucl-th"
+  ],
+  "comment": "6 pages, 4 figures",
+  "first_author": "Xialei Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2609.00897",
+  "primary_category": "nucl-th",
+  "published": "2026-09-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Femtoscopy as a New Probe of the Nuclear Equation of State",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00900": {
+  "abstract": "Crystalline materials discovery is essential for energy, electronics, and catalysis, but the vast chemical and structural space makes exhaustive screening infeasible. Existing voxel-based methods are limited by the local receptive fields of three-dimensional convolutional neural networks and the posterior collapse of high-dimensional variational autoencoders. Here, we develop a Fourier Neural Operator (FNO)-based crystal-field solver that maps a prescribed chemical formula and lattice parameters to periodic number-density and electron-density fields. By operating on global Fourier modes, the solver captures long-range correlations in periodic crystal fields beyond conventional local convolutions. Building on this solver, we construct a coupled generation-solving framework in which a conditional variational autoencoder generates diverse candidate lattice parameters in a low-dimensional basis-coefficient space, followed by density-field prediction and atomic reconstruction through peak detection, position optimization, and weight optimization. The reconstructed structures are further screened using voxel-level filtering, machine-learning interatomic-potential relaxation, and first-principle calculations. The framework generates novel structures across 104 chemical formulas with competitive reconstruction accuracy, demonstrating high generative diversity and structural validity. By extending Fourier neural operators to periodic crystal fields and coupling them with composition-conditioned lattice generation, our approach provides a scalable route to crystal structure discovery from prescribed chemical compositions.",
+  "authors": [
+   "Zhijie Yu",
+   "Jingyu Li",
+   "Yang Huang",
+   "Jingrun Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "21 pages, 18 figures",
+  "first_author": "Zhijie Yu",
+  "pdf_url": "http://arxiv.org/pdf/2609.00900",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "catalysis",
+   "crystal-structure",
+   "materials-discovery"
+  ],
+  "title": "Fourier Neural Operators for Composition-Driven Crystal Structure Discovery",
+  "topics": [
+   "Large Language Models & Materials",
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00905": {
+  "abstract": "Sampling from distributions conditioned on desired semantic properties is an emerging challenge in modern generative modeling. Metropolis-Hastings (MH) provides a principled route to conditional sampling, but requires access to exact pointwise target-density evaluations, which are not available in generative settings. Meanwhile, pairwise comparisons by humans or model \"judge\" are highly accessible and have proved valuable across diverse applications. We introduce Pref-MH, a general exact MH sampler for judge-induced conditional distributions using only stochastic binary pairwise comparisons. Our key observation is that the MH unnormalized density ratio matches the preference odds of the Bradley-Terry (BT) choice model. The central challenge is that while MH requires precise ratio computation, BT judges provide only sampled binary feedback. To this end, we develop a valid accept/reject rule whose resulting Markov chain provably converges to the target distribution. We further show that, for a fixed proposal kernel and budget, Pref-MH is optimal in the Peskun-Tierney sense among this class of exact reversible acceptance rules. Experiments on text generation and molecular design with LLM judges, as well as image generation with VLM judges, demonstrate that Pref-MH provides a practical and flexible approach to conditional sampling when comparative feedback is relatively easy to obtain.",
+  "authors": [
+   "Ariel Smogorghevski",
+   "Nir Rosenfeld",
+   "Yaniv Romano"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.CO",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Ariel Smogorghevski",
+  "pdf_url": "http://arxiv.org/pdf/2609.00905",
+  "primary_category": "cs.LG",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "When Metropolis and Hastings Meet Bradley and Terry: Exact MCMC From Preference Voting",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.00915": {
+  "abstract": "Materials graph neural networks must often transfer to chemical regions weakly represented in training data. Such transfer can rely on predefined relations among elements or supervised evidence from target-containing structures, but these pathways are usually entangled. Here, held-out-element splits and incremental target support separate their roles. Without target-containing training structures, formation-energy errors depend strongly on the element representation, particularly for H, O and F. Matched perturbations show that representation-induced sharing matters beyond input dimension or numerical form, while a label-free similarity-graph prior reduces selected zero-shot errors. Adding a few target-containing structures sharply lowers errors and contracts differences among one-hot, k-hot and continuous inputs across ALIGNN and CGCNN. Calibration explains only part of this recovery, and freezing the initial element projection preserves most gains in five of six ALIGNN splits. Target support therefore shifts chemical transfer from reliance on static element relations toward learning from target-containing environments.",
+  "authors": [
+   "Ran Zhao",
+   "Kangming Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ran Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2609.00915",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Element priors and target support shape chemical transfer in materials graph networks",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01002": {
+  "abstract": "Non-parabolic growth of reaction layers is frequently observed in solid-state diffusion couples, but the relationship between microstructural evolution and the resulting kinetics remains incompletely understood. This effect is commonly attributed to grain growth, which can progressively reduce the contribution of fast grain-boundary diffusion, causing the effective diffusivity of a polycrystalline product layer to evolve during reaction. This work develops a moving-boundary diffusion model to describe product-layer growth while accounting for the local grain-growth history of the continuously formed product, as well as both bulk and grain-boundary diffusion. Numerical simulations show that the reaction can pass through three distinct kinetic regimes: an initial approximately parabolic regime dominated by grain-boundary diffusion, a transient sub-parabolic regime associated with strong spatial variation of the effective diffusivity, and a subsequent approximately parabolic regime dominated by bulk diffusion. The magnitude and duration of the sub-parabolic regime depend on the relative grain-boundary and bulk diffusivities and on the kinetics of grain growth. The instantaneous growth exponent therefore evolves continuously and does not represent a unique kinetic constant. Nevertheless, fitting simulated layer-thickness data over finite experimental time intervals produces well-defined apparent exponents, demonstrating how a transient process can appear to obey a single power law.",
+  "authors": [
+   "Ya. A. Nikiforov",
+   "S. A. Chizhik",
+   "N. I. Baklanova"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Ya. A. Nikiforov",
+  "pdf_url": "http://arxiv.org/pdf/2609.01002",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Numerical study of the grain-growth-induced non-parabolic kinetics of a solid-state reaction",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01025": {
+  "abstract": "Density Functional Theory (DFT) is indispensable for materials science and drug discovery, yet the exchange--correlation (XC) evaluation remains a major bottleneck due to its cubic scaling. Although linear-scaling methods exploit electronic nearsightedness to reduce asymptotic complexity, they produce irregular sparse workloads that hide implicit sparsity and prevent efficient use of modern AI accelerators. We present MakoXC, a modular matrix-aligned XC evaluation engine that rearchitects nearsightedness-induced sparsity into regular, accelerator-friendly computations. MakoXC co-designs three key techniques: (1) Matrix-Aligned Cells reorganize nearsightedness-induced interactions into dense, accelerator-aligned data clusters; (2) Sparsity-Guided Activation translates deeper implicit sparsity into numerically correct structured execution for practical linear scaling; and (3) Kernel-Fused Pipeline consolidates fragmented workloads into a unified, compute-intensive execution path that fully unleashes accelerator throughput. Extensive evaluations show that MakoXC achieves average speedups of 67.8$\\times$ speedup over standard XC evaluation and 4.7$\\times$ over state-of-the-art linear-scaling methods. When integrated into a production-grade commercial DFT package, MakoXC scales XC evaluation to ubiquitin (1,231 atoms, def2-SVP) on 64 GPUs, enabling the end-to-end DFT calculation to complete in under five minutes. By restructuring XC evaluation into a unified, structured computation, MakoXC demonstrates how scientific workloads can achieve genuine low complexity while maximizing parallel efficiency on AI accelerators.",
+  "authors": [
+   "Haozhi Han",
+   "Fusong Ju",
+   "Jing Bai",
+   "Ruge Zhang",
+   "Xiang Zhao",
+   "Liang Yuan",
+   "Yunquan Zhang",
+   "Ting Cao",
+   "Liu Yunxin",
+   "Yifeng Chen",
+   "Kun Li"
+  ],
+  "categories": [
+   "cs.DC",
+   "physics.chem-ph"
+  ],
+  "comment": "Accepted in the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'26)",
+  "first_author": "Haozhi Han",
+  "pdf_url": "http://arxiv.org/pdf/2609.01025",
+  "primary_category": "cs.DC",
+  "published": "2026-09-01",
+  "tags": [
+   "dft",
+   "drug-discovery",
+   "materials-science"
+  ],
+  "title": "MakoXC: Rearchitecting DFT Exchange-Correlation with Matrix-Aligned and Knowledge-Organized Sparsity",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01069": {
+  "abstract": "Antiferromagnets combine terahertz spin dynamics with insensitivity to stray fields, and how quickly their order can be manipulated sets the speed limit on device operation. Femtosecond optical pulses demagnetize antiferromagnetic insulators on timescales that span picoseconds to nanoseconds across compounds, and no material parameter is known that accounts for the spread or predicts where a new compound will fall. In a compensated antiferromagnet, no angular momentum needs to leave the spin system, so the rate is set by energy flow from the lattice into the spins. Time-resolved second-harmonic generation experiments show that Cr2O3 demagnetizes within 2 ps once the lattice is driven above the Neel temperature, two orders of magnitude faster than the structurally similar FeBO3. First-principles calculations trace the disparity to exchange striction: short Cr-Cr contacts make the exchange coupling tenfold more sensitive to atomic displacements and widen the phase space for phonon decay into magnon pairs. Spin-lattice simulations with ab initio parameters reproduce the order of magnitude of the measured ratio. The derivative of the exchange coupling with respect to the ionic displacement thus emerges as a computable parameter that predicts how fast an insulating antiferromagnet can be demagnetized. The results advance our understanding of ultrafast control in insulating antiferromagnets, and suggest a practical pathway to screen candidate materials for thermally assisted antiferromagnetic memory before synthesis.",
+  "authors": [
+   "Aleksandr Buzdakov",
+   "Ravi Kaushik",
+   "Nikolai Khokhlov",
+   "Sergey Artyukhin",
+   "Alexey Kimel"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Aleksandr Buzdakov",
+  "pdf_url": "http://arxiv.org/pdf/2609.01069",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Exchange striction determines how fast antiferromagnetic insulators demagnetize",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01076": {
+  "abstract": "Crystal generators can now propose periodic structures, but their control interfaces remain poorly matched to the mixed descriptors used in materials design. Text provides a compact way to combine composition, symmetry, prototype and property cues, yet it has not been clear whether such information can steer flow-based crystal generation. Here we introduce TFMat, a text-conditioned flow-matching framework that uses structured materials language as a semantic prior for a CrystalFlow generator. Across Perov-5, Carbon-24 and MP-20 crystal structure prediction benchmarks, TFMat improves one-candidate match rates over CrystalFlow and reaches a 92.04% MP-20 match rate with 20 candidates; in de novo generation, it improves element-count and density distribution alignment while retaining coarse property consistency in composition-selected outputs. These results position structured text as an inspectable control layer for translating human-readable materials intent into candidate crystals for downstream simulation and validation.",
+  "authors": [
+   "Wentao Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "20 pages",
+  "first_author": "Wentao Li",
+  "pdf_url": "http://arxiv.org/pdf/2609.01076",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "crystal-structure",
+   "drug-discovery",
+   "structure-prediction"
+  ],
+  "title": "Text-guided flow matching enables sample-efficient crystal structure generation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01080": {
+  "abstract": "AlGaN/GaN heterostructures are critical for high-power electronic devices but suffer from electron trapping at defects, limiting reliability. We investigate how ultrasonic vibrations affect electron transport in MOCVD-grown AlGaN/GaN heterostructures by combining temperature-dependent Hall effect and high-resolution X-ray diffraction measurements. Here we demonstrate that ultrasonic loading induces persistent acoustoconductivity and lattice parameter changes, attributed to acoustically driven rearrangement of metastable DX centers. This leads to increased carrier concentration and decreased mobility, reflecting defect state modulation by acoustic strain. These findings provide new insights into trap dynamics under dynamic deformation and suggest ultrasonic treatment as a potential approach to mitigate trapping effects, thereby enhancing the performance and reliability of GaN-based devices.",
+  "authors": [
+   "Vladyslav Kaliuzhnyi",
+   "Mykola Tymochko",
+   "Oleksandr Gudymenko",
+   "Oleg Olikh",
+   "Alexander Belyaev"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Vladyslav Kaliuzhnyi",
+  "pdf_url": "http://arxiv.org/pdf/2609.01080",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "2d-materials"
+  ],
+  "title": "Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01088": {
+  "abstract": "Stack pressure is commonly treated as a means of maintaining physical contact in all-solid-state lithium-metal batteries, but it can also alter the chemistry of reactive solid-solid interfaces. Here, using pressure-aware, charge-resolved machine-learning molecular dynamics validated against DFT, we determine how pressure magnitude and loading geometry regulate interphase formation at Li||Li6PS5Cl interfaces. The response is nonmonotonic: compression at 1 kbar accelerates PS4 decomposition and Li2S-like ordering, whereas 10-100 kbar compression restricts structural rearrangement and long-range crystallization. Charge-resolved dynamics further identify sulfur-centered, lithium-rich early-interphase environments associated with subsequent Li2S-like ordering. Uniaxial loading accelerates interfacial reaction relative to isostatic loading at the same nominal pressure. Pressure also changes void closure and dead-lithium spreading in a defect-location-dependent manner. These results establish applied pressure as a mechanochemical process variable coupling interphase chemistry, ion transport and defect evolution, providing a mechanistic framework for interpreting pressure effects in sulfide solid-state batteries.",
+  "authors": [
+   "Kunik Jang",
+   "Jaehwan Choi",
+   "Jang Wook Choi",
+   "Yousung Jung"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Kunik Jang",
+  "pdf_url": "http://arxiv.org/pdf/2609.01088",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "dft",
+   "molecular-dynamics"
+  ],
+  "title": "Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01167": {
+  "abstract": "Large language models can produce locally plausible social turns, but fluent next-turn generation is not enough for social simulation. Human encounters such as restaurant lunches and hotel check-ins are bounded social episodes with roles, scripts, material state, obligations, commitments, timing, and closure conditions. We present EpisodeSim, a hybrid LLM-agent architecture that represents classic-AI structures as natural-language control state interpreted by LLM calls. A World Master maintains shared reality, constructs scenes, adjudicates proposed actions, tracks effects and obligations, and controls closure. Experiments with small qualitative ablations on two held-out settings support a design claim: LLM fluency supplies local texture, but coherent social simulation benefits from persistent classic-AI-style scaffolding that organizes behavior over time.",
+  "authors": [
+   "Anatole Gershman"
+  ],
+  "categories": [
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Anatole Gershman",
+  "pdf_url": "http://arxiv.org/pdf/2609.01167",
+  "primary_category": "cs.MA",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "Classic AI Scaffolding for LLM Social Agents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01209": {
+  "abstract": "Crystal generators and tool-using agents propose structures faster than density functional theory (DFT) energy and phonon calculations or experiments can assess them. Deciding which candidates merit expensive assessment is therefore the bottleneck, yet most screens test little beyond atomic overlap and give no chemical reason for failure. Here, our agents generate, test and actively refute two million candidate laws, leaving eight Plausibility Rules for Inorganic Structures (PRIS). These laws encode five mechanisms: short-range repulsion, ionic contact and packing, electrostatic balance, bond-valence conservation and crystallographic site complexity. Experimental structures satisfy our law sets at 82--99%, but satisfy Pauling's rules 2--5 together at only 6.5%. The strictest set detects 87.9% of damaged crystal structures, whereas distance cutoffs detect only 1.6--3.2%. PRIS plausibility is linearly correlated with synthesizability, so the PRIS-derived synthesis score (PSS) explainably screens 83.7% of hard-to-synthesize structures while retaining 80.7% of experimental structures. In a property-conditioned inverse-design run, PRIS and PSS can reduce the DFT validation queue by up to 67.3% and keep 99.2% of the candidates whose DFT-validated bulk moduli reach the design target. Beyond screening, PRIS explains why GNoME remains enriched in rare low-symmetry structures and reveals how wrong-element assignments in falsified crystal reports hide behind plausible coordinates. PRIS moves screening from a pass-or-fail verdict to a chemical reason for failure, showing that autonomous agents can discover, by active refutation, physicochemical laws that guide calculations and experiments.",
+  "authors": [
+   "Zhilong Song",
+   "Lixue Cheng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhilong Song",
+  "pdf_url": "http://arxiv.org/pdf/2609.01209",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "dft"
+  ],
+  "title": "Autonomous discovery of new structure-plausibility laws for explainable and rapid crystal diagnosis and screening",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01353": {
+  "abstract": "Protein inverse folding aims to recover amino acid sequences for a given 3D protein structure, underpinning broad applications such as enzyme engineering and drug discovery.Current methods often follow a serial pipeline, in which a structure encoder predicts a coarse sequence, which is then refined by protein language models (PLMs). However, because PLMs only perform post-hoc sequence edits, the refinement is bounded by the quality of upstream predictions.Thanks to recent multimodal protein language models (MPLMs), we could directly encode structure to generate sequences with pretrained structural knowledge, but we observe that they are not effective for inverse folding. Therefore, we introduce a symmetric dual-path architecture that both leverages PLMs for pretrained sequence evolution knowledge and MPLMs for pretrained structural knowledge to iteratively guide protein sequence generation.Through extensive experiments across standard protein inverse folding benchmarks, our method achieves state-of-the-art performance, surpassing prior approaches, and ablation studies validate the rationale of our symmetric design, revealing a promising direction for the community.",
+  "authors": [
+   "Handong Wang",
+   "Jiaxin Qi",
+   "Baisheng Lai",
+   "Jianqiang Huang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "13 pages, 5 figures",
+  "first_author": "Handong Wang",
+  "pdf_url": "http://arxiv.org/pdf/2609.01353",
+  "primary_category": "cs.AI",
+  "published": "2026-09-01",
+  "tags": [
+   "drug-discovery",
+   "protein-llm",
+   "protein-structure"
+  ],
+  "title": "SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01364": {
+  "abstract": "Predictions for the systematics of low-lying states in neutron-rich $N=50$ isotones from \\nuclide[80]{Zn} to \\nuclide[70]{Ca}, where experimental information remains scarce, exhibit substantial model dependence. We investigate these nuclei using multi-reference covariant density functional theory based on a relativistic energy density functional, in which nuclear wave functions are constructed as superpositions of symmetry-restored mean-field states with different quadrupole deformations. The low-lying states of \\nuclide[78]{Ni} are reasonably reproduced, and a prolate rotational band built on the second $0^+$ state is predicted in addition to a near-spherical ground state. As the proton number decreases toward $Z=20$, the low-energy structure exhibits a nonmonotonic evolution from spherical to strongly deformed and subsequently back to spherical shapes, consistent with valence-space shell-model predictions. In particular, the emergence of deformed ground states in \\nuclide[76]{Fe} and \\nuclide[74]{Cr} is accompanied by enhanced quadrupole collectivity and stronger shape mixing. The results provide a coherent microscopic description of the structural evolution from the doubly magic \\nuclide[78]{Ni} to the neutron-rich $N=50$ isotones.",
+  "authors": [
+   "X. Y. Wu",
+   "M. L. Mai",
+   "D. Q. Zhu",
+   "W. H. Liu",
+   "Z. M. Liu",
+   "J. Xiang"
+  ],
+  "categories": [
+   "nucl-th"
+  ],
+  "comment": "7 pages, 5 figures",
+  "first_author": "X. Y. Wu",
+  "pdf_url": "http://arxiv.org/pdf/2609.01364",
+  "primary_category": "nucl-th",
+  "published": "2026-09-01",
+  "tags": [
+   "dft"
+  ],
+  "title": "Low-lying states of neutron-rich $N=50$ isotones in multi-reference covariant density functional theory",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01376": {
+  "abstract": "We investigate the phase structure of magnetized quark matter within a nonlocal SU(2) Polyakov-Nambu-Jona-Lasinio model. Our work focuses on the interplay between temperature and imaginary chemical potential in the presence of an external uniform magnetic field, with emphasis on the deconfinement and Roberge-Weiss transitions. We analyze the dependence of the relevant critical temperatures on the external field, and we explore the sensitivity of the phase structure to different Polyakov loop effective potentials. Our results show qualitative agreement with lattice QCD findings, reproducing inverse magnetic catalysis in the chiral sector and a decreasing behavior of the Roberge-Weiss transition temperature with increasing magnetic field.",
+  "authors": [
+   "J. P. Carlomagno",
+   "D. Gómez Dumm",
+   "N. N. Scoccola"
+  ],
+  "categories": [
+   "hep-ph"
+  ],
+  "comment": "18 pages, 6 figures",
+  "first_author": "J. P. Carlomagno",
+  "pdf_url": "http://arxiv.org/pdf/2609.01376",
+  "primary_category": "hep-ph",
+  "published": "2026-09-01",
+  "tags": [
+   "catalysis",
+   "magnetic-properties"
+  ],
+  "title": "Phase structure of magnetized quark matter at imaginary chemical potential",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01492": {
+  "abstract": "Nonadiabatic coupled electron-nuclear dynamics upon electronic excitation underpin the microscopic mechanism and rational modulation of diverse photoinduced functional phenomena in materials, yet their direct first-principles simulations remain computationally demanding. Here we develop a framework for nonadiabatic excited-state machine-learning molecular dynamics (EMLMD) simulations, where the nonequilibrium electronic information upon photoexcitation such as electron temperature is rigorously calibrated from high-precision real-time time-dependent density functional theory (rt-TDDFT) benchmark simulations, enabling accurate reconstruction of excited-state potential energy surfaces (PES). This framework natively incorporates the excited-state electron-phonon couplings and intrinsically captures photoinduced phonon anharmonicity, both of which are missing in standard machine learning molecular dynamics, thus delivering first-principles-level accuracy for excited-state atomic evolutions. Large-scale EMLMD simulations resolve time- and momentum-resolved phonon dynamics in photoexcited materials, directly uncovering the competition between photogenerated coherent phonons and thermal phonons during photoinduced phase transition of bismuth. It also simultaneously resolves elusive atomic-scale microscopic dynamics and global structural rearrangement for selenium photoamorphization. Balancing high accuracy and efficiency, EMLMD offers a versatile paradigm to tackle key challenges in the study of complex excited-state molecular dynamics.",
+  "authors": [
+   "Yunzhe Jia",
+   "Fankai Xie",
+   "Yunfei Bai",
+   "Miao Liu",
+   "Cui Zhang",
+   "Sheng Meng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "physics.comp-ph"
+  ],
+  "comment": "11 pages, 4 figures, 1 table",
+  "first_author": "Yunzhe Jia",
+  "pdf_url": "http://arxiv.org/pdf/2609.01492",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "excited-states",
+   "free-energy",
+   "molecular-dynamics",
+   "phase-transition"
+  ],
+  "title": "Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01533": {
+  "abstract": "We show that the Maxwellian equation $\\nabla\\cdot\\mathbf{B}_{\\mathrm{xc}}=0$, where $\\mathbf{B}_{\\mathrm{xc}}$ is the exchange-correlation (xc) magnetic field, is not an exact condition of non-collinear spin density functional theory: it violates global spin-rotation symmetry, the operation which turns the electron spins. How much does this matter in practice? To find out we impose the condition anyway, in the best way we can: we modify any parent xc functional so that the Kohn-Sham procedure yields a divergence-free $\\mathbf{B}_{\\mathrm{xc}}$ that is a functional derivative, stays exact for the homogeneous gas, and exerts the local torques a locally collinear functional cannot. Any non-physical result from the calculation must be due to the spurious condition, not the implementation. On Mn$_2$ with LSDA as parent, the source-free (SoF) construction and locally collinear (LoC) LSDA both give too short a bond and too large a bond energy, but differ on the magnetic exchange coupling and on the state itself: SoF finds the experimentally observed $^1Σ^+_g$ antiferromagnet, with a coupling of the right sign and roughly the right size, while LoC finds a high-spin $^{11}Π_u$ ferromagnet and the wrong sign. Despite this seeming success, breaking the symmetry has serious consequences: a rigid spin rotation of the magnetization changes $E_{\\mathrm{xc}}$ by about 1 eV (it should not change at all), and the magnetization induced by a weak uniform field points perpendicular to the field (it should be antiparallel to it).",
+  "authors": [
+   "Ester Livshits",
+   "Roi Baer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ester Livshits",
+  "pdf_url": "http://arxiv.org/pdf/2609.01533",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "dft",
+   "magnetic-properties"
+  ],
+  "title": "No source-free exchange-correlation magnetic fields in non-collinear spin DFT",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ }
+}

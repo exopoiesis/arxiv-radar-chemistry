@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00897.html">Femtoscopy as a New Probe of the Nuclear Equation of State</a></div></td>
+<td>Xialei Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00897">2609.00897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01088.html">Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Kunik Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01088">2609.01088</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01492.html">Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>Yunzhe Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01492">2609.01492</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27820.html">Resolving Spin-Phonon Relaxation Pathways in Molecular Qubits via Regularized Regression</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
@@ -98,35 +116,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Reza Khakpour et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14911.html">ESPResSo++: A Fast and Extensible Molecular Simulation Package for Coarse-Grained Models</a></div></td>
-<td>Zhen-Hao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14911">2608.14911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21565.html">Weyl Points and Fermi Arc Surface States in a Self-assemblable Zinc-Blende Photonic Crystal</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Johnathon P. Gales et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21565">2608.21565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24465.html">Plastic Relaxation without Dislocations in $β$-Ga$_2$O$_3$ Heteroepitaxy: A Structural Peculiarity of Ga$_2$O$_3$ Polymorphs</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>I. Bertoni et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24465">2608.24465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24733.html">Multiscale Modelling of Ferroelectrics using a Physics-Informed Neural Network Driven by Molecular Dynamics Data: Parameter Identification and Field Reconstruction</a></div></td>
-<td>Xuejian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24733">2608.24733</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24979.html">FrontierChallenge: Evaluating Scientific Workflow Completion</a></div><div class="paper-tags"><a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Liangcai Su et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24979">2608.24979</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00542.html">Heavily Sr-Doped La$_{2}$SrNi$_{2}$O$_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
+<td>Yuhang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00542">2609.00542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00574.html">Expanding the trilayer Ruddlesden-Popper nickelate family: Synthesis and characterization of Sm$_4$Ni$_3$O$_{10-δ}$ single crystals</a></div></td>
+<td>Yuhang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00574">2609.00574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00836.html">Neural-Network-Based Variational Method in Nuclear Density Functional Theory: Application to the Kohn--Sham method</a></div></td>
+<td>Kenta Yoshimura et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00836">2609.00836</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01025.html">MakoXC: Rearchitecting DFT Exchange-Correlation with Matrix-Aligned and Knowledge-Organized Sparsity</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Haozhi Han et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01025">2609.01025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01088.html">Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Kunik Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01088">2609.01088</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01209.html">Autonomous discovery of new structure-plausibility laws for explainable and rapid crystal diagnosis and screening</a></div></td>
+<td>Zhilong Song et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01209">2609.01209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01364.html">Low-lying states of neutron-rich $N=50$ isotones in multi-reference covariant density functional theory</a></div></td>
+<td>X. Y. Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01364">2609.01364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01492.html">Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>Yunzhe Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01492">2609.01492</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01533.html">No source-free exchange-correlation magnetic fields in non-collinear spin DFT</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Ester Livshits et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01533">2609.01533</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="mof-7d.html">mof</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
@@ -128,71 +182,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26440.html">Automatic generation of exchange-correlation response kernels</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Susi Lehtola</td>
 <td><a href="http://arxiv.org/abs/2608.26440">2608.26440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21973.html">Nudged Elastic Band Method in the CRYSTAL code. Theory and Applications</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Andreha Gelli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21973">2608.21973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24141.html">Neutron scattering evidence for two-dimensionally coupled spin-dimerized antiferromagnetic lattice in α-Cu2P2O7</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>B. Ghanta et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24141">2608.24141</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24149.html">Classification of Metal - Insulator Transitions: Relating characteristic Properties to Quantum Chemical Bonding Descriptors</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Tim Bartsch et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24149">2608.24149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24234.html">Influence of Interface Energy Anisotropy on the Solid-state Instability in Ni-based Superalloy: A Multiscale Study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Sourav Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24234">2608.24234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24465.html">Plastic Relaxation without Dislocations in $β$-Ga$_2$O$_3$ Heteroepitaxy: A Structural Peculiarity of Ga$_2$O$_3$ Polymorphs</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>I. Bertoni et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24465">2608.24465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24529.html">Randomized Block Davidson Eigensolvers for Plane-Wave Density-Functional Theory</a></div></td>
-<td>Moritz Gubler et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24529">2608.24529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24655.html">Efficient, precise DFT calculations of NMR shieldings: Revisiting the finite field approach</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Xiao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24655">2608.24655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25090.html">Intercalation of Alkali Metal into WTe2, the Crystal Structure of A0.5WTe2 and Observation of a Metal-to-Semiconductor Transition</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Patrick Schmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25090">2608.25090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25112.html">Exploring electron transport in carbon wire systems using a wave function-based multiconfigurational non-equilibrium Green&#x27;s function approach</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Pranesh Raghavendran et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25112">2608.25112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25129.html">First-Principles Prediction of Nonlinear Optical Response in $\text{TiO}_2$ for High-Power Dielectric Mirror Applications</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Koya Shimaoka et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25129">2608.25129</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25154.html">An embedding method with constant potential boundary conditions</a></div></td>
-<td>Lisa Hetzel et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25154">2608.25154</a></td>
 </tr>
 </tbody></table>

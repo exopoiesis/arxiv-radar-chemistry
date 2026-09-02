@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01376.html">Phase structure of magnetized quark matter at imaginary chemical potential</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
+<td>J. P. Carlomagno et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01376">2609.01376</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01533.html">No source-free exchange-correlation magnetic fields in non-collinear spin DFT</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Ester Livshits et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01533">2609.01533</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28565.html">A Three-Fluid Model of Dissipation at Surfaces in Superconducting Radiofrequency Cavities</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
@@ -152,23 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02280.html">The $(2+1)$-dimensional Gross-Neveu-Yukawa model at finite temperature, density, and magnetic field within the Functional Renormalization Group</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Justin L. P. Mauldin et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02280">2608.02280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00948.html">Spin-chirality-driven nonrelativistic Edelstein effects in two-dimensional antiferromagnets</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Hao Zuo et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00948">2608.00948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01022.html">Spin-orbit-entangled frustrated magnetism in fcc Ba$_2$(Yb,Nd)NbO$_6$ double perovskites</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>S. M. Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01022">2608.01022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01062.html">Magnetic circular dichroism of THz modes and selection rules of Raman-active optical phonons in the polar altermagnet candidate \ce{Mn2Mo3O8}</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>F. Schilberth et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01062">2608.01062</a></td>
 </tr>
 </tbody></table>

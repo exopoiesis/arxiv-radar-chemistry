@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00915.html">Element priors and target support shape chemical transfer in materials graph networks</a></div></td>
+<td>Ran Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00915">2609.00915</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28347.html">Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys</a></div></td>
 <td>Zacharias Liasi et al.</td>
@@ -368,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>João G. C. S. Duarte et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05111.html">Software compensation of hadronic showers in the longitudinally segmented CRILIN Cherenkov crystal calorimeter</a></div></td>
-<td>V. Ciccarella et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05111">2606.05111</a></td>
 </tr>
 </tbody></table>

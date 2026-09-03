@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02148.html">Charge-Transfer Electronic Structure of NiX$_2$ (X = S, Se)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Atsushi Hariki et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02148">2609.02148</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28238.html">Interplay between crystal structure and magnetism in CeCrB$_4$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Mirosław Werwiński et al.</td>
@@ -2828,11 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06525.html">GPUTB: Efficient Machine Learning Tight-Binding Method for Large-Scale Electronic Properties Calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Yunlong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06525">2509.06525</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03039.html">Exploring strong electronic correlations in the breathing kagome metal Fe$_3$Sn</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shivalika Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2501.03039">2501.03039</a></td>
 </tr>
 </tbody></table>

@@ -604,5 +604,496 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-09-01"
+ },
+ "2609.01722": {
+  "abstract": "The flux of meteoroids reaching the Earth is continuous, ranging from microscopic grains to occasional metre and decametre scale bodies. The smallest ones fully ablate in the upper atmosphere, whereas sufficiently large or strong objects survive entry and deposit fragments on the ground as meteorites. Predicting where these fragments land, and reconstructing the atmospheric trajectory and fragmentation sequence that produced them, is central both to hazard assessment and to the recovery of freshly fallen material. The accuracy of such predictions, however, remains limited by poorly constrained fragmentation processes and by sparse, heterogeneous observational coverage of individual events. Traditional strewn field simulations rely on detailed fireball data and event-specific assumptions on fragment masses, aerodynamics, and breakup. These approaches are effective for well-instrumented events, but their applicability degrades rapidly when observations are sparse, often resulting in huge uncertainties. We present an ab initio framework predicting strewn fields of near-Earth asteroids directly from pre-impact orbital solutions. It propagates luminous trajectory and dark flight using a physics-based translational dynamics model and realistic atmospheric conditions, without requiring fireball triangulation or event-specific tuning. Validation against recent asteroid falls with recovered meteorites shows agreement with observations, with nominal solutions reproducing fall locations within 100-200 m. The new method has been integrated into the ESA Aegis pipeline, which now enables hours-ahead computation of impact locations, supporting recovery efforts, minimizing contamination, and, where warranted by object size and predicted ground hazard, civil-protection decision making.",
+  "authors": [
+   "Anna Moscati",
+   "Marco Fenucci",
+   "Laura Faggioli",
+   "Marco Micheli",
+   "Francisco Ocaña",
+   "Juan Luis Cano"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted for publication in Icaurs",
+  "first_author": "Anna Moscati",
+  "pdf_url": "http://arxiv.org/pdf/2609.01722",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-09-01",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "From orbit to ground: pre-impact meteorite strewn field predictions for imminent impactors and meteorite recovery",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01831": {
+  "abstract": "We investigate the Kelvin-Helmholtz instability of counter-rotating annular Fermi superfluids using time-dependent superfluid density functional theory. When the two initially separated superflows merge, a necklace of quantized vortices forms at their interface and subsequently becomes unstable. We extract mode-resolved instability growth rates and study their dependence on relative flow velocity, interaction strength, and temperature across the strongly interacting unitary regime and the weakly attractive BCS regime. In the unitary gas and moderate BCS regimes, the growth rates remain qualitatively consistent with the point-vortex model, though systematically at or above its predictions, with no significant dependence on interaction strength or temperature up to approximately $0.3 T_c$. Deeper in the BCS regime, the dynamics change qualitatively: boundary-generated antivortices proliferate faster than the Kelvin-Helmholtz instability itself, destroying the initial vortex necklace before the instability can fully develop. These results provide a microscopic benchmark for Kelvin-Helmholtz dynamics in fermionic superfluids and help constrain possible explanations of the existing experiment-theory discrepancy.",
+  "authors": [
+   "Michał Śliwiński",
+   "Klejdja Xhani",
+   "Gabriel Wlazłowski"
+  ],
+  "categories": [
+   "cond-mat.quant-gas"
+  ],
+  "comment": null,
+  "first_author": "Michał Śliwiński",
+  "pdf_url": "http://arxiv.org/pdf/2609.01831",
+  "primary_category": "cond-mat.quant-gas",
+  "published": "2026-09-01",
+  "tags": [
+   "dft"
+  ],
+  "title": "Kelvin-Helmholtz instability in annular superfluids across the UFG-BCS crossover",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01845": {
+  "abstract": "We develop a structure-preserving, data-driven collision operator for spatially homogeneous multi-species kinetic systems from molecular dynamics (MD). The operator consists of diagonal self-collision blocks and ordered off-diagonal cross-species blocks to describe intra- and inter-species momentum and energy exchange. Within a local and point-wise identifiable kernel class, we develop the necessary and sufficient condition for the admissible kernel class satisfying the conservation laws, the H-theorem, and the frame indifference. Unlike the classical Landau operator, the off-diagonal kernels are not restricted to be symmetric under permutation of the two velocity variables. This unique structural freedom captures the distinct responses of different species to unresolved correlations and many-body effects arising from micro-scale particle interactions. The equivalent parameterizable kernel formalization enables us to learn a generalized data-driven collision operator directly from MD, where the low-rank tensor representations and random sampling are used to achieve efficient kernel training and numerical simulation. Numerical experiments show that the learned operator accurately predicts transport coefficients and the non-equilibrium relaxation, while retaining discrete conservation and entropy production. In particular, it captures plasma kinetics in the moderately coupled regime, where the predictions of both the Landau and the data-driven model restricted to velocity-permutation symmetry show significant discrepancies.",
+  "authors": [
+   "Yue Zhao",
+   "Andrew Christlieb",
+   "Huan Lei"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "math.NA",
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Yue Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2609.01845",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-09-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Learning a general class of admissible multi-species collision operators from molecular dynamics",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01853": {
+  "abstract": "We investigate the spin excitation in altermagnetic vanadium oxyselenides, focusing on the metallic quasi-two-dimensional compound $\\text{KV}_2\\text{Se}_2\\text{O}$. Using a fermionic Hamiltonian derived from ab initio calculations, we compute the transverse spin susceptibilities within the random phase approximation and extract the magnon dispersion relation. We show that the altermagnetic symmetry leads to characteristic degeneracies and directional splittings in both the electronic bands and the magnon spectra along high-symmetry paths of the Brillouin zone. The metallic $\\text{KV}_2\\text{Se}_2\\text{O}$ exhibits finite magnon linewidths arising from the coupling to the particle-hole continuum. Furthermore, by fixing the magnitude of the wave vector and varying its in-plane direction, we uncover a pronounced angular dependence of the magnon energies and lifetimes, with complementary damping behavior between the two magnon branches. Upon including spin-orbit coupling, the system exhibits an out-of-plane easy c-axis anisotropy, which opens a magnon gap of approximately 6 meV at the $Γ$-point, possibly rendering the magnetic order stable at room temperature. Our results demonstrate that altermagnetism controls not only the dispersion but also the anisotropic decay of spin excitations, highlighting altermagnetic metals as promising platforms for directionally selective magnon transport.",
+  "authors": [
+   "Daniel Lourenço R. Santos",
+   "António T. Costa"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "9 pages, 7 figures",
+  "first_author": "Daniel Lourenço R. Santos",
+  "pdf_url": "http://arxiv.org/pdf/2609.01853",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-09-01",
+  "tags": [
+   "ab-initio",
+   "magnetic-properties",
+   "thermal-properties"
+  ],
+  "title": "Magnons in Metallic Altermagnetic $\\text{KV}_2\\text{Se}_2\\text{O}$",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01871": {
+  "abstract": "We describe a neural network architecture and training procedure designed to model electronic ground and excited states of arbitrary molecular systems. By indirectly learning a latent, implicit basis representation of the electronic-state Hamiltonian, the model offers a unified treatment of multiple electronic states, conical intersections, and non-adiabatic couplings. The formalism can be further extended to learn consistent latent representations of additional operators such as transition dipole moments, for example. To demonstrate the general capabilities of our architecture, we train and evaluate networks on two realistic photochemical systems, thymine and azobenzene. The resulting models accurately reproduce energies and oscillator strengths for the ground- and low-lying excited states relevant to the photochemistry of these systems. We highlight the performance of the trained networks by studying critical molecular geometries, including conical intersections and excited state minima. By construction, the proposed framework also recovers the emergence of Berry phase accumulation around conical intersections. By pairing key mathematical structure from quantum chemistry with the representation learning power of transformers, the presented architecture offers a qualitatively new path toward fast and accurate ground- and excited-state simulations.",
+  "authors": [
+   "David Juergens",
+   "Martin Stöhr",
+   "Andreas E. Hillers-Bendtsen",
+   "O. Jonathan Fajen",
+   "Todd J. Martínez"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG"
+  ],
+  "comment": "24 pages main, 7 pages supplement, 4 figures main, 6 figures supplement, 2 tables supplement",
+  "first_author": "David Juergens",
+  "pdf_url": "http://arxiv.org/pdf/2609.01871",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-01",
+  "tags": [
+   "excited-states",
+   "quantum-chemistry"
+  ],
+  "title": "Latent unified smooth Hamiltonians for excited state chemistry",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01879": {
+  "abstract": "Self-interstitial atom (SIA) clustering is a key early step in radiation damage evolution in face-centered cubic (FCC) metals, governing defect transport, recombination, and the long-term microstructural response of irradiated alloys. We combine molecular dynamics (MD) simulations and high-speed (>1000 frames/s) in situ transmission electron microscopy (TEM) to investigate the structure, energetics, and migration dynamics of SIA clusters in FCC Ni. MD simulations show that interstitials initially form disordered dumbbell clusters that evolve into either sessile Frank loops or glissile perfect (prismatic) loops; the latter progressively reorganize into compact ordered configurations with increasing mobility. Direct construction of both loop types over a wide size range, validated against MD-relaxed structures, shows that perfect loops are thermodynamically favored over Frank loops for cluster sizes N greater than or equal to 14, where N is the number of SIAs, with the energetic advantage increasing with cluster size. Nevertheless, substantial kinetic barriers allow Frank loops to persist as metastable defects. For perfect loops, diffusion coefficients computed over N = 16 to 400 reveal a nearly size-independent migration barrier of approximately 0.02 eV, while the diffusion prefactor decreases approximately as N^(-0.54). Trajectory analysis reveals a non-rigid, row-wise relay mechanism in which the number of participating atoms increases systematically with loop size, accounting for much of the observed prefactor scaling. Sub-millisecond in situ TEM observations reveal intermittent loop motion at velocities higher than previously observed but still several orders of magnitude below the intrinsic mobilities predicted by MD, indicating migration through a heterogeneous energy landscape of mobile and pinned states.",
+  "authors": [
+   "Ajay Annamareddy",
+   "Ibrahim Momohjimoh",
+   "Hangyu Li",
+   "Kevin G. Field",
+   "Paul M. Voyles",
+   "Dane Morgan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ajay Annamareddy",
+  "pdf_url": "http://arxiv.org/pdf/2609.01879",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Morphology and Dynamics of Self-interstitial Clusters in Irradiated Nickel",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01923": {
+  "abstract": "Electron-phonon interactions govern carrier dynamics, transport, and many optical and quantum phenomena in solids, but finite-displacement calculations within the projector augmented-wave (PAW) framework require up to 6N self-consistent supercell calculations for an N-atom system, making them costly for large, low-symmetry, and disordered materials. We introduce MLLocP, a machine learning strategy that learns the self-consistent local potential on real-space grids and supplies its displacement derivatives to the evaluation of all-electron PAW electron-phonon matrix elements. Analysis of the PAW decomposition identifies the local-potential contribution as a natural target for machine learning, while the remaining PAW quantities are retained within the established VASP/PHELEL framework. Using targeted grid-point sampling and feature-diversity selection for efficient model training, we validate MLLocP for elemental Cu, polar BAs, and chemically disordered Cu3Au. The learned potentials and their resulting displacement derivatives closely reproduce direct density functional theory calculations, yielding transport coefficients within approximately 3.5% for BAs mobility, 8% for Cu conductivity, and 11% for Cu3Au conductivity. For the 32-atom Cu3Au special quasirandom structure, using 40 sampled configurations reduces the number of self-consistent calculations by about fivefold relative to the 192 displaced structures required directly; using 20 or 10 configurations increases the acceleration to approximately 10- and 20-fold, with conductivity errors of 14.3% and 18.6%, respectively. MLLocP thus provides a scalable route to PAW electron-phonon calculations in complex materials while preserving the underlying all-electron formalism.",
+  "authors": [
+   "Yi Xia"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yi Xia",
+  "pdf_url": "http://arxiv.org/pdf/2609.01923",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "dft"
+  ],
+  "title": "Machine Learning Local Potentials for Accelerated Electron-Phonon Interactions Calculations within the Projector Augmented-Wave Framework",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.02126": {
+  "abstract": "Estimating physical parameters from scientific images is a common inverse problem in materials characterization that often relies on expensive physics-based simulations. In electron microscopy, specimen thickness and crystal mistilt are critical parameters that govern how electrons scatter through the sample, and therefore the accuracy of any atomic-scale structure recovered from it. They are commonly inferred by matching experimental position-averaged convergent-beam electron diffraction (PACBED) patterns to simulated ones, but grid searches scale poorly and neural-network methods require extensive pretraining that may not transfer to new conditions. Here, we propose scalable Bayesian optimization of composite functions (SBOCF), a simulation-efficient method that exploits the known composite structure of the image-matching objective and the intermediate information contained in simulated images. By representing PACBED images with patch-level summaries and two correction terms, SBOCF preserves the original pixel-wise objective while reducing the number of modeled outputs from 24,649 to 11. Under a budget of 50 simulator evaluations, SBOCF outperformed standard Bayesian optimization with expected improvement on synthetic SrTiO3 benchmarks with thick and thin specimens, reducing the median final SSE by up to 290x in the thick-sample case. On experimental data, SBOCF produced parameter estimates consistent with previously reported values without task-specific pretraining. For a simulated mistilted specimen, using the SBOCF estimates in a downstream ptychographic reconstruction recovered sharp atoms that were otherwise blurred. These results establish SBOCF as a promising approach for inverse problems involving expensive simulators and high-dimensional structured outputs.",
+  "authors": [
+   "Dasol Yoon",
+   "Poompol Buathong",
+   "Chia-Hao Lee",
+   "Yujia Zhang",
+   "David A. Muller",
+   "Peter I. Frazier"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "28 pages. Dasol Yoon and Poompol Buathong contributed equally",
+  "first_author": "Dasol Yoon",
+  "pdf_url": "http://arxiv.org/pdf/2609.02126",
+  "primary_category": "cs.LG",
+  "published": "2026-09-02",
+  "tags": [
+   "bayesian-optimization"
+  ],
+  "title": "Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02148": {
+  "abstract": "We investigate the electronic structures of NiS$_2$ and NiSe$_2$ using density functional theory combined with dynamical mean-field theory (DFT+DMFT). A realistic electronic structure within DFT+DMFT was determined by optimizing the double-counting correction to reproduce experimental valence-band photoemission spectra. The validity of the present model is further confirmed by its successful description of the Ni 2$p$ core-level photoemission and Ni $L$-edge x-ray absorption spectra of NiS$_2$. Our results reveal a smaller charge-transfer energy than previously assumed, resulting in substantial ligand-to-Ni charge transfer and a reduced Ni local moment. We clarify how the relative position and interaction between the Ni upper Hubbard band and the antibonding chalcogen-dimer states shape the evolution of the low-energy electronic structure across the NiS$_{2-x}$Se$_x$ series.",
+  "authors": [
+   "Atsushi Hariki",
+   "Takaki Okauchi",
+   "Daisuke Takegami",
+   "Naoki Ito",
+   "Mizuki Furo",
+   "Ayako Yamamoto",
+   "Tomoya Higo",
+   "Satoru Nakatsuji",
+   "Masato Yoshimura",
+   "Takashi Mizokawa",
+   "Jan Kunes"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Atsushi Hariki",
+  "pdf_url": "http://arxiv.org/pdf/2609.02148",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "dft",
+   "electronic-structure"
+  ],
+  "title": "Charge-Transfer Electronic Structure of NiX$_2$ (X = S, Se)",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02206": {
+  "abstract": "The degradation of LiNi$_{0.8}$Co$_{0.1}$Mn$_{0.1}$O$_2$ (NCM-811) in Li-ion batteries produces complex transition-metal oxides and binary phases that fundamentally limit cathode performance. While identifying these degradation products via X-ray absorption spectroscopy (XAS) is essential for mitigating electrochemical performance loss, interpretation remains challenging due to the structural complexity of real-world samples. In this work, we present an integrated theoretical-experimental framework combining high-resolution oxygen K-edge XAS with \\textit{ab initio} simulations based on many-body perturbation theory and high-throughput screening from density functional theory. We first evaluate the spectroscopic fingerprints of eight layered, spinel, and nominal rock-salt reference oxides, identifying discrepancies between the idealized single-crystal bulk phase and experimental spectra. Using high-throughput screening to analyze the oxygen $p$-projected density of states of 38 distinct polymorphs of NiO, CoO, and MnO, we propose that the spectral differences can emerge, among other factors, from a structural ensemble of local variations represented here by simplified structural proxies. Our work establishes a viable and rigorous computational pathway to interpret the complex landscape of degraded battery materials.",
+  "authors": [
+   "Daniel Duarte-Ruiz",
+   "Timo Reents",
+   "Elmar Kataev",
+   "Raul Garcia-Diez",
+   "Regan G. Wilks",
+   "Marcus Baer",
+   "Caterina Cocchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Daniel Duarte-Ruiz",
+  "pdf_url": "http://arxiv.org/pdf/2609.02206",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "ab-initio",
+   "battery-materials",
+   "dft"
+  ],
+  "title": "Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02397": {
+  "abstract": "Detailed analysis of thermal conductivity results obtained from molecular dynamics (MD) trajectories conventionally relies on knowledge of the harmonic vibrational modes of the system. Such is the case in methods like Green--Kubo modal analysis (GKMA) and homogeneous nonequilibrium modal analysis (HNEMA). This approach faces several shortcomings that become especially important when dealing with nanostructures. Chief among them is scalability, followed by the ambiguity associated to the degeneracy of the large vibrational subspaces defined by a common translational wave number k. We propose an alternative for quasi-one-dimensional (quasi-1D) systems: we construct the modal basis for the decomposition of the thermal conductivity from line-group projection operators, so that every projected component carries well-defined symmetry labels (including rotational information and parities) and the decomposition is unique at the level of irreducible representations (irreps). Applying the idea to a (10,0)-(20,0) WS2-MoS2 double-walled nanotube (DWNT) described by a neuroevolution potential (NEP), we find that at 300 K both HNEMA and GKMA yield statistically consistent total conductivities and allow the identification of several prominent symmetry-adapted conduction channels. The GKMA pair matrix shows that within-block and same-channel cross-k terms account for 75.6% of the total conductivity, while cross-channel correlations contribute 24.4%.",
+  "authors": [
+   "Yu-Jie Cen",
+   "Sandro Wieser",
+   "Georg K. H. Madsen",
+   "Jesús Carrete"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yu-Jie Cen",
+  "pdf_url": "http://arxiv.org/pdf/2609.02397",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "molecular-dynamics",
+   "thermal-properties"
+  ],
+  "title": "Molecular-dynamics-based modal analysis of heat transport in quasi-one-dimensional systems from a symmetry-adapted perspective",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02609": {
+  "abstract": "The yielding transition marks the onset of irreversible plastic deformation in amorphous solids and plays a central role in determining the mechanical stability and failure of metallic glasses, colloidal suspensions, and biological assemblies. Despite extensive research, the microscopic factors governing the nature of yielding, particularly the transition between brittle and ductile mechanical responses, remain poorly understood. Recent studies have identified kinetic fragility as a key parameter governing yielding in passive glasses; whether this connection persists in active glasses remains open. Here, using molecular dynamics simulations of a Kob-Andersen glass former doped with Run-and-Tumble (RTP) active particles under oscillatory shear, we show that activity systematically reduces kinetic fragility and consequently alters the mechanical response. The common yield point $γ_c$ decreases monotonically with activity and exhibits a power-law dependence on the Arrhenius activation barrier. Increasing activity suppresses the dependence of the yield strain on thermal history and transforms the response from brittle-like to increasingly ductile, with smoother stress relaxation and reduced stress discontinuities. The timescale to reach steady state near yielding retains a critical power-law divergence, indicating that activity does not alter the underlying critical character of the transition. Active glasses also develop broader, more diffuse shear bands. Our results establish kinetic fragility as a unifying parameter governing yielding in both passive and active glasses and demonstrate that activity offers a powerful route to tune the mechanical response of amorphous materials.",
+  "authors": [
+   "Arnab Mandal",
+   "Roni Chatterjee",
+   "Smarajit Karmakar"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "19 pages, 11 figures",
+  "first_author": "Arnab Mandal",
+  "pdf_url": "http://arxiv.org/pdf/2609.02609",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-02",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "The Universal Role of Fragility on the Yielding Transition of Active Glass under Oscillatory Shear",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02694": {
+  "abstract": "Large-scale molecular dynamics simulations of particle systems on multi-GPU architectures are often constrained by the computational and communication costs of nonbonded force evaluation. We present RBMD 2.0, a major new release of the random batch molecular dynamics package designed for cross-node multi-GPU simulations of large-scale systems. It combines the improved random batch Ewald method with three-dimensional domain decomposition and ghost-particle communication to accelerate multi-GPU nonbonded force evaluation, while the DTK CUDA framework facilitates portability across heterogeneous accelerator architectures. Numerical experiments on multiple benchmark systems demonstrate both the accuracy and efficiency of simulations with RBMD 2.0. For simulations involving up to hundreds of millions of particles across multiple accelerator devices, one achieves speedups ranging from severalfold to approximately two orders of magnitude in nonbonded force evaluation while exhibiting over $97.5\\%$ weak-scaling behavior. These results demonstrate the promising nature of RBMD 2.0 as a computational engine for future exascale molecular dynamics simulations.",
+  "authors": [
+   "Qi Zhou",
+   "Yongfa Guo",
+   "Jincheng Zhong",
+   "Shou-Hang Bo",
+   "Teng Zhao",
+   "Zhenli Xu"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 7 figures",
+  "first_author": "Qi Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2609.02694",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-09-02",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "RBMD 2.0: Random batch molecular dynamics package for large-scale simulations on multi-GPU architectures",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02709": {
+  "abstract": "Two-dimensional metals became a laboratory reality with the isolation of Goldene, a gold sheet one atom thick released by chemical exfoliation, which raises the question of what alloying can achieve on the same close-packed lattice. Here we combine an exhaustive enumeration of derivative superstructures with density functional theory to map the ordered Au-Ag-Cu monolayer alloys, relaxing every symmetry-inequivalent arrangement up to four atoms per cell and extending the set with larger cells selected by a fitted model. We find that the arrangement of the atoms, and not their proportion, controls the mixing energy, since the spread among the orderings of a single composition is several times the step between neighboring compositions, one composition spans more than 50~meV/atom between two arrangements of the same three atoms, and at two compositions the arrangement decides the sign. The energetics is carried by a competition between Au-Cu contacts, which bind, and Ag-Cu contacts, which do not, and bulk enthalpies computed under the same protocol show that this chemistry is not uniformly rescaled in two dimensions, since Au-Cu orders more strongly in the monolayer than in the crystal while the other two weaken. A pair model completed by an elastic size-mismatch term reproduces the computed energies to a few meV/atom and returns a composition landscape whose convex hull no balanced ternary composition reaches. One equimolar ordering, which we name Noblene, is the only structure in which every atom is surrounded exclusively by unlike species, and it is dynamically stable and metallic, and carries a Poisson's ratio above one half, higher than that of any of the three pure monolayers. Since Noblene sits on the lattice that Goldene already realizes, the route that produced Goldene is a plausible starting point for its synthesis.",
+  "authors": [
+   "Marcelo Lopes Pereira Junior"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "18 pages, 6 figures, 1 table",
+  "first_author": "Marcelo Lopes Pereira Junior",
+  "pdf_url": "http://arxiv.org/pdf/2609.02709",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "2d-materials",
+   "dft"
+  ],
+  "title": "From Goldene to Noblene: exhaustive enumeration of the ordered Au-Ag-Cu monolayer alloys",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02744": {
+  "abstract": "Graphene-derivatives are widely employed materials to improve bulk and interface properties of metal-halide perovskite devices. Yet the implications of their flake chemistry and interactions with the perovskite precursors remain unclear. Here, we show that pristine graphene flakes (GF) and more conventional graphene oxide flakes (GOF) are not interchangeable. Density functional theory calculations reveal that GOF interacts more strongly with the perovskite lattice but induces larger structural distortions, stronger interfacial polarisation, and localised gap states. In contrast, GF forms comparatively non-disruptive contacts, a response retained across a wide compositional range. Machine-learning atomistic simulations further show that GF contacts both Pb- and I-containing regions of solvated perovskite nanocrystals, with a strong solvent dependency. Solution spectroscopic characterization indicates that GF additives serve as scaffold for preorganised Pb/I-containing precursors, favouring film crystallisation. In this sense, GF enhances solar cell performance across perovskite compositions, but particularly those facing a more challenging crystallisation. In mixed Sn-Pb perovskite solar cells, GF raises the champion power-conversion efficiency from 21.5\\% to 23.7\\% with improved storage stability. These results establish pristine GF as a chemically defined additive and connect its atomic-scale interactions with precursor organisation, crystallisation, device performance, and stability.",
+  "authors": [
+   "Oussama Er-Riyahi",
+   "Dorota Biernacka",
+   "Yating Guo",
+   "Mikel Ballarena Tellechea",
+   "Silver-Hamill Turren-Cruz",
+   "Dario Bercioux",
+   "Meng Li",
+   "Agnieszka Lekawa-Raus",
+   "Jorge Pascual",
+   "Karolina Z. Milowska"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "4 figures in main; 21 figures and 3 tables in the SI",
+  "first_author": "Oussama Er-Riyahi",
+  "pdf_url": "http://arxiv.org/pdf/2609.02744",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "2d-materials",
+   "crystal-structure",
+   "dft"
+  ],
+  "title": "Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02762": {
+  "abstract": "Liquid interfaces are both ubiquitous and also critically important for many commercial products, modern technologies, biological processes, and environmental phenomena. The properties of these interfaces can depend quite sensitively upon the composition of the bulk liquid phase. In this work, we develop a dilute solution theory (DST) for the influence of dilute cosolutes upon the interface between coexisting liquid and vapor phases. We employ a grand canonical perturbation theory to rigorously relate the interfacial free energy to the concentration of the liquid solution. We leverage a corresponding Gibbs ensemble to treat liquid-vapor coexistence and to eliminate the contribution of the bulk phases from this free energy. We express the coefficients of the resulting expansion in terms of microscopic partition functions. By treating solute-solute interactions to lowest order, we distinguish between the intrinsic and effective interfacial preferences of solutes. While the former reflects only solute-solvent interactions, the latter depends upon the solution composition and reflects the influence of solute-solute interactions. We assess this DST with molecular dynamics simulations of binary and ternary mixtures of Lennard-Jones spheres. These simulations demonstrate that DST accurately models the interfacial properties of these systems up to relatively high concentrations. Moreover, the simulations illustrate the impact of attractive solute-solute interactions in converting weak intrinsic surfactants into weak effective depletants.",
+  "authors": [
+   "Varun Mandalaparthy",
+   "Benjamin M. Curlee",
+   "William G. Noid"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "67 (41 + 26) pages, 6 figures",
+  "first_author": "Varun Mandalaparthy",
+  "pdf_url": "http://arxiv.org/pdf/2609.02762",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-02",
+  "tags": [
+   "free-energy",
+   "molecular-dynamics"
+  ],
+  "title": "Relating solute interactions to interfacial properties",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02815": {
+  "abstract": "A standard approach for studying magic angle twisted bilayer graphene (MATBG)'s correlated electronic phase diagram is to project the Coulomb interaction down to effective models only involving electrons in single-particle flat bands and some nearby remote bands. We provide a novel systematic derivation of a single-particle continuum model of MATBG's single-particle properties which incorporates structural relaxation while remaining in the Lagrangian frame. We project the Coulomb interactions down to electrons occupying the flat bands of this model and compute the Hartree-Fock many-body ground states at fillings $ν= \\pm 2$. We find that incorporating relaxation effects drives the model into a semi-metallic phase at $- 2$ because of particle-hole asymmetry in the relaxed model's single-particle dispersion and because the flat band wavefunctions become more concentrated leading to an enhanced Hartree potential. Our results corroborate recent ab initio density functional theory studies which also found semi-metallic phases at $-2$. We discuss potential explanations for why such phases have not been seen in experiments.",
+  "authors": [
+   "Tianyu Kong",
+   "Alexander B. Watson",
+   "Lin Lin",
+   "Mitchell Luskin",
+   "Kevin D. Stubbs"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Tianyu Kong",
+  "pdf_url": "http://arxiv.org/pdf/2609.02815",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-09-02",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "dft"
+  ],
+  "title": "Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02824": {
+  "abstract": "Low-temperature operation imposes severe limitations on lithium-ion transport in battery electrolytes, yet the coupled effects of solvent composition and fluorinated additives in the cold-temperature regime remain insufficiently resolved. Here, we combine classical molecular dynamics (MD) and machine learning (ML) to investigate 1 M LiPF$_6$ electrolytes containing ethylene carbonate (EC), ethyl methyl carbonate (EMC), and EC/EMC (3:7), with 0-10 mol% fluoroethylene carbonate (FEC), from 298 to 233 K. MD simulations quantify Li$^+$ self-diffusion, Nernst-Einstein (NE) and Green-Kubo (GK) conductivities and local coordination, while Gaussian-process surrogates model conductivity across composition and temperature. Cooling produces a pronounced transport penalty, particularly in EMC-containing electrolytes, whose GK conductivity decreases by more than 98% at 233 K, compared with approximately 90% in EC-rich systems. Li$^+$ self-diffusion activation energies are 0.49-0.54 eV for EMC-containing systems and 0.27-0.29 eV for EC-based systems. Within the EC family, 0-2 mol% FEC gives comparable cold-temperature transport, whereas 5-10 mol% FEC shows lower conductivity retention at the coldest simulated temperature. The analyzed coordination channels remain solvent dominated, while direct Li$^+$-FEC coordination is not quantified in the present RDF set.The Gaussian-process surrogates achieve composition-disjoint cross-validated RMSE values of 0.56 and 0.57 mS cm$^{-1}$ for NE and GK conductivity. Within the simulated liquid-state trajectories, temperature and host-solvent composition dominate the bulk-transport response, with FEC acting as a secondary modifier.",
+  "authors": [
+   "İpek Yenda Çınar",
+   "Oguzhan Orhan",
+   "M. Oluş Özbek",
+   "Şener Özönder"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.dis-nn",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "İpek Yenda Çınar",
+  "pdf_url": "http://arxiv.org/pdf/2609.02824",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-02",
+  "tags": [
+   "battery-materials",
+   "molecular-dynamics"
+  ],
+  "title": "Low-Temperature Transport in Li-Ion Battery EC/EMC/FEC Electrolytes: Molecular Dynamics and Machine-Learning Modeling",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-02"
  }
 }

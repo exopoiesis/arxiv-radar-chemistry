@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermal-properties — all</h1>
-  <span class="paper-count">588 papers</span>
+  <span class="paper-count">590 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02397.html">Molecular-dynamics-based modal analysis of heat transport in quasi-one-dimensional systems from a symmetry-adapted perspective</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Yu-Jie Cen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02397">2609.02397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01853.html">Magnons in Metallic Altermagnetic $\text{KV}_2\text{Se}_2\text{O}$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
+<td>Daniel Lourenço R. Santos et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01853">2609.01853</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27025.html">Intrinsic anomalous Hall response in the bilayer kagome ferromagnet Co$_3$Sn</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,17 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05388.html">Next Generation of Ultra-Coarse-Graining: Self-Consistent Inference of Critical Internal States</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Weizhi Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05388">2608.05388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01779.html">Machine-Learning-Accelerated Metallene Stabilization from High-Throughput Sandwich Modeling</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Mohammad Bagheri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01779">2608.01779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02456.html">Real-time dynamics of the two-step charge-density-wave transition in bulk 1T-TaS$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Daeheon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02456">2608.02456</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">209 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1268,11 +1268,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07798.html">Mechanical Amorphization of Glass-Forming Systems Induced by Oscillatory Deformation: The Energy Absorption and Efficiency Control</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Baoshuang Shang et al.</td>
 <td><a href="http://arxiv.org/abs/2504.07798">2504.07798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05958.html">Intrinsic Topological Dice Flat Band in Yttrium Monochloride Electrides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jianqi Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05958">2509.05958</a></td>
 </tr>
 </tbody></table>

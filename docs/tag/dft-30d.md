@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02148.html">Charge-Transfer Electronic Structure of NiX$_2$ (X = S, Se)</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Atsushi Hariki et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02148">2609.02148</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a></div></td>
+<td>Daniel Duarte-Ruiz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02709.html">From Goldene to Noblene: exhaustive enumeration of the ordered Au-Ag-Cu monolayer alloys</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
+<td>Marcelo Lopes Pereira Junior</td>
+<td><a href="http://arxiv.org/abs/2609.02709">2609.02709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02744.html">Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
+<td>Oussama Er-Riyahi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02744">2609.02744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Tianyu Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00542.html">Heavily Sr-Doped La$_{2}$SrNi$_{2}$O$_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
@@ -68,6 +98,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01533.html">No source-free exchange-correlation magnetic fields in non-collinear spin DFT</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Ester Livshits et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01533">2609.01533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01831.html">Kelvin-Helmholtz instability in annular superfluids across the UFG-BCS crossover</a></div></td>
+<td>Michał Śliwiński et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01831">2609.01831</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01923.html">Machine Learning Local Potentials for Accelerated Electron-Phonon Interactions Calculations within the Projector Augmented-Wave Framework</a></div></td>
+<td>Yi Xia</td>
+<td><a href="http://arxiv.org/abs/2609.01923">2609.01923</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-28</td>
@@ -866,29 +908,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04219.html">First-principles predictions of carrier mobility with record accuracy using GW perturbation theory</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
 <td>Nick Pant et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04219">2608.04219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01779.html">Machine-Learning-Accelerated Metallene Stabilization from High-Throughput Sandwich Modeling</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Mohammad Bagheri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01779">2608.01779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02225.html">Ab initio High-Pressure Phase Diagrams of Al-Mg Alloys in the Low Solute Concentration Limit</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Shambhu Bhandari Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02225">2608.02225</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02261.html">Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Jian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02261">2608.02261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02925.html">Symmetry-Guided Computational Screening of Two-Dimensional Altermagnets with ab initio Hubbard Corrections</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Anumita Bose et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02925">2608.02925</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01533.html">No source-free exchange-correlation magnetic fields in non-collinear spin DFT</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Ester Livshits et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01533">2609.01533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01853.html">Magnons in Metallic Altermagnetic $\text{KV}_2\text{Se}_2\text{O}$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Daniel Lourenço R. Santos et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01853">2609.01853</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-28</td>

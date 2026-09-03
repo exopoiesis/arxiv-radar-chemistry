@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">295 papers</span>
+  <span class="paper-count">294 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Daniel Duarte-Ruiz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Tianyu Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01069.html">Exchange striction determines how fast antiferromagnetic insulators demagnetize</a></div></td>
@@ -26,6 +38,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01492.html">Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Yunzhe Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01492">2609.01492</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01722.html">From orbit to ground: pre-impact meteorite strewn field predictions for imminent impactors and meteorite recovery</a></div></td>
+<td>Anna Moscati et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01722">2609.01722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01853.html">Magnons in Metallic Altermagnetic $\text{KV}_2\text{Se}_2\text{O}$</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Daniel Lourenço R. Santos et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01853">2609.01853</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-28</td>
@@ -1754,35 +1778,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07465.html">Proton and Neutron Elastic Scattering on He Targets from $\textit{Ab Initio}$ SA-NCSM Optical Potentials</a></div></td>
 <td>Darin C. Mumma et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07465">2606.07465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04672.html">Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models</a></div></td>
-<td>Ayushman Raghuvanshi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04672">2606.04672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Ashutosh Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06006">2606.06006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06185.html">Non-adiabatic Ehrenfest dynamics with norm-conserving and ultra-soft pseudo-potentials with nuclear velocity corrections on the atomic orbitals within the Projector Augmented Wave Method framework</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Paolo Fachin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06185">2606.06185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06289.html">Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>T. A. M. Ragib Shahriar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06289">2606.06289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06706.html">Plasticity of Neutron Star Crusts</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Matthew E Caplan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06706">2606.06706</a></td>
 </tr>
 </tbody></table>

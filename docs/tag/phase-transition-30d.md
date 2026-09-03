@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transition — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <strong>30d</strong> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05388.html">Next Generation of Ultra-Coarse-Graining: Self-Consistent Inference of Critical Internal States</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Weizhi Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05388">2608.05388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02106.html">Transient Ferromagnetism in Ultrafast Phase Transitions in Perovskites under XUV Irradiation: A Comparative Study of SrTiO3 and KTaO3</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Aldo Artimez Pena et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02106">2608.02106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02280.html">The $(2+1)$-dimensional Gross-Neveu-Yukawa model at finite temperature, density, and magnetic field within the Functional Renormalization Group</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Justin L. P. Mauldin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02280">2608.02280</a></td>
 </tr>
 </tbody></table>

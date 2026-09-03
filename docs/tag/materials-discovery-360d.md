@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">269 papers</span>
+  <span class="paper-count">268 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1622,11 +1622,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07853.html">Decoratypes: An Extensible Crystal Taxonomy for Machine Learning-Guided Materials Discovery</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Kyle D. Miller et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07853">2509.07853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16893.html">Crystal structure prediction with host-guided inpainting generation and foundation potentials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Peichen Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16893">2504.16893</a></td>
 </tr>
 </tbody></table>

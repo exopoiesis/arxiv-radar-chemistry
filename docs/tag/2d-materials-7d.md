@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>2d-materials — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02709.html">From Goldene to Noblene: exhaustive enumeration of the ordered Au-Ag-Cu monolayer alloys</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Marcelo Lopes Pereira Junior</td>
+<td><a href="http://arxiv.org/abs/2609.02709">2609.02709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02744.html">Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Oussama Er-Riyahi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02744">2609.02744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Tianyu Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00542.html">Heavily Sr-Doped La$_{2}$SrNi$_{2}$O$_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
@@ -50,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26704.html">AlGaN/GaN Hall-Effect Sensor for In-Situ Magnetic Field Monitoring of the HSX Stellarator</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Yiming Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26704">2608.26704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Reza Khakpour et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
 </tr>
 </tbody></table>

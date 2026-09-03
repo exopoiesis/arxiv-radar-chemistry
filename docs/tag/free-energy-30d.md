@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02762.html">Relating solute interactions to interfacial properties</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Varun Mandalaparthy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02762">2609.02762</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01492.html">Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Yunzhe Jia et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06413.html">Competing Energetics Govern Gas Permeation in Polymer of Intrinsic Microporosity (PIM) Membranes</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jianhao Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06413">2608.06413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02932.html">Cooling down trees for finite-temperature quantum dynamics: Purification within ML-MCTDH</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Niclas Krupp et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02932">2608.02932</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02744.html">Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Oussama Er-Riyahi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02744">2609.02744</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00900.html">Fourier Neural Operators for Composition-Driven Crystal Structure Discovery</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Zhijie Yu et al.</td>
@@ -1598,11 +1604,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07152.html">Computational and Experimental Investigation of Chiral and Achiral 2D Organic Lead Bromide Perovskites: Octahedral Distortions and Electronic and Optical Properties</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Md Mehdi Masud et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07152">2509.07152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16893.html">Crystal structure prediction with host-guided inpainting generation and foundation potentials</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Peichen Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16893">2504.16893</a></td>
 </tr>
 </tbody></table>

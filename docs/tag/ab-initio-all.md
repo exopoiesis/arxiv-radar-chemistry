@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">2827 papers</span>
+  <span class="paper-count">2831 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Daniel Duarte-Ruiz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Tianyu Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01069.html">Exchange striction determines how fast antiferromagnetic insulators demagnetize</a></div></td>
@@ -26,6 +38,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01492.html">Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
 <td>Yunzhe Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01492">2609.01492</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01722.html">From orbit to ground: pre-impact meteorite strewn field predictions for imminent impactors and meteorite recovery</a></div></td>
+<td>Anna Moscati et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01722">2609.01722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01853.html">Magnons in Metallic Altermagnetic $\text{KV}_2\text{Se}_2\text{O}$</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Daniel Lourenço R. Santos et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01853">2609.01853</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-28</td>

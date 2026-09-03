@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">414 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2498,23 +2498,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06488.html">Mexican hat-like valence band dispersion and quantum confinement in rhombohedral ferroelectric alpha-In2Se3</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Geoffroy Kremer et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06488">2509.06488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03039.html">Exploring strong electronic correlations in the breathing kagome metal Fe$_3$Sn</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shivalika Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2501.03039">2501.03039</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05987.html">Exploring PdCrAs Half-Heusler Alloy for Sustainable Energy Solutions: An Ab-initio Study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Rajinder Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05987">2509.05987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05991.html">Thermoelectric Potential of NaVAs Half-Heusler Alloy: Insights from Ab-initio Calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Rajinder Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05991">2509.05991</a></td>
 </tr>
 </tbody></table>

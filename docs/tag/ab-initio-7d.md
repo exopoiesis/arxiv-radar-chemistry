@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Daniel Duarte-Ruiz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Tianyu Kong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01069.html">Exchange striction determines how fast antiferromagnetic insulators demagnetize</a></div></td>
@@ -26,6 +38,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01492.html">Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
 <td>Yunzhe Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01492">2609.01492</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01722.html">From orbit to ground: pre-impact meteorite strewn field predictions for imminent impactors and meteorite recovery</a></div></td>
+<td>Anna Moscati et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01722">2609.01722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01853.html">Magnons in Metallic Altermagnetic $\text{KV}_2\text{Se}_2\text{O}$</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Daniel Lourenço R. Santos et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01853">2609.01853</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-28</td>
@@ -98,35 +122,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27561.html">Pulling strings in real time: flux tube dynamics in (2+1)-d $\mathbb{Z}_2$-Higgs Gauge Theories</a></div><div class="paper-tags"><a href="quantum-computing-7d.html">quantum-computing</a></div></td>
 <td>Zeno Bacciconi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27561">2608.27561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24838.html">Accidental accuracy and vertex corrections in $GW$: Exact benchmarks for the extended Hubbard model</a></div></td>
-<td>Michael O. Atambo</td>
-<td><a href="http://arxiv.org/abs/2608.24838">2608.24838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25388.html">A meta-algorithm for ab initio reconstruction of complex mixtures in cryo-EM</a></div></td>
-<td>Alkin Kaz et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25388">2608.25388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25628.html">Magnetic-configuration design for reliable Heisenberg exchange parameters</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Ben Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25628">2608.25628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26207.html">Frontier Questions and Emerging Directions in Nuclear Science and Technology</a></div></td>
-<td>Yu-Gang Ma</td>
-<td><a href="http://arxiv.org/abs/2608.26207">2608.26207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26255.html">First-Principles Nuclear Modeling for Light Dark Matter Experiments at the Intensity Frontier</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Taylor R. Gray et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26255">2608.26255</a></td>
 </tr>
 </tbody></table>

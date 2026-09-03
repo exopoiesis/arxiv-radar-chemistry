@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02397.html">Molecular-dynamics-based modal analysis of heat transport in quasi-one-dimensional systems from a symmetry-adapted perspective</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Yu-Jie Cen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02397">2609.02397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02609.html">The Universal Role of Fragility on the Yielding Transition of Active Glass under Oscillatory Shear</a></div></td>
+<td>Arnab Mandal et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02609">2609.02609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02694.html">RBMD 2.0: Random batch molecular dynamics package for large-scale simulations on multi-GPU architectures</a></div></td>
+<td>Qi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02694">2609.02694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02762.html">Relating solute interactions to interfacial properties</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Varun Mandalaparthy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02762">2609.02762</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02824.html">Low-Temperature Transport in Li-Ion Battery EC/EMC/FEC Electrolytes: Molecular Dynamics and Machine-Learning Modeling</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
+<td>İpek Yenda Çınar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02824">2609.02824</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00897.html">Femtoscopy as a New Probe of the Nuclear Equation of State</a></div></td>
@@ -32,6 +62,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01492.html">Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Yunzhe Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01492">2609.01492</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01845.html">Learning a general class of admissible multi-species collision operators from molecular dynamics</a></div></td>
+<td>Yue Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01845">2609.01845</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01879.html">Morphology and Dynamics of Self-interstitial Clusters in Irradiated Nickel</a></div></td>
+<td>Ajay Annamareddy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01879">2609.01879</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-28</td>
@@ -626,17 +668,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03907.html">A variational hybrid continuous-variable discrete-variable quantum algorithm for adiabatic nuclear dynamics</a></div></td>
 <td>Rami Gherib et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03907">2608.03907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01779.html">Machine-Learning-Accelerated Metallene Stabilization from High-Throughput Sandwich Modeling</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Mohammad Bagheri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01779">2608.01779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02456.html">Real-time dynamics of the two-step charge-density-wave transition in bulk 1T-TaS$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Daeheon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02456">2608.02456</a></td>
 </tr>
 </tbody></table>

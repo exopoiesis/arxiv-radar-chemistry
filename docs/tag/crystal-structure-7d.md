@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02744.html">Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Oussama Er-Riyahi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02744">2609.02744</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00900.html">Fourier Neural Operators for Composition-Driven Crystal Structure Discovery</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Zhijie Yu et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26962.html">Packora: Systematic Design for Generative Molecular Crystal Structure Prediction</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
 <td>Nayoung Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26962">2608.26962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25270.html">High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Shuo Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25270">2608.25270</a></td>
 </tr>
 </tbody></table>

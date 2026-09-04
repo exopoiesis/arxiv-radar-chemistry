@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02746.html">HiPoly: a hierarchical polymer-native AI framework for property prediction and generative design</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Ge Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02746">2609.02746</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03220.html">Discretization-Aware Fine-Tuning for Quantum Machine Learning with Chemical Foundation Models</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Shunji Matsuura et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03220">2609.03220</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25893.html">A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Yikun Han et al.</td>
@@ -1538,17 +1550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07887.html">A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Katherine Berry et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07887">2509.07887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00716.html">Nested Graph Pseudo-Label Refinement for Noisy Label Domain Adaptation Learning</a></div></td>
-<td>Yingxu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00716">2508.00716</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06717.html">HiPrFlame-An ab initio based real-fluid modeling approach for high-pressure combustion-I. Rationale, methodology, and application to laminar premixed flames</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06717">2509.06717</a></td>
 </tr>
 </tbody></table>

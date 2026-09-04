@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1553 papers</span>
+  <span class="paper-count">1552 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03486.html">Structural control over equilibrium silicon and oxygen isotopic fractionation: A first-principles density-functional theory study</a></div></td>
+<td>Merlin Méheut et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03486">2609.03486</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03772.html">Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets</a></div></td>
+<td>Xing-Yao Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03772">2609.03772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03888.html">Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Virginie de Mestral et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03888">2609.03888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04027.html">Cavity Ring-Down Spectroscopy at Benchmark-Level Sub-Permille Accuracy Enabled by a System-Level Detection Transfer Function</a></div></td>
+<td>Rajesh Chell et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04027">2609.04027</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
@@ -26,6 +50,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Tianyu Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03041.html">Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Ritam Chakraborty et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03041">2609.03041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Eslam Ibrahim et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -9290,47 +9326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07554.html">Atomic Layer Etching of Aluminum Nitride: Mechanistic Insights from First-Principles Studies of Chlorine Chemistry</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Sanjay Nayak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07554">2509.07554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01403.html">Accelerating point defect photo-emission calculations with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Kartikeya Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01403">2505.01403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13744.html">Early Stages of Self-Healing at Tungsten Grain Boundaries from Ab Initio Machine Learning Simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jorge Suárez-Recio et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13744">2505.13744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18354.html">High-precision Penning trap mass measurements of neutron-rich chlorine isotopes at the N=28 shell closure</a></div></td>
-<td>H. Erington et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18354">2505.18354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06525.html">GPUTB: Efficient Machine Learning Tight-Binding Method for Large-Scale Electronic Properties Calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yunlong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06525">2509.06525</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06717.html">HiPrFlame-An ab initio based real-fluid modeling approach for high-pressure combustion-I. Rationale, methodology, and application to laminar premixed flames</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06717">2509.06717</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06812.html">Ab initio calculations of beta-decay half-lives for $N=50$ neutron-rich nuclei</a></div></td>
-<td>Zhen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06812">2509.06812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06823.html">Spin-dependent transport in Fe${_3}$GaTe${_2}$ and Fe${_n}$GeTe${_2}$ ($n$=3-5) van der Waals ferromagnets for magnetic tunnel junctions</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Anita Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06823">2509.06823</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2029 papers</span>
+  <span class="paper-count">2033 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,66 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03419.html">In defence of the Ehrenfest mean-field molecular dynamics</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Vladimir U. Nazarov</td>
+<td><a href="http://arxiv.org/abs/2609.03419">2609.03419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03513.html">Competing lattice structures induced by Sn substitution in CsV$_3$Sb$_5$</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Anshu Kataria et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03513">2609.03513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yusuke Nishiya et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03518">2609.03518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03545.html">Influence of configuration-interaction on isospin impurities and isospin symmetry breaking corrections to superallowed $0^+\rightarrow 0^+$ beta decays</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Jakub Wysocki et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03545">2609.03545</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03578.html">High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Sanchali Mitra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03578">2609.03578</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Amogh U. Lanjewar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03717">2609.03717</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03757.html">Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td>Dipanwita Mitra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03757">2609.03757</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03888.html">Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Virginie de Mestral et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03888">2609.03888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03903.html">Reduced-basis method for linear response within nuclear density functional theory</a></div></td>
+<td>Nobuo Hinohara et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03903">2609.03903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03942.html">Diabatic Seam Space Sampling for Hydrogen Tunneling Systems with Nuclear-Electronic Orbital Theory</a></div><div class="paper-tags"><a href="string-method-360d.html">string-method</a></div></td>
+<td>Joseph A. Dickinson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03942">2609.03942</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02148.html">Charge-Transfer Electronic Structure of NiX$_2$ (X = S, Se)</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
@@ -44,6 +104,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Tianyu Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03041.html">Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Ritam Chakraborty et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03041">2609.03041</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -12146,47 +12212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08143.html">Electronic Fluctuations and Ionic Dynamics in Molten Silver Iodide</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Harender S. Dhattarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08143">2509.08143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01403.html">Accelerating point defect photo-emission calculations with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Kartikeya Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01403">2505.01403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13744.html">Early Stages of Self-Healing at Tungsten Grain Boundaries from Ab Initio Machine Learning Simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jorge Suárez-Recio et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13744">2505.13744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06488.html">Mexican hat-like valence band dispersion and quantum confinement in rhombohedral ferroelectric alpha-In2Se3</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Geoffroy Kremer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06488">2509.06488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06719.html">Towards Accurate and Scalable High-throughput MOF Adsorption Screening: Merging Classical Force Fields and Universal Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="mof-360d.html">mof</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Satyanarayana Bonakala et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06719">2509.06719</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06823.html">Spin-dependent transport in Fe${_3}$GaTe${_2}$ and Fe${_n}$GeTe${_2}$ ($n$=3-5) van der Waals ferromagnets for magnetic tunnel junctions</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Anita Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06823">2509.06823</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07152.html">Computational and Experimental Investigation of Chiral and Achiral 2D Organic Lead Bromide Perovskites: Octahedral Distortions and Electronic and Optical Properties</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Md Mehdi Masud et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07152">2509.07152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07180.html">Effective Atom Theory: Gradient-Driven ab initio Materials Design</a></div></td>
-<td>Justin Tahmassebpur et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07180">2509.07180</a></td>
 </tr>
 </tbody></table>

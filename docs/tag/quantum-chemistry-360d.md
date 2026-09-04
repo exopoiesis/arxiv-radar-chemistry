@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03168.html">Stochastic Tensor Contraction for Efficient MP2 Exchange</a></div></td>
+<td>Jiace Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03168">2609.03168</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01871.html">Latent unified smooth Hamiltonians for excited state chemistry</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>David Juergens et al.</td>
@@ -2180,11 +2186,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.20464.html">Quantum annealing eigensolver as a NISQ era tool for probing strong correlation effects in quantum chemistry</a></div></td>
 <td>Aashna Anil Zade et al.</td>
 <td><a href="http://arxiv.org/abs/2412.20464">2412.20464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19322.html">Mixed-precision numerics in scientific applications: survey and perspectives</a></div></td>
-<td>Aditya Kashi et al.</td>
-<td><a href="http://arxiv.org/abs/2412.19322">2412.19322</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02746.html">HiPoly: a hierarchical polymer-native AI framework for property prediction and generative design</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Ge Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02746">2609.02746</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03220.html">Discretization-Aware Fine-Tuning for Quantum Machine Learning with Chemical Foundation Models</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Shunji Matsuura et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03220">2609.03220</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25893.html">A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
@@ -248,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08825.html">When Three-Dimensional Conformer Ensembles Improve Molecular Property Prediction Beyond Two-Dimensional Fingerprints: A Systematic Study</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Bryan Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08825">2606.08825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07712.html">MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Zhan&#x27;ao Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07712">2606.07712</a></td>
 </tr>
 </tbody></table>

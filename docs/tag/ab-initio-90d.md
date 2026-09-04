@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03486.html">Structural control over equilibrium silicon and oxygen isotopic fractionation: A first-principles density-functional theory study</a></div></td>
+<td>Merlin Méheut et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03486">2609.03486</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03772.html">Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets</a></div></td>
+<td>Xing-Yao Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03772">2609.03772</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03888.html">Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Virginie de Mestral et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03888">2609.03888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04027.html">Cavity Ring-Down Spectroscopy at Benchmark-Level Sub-Permille Accuracy Enabled by a System-Level Detection Transfer Function</a></div></td>
+<td>Rajesh Chell et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04027">2609.04027</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Daniel Duarte-Ruiz et al.</td>
@@ -26,6 +50,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Tianyu Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03041.html">Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Ritam Chakraborty et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03041">2609.03041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Eslam Ibrahim et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -1742,41 +1778,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08333.html">Nearly ballistic transport and high magnetic-field sensitivity in a $\text{Bi}_4\text{Br}_4$ topological Josephson weak link</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Enamul Haque et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08333">2606.08333</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06848.html">Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
-<td>Sijia Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06848">2606.06848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07042.html">Unravelling the Role of Stacking Disorder on the Optoelectronic Properties of Zn3P2</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Francesco Salutari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07042">2606.07042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07095.html">Cocktail effect and robust Berry curvature driven anomalous Hall conductivity in the entropy-stabilized Heusler alloy Co$_2$(Ti$_{0.25}$V$_{0.25}$Cr$_{0.25}$Fe$_{0.25}$)Al</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Suraj Kushwaha et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07095">2606.07095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07184.html">Multiband superconductivity in the kagome-lattice superconductor Re2Zr</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Gabriel Kuderowicz et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07184">2606.07184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07378.html">Ferroelectrical Switching as a Probe of Quantum Damping in Magnetic Spin Systems</a></div></td>
-<td>Yuefei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07378">2606.07378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07465.html">Proton and Neutron Elastic Scattering on He Targets from $\textit{Ab Initio}$ SA-NCSM Optical Potentials</a></div></td>
-<td>Darin C. Mumma et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07465">2606.07465</a></td>
 </tr>
 </tbody></table>

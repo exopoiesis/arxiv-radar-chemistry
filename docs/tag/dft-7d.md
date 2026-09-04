@@ -16,6 +16,66 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03419.html">In defence of the Ehrenfest mean-field molecular dynamics</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Vladimir U. Nazarov</td>
+<td><a href="http://arxiv.org/abs/2609.03419">2609.03419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03513.html">Competing lattice structures induced by Sn substitution in CsV$_3$Sb$_5$</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Anshu Kataria et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03513">2609.03513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Yusuke Nishiya et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03518">2609.03518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03545.html">Influence of configuration-interaction on isospin impurities and isospin symmetry breaking corrections to superallowed $0^+\rightarrow 0^+$ beta decays</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Jakub Wysocki et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03545">2609.03545</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03578.html">High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Sanchali Mitra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03578">2609.03578</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>Amogh U. Lanjewar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03717">2609.03717</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03757.html">Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
+<td>Dipanwita Mitra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03757">2609.03757</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03888.html">Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Virginie de Mestral et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03888">2609.03888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03903.html">Reduced-basis method for linear response within nuclear density functional theory</a></div></td>
+<td>Nobuo Hinohara et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03903">2609.03903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03942.html">Diabatic Seam Space Sampling for Hydrogen Tunneling Systems with Nuclear-Electronic Orbital Theory</a></div><div class="paper-tags"><a href="string-method-7d.html">string-method</a></div></td>
+<td>Joseph A. Dickinson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03942">2609.03942</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02148.html">Charge-Transfer Electronic Structure of NiX$_2$ (X = S, Se)</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Atsushi Hariki et al.</td>
@@ -44,6 +104,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Tianyu Kong et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03041.html">Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Ritam Chakraborty et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03041">2609.03041</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -128,71 +194,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28521.html">Modifying van der Waals Materials via Cavity Vacuum Fluctuations</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
 <td>Mohammad Hassan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.28521">2608.28521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13427.html">Modeling Bond-Dependent Kitaev-like interaction in 2D Edge-Sharing Tetrahedral Magnets: FeX (X=Te, Se)</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Mengdong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13427">2608.13427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26652.html">Strain-driven orbital-selective reconstruction and bicollinear-to-stripe evolution in FeTe</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Zhenfeng Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26652">2608.26652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26954.html">Decoupled domain-texture switching from magnetic easy axis in kagome ferromagnet EuTi3Bi4</a></div></td>
-<td>Yunhao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26954">2608.26954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Z. S. Machavariani et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26977">2608.26977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27008.html">Topology-Controlled Phonon Dielectric Response Beyond Density Scaling in Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Debayan Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27008">2608.27008</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27025.html">Intrinsic anomalous Hall response in the bilayer kagome ferromagnet Co$_3$Sn</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Yuqi Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27025">2608.27025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27277.html">Benchmarking of Fast and Interpretable UF Machine Learning Potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Pawan Prakash et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27277">2608.27277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27401.html">An Equation of State for Supercritical Silicate-Hydrogen Mixtures at Sub-Neptune Interior Conditions</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Sarah P. Marcum et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27401">2608.27401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Manasa Kaniselvan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27643.html">LDA-1/2 for Molecular Systems: A Real-Space Finite-Element Benchmark on the GW100 Set</a></div></td>
-<td>Dongming Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27643">2608.27643</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27747.html">Electronic structure, magnetic interactions, and magnonics of 2D trichloride materials</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Krishna Prasad Chapai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27747">2608.27747</a></td>
 </tr>
 </tbody></table>

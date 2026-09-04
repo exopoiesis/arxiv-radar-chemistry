@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01376.html">Phase structure of magnetized quark matter at imaginary chemical potential</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>J. P. Carlomagno et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01376">2609.01376</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01777.html">TREMORS: An Agentic Assistant for Multi-Datacenter Seismic Data Acquisition</a></div></td>
+<td>Ryley G. Hill et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01777">2609.01777</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-28</td>
@@ -398,17 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09612.html">Revealing Wavelength- and Size-Dependent CO2 Reduction Selectivity via Operando Scanning Photo-Electrochemical Microscopy</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Fatemeh Kiani et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09612">2606.09612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06848.html">Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="umbrella-sampling-90d.html">umbrella-sampling</a></div></td>
-<td>Sijia Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06848">2606.06848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06984.html">Accelerating Multi-Objective Bayesian Optimisation via Predictive-Gradient Catalysts</a></div></td>
-<td>Alma Rahat et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06984">2606.06984</a></td>
 </tr>
 </tbody></table>

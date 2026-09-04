@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1540 papers</span>
+  <span class="paper-count">1542 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03419.html">In defence of the Ehrenfest mean-field molecular dynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Vladimir U. Nazarov</td>
+<td><a href="http://arxiv.org/abs/2609.03419">2609.03419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03510.html">Interplay of B-Site Off-Centering and Molecular Orientations in the Mixed Hybrid Perovskite MAGe1xSnxI3</a></div></td>
+<td>Erik Fransson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03510">2609.03510</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Yusuke Nishiya et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03518">2609.03518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03578.html">High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Sanchali Mitra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03578">2609.03578</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03587.html">Charge Regulated conformational properties of polyelectrolyte near an oppositely charged nanoparticle</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Kawaljeet Kaur et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03587">2609.03587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03606.html">Frenkel line of Yukawa fluids within the self-consistent relaxation theory</a></div></td>
+<td>Ilnaz I. Fairushin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03606">2609.03606</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02397.html">Molecular-dynamics-based modal analysis of heat transport in quasi-one-dimensional systems from a symmetry-adapted perspective</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
@@ -44,6 +80,24 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02824.html">Low-Temperature Transport in Li-Ion Battery EC/EMC/FEC Electrolytes: Molecular Dynamics and Machine-Learning Modeling</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
 <td>İpek Yenda Çınar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02824">2609.02824</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
+<td>Eslam Ibrahim et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03182.html">An Integrative Computational Approach to Predict Viral Epitopes by Targeting the MHC-TCR Complexation</a></div></td>
+<td>Jaya Vasavi Pamidimukkala et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03182">2609.03182</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03211.html">Thermal history controls the optoelectronic response of lead halide perovskites through structure and dynamics</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Milos Dubajic et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03211">2609.03211</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -9212,47 +9266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07340.html">Model Order Reduction for Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Siu Wun Cheung et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07340">2509.07340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07798.html">Mechanical Amorphization of Glass-Forming Systems Induced by Oscillatory Deformation: The Energy Absorption and Efficiency Control</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Baoshuang Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07798">2504.07798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13744.html">Early Stages of Self-Healing at Tungsten Grain Boundaries from Ab Initio Machine Learning Simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Jorge Suárez-Recio et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13744">2505.13744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06399.html">Computational Insight into the Complexation of DNA-Functionalized Gold Nanoparticles</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>J. Hingies Monisha et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06399">2509.06399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06512.html">Non-linear jog-dragging effect on the mobility law of edge dislocations in face-centered cubic nickel</a></div></td>
-<td>Wu-Rong Jian et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06512">2509.06512</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06528.html">Mechanisms of Chain Exchange in Diblock Copolymer Micelles</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="string-method-360d.html">string-method</a></div></td>
-<td>Samuel Varner et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06528">2509.06528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06755.html">Transitional patterns on a spherical surface: from scars to domain defects of mixed lattices</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Wenyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06755">2509.06755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07197.html">Grain Boundary Anisotropy and Its Influence on Helium Bubble Nucleation, Growth, and Decohesion in Polycrystalline Iron</a></div></td>
-<td>Yang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07197">2509.07197</a></td>
 </tr>
 </tbody></table>

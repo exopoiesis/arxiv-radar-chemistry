@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">371 papers</span>
+  <span class="paper-count">370 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2234,11 +2234,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07853.html">Decoratypes: An Extensible Crystal Taxonomy for Machine Learning-Guided Materials Discovery</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Kyle D. Miller et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07853">2509.07853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07798.html">Mechanical Amorphization of Glass-Forming Systems Induced by Oscillatory Deformation: The Energy Absorption and Efficiency Control</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Baoshuang Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07798">2504.07798</a></td>
 </tr>
 </tbody></table>

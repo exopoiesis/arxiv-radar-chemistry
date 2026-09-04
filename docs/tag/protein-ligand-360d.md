@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,17 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07887.html">A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Katherine Berry et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07887">2509.07887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06399.html">Computational Insight into the Complexation of DNA-Functionalized Gold Nanoparticles</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>J. Hingies Monisha et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06399">2509.06399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12232.html">Towards High-Performance and Portable Molecular Docking on CPUs through Vectorization</a></div></td>
-<td>Gianmarco Accordi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12232">2509.12232</a></td>
 </tr>
 </tbody></table>

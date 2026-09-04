@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>retrosynthesis — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <strong>90d</strong> <a href="retrosynthesis-360d.html">360d</a> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02268.html">Retrosynthesis of Synthetic Media for Explainable AI Provenance Forensics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Yijie Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02268">2609.02268</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01816.html">Video2Reaction: Training Foundation Video Models to Predict Audience Reaction</a></div></td>
+<td>Sidong Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01816">2609.01816</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27429.html">Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
@@ -116,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12113.html">Augmenting Molecular Language Models with Local $n$-gram Memory</a></div><div class="paper-tags"><a href="molecular-llm-90d.html">molecular-llm</a></div></td>
 <td>Xinni Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12113">2606.12113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07181.html">RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Raja Sekhar Pappala et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07181">2606.07181</a></td>
 </tr>
 </tbody></table>

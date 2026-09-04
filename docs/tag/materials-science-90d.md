@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,17 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08238.html">GPT-Micro: A large language paradigm for accelerated, inexpensive, and thermodynamics-consistent discovery of constitutive models in manufacturing</a></div></td>
 <td>Soumik Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2606.08238">2606.08238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07712.html">MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Zhan&#x27;ao Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07712">2606.07712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07850.html">PDE-Agents: An LLM-Orchestrated Multi-Agent Framework for Automated Finite Element Simulations with Knowledge Graph-Augmented Reasoning</a></div></td>
-<td>Sayan Adhikari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07850">2606.07850</a></td>
 </tr>
 </tbody></table>

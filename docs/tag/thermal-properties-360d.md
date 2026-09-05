@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">291 papers</span>
+  <span class="paper-count">288 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1742,23 +1742,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.19190.html">Prediction and identification of point defect fingerprints in X-ray photoelectron spectra of TiN$_x$ with 1.18 $\le x \le$ 1.37</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Pavel Ondračka et al.</td>
 <td><a href="http://arxiv.org/abs/2403.19190">2403.19190</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11629.html">Ammonia Synthesis under Ambient Conditions: Insights into Water-Nitrogen-Magnetite Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sruthy K. Chandy et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11629">2504.11629</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07631.html">Electronic structure and thermoelectric properties of CoTiSi half-Heusler alloy: Doping overtones</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>A. Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07631">2509.07631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07679.html">Magnetostriction as the origin of the magnetodielectric effect in La2CoMnO6</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>M. Boldrin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07679">2509.07679</a></td>
 </tr>
 </tbody></table>

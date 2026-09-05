@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,23 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08095.html">Nonadiabatic Molecular Dynamics on Real-time Excited-State Surfaces via Machine Learning Hamiltonians</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
 <td>Changwei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08095">2608.08095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04638.html">The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Torsten Geirsson et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04638">2608.04638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04662.html">Time-resolved THz Stark spectroscopy of molecules in water</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Elnaz Zyaee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04662">2608.04662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05068.html">Effective single particle picture for anharmonic lattice dynamics: a Rosetta stone for electronic and ionic response</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Giovanni Caldarelli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05068">2608.05068</a></td>
 </tr>
 </tbody></table>

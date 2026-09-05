@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,23 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05590.html">X-ray Driven Trihydrogen Formation on Silica Nanosurfaces</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Samuel Sahel-Schackis et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05590">2608.05590</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04476.html">Heralded Non-Gaussian Squeezed-State Inputs for Parity-Detection SU(1,1) Interferometry</a></div></td>
-<td>Lifen Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04476">2608.04476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04986.html">Magnetic catalysis and Hall conductivity of excitonic insulators in a planar four-Fermi model</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>William R. Tavares et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04986">2608.04986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05120.html">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a></div></td>
-<td>Roberto Aliaga Medina et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05120">2608.05120</a></td>
 </tr>
 </tbody></table>

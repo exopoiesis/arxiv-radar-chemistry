@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">337 papers</span>
+  <span class="paper-count">334 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2018,23 +2018,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08616.html">Impact of shape coexistence on the symmetric to asymmetric fission mode transition in Th isotopes</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Shengyuan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08616">2508.08616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11629.html">Ammonia Synthesis under Ambient Conditions: Insights into Water-Nitrogen-Magnetite Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sruthy K. Chandy et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11629">2504.11629</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06623.html">Neural Operators for Forward and Inverse Potential-Density Mappings in Classical Density Functional Theory</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Runtong Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06623">2506.06623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07970.html">Two-legged approximation for building non-empirical hybrids and analyzing correlation at finite temperature</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Brittany P. Harding et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07970">2509.07970</a></td>
 </tr>
 </tbody></table>

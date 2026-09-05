@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2033 papers</span>
+  <span class="paper-count">2021 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12140,77 +12140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09002.html">Revisiting intrinsic spin defects in hexagonal boron nitride with r2SCAN</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Petros-Panagis Filippatos et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09002">2509.09002</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06623.html">Neural Operators for Forward and Inverse Potential-Density Mappings in Classical Density Functional Theory</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Runtong Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06623">2506.06623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07326.html">Bayesian Prior Construction for Uncertainty Quantification in First-Principles Statistical Mechanics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Derick E. Ober et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07326">2509.07326</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07340.html">Model Order Reduction for Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Siu Wun Cheung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07340">2509.07340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07366.html">Alter-magnetic properties in the perovskite compounds</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Sining Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07366">2509.07366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07417.html">Benchmarking Universal Interatomic Potentials on Zeolite Structures</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Shusuke Ito et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07417">2509.07417</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07494.html">First-principles study of formic acid decomposition on single Pt atoms supported on heteroatom-doped graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Kazuma Sato et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07494">2509.07494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07554.html">Atomic Layer Etching of Aluminum Nitride: Mechanistic Insights from First-Principles Studies of Chlorine Chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Sanjay Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07554">2509.07554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07631.html">Electronic structure and thermoelectric properties of CoTiSi half-Heusler alloy: Doping overtones</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>A. Shukla et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07631">2509.07631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07668.html">Selective band engineering of Bi/Si(111) by boron segregation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>E. Barre et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07668">2509.07668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07679.html">Magnetostriction as the origin of the magnetodielectric effect in La2CoMnO6</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>M. Boldrin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07679">2509.07679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07970.html">Two-legged approximation for building non-empirical hybrids and analyzing correlation at finite temperature</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Brittany P. Harding et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07970">2509.07970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08143.html">Electronic Fluctuations and Ionic Dynamics in Molten Silver Iodide</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Harender S. Dhattarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08143">2509.08143</a></td>
 </tr>
 </tbody></table>

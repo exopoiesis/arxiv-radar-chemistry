@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1542 papers</span>
+  <span class="paper-count">1537 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9236,35 +9236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08734.html">DEQuify your force field: More efficient simulations using deep equilibrium models</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Andreas Burger et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08734">2509.08734</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.17319.html">MDDM: A Molecular Dynamics Diffusion Model to Predict Particle Self-Assembly</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Kevin Ferguson et al.</td>
-<td><a href="http://arxiv.org/abs/2501.17319">2501.17319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11629.html">Ammonia Synthesis under Ambient Conditions: Insights into Water-Nitrogen-Magnetite Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sruthy K. Chandy et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11629">2504.11629</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15587.html">Investigating the sliding behavior of graphene nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Gourav Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15587">2508.15587</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07326.html">Bayesian Prior Construction for Uncertainty Quantification in First-Principles Statistical Mechanics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Derick E. Ober et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07326">2509.07326</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07340.html">Model Order Reduction for Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Siu Wun Cheung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07340">2509.07340</a></td>
 </tr>
 </tbody></table>

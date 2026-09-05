@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,53 +878,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06309.html">Metal-Coordination Effects on the Stability and ORR/OER Activity of Layered Organometallic Single-Atom Catalysts: A Theoretical Study</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
 <td>Pedro H. Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06309">2608.06309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02770.html">Broken site symmetry of Fe adatoms on Bi$_2$Te$_3$</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Duy Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02770">2608.02770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04638.html">The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Torsten Geirsson et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04638">2608.04638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04662.html">Time-resolved THz Stark spectroscopy of molecules in water</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Elnaz Zyaee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04662">2608.04662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04742.html">Atomic Scale Ordering of Sulfur Vacancies Enhances Charge Transport in Monolayer MoS$_2$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Alessandro Pecchia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04742">2608.04742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04806.html">An Exchange-Correlation Functional for Fast and Accurate Modeling of Ferroelectric Perovskites</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Owain T. Beynon et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04806">2608.04806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04841.html">Structural Chirality from Short-Range Order in Heteroanionic Materials</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Benjamin J. Morgan</td>
-<td><a href="http://arxiv.org/abs/2608.04841">2608.04841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05068.html">Effective single particle picture for anharmonic lattice dynamics: a Rosetta stone for electronic and ionic response</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Giovanni Caldarelli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05068">2608.05068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05305.html">Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a></div></td>
-<td>H. Betancourt-Infante et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05305">2608.05305</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,17 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06309.html">Metal-Coordination Effects on the Stability and ORR/OER Activity of Layered Organometallic Single-Atom Catalysts: A Theoretical Study</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
 <td>Pedro H. Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06309">2608.06309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04742.html">Atomic Scale Ordering of Sulfur Vacancies Enhances Charge Transport in Monolayer MoS$_2$</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Alessandro Pecchia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04742">2608.04742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04813.html">Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics</a></div></td>
-<td>Edgars Butanovs et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04813">2608.04813</a></td>
 </tr>
 </tbody></table>

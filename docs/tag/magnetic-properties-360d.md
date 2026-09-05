@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">349 papers</span>
+  <span class="paper-count">347 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2096,17 +2096,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09002.html">Revisiting intrinsic spin defects in hexagonal boron nitride with r2SCAN</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Petros-Panagis Filippatos et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09002">2509.09002</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07679.html">Magnetostriction as the origin of the magnetodielectric effect in La2CoMnO6</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>M. Boldrin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07679">2509.07679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07784.html">Valley Order in Moiré Topological Insulators</a></div></td>
-<td>Bo Zou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07784">2509.07784</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07081.html">Local lattice dynamics of hcp zinc from EXAFS and machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Vitalijs Dimitrijevs et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07081">2608.07081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04806.html">An Exchange-Correlation Functional for Fast and Accurate Modeling of Ferroelectric Perovskites</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Owain T. Beynon et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04806">2608.04806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05388.html">Next Generation of Ultra-Coarse-Graining: Self-Consistent Inference of Critical Internal States</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Weizhi Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05388">2608.05388</a></td>
 </tr>
 </tbody></table>

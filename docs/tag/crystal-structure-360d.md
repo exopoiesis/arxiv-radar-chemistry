@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">264 papers</span>
+  <span class="paper-count">262 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1586,17 +1586,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02413.html">Electric-Field Driven Nuclear Dynamics of Liquids and Solids from a Multi-Valued Machine-Learned Dipolar Model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Elia Stocco et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02413">2502.02413</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07366.html">Alter-magnetic properties in the perovskite compounds</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Sining Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07366">2509.07366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07679.html">Magnetostriction as the origin of the magnetodielectric effect in La2CoMnO6</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>M. Boldrin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07679">2509.07679</a></td>
 </tr>
 </tbody></table>

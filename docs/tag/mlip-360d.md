@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">580 papers</span>
+  <span class="paper-count">577 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3476,23 +3476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10270.html">Physical embedding machine learning force fields for organic systems</a></div></td>
 <td>Junbao Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10270">2509.10270</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08497.html">Visualizing phonon edge states on molybdenum disulphide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Patrick Giese et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08497">2509.08497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08498.html">Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pjotrs Žguns et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08498">2509.08498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08734.html">DEQuify your force field: More efficient simulations using deep equilibrium models</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Andreas Burger et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08734">2509.08734</a></td>
 </tr>
 </tbody></table>

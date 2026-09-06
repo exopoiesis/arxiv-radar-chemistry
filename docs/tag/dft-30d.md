@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,23 +860,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06759.html">Optical Anisotropy and Phase Matching in Non-Centrosymmetric Perovskite Oxides from DFT+U and DFT+U+V Functionals</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
 <td>Mohamed S. M. M. Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06759">2608.06759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05590.html">X-ray Driven Trihydrogen Formation on Silica Nanosurfaces</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Samuel Sahel-Schackis et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05590">2608.05590</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05682.html">A Damped Subspace Splitting Algorithm for Constrained Density Functional Theory</a></div></td>
-<td>Yuanming Su et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05682">2608.05682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06309.html">Metal-Coordination Effects on the Stability and ORR/OER Activity of Layered Organometallic Single-Atom Catalysts: A Theoretical Study</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
-<td>Pedro H. Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06309">2608.06309</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">532 papers</span>
+  <span class="paper-count">527 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3176,35 +3176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10207.html">Magnetism Induced by Azanide and Ammonia Adsorption in Defective Molybdenum Disulfide and Diselenide: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Guilherme S. L. Fabris et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10207">2509.10207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08223.html">Generative Quasi-Continuum Modeling of Confined Fluids at the Nanoscale</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Bugra Yalcin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08223">2509.08223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08275.html">Controlling GaN nucleation via O$_2$-plasma-perforated graphene masks on c-plane sapphire</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Su Young An et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08275">2509.08275</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08339.html">Ultrafast Spin Injection in Graphene via Dynamical Carrier Filtering at Transition Metal Dichalcogenide Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Shunsuke Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08339">2509.08339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08352.html">Comprehensive Structure Exploration and Thermodynamics of Heteroatom Doped Graphene Superstructures</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Benedict Saunders et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08352">2509.08352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08993.html">Non-monotonic band flattening near the magic angle of twisted bilayer MoTe$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Yujun Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08993">2509.08993</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,23 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12020.html">Tuning the Magnetic Anisotropy Energy of MoS$_2$-supported Mn$_{12}$ complexes by Electric Field: A First-Principles Study</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Shuanglong Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12020">2509.12020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08339.html">Ultrafast Spin Injection in Graphene via Dynamical Carrier Filtering at Transition Metal Dichalcogenide Interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Shunsuke Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08339">2509.08339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08497.html">Visualizing phonon edge states on molybdenum disulphide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Patrick Giese et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08497">2509.08497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09002.html">Revisiting intrinsic spin defects in hexagonal boron nitride with r2SCAN</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Petros-Panagis Filippatos et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09002">2509.09002</a></td>
 </tr>
 </tbody></table>

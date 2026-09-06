@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1537 papers</span>
+  <span class="paper-count">1531 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9200,41 +9200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02413.html">Electric-Field Driven Nuclear Dynamics of Liquids and Solids from a Multi-Valued Machine-Learned Dipolar Model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Elia Stocco et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02413">2502.02413</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00759.html">Decomposition of general grain boundaries</a></div></td>
-<td>Wei Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00759">2507.00759</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03084.html">SurGBSA: Learning Representations From Molecular Dynamics Simulations</a></div></td>
-<td>Derek Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03084">2509.03084</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08223.html">Generative Quasi-Continuum Modeling of Confined Fluids at the Nanoscale</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Bugra Yalcin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08223">2509.08223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08497.html">Visualizing phonon edge states on molybdenum disulphide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Patrick Giese et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08497">2509.08497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08498.html">Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Pjotrs Žguns et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08498">2509.08498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08734.html">DEQuify your force field: More efficient simulations using deep equilibrium models</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Andreas Burger et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08734">2509.08734</a></td>
 </tr>
 </tbody></table>

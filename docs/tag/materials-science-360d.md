@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">368 papers</span>
+  <span class="paper-count">367 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2216,11 +2216,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09882.html">Quantum Computing Technology Roadmaps and Capability Assessment for Scientific Computing -- An analysis of use cases from the NERSC workload</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Daan Camps et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09882">2509.09882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08352.html">Comprehensive Structure Exploration and Thermodynamics of Heteroatom Doped Graphene Superstructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Benedict Saunders et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08352">2509.08352</a></td>
 </tr>
 </tbody></table>

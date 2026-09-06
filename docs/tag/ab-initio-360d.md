@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1548 papers</span>
+  <span class="paper-count">1541 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9260,47 +9260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09216.html">Projector Method for Nonlinear Light-Matter Interactions and Quantum Geometry</a></div></td>
 <td>Zhichao Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09216">2509.09216</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21749.html">Ge-based Clinopyroxene series: first principles and experimental local probe study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Ricardo P. Moreira et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21749">2407.21749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21651.html">Pressure and strain effects on the $\textit{ab initio}$ $GW$ electronic structure of La$_3$Ni$_2$O$_7$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Jean-Baptiste de Vaulx et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21651">2504.21651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08223.html">Generative Quasi-Continuum Modeling of Confined Fluids at the Nanoscale</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Bugra Yalcin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08223">2509.08223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08339.html">Ultrafast Spin Injection in Graphene via Dynamical Carrier Filtering at Transition Metal Dichalcogenide Interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Shunsuke Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08339">2509.08339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08418.html">Facet: highly efficient E(3)-equivariant networks for interatomic potentials</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Nicholas Miklaucic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08418">2509.08418</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08498.html">Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pjotrs Žguns et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08498">2509.08498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08579.html">Lattice calculation of the Sn isotopes near the proton dripline</a></div></td>
-<td>Fabian Hildenbrand et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08579">2509.08579</a></td>
 </tr>
 </tbody></table>

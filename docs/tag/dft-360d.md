@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2021 papers</span>
+  <span class="paper-count">2011 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12080,65 +12080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08616.html">Impact of shape coexistence on the symmetric to asymmetric fission mode transition in Th isotopes</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Shengyuan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08616">2508.08616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21749.html">Ge-based Clinopyroxene series: first principles and experimental local probe study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Ricardo P. Moreira et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21749">2407.21749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07538.html">Efficient plane-wave approach to generalized Kohn-Sham density-functional theory of solids with mixed deterministic/stochastic exchange</a></div></td>
-<td>Tucker Allen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07538">2503.07538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16363.html">Exact static linear response of excited states from ensemble density functional theory</a></div></td>
-<td>Lucien Dupuy et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16363">2506.16363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08245.html">Configuration-interaction calculations with density-functional theory molecular orbitals for modeling valence- and core-excited states in molecules</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Giorgio Visentin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08245">2509.08245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08339.html">Ultrafast Spin Injection in Graphene via Dynamical Carrier Filtering at Transition Metal Dichalcogenide Interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Shunsuke Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08339">2509.08339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08352.html">Comprehensive Structure Exploration and Thermodynamics of Heteroatom Doped Graphene Superstructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Benedict Saunders et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08352">2509.08352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08497.html">Visualizing phonon edge states on molybdenum disulphide</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Patrick Giese et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08497">2509.08497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08498.html">Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pjotrs Žguns et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08498">2509.08498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08993.html">Non-monotonic band flattening near the magic angle of twisted bilayer MoTe$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Yujun Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08993">2509.08993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09002.html">Revisiting intrinsic spin defects in hexagonal boron nitride with r2SCAN</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Petros-Panagis Filippatos et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09002">2509.09002</a></td>
 </tr>
 </tbody></table>

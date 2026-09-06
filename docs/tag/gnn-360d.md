@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">389 papers</span>
+  <span class="paper-count">386 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2330,23 +2330,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10448.html">MatSKRAFT: A framework for large-scale materials knowledge extraction from scientific tables</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Kausik Hira et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10448">2509.10448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03031.html">Decoding the Stability of Transition-Metal Alloys with Theory-infused Deep Learning</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Yang Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03031">2506.03031</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08418.html">Facet: highly efficient E(3)-equivariant networks for interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Nicholas Miklaucic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08418">2509.08418</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10565.html">Assessing the Limits of Graph Neural Networks for Vapor-Liquid Equilibrium Prediction: A Cryogenic Mixture Case Study</a></div></td>
-<td>Aryan Gupta</td>
-<td><a href="http://arxiv.org/abs/2509.10565">2509.10565</a></td>
 </tr>
 </tbody></table>

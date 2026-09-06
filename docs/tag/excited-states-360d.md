@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,17 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05082.html">Excited State Densities from Time-Dependent Density Functional Response Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Anna Baranova et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05082">2506.05082</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08245.html">Configuration-interaction calculations with density-functional theory molecular orbitals for modeling valence- and core-excited states in molecules</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Giorgio Visentin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08245">2509.08245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08339.html">Ultrafast Spin Injection in Graphene via Dynamical Carrier Filtering at Transition Metal Dichalcogenide Interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Shunsuke Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08339">2509.08339</a></td>
 </tr>
 </tbody></table>

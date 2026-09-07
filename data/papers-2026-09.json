@@ -2207,5 +2207,387 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-09-03"
+ },
+ "2609.04278": {
+  "abstract": "Nano self-assembly organizes molecular components into bioactive nanoscale structures. Self-assembled nanoparticles (NAPs) derived from Chinese herbal formulas and applications such as anti-lung-cancer therapy demonstrate the substantial potential of self-assembly for nanomedicine discovery. Yet discovery still relies on costly wet-lab screening, while existing machine learning approaches lack standardized tasks, effective pairwise compatibility modeling, and public benchmarks with unified evaluation. To address these limitations, we formalize NSA prediction as a binary classification task for predicting self-assembly between molecular pairs and then establish NSA-Bench, the first public benchmark with curated molecular combinations, experimental conditions, self-assembly labels, and standardized evaluation protocols. We further develop NSA-Net, an interaction-aware multimodal framework that integrates complementary molecular evidence from graph topology, sequence semantics, and physicochemical descriptors to learn molecular-pair representations for self-assembly prediction. Extensive experiments on NSA-Bench show that NSA-Net achieves a ROC-AUC of $0.9470\\pm0.0112$ (Small) and $0.9492\\pm0.0062$ (Large). On the Small track, it surpasses the strongest machine-learning and graph-based baselines by 3.9 and 17.1 percentage points, respectively. Representation analyses reveal interpretable molecular characteristics associated with self-assembly prediction captured by the learned representations. Moreover, an NSA-Agent case study further demonstrates how NSA-Net predictions can support formulation refinement through experimental-condition-aware reasoning. Our code is available at https://github.com/developer-hq/NSA-Net.",
+  "authors": [
+   "Quan Hao",
+   "Mengyue Fan",
+   "Zifan Dong",
+   "Jianduo Zhao",
+   "Changhao Xiao",
+   "Shangqing Jiao",
+   "Hao Zhang",
+   "Yudong Wang",
+   "Fei Xia",
+   "Jigang Wang",
+   "Liguo Zhang",
+   "Chong Qiu"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Quan Hao",
+  "pdf_url": "http://arxiv.org/pdf/2609.04278",
+  "primary_category": "q-bio.QM",
+  "published": "2026-09-03",
+  "tags": [],
+  "title": "Towards AI-Driven Nanomedicine Discovery: A Benchmark and Multimodal Learning Framework for Nano Self-Assembly Prediction",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04290": {
+  "abstract": "Despite increasing reliance on LLMs that reason with external evidence supplied by tools, retrieval-augmented generation, other agents, and users, how LLMs integrate such evidence into decisions they have already begun to form remains largely unclear. We present a distributional theory in which evidence shifts the receiver's distribution of initial answers, driven by a receiver prior weight and a candidate evidence tilt, leading to three predictions. First, candidates more probable to the receiver are more persuasive. Second, receivers more readily integrate characteristic errors of their own than foreign errors from different sources. Third, identical evidence can improve weaker models and harm stronger ones. We confirm these over ten million trials, twelve LLMs from four families, and eight domains, four of them scientific discovery tasks in the physical and life sciences: quantum mechanics, physics, genetics, and molecular biology. The law also yields a receiver-relative reliability frontier: receiver-congruent errors depress performance more steeply than random errors of the same rate. LLMs also integrate candidates even after internally verifying their invalidity (93-100% with propositional constraints; up to 99.4% on held-out physical and life-sciences reasoning), demonstrating evidence integration is a receiver-specific control policy over existing distributions, determined by receiver properties rather than scalar trust in the evidence source. Causal interventions show candidate integration is implemented late in the network, as a structured sequence of steps admitting external candidate answers, promoting them, and transporting them into the answer state. Representations of verification are decodable but have little causal impact on answers. A J-lens decomposition shows the state underlying verbalized verification is fully dissociable from that underlying candidate integration.",
+  "authors": [
+   "Sebastien Kawada",
+   "Manolis Kellis"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "114 pages, 16 figures, 38 tables",
+  "first_author": "Sebastien Kawada",
+  "pdf_url": "http://arxiv.org/pdf/2609.04290",
+  "primary_category": "cs.CL",
+  "published": "2026-09-03",
+  "tags": [],
+  "title": "Evidence Integration in Large Language Models",
+  "topics": [
+   "Large Language Models & Materials",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04301": {
+  "abstract": "Alzheimer's disease is a progressive neurodegenerative disorder characterized by memory loss, cognitive decline, and behavioral changes, primarily affecting the elderly. Current treatments focus on symptom management as no therapies effectively halt or reverse disease progression. Newer therapies targeting BACE1, a key enzyme in amyloid plaque formation, have shown promise in clinical trials, though they have been limited by side effects and insufficient efficacy in slowing cognitive decline. This is the first study where multi-ligand simultaneous docking (MLSD) was employed to identify potential synergistic inhibitor combinations from among thousands of small molecules that could yield better results than the current phase-III inhibitors of BACE1. The recent phase III drugs such as Atabecestat, Elenbecestat, Lanabecestat, and Verubecestat were considered to be standards for comparison in this study. A library of small molecules with known IC50 values against BACE1 was filtered for flagging Pan-Assay Interference (PAINS) and \"Brenk\" compounds. Single-ligand docking revealed individual ligand interactions with the protein, forming the basis for creating ligand pairs tested in MLSD. Among these combinations, CHEMBL4078427 and CHEMBL3656158, CHEMBL4078427 and CHEMBL3695732, Verubecestat and CHEMBL3656158, and CHEMBL4078427 and Lanabecestat demonstrated excellent binding affinity of -19.90 kcal/mol, -18.45 kcal/mol, -18.07 kcal/mol, and -17.67 kcal/mol with the protein, which is significantly greater than those of phase-III inhibitors, along with inter-ligand interactions indicative of a synergistic effect. These findings underscore the transformative potential of MLSD in identifying synergistic compound interactions, paving the way for novel combination therapies in the treatment of Alzheimer's disease.",
+  "authors": [
+   "Pronama Biswas",
+   "Surya Shanbhog",
+   "Merla Sudha",
+   "Belaguppa Manjunath Ashwin Desai"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": "\\c{opyright} 2025 by the Author(s). This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution 4.0 International License",
+  "first_author": "Pronama Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2609.04301",
+  "primary_category": "q-bio.BM",
+  "published": "2026-09-03",
+  "tags": [
+   "protein-ligand"
+  ],
+  "title": "Advancing Alzheimer's Disease Treatment: Synergistic Ligand Combinations Targeting BACE1 via Multi-Ligand Simultaneous Docking",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04465": {
+  "abstract": "Physical equations in protein modeling appear to have been replaced by generative models trained directly on structure data. By learning a mapping from noise to data, sampling de novo protein structures has become much more efficient. However, such models can also learn non-physical features and break down with out-of-distribution settings which are typical in protein design campaigns. In this review, we highlight where the physics persists in protein generative modeling pipelines and the issues that linger when physically relevant components of a macromolecular system are left unmodeled. We present a perspective that respecting the underlying physics of macromolecular systems, increasingly through learned representations that are physically grounded and updating generative models with experimental data, is foundational to generative modeling for functional protein design.",
+  "authors": [
+   "Tianyu Lu",
+   "Po-Ssu Huang"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Tianyu Lu",
+  "pdf_url": "http://arxiv.org/pdf/2609.04465",
+  "primary_category": "q-bio.BM",
+  "published": "2026-09-03",
+  "tags": [
+   "drug-discovery",
+   "generative-model",
+   "protein-structure"
+  ],
+  "title": "The physical foundation beneath protein generative modeling",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04516": {
+  "abstract": "Recent work on controllable music generation has focused on autoregressive models, leaving diffusion-based systems comparatively underexplored. We present a lightweight method for steering the pitch content of audio produced by Stable Audio Open, a latent diffusion model for music synthesis. A small convolutional probe containing approximately 125k parameters is trained to decode frame-level pitch-class activations from the model's variational autoencoder latent space, using paired audio and MIDI data. At inference time, the frozen probe serves as a differentiable loss function: its gradient with respect to the denoising latent is used to nudge generation toward a user-specified pitch-class sequence, requiring no retraining or architectural modification of the base model. Across 27 evaluation trials spanning 9 text prompts and 3 target melodies, probe-guided generation increases melodic coherence by 2.4x over the unguided baseline (p < 1e-5, Wilcoxon signed-rank test), demonstrating that musically meaningful structure is both recoverable and steerable in diffusion-based music latent spaces.",
+  "authors": [
+   "Yushi Ye",
+   "Wilson Zheng",
+   "Yongyi Zang"
+  ],
+  "categories": [
+   "cs.SD",
+   "cs.AI"
+  ],
+  "comment": "Accepted at IEEE MLSP 2026. 6 pages, 3 figures, 3 tables",
+  "first_author": "Yushi Ye",
+  "pdf_url": "http://arxiv.org/pdf/2609.04516",
+  "primary_category": "cs.SD",
+  "published": "2026-09-03",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Pitch-class Steering for Diffusion-based Music Generation via Latent-space Probes",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04564": {
+  "abstract": "Self-driving laboratories (SDLs) combine automated experimentation with adaptive decision-making to accelerate scientific discovery. Their operation nevertheless often depends on human specialists who translate scientific objectives into executable closed-loop campaigns. Specialists adjust them as data and operating conditions change. Here, we present La Agente Óptima, an agentic framework that constructs and supervises Bayesian optimization campaigns across computational and experimental systems while maintaining a persistent optimization state. By separating large language model (LLM) reasoning from executed campaigns, Óptima runs repetitive optimization loops consistently, returns control to the agent only when progress requires interpretation or campaign revision, and keeps every decision auditable. We evaluate Óptima across ablation studies, five digital discovery tasks, and two physical platforms. Throughout, Óptima maintained executable campaigns as both the scientific problem and execution environment evolved. In a closed-loop contact angle optimization campaign, Óptima identified and corrected a mid-run measurement failure, bringing the contact angle from 71.4 to 67.8 degrees, just above the 64-66 degree range. From this result, Óptima correctly inferred that the target was likely unattainable with the available reagents and recommended changing the formulation. In a five-day multi-objective flow-chemistry campaign, Óptima increased the yield from 30% to 59% over 23 experiments. Despite substantial inference costs, it cost less and used substantially less starting material than a human-directed campaign, while selecting a more mass-efficient operating point. These results show that LLM-based agents can make rigorous, long-running optimization campaigns accessible to domain scientists without specialist setup, expanding the scope of SDLs.",
+  "authors": [
+   "Marcel Müller",
+   "Jiaru Bai",
+   "Willi Gottstein",
+   "Abhijoy Mandal",
+   "Mohammad Nazeri",
+   "Elia Savino",
+   "Yanlin Fang",
+   "Sujoy Das",
+   "Sergio Pablo García Carrillo",
+   "Yeonghun Kang",
+   "Juan B. Pérez-Sánchez",
+   "Simone Pilon",
+   "Martin Fitzner",
+   "Timothy Noël",
+   "Frank Gu",
+   "Varinia Bernales",
+   "Alán Aspuru-Guzik"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.MA",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Marcel Müller",
+  "pdf_url": "http://arxiv.org/pdf/2609.04564",
+  "primary_category": "cs.AI",
+  "published": "2026-09-03",
+  "tags": [
+   "bayesian-optimization"
+  ],
+  "title": "La Agente Óptima: Towards Agentic Self-Driving Laboratories",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04735": {
+  "abstract": "Designing viable drug candidates requires searching a combinatorially large and rugged chemical space for molecules that satisfy multiple, often competing, objectives. Large language models (LLMs) provide a useful generative prior for this problem because of their representational capacity, reasoning ability, and flexibility when incorporating information from the external environment. While reinforcement learning from verifiable rewards (RLVR) can be used to improve the capabilities of LLMs, many chemically relevant scoring functions require hours or even days per evaluation, making them prohibitively expensive to use directly during online training. Here, we investigate whether LLMs can learn molecular design strategies from cheaper synthetic tasks that generalize to expensive molecular lead optimization settings. We find that curriculum-based training recipes that gradually incorporate more challenging synthetic design tasks enable strong performance that surpasses that of much larger frontier models on structure-based lead optimization. Our results suggest that scaling post-training using synthetic tasks is an effective strategy for adapting LLMs to high-cost experimental scenarios that are too expensive to directly train on.",
+  "authors": [
+   "Frank Hu",
+   "Shriram Chennakesavalu",
+   "Zichen Wang",
+   "Patricia Suriana",
+   "Bodhi Vani",
+   "Kirill Shmilovich",
+   "Kangway Chuang",
+   "Colin Grambow"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Frank Hu",
+  "pdf_url": "http://arxiv.org/pdf/2609.04735",
+  "primary_category": "cs.LG",
+  "published": "2026-09-04",
+  "tags": [
+   "chemical-space",
+   "drug-discovery",
+   "reinforcement-learning"
+  ],
+  "title": "Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04753": {
+  "abstract": "Reasoning in large language models unfolds through diverse functional operations, such as problem formulation, goal decomposition, and deduction. Although these operations are explicitly distinguished in text, little is known about how they are geometrically organized in representation spaces. To this end, we investigate whether distinct reasoning operations exhibit corresponding geometric structure in hidden representations. We find that operations are separable in held-out representations, with separability peaking in middle layers, and verify that this structure is not explained by lexical or positional confounds. Across layers, token-wise operation-alignment becomes more distributed over spans, while identical surface tokens are represented differently depending on the operation of its surrounding chunk. Attention-masking interventions further show that operation-aligned representations at chunk onset depend on preceding reasoning context. Consequently, our work demonstrates that language models maintain representational correspondence between linguistic reasoning expressions and their internal geometric structures. Code and project materials are available at https://github.com/naver-ai/beneath-cot.",
+  "authors": [
+   "Seogyeong Jeong",
+   "Jaehui Hwang",
+   "Dongyoon Han",
+   "Geonmo Gu",
+   "Alice Oh",
+   "Taekyung Kim"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "To appear in EMNLP 2026 Main Conference. 43 pages, 14 figures, 19 tables",
+  "first_author": "Seogyeong Jeong",
+  "pdf_url": "http://arxiv.org/pdf/2609.04753",
+  "primary_category": "cs.CL",
+  "published": "2026-09-04",
+  "tags": [],
+  "title": "Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reasoning Operations in LLMs",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04758": {
+  "abstract": "Background: The deformed halo nucleus $^{31}$Ne exhibits unique structural properties arising from the interplay between its halo neutron and the deformation of the $^{30}$Ne core. While previous studies have established the nature of its weakly-bound ground state through reaction cross sections and inclusive breakup measurements, the structure of its excited states in the low-energy continuum, which are expected to appear as resonances, remains largely unexplored.   Purpose: We investigate the structure of these resonant states and clarify their rotational nature and formation mechanism.   Method: The structure of $^{31}$Ne is described using the particle rotor model (PRM), which explicitly treats the coupling between core excitation and single-particle motion in both bound and continuum states.   Results: The calculations predict the emergence of unbound rotational states in the low-energy continuum of $^{31}$Ne, which form a rotational sequence built on the weakly-bound Nilsson [321 3/2] configuration. As the total angular momentum increases along the rotational band, the intrinsic Nilsson structure is largely preserved, whereas the dominant core-spin component shifts to higher spins. These resonances are stabilized through the combined effects of coupling to higher-lying closed core-excited channels and reduced effective neutron relative energies, and can therefore be interpreted as rotational Feshbach resonances.   Conclusion: The present study elucidates the formation mechanism of rotational Feshbach resonances in $^{31}$Ne. This mechanism is expected to be a general feature of weakly-bound deformed nuclei. Exclusive breakup measurements with coincident detection of $γ$ rays from the de-exciting core will provide crucial tests of the proposed formation mechanism of rotational Feshbach resonances.",
+  "authors": [
+   "Shin Watanabe",
+   "Shoya Ogawa",
+   "Takuma Matsumoto",
+   "Kazuyuki Ogata"
+  ],
+  "categories": [
+   "nucl-th"
+  ],
+  "comment": "10 pages, 7 figures",
+  "first_author": "Shin Watanabe",
+  "pdf_url": "http://arxiv.org/pdf/2609.04758",
+  "primary_category": "nucl-th",
+  "published": "2026-09-04",
+  "tags": [
+   "excited-states"
+  ],
+  "title": "Rotational Feshbach resonances in the deformed halo nucleus $^{31}$Ne",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04793": {
+  "abstract": "Proteins perform diverse cellular functions, and even single amino-acid substitutions can alter stability, activity, or molecular interactions. Protein language models (PLMs) provide a scalable approach for modeling such sequence--function relationships from unlabeled sequences, but increasing the size of dense Transformer backbones often brings substantial computational cost without consistently improving mutation-sensitive prediction. We introduce ProtLingo, an efficient PLM framework that augments a pretrained single-sequence backbone with conditional local memory and sparse expert routing. ProtLingo maps contextual residue representations into route-specific discrete codes, composes centered local windows into latent $N$-gram addresses, and retrieves reusable residual signals associated with recurring local sequence contexts. In parallel, selected feed-forward blocks are upcycled into sparse Mixture-of-Experts layers with shared and routed experts, enabling residue-dependent computation while activating only a subset of parameters. Experiments on protein fitness prediction, FLIP benchmarks, and supervised contact prediction show that ProtLingo achieves competitive performance with a 150M-scale backbone, including strong parameter efficiency on mutation-effect prediction and preserved long-range structural representations.",
+  "authors": [
+   "Mingrui Li",
+   "Sixian Shen",
+   "Minzhang Li",
+   "Ruiyi Zhang",
+   "Kexin Zhang",
+   "Jiakai Zhang",
+   "Jingyi Yu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Mingrui Li",
+  "pdf_url": "http://arxiv.org/pdf/2609.04793",
+  "primary_category": "cs.AI",
+  "published": "2026-09-04",
+  "tags": [
+   "protein-llm"
+  ],
+  "title": "ProtLingo: Efficient Protein Language Modeling via Conditional Memory and Expert Routing",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04857": {
+  "abstract": "Context. Open clusters (OCs) are fundamental tracers for studying the structure and chemical evolution of the Galactic disc. Reliable identification of cluster members, particularly at the faint end of the main sequence, remains challenging owing to severe field-star contamination and the declining photometric completeness for distant, obscured systems. Aims. We aim to identify and characterise distant OC candidates at heliocentric distances $d \\gtrsim 3$ kpc using Gaia DR3 astrometry, with emphasis on improving the recovery of faint candidate members in highly contaminated stellar fields. Methods. We apply a probabilistic membership method based on Gaia DR3 proper motions and parallaxes. Candidate members are selected through combined astrometric criteria and refined via spatial filtering using radial density profiles, with photometric data serving as a consistency check. For clusters affected by significant extinction, near-infrared photometry from 2MASS is incorporated to compensate for the limitations of optical data. Results. We analyse a sample of 45 targets, comprising 30 previously reported OCs and 15 newly identified candidates, all located at $d \\gtrsim 3$ kpc. The method yields more compact astrometric distributions and improves the recovery of faint candidate members in several systems. However, residual field contamination remains non-negligible for the most obscured clusters projected against the Galactic plane. Conclusions. Gaia DR3 astrometry provides an effective basis for the exploratory identification and first-order characterisation of distant OC candidates. Dedicated near-infrared follow-up observations will be essential for robust membership assessment in high extincted regions.",
+  "authors": [
+   "Qian Cui",
+   "Zhihong He",
+   "Yangping Luo",
+   "Yan Jiang"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.SR"
+  ],
+  "comment": "14 pages, accepted for publication in Astronomy & Astrophysics",
+  "first_author": "Qian Cui",
+  "pdf_url": "http://arxiv.org/pdf/2609.04857",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-09-04",
+  "tags": [],
+  "title": "Membership Determination of 45 Open Clusters Beyond 3 kpc",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04984": {
+  "abstract": "In the field of computer vision and graphics, high-quality reconstruction of the human body in static scenes has been achieved in recent years by a single multilayer perceptron (MLP) in a number of approaches. However, MLPs have capacity limitations, requiring substantial training time and computational resources for dynamic scene reconstruction. And the quality of reconstruction is significantly constrained. This paper proposes a method for effectively processing complex spatiotemporal signals in dynamic scene human 3D modeling. The proposed method uses Temporal Residual Neural Radiance Fields to achieve novel view rendering and new pose synthesis of human bodies.To address the problem of representing temporal signals in video sequences, we construct a temporal residual field which is not related to the MLP architecture. Secondly, to improve reconstruction efficiency, we propose an integrated approach that reduces trainable parameters and accelerates rendering, thereby enhancing the network's feature representation capability. Finally, we design a multi-dimensional loss function to accurately measure the loss between predicted and actual spatial pixel values. The experimental results show that our proposed approach improves the peak signal-to-noise ratio (PSNR) and structural similarity index (SSIM) accuracy metrics compared to the latest representative methods. It maintains similar accuracy to Anim-NeRF and Neural Body while achieving a nearly 780-fold increase in time efficiency.",
+  "authors": [
+   "Tianle Du",
+   "Jie Wang",
+   "Xiaolong Xie",
+   "Wei Li",
+   "Pengxiang Su",
+   "Jie Liu"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "Published in Journal of Electronic Imaging, 2024",
+  "first_author": "Tianle Du",
+  "pdf_url": "http://arxiv.org/pdf/2609.04984",
+  "primary_category": "cs.CV",
+  "published": "2026-09-04",
+  "tags": [],
+  "title": "Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.05344": {
+  "abstract": "We investigate how dipolar interactions between microwave-shielded polar molecules structure the self-bound droplets formed under variation of the interaction strength. We identify the transition from droplets to crystals as a finite-size first order transition. With droplet-ring states and transitional supersolid states we predict additional structure in the crystal and droplet phases, respectively. To describe this strongly correlated regime, and in particular the reconfiguration of quantum ground states, we design a variational Monte Carlo framework based on neural quantum states. It is especially suitable to describe ground states and almost degenerate states with very different configurations. Moreover, one can easily determine the superfluid fraction. Our results reveal the sequence of finite-size structures through which dipolar interactions reorganize molecular droplets into crystals.",
+  "authors": [
+   "Wiiliam Freitas",
+   "Panagiotis Giannakeas",
+   "Jan M. Rost"
+  ],
+  "categories": [
+   "cond-mat.quant-gas",
+   "quant-ph"
+  ],
+  "comment": "7 pages, 8 figures",
+  "first_author": "Wiiliam Freitas",
+  "pdf_url": "http://arxiv.org/pdf/2609.05344",
+  "primary_category": "cond-mat.quant-gas",
+  "published": "2026-09-04",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "How dipolar interactions structure molecular droplets",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.05381": {
+  "abstract": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is widespread but relatively benchmark-specific: on five datasets more than $50\\%$ of the LLMs show verbatim retrieval, while on the remaining datasets it appears only in isolated cells. We run our experiments at two reasoning levels and find that reasoning changes retrieval. The same experiments, on the same molecules and with the same prompt, are flagged $89\\%$ more often at the higher reasoning level than at the lowest one. Finally, we test a way to interrupt retrieval in our most contaminated cases, and find that the strongest models in some cases still recognise a combination of transformed SMILES strings and original labels. Furthermore, suppressing retrieval moves the prediction errors of the different models closer together in relative terms, while their differing use of verbatim retrieval spreads them apart. This indicates that the general predictive capability of an LLM is not determined solely by the amount of memorised values. This work provides an overview of the amount and depth of verbatim retrieval in molecular regression benchmarks using LLMs.",
+  "authors": [
+   "Matthias Busch",
+   "Marius Tacke",
+   "Sviatlana V. Lamaka",
+   "Mikhail L. Zheludkevich",
+   "Christian J. Cyron",
+   "Roland C. Aydin",
+   "Christian Feiler"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Matthias Busch",
+  "pdf_url": "http://arxiv.org/pdf/2609.05381",
+  "primary_category": "cs.AI",
+  "published": "2026-09-04",
+  "tags": [
+   "property-prediction"
+  ],
+  "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-04"
  }
 }

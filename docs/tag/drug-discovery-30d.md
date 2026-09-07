@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04735.html">Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Frank Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04735">2609.04735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03377.html">SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Jiarui Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03377">2609.03377</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04465.html">The physical foundation beneath protein generative modeling</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Tianyu Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04465">2609.04465</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -158,17 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Steve Cabrel Teguia Kouam et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06779.html">Genotypic Triggers: Exposing Pharmacogenomic Blind Spots via Host-Specific Backdoors in Generative Antimicrobial Peptide Models</a></div></td>
-<td>Doniyorkhon Obidov et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06779">2608.06779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07078.html">Scalable High-Fidelity Macromolecular Docking for GPU-Accelerated Supercomputers</a></div></td>
-<td>Xiangyu Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07078">2608.07078</a></td>
 </tr>
 </tbody></table>

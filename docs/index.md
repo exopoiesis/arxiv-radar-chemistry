@@ -5,15 +5,63 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-09-06._
+_Updated 2026-09-07._
 
-**15622** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15636** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04735.html">Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling</a></div><div class="paper-tags"><a href="tag/chemical-space-30d.html">chemical-space</a> · <a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Frank Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04735">2609.04735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04753.html">Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reasoning Operations in LLMs</a></div></td>
+<td>Seogyeong Jeong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04753">2609.04753</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04758.html">Rotational Feshbach resonances in the deformed halo nucleus $^{31}$Ne</a></div><div class="paper-tags"><a href="tag/excited-states-30d.html">excited-states</a></div></td>
+<td>Shin Watanabe et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04758">2609.04758</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04793.html">ProtLingo: Efficient Protein Language Modeling via Conditional Memory and Expert Routing</a></div><div class="paper-tags"><a href="tag/protein-llm-30d.html">protein-llm</a></div></td>
+<td>Mingrui Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04793">2609.04793</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04857.html">Membership Determination of 45 Open Clusters Beyond 3 kpc</a></div></td>
+<td>Qian Cui et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04857">2609.04857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04984.html">Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction</a></div></td>
+<td>Tianle Du et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04984">2609.04984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.05344.html">How dipolar interactions structure molecular droplets</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Wiiliam Freitas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05344">2609.05344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.05381.html">Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models</a></div><div class="paper-tags"><a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Matthias Busch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05381">2609.05381</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03229.html">Language-encoded network topology enables large language models to reason about complex networks</a></div></td>
@@ -145,53 +193,5 @@ _Updated 2026-09-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03998.html">Typed Flexible-Arity Slotted E-Graphs: A Soundness Construction and an Alloy Case Study</a></div></td>
 <td>Guanxuan Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03998">2609.03998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04027.html">Cavity Ring-Down Spectroscopy at Benchmark-Level Sub-Permille Accuracy Enabled by a System-Level Detection Transfer Function</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
-<td>Rajesh Chell et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04027">2609.04027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02056.html">HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a></div></td>
-<td>Yihang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02056">2609.02056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02113.html">Logarithmic-scale variational quantum eigensolver for off-lattice protein structure prediction in continuous torsional angle space</a></div><div class="paper-tags"><a href="tag/protein-structure-30d.html">protein-structure</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Fabio Cumbo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02113">2609.02113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02126.html">Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization</a></div><div class="paper-tags"><a href="tag/bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Dasol Yoon et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02126">2609.02126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02148.html">Charge-Transfer Electronic Structure of NiX$_2$ (X = S, Se)</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Atsushi Hariki et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02148">2609.02148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02196.html">Schrödinger Bridges on Lie Group Manifolds for Probabilistic Intrinsic Generation</a></div></td>
-<td>Shizhe Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02196">2609.02196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/dft-30d.html">dft</a></div></td>
-<td>Daniel Duarte-Ruiz et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02268.html">Retrosynthesis of Synthetic Media for Explainable AI Provenance Forensics</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Yijie Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02268">2609.02268</a></td>
 </tr>
 </tbody></table>

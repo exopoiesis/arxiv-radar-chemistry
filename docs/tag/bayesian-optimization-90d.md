@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04564.html">La Agente Óptima: Towards Agentic Self-Driving Laboratories</a></div></td>
+<td>Marcel Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04564">2609.04564</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02126.html">Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization</a></div></td>
 <td>Dasol Yoon et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Shengli Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11574">2606.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09664.html">In-Context Learning for Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Tuan A. Vu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09664">2606.09664</a></td>
 </tr>
 </tbody></table>

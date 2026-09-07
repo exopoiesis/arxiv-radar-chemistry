@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1541 papers</span>
+  <span class="paper-count">1537 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9236,29 +9236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10207.html">Magnetism Induced by Azanide and Ammonia Adsorption in Defective Molybdenum Disulfide and Diselenide: A First-Principles Study</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Guilherme S. L. Fabris et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10207">2509.10207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02413.html">Electric-Field Driven Nuclear Dynamics of Liquids and Solids from a Multi-Valued Machine-Learned Dipolar Model</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Elia Stocco et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02413">2502.02413</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05542.html">Core-Excited States of Linear and Bent Uranyl Complexes: Insights from High-Energy Resolution X-ray Spectroscopy and Relativistic Quantum Chemistry</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Wilken Aldair Misael et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05542">2504.05542</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21718.html">QED calculations of the $2p$-$2s$ transition energies in Li-like ions</a></div></td>
-<td>V. A. Yerokhin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21718">2507.21718</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09216.html">Projector Method for Nonlinear Light-Matter Interactions and Quantum Geometry</a></div></td>
-<td>Zhichao Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09216">2509.09216</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05381.html">Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models</a></div></td>
+<td>Matthias Busch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05381">2609.05381</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02746.html">HiPoly: a hierarchical polymer-native AI framework for property prediction and generative design</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Ge Sun et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11483.html">A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Kelvin P. Idanwekhai et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11483">2608.11483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06697.html">3D Molecular Representation Learning for Organic Mixtures: Viscosity and Density Prediction</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Haicheng Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06697">2608.06697</a></td>
 </tr>
 </tbody></table>

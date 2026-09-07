@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05381.html">Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models</a></div></td>
+<td>Matthias Busch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05381">2609.05381</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02746.html">HiPoly: a hierarchical polymer-native AI framework for property prediction and generative design</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Ge Sun et al.</td>
@@ -1538,11 +1544,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10871.html">Optimal message passing for molecular prediction is simple, attentive and spatial</a></div></td>
 <td>Alma C. Castaneda-Leautaud et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10871">2509.10871</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09619.html">Functional Groups are All you Need for Chemically Interpretable Molecular Property Prediction</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Roshan Balaji et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09619">2509.09619</a></td>
 </tr>
 </tbody></table>

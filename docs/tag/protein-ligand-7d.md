@@ -7,9 +7,18 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>protein-ligand — 7d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04301.html">Advancing Alzheimer&#x27;s Disease Treatment: Synergistic Ligand Combinations Targeting BACE1 via Multi-Ligand Simultaneous Docking</a></div></td>
+<td>Pronama Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04301">2609.04301</a></td>
+</tr>
+</tbody></table>

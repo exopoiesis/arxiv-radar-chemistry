@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.03377">2609.03377</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04465.html">The physical foundation beneath protein generative modeling</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Tianyu Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04465">2609.04465</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02113.html">Logarithmic-scale variational quantum eigensolver for off-lattice protein structure prediction in continuous torsional angle space</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Fabio Cumbo et al.</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11057.html">Flexible Kernels for Protein Property Prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Martin Jankowiak et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11057">2606.11057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Michael Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
 </tr>
 </tbody></table>

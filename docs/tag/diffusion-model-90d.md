@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04516.html">Pitch-class Steering for Diffusion-based Music Generation via Latent-space Probes</a></div></td>
+<td>Yushi Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04516">2609.04516</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01002.html">Numerical study of the grain-growth-induced non-parabolic kinetics of a solid-state reaction</a></div></td>
@@ -332,17 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11833.html">Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Sam Gijsen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11833">2606.11833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10080.html">VFUSE: Virulent Feature Understanding with Sparse autoEncoders</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Michael Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10080">2606.10080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14759.html">Temporally Consistent and Controllable Video Generation of 2D Cine CMR via Latent Space Motion Modeling</a></div></td>
-<td>Yiheng Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14759">2606.14759</a></td>
 </tr>
 </tbody></table>

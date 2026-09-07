@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.03377">2609.03377</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04465.html">The physical foundation beneath protein generative modeling</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Tianyu Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04465">2609.04465</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02113.html">Logarithmic-scale variational quantum eigensolver for off-lattice protein structure prediction in continuous torsional angle space</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Fabio Cumbo et al.</td>
@@ -1496,11 +1502,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07983.html">Steering Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Long-Kai Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07983">2509.07983</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09581.html">Programmable 200 GOPS Hopfield-inspired photonic Ising machine</a></div></td>
-<td>Nayem AL-Kayed et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09581">2509.09581</a></td>
 </tr>
 </tbody></table>

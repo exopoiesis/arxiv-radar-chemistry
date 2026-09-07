@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04516.html">Pitch-class Steering for Diffusion-based Music Generation via Latent-space Probes</a></div></td>
+<td>Yushi Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04516">2609.04516</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01002.html">Numerical study of the grain-growth-induced non-parabolic kinetics of a solid-state reaction</a></div></td>
 <td>Ya. A. Nikiforov et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08770.html">A Mean-Field Framework for Inference-Time Distributional Control of Diffusion Models</a></div></td>
 <td>Samuel Howard et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08770">2608.08770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07648.html">Leveraging generative models to assist Monte Carlo sampling</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Marylou Gabrié</td>
-<td><a href="http://arxiv.org/abs/2608.07648">2608.07648</a></td>
 </tr>
 </tbody></table>

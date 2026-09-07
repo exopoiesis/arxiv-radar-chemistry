@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03377.html">SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Jiarui Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03377">2609.03377</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04465.html">The physical foundation beneath protein generative modeling</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Tianyu Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04465">2609.04465</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -146,23 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08101.html">Generative Models: Principles, Architectures, and Applications</a></div></td>
 <td>Jun Lu</td>
 <td><a href="http://arxiv.org/abs/2608.08101">2608.08101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06956.html">How Molecular Generative Models Organize Molecular Identity</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a></div></td>
-<td>Raul Ortega-Ochoa et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06956">2608.06956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07401.html">DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion</a></div></td>
-<td>Zhuotao Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07401">2608.07401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07648.html">Leveraging generative models to assist Monte Carlo sampling</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Marylou Gabrié</td>
-<td><a href="http://arxiv.org/abs/2608.07648">2608.07648</a></td>
 </tr>
 </tbody></table>

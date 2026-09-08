@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>battery-materials — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <strong>30d</strong> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09791.html">Predictive Simulation of Interphases on Li Metal Surface</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>Xinyu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.09791">2608.09791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08050.html">Oxygen Reduction Reaction on Platinum Nanocatalysts Produces Long-Lived, Hysteretic Oxygenated Adsorbates</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
-<td>Jaehyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08050">2608.08050</a></td>
 </tr>
 </tbody></table>

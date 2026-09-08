@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1529 papers</span>
+  <span class="paper-count">1525 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9164,29 +9164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10960.html">Amorphization-Mediated Si-I to Si-V Phase Transition and Reversible Amorphous-Si-V Phase Memory in Silicon Nanoparticles</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Ziye Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10960">2509.10960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21593.html">Dielectric permittivity of water confined in stacks of charged lipid layers: extracting profiles from molecular dynamics simulations using a modified Poisson-Boltzmann equation</a></div></td>
-<td>Ludovic Gardré et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21593">2503.21593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09938.html">Predicting void nucleation in microstructure with convolutional neural networks</a></div></td>
-<td>Abhijith Thoopul Anantharanga et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09938">2509.09938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10191.html">Novel 3D Pentagraphene Allotropes: Stability, Electronic, Mechanical, and Optical Properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>I. M. Félix et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10191">2509.10191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10677.html">Artificial Thermalization in Ring-Polymer Molecular Dynamics: The Breakdown of RPMD for Gas-Phase Reactions with Pre-Reactive Complexes and How to Fix It</a></div></td>
-<td>Joseph E. Lawrence et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10677">2509.10677</a></td>
 </tr>
 </tbody></table>

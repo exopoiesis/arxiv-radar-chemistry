@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2008 papers</span>
+  <span class="paper-count">2003 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12032,35 +12032,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10872.html">Reactive Chemistry at Unrestricted Coupled Cluster Level: High-throughput Calculations for Training Machine Learning Potentials</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Alice E. A. Allen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10872">2509.10872</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09998.html">Unveiling the Role of Solvents in DBTTF:HATCN Ternary Cocrystals</a></div></td>
-<td>Ana M. Valencia et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09998">2509.09998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10101.html">Intrinsic disorder in the candidate quantum spin ice Pr$_2$Zr$_2$O$_7$</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>T. J. Hicken et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10101">2509.10101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10207.html">Magnetism Induced by Azanide and Ammonia Adsorption in Defective Molybdenum Disulfide and Diselenide: A First-Principles Study</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Guilherme S. L. Fabris et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10207">2509.10207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10293.html">OpenCSP: A Deep Learning Framework for Crystal Structure Prediction from Ambient to High Pressure</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Yinan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10293">2509.10293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10745.html">A Snapshot of Time-Dependent Density-Functional Theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Carsten A. Ullrich</td>
-<td><a href="http://arxiv.org/abs/2509.10745">2509.10745</a></td>
 </tr>
 </tbody></table>

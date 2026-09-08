@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">365 papers</span>
+  <span class="paper-count">363 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2192,17 +2192,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12358.html">Unsupervised Atomic Data Mining via Multi-Kernel Graph Autoencoders for Machine Learning Force Fields</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Hong Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12358">2509.12358</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10448.html">MatSKRAFT: A framework for large-scale materials knowledge extraction from scientific tables</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Kausik Hira et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10448">2509.10448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10745.html">A Snapshot of Time-Dependent Density-Functional Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Carsten A. Ullrich</td>
-<td><a href="http://arxiv.org/abs/2509.10745">2509.10745</a></td>
 </tr>
 </tbody></table>

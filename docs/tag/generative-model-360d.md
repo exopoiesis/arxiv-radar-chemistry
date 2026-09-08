@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">464 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2792,11 +2792,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05800.html">Transformer-based Topology Optimization</a></div></td>
 <td>Aaron Lutheran et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05800">2509.05800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10095.html">Arabic Large Language Models for Medical Text Generation</a></div></td>
-<td>Abdulrahman Allam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10095">2509.10095</a></td>
 </tr>
 </tbody></table>

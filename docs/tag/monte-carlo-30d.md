@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11388.html">Many-Body Destabilization of Intermediate Oxygen-Hole States</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Anirudh Adavi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11388">2608.11388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08137.html">Cubic-Equivariant Neural Density Functional Theory for Three-Dimensional Lattice Fluids</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Jens Weimar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08137">2608.08137</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08152.html">Denoising Diffusion Monte Carlo Electron Densities with Physically Informed Variance Stabilization: From Fourier Filters to 3D UNETs</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Kenneth O. Berard et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08152">2608.08152</a></td>
 </tr>
 </tbody></table>

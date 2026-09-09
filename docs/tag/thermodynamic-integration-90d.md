@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <strong>90d</strong> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07219.html">Atomistic origin and strain control of the finite-temperature dielectric response in BaTiO3</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Ryotaro Sahashi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07219">2609.07219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05319.html">Breakdown of Anomalous Hall Scaling in Dilute Kondo System</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Arnab Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05319">2609.05319</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27273.html">Grain-Boundary Premelting in High-Entropy Transition Metal Carbides</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -158,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Luca Leoni et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12750.html">Intrinsic Ductility from Shear Amorphization: From Pure Metals to Multi-Principal-Element Alloys</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Morgan R. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12750">2606.12750</a></td>
 </tr>
 </tbody></table>

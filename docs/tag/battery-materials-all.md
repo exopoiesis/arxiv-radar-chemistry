@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-materials — all</h1>
-  <span class="paper-count">301 papers</span>
+  <span class="paper-count">303 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Line Mouaffac et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05671.html">Differentiable Solvation Shell Model for Rational Electrolyte Design</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Hancheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05671">2609.05671</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>

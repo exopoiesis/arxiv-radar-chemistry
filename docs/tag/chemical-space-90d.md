@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.04735">2609.04735</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04432.html">Recovering molecules from coarse-grained beads: free-energy-conditioned generative backmapping across chemical space</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Luis Itza Vazquez-Salazar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04432">2609.04432</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19121.html">PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Boqiao Zhang et al.</td>
@@ -104,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17445.html">Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Dong Hyeon Mok et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17445">2606.17445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17077.html">Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Wang Rui et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17077">2606.17077</a></td>
 </tr>
 </tbody></table>

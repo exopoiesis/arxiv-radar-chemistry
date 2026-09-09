@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08908.html">A Platform-aware Compilation Framework for Fault-tolerant Quantum Computation</a></div></td>
+<td>Srushti Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08908">2609.08908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07452.html">Universal reduced order modelling for the nuclear finite amplitude method</a></div></td>
+<td>Emma Vancayseele et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07452">2609.07452</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07591.html">Topology Obstructs Pure Foundation Neural Quantum States</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Timothy Heightman et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07591">2609.07591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05838.html">High-Resolution Dynamical Eigenspectroscopy via Variational Trotter Compression on a Superconducting Qubit Processor</a></div></td>
+<td>Liyang Sui et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05838">2609.05838</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03168.html">Stochastic Tensor Contraction for Efficient MP2 Exchange</a></div></td>
 <td>Jiace Sun et al.</td>
@@ -320,29 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13387.html">Representation-Induced Symmetry Trapping in Adaptive Variational Quantum Simulations of Multi-Reference Topologies</a></div></td>
 <td>Hermawan Kresno Dipojono</td>
 <td><a href="http://arxiv.org/abs/2606.13387">2606.13387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Shengli Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11574">2606.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11809.html">Symplectic and Thermodynamically Consistent Molecular Dynamics in the Frequency Domain</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Kyunghoon Han et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11809">2606.11809</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12026.html">Generalizing Perron--Frobenius theory and eigenvector-based centralities to networks with complex edge weights</a></div></td>
-<td>Yu Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12026">2606.12026</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12404.html">Collective neutrino oscillations: Many-body non-forward effects and non-classicality</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Julien Froustey et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12404">2606.12404</a></td>
 </tr>
 </tbody></table>

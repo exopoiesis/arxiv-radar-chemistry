@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08432.html">Explicit block encodings of rate matrices for simulating polymerization kinetics on quantum computers</a></div></td>
+<td>Yuhei Ikeda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08432">2609.08432</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03220.html">Discretization-Aware Fine-Tuning for Quantum Machine Learning with Chemical Foundation Models</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Shunji Matsuura et al.</td>
@@ -110,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13380.html">An LLM System for Autonomous Variational Quantum Circuit Design</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Kenya Sakka et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13380">2606.13380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12404.html">Collective neutrino oscillations: Many-body non-forward effects and non-classicality</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Julien Froustey et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12404">2606.12404</a></td>
 </tr>
 </tbody></table>

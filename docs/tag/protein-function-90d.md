@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Vsevolod Viliuga et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23490.html">PHASE: encoding global protein ensembles with local Hamiltonians and all-atom backmapping</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Daniele Angioletti et al.</td>
@@ -32,11 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12196.html">AlphaFunctor: Bridging The Gap Between Protein Function Annotation and Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Xiang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12196">2607.12196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12209.html">Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
-<td>Yue Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12209">2606.12209</a></td>
 </tr>
 </tbody></table>

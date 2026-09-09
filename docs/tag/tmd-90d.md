@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>tmd — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <strong>90d</strong> <a href="tmd-360d.html">360d</a> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15548.html">Switching Chern number by sliding and gating in alternately twisted tetralayer MoTe2</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Xiao-Wei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15548">2606.15548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11873.html">Sonochemically Boosted Hydrogen Evolution Activity of Janus TMD Monolayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
-<td>Rayantan Sadhukhan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11873">2606.11873</a></td>
 </tr>
 </tbody></table>

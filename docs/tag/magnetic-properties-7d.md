@@ -16,27 +16,27 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06159.html">Altermagnetism from the viewpoint of chemistry</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Nayana Devaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06159">2609.06159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05319.html">Breakdown of Anomalous Hall Scaling in Dilute Kondo System</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
+<td>Arnab Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05319">2609.05319</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
+<td>Julián Antonio Villarreal Murúa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
 <td>Amogh U. Lanjewar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03717">2609.03717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01376.html">Phase structure of magnetized quark matter at imaginary chemical potential</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
-<td>J. P. Carlomagno et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01376">2609.01376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01533.html">No source-free exchange-correlation magnetic fields in non-collinear spin DFT</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Ester Livshits et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01533">2609.01533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01853.html">Magnons in Metallic Altermagnetic $\text{KV}_2\text{Se}_2\text{O}$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Daniel Lourenço R. Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01853">2609.01853</a></td>
 </tr>
 </tbody></table>

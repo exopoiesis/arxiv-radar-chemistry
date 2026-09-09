@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
+<td>Viktoria Waidbacher et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06949.html">Quantum hot carrier spectra in plasmonic catalysis</a></div></td>
+<td>Yu Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06949">2609.06949</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07890.html">Riemannian optimization for linear optical problems</a></div></td>
+<td>Pablo V. Parellada</td>
+<td><a href="http://arxiv.org/abs/2609.07890">2609.07890</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06350.html">Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
+<td>Shuxiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06350">2609.06350</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00900.html">Fourier Neural Operators for Composition-Driven Crystal Structure Discovery</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
@@ -380,11 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Luca Leoni et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12110.html">Scalable Conformal MoSx Catalyst for Efficient Hydrogen Evolution at Industrial-Level Current Density in Alkaline Electrolyzers</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
-<td>Yong Zuo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12110">2606.12110</a></td>
 </tr>
 </tbody></table>

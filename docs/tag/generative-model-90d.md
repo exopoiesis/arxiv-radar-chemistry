@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
+<td>Vsevolod Viliuga et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07300.html">PCFlow: Physics-Conditioned Flow Matching for GPR B-Scan Image Synthesis</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Zhijie Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07300">2609.07300</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07414.html">RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting</a></div></td>
+<td>Hejun Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07414">2609.07414</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05927.html">GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning</a></div></td>
+<td>Long Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05927">2609.05927</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05328.html">Embedded Graph Flows for Categorical Graph Generation</a></div></td>
+<td>Ethan Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05328">2609.05328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03377.html">SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
@@ -458,17 +488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13629.html">Valid Inference with Synthetic Data via Task Exchangeability</a></div></td>
 <td>Lezhi Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13629">2606.13629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11833.html">Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Sam Gijsen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11833">2606.11833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12651.html">Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Riya Bisht et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12651">2606.12651</a></td>
 </tr>
 </tbody></table>

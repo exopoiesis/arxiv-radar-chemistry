@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08329.html">Band Structure Modulation of ZrO2 Nanoparticles for Control of CO Adsorption Properties: A Combined Density Functional Theory - Density Functional Tight Binding Study</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Kexin Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08329">2609.08329</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07219.html">Atomistic origin and strain control of the finite-temperature dielectric response in BaTiO3</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Ryotaro Sahashi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07219">2609.07219</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07477.html">Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Musiha Mahfuza Mukta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07477">2609.07477</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06350.html">Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
+<td>Shuxiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06350">2609.06350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a></div></td>
+<td>Yiming Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04432.html">Recovering molecules from coarse-grained beads: free-energy-conditioned generative backmapping across chemical space</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Luis Itza Vazquez-Salazar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04432">2609.04432</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01911.html">A Generalized Approach for Incorporating Geometry and Directionality into Coarse-Grained Machine-Learned Potentials</a></div></td>
@@ -506,11 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Shuqi Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12811">2606.12811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11809.html">Symplectic and Thermodynamically Consistent Molecular Dynamics in the Frequency Domain</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Kyunghoon Han et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11809">2606.11809</a></td>
 </tr>
 </tbody></table>

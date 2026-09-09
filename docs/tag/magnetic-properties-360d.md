@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">344 papers</span>
+  <span class="paper-count">347 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06159.html">Altermagnetism from the viewpoint of chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Nayana Devaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06159">2609.06159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05319.html">Breakdown of Anomalous Hall Scaling in Dilute Kondo System</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Arnab Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05319">2609.05319</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Julián Antonio Villarreal Murúa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>

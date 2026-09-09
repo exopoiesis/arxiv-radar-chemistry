@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08503.html">TSBench: A physics-grounded benchmark for evaluating LLM understanding of chemical reaction mechanisms</a></div><div class="paper-tags"><a href="string-method-90d.html">string-method</a></div></td>
+<td>Xiaohu Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08503">2609.08503</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02268.html">Retrosynthesis of Synthetic Media for Explainable AI Provenance Forensics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Yijie Lin et al.</td>
@@ -122,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23745.html">JEDEL: Zero-Shot DNA-Encoded Library Design for Early-Stage Drug Discovery</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Zygimantas Jocys et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23745">2606.23745</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12113.html">Augmenting Molecular Language Models with Local $n$-gram Memory</a></div><div class="paper-tags"><a href="molecular-llm-90d.html">molecular-llm</a></div></td>
-<td>Xinni Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12113">2606.12113</a></td>
 </tr>
 </tbody></table>

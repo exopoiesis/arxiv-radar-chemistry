@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08329.html">Band Structure Modulation of ZrO2 Nanoparticles for Control of CO Adsorption Properties: A Combined Density Functional Theory - Density Functional Tight Binding Study</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Kexin Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08329">2609.08329</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08878.html">Controlling Hydrogen Isotope Retention at Helium Cavities through Radiation-Induced Segregation in Fusion Steels</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Lihao Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08878">2609.08878</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06159.html">Altermagnetism from the viewpoint of chemistry</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Nayana Devaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06159">2609.06159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04623.html">Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04623">2609.04623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
+<td>Julián Antonio Villarreal Murúa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
@@ -218,17 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11301.html">Quetzalcoatlite as a Disorder-Free Platform for Chiral Magnetism and Frustration</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Aleksandar Razpopov et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11301">2608.11301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08474.html">Unified open-boundary electrostatics in real-space density functional theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Rajat Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08474">2608.08474</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08784.html">Self-consistent double-hybrid density functional theory via one-body second-order Møller-Plesset perturbation theory and projection-based embedding</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Huy Gia Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08784">2608.08784</a></td>
 </tr>
 </tbody></table>

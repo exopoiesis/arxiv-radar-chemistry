@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06159.html">Altermagnetism from the viewpoint of chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Nayana Devaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06159">2609.06159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05319.html">Breakdown of Anomalous Hall Scaling in Dilute Kondo System</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Arnab Bhattacharya et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05319">2609.05319</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Julián Antonio Villarreal Murúa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
@@ -362,17 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13874.html">Dynamical multiferroicity in framework materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Marek Matas et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13874">2606.13874</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Clemens Wager et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11870">2606.11870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11928.html">Spin-Polarized Electronic Structure and Chemical Bonding Data for 2,500+ Halide Double Perovskites</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Luc Walterbos et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11928">2606.11928</a></td>
 </tr>
 </tbody></table>

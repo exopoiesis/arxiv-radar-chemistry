@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05818.html">Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools</a></div></td>
+<td>Bryce Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05818">2609.05818</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03377.html">SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Jiarui Lu et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02113.html">Logarithmic-scale variational quantum eigensolver for off-lattice protein structure prediction in continuous torsional angle space</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
 <td>Fabio Cumbo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02113">2609.02113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01353.html">SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-llm-7d.html">protein-llm</a></div></td>
-<td>Handong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01353">2609.01353</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,42 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
+<td>Viktoria Waidbacher et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08750.html">Decorated electronic kagome lattice in twisted bilayer germanene</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Dennis J. Klaassen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08750">2609.08750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05082.html">A locally ab initio computational framework for arbitrary incommensurate materials interfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Drake Niedzielski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05082">2609.05082</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05373.html">Molecular interfacial rheology: Lipid membrane shear viscosity</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Zhi-Xun Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05373">2609.05373</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Julián Antonio Villarreal Murúa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yusuke Nishiya et al.</td>
@@ -518,41 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13434.html">Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Ken Beard et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13434">2606.13434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Isam A. Balghari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11785.html">Kohn-Sham models for encapsulated two-dimensional materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Éric Cancès et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11785">2606.11785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11873.html">Sonochemically Boosted Hydrogen Evolution Activity of Janus TMD Monolayers</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Rayantan Sadhukhan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11873">2606.11873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11973.html">Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Dominik Lüthi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11973">2606.11973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12104.html">Proximity-induced unconventional superconductivity and chiral topological phases in twisted graphene/NbSe$_2$ van der Waals heterostructure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Adam Hložný et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12104">2606.12104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12743.html">Water Flow Through Polar and Non-Polar Nanopores: Insights from Multiscale Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Elizane E. de Moraes et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12743">2606.12743</a></td>
 </tr>
 </tbody></table>

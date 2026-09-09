@@ -16,6 +16,36 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08329.html">Band Structure Modulation of ZrO2 Nanoparticles for Control of CO Adsorption Properties: A Combined Density Functional Theory - Density Functional Tight Binding Study</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Kexin Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08329">2609.08329</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08878.html">Controlling Hydrogen Isotope Retention at Helium Cavities through Radiation-Induced Segregation in Fusion Steels</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Lihao Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08878">2609.08878</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06159.html">Altermagnetism from the viewpoint of chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Nayana Devaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06159">2609.06159</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04623.html">Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04623">2609.04623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Julián Antonio Villarreal Murúa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Amogh U. Lanjewar et al.</td>
@@ -470,35 +500,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13434.html">Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Ken Beard et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13434">2606.13434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11785.html">Kohn-Sham models for encapsulated two-dimensional materials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Éric Cancès et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11785">2606.11785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11928.html">Spin-Polarized Electronic Structure and Chemical Bonding Data for 2,500+ Halide Double Perovskites</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Luc Walterbos et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11928">2606.11928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11978.html">The Kondo effect in ferromagnetic quantum critical CeRh$_6$Ge$_4$</a></div></td>
-<td>Martin Sundermann et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11978">2606.11978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12326.html">Transferable Machine Learning of Electronic Hamiltonians with Superposition-of-Atomic-Potentials Features</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Chaoqun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12326">2606.12326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12750.html">Intrinsic Ductility from Shear Amorphization: From Pure Metals to Multi-Principal-Element Alloys</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Morgan R. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12750">2606.12750</a></td>
 </tr>
 </tbody></table>

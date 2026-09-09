@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transition — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <strong>30d</strong> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08535.html">Memory Control of Ice Growth During Non-Equilibrium Freezing of Water</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Abhigyan Hazarika et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08535">2609.08535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Julián Antonio Villarreal Murúa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>

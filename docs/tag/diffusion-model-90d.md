@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Binglin Ji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06761">2609.06761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05326.html">Contrasting C/O ratios in Uranus and Neptune from disequilibrium chemistry: A clue to distinct evolutionary pathways?</a></div></td>
+<td>T. Briand et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05326">2609.05326</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05404.html">Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction</a></div></td>
+<td>Sihwa Park</td>
+<td><a href="http://arxiv.org/abs/2609.05404">2609.05404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04432.html">Recovering molecules from coarse-grained beads: free-energy-conditioned generative backmapping across chemical space</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Luis Itza Vazquez-Salazar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04432">2609.04432</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04516.html">Pitch-class Steering for Diffusion-based Music Generation via Latent-space Probes</a></div></td>
@@ -332,11 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14797.html">Hierarchical Autocatalytic Systems as a Bridge between Maximum Entropy Production and Bayesian Posterior Contraction: A Numerical Study with Stochastic-Thermodynamic Bounds</a></div></td>
 <td>Yoshinori Watanabe</td>
 <td><a href="http://arxiv.org/abs/2606.14797">2606.14797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11833.html">Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Sam Gijsen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11833">2606.11833</a></td>
 </tr>
 </tbody></table>

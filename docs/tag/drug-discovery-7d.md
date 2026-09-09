@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08101.html">PocketVE: Stable and Property-Guided Structure-Based Drug Design with Variance-Exploding Diffusion</a></div></td>
+<td>Peining Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08101">2609.08101</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04735.html">Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
 <td>Frank Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04735">2609.04735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05097.html">NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a></div></td>
+<td>Roxane Axel Jacob et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05097">2609.05097</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>
@@ -38,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02963.html">SurfSpec: Enhancing Off-Target-Agnostic Specificity by Bounding Pocket-Ligand Geometric Mismatch</a></div></td>
 <td>Minyeong Hwang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02963">2609.02963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01025.html">MakoXC: Rearchitecting DFT Exchange-Correlation with Matrix-Aligned and Knowledge-Organized Sparsity</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Haozhi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01025">2609.01025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01076.html">Text-guided flow matching enables sample-efficient crystal structure generation</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Wentao Li</td>
-<td><a href="http://arxiv.org/abs/2609.01076">2609.01076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01353.html">SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding</a></div><div class="paper-tags"><a href="protein-llm-7d.html">protein-llm</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Handong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01353">2609.01353</a></td>
 </tr>
 </tbody></table>

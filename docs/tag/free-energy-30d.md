@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>free-energy — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <strong>30d</strong> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Line Mouaffac et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07215.html">First-order Degenerate Symmetry-Adapted Perturbation Theory</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Dominik Cieśliński et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07215">2609.07215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07477.html">Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Musiha Mahfuza Mukta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07477">2609.07477</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04432.html">Recovering molecules from coarse-grained beads: free-energy-conditioned generative backmapping across chemical space</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Luis Itza Vazquez-Salazar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04432">2609.04432</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02762.html">Relating solute interactions to interfacial properties</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -80,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10465.html">Machine-learning approach for the phase stability and mechanical properties of disordered alloys at finite temperature</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Rutchapon Hunkao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10465">2608.10465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08784.html">Self-consistent double-hybrid density functional theory via one-body second-order Møller-Plesset perturbation theory and projection-based embedding</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Huy Gia Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08784">2608.08784</a></td>
 </tr>
 </tbody></table>

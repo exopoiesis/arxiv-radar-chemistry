@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Line Mouaffac et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05671.html">Differentiable Solvation Shell Model for Rational Electrolyte Design</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Hancheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05671">2609.05671</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Amogh U. Lanjewar et al.</td>
@@ -194,17 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14118.html">Probing Structure and Ionic Transport in Molten Lithium Carbonate</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Debsundar Dey et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14118">2606.14118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12057.html">ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development</a></div></td>
-<td>Rui Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12057">2606.12057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12110.html">Scalable Conformal MoSx Catalyst for Efficient Hydrogen Evolution at Industrial-Level Current Density in Alkaline Electrolyzers</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Yong Zuo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12110">2606.12110</a></td>
 </tr>
 </tbody></table>

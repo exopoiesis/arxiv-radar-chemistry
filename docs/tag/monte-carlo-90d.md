@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08352.html">Davydov Splitting Without a Davydov Pair and Highly Mobile Singlet Excitons in Perylene Red Microcrystals</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Chris Rehhagen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08352">2609.08352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07591.html">Topology Obstructs Pure Foundation Neural Quantum States</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Timothy Heightman et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07591">2609.07591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07773.html">High-Field Electron Transport in AlGaN alloys: A Full-Band Monte Carlo Study Based on Ab Initio Supercell Calculations</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Animesh Datta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07773">2609.07773</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05344.html">How dipolar interactions structure molecular droplets</a></div></td>
 <td>Wiiliam Freitas et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05344">2609.05344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05696.html">Bridging simulation length scales with cellular automata</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>John J. Karnes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05696">2609.05696</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>
@@ -344,17 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Mao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12998">2606.12998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12508.html">Mixed-dimensional quantum Monte Carlo studies of M-point moiré materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
-<td>Dumitru Călugăru et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12508">2606.12508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12530.html">Hidden antiferromagnetism, persistent valley fluctuations, and $U(6)$ crossovers in triangular-lattice M-point moiré materials via determinantal quantum Monte Carlo</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Konstantinos Vasiliou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12530">2606.12530</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">426 papers</span>
+  <span class="paper-count">427 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03220.html">Discretization-Aware Fine-Tuning for Quantum Machine Learning with Chemical Foundation Models</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
 <td>Shunji Matsuura et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03220">2609.03220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04261.html">Self-Supervised Pretraining of Molecular Graph Encoders with LeJEPA</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
+<td>Michał Kulczykowski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04261">2609.04261</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>

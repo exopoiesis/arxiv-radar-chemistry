@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>enhanced-sampling — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <a href="enhanced-sampling-90d.html">90d</a> <strong>360d</strong> <a href="enhanced-sampling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Line Mouaffac et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

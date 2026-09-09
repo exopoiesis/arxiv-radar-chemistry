@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure — all</h1>
-  <span class="paper-count">506 papers</span>
+  <span class="paper-count">507 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04558.html">Structural tuning of reduced exciton mass in layered HOIP compounds: Causation vs. correlation</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Isaac R. Burkholder et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04558">2609.04558</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02744.html">Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
+<td>Vsevolod Viliuga et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08669.html">Learning to build covering structures with continuous adjustments</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Gabriel Vallat et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08669">2609.08669</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06655.html">Out-of-Distribution Inverse Design of Elastic Networks with Differentiable Graph Neural Network Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Sergey A. Shteingolts et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06655">2609.06655</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Yiming Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05694.html">GraphNOSE: A Graph Transformer in Olfaction</a></div><div class="paper-tags"><a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Mrityunjay Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05694">2609.05694</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03816.html">When Vision Meets Graphs: A Survey on Graph Reasoning and Learning</a></div></td>
@@ -26,6 +56,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02056.html">HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs</a></div></td>
 <td>Yihang Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02056">2609.02056</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04261.html">Self-Supervised Pretraining of Molecular Graph Encoders with LeJEPA</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Michał Kulczykowski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04261">2609.04261</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -308,35 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19378.html">A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Hyeonbin Moon et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19378">2606.19378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11562.html">GraphInfer-Bench: Benchmarking LLM&#x27;s Inference Capability on Graphs</a></div></td>
-<td>Zhuoyi Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11562">2606.11562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Isam A. Balghari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11870.html">Modelling magnetic material properties with uncertainty-aware neural networks</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Clemens Wager et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11870">2606.11870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12326.html">Transferable Machine Learning of Electronic Hamiltonians with Superposition-of-Atomic-Potentials Features</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Chaoqun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12326">2606.12326</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12651.html">Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Riya Bisht et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12651">2606.12651</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">384 papers</span>
+  <span class="paper-count">390 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
+<td>Vsevolod Viliuga et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08669.html">Learning to build covering structures with continuous adjustments</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Gabriel Vallat et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08669">2609.08669</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06655.html">Out-of-Distribution Inverse Design of Elastic Networks with Differentiable Graph Neural Network Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Sergey A. Shteingolts et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06655">2609.06655</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Yiming Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05694.html">GraphNOSE: A Graph Transformer in Olfaction</a></div><div class="paper-tags"><a href="molecular-llm-360d.html">molecular-llm</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Mrityunjay Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05694">2609.05694</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03816.html">When Vision Meets Graphs: A Survey on Graph Reasoning and Learning</a></div></td>
@@ -26,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02056.html">HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs</a></div></td>
 <td>Yihang Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02056">2609.02056</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04261.html">Self-Supervised Pretraining of Molecular Graph Encoders with LeJEPA</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Michał Kulczykowski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04261">2609.04261</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>

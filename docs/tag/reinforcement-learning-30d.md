@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <strong>30d</strong> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08669.html">Learning to build covering structures with continuous adjustments</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Gabriel Vallat et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08669">2609.08669</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04735.html">Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Frank Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04735">2609.04735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05774.html">Inference-Time Graph Engineering for Multi-Agent LLM Workflows</a></div></td>
+<td>Katherine Tieu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05774">2609.05774</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-28</td>

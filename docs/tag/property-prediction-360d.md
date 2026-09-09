@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.03220">2609.03220</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04261.html">Self-Supervised Pretraining of Molecular Graph Encoders with LeJEPA</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Michał Kulczykowski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04261">2609.04261</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25893.html">A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Yikun Han et al.</td>
@@ -1538,11 +1544,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11874.html">Descriptor and Graph-based Molecular Representations in Prediction of Copolymer Properties Using Machine Learning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Elaheh Kazemi-Khasragh et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11874">2509.11874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10871.html">Optimal message passing for molecular prediction is simple, attentive and spatial</a></div></td>
-<td>Alma C. Castaneda-Leautaud et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10871">2509.10871</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-properties — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <strong>90d</strong> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09576.html">The validity of the Stokes-Einstein relation in ionic liquids</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Gan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09576">2609.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09814.html">Comprehensive Study of L-Menthol and Octanoic Acid as a Hydrophobic Eutectic Solvent</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Bernarda Lovrinčević et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09814">2609.09814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07773.html">High-Field Electron Transport in AlGaN alloys: A Full-Band Monte Carlo Study Based on Ab Initio Supercell Calculations</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -308,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14888.html">Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>N. Mendez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14888">2606.14888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13561.html">Lone-Pair-Induced Lattice Softness Enables Ultralow Thermal Conductivity in Hybrid Organic-Inorganic Perovskite GuaPbI$_3$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Rudra P. Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13561">2606.13561</a></td>
 </tr>
 </tbody></table>

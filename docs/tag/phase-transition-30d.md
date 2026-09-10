@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transition — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <strong>30d</strong> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08535.html">Memory Control of Ice Growth During Non-Equilibrium Freezing of Water</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Abhigyan Hazarika et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08535">2609.08535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09469.html">High-pressure elastic properties of GeO2 polymorphs up to 120 GPa</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Gulshan Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09469">2609.09469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-04</td>

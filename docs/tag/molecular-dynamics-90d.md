@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09576.html">The validity of the Stokes-Einstein relation in ionic liquids</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Gan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09576">2609.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09814.html">Comprehensive Study of L-Menthol and Octanoic Acid as a Hydrophobic Eutectic Solvent</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Bernarda Lovrinčević et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09814">2609.09814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
 <td>Vsevolod Viliuga et al.</td>
@@ -38,6 +56,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Line Mouaffac et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09532.html">Comprehensive molecular dynamics study of the dynamical properties of a dense binary hard-sphere mixture</a></div></td>
+<td>Sabry G. Moustafa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09532">2609.09532</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -1640,29 +1664,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14978.html">Complementary Thermodynamic Mechanisms of Boron and Carbon Segregation at Grain Boundaries in Nickel Alloys</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Tyler D. Doležal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14978">2606.14978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12916.html">MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback</a></div></td>
-<td>Zehong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12916">2606.12916</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13283.html">Archê, an orbital-free molecular dynamics code for fast production of equations of state</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>William Weens et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13283">2606.13283</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13831.html">Combining Frozen Trajectory Excitation and TACAW for in silico Time-Resolved Vibrational Electron Energy Loss/Gain Spectroscopy</a></div></td>
-<td>Wojciech Marciniak et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13831">2606.13831</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="catalysis-90d.html">catalysis</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Luca Leoni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
 </tr>
 </tbody></table>

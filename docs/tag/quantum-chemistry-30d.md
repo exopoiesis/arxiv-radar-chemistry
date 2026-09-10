@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Muhammed H. Güneş et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08908.html">A Platform-aware Compilation Framework for Fault-tolerant Quantum Computation</a></div></td>
 <td>Srushti Patil et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08908">2609.08908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09304.html">Multivariate quantum state preparation with optimized tensor networks</a></div></td>
+<td>Matthew L. Sims-Goh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09304">2609.09304</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -128,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12297.html">Eigenstate Preparation Through Near-Optimal Eigenprobability Filtering</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Po-Wei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12297">2608.12297</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09570.html">Eigenvalue asymptotics for the one-particle density matrix and one-particle kinetic energy density operator</a></div></td>
-<td>Søren Fournais et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09570">2608.09570</a></td>
 </tr>
 </tbody></table>

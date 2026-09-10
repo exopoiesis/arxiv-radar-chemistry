@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Xinrui Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10099">2609.10099</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08101.html">PocketVE: Stable and Property-Guided Structure-Based Drug Design with Variance-Exploding Diffusion</a></div></td>
 <td>Peining Zhang et al.</td>
@@ -3242,11 +3248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13476.html">A Geometric Graph-Based Deep Learning Model for Drug-Target Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Md Masud Rana et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13476">2509.13476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11046.html">Hybrid Quantum Neural Networks for Efficient Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Seon-Geun Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11046">2509.11046</a></td>
 </tr>
 </tbody></table>

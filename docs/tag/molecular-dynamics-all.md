@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">2848 papers</span>
+  <span class="paper-count">2852 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09576.html">The validity of the Stokes-Einstein relation in ionic liquids</a></div><div class="paper-tags"><a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Gan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09576">2609.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09814.html">Comprehensive Study of L-Menthol and Octanoic Acid as a Hydrophobic Eutectic Solvent</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Bernarda Lovrinčević et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09814">2609.09814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="phase-transition-all.html">phase-transition</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="gnn-all.html">gnn</a> · <a href="protein-function-all.html">protein-function</a></div></td>
@@ -38,6 +56,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a></div></td>
 <td>Line Mouaffac et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09532.html">Comprehensive molecular dynamics study of the dynamical properties of a dense binary hard-sphere mixture</a></div></td>
+<td>Sabry G. Moustafa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09532">2609.09532</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>

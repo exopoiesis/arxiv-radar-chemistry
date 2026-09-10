@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>catalysis — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
 <td>Viktoria Waidbacher et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09293.html">Quantum-accurate atomistic modeling of enzyme catalysis using a machine learned potential</a></div></td>
+<td>Meng Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09293">2609.09293</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>

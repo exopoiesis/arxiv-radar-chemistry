@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09251.html">The energetics of force errors in machine-learned molecular dynamics</a></div></td>
+<td>Peng Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09251">2609.09251</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05671.html">Differentiable Solvation Shell Model for Rational Electrolyte Design</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Hancheng Zhao et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10910.html">Oxygen K-edge X-ray Absorption Spectroscopy Database for NMC811 Layered Cathode Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Jian He et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10910">2608.10910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09791.html">Predictive Simulation of Interphases on Li Metal Surface</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Xinyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09791">2608.09791</a></td>
 </tr>
 </tbody></table>

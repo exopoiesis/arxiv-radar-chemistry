@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1548 papers</span>
+  <span class="paper-count">1549 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09576.html">The validity of the Stokes-Einstein relation in ionic liquids</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Gan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09576">2609.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09814.html">Comprehensive Study of L-Menthol and Octanoic Acid as a Hydrophobic Eutectic Solvent</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Bernarda Lovrinčević et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09814">2609.09814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
@@ -38,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Line Mouaffac et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09532.html">Comprehensive molecular dynamics study of the dynamical properties of a dense binary hard-sphere mixture</a></div></td>
+<td>Sabry G. Moustafa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09532">2609.09532</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -9284,23 +9308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12397.html">Shock wave bending around a dusty plasma void</a></div></td>
 <td>Sachin Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12397">2509.12397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11960.html">Revealing trends in catalytic activity of adatoms for hydrogen adsorption on carbon: a case study of graphene and carbon nanotube</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Thomas Leiner et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11960">2412.11960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11231.html">Achieving DFT accuracy in short range ordering and stacking fault energy using moment tensor potential for CoCrFeNi and CoCrNi</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Mashroor S. Nitol et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11231">2509.11231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11317.html">Taylor series perspective on ab initio path integral Monte Carlo simulations with Fermi-Dirac statistics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Tobias Dornheim et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11317">2509.11317</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">579 papers</span>
+  <span class="paper-count">580 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09814.html">Comprehensive Study of L-Menthol and Octanoic Acid as a Hydrophobic Eutectic Solvent</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Bernarda Lovrinčević et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09814">2609.09814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08329.html">Band Structure Modulation of ZrO2 Nanoparticles for Control of CO Adsorption Properties: A Combined Density Functional Theory - Density Functional Tight Binding Study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
@@ -3482,11 +3494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12358.html">Unsupervised Atomic Data Mining via Multi-Kernel Graph Autoencoders for Machine Learning Force Fields</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Hong Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12358">2509.12358</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11231.html">Achieving DFT accuracy in short range ordering and stacking fault energy using moment tensor potential for CoCrFeNi and CoCrNi</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Mashroor S. Nitol et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11231">2509.11231</a></td>
 </tr>
 </tbody></table>

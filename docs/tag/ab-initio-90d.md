@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">284 papers</span>
+  <span class="paper-count">282 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09720.html">First-principles investigation of structural, mechanical, vibrational, thermal, electronic and optical properties of Na3Bi: a topological Dirac semimetal</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Maisha Fahmida et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09720">2609.09720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09977.html">From Block-encoding to Generalized Quantum Signal Processing: Principles, Algorithms and Applications</a></div></td>
+<td>Tal Gurfinkel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09977">2609.09977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Muhammed H. Güneş et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10381.html">A First-Principles Multiscale Framework for Topological Superconductivity</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Christopher L. Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10381">2609.10381</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08197.html">Pressure Evolution of Atomic Volume Systematics in Transition Metals</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -44,6 +68,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08913.html">Zirconium Carbide as a High-Temperature Benchmark for the Beyond Quasi-Harmonic Method</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Christopher M. Stanley</td>
 <td><a href="http://arxiv.org/abs/2609.08913">2609.08913</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09280.html">Multipole splats for optimized and inverted effective potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Matija Medvidović et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09280">2609.09280</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -1676,47 +1706,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14938.html">Fermi-Level-Dependent Defect Chemistry and Oxygen Evolution Reaction Activity of Fe-Doped and Oxygen-Deficient \ce{SrTiO3}(001)</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Amit Sehrawat et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14938">2606.14938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Mao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12998">2606.12998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13073.html">The leading nuclear-structure electrostatic correction in arbitrary $β$ decays</a></div></td>
-<td>Daniel Benatar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13073">2606.13073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13434.html">Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Ken Beard et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13434">2606.13434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13588.html">Cepstral Analysis to accelerate Green-Kubo thermal conductivity calculations of Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mof-90d.html">mof</a></div></td>
-<td>Florian P. Lindner et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13588">2606.13588</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Luca Leoni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13874.html">Dynamical multiferroicity in framework materials</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Marek Matas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13874">2606.13874</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Yu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
 </tr>
 </tbody></table>

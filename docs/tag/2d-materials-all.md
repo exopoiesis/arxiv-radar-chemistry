@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>2d-materials — all</h1>
-  <span class="paper-count">1076 papers</span>
+  <span class="paper-count">1078 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10301.html">Structural and Electronic Properties of Bulk $β$(2H)-GaSe from First-Principles DFT Calculations with van der Waals Corrections</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Julián A. Aros-González et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10301">2609.10301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10381.html">A First-Principles Multiscale Framework for Topological Superconductivity</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Christopher L. Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10381">2609.10381</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>

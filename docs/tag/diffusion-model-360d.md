@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Xinrui Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10099">2609.10099</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Binglin Ji et al.</td>
@@ -2582,11 +2588,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15242.html">ProFusion: 3D Reconstruction of Protein Complex Structures from Multi-view AFM Images</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Jaydeep Rade et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15242">2509.15242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11131.html">Neural cellular automata: applications to biology and beyond classical AI</a></div></td>
-<td>Benedikt Hartl et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11131">2509.11131</a></td>
 </tr>
 </tbody></table>

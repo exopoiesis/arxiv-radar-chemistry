@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">315 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Muhammed H. Güneş et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08352.html">Davydov Splitting Without a Davydov Pair and Highly Mobile Singlet Excitons in Perylene Red Microcrystals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -1886,23 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11616.html">Excited states in auxiliary field quantum Monte Carlo</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Ankit Mahajan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11616">2509.11616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11036.html">Consistent Modeling of Non-equilibrium Dust Sublimation and the Interactions with Dust Evolution in the Inner Regions of Protoplanetary Disks</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Sheng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11036">2509.11036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11231.html">Achieving DFT accuracy in short range ordering and stacking fault energy using moment tensor potential for CoCrFeNi and CoCrNi</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mashroor S. Nitol et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11231">2509.11231</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11317.html">Taylor series perspective on ab initio path integral Monte Carlo simulations with Fermi-Dirac statistics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Tobias Dornheim et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11317">2509.11317</a></td>
 </tr>
 </tbody></table>

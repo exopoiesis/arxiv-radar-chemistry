@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Muhammed H. Güneş et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08352.html">Davydov Splitting Without a Davydov Pair and Highly Mobile Singlet Excitons in Perylene Red Microcrystals</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -362,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14978.html">Complementary Thermodynamic Mechanisms of Boron and Carbon Segregation at Grain Boundaries in Nickel Alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Tyler D. Doležal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14978">2606.14978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12998.html">Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Mao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12998">2606.12998</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09576.html">The validity of the Stokes-Einstein relation in ionic liquids</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Gan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09576">2609.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09814.html">Comprehensive Study of L-Menthol and Octanoic Acid as a Hydrophobic Eutectic Solvent</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Bernarda Lovrinčević et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09814">2609.09814</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="phase-transition-7d.html">phase-transition</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="gnn-7d.html">gnn</a> · <a href="protein-function-7d.html">protein-function</a></div></td>
@@ -38,6 +56,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
 <td>Line Mouaffac et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09532.html">Comprehensive molecular dynamics study of the dynamical properties of a dense binary hard-sphere mixture</a></div></td>
+<td>Sabry G. Moustafa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09532">2609.09532</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -194,53 +218,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04548.html">From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes</a></div></td>
 <td>Alireza F. Behbahany et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04548">2609.04548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02397.html">Molecular-dynamics-based modal analysis of heat transport in quasi-one-dimensional systems from a symmetry-adapted perspective</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Yu-Jie Cen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02397">2609.02397</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02609.html">The Universal Role of Fragility on the Yielding Transition of Active Glass under Oscillatory Shear</a></div></td>
-<td>Arnab Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02609">2609.02609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02694.html">RBMD 2.0: Random batch molecular dynamics package for large-scale simulations on multi-GPU architectures</a></div></td>
-<td>Qi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02694">2609.02694</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02762.html">Relating solute interactions to interfacial properties</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Varun Mandalaparthy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02762">2609.02762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02824.html">Low-Temperature Transport in Li-Ion Battery EC/EMC/FEC Electrolytes: Molecular Dynamics and Machine-Learning Modeling</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>İpek Yenda Çınar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02824">2609.02824</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="enhanced-sampling-7d.html">enhanced-sampling</a></div></td>
-<td>Eslam Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03182.html">An Integrative Computational Approach to Predict Viral Epitopes by Targeting the MHC-TCR Complexation</a></div></td>
-<td>Jaya Vasavi Pamidimukkala et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03182">2609.03182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03211.html">Thermal history controls the optoelectronic response of lead halide perovskites through structure and dynamics</a></div><div class="paper-tags"><a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Milos Dubajic et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03211">2609.03211</a></td>
 </tr>
 </tbody></table>

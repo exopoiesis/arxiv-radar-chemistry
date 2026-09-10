@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Xinrui Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10099">2609.10099</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08101.html">PocketVE: Stable and Property-Guided Structure-Based Drug Design with Variance-Exploding Diffusion</a></div></td>
 <td>Peining Zhang et al.</td>
@@ -482,11 +488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14510.html">PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Junming Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14510">2606.14510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Yifan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12991">2606.12991</a></td>
 </tr>
 </tbody></table>

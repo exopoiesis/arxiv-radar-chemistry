@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08535.html">Memory Control of Ice Growth During Non-Equilibrium Freezing of Water</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Abhigyan Hazarika et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08535">2609.08535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09469.html">High-pressure elastic properties of GeO2 polymorphs up to 120 GPa</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Gulshan Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09469">2609.09469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-04</td>
@@ -188,17 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16181.html">Evaluating the Structural Basis for Polar Altermagnet Candidate Ca$_{3}$(Ru,Ti)$_{2}$O$_{7}$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Akash Saha et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16181">2606.16181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12811.html">A wrong ground-state structure of HfO$_2$ predicted by machine-learning interatomic potentials based on the PBE functional</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Shuqi Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12811">2606.12811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13257.html">Selective stabilization of antiferromagnetic orders in FeTe films via local strain engineering</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Hao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13257">2606.13257</a></td>
 </tr>
 </tbody></table>

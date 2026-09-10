@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>chemical-space — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <strong>30d</strong> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Xinrui Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10099">2609.10099</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04735.html">Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>

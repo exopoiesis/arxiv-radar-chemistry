@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09799.html">uFlowCSP: Crystal Structure Prediction using Mean flow generative models</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Sourin Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09799">2609.09799</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06159.html">Altermagnetism from the viewpoint of chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Nayana Devaraj et al.</td>
@@ -314,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14387.html">The Future of Computing for Materials Science Challenges</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Phalgun Lolur et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14387">2606.14387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13414.html">Physics-informed time-series forecasting of perovskite photoluminescence stability</a></div></td>
-<td>Alexander Wieczorek et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13414">2606.13414</a></td>
 </tr>
 </tbody></table>

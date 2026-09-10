@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
 <td>Viktoria Waidbacher et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09293.html">Quantum-accurate atomistic modeling of enzyme catalysis using a machine learned potential</a></div></td>
+<td>Meng Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09293">2609.09293</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -380,29 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14928.html">Controlling Porosity in Supraparticles Composed of Colloidal Rods and Spheres</a></div></td>
 <td>Kritika Kritika et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14928">2606.14928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13060.html">A green solvent screening tool for emerging materials via uncertainty aware, transformer enhanced transfer learning</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Ioannis Kouroudis et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13060">2606.13060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13144.html">Decoding Crystallographic Surface Chirality with Machine Learning: From Atomic Geometry to Fermi Surface Projections</a></div></td>
-<td>Chetana Badala Viswanatha et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13144">2606.13144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13660.html">Spin-Polarized Oxygen Evolution in Chiral-Molecule-Modified Plasmonic Photoanodes</a></div></td>
-<td>Priscila Vensaus et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13660">2606.13660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Luca Leoni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
 </tr>
 </tbody></table>

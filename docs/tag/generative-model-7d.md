@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09799.html">uFlowCSP: Crystal Structure Prediction using Mean flow generative models</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Sourin Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09799">2609.09799</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="protein-function-7d.html">protein-function</a></div></td>
 <td>Vsevolod Viliuga et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04465.html">The physical foundation beneath protein generative modeling</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Tianyu Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04465">2609.04465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02268.html">Retrosynthesis of Synthetic Media for Explainable AI Provenance Forensics</a></div><div class="paper-tags"><a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
-<td>Yijie Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02268">2609.02268</a></td>
 </tr>
 </tbody></table>

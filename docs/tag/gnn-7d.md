@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>gnn — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03816.html">When Vision Meets Graphs: A Survey on Graph Reasoning and Learning</a></div></td>
 <td>Xinjian Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03816">2609.03816</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02056.html">HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs</a></div></td>
-<td>Yihang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02056">2609.02056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04261.html">Self-Supervised Pretraining of Molecular Graph Encoders with LeJEPA</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Michał Kulczykowski et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04261">2609.04261</a></td>
 </tr>
 </tbody></table>

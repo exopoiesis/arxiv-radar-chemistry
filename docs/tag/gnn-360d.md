@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">390 papers</span>
+  <span class="paper-count">389 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2348,11 +2348,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11874.html">Descriptor and Graph-based Molecular Representations in Prediction of Copolymer Properties Using Machine Learning</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Elaheh Kazemi-Khasragh et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11874">2509.11874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11390.html">Quantum Graph Attention Networks: Trainable Quantum Encoders for Inductive Graph Learning</a></div></td>
-<td>Arthur M. Faria et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11390">2509.11390</a></td>
 </tr>
 </tbody></table>

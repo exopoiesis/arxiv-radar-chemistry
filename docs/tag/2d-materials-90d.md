@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10301.html">Structural and Electronic Properties of Bulk $β$(2H)-GaSe from First-Principles DFT Calculations with van der Waals Corrections</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Julián A. Aros-González et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10301">2609.10301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10381.html">A First-Principles Multiscale Framework for Topological Superconductivity</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Christopher L. Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10381">2609.10381</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Viktoria Waidbacher et al.</td>
@@ -542,17 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15764.html">Investigation of Shock Wave Dynamics in Complex Plasma via Computational Modelling</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Prateek Lamoria et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15764">2606.15764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13257.html">Selective stabilization of antiferromagnetic orders in FeTe films via local strain engineering</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Hao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13257">2606.13257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13434.html">Momentum Space Algorithm for Electronic Structure of Double-Incommensurate Trilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Ken Beard et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13434">2606.13434</a></td>
 </tr>
 </tbody></table>

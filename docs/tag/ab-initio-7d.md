@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09720.html">First-principles investigation of structural, mechanical, vibrational, thermal, electronic and optical properties of Na3Bi: a topological Dirac semimetal</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Maisha Fahmida et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09720">2609.09720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09977.html">From Block-encoding to Generalized Quantum Signal Processing: Principles, Algorithms and Applications</a></div></td>
+<td>Tal Gurfinkel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09977">2609.09977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
+<td>Muhammed H. Güneş et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10381.html">A First-Principles Multiscale Framework for Topological Superconductivity</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Christopher L. Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10381">2609.10381</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08197.html">Pressure Evolution of Atomic Volume Systematics in Transition Metals</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
@@ -44,6 +68,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08913.html">Zirconium Carbide as a High-Temperature Benchmark for the Beyond Quasi-Harmonic Method</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
 <td>Christopher M. Stanley</td>
 <td><a href="http://arxiv.org/abs/2609.08913">2609.08913</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09280.html">Multipole splats for optimized and inverted effective potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Matija Medvidović et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09280">2609.09280</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -146,29 +176,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04027.html">Cavity Ring-Down Spectroscopy at Benchmark-Level Sub-Permille Accuracy Enabled by a System-Level Detection Transfer Function</a></div></td>
 <td>Rajesh Chell et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04027">2609.04027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Daniel Duarte-Ruiz et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02815.html">Relaxation effects on Hartree-Fock ground states in twisted bilayer graphene at even integer fillings</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Tianyu Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02815">2609.02815</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03041.html">Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Ritam Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03041">2609.03041</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Eslam Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
 </tr>
 </tbody></table>

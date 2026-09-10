@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09799.html">uFlowCSP: Crystal Structure Prediction using Mean flow generative models</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Sourin Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09799">2609.09799</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="protein-function-30d.html">protein-function</a></div></td>
 <td>Vsevolod Viliuga et al.</td>
@@ -170,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12192.html">How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Aleksandra Kalisz et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12192">2608.12192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09143.html">UniMoFlow: Grounding Instruction-Driven 3D Human Motion Editing in Generation</a></div></td>
-<td>Yilei Hua et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09143">2608.09143</a></td>
 </tr>
 </tbody></table>

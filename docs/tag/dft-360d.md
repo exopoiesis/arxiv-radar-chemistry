@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2023 papers</span>
+  <span class="paper-count">2026 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09720.html">First-principles investigation of structural, mechanical, vibrational, thermal, electronic and optical properties of Na3Bi: a topological Dirac semimetal</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Maisha Fahmida et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09720">2609.09720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Felix Uddén et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10301.html">Structural and Electronic Properties of Bulk $β$(2H)-GaSe from First-Principles DFT Calculations with van der Waals Corrections</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Julián A. Aros-González et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10301">2609.10301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10381.html">A First-Principles Multiscale Framework for Topological Superconductivity</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Christopher L. Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10381">2609.10381</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08197.html">Pressure Evolution of Atomic Volume Systematics in Transition Metals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
@@ -74,6 +98,24 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08984.html">The inverse problem of time-dependent density functional theory on the torus</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Asbjørn Bækgaard Lauritsen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08984">2609.08984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09280.html">Multipole splats for optimized and inverted effective potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Matija Medvidović et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09280">2609.09280</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09446.html">Origin of Flat Bands and Role of Electron Correlation in Lutetium Hydrides</a></div></td>
+<td>Anmol Lamichhane et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09446">2609.09446</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09469.html">High-pressure elastic properties of GeO2 polymorphs up to 120 GPa</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Gulshan Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09469">2609.09469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -12128,29 +12170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12509.html">Leveraging Machine Learning Force Fields (MLFFs) to Simulate Large Atomistic Systems for Fidelity Improvement of Superconducting Qubits and Sensors</a></div></td>
 <td>Søren Smidstrup et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12509">2509.12509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13146.html">A deep learning model for chemical shieldings in molecular organic solids including anisotropy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Matthias Kellner et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13146">2506.13146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11036.html">Consistent Modeling of Non-equilibrium Dust Sublimation and the Interactions with Dust Evolution in the Inner Regions of Protoplanetary Disks</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Sheng Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11036">2509.11036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11200.html">&quot;Adiabatic&quot; Elastic Constants in Hubbard-Corrected Density-Functional Theory DFT+U: case UO$_2$</a></div></td>
-<td>Mahmoud Payami et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11200">2509.11200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11231.html">Achieving DFT accuracy in short range ordering and stacking fault energy using moment tensor potential for CoCrFeNi and CoCrNi</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Mashroor S. Nitol et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11231">2509.11231</a></td>
 </tr>
 </tbody></table>

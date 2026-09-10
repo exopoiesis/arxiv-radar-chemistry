@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09799.html">uFlowCSP: Crystal Structure Prediction using Mean flow generative models</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Sourin Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09799">2609.09799</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-function-90d.html">protein-function</a></div></td>
@@ -476,17 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19377.html">Emyx: Fast and efficient all-atom protein generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Nicholas J. Williams et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19377">2606.19377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12991.html">APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Yifan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12991">2606.12991</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13629.html">Valid Inference with Synthetic Data via Task Exchangeability</a></div></td>
-<td>Lezhi Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13629">2606.13629</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10301.html">Structural and Electronic Properties of Bulk $β$(2H)-GaSe from First-Principles DFT Calculations with van der Waals Corrections</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Julián A. Aros-González et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10301">2609.10301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10381.html">A First-Principles Multiscale Framework for Topological Superconductivity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Christopher L. Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10381">2609.10381</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08742.html">The absence of a central metal ion destabilizes phthalocyanine on In$_2$O$_3$(111)</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Viktoria Waidbacher et al.</td>
@@ -3194,17 +3206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12433.html">Skeletal editing by tip-induced chemistry</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Shantanu Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12433">2509.12433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11960.html">Revealing trends in catalytic activity of adatoms for hydrogen adsorption on carbon: a case study of graphene and carbon nanotube</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Thomas Leiner et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11960">2412.11960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11380.html">Si-Substituted MAX Phases and In-Situ Formation of Si-coated MXene Composites via Chlorosilane Etching</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Xudong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11380">2509.11380</a></td>
 </tr>
 </tbody></table>

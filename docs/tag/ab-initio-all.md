@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">2855 papers</span>
+  <span class="paper-count">2860 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09720.html">First-principles investigation of structural, mechanical, vibrational, thermal, electronic and optical properties of Na3Bi: a topological Dirac semimetal</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Maisha Fahmida et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09720">2609.09720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09977.html">From Block-encoding to Generalized Quantum Signal Processing: Principles, Algorithms and Applications</a></div></td>
+<td>Tal Gurfinkel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09977">2609.09977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Muhammed H. Güneş et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10381.html">A First-Principles Multiscale Framework for Topological Superconductivity</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Christopher L. Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10381">2609.10381</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08197.html">Pressure Evolution of Atomic Volume Systematics in Transition Metals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
@@ -44,6 +68,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08913.html">Zirconium Carbide as a High-Temperature Benchmark for the Beyond Quasi-Harmonic Method</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="materials-science-all.html">materials-science</a></div></td>
 <td>Christopher M. Stanley</td>
 <td><a href="http://arxiv.org/abs/2609.08913">2609.08913</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09280.html">Multipole splats for optimized and inverted effective potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Matija Medvidović et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09280">2609.09280</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>

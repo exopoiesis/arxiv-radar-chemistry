@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.08742">2609.08742</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09293.html">Quantum-accurate atomistic modeling of enzyme catalysis using a machine learned potential</a></div></td>
+<td>Meng Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09293">2609.09293</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06949.html">Quantum hot carrier spectra in plasmonic catalysis</a></div></td>
 <td>Yu Chen et al.</td>
@@ -1886,11 +1892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13479.html">From Data to Alloys Predicting and Screening High Entropy Alloys for High Hardness Using Machine Learning</a></div></td>
 <td>Rahul Bouri et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13479">2509.13479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11380.html">Si-Substituted MAX Phases and In-Situ Formation of Si-coated MXene Composites via Chlorosilane Etching</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Xudong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11380">2509.11380</a></td>
 </tr>
 </tbody></table>

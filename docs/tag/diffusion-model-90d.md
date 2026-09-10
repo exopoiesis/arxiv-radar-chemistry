@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Xinrui Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10099">2609.10099</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
@@ -344,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19377.html">Emyx: Fast and efficient all-atom protein generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Nicholas J. Williams et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19377">2606.19377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13451.html">Uncertainty Estimation for Molecular Diffusion Models</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Paul Seij et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13451">2606.13451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14797.html">Hierarchical Autocatalytic Systems as a Bridge between Maximum Entropy Production and Bayesian Posterior Contraction: A Numerical Study with Stochastic-Thermodynamic Bounds</a></div></td>
-<td>Yoshinori Watanabe</td>
-<td><a href="http://arxiv.org/abs/2606.14797">2606.14797</a></td>
 </tr>
 </tbody></table>

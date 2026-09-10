@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Muhammed H. Güneş et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08908.html">A Platform-aware Compilation Framework for Fault-tolerant Quantum Computation</a></div></td>
 <td>Srushti Patil et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08908">2609.08908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09304.html">Multivariate quantum state preparation with optimized tensor networks</a></div></td>
+<td>Matthew L. Sims-Goh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09304">2609.09304</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -326,23 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14207.html">Fast and accurate simulation of Raman spectra of gold-organic systems</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Auguste Tetenoire et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14207">2606.14207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13118.html">Hamiltonian-Aware ADAPT Variational Quantum Eigensolver for Molecular Ground-State Simulation</a></div></td>
-<td>Runhong He et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13118">2606.13118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13380.html">An LLM System for Autonomous Variational Quantum Circuit Design</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Kenya Sakka et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13380">2606.13380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13387.html">Representation-Induced Symmetry Trapping in Adaptive Variational Quantum Simulations of Multi-Reference Topologies</a></div></td>
-<td>Hermawan Kresno Dipojono</td>
-<td><a href="http://arxiv.org/abs/2606.13387">2606.13387</a></td>
 </tr>
 </tbody></table>

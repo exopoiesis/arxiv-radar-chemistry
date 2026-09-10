@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">361 papers</span>
+  <span class="paper-count">362 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Muhammed H. Güneş et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08908.html">A Platform-aware Compilation Framework for Fault-tolerant Quantum Computation</a></div></td>
 <td>Srushti Patil et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08908">2609.08908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09304.html">Multivariate quantum state preparation with optimized tensor networks</a></div></td>
+<td>Matthew L. Sims-Goh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09304">2609.09304</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -2174,11 +2186,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01205.html">Integrated Software/Hardware Execution Models for High-Accuracy Methods in Chemistry</a></div></td>
 <td>Nicholas Bauman et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01205">2510.01205</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11317.html">Taylor series perspective on ab initio path integral Monte Carlo simulations with Fermi-Dirac statistics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Tobias Dornheim et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11317">2509.11317</a></td>
 </tr>
 </tbody></table>

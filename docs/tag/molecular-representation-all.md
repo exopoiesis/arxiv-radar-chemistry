@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">272 papers</span>
+  <span class="paper-count">273 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Xinrui Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10099">2609.10099</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07531.html">Simulation-Supervised Foundation Models for Retention Time Prediction in High-Performance Liquid Chromatography beyond Experimental Data Coverage</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

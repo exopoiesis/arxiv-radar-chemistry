@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11602.html">Breaking Water at Graphene Defects</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="catalysis-30d.html">catalysis</a></div></td>
+<td>Samuel G. H. Brookes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11602">2609.11602</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09814.html">Comprehensive Study of L-Menthol and Octanoic Acid as a Hydrophobic Eutectic Solvent</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Bernarda Lovrinčević et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11812.html">Data-Efficient Adaptation of DPA-4 Force Fields to DFT+U Energetics: A Case Study in NiO</a></div></td>
 <td>Fengyu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11812">2608.11812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Abhishek Raghav et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
 </tr>
 </tbody></table>

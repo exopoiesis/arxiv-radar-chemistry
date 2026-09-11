@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11602.html">Breaking Water at Graphene Defects</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="catalysis-7d.html">catalysis</a></div></td>
+<td>Samuel G. H. Brookes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11602">2609.11602</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09814.html">Comprehensive Study of L-Menthol and Octanoic Acid as a Hydrophobic Eutectic Solvent</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Bernarda Lovrinčević et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="gnn-7d.html">gnn</a></div></td>
 <td>Yiming Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04432.html">Recovering molecules from coarse-grained beads: free-energy-conditioned generative backmapping across chemical space</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Luis Itza Vazquez-Salazar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04432">2609.04432</a></td>
 </tr>
 </tbody></table>

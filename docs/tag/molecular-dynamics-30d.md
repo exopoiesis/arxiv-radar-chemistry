@@ -16,6 +16,30 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10977.html">A model of grain growth in UN integrating molecular dynamics, phase-field modeling, and uncertainty quantification</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Mohamed AbdulHameed et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10977">2609.10977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11459.html">Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>David Kaiser et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11459">2609.11459</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11551.html">Skyrmion nucleus resolves the Landauer paradox</a></div></td>
+<td>Jiyuan Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11551">2609.11551</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11666.html">Competition between vacancy creation and filling in defect-engineering of hBN</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
+<td>Shrirang Chokappa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11666">2609.11666</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09576.html">The validity of the Stokes-Einstein relation in ionic liquids</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Gan Ren et al.</td>
@@ -32,6 +56,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Felix Uddén et al.</td>
 <td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10822.html">A Colour-Casimir Adjacency Matrix Approach to Fully-Heavy Tetraquarks</a></div></td>
+<td>M. Monemzadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10822">2609.10822</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-08</td>
@@ -722,35 +752,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12572.html">Memory-dependent electronic friction for nonadiabatic dynamics at metal surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Xuexun Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12572">2608.12572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Abhishek Raghav et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10435.html">DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Jiabao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10435">2608.10435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10578.html">Scaling of soft QGP signatures in relativistic lead, xenon and oxygen collisions in EPOS4</a></div></td>
-<td>Salman Khurshid Malik et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10578">2608.10578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10734.html">Multi-scale modeling of high strain rate deformation and spall fracture in poly-crystalline metals</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>S Madhavan</td>
-<td><a href="http://arxiv.org/abs/2608.10734">2608.10734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11466.html">Accurate Evaluation of Nanoscale Spatiotemporal Dynamics with Electron Correlation Microscopy</a></div></td>
-<td>Po-Cheng Kung et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11466">2608.11466</a></td>
 </tr>
 </tbody></table>

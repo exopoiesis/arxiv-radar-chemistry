@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11071.html">Coherent Floquet quantum reservoirs for molecular property prediction</a></div></td>
+<td>Luofei Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11071">2609.11071</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05381.html">Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models</a></div></td>
 <td>Matthias Busch et al.</td>
@@ -1538,11 +1544,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13527.html">Meta-Learning Linear Models for Molecular Property Prediction</a></div></td>
 <td>Yulia Pimonova et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13527">2509.13527</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11874.html">Descriptor and Graph-based Molecular Representations in Prediction of Copolymer Properties Using Machine Learning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Elaheh Kazemi-Khasragh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11874">2509.11874</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11881.html">Low temperature thermodynamics of $S_{\mathrm{eff}}=1/2$ triangular lattice quantum spin liquid candidate TlYbS$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Bishnu P. Belbase et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11881">2609.11881</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09576.html">The validity of the Stokes-Einstein relation in ionic liquids</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Gan Ren et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04955.html">Nuclear quantum effects in the thermal conductivity of solid hydrogen</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Hengtai Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04955">2609.04955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03513.html">Competing lattice structures induced by Sn substitution in CsV$_3$Sb$_5$</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Anshu Kataria et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03513">2609.03513</a></td>
 </tr>
 </tbody></table>

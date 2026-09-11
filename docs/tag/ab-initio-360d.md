@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1552 papers</span>
+  <span class="paper-count">1547 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11459.html">Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>David Kaiser et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11459">2609.11459</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09720.html">First-principles investigation of structural, mechanical, vibrational, thermal, electronic and optical properties of Na3Bi: a topological Dirac semimetal</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
@@ -9290,41 +9296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13294.html">Accelerating Protein Molecular Dynamics Simulation with DeepJump</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Allan dos Santos Costa et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13294">2509.13294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21446.html">Amorphous phase-change memory alloy with no resistance drift</a></div></td>
-<td>Xiaozhe Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21446">2503.21446</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15760.html">Moment Tensor Potential and Equivariant Tensor Network Potential with explicit dispersion interactions</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Olga Chalykh et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15760">2504.15760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17192.html">Unconventional tunnel magnetoresistance scaling with altermagnets</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Zongmeng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17192">2505.17192</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02374.html">Sodium-Decorated P-C3N: A Porous 2D Framework for High-Capacity and Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jose A. S. Laranjeira et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02374">2506.02374</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11747.html">Generic continuum model formalism for moiré superlattice systems</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Bo Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11747">2509.11747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11897.html">Reconfigurable, non-volatile control of optical anisotropy in ReS2 via ferroelectric gating</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mahfujur Rahaman et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11897">2509.11897</a></td>
 </tr>
 </tbody></table>

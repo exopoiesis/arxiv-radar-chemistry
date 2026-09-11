@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,29 +464,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21395.html">Atomistic Language Models Understand and Generate Materials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Sathya Edamadaka et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21395">2606.21395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14159.html">Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Shuai Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14159">2606.14159</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14217.html">Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="gnn-90d.html">gnn</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Peng-Fei Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14217">2606.14217</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14245.html">Where Black-box Drug-Target Interaction Prediction Models Look: Cross-Method Explainability</a></div></td>
-<td>Ali Vefghi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14245">2606.14245</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14510.html">PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Junming Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14510">2606.14510</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11138.html">Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Jakob Wolff et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11138">2609.11138</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08586.html">On the Invertibility of the Potential-Density Mapping for the Vlasov-Poisson System in Analytic Spaces</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Simon Le Bouëdec</td>
@@ -1316,11 +1322,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16252.html">Low-energy proton impact dynamics on hydrocarbons: Dependence on kinetic energy and incident site</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Misa Viveiros et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16252">2509.16252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11616.html">Excited states in auxiliary field quantum Monte Carlo</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Ankit Mahajan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11616">2509.11616</a></td>
 </tr>
 </tbody></table>

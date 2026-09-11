@@ -5968,5 +5968,566 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-09-09"
+ },
+ "2609.10614": {
+  "abstract": "Generative models now propose millions of \"stable\" crystal structures, and their own referees have shown that stability is not discovery; no public benchmark asks whether a candidate has the physics to do a job. For superconductors the job is twofold: to pair, with a definite gap symmetry, and to become wire. We present a physics judge that answers both from a structure alone (DFT+U, a gated Wannier model, the full rank-4 RPA susceptibility on a $24^3$ mesh, the linearized gap equation, an irreducible-representation classifier, a manufacturability funnel) and measure what it says about what generators propose. With answer keys pre-registered before computing, the judge was calibrated on six known superconductors (Nb, Nb$_3$Sn, MgB$_2$, BaFe$_2$As$_2$, La$_{2-x}$Sr$_x$CuO$_4$, YBa$_2$Cu$_3$O$_7$), recovering the expected class in all six after two dated corrections. On the ruthenium analogue of the iron pnictide, with two runs and their criterion pre-registered the day before, it returns a null verdict at the same physical interaction where iron gives s$\\pm$ ($λ_1 \\le 0.0007$ versus 0.096; critical U 4.17 versus 0.97 eV); the pre-registered equal-alpha run fails the letter of the criterion, and we declare the resolution in favour of absolute U as post-hoc. The funnel reproduces the industrial map with thresholds fixed before running. Three generation audits follow: a descriptor sweep over 150 Materials Project metals re-finds the canon; 1,248 MatterGen structures yield 0 candidates that are new, stable and carry a pairing motif; mechanism filters over 47,893 compounds, validated by a blind hold-out, re-derive the community's analogies: geometry plus d-count is necessary but not sufficient. Generation re-finds what is known; judgment is the bottleneck. We propose a public benchmark over the eleven lists of AI-proposed superconductor candidates, none of which classifies gap symmetry.",
+  "authors": [
+   "Reinaldo Inácio"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 3 figures. Data, dated pre-registrations and supplementary tables S1-S7 at https://doi.org/10.5281/zenodo.22651560",
+  "first_author": "Reinaldo Inácio",
+  "pdf_url": "http://arxiv.org/pdf/2609.10614",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-09-08",
+  "tags": [
+   "dft",
+   "generative-model"
+  ],
+  "title": "Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.10822": {
+  "abstract": "We present a phenomenological framework for fully-heavy tetraquark spectroscopy based on the spectral theory of weighted graphs. The four valence partons are vertices of the complete graph $K_4$, with edge weights determined by colour-Casimir factors in the two colour-singlet diquark-antidiquark channels, $\\bar{3}\\otimes3$ and $6\\otimes\\bar{6}$. A physical state is described as a coherent mixture of these channels through one mixing angle. Unlike an earlier Laplacian-based version, we obtain the spectrum by directly diagonalising the colour-weighted adjacency matrix. We show analytically that the two constructions are inequivalent and that the Laplacian reverses the physically expected relation between colour attraction and mass ordering. Using $X(6900)$, $X(7100)$, and the tentative $X(7200)$ to determine the mixing angle, energy scale, and effective charm mass, we find $α=0.740$, $γ=23.2$ MeV, and $m_c=1.77$ GeV. Since three parameters are fixed by three inputs, this calibration is not an independent statistical test. The predictive content comes from applying the same parameters elsewhere: the all-bottom ground state is predicted at 18.7-18.9 GeV, while the colour-only model under-binds $T_{cc}^+$ by about 93 MeV. This discrepancy provides a quantitative indication of long-range molecular dynamics beyond a compact four-parton colour graph. We discuss the tentative nature of $X(7200)$, the tension with the CMS radial-excitation interpretation, and the limitations of a static model without spin, orbital, or decay dynamics.",
+  "authors": [
+   "M. Monemzadeh",
+   "N. Tazimi"
+  ],
+  "categories": [
+   "hep-ph",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "M. Monemzadeh",
+  "pdf_url": "http://arxiv.org/pdf/2609.10822",
+  "primary_category": "hep-ph",
+  "published": "2026-09-09",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "A Colour-Casimir Adjacency Matrix Approach to Fully-Heavy Tetraquarks",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-09"
+ },
+ "2609.10856": {
+  "abstract": "Large language models are becoming the first point of contact for consumer search in domains where the stakes are material and the law is explicit. Existing audits show that models steer housing seekers by perceived identity, but none can say what a user loses when a recommender overlooks a suitable option, for want of an enumerated inventory to score omissions against. We audit AI housing recommendation against a verifiable ground truth. For each of 150 synthetic renter scenarios in New York City we build a pool of 120 real listings with known rent, bedrooms and GTFS-computed transit commute, compute the exact set satisfying the renter's stated constraints, and derive its Pareto frontier. The primary outcome assumes no utility function: a recommendation is strictly dominated if the same pool holds a listing cheaper, faster to commute from and no smaller in bedrooms. Across 9,945 calls to three models from two vendors, compliance is near-perfect (1.8% violation against a 66.6% random floor), yet 39.0% of recommendations are strictly dominated, and the dominating listing is a median 900 USD/month cheaper and 3.5 minutes closer. A within-scenario manipulation separates two capabilities usually conflated: changing one sentence moves median recommended rent by 646 USD/month in the correct direction, so preferences are honored, yet recommendations still sit 606 USD/month above the five cheapest qualifying listings on the same screen, and an unambiguous lexicographic instruction gives no improvement under equivalence testing against a pre-specified 50 USD/month bound. The gap widens with candidate-set size and replicates across OpenAI and Anthropic models to within 3 USD. We characterize the failure as compliance without optimization, propose dominance-rate instrumentation as a deployable diagnostic, and release all code, prompts and per-call results.",
+  "authors": [
+   "Hsuan Lo"
+  ],
+  "categories": [
+   "cs.CY",
+   "cs.IR"
+  ],
+  "comment": "59 pages, 4 figures, 31 tables. Code, prompts, and per-call results: https://github.com/hsuanlolo/ai-housing-audit",
+  "first_author": "Hsuan Lo",
+  "pdf_url": "http://arxiv.org/pdf/2609.10856",
+  "primary_category": "cs.CY",
+  "published": "2026-09-09",
+  "tags": [],
+  "title": "Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-09"
+ },
+ "2609.10898": {
+  "abstract": "Crystal-orientation maps are physical fields defined only up to crystal symmetry; electron backscatter diffraction (EBSD) resolves them experimentally, but acquisition-time constraints limit spatial resolution. Unlike conventional images, EBSD data lie on the quotient space $\\mathrm{SO}(3)/G$, where $G$ is the crystal-symmetry group. Standard Euclidean interpolation can therefore mix symmetry-equivalent representations and blur grain boundaries. We introduce the Symmetry-Group-Aware Super-Resolution Attention Network (SG-SRAN), which incorporates crystal symmetry and boundary preservation by design. A frozen, locally isometric encoder maps equivalent orientations to a common latent representation in which Euclidean distance approximates misorientation. Super-resolution is performed in this space, with each high-resolution token restricted to a feature-consistent local support to prevent cross-boundary mixing. A dictionary-based decoder then recovers valid orientations. Across FCC and HCP benchmarks, SG-SRAN matches 15-16 million parameter backbones using only 27-49k trainable parameters, while achieving the lowest p68 errors, highest inverse-pole-figure fidelity, and zero-shot transfer to unseen alloys.",
+  "authors": [
+   "Umang Garg",
+   "Warren Zamudio",
+   "McLean P. Echlin",
+   "Samantha H. Daly",
+   "Tresa M. Pollock",
+   "B. S. Manjunath"
+  ],
+  "categories": [
+   "cs.CV",
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "37 pages, 11 figures",
+  "first_author": "Umang Garg",
+  "pdf_url": "http://arxiv.org/pdf/2609.10898",
+  "primary_category": "cs.CV",
+  "published": "2026-09-09",
+  "tags": [],
+  "title": "Symmetry-aware super-resolution of crystal orientation maps via invariant latent-space learning",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-09"
+ },
+ "2609.10977": {
+  "abstract": "Grain growth kinetics and grain-boundary (GB) properties in uranium mononitride (UN) are investigated through an integrated multiscale framework combining molecular dynamics (MD), phase-field modeling, and surrogate-assisted uncertainty quantification. MD simulations yield GB energies for 27 symmetric tilt boundaries from 0--2000~K, which are consistent with available DFT values. The average GB energy is nearly temperature-independent below 1000~K and increases at higher temperatures. A mechanistic pore-drag model applied to the only available grain growth dataset for actinide nitrides yields a mobility reduction factor of $s \\approx 0.93$--$0.99$, statistically indistinguishable from unity, confirming that pore drag is negligible under the experimental conditions. The intrinsic GB mobility is therefore extracted directly from the effective mobility, yielding $M_0 = 2.05\\times10^{-15}$~m$^4$/(J$\\cdot$s) and $Q_M = 0.89$~eV. Phase-field simulations conducted from 1500--2000~K confirm normal curvature-driven grain growth, with grain size distributions converging to the Hillert-like form. A surrogate-assisted global sensitivity analysis---combining principal component analysis, Gaussian process regression, and Sobol decomposition---reveals that the mobility prefactor $M_0$ dominates output variance at all times, followed by the activation energy $Q_M$, while the GB energy $γ$ contributes minimally. These results establish the first quantitative grain growth framework for UN and identify the reduction of uncertainty in $M_0$ and $Q_M$ as the highest-priority target for future experimental efforts.",
+  "authors": [
+   "Mohamed AbdulHameed",
+   "Fadel M. Nasr",
+   "Wen Jiang",
+   "Mahmoud Yaseen",
+   "Benjamin Beeler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Mohamed AbdulHameed",
+  "pdf_url": "http://arxiv.org/pdf/2609.10977",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "dft",
+   "molecular-dynamics"
+  ],
+  "title": "A model of grain growth in UN integrating molecular dynamics, phase-field modeling, and uncertainty quantification",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11071": {
+  "abstract": "Quantum reservoir computing (QRC) uses quantum dynamics to represent input histories for prediction through a trained classical readout. Discrete time crystals (DTCs) exhibit robust subharmonic responses under periodic driving, and previous work has used their dynamics to construct DTC-QRC. Here we construct a DTC-based reservoir architecture to predict molecular properties from structural and dynamical observations. Coherent Floquet evolution processes local molecular graph events and surface-hopping frames, while controlled reset regulates the contribution of earlier inputs. Measurements at the end of each input sequence yield a feature vector of fixed dimension. Trained classical decoders use this vector for inhibitor-activity and blood--brain-barrier permeability classification and electronic-gap forecasting, while the reservoir parameters remain fixed during training. With matched input lengths and output widths, DTC-QRC outperforms echo-state networks on long-prefix graph classification and the studied ethene gap forecasting tasks. Dephasing lowers performance in both applications, consistent with a role for coherent propagation. Experiments on the Quafu superconducting quantum cloud platform show that pair observables retain task information under device noise. The architecture provides a common framework for molecular screening and time-resolved property prediction using quantum reservoir computing.",
+  "authors": [
+   "Luofei Wang",
+   "Da Zhang",
+   "Congren Wang",
+   "Yiming Li",
+   "Yuxiao Yang",
+   "Xuan Zhang",
+   "Xuefeng Cui",
+   "Zhang-Qi Yin"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.LG"
+  ],
+  "comment": "15 pages, 10 figures",
+  "first_author": "Luofei Wang",
+  "pdf_url": "http://arxiv.org/pdf/2609.11071",
+  "primary_category": "quant-ph",
+  "published": "2026-09-10",
+  "tags": [
+   "property-prediction"
+  ],
+  "title": "Coherent Floquet quantum reservoirs for molecular property prediction",
+  "topics": [
+   "Property Prediction & ADMET",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11138": {
+  "abstract": "The two-dimensional homogeneous electron gas (2D HEG) is a prototype system of fundamental interest that can be realized experimentally over a wide range of densities. Here, we investigate its collective charge excitations at low densities, using time-dependent density functional theory. We demonstrate that, beyond traditional plasmons, new collective excitonic modes emerge for a Wigner-Seitz radius larger than $r_{\\mathrm s} \\approx 1$. These excitonic modes leave characteristic fingerprints in experimentally accessible quantities, namely, asymmetric peak structures in the loss function and very strong Friedel-like oscillations in the static linear density response that increase when the system approaches a regime of instability. Indeed, at low enough densities the collective modes cross the zero energy axis, indicating an instability of the paramagnetic 2D HEG towards the formation of a charge-density-wave phase with excitonic origin. These findings provide valuable insights for the experimental detection of excitonic collective modes in tunable 2D electron systems and contribute to the fundamental understanding of many-body effects in low-density electron gases.",
+  "authors": [
+   "Jakob Wolff",
+   "Silvana Botti",
+   "Lucia Reining",
+   "Matteo Gatti"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Jakob Wolff",
+  "pdf_url": "http://arxiv.org/pdf/2609.11138",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-09-10",
+  "tags": [
+   "dft",
+   "excited-states"
+  ],
+  "title": "Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11261": {
+  "abstract": "Five decades of litigation have disgorged hundreds of millions of pages of formerly secret business records from the tobacco industry, along with documents from the makers of drugs, chemicals, food, firearms, and fossil fuels. Yet these archives have been effectively inaccessible to general-purpose large language models (LLMs) because they have never been compiled into an LLM-readable corpus. Chatbots may be familiar with some of the materials contained in such archives but, with no direct access to the documents, they are vulnerable to hallucination and other defects. Here we introduce INDRA, a research platform designed to remedy such failures by embedding the conventions of archival historiography into a system-level protocol governing every output. The platform federates UCSF's Industry Documents Library, Columbia and CUNY's ToxicDocs, Stanford's SRITA, and other heretofore siloed collections, and provides three interlinked safeguards: (1) a closed evidentiary sandbox confines the model to a user-selected corpus, blocking retrieval from external sources that could introduce bias; (2) real-time provenance tagging marks the boundary between archival evidence and parametric inference; and (3) a system-level protocol enforced by deterministic scripts guides the structure of every output. Together these safeguards prevent the model from conflating \"the documents say X\" with \"I think X\" or \"I learned X from prior training.\" The result is an LLM-powered research partner enabling massive multi-archival investigations, a tool whose outputs are designed to be checked rather than trusted, and whose architecture makes the conditions of knowledge production visible and auditable. Three case studies demonstrate the method's analytical value and limitations, including what we call the Heraclitus effect, the steppingstone dilemma, and the gullibility (or mafia) problem.",
+  "authors": [
+   "Daniel Akselrad",
+   "Robert N. Proctor"
+  ],
+  "categories": [
+   "cs.DL",
+   "cs.CL",
+   "cs.CY"
+  ],
+  "comment": "35 pages, 6 figures, Appendices available at https://indra.stanford.edu/methods/appendices",
+  "first_author": "Daniel Akselrad",
+  "pdf_url": "http://arxiv.org/pdf/2609.11261",
+  "primary_category": "cs.DL",
+  "published": "2026-09-10",
+  "tags": [],
+  "title": "INDRA: A New AI Tool for Exploring Tobacco, Fossil Fuel, and Chemical Industry Archives",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11298": {
+  "abstract": "Modulo-folding ADCs reduce power consumption by restricting the dynamic range of the sampled signal before quantization, at the cost of an unfolding step needed to recover the true samples before any further processing. We show that this unfolding step can be skipped entirely for symbol detection, even in a realistic, oversampled setting where additive noise is present before the modulo operator and becomes correlated as it passes through the receiver's front-end filter, and separate quantization noise is further introduced due to the ADC. We show that a specific residual, formed from the folded, quantized observations and a candidate symbol hypothesis, exactly cancels the unknown integer wrap introduced by folding, so that the likelihood of a hypothesis is the density of the folded noise evaluated at that residual. Starting from this exact likelihood an intractable lattice sum over all integer wrap vectors, we show that the wrap vector is ternary and sparse with high probability whenever the folding threshold exceeds the noise standard deviation, so that at a threshold-to-noise ratio of three or more the sum is well approximated by a single Gaussian term. The resulting Mahalanobis maximum-likelihood detector works directly on the folded, quantized samples, and a block-structured search keeps detection tractable for long symbol sequences. Simulations confirm that in this regime our detector tracks the accuracy of a conventional, non-folding ADC closely across a wide range of SNRs, while the unfolding-based baselines need substantially higher oversampling to reach comparable accuracy.",
+  "authors": [
+   "Krunal Vaghela",
+   "Kumar Appaiah",
+   "Satish Mulleti"
+  ],
+  "categories": [
+   "eess.SP"
+  ],
+  "comment": "9 pages",
+  "first_author": "Krunal Vaghela",
+  "pdf_url": "http://arxiv.org/pdf/2609.11298",
+  "primary_category": "eess.SP",
+  "published": "2026-09-10",
+  "tags": [],
+  "title": "Fold First, Detect Directly: Communication Symbol Detection Without Unfolding for Low-Bitrate Modulo-ADCs",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11346": {
+  "abstract": "Altermagnets (AMs) exhibit momentum-dependent spin splitting without net magnetization, making them promising platforms for spintronic applications. While the symmetry and multipolar origins of nonrelativistic altermagnetic spin splitting (NRASS) are well established, the role of electronic correlations and spin-lattice coupling (SLC) in controlling NRASS remain unexplored. In particular, SLC provides a direct pathway for tuning altermagnetism through lattice degrees of freedom. Here we first investigate the role of electronic correlations on altermagnetic strength in NiAs-type material CrSb using density functional theory (DFT), DFT+$U$, and dynamical mean-field theory (DMFT). We find that increasing electronic correlations substantially enhance NRASS and drive the stabilization of an incommensurate spin-spiral (SS) state, while dynamical correlations further amplify the spin splitting through quasiparticle renormalization of the Cr-$3d$ states. We find that the NRASS remains 12.5\\% larger in DFT+DMFT than in DFT. By evaluating SLC in next step, we establish its direct connection to the evolution of NRASS and identify SLC as a microscopic descriptor between electronic correlation and enhanced altermagnetism in CrSb. Investigating it in another NiAs-type compound MnTe, we show that the SLC-NRASS correlation is generic across AMs and establish SLC as a microscopic descriptor of altermagnetic strength. Our results provide a unified framework for tuning altermagnetism through the interplay between the electronic correlations and lattice degrees of freedom.",
+  "authors": [
+   "Charmi Bhalani",
+   "Banasree Sadhukhan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Charmi Bhalani",
+  "pdf_url": "http://arxiv.org/pdf/2609.11346",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "dft"
+  ],
+  "title": "Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11355": {
+  "abstract": "This paper describes our system for Task~2 of the second Multilingual Conversational Speech Language Model (MLC-SLM) Challenge. We adapt Qwen3-Omni-30B-A3B-Instruct with a segment-evidence-aware data and post-training pipeline. A language model converts timestamped ASR into coherent event spans, which are expanded by a boundary margin and cropped from the original recording. We then synthesize complementary semantic MCQs with Qwen3.6-27B and acoustic MCQs with Gemini~3.1 Flash-Lite, followed by structural, grounding, answer-consistency, and target-model trainability checks, yielding 359,825 verified MCQs across 21 language and accent variants. A text-only probe partitions the data into weak, text-answerable items used for supervised fine-tuning and strong, audio-dependent items used for reinforcement learning with Group Sequence Policy Optimization (GSPO), stabilized by debiased advantages, sequence-level importance correction, and dynamic filtering. Our system obtains 90.92% accuracy on the final official evaluation set.",
+  "authors": [
+   "Huy Hoang Le",
+   "Long-Bao Nguyen",
+   "Minh Tri Dao"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.SD"
+  ],
+  "comment": null,
+  "first_author": "Huy Hoang Le",
+  "pdf_url": "http://arxiv.org/pdf/2609.11355",
+  "primary_category": "cs.CL",
+  "published": "2026-09-10",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11459": {
+  "abstract": "Copper(I) iodide (CuI) is a wide-bandgap semiconductor crystallizing in the 3D $γ$-phase under ambient conditions; its layered van der Waals bulk phase $β$-CuI is stable only between 643 and 673 K. The two-dimensional (2D) h-CuI form has been obtained via liquid-phase exfoliation of mechanochemically prepared precursors and via encapsulation between graphene sheets, whereas bottom-up growth of 2D h-CuI on open surfaces has not yet been demonstrated. Here, we report a vapor-phase synthesis of h-CuI directly on low-defect, large-area monolayer and within bilayer reduced oxo-graphene (r-oxo-G) at low temperatures. Using a copper TEM grid as the solid-state precursor for copper, HI-vapor exposure at 40 $°$C initiates nucleation, while annealing at 180 $°$C promotes the growth of extended h-CuI domains. Aberration-corrected HRTEM resolves the atomic structure, local twist angles, and lattice anisotropy of the CuI/r-oxo-G nanohybrid, while STEM-EDX yields a Cu:I ratio consistent with 1:1. First-principles calculations show that van der Waals adhesion to graphene stabilizes the supported hexagonal layer. Under the presented low-temperature precursor conditions, pathways for nucleation of the $γ$-phase are not available, allowing the hexagonal phase to form selectively at the graphene interface. Ab initio molecular dynamics simulations show that the heterostructure retains its hexagonal lattice order at 600 K, including on an open monolayer graphene support. The lateral extent of the growth is limited mainly by remaining interfacial adsorbates. These results establish a route to metastable 2D h-CuI on a chemically inert graphene template, which may be useful for wide-bandgap electronic and optoelectronic devices.",
+  "authors": [
+   "David Kaiser",
+   "Guobin Jia",
+   "Janis Köster",
+   "Sadegh Ghaderzadeh",
+   "Christian E. Halbig",
+   "Siegfried Eigler",
+   "Andrey Turchanin",
+   "Benjamin Dietzek-Ivanšić",
+   "Arkady V. Krasheninnikov",
+   "Jonathan Plentz",
+   "Elena Besley",
+   "Ute Kaiser"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.app-ph"
+  ],
+  "comment": "26 pages, 6 figures, Includes Supporting Information with 5 figures and 7 tables",
+  "first_author": "David Kaiser",
+  "pdf_url": "http://arxiv.org/pdf/2609.11459",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "band-gap",
+   "molecular-dynamics",
+   "vdw-correction"
+  ],
+  "title": "Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11551": {
+  "abstract": "Ferroelectric switching is among the most fundamental and widely studied symmetry-breaking processes in physics. However, the Landauer paradox asserts that an ideal single-domain ferroelectric should be kinetically unswitchable, because a three-dimensional reversed nucleus would carry a prohibitive depolarization penalty, leading to unphysically large coercive field (the electric field required to switch the polarization). Here we show that this long-standing paradox is resolved by topology. In defect-free PbTiO3, large-scale molecular dynamics simulations reveal that the intrinsic critical nucleus is a three-dimensional polar skyrmion. Its continuous polarization rotation and Néel-type boundary walls self-compensate bound charge, suppressing the depolarization energy by orders of magnitude and bringing the predicted coercive field into agreement with experiment. This topological nucleus further overturns the 60-year-old Janovec-Kay-Dunn law. We derive an analytical thickness-dependent coercive-field law governed by field-induced softening of the parent ferroelectric state and controlled by a single material descriptor. This framework captures diverse experimental trends across ferroelectric families and recasts the Kay-Dunn exponent of -2/3 as an effective finite-window behavior. These results establish polar topology as an organizing principle for intrinsic switching and suggest that hidden topological transition states may broadly shape nonequilibrium phase transformations traditionally understood as Landau-type symmetry breaking.",
+  "authors": [
+   "Jiyuan Yang",
+   "Denan Li",
+   "Shi Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiyuan Yang",
+  "pdf_url": "http://arxiv.org/pdf/2609.11551",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Skyrmion nucleus resolves the Landauer paradox",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11581": {
+  "abstract": "Pipe and channel flows of viscoelastic fluids display chaotic dynamics at unusually low speeds, a phenomenon referred to as elasto-inertial turbulence, EIT. First reported in experiments a century ago, recent theoretical studies and model computations predict a variety of scenarios for the phenomenon's origin, ranging from hoop stress modes to center modes and to Tollmien-Schlichting waves. Lacking experimental confirmation, the relevant scenario in actual flows of polymer solutions remains unknown. We here determine the transition threshold of EIT in pipe experiments, covering three decades in elasticity number. Across this entire parameter range, the transition features center mode structures at onset. Eventually the instability diverges at a lower inertia (upper elasticity) limit, which is a robust signature of this center mode scenario. Finally, we report the first experimental observation of a traveling wave in viscoelastic pipe flow, and the sequences of localized structures found, are in excellent agreement with a center mode traveling wave, the \"arrowhead\" solution, discovered in model simulations.",
+  "authors": [
+   "Shoaib Kamil",
+   "Sarath Sankar Suresh",
+   "Jose M. Lopez",
+   "Björn Hof"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Shoaib Kamil",
+  "pdf_url": "http://arxiv.org/pdf/2609.11581",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-10",
+  "tags": [],
+  "title": "Low inertia limit of elasto-inertial turbulence",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11602": {
+  "abstract": "Water dissociation at solid surfaces underpins processes ranging from corrosion and catalysis to electrochemistry and photovoltaics. Defects often serve as reactive sites for dissociation, yet how solvation influences water dissociation at such sites remains poorly understood. Here, we use state-of-the-art machine-learned interatomic potentials to explore water dissociation at defective graphene-water interfaces. We show that solvation qualitatively changes the reaction mechanism at a graphene single vacancy (SV), opening pathways that are absent for an isolated water molecule. Whereas the gas-phase process proceeds via a single concerted channel, the solvated SV splits water through two competing pathways: a basic route forming SV-H and OH-(aq), and an acidic route forming SV-OH and H3O+(aq). These lower-barrier pathways produce distinct chemisorbed intermediates that enhance graphene-water adsorption. Accordingly, even a simple carbon vacancy gives rise to unexpectedly rich interfacial chemistry, coupling surface chemistry to interfacial charge and wettability, with implications for carbon functionalization and nanofluidic transport.",
+  "authors": [
+   "Samuel G. H. Brookes",
+   "IniOluwa C. Popoola",
+   "Fabian Berger",
+   "Kara D. Fong",
+   "Angelos Michaelides",
+   "Christoph Schran"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Samuel G. H. Brookes",
+  "pdf_url": "http://arxiv.org/pdf/2609.11602",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-10",
+  "tags": [
+   "2d-materials",
+   "catalysis",
+   "mlip"
+  ],
+  "title": "Breaking Water at Graphene Defects",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11620": {
+  "abstract": "High-dimensional dense text embeddings and large language models face real obstacles in financial-disclosure analysis: context-window limits, hallucination risk, high computational cost, and the arbitrary rotation of vector spaces across independently trained models. We present a training-free, alignment-free framework for corporate intelligence built on deterministic sparse seed vectors. Hashing word strings into a fixed high-dimensional basis places all documents and all temporal epochs in a common coordinate system by construction, removing any need for training or alignment. Accumulating these seed vectors across sentence contexts yields corpus-specific semantic signatures that compose linearly, supporting sub-second document comparison, issuer fingerprinting, tracking of how an issuer's vocabulary shifts between filings, and thematic sentence extraction, all on ordinary CPU hardware. Demonstrating the approach on a multi-year corpus of SEC filings (10-K, 10-Q, 8-K), we show how material corporate events, among them Boeing's 737 MAX crisis, Intel's supply-chain disruptions, and Bunge's acquisition of Viterra, emerge as distinct, interpretable semantic profiles, each traceable to the exact source sentences that produced it, with no domain-specific training and no LLM inference.",
+  "authors": [
+   "Jean-François Delpech"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "26 pages, 2 figures",
+  "first_author": "Jean-François Delpech",
+  "pdf_url": "http://arxiv.org/pdf/2609.11620",
+  "primary_category": "cs.CL",
+  "published": "2026-09-10",
+  "tags": [],
+  "title": "A Training-Free, Alignment-Free Approach to Corporate Intelligence: Application to SEC Filings",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11666": {
+  "abstract": "Hexagonal boron nitride (hBN) has recently become the focus of intense research as a material that can host quantum emitters. It is known that such emission is related to point defects, but in order to conclusively correlate specific defects to their spectra, having control over the defect creation mechanism is required. Here, we prepare freestanding, monolayer hBN samples and irradiate them with ultra-low-energy (150 eV) Ar+ ions. The samples are characterized before and after irradiation via scanning transmission electron microscopy to assess the defect density and distribution. Contrary to what analytical potential molecular dynamics simulations have predicted, we predominantly observe boron single vacancies after ion irradiation, followed by double vacancies at half the count. Moreover, we also observe that vacancy filling with Si and C impurity atoms plays a more significant role in the created defects than previously assumed, potentially posing a problem for selective creation of quantum emitters in hBN.",
+  "authors": [
+   "Shrirang Chokappa",
+   "Manuel Laängle",
+   "Barbara Maria Mayer",
+   "Vladimir Zoba\\vc",
+   "Jacob Madsen",
+   "Diana Propst",
+   "David Lamprecht",
+   "Philipp Irschik",
+   "Arixin Bo",
+   "Clara Kofler",
+   "Vinzent Hana",
+   "Fabian Kraft",
+   "Clemens Mangler",
+   "Lado Filipovic",
+   "Toma Susi",
+   "Jani Kotakoski"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "22 pages, 13 figures (including the supplement)",
+  "first_author": "Shrirang Chokappa",
+  "pdf_url": "http://arxiv.org/pdf/2609.11666",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "2d-materials",
+   "molecular-dynamics"
+  ],
+  "title": "Competition between vacancy creation and filling in defect-engineering of hBN",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11739": {
+  "abstract": "Large language model serving costs scale directly with output sequence length, yet standard preference alignment often inflates response verbosity without improving utility. We study whether the parameterization of post-training updates affects generation length: low-rank subspaces alter sequence length without modifying the alignment loss. We present LOCUS, a method that selects a task-aware low-rank adaptation subspace to minimize output-token cost subject to a utility constraint. Within this subspace, post-training retains the native preference objective with a frozen backbone. Across Anthropic HH-RLHF dialogue preferences, we evaluate two $\\sim$3B decoder backbones, Pythia-2.8B and Qwen2.5-3B, against protocol-matched full-parameter DPO and DrDPO branches and the released SamPO checkpoint. LOCUS reduces continuation length by up to 39.84\\% on Pythia-2.8B and by 14.87--17.58\\% on Qwen2.5-3B while updating only 0.24--0.28\\% of model parameters, with no material change in the internal preference diagnostic.",
+  "authors": [
+   "Dongfang Zhao"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Dongfang Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2609.11739",
+  "primary_category": "cs.CL",
+  "published": "2026-09-10",
+  "tags": [],
+  "title": "LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11790": {
+  "abstract": "Optimising chemical reactions across multiple objectives, such as yield, selectivity, and safety, is central to chemical synthesis, and model-driven approaches depend critically on how reaction components are represented. Established featurisations are either chemically uninformative, as with one-hot encodings, or, as with molecular descriptors, do not readily extend across chemically distinct components. For structurally and functionally diverse components, it is therefore unclear what a shared representation should contain. Constructing such a representation is itself a challenging research undertaking that must be revisited for each new reaction system. Here we bypass this step by learning the reaction representation dynamically from text. Textual descriptions of reaction conditions are encoded by a fine-tuned language model trained jointly with Gaussian process surrogates, yielding task-adaptive representations within a multi-objective Bayesian optimisation loop. Across nickel- and palladium-catalysed cross-couplings in both sequential and parallel experimentation regimes, this approach reaches optimisation convergence in fewer experiments than descriptor libraries or one-hot encoding. Applied prospectively to a palladium-catalysed cyanation spanning mixed ligand denticity and heterogeneous additives, and to a three-objective asymmetric hydrogenation across chiral iridium and ruthenium catalyst families, two rounds of high-throughput experimentation (192 reactions, under 3% of each design space) delivered conditions translating directly to gram scale in 94% and 84% isolated yield, the latter at 99.6% enantiomeric excess.",
+  "authors": [
+   "Joshua W. Sin",
+   "David Ming Segura",
+   "Bojana Ranković",
+   "Siu Lun Chau",
+   "Marius D. R. Lutz",
+   "Andrea Anelli",
+   "Ryan P. Burwood",
+   "Kurt Püntener",
+   "Maximilian J. Notheis",
+   "Raphael Bigler",
+   "Philippe Schwaller"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Joshua W. Sin",
+  "pdf_url": "http://arxiv.org/pdf/2609.11790",
+  "primary_category": "cs.LG",
+  "published": "2026-09-10",
+  "tags": [
+   "catalysis",
+   "molecular-representation"
+  ],
+  "title": "Dynamic language model representations for multi-objective reaction optimisation",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11881": {
+  "abstract": "Geometrically frustrated triangular-lattice antiferromagnets exhibit a delicate competition between magnetic order and quantum spin liquid (QSL) behavior, with the Yb-based delafossite family $A$Yb$X_2$ providing a structurally clean platform for exploring this physics. Here, we report a comprehensive study of single-crystal TlYbS$_2$ using DC magnetization, AC susceptibility, electron spin resonance (ESR), and specific heat measurements extending from room temperature to the millikelvin regime. Single-crystal X-ray diffraction confirms a trigonal $R\\bar{3}m$ structure comprising well-separated triangular layers of Yb$^{3+}$ ions with no detectable site disorder. At zero field, a weak thermodynamic anomaly is observed near $530$ mK, which may indicate the onset of a weakly ordered state similar to that reported in KYbSe$_2$. Below $300$ mK, the zero-field magnetic specific heat follows $C_{\\rm m}\\propto T^{1.8}$, close to a quadratic temperature dependence, in contrast to the linear temperature dependence reported for the sister compound TlYbSe$_2$, which has been described in terms of the interplay between spinons and thermally excited gauge-flux excitations. Magnetization and ESR measurements establish pronounced easy-plane magnetic anisotropy, with $g_\\perp/g_\\parallel \\approx 6.9$. The anomaly near $530$ mK exhibits a strongly anisotropic response to magnetic field. For $H\\perp c$, it remains visible up to approximately $2$ T and continuously evolves toward a field-induced ordered phase above approximately $2.5$ T, followed by a sequence of field-induced phases that includes a $1/3$ magnetization plateau between approximately $5$ and $8$ T and full polarization near $17$ T. In contrast, for $H\\parallel c$, the anomaly weakens and is suppressed near $3$ T, consistent with the recently reported confinement--deconfinement transition from an ordered state to a field-induced QSL.",
+  "authors": [
+   "Bishnu P. Belbase",
+   "Arjun Unnikrishnan",
+   "Piyush Chhallare",
+   "Mohan B. Neupane",
+   "Eun Sang Choi",
+   "Sebastian Erdmann",
+   "Muhammad U. Akbar",
+   "Mamoun Hemmida",
+   "H. -A. Krug von Nidda",
+   "Philipp Gegenwart",
+   "Arnab Banerjee"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 Pages, 5 figures",
+  "first_author": "Bishnu P. Belbase",
+  "pdf_url": "http://arxiv.org/pdf/2609.11881",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-09-10",
+  "tags": [
+   "magnetic-properties",
+   "thermal-properties"
+  ],
+  "title": "Low temperature thermodynamics of $S_{\\mathrm{eff}}=1/2$ triangular lattice quantum spin liquid candidate TlYbS$_2$",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11921": {
+  "abstract": "We investigate how quadratic torsion modifies the equilibrium structure of white dwarfs in covariant $f(T)=T+ΞT^2$ gravity. Static spherical configurations are calculated with a fixed equation of state for cold carbon matter, including relativistic electron degeneracy and Coulomb lattice corrections. The stellar interior is matched to a vacuum exterior, and the mass is determined from the asymptotic geometry. At fixed central density, negative couplings produce more massive and more compact configurations than general relativity, whereas positive couplings give smaller masses and larger radii. The deviations increase with central density and are more pronounced in mass than in radius. The first limiting feature of each sequence depends on the coupling. For $Ξ=-10^{18}\\,\\mathrm{cm}^{2}$, the sequence remains monotonic up to the electron capture density and reaches $1.508\\,M_\\odot$. General relativity and $Ξ=+10^{18}\\,\\mathrm{cm}^{2}$ instead reach mass turning points at $1.385\\,M_\\odot$ and $1.366\\,M_\\odot$, respectively. The positive extreme can be continued as an equilibrium solution to the capture density, where its mass decreases to $1.24\\,M_\\odot$, but this configuration lies beyond the turning point and is not the maximum mass along that sequence. These results identify a density dependent structural response to torsion that changes the stellar mass scale without modifying the matter equation of state.",
+  "authors": [
+   "Edson Otoniel",
+   "Jonathan A. Reboucas",
+   "Iarley P. Lobo"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.HE"
+  ],
+  "comment": null,
+  "first_author": "Edson Otoniel",
+  "pdf_url": "http://arxiv.org/pdf/2609.11921",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-09-10",
+  "tags": [],
+  "title": "Teleparallel torsion and white dwarf structure in \\(f(T)=T+ΞT^2\\) gravity",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-09-10"
  }
 }

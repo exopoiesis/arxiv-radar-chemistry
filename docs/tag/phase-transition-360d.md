@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">212 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1280,11 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13114.html">Relaxation and Its Effects on Electronic Structure in Twisted Systems: An Analytical Perspective</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Junxi Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13114">2509.13114</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12693.html">Coupling between small polarons and ferroelectricity in BaTiO3</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Darin Joseph et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12693">2503.12693</a></td>
 </tr>
 </tbody></table>

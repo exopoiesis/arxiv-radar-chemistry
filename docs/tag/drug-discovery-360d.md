@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">539 papers</span>
+  <span class="paper-count">536 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3230,23 +3230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13216.html">Flow-Based Fragment Identification via Binding Site-Specific Latent Representations</a></div></td>
 <td>Rebecca Manuela Neeser et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13216">2509.13216</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12433.html">Skeletal editing by tip-induced chemistry</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Shantanu Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12433">2509.12433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12460.html">Computational design of intrinsically disordered proteins</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Giulio Tesei et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12460">2509.12460</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13476.html">A Geometric Graph-Based Deep Learning Model for Drug-Target Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Md Masud Rana et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13476">2509.13476</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">362 papers</span>
+  <span class="paper-count">359 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2168,23 +2168,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13096.html">Cyclic Variational Quantum Eigensolver: Escaping Barren Plateaus through Staircase Descent</a></div></td>
 <td>Hao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13096">2509.13096</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11616.html">Excited states in auxiliary field quantum Monte Carlo</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Ankit Mahajan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11616">2509.11616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11728.html">Fast and Interpretable Machine Learning Modelling of Atmospheric Molecular Clusters</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Lauri Seppäläinen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11728">2509.11728</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01205.html">Integrated Software/Hardware Execution Models for High-Accuracy Methods in Chemistry</a></div></td>
-<td>Nicholas Bauman et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01205">2510.01205</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>gnn — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05694.html">GraphNOSE: A Graph Transformer in Olfaction</a></div><div class="paper-tags"><a href="molecular-llm-7d.html">molecular-llm</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
 <td>Mrityunjay Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05694">2609.05694</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03816.html">When Vision Meets Graphs: A Survey on Graph Reasoning and Learning</a></div></td>
-<td>Xinjian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03816">2609.03816</a></td>
 </tr>
 </tbody></table>

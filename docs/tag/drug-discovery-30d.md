@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,17 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13797.html">Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Jafin Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13797">2608.13797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Junwoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10480">2608.10480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11483.html">A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Kelvin P. Idanwekhai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11483">2608.11483</a></td>
 </tr>
 </tbody></table>

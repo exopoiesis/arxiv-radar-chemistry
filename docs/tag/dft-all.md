@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft — all</h1>
-  <span class="paper-count">3821 papers</span>
+  <span class="paper-count">3825 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10977.html">A model of grain growth in UN integrating molecular dynamics, phase-field modeling, and uncertainty quantification</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Mohamed AbdulHameed et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10977">2609.10977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11138.html">Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
+<td>Jakob Wolff et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11138">2609.11138</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11346.html">Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb</a></div></td>
+<td>Charmi Bhalani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11346">2609.11346</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09720.html">First-principles investigation of structural, mechanical, vibrational, thermal, electronic and optical properties of Na3Bi: a topological Dirac semimetal</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
@@ -116,6 +134,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09469.html">High-pressure elastic properties of GeO2 polymorphs up to 120 GPa</a></div><div class="paper-tags"><a href="phase-transition-all.html">phase-transition</a></div></td>
 <td>Gulshan Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.09469">2609.09469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10614.html">Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Reinaldo Inácio</td>
+<td><a href="http://arxiv.org/abs/2609.10614">2609.10614</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>

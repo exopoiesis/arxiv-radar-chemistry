@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="protein-function-7d.html">protein-function</a></div></td>
 <td>Vsevolod Viliuga et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08474">2609.08474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10614.html">Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Reinaldo Inácio</td>
+<td><a href="http://arxiv.org/abs/2609.10614">2609.10614</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -50,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05328.html">Embedded Graph Flows for Categorical Graph Generation</a></div></td>
 <td>Ethan Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05328">2609.05328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03377.html">SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Jiarui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03377">2609.03377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04465.html">The physical foundation beneath protein generative modeling</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Tianyu Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04465">2609.04465</a></td>
 </tr>
 </tbody></table>

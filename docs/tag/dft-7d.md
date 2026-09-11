@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10977.html">A model of grain growth in UN integrating molecular dynamics, phase-field modeling, and uncertainty quantification</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Mohamed AbdulHameed et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10977">2609.10977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11138.html">Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Jakob Wolff et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11138">2609.11138</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11346.html">Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb</a></div></td>
+<td>Charmi Bhalani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11346">2609.11346</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09720.html">First-principles investigation of structural, mechanical, vibrational, thermal, electronic and optical properties of Na3Bi: a topological Dirac semimetal</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
@@ -118,6 +136,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.09469">2609.09469</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10614.html">Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Reinaldo Inácio</td>
+<td><a href="http://arxiv.org/abs/2609.10614">2609.10614</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07106.html">Coupled structural and electronic evolution under pressure in CuIr2Se4, CuRh2S4, and CuRh2Se4</a></div></td>
 <td>M. Emi et al.</td>
@@ -170,77 +194,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
 <td>Julián Antonio Villarreal Murúa et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03419.html">In defence of the Ehrenfest mean-field molecular dynamics</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Vladimir U. Nazarov</td>
-<td><a href="http://arxiv.org/abs/2609.03419">2609.03419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03513.html">Competing lattice structures induced by Sn substitution in CsV$_3$Sb$_5$</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Anshu Kataria et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03513">2609.03513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Yusuke Nishiya et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03518">2609.03518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03545.html">Influence of configuration-interaction on isospin impurities and isospin symmetry breaking corrections to superallowed $0^+\rightarrow 0^+$ beta decays</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Jakub Wysocki et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03545">2609.03545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03578.html">High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Sanchali Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03578">2609.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03717.html">Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Amogh U. Lanjewar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03717">2609.03717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03757.html">Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Dipanwita Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03757">2609.03757</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03888.html">Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Virginie de Mestral et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03888">2609.03888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03903.html">Reduced-basis method for linear response within nuclear density functional theory</a></div></td>
-<td>Nobuo Hinohara et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03903">2609.03903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03942.html">Diabatic Seam Space Sampling for Hydrogen Tunneling Systems with Nuclear-Electronic Orbital Theory</a></div><div class="paper-tags"><a href="string-method-7d.html">string-method</a></div></td>
-<td>Joseph A. Dickinson et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03942">2609.03942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04527.html">Learning Memory-Dependent Neural Network Correlation Potentials for Accurate Electron Dynamics</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Harish S. Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04527">2609.04527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04558.html">Structural tuning of reduced exciton mass in layered HOIP compounds: Causation vs. correlation</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>Isaac R. Burkholder et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04558">2609.04558</a></td>
 </tr>
 </tbody></table>

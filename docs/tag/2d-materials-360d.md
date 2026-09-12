@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">530 papers</span>
+  <span class="paper-count">525 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3164,35 +3164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13999.html">Using molecular dynamics to investigate the driving force for graphene auto-kirigami</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Charlie M. Rawlins et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13999">2509.13999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17947.html">Designer three-dimensional electronic bands in asymmetric transition metal dichalcogenide heterostructures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Oliver J. Clark et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17947">2503.17947</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18314.html">Atomistic Generative Diffusion for Materials Modeling</a></div></td>
-<td>Nikolaj Rønne et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18314">2507.18314</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01877.html">A Concise Review of Recently Synthesized 2D Carbon Allotropes: Amorphous Carbon, Graphynes, Biphenylene and Fullerene Networks</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Ricardo Paupitz et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01877">2509.01877</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13114.html">Relaxation and Its Effects on Electronic Structure in Twisted Systems: An Analytical Perspective</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Junxi Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13114">2509.13114</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13147.html">Instant prediction of relaxation in moiré superlattices using neural networks</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Aleksei V. Belonovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13147">2509.13147</a></td>
 </tr>
 </tbody></table>

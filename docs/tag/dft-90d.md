@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">360 papers</span>
+  <span class="paper-count">358 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2162,17 +2162,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15613.html">Unveiling AlSb as a Promising Zincblende Semiconductor for Visible-Light Shift-Current Generation</a></div></td>
 <td>César Castillo-Quevedo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15613">2606.15613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15321.html">Symmetry-aware generative design of flat-band materials beyond known crystal-net prototypes</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Yihao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15321">2606.15321</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15336.html">Nonlocal Orbital-Free Kinetic Energy Functional from the Jellium-with-Gap Model for Finite Systems</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Abhishek Bhattacharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15336">2606.15336</a></td>
 </tr>
 </tbody></table>

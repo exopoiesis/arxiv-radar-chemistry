@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">536 papers</span>
+  <span class="paper-count">535 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3224,11 +3224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13787.html">Hyper-Zagreb Indices of Hypergraphs with Application in Drug Design</a></div></td>
 <td>Abdulkafi Sanad</td>
 <td><a href="http://arxiv.org/abs/2509.13787">2509.13787</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13216.html">Flow-Based Fragment Identification via Binding Site-Specific Latent Representations</a></div></td>
-<td>Rebecca Manuela Neeser et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13216">2509.13216</a></td>
 </tr>
 </tbody></table>

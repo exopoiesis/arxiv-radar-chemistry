@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">576 papers</span>
+  <span class="paper-count">573 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3452,23 +3452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13798.html">Thermal Conductivity Limits of MoS$_2$ and MoSe$_2$: Revisiting High-Order Anharmonic Lattice Dynamics with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Tugbey Kocabas et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13798">2509.13798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13820.html">A foundation machine learning potential with polarizable long-range interactions for materials modelling</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="gnn-360d.html">gnn</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Rongzhi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2410.13820">2410.13820</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12648.html">Atomic-scale phase-field modeling with universal machine learning potentials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kairi Masuda et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12648">2509.12648</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12834.html">Pressure dependent structure of neat liquid methanol, CH3OH: molecular dynamics simulations with various united atom type potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Imre Bakó et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12834">2509.12834</a></td>
 </tr>
 </tbody></table>

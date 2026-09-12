@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">359 papers</span>
+  <span class="paper-count">354 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2138,35 +2138,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08183.html">Parametrized Quantum Circuit Learning for Quantum Chemical Applications</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Grier M. Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08183">2507.08183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11240.html">Nitrogen-vacancy centre in lonsdaleite: a novel nanoscale sensor?</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Anjay Manian et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11240">2505.11240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17846.html">Neural Network Assisted Fermionic Compression Encoding: A Lossy-QSCI Framework for Resource-Efficient Ground-State Simulations</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Yu-cheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17846">2505.17846</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12679.html">Large Language Model Scaling Laws for Neural Quantum States in Quantum Chemistry</a></div></td>
-<td>Oliver Knitter et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12679">2509.12679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12680.html">Extension of the Jordan-Wigner mapping to nonorthogonal spin orbitals for quantum computing application to valence bond approaches</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Alessia Marruzzo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12680">2509.12680</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13096.html">Cyclic Variational Quantum Eigensolver: Escaping Barren Plateaus through Staircase Descent</a></div></td>
-<td>Hao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13096">2509.13096</a></td>
 </tr>
 </tbody></table>

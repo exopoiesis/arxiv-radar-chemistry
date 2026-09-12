@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,47 +116,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06216.html">Nucleon Correlations in Unstable Nuclei via Knockout Reactions</a></div></td>
 <td>C. A. Bertulani</td>
 <td><a href="http://arxiv.org/abs/2609.06216">2609.06216</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Gom Dorji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04623.html">Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Gom Dorji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04623">2609.04623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Yiming Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05000.html">Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed GaN</a></div></td>
-<td>Shailesh Kalal et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05000">2609.05000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05082.html">A locally ab initio computational framework for arbitrary incommensurate materials interfaces</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Drake Niedzielski et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05082">2609.05082</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05319.html">Breakdown of Anomalous Hall Scaling in Dilute Kondo System</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Arnab Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05319">2609.05319</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Julián Antonio Villarreal Murúa et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
 </tr>
 </tbody></table>

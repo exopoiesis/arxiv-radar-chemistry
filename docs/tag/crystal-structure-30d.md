@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>crystal-structure — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <strong>30d</strong> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,23 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14889.html">Antiferroquadrupolar Order in Altermagnetic CoF$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Daniel Halliday et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14889">2608.14889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06448.html">ED-CSP: Crystal Structure Prediction from Electron Diffraction</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Germain Poloudenny et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06448">2608.06448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11952.html">Electronic structure, band offset, and interface electron population of the LaInO$_3$/BaSnO$_3$ system</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>G. Hoffmann et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11952">2608.11952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12152.html">The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Dan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12152">2608.12152</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">335 papers</span>
+  <span class="paper-count">331 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2000,29 +2000,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13613.html">Octupole correlations in $^{220,222,224,226}$Rn</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Yi-Ming Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13613">2509.13613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12565.html">Investigation of ground state properties and shape evolution in Hf isotopes using the CDFT approach</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Usuf Rahaman</td>
-<td><a href="http://arxiv.org/abs/2509.12565">2509.12565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12648.html">Atomic-scale phase-field modeling with universal machine learning potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kairi Masuda et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12648">2509.12648</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12837.html">Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kumpei Shiraishi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12837">2509.12837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13155.html">Understanding oxide surface stability: Theoretical insights from silver chromate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Augusto Facundes et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13155">2509.13155</a></td>
 </tr>
 </tbody></table>

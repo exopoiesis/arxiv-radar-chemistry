@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,29 +170,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06162.html">Performance of a minimally empirical local-hybrid density functional for molecular chemistry</a></div></td>
 <td>Erin R. Johnson et al.</td>
 <td><a href="http://arxiv.org/abs/2609.06162">2609.06162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Gom Dorji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04623.html">Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Gom Dorji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04623">2609.04623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05030.html">ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>A. Martinez-Garcia et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05030">2609.05030</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Julián Antonio Villarreal Murúa et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
 </tr>
 </tbody></table>

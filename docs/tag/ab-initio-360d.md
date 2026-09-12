@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1547 papers</span>
+  <span class="paper-count">1541 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9260,41 +9260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13967.html">Dilated coordinate method for solving nuclear lattice effective field theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Guangzhao He et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13967">2509.13967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11240.html">Nitrogen-vacancy centre in lonsdaleite: a novel nanoscale sensor?</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Anjay Manian et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11240">2505.11240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13075.html">Explaining Principles of Tip-Enhanced Raman Images with Ab Initio Modeling</a></div></td>
-<td>Krystof Brezina et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13075">2509.13075</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13147.html">Instant prediction of relaxation in moiré superlattices using neural networks</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Aleksei V. Belonovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13147">2509.13147</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13155.html">Understanding oxide surface stability: Theoretical insights from silver chromate</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Augusto Facundes et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13155">2509.13155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13182.html">Strain-tuned magnetoelectric properties of monolayer NiX$_2$ (X = I, Br): a first-principles analysis</a></div></td>
-<td>Ali Ghojavand et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13182">2509.13182</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13294.html">Accelerating Protein Molecular Dynamics Simulation with DeepJump</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Allan dos Santos Costa et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13294">2509.13294</a></td>
 </tr>
 </tbody></table>

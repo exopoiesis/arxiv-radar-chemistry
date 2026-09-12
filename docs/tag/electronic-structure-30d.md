@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,41 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13744.html">Designing robust molecular spins for quantum technologies with theoretical chemistry</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Timothy J. Krogmeier et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13744">2608.13744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04291.html">Electron correlation in semiconductors and insulators via symbolic regression</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Nick Pant et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04291">2608.04291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11589.html">Magnetoelastic coupling descriptor for high-throughput ab initio search of magnetocaloric materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Debajit Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11589">2608.11589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11897.html">Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Jingying Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11897">2608.11897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11952.html">Electronic structure, band offset, and interface electron population of the LaInO$_3$/BaSnO$_3$ system</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>G. Hoffmann et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11952">2608.11952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12249.html">An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS</a></div></td>
-<td>Yuzhong Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12249">2608.12249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12563.html">Natural van der Waals silicates as hosts for telecom quantum emitters: the case of erbium-doped talc</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Gellért Dolecsek et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12563">2608.12563</a></td>
 </tr>
 </tbody></table>

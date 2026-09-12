@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2023 papers</span>
+  <span class="paper-count">2018 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12122,35 +12122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16252.html">Low-energy proton impact dynamics on hydrocarbons: Dependence on kinetic energy and incident site</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Misa Viveiros et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16252">2509.16252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17947.html">Designer three-dimensional electronic bands in asymmetric transition metal dichalcogenide heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Oliver J. Clark et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17947">2503.17947</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12565.html">Investigation of ground state properties and shape evolution in Hf isotopes using the CDFT approach</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Usuf Rahaman</td>
-<td><a href="http://arxiv.org/abs/2509.12565">2509.12565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13114.html">Relaxation and Its Effects on Electronic Structure in Twisted Systems: An Analytical Perspective</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Junxi Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13114">2509.13114</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13155.html">Understanding oxide surface stability: Theoretical insights from silver chromate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Augusto Facundes et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13155">2509.13155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01206.html">Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hung Le et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01206">2510.01206</a></td>
 </tr>
 </tbody></table>

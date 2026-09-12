@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12830.html">Improved Measurement Cost Scaling in the Nonorthogonal Quantum Eigensolver</a></div></td>
 <td>Mingyu Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12830">2608.12830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12297.html">Eigenstate Preparation Through Near-Optimal Eigenprobability Filtering</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Po-Wei Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12297">2608.12297</a></td>
 </tr>
 </tbody></table>

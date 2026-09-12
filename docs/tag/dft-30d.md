@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,53 +878,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13676.html">EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Deeksha M Shama et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13676">2608.13676</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04291.html">Electron correlation in semiconductors and insulators via symbolic regression</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Nick Pant et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04291">2608.04291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11558.html">Simulating Ionic Liquid Fragmentation in Electrospray Thrusters with Foundation Models</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ziyu Huang</td>
-<td><a href="http://arxiv.org/abs/2608.11558">2608.11558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11589.html">Magnetoelastic coupling descriptor for high-throughput ab initio search of magnetocaloric materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Debajit Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11589">2608.11589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11725.html">Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Study of Y, Si and Al</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Zunair Masroor et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11725">2608.11725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11952.html">Electronic structure, band offset, and interface electron population of the LaInO$_3$/BaSnO$_3$ system</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>G. Hoffmann et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11952">2608.11952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12439.html">Mechanisms of Nanoscroll Formation and Particle Encapsulation in Janus MXenes</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Sasan Rezaee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12439">2608.12439</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12563.html">Natural van der Waals silicates as hosts for telecom quantum emitters: the case of erbium-doped talc</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Gellért Dolecsek et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12563">2608.12563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12572.html">Memory-dependent electronic friction for nonadiabatic dynamics at metal surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xuexun Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12572">2608.12572</a></td>
 </tr>
 </tbody></table>

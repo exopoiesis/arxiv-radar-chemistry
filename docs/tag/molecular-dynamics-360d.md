@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1547 papers</span>
+  <span class="paper-count">1541 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9260,41 +9260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00013.html">ProTDyn: a foundation Protein language model for Thermodynamics and Dynamics generation</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Yikai Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00013">2510.00013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.20978.html">EdSr: A Novel End-to-End Approach for State-Space Sampling in Molecular Dynamics Simulation</a></div></td>
-<td>Hai-Ming Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.20978">2412.20978</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12648.html">Atomic-scale phase-field modeling with universal machine learning potentials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Kairi Masuda et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12648">2509.12648</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12834.html">Pressure dependent structure of neat liquid methanol, CH3OH: molecular dynamics simulations with various united atom type potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Imre Bakó et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12834">2509.12834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12837.html">Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Kumpei Shiraishi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12837">2509.12837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13294.html">Accelerating Protein Molecular Dynamics Simulation with DeepJump</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Allan dos Santos Costa et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13294">2509.13294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01206.html">Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Hung Le et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01206">2510.01206</a></td>
 </tr>
 </tbody></table>

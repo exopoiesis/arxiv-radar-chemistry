@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,65 +146,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06121.html">Nanothermodynamics: stable thermal equilibrium and nanoscale fluctuations</a></div></td>
 <td>Ralph V. Chamberlin</td>
 <td><a href="http://arxiv.org/abs/2609.06121">2609.06121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Gom Dorji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04743.html">Analytical model for polarization transfer during gas-phase collision events in spin-exchange optical pumping: Spin-$\frac{1}{2}$ $^{129}$Xe versus spin-$\frac{3}{2}$ $^{131}$Xe</a></div></td>
-<td>Perttu Hilla et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04743">2609.04743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04955.html">Nuclear quantum effects in the thermal conductivity of solid hydrogen</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Hengtai Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04955">2609.04955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05030.html">ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>A. Martinez-Garcia et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05030">2609.05030</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05135.html">Polarizable Embedding for Photoelectron Spectroscopy and Photoelectron Circular Dichroism in Solution: Core-Level Ionization of Aqueous Alanine</a></div></td>
-<td>Giovanni Nottoli et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05135">2609.05135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05147.html">Interfacial Accommodation as a Candidate Ductility Pathway in Intermetallic-Rich Alloys</a></div></td>
-<td>Avik Mahata</td>
-<td><a href="http://arxiv.org/abs/2609.05147">2609.05147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05159.html">Glassy dynamics, crossover temperature and density scaling in fragile glass-formers</a></div></td>
-<td>Ankit Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05159">2609.05159</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05373.html">Molecular interfacial rheology: Lipid membrane shear viscosity</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Zhi-Xun Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05373">2609.05373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05671.html">Differentiable Solvation Shell Model for Rational Electrolyte Design</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Hancheng Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05671">2609.05671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05696.html">Bridging simulation length scales with cellular automata</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>John J. Karnes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05696">2609.05696</a></td>
 </tr>
 </tbody></table>

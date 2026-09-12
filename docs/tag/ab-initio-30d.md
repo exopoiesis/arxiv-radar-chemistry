@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -704,47 +704,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13744.html">Designing robust molecular spins for quantum technologies with theoretical chemistry</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Timothy J. Krogmeier et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13744">2608.13744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11589.html">Magnetoelastic coupling descriptor for high-throughput ab initio search of magnetocaloric materials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Debajit Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11589">2608.11589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11897.html">Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Jingying Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11897">2608.11897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12152.html">The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Dan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12152">2608.12152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12530.html">Large-Scale Dynamos Driven by Shear-Flow-Induced Jets</a></div></td>
-<td>B. Tripathi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12530">2608.12530</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12562.html">Diffusion and Solvation Dynamics of Ions in Water: Beyond the Brownian Approximation</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Ian C. Bourg et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12562">2608.12562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12563.html">Natural van der Waals silicates as hosts for telecom quantum emitters: the case of erbium-doped talc</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Gellért Dolecsek et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12563">2608.12563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12572.html">Memory-dependent electronic friction for nonadiabatic dynamics at metal surfaces</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xuexun Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12572">2608.12572</a></td>
 </tr>
 </tbody></table>

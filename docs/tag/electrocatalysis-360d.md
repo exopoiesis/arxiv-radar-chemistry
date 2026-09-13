@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrocatalysis — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11325.html">Pristine and transition metal doped 2D AlSb as high performance electrocatalyst for selective CO2 reduction: A first-principles study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Md. Mostaqul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11325">2509.11325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13727.html">Ion-modulated structure, proton transfer, and capacitance in the Pt(111)/water electric double layer</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Xiaoyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13727">2509.13727</a></td>
 </tr>
 </tbody></table>

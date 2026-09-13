@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,17 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14991.html">Ultrafast controlling net magnetization in g-wave altermagnets via laser fields</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Zhaobo Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14991">2509.14991</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13967.html">Dilated coordinate method for solving nuclear lattice effective field theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Guangzhao He et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13967">2509.13967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16252.html">Low-energy proton impact dynamics on hydrocarbons: Dependence on kinetic energy and incident site</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Misa Viveiros et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16252">2509.16252</a></td>
 </tr>
 </tbody></table>

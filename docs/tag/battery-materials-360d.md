@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1070,11 +1070,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20605.html">Modeling phase transformations in Mn-rich disordered rocksalt cathodes with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Peichen Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20605">2506.20605</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13727.html">Ion-modulated structure, proton transfer, and capacitance in the Pt(111)/water electric double layer</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Xiaoyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13727">2509.13727</a></td>
 </tr>
 </tbody></table>

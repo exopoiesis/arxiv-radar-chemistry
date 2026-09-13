@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">358 papers</span>
+  <span class="paper-count">356 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2150,17 +2150,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16994.html">Hydrogen Chemisorption and Current-Induced Spin Polarization on NbP</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Luis Martinez-Gomez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16994">2606.16994</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15548.html">Switching Chern number by sliding and gating in alternately twisted tetralayer MoTe2</a></div><div class="paper-tags"><a href="tmd-90d.html">tmd</a></div></td>
-<td>Xiao-Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15548">2606.15548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15613.html">Unveiling AlSb as a Promising Zincblende Semiconductor for Visible-Light Shift-Current Generation</a></div></td>
-<td>César Castillo-Quevedo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15613">2606.15613</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14899.html">Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynamics Trajectories</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Jonas Hänseroth et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14899">2608.14899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13038.html">Machine-learned interatomic potential for sputtering of tungsten-boron surfaces</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Alexandre Bergero et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13038">2608.13038</a></td>
 </tr>
 </tbody></table>

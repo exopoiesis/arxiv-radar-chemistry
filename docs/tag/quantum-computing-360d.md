@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -716,11 +716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16186.html">Quantum Generative Adversarial Autoencoders: Learning latent representations for quantum data generation</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Naipunnya Raj et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16186">2509.16186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08183.html">Parametrized Quantum Circuit Learning for Quantum Chemical Applications</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Grier M. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08183">2507.08183</a></td>
 </tr>
 </tbody></table>

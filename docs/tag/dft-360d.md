@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2018 papers</span>
+  <span class="paper-count">2011 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12080,47 +12080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15468.html">First-principles calculation of higher-order elastic constants from divided differences</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Ruvini Attanayake et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15468">2509.15468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14760.html">Interrelation between $\bar{p}$-Ca Atom Spectra and Nuclear Density Profiles</a></div></td>
-<td>Kenta Yoshimura et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14760">2408.14760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02919.html">Testing Variational Perturbation Theory for Effective Actions Using the Gaudin-Yang Model</a></div></td>
-<td>Pranav Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02919">2506.02919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13613.html">Octupole correlations in $^{220,222,224,226}$Rn</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Yi-Ming Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13613">2509.13613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13798.html">Thermal Conductivity Limits of MoS$_2$ and MoSe$_2$: Revisiting High-Order Anharmonic Lattice Dynamics with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Tugbey Kocabas et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13798">2509.13798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13824.html">Contrasting magnetic anisotropy in CrCl3 and CrBr3: A first-principles study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jiazhuang Si et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13824">2509.13824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13995.html">A molecular rotor driven by an electric field on graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Wanxing Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13995">2509.13995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16252.html">Low-energy proton impact dynamics on hydrocarbons: Dependence on kinetic energy and incident site</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Misa Viveiros et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16252">2509.16252</a></td>
 </tr>
 </tbody></table>

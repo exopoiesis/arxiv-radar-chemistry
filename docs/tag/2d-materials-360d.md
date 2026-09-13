@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">525 papers</span>
+  <span class="paper-count">523 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3152,17 +3152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07284.html">Quantum Theory of Exciton Magnetic Moment: Interaction and Topological Effects</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Gurjyot Sethi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07284">2509.07284</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13995.html">A molecular rotor driven by an electric field on graphene</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Wanxing Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13995">2509.13995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13999.html">Using molecular dynamics to investigate the driving force for graphene auto-kirigami</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Charlie M. Rawlins et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13999">2509.13999</a></td>
 </tr>
 </tbody></table>

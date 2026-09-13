@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,23 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15900.html">Crystal-structure design by agentic AI in a language of motifs</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Dinh-Khiet Le et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15900">2608.15900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01677.html">Generative Brownian Bridge Diffusion In Motion Space For Enhanced Myocardial Strain Analysis</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Rishov Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01677">2608.01677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13457.html">Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Van Khoa Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13457">2608.13457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13676.html">EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Deeksha M Shama et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13676">2608.13676</a></td>
 </tr>
 </tbody></table>

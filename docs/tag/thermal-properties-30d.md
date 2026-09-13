@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermal-properties — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <strong>30d</strong> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15781.html">Gas-generating reactive flows in bicontinuous catalyst support structures</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
 <td>J. M. P. Beunen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15781">2608.15781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13826.html">SPEAR: Structure Property Explainability with Attention Regularization</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Aditya Raghavan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13826">2608.13826</a></td>
 </tr>
 </tbody></table>

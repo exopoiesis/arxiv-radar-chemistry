@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,47 +680,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14857.html">Separation of Flexible Enantiomers Using Shear Flow</a></div></td>
 <td>Minh Nhat Pham et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14857">2608.14857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12691.html">Integrated Alchemical and Conformational Enhanced Sampling for Solvation Free Energy Calculations</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="replica-exchange-30d.html">replica-exchange</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Gabriela B. Correa et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12691">2608.12691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12914.html">Local molecular motions encode time-resolved infrared spectra of proteins</a></div></td>
-<td>Emanuel Dorbath et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12914">2608.12914</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12967.html">Elastic properties of cubic silicon carbide with Si vacancies</a></div></td>
-<td>Carlos P. Herrero et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12967">2608.12967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13038.html">Machine-learned interatomic potential for sputtering of tungsten-boron surfaces</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Alexandre Bergero et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13038">2608.13038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13123.html">Using Diffusion Models to Estimate Uncertainties in Analytic Continuation</a></div></td>
-<td>Sagi Meir et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13123">2608.13123</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13735.html">Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities</a></div></td>
-<td>Jay Prakash Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13735">2608.13735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13800.html">Stochastic Control Policies for Robust Molecular Transition Path Sampling</a></div></td>
-<td>Jingqian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13800">2608.13800</a></td>
 </tr>
 </tbody></table>

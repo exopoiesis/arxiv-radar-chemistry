@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,11 +692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19604.html">Improved Therapeutic Antibody Reformatting through Multimodal Machine Learning</a></div></td>
 <td>Jiayi Xin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19604">2509.19604</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00013.html">ProTDyn: a foundation Protein language model for Thermodynamics and Dynamics generation</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yikai Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00013">2510.00013</a></td>
 </tr>
 </tbody></table>

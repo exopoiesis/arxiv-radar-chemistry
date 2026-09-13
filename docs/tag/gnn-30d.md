@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15609.html">Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>S. Saito et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15609">2608.15609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12906.html">EGRL: Edge generation-guided relation-aware learning for RNA-protein interaction prediction</a></div></td>
-<td>Danyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12906">2608.12906</a></td>
 </tr>
 </tbody></table>

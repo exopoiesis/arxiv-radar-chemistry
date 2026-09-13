@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tmd — 360d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <strong>360d</strong> <a href="tmd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,11 +410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19121.html">First principles and scanning tunneling spectroscopical evidences for thermodynamically stable &quot;on-top&quot; sulfur divacancy in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Weiru Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19121">2509.19121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13798.html">Thermal Conductivity Limits of MoS$_2$ and MoSe$_2$: Revisiting High-Order Anharmonic Lattice Dynamics with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Tugbey Kocabas et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13798">2509.13798</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17357.html">Pulse-optimised circuit elements for scalable and noise-resilient quantum chemistry</a></div></td>
 <td>Henrik Gothen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17357">2606.17357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15801.html">MAPS: A Novel Multi-Axial Projective Sphere for Geometrically Visualizing Higher d-Valued Quantum State-Space of Qudits</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Ali Al-Bayaty</td>
-<td><a href="http://arxiv.org/abs/2606.15801">2606.15801</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,41 +842,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14899.html">Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynamics Trajectories</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Jonas Hänseroth et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14899">2608.14899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11388.html">Many-Body Destabilization of Intermediate Oxygen-Hole States</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Anirudh Adavi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11388">2608.11388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11428.html">Yttrium Superhydrides Revisited: Advanced Experimental and Theoretical Studies of YH$_6$, YH$_9$ and YH$_{10}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Dmitrii V. Semenok et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11428">2608.11428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12884.html">Hybrid HPC-Quantum Simulations: DFT-Quantum Embedding for Molecular Systems</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Namrata Manglani et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12884">2608.12884</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13038.html">Machine-learned interatomic potential for sputtering of tungsten-boron surfaces</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Alexandre Bergero et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13038">2608.13038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13506.html">Equivariant learning of a transferable three-dimensional classical density functional</a></div></td>
-<td>Bingqing Cheng</td>
-<td><a href="http://arxiv.org/abs/2608.13506">2608.13506</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13676.html">EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Deeksha M Shama et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13676">2608.13676</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1541 papers</span>
+  <span class="paper-count">1534 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9218,47 +9218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14828.html">Statistics makes a difference: Machine learning adsorption dynamics of functionalized cyclooctine on Si(001) at DFT accuracy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Hendrik Weiske et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14828">2509.14828</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00353.html">PYSED: A tool for extracting kinetic-energy-weighted phonon dispersion and lifetime from molecular dynamics simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ting Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00353">2505.00353</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10783.html">Topology-Driven Vibrations in a Chiral Polar Vortex Lattice</a></div></td>
-<td>Eric R. Hoglund et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10783">2509.10783</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13798.html">Thermal Conductivity Limits of MoS$_2$ and MoSe$_2$: Revisiting High-Order Anharmonic Lattice Dynamics with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Tugbey Kocabas et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13798">2509.13798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13837.html">Crystal Orientation Dependence of Extreme Near-Field Heat Transfer between Polar Materials Governed by Surface Phonon Modes</a></div></td>
-<td>Wei-Zhe Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13837">2509.13837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13995.html">A molecular rotor driven by an electric field on graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Wanxing Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13995">2509.13995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13999.html">Using molecular dynamics to investigate the driving force for graphene auto-kirigami</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Charlie M. Rawlins et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13999">2509.13999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00013.html">ProTDyn: a foundation Protein language model for Thermodynamics and Dynamics generation</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Yikai Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00013">2510.00013</a></td>
 </tr>
 </tbody></table>

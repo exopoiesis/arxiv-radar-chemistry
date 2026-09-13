@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07414.html">RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting</a></div></td>
 <td>Hejun Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07414">2609.07414</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05927.html">GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning</a></div></td>
-<td>Long Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.05927">2609.05927</a></td>
 </tr>
 </tbody></table>

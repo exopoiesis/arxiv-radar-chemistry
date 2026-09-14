@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transition — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <strong>30d</strong> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17742.html">Active learning molecular beam epitaxy of complex quantum materials</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Raghutheja Bollampally et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17742">2608.17742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14292.html">Efficient simulation of second-order phase transitions in quantum anharmonic materials</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Andrea Baldanza et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14292">2608.14292</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14502.html">Universal Thermodynamic Interatomic Potentials for Crystalline Materials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Juno Nam et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14502">2608.14502</a></td>
 </tr>
 </tbody></table>

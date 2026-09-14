@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">422 papers</span>
+  <span class="paper-count">421 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2540,11 +2540,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16992.html">Thermoelectric properties of Lead halide Janus layers -- A theoretical investigation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>A. E. Sudheer et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16992">2509.16992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14553.html">Density Functional Theory Analysis of Na3AgO: Assessing its Viability as a Sustainable Material for Solar Energy Applications</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Vipan Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14553">2509.14553</a></td>
 </tr>
 </tbody></table>

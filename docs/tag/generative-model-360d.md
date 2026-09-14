@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2822,11 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16357.html">Guided Sequence-Structure Generative Modeling for Iterative Antibody Optimization</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Aniruddh Raghu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16357">2509.16357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15309.html">The Importance of Standardizing Spectra in the Era of Large Spectroscopic Surveys: A Case Study of M Dwarfs in SDSS-V</a></div></td>
-<td>Ilija Medan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15309">2509.15309</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1534 papers</span>
+  <span class="paper-count">1531 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9200,23 +9200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15504.html">Machine-Learning Potentials for Efficient Simulations of Anisotropic Colloids</a></div></td>
 <td>B. Rusen Argun et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15504">2509.15504</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16381.html">Follow the MEP: Scalable Neural Representations for Minimum-Energy Path Discovery in Molecular Systems</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Magnus Petersen et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16381">2504.16381</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14600.html">TICA-Based Free Energy Matching for Machine-Learned Molecular Dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Alexander Aghili et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14600">2509.14600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14828.html">Statistics makes a difference: Machine learning adsorption dynamics of functionalized cyclooctine on Si(001) at DFT accuracy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Hendrik Weiske et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14828">2509.14828</a></td>
 </tr>
 </tbody></table>

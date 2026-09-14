@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">353 papers</span>
+  <span class="paper-count">351 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2120,17 +2120,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16186.html">Quantum Generative Adversarial Autoencoders: Learning latent representations for quantum data generation</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Naipunnya Raj et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16186">2509.16186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16420.html">Critical point search and linear response theory for computing electronic excitation energies of molecular systems. Part I: General framework, application to Hartree-Fock and DFT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Laura Grazioli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16420">2506.16420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15193.html">TITAN: A Trajectory-Informed Technique for Adaptive Parameter Freezing in Large-Scale VQE</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Yifeng Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15193">2509.15193</a></td>
 </tr>
 </tbody></table>

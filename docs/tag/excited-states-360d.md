@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">216 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1298,17 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17977.html">Nuclear-electronic orbital second-order coupled cluster for excited states</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Jonathan H. Fetherolf et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17977">2509.17977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16420.html">Critical point search and linear response theory for computing electronic excitation energies of molecular systems. Part I: General framework, application to Hartree-Fock and DFT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Laura Grazioli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16420">2506.16420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14991.html">Ultrafast controlling net magnetization in g-wave altermagnets via laser fields</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Zhaobo Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14991">2509.14991</a></td>
 </tr>
 </tbody></table>

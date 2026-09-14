@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">467 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2816,11 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23823.html">Pressure and doping effects on the electronic structure and magnetism of the single-layer nickelate La$_2$NiO$_4$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>J. B. de Vaulx et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23823">2506.23823</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14991.html">Ultrafast controlling net magnetization in g-wave altermagnets via laser fields</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Zhaobo Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14991">2509.14991</a></td>
 </tr>
 </tbody></table>

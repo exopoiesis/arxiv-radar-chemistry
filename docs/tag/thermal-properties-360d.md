@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">289 papers</span>
+  <span class="paper-count">288 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1742,11 +1742,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05948.html">Accelerating the Discovery of Materials with Expected Thermal Conductivity via a Synergistic Strategy of DFT and Interpretable Deep Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yuxuan Zeng et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05948">2412.05948</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14702.html">Computational uncertainties in lattice thermal conductivity prediction of crystalline solids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Yagyank Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14702">2509.14702</a></td>
 </tr>
 </tbody></table>

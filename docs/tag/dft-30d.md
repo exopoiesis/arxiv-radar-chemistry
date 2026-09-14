@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,41 +806,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15368.html">Proposal of a consistent value for the mean excitation energy of liquid water using advanced modeling, detailed simulations and precission proton Bragg curves</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
 <td>Pablo de Vera et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15368">2608.15368</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00704.html">Reconstruction-Dependent Imaging, Reactivity and Local Reduction of the CeO$_2$(100) surface</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a></div></td>
-<td>Kyungmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00704">2608.00704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14006.html">An $h$-adaptive Tetrahedral Spectral Element Method with Applications to Kohn-Sham Density Functional Theory</a></div></td>
-<td>Zeyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14006">2608.14006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14353.html">Orbital Hall Effect in Weyl Semimetals from quantum geometric band interference</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Chiara Pacella et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14353">2608.14353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14362.html">Tuning crystal-fields by He-irradiation and orbital Widom line in SrVO$_3$ films</a></div></td>
-<td>Matthias Pickem et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14362">2608.14362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14889.html">Antiferroquadrupolar Order in Altermagnetic CoF$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Daniel Halliday et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14889">2608.14889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14899.html">Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynamics Trajectories</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14899">2608.14899</a></td>
 </tr>
 </tbody></table>

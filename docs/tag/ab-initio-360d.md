@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1536 papers</span>
+  <span class="paper-count">1534 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9218,17 +9218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16001.html">Electromagnetic sum rules for 22O from coupled-cluster theory</a></div></td>
 <td>Francesco Marino et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16001">2509.16001</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14828.html">Statistics makes a difference: Machine learning adsorption dynamics of functionalized cyclooctine on Si(001) at DFT accuracy</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hendrik Weiske et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14828">2509.14828</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15468.html">First-principles calculation of higher-order elastic constants from divided differences</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ruvini Attanayake et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15468">2509.15468</a></td>
 </tr>
 </tbody></table>

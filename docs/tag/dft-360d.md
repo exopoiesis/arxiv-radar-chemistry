@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2011 papers</span>
+  <span class="paper-count">2004 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12038,47 +12038,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20372.html">AI-Guided Quantum Material Simulator for Education. Case Example: The Neuromorphic Materials Calculator 2025</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Santiago D. Barrionuevo et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20372">2509.20372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16420.html">Critical point search and linear response theory for computing electronic excitation energies of molecular systems. Part I: General framework, application to Hartree-Fock and DFT</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Laura Grazioli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16420">2506.16420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14553.html">Density Functional Theory Analysis of Na3AgO: Assessing its Viability as a Sustainable Material for Solar Energy Applications</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Vipan Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14553">2509.14553</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14572.html">Tuning Molecular Motors with Tert-Butyl and Fluorinated Tert-Butyl Groups</a></div></td>
-<td>Ivan Tambovtsev et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14572">2509.14572</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14702.html">Computational uncertainties in lattice thermal conductivity prediction of crystalline solids</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yagyank Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14702">2509.14702</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14991.html">Ultrafast controlling net magnetization in g-wave altermagnets via laser fields</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Zhaobo Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14991">2509.14991</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15135.html">Accelerated Discovery of Topological Conductors for Nanoscale Interconnects</a></div></td>
-<td>Alexander C. Tyner et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15135">2509.15135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15468.html">First-principles calculation of higher-order elastic constants from divided differences</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Ruvini Attanayake et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15468">2509.15468</a></td>
 </tr>
 </tbody></table>

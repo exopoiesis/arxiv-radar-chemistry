@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1534 papers</span>
+  <span class="paper-count">1529 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9188,35 +9188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16515.html">Prediction of Li3Fe8B8 compound with rapid one-dimensional ion diffusion channels</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Shiya Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16515">2509.16515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06159.html">Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="string-method-360d.html">string-method</a></div></td>
-<td>Jonah Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2501.06159">2501.06159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18689.html">Dzyaloshinskii-Moriya interaction in Fe5GeTe2 epitaxial thin films</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>J. Sampaio et al.</td>
-<td><a href="http://arxiv.org/abs/2503.18689">2503.18689</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07284.html">Quantum Theory of Exciton Magnetic Moment: Interaction and Topological Effects</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Gurjyot Sethi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07284">2509.07284</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15670.html">Effect of correlation on the elastic scattering of slow positrons from molecules</a></div></td>
-<td>Snigdha Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15670">2509.15670</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16001.html">Electromagnetic sum rules for 22O from coupled-cluster theory</a></div></td>
-<td>Francesco Marino et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16001">2509.16001</a></td>
 </tr>
 </tbody></table>

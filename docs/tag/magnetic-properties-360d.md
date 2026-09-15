@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">346 papers</span>
+  <span class="paper-count">344 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2078,17 +2078,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16515.html">Prediction of Li3Fe8B8 compound with rapid one-dimensional ion diffusion channels</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Shiya Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16515">2509.16515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23823.html">Pressure and doping effects on the electronic structure and magnetism of the single-layer nickelate La$_2$NiO$_4$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>J. B. de Vaulx et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23823">2506.23823</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15700.html">Compressibility and speed of sound in magnetized nuclear matter with broken scale invariance</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Pallabi Parui et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15700">2509.15700</a></td>
 </tr>
 </tbody></table>

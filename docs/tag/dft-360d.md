@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2004 papers</span>
+  <span class="paper-count">1995 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11984,59 +11984,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16992.html">Thermoelectric properties of Lead halide Janus layers -- A theoretical investigation</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>A. E. Sudheer et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16992">2509.16992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05948.html">Accelerating the Discovery of Materials with Expected Thermal Conductivity via a Synergistic Strategy of DFT and Interpretable Deep Learning</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yuxuan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05948">2412.05948</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06159.html">Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="string-method-360d.html">string-method</a></div></td>
-<td>Jonah Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2501.06159">2501.06159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15157.html">Mind the Gap: Data Rewriting for Stable Off-Policy Supervised Fine-Tuning</a></div></td>
-<td>Shiwan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15157">2509.15157</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15665.html">Correlation Effects on Magnetic Structure and Lattice Dynamics of LaMn$_7$O$_{12}$: A First-Principles Study</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Haeyoon Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15665">2509.15665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15682.html">Direct observation of cation-dependent polarisation switching dynamics in fluorite ferroelectrics</a></div></td>
-<td>Kousuke Ooe et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15682">2509.15682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15835.html">Novel Quantum Spin Liquid states in the $S = {\frac{1}{2}}$ three-dimensional compound Y$_{3}$Cu$_{2}$Sb$_{3}$O$_{14}$</a></div></td>
-<td>Saikat Nandi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15835">2509.15835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15875.html">Mechanistic Insights into Complete Methane Oxidation on Single-Atom Pd Supported by SSZ-13 Zeolite: A First-Principles Study</a></div></td>
-<td>Anuroopa Behatha et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15875">2509.15875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15907.html">Incorporating Coulomb interactions with fixed charges in Moment Tensor Potentials and Equivariant Tensor Network Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Dmitry Korogod et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15907">2509.15907</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20372.html">AI-Guided Quantum Material Simulator for Education. Case Example: The Neuromorphic Materials Calculator 2025</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Santiago D. Barrionuevo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20372">2509.20372</a></td>
 </tr>
 </tbody></table>

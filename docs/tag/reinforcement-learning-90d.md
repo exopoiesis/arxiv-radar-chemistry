@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <strong>90d</strong> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21830.html">Mat-Pref: Verifiable-Reward Training Improves Compositional Reasoning in Inorganic Materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Sarrah R. Mikhail Leung et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21830">2606.21830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18089.html">From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning</a></div></td>
-<td>Lingjing Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18089">2606.18089</a></td>
 </tr>
 </tbody></table>

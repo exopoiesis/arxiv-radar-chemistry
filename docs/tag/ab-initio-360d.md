@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1529 papers</span>
+  <span class="paper-count">1527 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9176,17 +9176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17243.html">First principles simulation of the collective rovibronic ground state in a cavity</a></div></td>
 <td>Niclas Krupp et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17243">2509.17243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21493.html">The Fe-Ni phase diagram and the Earth&#x27;s inner core structure</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Liangrui Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21493">2503.21493</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16515.html">Prediction of Li3Fe8B8 compound with rapid one-dimensional ion diffusion channels</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Shiya Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16515">2509.16515</a></td>
 </tr>
 </tbody></table>

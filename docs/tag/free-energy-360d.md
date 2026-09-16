@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">328 papers</span>
+  <span class="paper-count">326 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1970,17 +1970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12467.html">On Multilevel Energy-Based Fragmentation Methods</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>James Barker et al.</td>
 <td><a href="http://arxiv.org/abs/2411.12467">2411.12467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.21493.html">The Fe-Ni phase diagram and the Earth&#x27;s inner core structure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Liangrui Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2503.21493">2503.21493</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16785.html">A simple time coarse graining method for molecular dynamics simulations of liquids</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Maxime Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16785">2509.16785</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,17 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18982.html">Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
 <td>Blazej Banaszewski et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18982">2608.18982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10520.html">Higher-Order Topological States with Cleavage-Dependent Dirac Mass</a></div></td>
-<td>Hongyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10520">2608.10520</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15577.html">Qutrit-Native Spatial-Orbital Encoding for Resource-Efficient Quantum Chemistry Simulation</a></div></td>
-<td>Sumin Lim</td>
-<td><a href="http://arxiv.org/abs/2608.15577">2608.15577</a></td>
 </tr>
 </tbody></table>

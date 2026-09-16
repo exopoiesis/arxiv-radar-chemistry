@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,89 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10381.html">A First-Principles Multiscale Framework for Topological Superconductivity</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Christopher L. Jacobs et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10381">2609.10381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08197.html">Pressure Evolution of Atomic Volume Systematics in Transition Metals</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Masaaki Geshi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08197">2609.08197</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08295.html">Flexoelectric Polarization in Wrinkled Janus Transition-Metal Dichalcogenide Monolayers</a></div></td>
-<td>Stefan Velja et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08295">2609.08295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08329.html">Band Structure Modulation of ZrO2 Nanoparticles for Control of CO Adsorption Properties: A Combined Density Functional Theory - Density Functional Tight Binding Study</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Kexin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08329">2609.08329</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08333.html">Fixed-Dimensional Latent Flow for Generating Variable-Size 3D Molecules</a></div></td>
-<td>Weichi Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08333">2609.08333</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08352.html">Davydov Splitting Without a Davydov Pair and Highly Mobile Singlet Excitons in Perylene Red Microcrystals</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Chris Rehhagen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08352">2609.08352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08586.html">On the Invertibility of the Potential-Density Mapping for the Vlasov-Poisson System in Analytic Spaces</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Simon Le Bouëdec</td>
-<td><a href="http://arxiv.org/abs/2609.08586">2609.08586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08750.html">Decorated electronic kagome lattice in twisted bilayer germanene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Dennis J. Klaassen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08750">2609.08750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08878.html">Controlling Hydrogen Isotope Retention at Helium Cavities through Radiation-Induced Segregation in Fusion Steels</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Lihao Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08878">2609.08878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08983.html">Time-Dependent Density Functional Theory with Coulomb Interactions</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Asbjørn Bækgaard Lauritsen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08983">2609.08983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08984.html">The inverse problem of time-dependent density functional theory on the torus</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Asbjørn Bækgaard Lauritsen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08984">2609.08984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09280.html">Multipole splats for optimized and inverted effective potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Matija Medvidović et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09280">2609.09280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09446.html">Origin of Flat Bands and Role of Electron Correlation in Lutetium Hydrides</a></div></td>
-<td>Anmol Lamichhane et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09446">2609.09446</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09469.html">High-pressure elastic properties of GeO2 polymorphs up to 120 GPa</a></div><div class="paper-tags"><a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Gulshan Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09469">2609.09469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10614.html">Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Reinaldo Inácio</td>
-<td><a href="http://arxiv.org/abs/2609.10614">2609.10614</a></td>
 </tr>
 </tbody></table>

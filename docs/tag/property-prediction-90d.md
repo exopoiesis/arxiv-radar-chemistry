@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17646.html">Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Kishalay Das</td>
+<td><a href="http://arxiv.org/abs/2609.17646">2609.17646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17831.html">Procedural Pretraining for Molecular Property Prediction</a></div></td>
+<td>Moritz Friedemann et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17831">2609.17831</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15611.html">Multi-View Molecular Representation Learning with Hierarchical Graphs and Contextualized Fingerprints</a></div></td>
+<td>Gwang-Hyeon Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15611">2609.15611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12386.html">Split Conformal Prediction with Label-Shift-Adjusted Bayesian Scores</a></div></td>
+<td>Hyeonsu Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12386">2609.12386</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11071.html">Coherent Floquet quantum reservoirs for molecular property prediction</a></div></td>
@@ -236,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22731.html">Closed-loop Auto Research for Molecular Property Prediction: Discovering and Certifying Generalizable Improvements</a></div></td>
 <td>Jingjie Ning et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22731">2606.22731</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20906.html">MMGNN: Multi-level, multi-color graph neural networks for molecular property prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Trung Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20906">2606.20906</a></td>
 </tr>
 </tbody></table>

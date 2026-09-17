@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.11790">2609.11790</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16028.html">Molecular representation shapes the balance between target fidelity and exploration in flow based polymer generation</a></div></td>
+<td>Tianren Zhang</td>
+<td><a href="http://arxiv.org/abs/2609.16028">2609.16028</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Xinrui Xu et al.</td>
@@ -980,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19410.html">Meta-analysis and Topological Perturbation in Interactomic Network for Anti-opioid Addiction Drug Repurposing</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Chunhuan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19410">2509.19410</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17018.html">DeepEOSNet: Capturing the dependency on thermodynamic state in property prediction tasks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jan Pavšek et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17018">2509.17018</a></td>
 </tr>
 </tbody></table>

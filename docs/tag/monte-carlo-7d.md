@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09956.html">Strong Impact of Halide Ordering on Structural Phase Transitions in Mixed Perovskites</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-transition-7d.html">phase-transition</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Felix Uddén et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09956">2609.09956</a></td>
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16941.html">Optimal Scaling of Langevin Proposals with Generalized Acceptance Rules</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Ritik Soni et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16941">2609.16941</a></td>
 </tr>
 <tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Muhammed H. Güneş et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10006">2609.10006</a></td>
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17823.html">METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="metadynamics-7d.html">metadynamics</a> · <a href="replica-exchange-7d.html">replica-exchange</a></div></td>
+<td>Alireza Omidi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17823">2609.17823</a></td>
 </tr>
 </tbody></table>

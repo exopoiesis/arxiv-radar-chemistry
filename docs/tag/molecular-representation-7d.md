@@ -22,9 +22,9 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.11790">2609.11790</a></td>
 </tr>
 <tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="drug-discovery-7d.html">drug-discovery</a></div></td>
-<td>Xinrui Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10099">2609.10099</a></td>
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16028.html">Molecular representation shapes the balance between target fidelity and exploration in flow based polymer generation</a></div></td>
+<td>Tianren Zhang</td>
+<td><a href="http://arxiv.org/abs/2609.16028">2609.16028</a></td>
 </tr>
 </tbody></table>

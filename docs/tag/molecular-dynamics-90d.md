@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">259 papers</span>
+  <span class="paper-count">260 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16941.html">Optimal Scaling of Langevin Proposals with Generalized Acceptance Rules</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Ritik Soni et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16941">2609.16941</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17736.html">Machine learning kinetics from molecular dynamics data</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a> · <a href="string-method-90d.html">string-method</a></div></td>
+<td>Jonathan Weare et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17736">2609.17736</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17901.html">Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds</a></div></td>
+<td>Jan Tauberschmidt et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17901">2609.17901</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10977.html">A model of grain growth in UN integrating molecular dynamics, phase-field modeling, and uncertainty quantification</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -1556,17 +1574,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21719.html">A Topology-Preserving Python Framework for Reliable Initialization of Star and Cyclic Polymer Architectures in Molecular Dynamics (LAMMPS) Simulations</a></div></td>
 <td>Oluwatumininu Emmanuel Ayo-Ojo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21719">2606.21719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19884.html">Extraction of slip velocity in NEMD Couette flow systems using frictional dissipation</a></div></td>
-<td>Hiroki Kusudo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19884">2606.19884</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19923.html">Cytoskeleton-inspired, adaptive nanolipogels as superlubricating delivery vehicles</a></div></td>
-<td>Panpan Zhao* et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19923">2606.19923</a></td>
 </tr>
 </tbody></table>

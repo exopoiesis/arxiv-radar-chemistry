@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17736.html">Machine learning kinetics from molecular dynamics data</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="string-method-30d.html">string-method</a></div></td>
+<td>Jonathan Weare et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17736">2609.17736</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11355.html">SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ</a></div></td>
 <td>Huy Hoang Le et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19121.html">PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Boqiao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19121">2608.19121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16195.html">RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing</a></div></td>
-<td>Kangning Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16195">2608.16195</a></td>
 </tr>
 </tbody></table>

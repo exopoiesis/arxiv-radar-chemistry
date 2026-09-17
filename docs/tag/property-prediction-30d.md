@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17646.html">Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Kishalay Das</td>
+<td><a href="http://arxiv.org/abs/2609.17646">2609.17646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17831.html">Procedural Pretraining for Molecular Property Prediction</a></div></td>
+<td>Moritz Friedemann et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17831">2609.17831</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15611.html">Multi-View Molecular Representation Learning with Hierarchical Graphs and Contextualized Fingerprints</a></div></td>
+<td>Gwang-Hyeon Yun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15611">2609.15611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12386.html">Split Conformal Prediction with Label-Shift-Adjusted Bayesian Scores</a></div></td>
+<td>Hyeonsu Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12386">2609.12386</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11071.html">Coherent Floquet quantum reservoirs for molecular property prediction</a></div></td>
@@ -68,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03525.html">MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Haote Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03525">2608.03525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16005.html">Retrieval-guided Twin Fusion with Similarity-aware Contrast for Molecule-Text Alignment</a></div></td>
-<td>Shunshun Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16005">2608.16005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16111.html">RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Mianzhi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16111">2608.16111</a></td>
 </tr>
 </tbody></table>

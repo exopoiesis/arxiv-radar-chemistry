@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>string-method — all</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <a href="string-method-90d.html">90d</a> <a href="string-method-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17736.html">Machine learning kinetics from molecular dynamics data</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Jonathan Weare et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17736">2609.17736</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08503.html">TSBench: A physics-grounded benchmark for evaluating LLM understanding of chemical reaction mechanisms</a></div><div class="paper-tags"><a href="retrosynthesis-all.html">retrosynthesis</a></div></td>

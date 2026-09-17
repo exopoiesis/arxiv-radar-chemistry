@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1527 papers</span>
+  <span class="paper-count">1525 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9164,17 +9164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18409.html">Er$_\mathrm{Al}$:Al$_2$O$_3$ for Telecom-Band Photonics: Electronic Structure and Optical Properties</a></div></td>
 <td>Mahtab A. Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18409">2509.18409</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17324.html">Non-excitonic mechanism for electronic and structural phase transitions in Ta2Ni(Se,S)5</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Weichen Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17324">2505.17324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17243.html">First principles simulation of the collective rovibronic ground state in a cavity</a></div></td>
-<td>Niclas Krupp et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17243">2509.17243</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,23 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00575.html">Reducing quantum resources for ADAPT-VQE via plateau-operator elimination and correlated mean-field downfolding</a></div></td>
 <td>Phuoc Minh Vo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00575">2607.00575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20176.html">Quantum-Accelerated Self-Consistent Field: A Hybrid Algorithm</a></div></td>
-<td>Alexis Ralli et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20176">2606.20176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20184.html">Operator Learning for efficient Quantum Computation</a></div></td>
-<td>Paul Over et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20184">2606.20184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20805.html">Distribution Complexity of Electronic Structure Simulations on Quantum Supercomputers</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Jason Necaise et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20805">2606.20805</a></td>
 </tr>
 </tbody></table>

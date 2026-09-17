@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">531 papers</span>
+  <span class="paper-count">533 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15077.html">Ensemble-Conditioned Molecular Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Ross Irwin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15077">2609.15077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15136.html">Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Longfei Lv et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15136">2609.15136</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16356.html">Exploring Optimal Parameters for Ligand-Based Virtual Screening in Early Drug Discovery</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
+<td>Temitope Sobodu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16356">2609.16356</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
@@ -3194,11 +3212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18263.html">Efficient Quantum Protein Structure Prediction with Problem-Agnostic Ansatzes</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Hanna Linn et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18263">2509.18263</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16877.html">A review of topological data analysis and topological deep learning in molecular sciences</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>JunJie Wee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16877">2509.16877</a></td>
 </tr>
 </tbody></table>

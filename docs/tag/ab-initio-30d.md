@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,59 +572,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Victor M. S. da Conceição et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16113.html">First-Principles Prediction of Phonon-Mediated Infrared Optical Properties of WO$_3$ Polymorphs</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Sreerag Sundaram et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16113">2608.16113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16226.html">Efficient nonequilibrium electron dynamics from first-principles: leveraging Koopmans spectral functionals and Wannier localization</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Giovanni Cistaro et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16226">2608.16226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16247.html">Bond Disproportionation, Ligand Holes, and Persistent Spin Textures in Ag$_2$BiO$_3$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Atanu Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16247">2608.16247</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16389.html">Assessing the Projector Augmented-Wave Method for Stopping Power Calculations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Bryn Lloyd et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16389">2608.16389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16531.html">Enhancing Hydrogen Adsorption Ability of MOF-5 with Metal Node Exchange and Linker Functionalisation</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Joshua Edzards et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16531">2608.16531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16552.html">Ab initio evidence for surface-dominated antiproton annihilation in ${}^4 \mathrm{He}$</a></div></td>
-<td>Alireza Dehghani et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16552">2608.16552</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16611.html">Machine Learning-Accelerated Band-Edge Engineering of Pnictogen Chalcohalide Solid Solutions for Solar Energy Technologies</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Cibrán López et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16611">2608.16611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17052.html">Accurate Charge Radius Measurement of $^{14}$C Confronts \textit{Ab Initio} Theory</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Kristian König et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17052">2608.17052</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17200.html">Discovery of novel magnetic Y-Mn-B compounds via advanced machine learning guided framework</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="gnn-30d.html">gnn</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Weiyi Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17200">2608.17200</a></td>
 </tr>
 </tbody></table>

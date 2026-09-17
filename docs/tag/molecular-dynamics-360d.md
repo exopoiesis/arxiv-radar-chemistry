@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1525 papers</span>
+  <span class="paper-count">1527 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16941.html">Optimal Scaling of Langevin Proposals with Generalized Acceptance Rules</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Ritik Soni et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16941">2609.16941</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17736.html">Machine learning kinetics from molecular dynamics data</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a> · <a href="string-method-360d.html">string-method</a></div></td>
+<td>Jonathan Weare et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17736">2609.17736</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17901.html">Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds</a></div></td>
+<td>Jan Tauberschmidt et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17901">2609.17901</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10977.html">A model of grain growth in UN integrating molecular dynamics, phase-field modeling, and uncertainty quantification</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -9158,11 +9176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21373.html">Interface and Thermophysical Properties of R32 Refrigerant</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Abibat Adekoya-Olowofela et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21373">2509.21373</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17229.html">Arrested phase separation and chiral symmetry breaking in active dumbbells under shear</a></div></td>
-<td>Lucio Mauro Carenza et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17229">2509.17229</a></td>
 </tr>
 </tbody></table>

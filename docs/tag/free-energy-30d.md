@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17823.html">METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="metadynamics-30d.html">metadynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
+<td>Alireza Omidi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17823">2609.17823</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Line Mouaffac et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18898.html">Polarization controlled second harmonic generation imaging of stretched collagen fibrils reveals collagen deformation pathway in situ</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>MacAulay Harvey et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18898">2608.18898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16362.html">Optimizing Subspace Expansion in Quantum Chemistry through Operator Selection and Reference State Choice</a></div></td>
-<td>Konstantin Lamp et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16362">2608.16362</a></td>
 </tr>
 </tbody></table>

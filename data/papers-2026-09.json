@@ -6529,5 +6529,722 @@
    "Protein & Biomolecules"
   ],
   "updated": "2026-09-10"
+ },
+ "2609.12386": {
+  "abstract": "Conformal prediction provides distribution-free uncertainty quantification under exchangeability. However, this assumption is violated by label shift, where the marginal distribution of labels changes while the conditional distribution of inputs given labels remains stable. Under such shifts, standard conformal procedures no longer maintain their intended coverage behavior. Existing approaches address this via importance weighting. They pair the reweighting with residual-based nonconformity scores that ignore predictive uncertainty. The resulting intervals have uniform width. Bayesian conformal methods produce adaptive intervals by leveraging predictive distributions. They evaluate conformity under the source predictive, which is misaligned with the target domain under label shift. We propose the \\emph{Label-Shift-Adjusted Bayesian Score} (LSA score), a nonconformity score derived from a posterior predictive tilting identity. This identity shows that the target predictive is an importance-weighted transformation of the source predictive. We use it to derive a direct correction to the Bayesian score. We evaluate the method on molecular property prediction under controlled label shift. The LSA score consistently yields shorter intervals than residual-based and source-based Bayesian scores. Coverage in the target domain remains comparable. Under stronger shift, all methods incur some coverage loss due to pseudo-label-based density-ratio estimation. The LSA score is defined for any source predictive with a tractable log-density. We instantiate it with Bayesian Ridge Regression, where the correction admits a closed form.",
+  "authors": [
+   "Hyeonsu Lee",
+   "Juyeon Kim",
+   "Erkhembayar Jadamba",
+   "Seungjin Choi",
+   "Hyunjin Shin"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "2nd Workshop on Epistemic Intelligence in Machine Learning (EIML@ICML 2026),",
+  "first_author": "Hyeonsu Lee",
+  "pdf_url": "http://arxiv.org/pdf/2609.12386",
+  "primary_category": "cs.LG",
+  "published": "2026-09-11",
+  "tags": [
+   "property-prediction"
+  ],
+  "title": "Split Conformal Prediction with Label-Shift-Adjusted Bayesian Scores",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-11"
+ },
+ "2609.12713": {
+  "abstract": "Understanding and inferring dislocation microstructures from diffraction patterns remains an open challenge in materials characterization, as diffraction measurements provide only indirect information about the underlying dislocation structure. In this work, a cross-modal learning framework is developed to enable the prediction of 3D dislocation structures directly from diffraction data. Dislocation density fields generated from discrete dislocation dynamics simulations are paired with corresponding virtual X-ray diffraction patterns and embedded into a shared 2D latent space using contrastive learning. The alignment between structural and diffraction representations of dislocation structures is evaluated directly in the learned latent space using correlations between corresponding latent features. To estimate the role of dataset size for this approach, farthest point sampling is employed to construct representative and diverse training subsets of varying sizes. The results show strong cross-modal alignment and that model performance improves rapidly with increasing dataset size. Near-saturation is achieved with approximately 500 representative observations from a dataset of 10,000 observations, enabling accurate prediction of dislocation density fields from previously unseen diffraction data of the same distribution. Qualitative comparisons confirm that the predicted structures capture the dominant spatial features of the underlying dislocation microstructures. These findings demonstrate an efficient approach for learning structure-diffraction relationships and highlight the potential for inferring structural characteristics of dislocation networks directly from diffraction patterns, providing a pathway toward diffraction-based structural analysis and future extension to experimental data.",
+  "authors": [
+   "Benjamin Udofia",
+   "Nicolas Bertin",
+   "Markus Stricker"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "15 pages, 9 figures, preprint",
+  "first_author": "Benjamin Udofia",
+  "pdf_url": "http://arxiv.org/pdf/2609.12713",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-11",
+  "tags": [],
+  "title": "Inferring Dislocation Microstructures from X-ray Diffraction via Cross-Modal Contrastive Learning",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-11"
+ },
+ "2609.13519": {
+  "abstract": "Molecular design is most effective when generation mirrors the edits chemists actually make: extending a scaffold, replacing a substituent, or decorating a scaffold at a specified attachment site while optimizing molecular properties. Fragment-based molecular design naturally supports this workflow, yet existing approaches often separate fragment selection from attachment prediction, first choosing a fragment from a fixed vocabulary and then predicting how it should be connected. This decoupling restricts generation to a closed fragment vocabulary and treats attachment as a separate prediction problem. We introduce Fraglingo, an autoregressive fragment-based molecular generator that jointly models fragment identity and attachment in a continuous latent space. Fraglingo predicts an attachment-aware fragment embedding and retrieves the next fragment through latent-space nearest-neighbor search. To encode attachment context, we introduce a wildcard-anchored readout that represents the growing molecule from the perspective of its active attachment site, enabling the predicted embedding to capture both the molecular context and the required attachment. Because generation operates in a continuous embedding space rather than over fixed fragment identifiers, new fragments can be added to the inference-time vocabulary without retraining, provided their embeddings can be computed by the trained fragment encoder. This retrieval-based formulation provides a unified generation primitive for molecule generation, scaffold generation, scaffold decoration, and molecular optimization. On controlled property-conditional benchmarks, Fraglingo achieves stronger joint property control than comparably trained baselines while maintaining competitive validity, uniqueness, and novelty. Furthermore, Fraglingo generalizes to fragment libraries up to 4x larger than those used during training without retraining.",
+  "authors": [
+   "Thao Nguyen",
+   "Jeonghwan Kim",
+   "Zhenhailong Wang",
+   "Heng Ji"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "22 pages. Submitted to ICLR 2027",
+  "first_author": "Thao Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2609.13519",
+  "primary_category": "cs.AI",
+  "published": "2026-09-11",
+  "tags": [
+   "molecular-generation"
+  ],
+  "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-11"
+ },
+ "2609.14294": {
+  "abstract": "Orbitronics has attracted significant attention as a platform for information storage and processing that exploits the orbital angular momentum (OAM) of electrons without the need for spin-orbit coupling. However, experimental evaluation of OAM-charge interconversion remains a challenge and the results are often controversial due to the coexistence of bulk and interfacial contributions and the complexity in sample structures. Here, using circularly polarized light pulses and terahertz (THz) polarimetry, we developed a non-contact method to observe the inverse orbital Hall effect as a bulk response within a single material without employing heterostructure samples. In a semiconductor GaN, we directly captured the OAM-to-charge current conversion of holes in the THz frequency range. By analyzing the sharp frequency dependence of the Hall conductivity, we disentangled the competing microscopic mechanisms and revealed the dominant role of extrinsic contributions to the orbital Hall effect in the dc limit. By contrast, the Hall conductivity at THz frequencies above the impurity scattering rate is attributed to the intrinsic Berry-curvature mechanism,allowing a quantitative comparison with the microscopic theory. Furthermore, the ultrafast dynamics of the inverse orbital Hall signal directly revealed sub-picosecond OAM relaxation of holes, comparable to that of phonon-mediated thermalization. The quantitative argument based on theoretical calculations suggested the existence of an even faster decay channel due to momentum redistribution by acoustic phonons, suggesting a sub-nanometer-scale OAM relaxation length. Our results provide comprehensive and crucial insights into OAM transport and establish an ultrafast, contact-free approach for investigating OAM-to-charge conversion.",
+  "authors": [
+   "Kota Aikyo",
+   "Tomohiro Fujimoto",
+   "Ami Mi Shirai",
+   "Yuta Murotani",
+   "Mitsuru Funato",
+   "Shinji Miwa",
+   "Jun Yoshinobu",
+   "Yoichi Kawakami",
+   "Ryusuke Matsunaga"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "28 pages, 5 figures",
+  "first_author": "Kota Aikyo",
+  "pdf_url": "http://arxiv.org/pdf/2609.14294",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-13",
+  "tags": [
+   "2d-materials",
+   "magnetic-properties"
+  ],
+  "title": "Time- and Frequency-Resolved Observation of Inverse Orbital Hall Effect in Gallium Nitride via Terahertz Polarimetry",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-13"
+ },
+ "2609.14348": {
+  "abstract": "Heterogeneous interfaces dictate the performance and degradation of functional materials, making it essential to link local structural variations with macroscopic failure mechanisms to guide future materials design. Yet structural heterogeneity, phase overlap, and local disorder produce highly convoluted diffraction signatures, making extended transition regions difficult to interpret at atomic resolution across large fields of view. Here, we introduce Multi4D, a physics-informed neural network framework for automated multi-component crystallographic identification using four-dimensional scanning transmission electron microscopy (4D-STEM). By combining a latent-space Diffusion Transformer for physics-constrained style translation with a rotation-invariant convolutional neural network for orientation-agnostic classification, this approach translates multi-components diffraction datasets into deterministic crystallographic maps with 98.82% accuracy. In addition, we introduce Diffraction-Inferred Structural Complexity as an information-theoretic entropy metric derived from classifier predictive uncertainty that quantifies local structural ambiguity. We apply Multi4D to generate high-fidelity structural maps of complex superconducting heterostructures, corroded alloy surfaces, and degraded solid-state battery interfaces down to single-nanometer spatial resolution. This framework establishes a statistically robust analytical paradigm for automated microscopy, facilitating both industrial quality control and the data-driven discovery of interfacial design principles.",
+  "authors": [
+   "Haoran Zhang",
+   "Zian Mao",
+   "Shufen Chu",
+   "Xiaoya He",
+   "Yuyan Guan",
+   "Antong Yang",
+   "Mingze Li",
+   "Xiaoqin Zeng",
+   "Yujun Xie"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.CV"
+  ],
+  "comment": "17 pages, 6 figures",
+  "first_author": "Haoran Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2609.14348",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-13",
+  "tags": [
+   "2d-materials",
+   "battery-materials"
+  ],
+  "title": "Multi4D: an end-to-end neural network for structural determination at complex material interfaces",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-13"
+ },
+ "2609.14741": {
+  "abstract": "Early thermal-mechanical lattice requirements are knowledge-intensive and often jointly unsatisfiable: an engineer asks for a cell that is light, stiff, laterally conducting and cheap, and no cell in the library satisfies it. A design system should say so, and say which requirement to loosen and by how much, rather than return the nearest row. A generative model can return a candidate even when the library holds none. This work applies established conflict diagnosis to a catalogue of homogenised properties. Search over 1,397 homogenised unit cells and 19 base materials (26,543 combinations) returns a catalogue row that a second solver can rebuild, or, for an empty feasible set of at most eight constraints, inclusion-minimal unsatisfiable subsets (MUS) and the slack of a repair, not a neighbour. One registry declaration generates the prompt and the evaluator, so undeclared parsed keys cannot reach search. On a frozen suite of 64 typed queries, retrieve-or-refuse matches min-repair on every feasible query (48/48) and refuses every empty one (16/16) with MUS and slack. Constraint-ignoring nearest-neighbour and penalty search violate stated cost or density limits. On 216 empty queries, repairs printed at three significant figures and rounded outward stay feasible in every case (216/216). When density and cost must be kept, a list of minimum-cardinality repairs keeps them on 209 of 211 queries; a protection-first repair keeps them on all 211, the same as full diagnosis. A 308-request parse benchmark is a template-text check, not unconstrained engineer prose.",
+  "authors": [
+   "Shaoliang Yang",
+   "Henry Chu",
+   "Zu Yashengjiang",
+   "Jun Wang"
+  ],
+  "categories": [
+   "cs.CE",
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "30 pages, 7 figures, 22 tables. Appendices A-D give the full property registry, the generated language-model prompt, the frozen 64-query suite, and one worked tool transcript",
+  "first_author": "Shaoliang Yang",
+  "pdf_url": "http://arxiv.org/pdf/2609.14741",
+  "primary_category": "cs.CE",
+  "published": "2026-09-13",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "A property-registry contract for retrieve-or-refuse thermal-mechanical lattice search",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-13"
+ },
+ "2609.15077": {
+  "abstract": "Molecular design is typically approached as a problem of finding molecules which can adopt a single bioactive conformation. In reality, molecules occupy a distribution over conformations, and many of the properties which determine whether a candidate is viable depend on that distribution rather than on any single conformer. We reframe molecular design as an optimisation of both the modes and properties of molecules' conformational ensembles, where modes can be represented as shapes, pharmacophore profiles or protein pockets, and properties are aggregate scalars computed over the whole distribution. To realise this we introduce ensemble-conditioned guidance, a framework which conditions 3D molecular generative models on both axes simultaneously. Mode conditions are composed adaptively at inference by combining the vector fields produced under each condition. Conditions may be targeted or avoided, mixed across modalities and combined in arbitrary numbers, allowing a wide range of design tasks to be expressed with a single trained model. We introduce adaptive symmetry learning to allow conditions from different reference frames to be composed, and extend our generative framework to enable flexible-size generation. We evaluate on new benchmarks for multi-mode conditioning and ensemble property optimisation, and apply the framework to two practical drug discovery tasks, dual-target binder design and active-state-selective agonist design, where in both cases conditioning on the additional state improves the desired outcome over single-state conditioning.",
+  "authors": [
+   "Ross Irwin",
+   "Alessandro Tibo",
+   "Jon Paul Janet",
+   "Simon Olsson"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.NE"
+  ],
+  "comment": "Code available at: https://github.com/rssrwn/ensemble-cond-design datasets and checkpoints available at: https://zenodo.org/records/22485204",
+  "first_author": "Ross Irwin",
+  "pdf_url": "http://arxiv.org/pdf/2609.15077",
+  "primary_category": "cs.LG",
+  "published": "2026-09-14",
+  "tags": [
+   "drug-discovery",
+   "generative-model"
+  ],
+  "title": "Ensemble-Conditioned Molecular Design",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-14"
+ },
+ "2609.15136": {
+  "abstract": "Singlet fission (SF) offers a promising route to surpass the Shockley-Queisser limit by converting a photoexcited singlet exciton into two triplet excitons, thereby enhancing photovoltaic energy conversion efficiency. However, realizing efficient SF process requires stringent energetic requirements among low-lying excited states that render SF molecules intrinsically rare within the vast chemical space. This extreme sparsity presents a grand challenge for molecular discovery. Due to low hit rates and trial-and-error computational waste on nonviable structures, conventional high-throughput virtual screening faces significant constraints, even when accelerated by machine learning models. Here, we establish a synergistic generative-predictive framework for the targeted inverse design of SF molecules by integrating a structure generator, a properties predictor and a multi-criteria validation workflow. By continuously coupling generative exploration with SF predictive models, the framework progressively enriches SF species and achieves a success rate of approximately 90% in generating molecules that satisfy the target SF energetic criteria. High-throughput evaluation of about 100 million generated structures with time-dependent density functional theory (TDDFT) validation of just a random 1% subset confirmed a 90.8% success rate for SF candidates. All together, we constructed an SF database of 283,559 candidates with favorable energetics of excited states and synthetic accessibility. From it, we identified a key fragment strongly associated with the requirements for SF, namely, CN([O])N(C)[O]. These findings establish an efficient route for overcoming the sparsity difficulty in SF molecular discovery and provide interpretable design principles for the development of novel excited-state functional materials.",
+  "authors": [
+   "Longfei Lv",
+   "Li Fu",
+   "Si Zhou",
+   "Lingzhi Zhao",
+   "Jijun Zhao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Longfei Lv",
+  "pdf_url": "http://arxiv.org/pdf/2609.15136",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-14",
+  "tags": [
+   "chemical-space",
+   "dft",
+   "drug-discovery",
+   "excited-states"
+  ],
+  "title": "Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-14"
+ },
+ "2609.15390": {
+  "abstract": "Expanding integrated photonics into the blue spectral range requires high-performance light sources, making the gallium nitride (GaN) material family indispensable. While silicon nitride (SiN) platforms offer a robust, CMOS compatible passive ecosystem for visible wavelengths, seamlessly integrating GaN lasers remains a major bottleneck. Conventional heterogeneous integration methods present distinct trade-offs: full-wafer bonding achieves high throughput but requires careful management of thermal and lattice mismatches across large areas, whereas flip-chip bonding ensures high yield through pretesting but is constrained by sequential processing speed. In this landscape, micro-transfer printing (MTP) emerges as a disruptive, material-efficient alternative, bypassing these limitations by combining high-density parallel integration with known-good-die selection. Applying MTP to GaN, however, presents a significant material challenge: due to its chemical inertness and strong III-N bonds, device release typically relies on electrochemical etching, which can compromise material quality. Here, we overcome this hurdle and demonstrate the first micro-transfer printed blue lasers on a SiN platform. Using a heavily doped n-type sacrificial layer together with optimized electrochemical etching conditions, we release smooth-surfaced thin-film light sources from bulk GaN substrates. Following release, the devices are integrated and butt-coupled to SiN fork-shaped edge couplers, achieving high current densities exceeding 20 kA$/$cm$^2$ alongside lasing at 455 nm. These results expand the visible integrated photonic toolkit and establish a framework for multi-wavelength integration, opening new avenues for next-generation technologies including flow cytometry, quantum computing, optical communications, and augmented/virtual reality.",
+  "authors": [
+   "Konstantinos Akritidis",
+   "Krzysztof Gibasiewicz",
+   "Han Wang",
+   "Iryna Levchenko",
+   "Max Kiewiet",
+   "Maximilien Billet",
+   "Mikołaj Chlipała",
+   "Karolina Peret-Malessa",
+   "Pol Van Dorpe",
+   "Henryk Turski",
+   "Bart Kuyken"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "16 pages, 6 figures",
+  "first_author": "Konstantinos Akritidis",
+  "pdf_url": "http://arxiv.org/pdf/2609.15390",
+  "primary_category": "physics.optics",
+  "published": "2026-09-14",
+  "tags": [
+   "quantum-computing"
+  ],
+  "title": "Micro-transfer Printed Blue InGaN Lasers on Silicon Nitride Photonic Integrated Circuits",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-14"
+ },
+ "2609.15611": {
+  "abstract": "Molecular property prediction requires representations that generalize from limited labeled data to structurally novel compounds. Existing molecular pretraining methods often rely on a single view: graph-based approaches model atom-bond topology but provide limited fragment-level supervision, whereas fingerprint descriptors encode chemical patterns but are typically used as fixed auxiliary features. We propose HiFi-Mol, a multi-view framework that separately pretrains a hierarchical graph encoder and a contextualized fingerprint encoder before downstream integration. The graph branch uses fragment-aware masking with multi-resolution supervision to capture substructure-aware representations, while the fingerprint branch tokenizes active entries from seven fingerprint families and applies masked language modeling to learn contextualized embeddings. During fine-tuning, HiFi-Mol combines projected multi-resolution graph features with fingerprint embeddings for downstream prediction. Evaluated on MoleculeNet benchmarks under the scaffold split, HiFi-Mol achieves a 2.77% improvement in average ROC-AUC over the best baseline across eight classification tasks while maintaining competitive performance on three regression tasks. Further analyses reveal that fragment-aware masking improves graph representation quality, and classification results demonstrate dataset-dependent strengths of the individual graph and fingerprint variants, confirming that the two views provide complementary predictive signals.",
+  "authors": [
+   "Gwang-Hyeon Yun",
+   "Jong-Hoon Park",
+   "Bing Hu",
+   "Helen Chen",
+   "Anita Layton",
+   "Young-Rae Cho"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "The paper has been accepted as a Full Research Paper at CIKM '26. Source code is available at https://github.com/knhc1234/HiFi-Mol",
+  "first_author": "Gwang-Hyeon Yun",
+  "pdf_url": "http://arxiv.org/pdf/2609.15611",
+  "primary_category": "cs.LG",
+  "published": "2026-09-14",
+  "tags": [
+   "property-prediction"
+  ],
+  "title": "Multi-View Molecular Representation Learning with Hierarchical Graphs and Contextualized Fingerprints",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-14"
+ },
+ "2609.15659": {
+  "abstract": "Native 3D generators turn one image into a single mesh. TRELLIS.2 and its peers deliver high-fidelity non-watertight geometry with materials, but the output is one fused object, while downstream work such as editing, rigging and simulation operates on part-level assets. A naive idea is to run a 3D segmentation network on the fused mesh that TRELLIS.2 generates, but such pipelines are slow and bounded by the accuracy of the segmentation. We want a simple way to extend an existing native 3D generator to the part level. But we face a critical problem: the O-Voxel grid stores one sheet of surface per voxel, so a single volume cannot represent the interface where two parts touch, at any resolution. We introduce a dual-volume representation to solve this problem and put forward KaiNinja, a part-level extension of TRELLIS.2 built on a dual-volume form of its O-Voxel representation. KaiNinja keeps the generation speed and quality of TRELLIS.2 while extending it to the part level, with no mask or segmenter in the pipeline. Its training data come from sources of many kinds, including CAD models and assets authored by an LLM-driven agent; to our knowledge it is the first 3D generative model trained on agent-authored part data. Surprisingly, we also find that whole-object fidelity improves over the same backbone fine-tuned on the same dataset. Against part generation pipelines of different paradigms, it lowers whole-object Chamfer distance by 40% and raises strict part F-score by 16%.",
+  "authors": [
+   "Ruihan Yu",
+   "Lian Fu",
+   "Muyao Niu",
+   "Zheng-hui Huang",
+   "Yu-Ju Tsai",
+   "Sho Kuno",
+   "Fengbo Lan",
+   "Yonghao Yu",
+   "Erwin Wu",
+   "Ming-Hsuan Yang",
+   "Kaipeng Zhang",
+   "Zhixiang Wang"
+  ],
+  "categories": [
+   "cs.GR",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": "Project page: https://alaya-lab.github.io/KaiNinja Code: https://github.com/AlayaLab/KaiNinja",
+  "first_author": "Ruihan Yu",
+  "pdf_url": "http://arxiv.org/pdf/2609.15659",
+  "primary_category": "cs.GR",
+  "published": "2026-09-14",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "KaiNinja: Extending Native 3D Generators to the Part Level",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.16028": {
+  "abstract": "Designing polymers with targeted properties requires navigating vast chemical spaces from limited labeled data. Here we introduce PolyLatentFlow, a framework based on continuous-time flow matching in latent space for unconditional and conditional polymer generation, together with LlamaUni, a multimodal representation combining polymer sequence and 3D structural information. In unconditional generation, PolyLatentFlow with LlamaUni produced the largest yield of valid candidates novel relative to PolyInfo among the evaluated unconditional generators while maintaining high diversity. For $T_g$ conditioning, generated property distributions shifted systematically across a 200 °C target range. In multi-property tasks, molecular representations showed similar surrogate target fidelity but differed markedly in validity, training-set replay, and structural proximity to labeled polymers. PolyLatentFlow with LlamaUni consistently combined high validity with low replay and achieved the largest per-attempt yield of nonreplayed target hits for CO$_2$/N$_2$ conditioning. These results demonstrate latent space flow matching for polymer inverse design and identify molecular representation as a key determinant of target control and exploration beyond labeled chemistry.",
+  "authors": [
+   "Tianren Zhang"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Tianren Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2609.16028",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-10",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "Molecular representation shapes the balance between target fidelity and exploration in flow based polymer generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.16040": {
+  "abstract": "Bilateral control-based imitation learning captures both position and force information, making it well suited to contact-rich manipulation. However, existing approaches provide limited means for an operator to specify how a learned task should be executed at inference time, such as slowly or quickly, gently or firmly. We propose Bi-MoDe, a modifier-conditioned decoding framework that injects a constrained latent into every layer of the Transformer action decoder via adaLN-Zero, allowing behavioral directives to directly influence action-chunk generation. We evaluate the method on a real-world whiteboard wiping task with combinations of temporal and physical modifiers. Bi-MoDe improves physical directive following over the action-chunking baseline while maintaining comparable temporal control. An ablation further shows that decoder conditioning and latent-space composition interact, and that their combination is important for accurate physical directive following. Additional material is available at the https://mertcookimg.github.io/bi-mode/",
+  "authors": [
+   "Takumi Kobayashi",
+   "Masato Kobayashi",
+   "Yuki Uranishi"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Takumi Kobayashi",
+  "pdf_url": "http://arxiv.org/pdf/2609.16040",
+  "primary_category": "cs.RO",
+  "published": "2026-09-11",
+  "tags": [],
+  "title": "Bi-MoDe: Bilateral Control-based Imitation Learning via Modifier-Conditioned Decoding for Modulation of Execution Speed and Contact Intensity",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-11"
+ },
+ "2609.16356": {
+  "abstract": "Ligand-based virtual screening depends on choices that are often treated as implementation details, including the similarity threshold, fingerprint setting and atom-invariant scheme. We examined how these choices altered the composition of ranked searches against the Enamine library for four aminergic reference ligands: atomoxetine, bupropion, mirtazapine and venlafaxine. Candidate sets were evaluated by compound-weighted scaffold novelty, normalized Shannon scaffold diversity and three computational estimates of synthetic accessibility. We first identified ligand-specific operating points along cumulative Tanimoto-ranked searches. We then compared five extended-connectivity fingerprint settings at matched retrieval depths and compared ECFP4 with the feature-class analogue FCSFP4. Finally, 240 records, corresponding to 229 unique structures, were scored independently by three chemists who were blinded to the computational scores. No single Tanimoto cutoff described all four searches. ECFP8 provided the most stable pooled setting, although venlafaxine favored ECFP2. ECFP4 was the stronger primary fingerprint in pooled comparisons, whereas FCSFP4 contributed nonredundant chemical space. Agreement among individual chemists was moderate, and the mean rating was more reliable than a single rating. SCScore showed the highest association with the blinded consensus, but performance varied by ligand. These results support a staged screening design in which a pooled default is followed by ligand-specific calibration and expert review.",
+  "authors": [
+   "Temitope Sobodu",
+   "Victor Chibuzor Johnson",
+   "Ryan Kern",
+   "Peter Oni"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Temitope Sobodu",
+  "pdf_url": "http://arxiv.org/pdf/2609.16356",
+  "primary_category": "q-bio.BM",
+  "published": "2026-09-14",
+  "tags": [
+   "chemical-space",
+   "drug-discovery"
+  ],
+  "title": "Exploring Optimal Parameters for Ligand-Based Virtual Screening in Early Drug Discovery",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-14"
+ },
+ "2609.16466": {
+  "abstract": "Materials design must reconcile competing functional requirements with stability and synthesis constraints. Generative models can produce stable, novel crystals, but accommodating detailed natural-language design instructions remains challenging. Here we introduce HiMatGen, a framework for scaling large language model agents through hierarchical collective reasoning. Built from GPT-5.6 Terra, HiMatGen connects 100 investigators in discussion pods across ten scientific domains with tool-enabled domain representatives. Representatives investigate proposals, exchange evidence across domains and return findings and unresolved questions to their pods. This bidirectional exchange turns specialist disagreements into structural revisions and alternative designs. Across six chemical systems, HiMatGen produces 1.9 times as many final crystal candidates and 1.7 times as many stable, unique and novel (SUN) structures as a tool-enabled GPT-6 Astra single-agent baseline. In property-directed tasks, the complete HiMatGen workflow outperforms same-model single-agent and independent-generation controls. Comparisons with MatterGen and Chemeleon2 demonstrate its ability to develop diverse crystals satisfying joint functional and chemical requirements. In a paired comparison initialized from the same proposals, hierarchical discussion reduces debate-stage token usage by a factor of 22 relative to full debate. HiMatGen provides an approach to materials design that sustains the exchange of scientific knowledge and computational evidence throughout iterative exploration as the agent population grows.",
+  "authors": [
+   "Jaehwan Choi",
+   "Yousung Jung"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jaehwan Choi",
+  "pdf_url": "http://arxiv.org/pdf/2609.16466",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-15",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "Scaling LLM Agents for Materials Design through Hierarchical Collective Reasoning",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.16527": {
+  "abstract": "Exploring the chemical space of flexible molecules remains challenging because the vast number of possible compounds and conformations, together with the increasing cost and limited generalization of 3D generative models for larger and more complex molecules, restrict access to unexplored chemistry. Here, we introduce QALPA (\"Quantum-Aware Learning for Property-space Augmentation\"), a property-guided generative framework that combines an E(3)-equivariant diffusion model with active learning and efficient quantum-mechanical (QM) methods to iteratively explore targeted QM property manifolds. By coupling generation with physics-based evaluation, QALPA improves molecular sampling and model reliability in sparsely populated regions of chemical space. Our results show that training on complementary QM datasets spanning both small (QM7-X) and large (Aquamarine) drug-like compounds enables accurate molecular generation across a broad size range, improving transferability beyond the training distribution for complex property manifolds involving both extensive and intensive properties. As a proof of concept, QALPA coupled with the machine learning-augmented tight-binding method EquiDTB efficiently augments alloQM, a QM dataset introduced in this work, comprising 6,253 conformers of allosteric drug molecules, by populating sparse regions of the property landscape defined by the many-body dispersion energy and HOMO-LUMO energy gap. These results demonstrate that the integration of generative AI with efficient ML/QM methods offers a practical pathway toward augmenting sparse QM datasets and sustainably expanding the exploration of chemical space for molecular discovery.",
+  "authors": [
+   "Michael Hanna",
+   "Julian Cremer",
+   "Zekiye Erarslan",
+   "Leonardo Medrano Sandonas"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI"
+  ],
+  "comment": "16 pages, 6 figures",
+  "first_author": "Michael Hanna",
+  "pdf_url": "http://arxiv.org/pdf/2609.16527",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-15",
+  "tags": [
+   "active-learning",
+   "chemical-space",
+   "diffusion-model",
+   "generative-model",
+   "molecular-generation"
+  ],
+  "title": "QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.16802": {
+  "abstract": "Born effective charges (BEC) link atomic displacements to polarization, connecting lattice vibrations to dielectric response and infrared activity. We present ZStar, an open-source Python toolkit that automates calculations of polarization, BEC, phonons, static and frequency-dependent dielectric response, and infrared and Raman spectra. ZStar supports calculations across all dimensionalities, including bulk crystals, two-dimensional materials, one-dimensional structures, and molecules, through an integrated workflow spanning input preparation, execution, and response analysis. Berry-phase polarization and real-space dipoles describe responses along periodic and open directions, respectively. Our unified, symmetry-adapted finite-displacement framework jointly determines BEC and zone-center force constants from the same calculations, improving computational efficiency while preserving numerical accuracy. Reusing the electronic Hamiltonian in the ABACUS+PYATB route enables Raman calculations without additional self-consistent calculations. Reproducible examples and a packaged agent skill support conventional and agent-assisted use. ZStar enables efficient, automated exploration of polarization, BEC, dielectric response, and vibrational spectra across all dimensionalities.",
+  "authors": [
+   "Xudong Zhu",
+   "Junhong Li",
+   "Gan Jin",
+   "Zheng Guan",
+   "Lixin He"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xudong Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2609.16802",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-15",
+  "tags": [
+   "2d-materials"
+  ],
+  "title": "ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and infrared and Raman spectra calculations",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.16941": {
+  "abstract": "Langevin-based Markov chain Monte Carlo (MCMC) algorithms use gradient information to improve sampling, particularly in high dimensions. Classical optimal scaling theory for these algorithms has largely focused on the Metropolis-Hastings (MH) acceptance rule. However, there has been a recent surge in acceptance rules beyond MH for applications spanning differential privacy, stochastic MCMC, diffusion models, and molecular dynamics. We develop optimal scaling results for Langevin proposals employed with generalized acceptance rules belonging to a suitable class. For high-dimensional targets, we recover the usual $O(d^{-1/3})$ scaling, while different acceptance rules lead to different optimal acceptance probabilities.",
+  "authors": [
+   "Ritik Soni",
+   "Dootika Vats"
+  ],
+  "categories": [
+   "stat.CO",
+   "math.ST"
+  ],
+  "comment": "24 pages, 2 figures",
+  "first_author": "Ritik Soni",
+  "pdf_url": "http://arxiv.org/pdf/2609.16941",
+  "primary_category": "stat.CO",
+  "published": "2026-09-15",
+  "tags": [
+   "diffusion-model",
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Optimal Scaling of Langevin Proposals with Generalized Acceptance Rules",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17137": {
+  "abstract": "We reconstruct a spatially varying material coefficient in a scalar elliptic equation from finitely many boundary excitations, each producing a full Dirichlet trace. To mitigate the ill-posedness and the cost of repeated PDE solves, we restrict the coefficient to a low-dimensional family, specified analytically or learned from samples, and solve the inverse problem in its latent coordinates. We consider a \\(C^1\\) parametrization with \\(m\\) latent coordinates and full-rank derivative at a reference point. If the continuous linearized Neumann-to-Dirichlet map is injective on the corresponding tangent space, at most \\(m\\) excitations suffice for local injectivity and Lipschitz stability. Convergence of the coefficient sensitivities then transfers this stability to conforming finite element discretizations. For sufficiently fine meshes, the stability constant and neighborhood can be chosen independently of the mesh size. Under a local residual-comparison condition, uniform accuracy of the surrogate forward map yields coefficient-error bounds separating representation error, data noise, finite element error, and surrogate error. Derivative accuracy additionally preserves the surrogate's own local stability. All stability statements are local to a reference coefficient. Two-dimensional numerical experiments combine analytic and learned representations of inclusions and crack-like coefficients with neural forward surrogates. They illustrate latent-space reconstruction, reduced online cost, and further improvement from optional FEM-based refinement.",
+  "authors": [
+   "Erik Burman",
+   "Mats G. Larson",
+   "Karl Larsson",
+   "Jonatan Vallin"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Erik Burman",
+  "pdf_url": "http://arxiv.org/pdf/2609.17137",
+  "primary_category": "math.NA",
+  "published": "2026-09-15",
+  "tags": [],
+  "title": "Latent Inversion of Material Coefficients from Boundary Data via Finite Tests and Neural Surrogates",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17169": {
+  "abstract": "Forecasting anatomical changes such as tumor growth and neurodegeneration is a challenging generative vision task. Morphological evolution is subtle relative to static anatomy, highly patient-specific, and inherently stochastic. Existing methods struggle with several issues: deterministic networks ignore biological stochasticity, while standard diffusion models require computationally prohibitive multi-pass sampling to quantify uncertainty. We propose MUMINS (Metadata-conditioned Uncertainty-aware Medical Image Next-state Synthesis), an efficient diffusion framework that jointly diffuses a baseline scan and its follow-up residual, summed to synthesize the follow-up scan, while concurrently predicting a spatial uncertainty map, in a single reverse diffusion process. Conditioned on the time interval and relevant metadata, it preserves fine-grained anatomy by dynamically re-injecting the baseline as a soft anchor at every denoising step, and a negative-log-likelihood head learns the uncertainty map to explicitly flag error-prone regions. Designed without organ-specific heuristics, the same architecture is reused across anatomies via separate, dataset-specific retraining. Extensive evaluations demonstrate that dataset-specific retraining of MUMINS matches or outperforms dedicated, domain-specific state-of-the-art methods on lung CT (PNG) and brain MRI (OASIS-3). Project page: https://github.com/aolivtous/MUMINS.",
+  "authors": [
+   "Anna Oliveras",
+   "Roger Marí",
+   "Rafael Redondo",
+   "Oriol Guardià",
+   "Cynthia Ifeyinwa Ugwu",
+   "Ana Tost",
+   "Bhalaji Nagarajan",
+   "Carolina Migliorelli",
+   "Vicent Ribas",
+   "Petia Radeva"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "comment": "Supplementary material to follow in future versions",
+  "first_author": "Anna Oliveras",
+  "pdf_url": "http://arxiv.org/pdf/2609.17169",
+  "primary_category": "cs.CV",
+  "published": "2026-09-15",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "MUMINS: Metadata-conditioned Uncertainty-aware Medical Image Next-state Synthesis",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17646": {
+  "abstract": "This thesis develops robust and efficient AI frameworks for accelerating crystalline materials discovery by addressing both major stages of the materials-design pipeline: crystal property prediction and crystal structure generation. Motivated by the high computational cost of Density Functional Theory (DFT) and the limited availability of labeled materials data, the thesis explores graph representation learning, pretraining, multimodal learning, and generative modeling for scalable materials design.   For property prediction, the thesis first introduces CrysXPP, which learns transferable crystal representations through unsupervised graph autoencoding, reducing dependence on large property-labeled datasets. It then proposes CrysGNN, a large-scale self-supervised graph pretraining framework that captures atomic connectivity, chemical attributes, and global structural information and transfers this knowledge to downstream property predictors through knowledge distillation. CrysMMNet further enriches crystal representations by jointly modeling graph structure and textual descriptions, thereby incorporating both local chemical and global structural knowledge.   For crystal generation, the thesis introduces TGDMat, a text-guided joint diffusion framework that jointly models lattice parameters, atomic types, and atomic coordinates while incorporating textual structural knowledge during denoising. This enables the generation of more valid and stable periodic materials while also supporting conditional generation from natural-language descriptions.   Overall, the thesis establishes a unified AI-based framework for data-efficient property prediction and controllable crystal generation, demonstrating how graph learning, multimodal representations, and generative models can reduce computational cost and improve the scalability of materials",
+  "authors": [
+   "Kishalay Das"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Kishalay Das",
+  "pdf_url": "http://arxiv.org/pdf/2609.17646",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-15",
+  "tags": [
+   "crystal-structure",
+   "dft",
+   "generative-model",
+   "materials-discovery",
+   "property-prediction"
+  ],
+  "title": "Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17736": {
+  "abstract": "Most molecular transitions occur on timescales far beyond direct molecular dynamics simulations. The committor, the probability that a configuration reaches a product state before a reactant state, is a central kinetic statistic, providing a mechanism-independent reaction coordinate and a foundation for transition path theory and the calculation of rates. This review surveys modern approaches for estimating the committor and related kinetic statistics from molecular simulations, with an emphasis on self-supervised methods that learn solutions of their defining dynamical equations rather than relying on labeled shooting data. We develop a common operator viewpoint connecting generator-based partial differential equations, variational principles, Markov state models, dynamical Galerkin approximation, and neural networks. Empirical and theoretical evidence points to the efficiency of these methods. We provide theoretical and practical guidance for realizing their full potential in applications, including strategies for treating non-Markovian effects and for sampling. We conclude by identifying opportunities for further research, including connections to reinforcement learning and generative modeling.",
+  "authors": [
+   "Jonathan Weare",
+   "Aaron R. Dinner"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.stat-mech",
+   "cs.LG",
+   "physics.chem-ph",
+   "physics.data-an"
+  ],
+  "comment": "24 pages, 5 figures",
+  "first_author": "Jonathan Weare",
+  "pdf_url": "http://arxiv.org/pdf/2609.17736",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-09-15",
+  "tags": [
+   "molecular-dynamics",
+   "reinforcement-learning",
+   "string-method"
+  ],
+  "title": "Machine learning kinetics from molecular dynamics data",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17823": {
+  "abstract": "Many proteins function through transitions between conformational states, yet rare states are rarely sampled by diffusion models trained on an equilibrium ensemble, demanding better sampling methods. We introduce METALICA, which implements Metadynamics on a pretrained diffusion model via Replica Exchange. It accumulates a bias potential along a Collective Variable, repels new samples from previous ones through biased sampling, and reweights samples onto the unbiased distribution. METALICA holds one replica per diffusion level, forming a Markov Chain that evolves through inter-replica communication and is refined in place as the bias grows. METALICA is the dual of sequential control, in which Sequential Monte Carlo parallelizes the sampler over a batch of particles. Parallelism over the levels of the diffusion-time schedule instead allows METALICA to generate samples from long chains, essential for the discovery of rare events, with accuracy set by run length rather than by the memory available. We validate on a bimodal target with known free energies, then apply METALICA to the unfolding of a protein. At a budget for which sequential control yields no unfolded structure, METALICA populates the basin and resolves a second free energy minimum.",
+  "authors": [
+   "Alireza Omidi",
+   "Jiajun He",
+   "Jörg Gsponer",
+   "Saifuddin Syed"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG",
+   "physics.bio-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "14 pages, 6 figures",
+  "first_author": "Alireza Omidi",
+  "pdf_url": "http://arxiv.org/pdf/2609.17823",
+  "primary_category": "stat.ML",
+  "published": "2026-09-15",
+  "tags": [
+   "diffusion-model",
+   "enhanced-sampling",
+   "free-energy",
+   "metadynamics",
+   "monte-carlo",
+   "replica-exchange"
+  ],
+  "title": "METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17831": {
+  "abstract": "Molecular property prediction is often limited by the small size of labeled downstream datasets, motivating pretraining on large corpora of unlabeled molecules. In this work, we ask whether useful inductive biases can instead be learned from abstract, procedurally generated data before a model sees any molecular data. We introduce a three-stage training pipeline consisting of procedural pretraining, molecular pretraining on SMILES, and downstream fine-tuning, and evaluate several procedural tasks spanning sequence structure, cellular automata, and graph reasoning. We find that procedural pretraining can improve molecular property prediction even after subsequent molecular pretraining: on Lipophilicity, \\textsc{Reverse} reduces test error by 4.8\\%. For context, the magnitude of this improvement is roughly 90\\% of the performance difference between our 250K-molecule baseline and the publicly released MoLFormer checkpoint pretrained on approximately 100M molecules. Our analysis shows that the benefit is strongest under downstream data scarcity, depends on the structure of the procedural data rather than only surface-level statistics, and does not increase monotonically with additional procedural training. Instead, transfer typically peaks at an intermediate procedural budget and deteriorates as the model approaches convergence on the procedural task. We further find that, for several tasks, much of the transferable information is localized in the attention layers, while feed-forward layers can contribute to over-specialization. These results show that procedural data can provide transferable structure for molecular learning and offer a complementary route to improving performance when labeled molecular data are limited.",
+  "authors": [
+   "Moritz Friedemann",
+   "Zachary Shinnick",
+   "Philip Torr",
+   "Bruno Andreis"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "14 pages",
+  "first_author": "Moritz Friedemann",
+  "pdf_url": "http://arxiv.org/pdf/2609.17831",
+  "primary_category": "cs.LG",
+  "published": "2026-09-15",
+  "tags": [
+   "property-prediction"
+  ],
+  "title": "Procedural Pretraining for Molecular Property Prediction",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17901": {
+  "abstract": "Generative modeling of time-dependent data is typically formulated on a discrete temporal grid, restricting supervision to the observed timestamps in the training data. We instead frame generation as continuous-time evolution on a learned data manifold. To this end, we leverage pretrained score-based models as geometric priors and learn a vector field that evolves data along score-induced interpolation paths. Because these dynamics follow transitions that respect the geometry learned by the score model, they support generation at arbitrary timestamps and temporal super-resolution beyond the discretization of the training data. Moreover, this geometric formulation allows us to train the vector field simulation-free through a regression objective. To improve long-horizon rollout robustness, we introduce an objective that promotes path-relative transverse exponential stability. While motivated by stability theory, it admits a practical interpretation as denoising score matching transverse to the interpolation path. Further, we extend the framework to a probabilistic setting that models a distribution over plausible future trajectories. We demonstrate the method on natural video and scientific dynamical data, including temporal super-resolution, PDE-based spatiotemporal fields, and molecular dynamics. Our results show that score-based priors provide a strong foundation for learning stochastic continuous-time generative dynamics.",
+  "authors": [
+   "Jan Tauberschmidt",
+   "Brian B. Moser",
+   "Stanislav Frolov",
+   "Andreas Dengel",
+   "Andrew B. Duncan",
+   "Sebastian J. Vollmer"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Jan Tauberschmidt",
+  "pdf_url": "http://arxiv.org/pdf/2609.17901",
+  "primary_category": "cs.LG",
+  "published": "2026-09-15",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.18510": {
+  "abstract": "We present DiT-Garment to model dynamic 3D clothing over human body models in arbitrary motion. Unlike existing methods, DiT-Garment can animate garments with unseen designs and physical materials, while allowing for direct inference of deformations for any target pose. To achieve this, we leverage a 2D diffusion transformer architecture to learn 3D deformations in a 2D UV-space. As the result is non-deterministic, our generative model learns the distribution of possible outcomes. The template garment is represented as a 3D triangle mesh spatially aligned with a 3D human body model in a standardized pose. To work with different garment designs without the need of a common template or complex graph convolution operations, the diffusion transformer is conditioned on a 3D position map of the template, represented in UV-space, which allows to implicitly learn a deformation of the 3D space around the body in standard pose. Further conditioning on body motion and physical parameters allows to physically ground the model. We quantitatively and qualitatively evaluate DiT-Garment on both synthetic and real data. While only trained on synthetic simulations of automatically generated cloth designs, our method generalizes to captured and artist-made garment designs. Code and data are available for research purposes at https://dumoulina.github.io/dit-garment/.",
+  "authors": [
+   "Antoine Dumoulin",
+   "Laurence Boissieux",
+   "Joao Regateiro",
+   "Pierre Hellier",
+   "Stefanie Wuhrer"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Antoine Dumoulin",
+  "pdf_url": "http://arxiv.org/pdf/2609.18510",
+  "primary_category": "cs.CV",
+  "published": "2026-09-16",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "DiT-Garment: Garment Dynamics with Diffusion Transformers",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-16"
  }
 }

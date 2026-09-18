@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">383 papers</span>
+  <span class="paper-count">381 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2300,17 +2300,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18951.html">A Methodological Study on Data Representation for Machine Learning Modelling of Thermal Conductivity of Rare-Earth Oxides</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Amiya Chowdhury et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18951">2509.18951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11023.html">Informed, but Not Always Improved: Challenging the Benefit of Background Knowledge in GNNs</a></div></td>
-<td>Kutalmış Coşkun et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11023">2505.11023</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17464.html">Predicting the Curie Temperature of Magnetic Materials with Machine Learning: Descriptor Engineering, Graph Neural Networks, and the Role of Curated Data</a></div></td>
-<td>Akram Abedi Orang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17464">2509.17464</a></td>
 </tr>
 </tbody></table>

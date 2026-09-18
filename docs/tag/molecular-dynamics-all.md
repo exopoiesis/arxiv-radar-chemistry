@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">2860 papers</span>
+  <span class="paper-count">2861 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17901.html">Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds</a></div></td>
 <td>Jan Tauberschmidt et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17901">2609.17901</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15096.html">OpenAI4S: Code as Action, Science as Sessions</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
+<td>Gongbo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15096">2609.15096</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-10</td>

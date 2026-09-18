@@ -6604,6 +6604,33 @@
   ],
   "updated": "2026-09-11"
  },
+ "2609.13939": {
+  "abstract": "Electrides are an unconventional class of materials in which electrons are localized in crystallographic void spaces rather than solely around atomic nuclei, giving rise to appealing properties such as low work functions, strong electron-donating character, and even superconductivity. Here, we use ab initio methods to investigate metal-organic framework (MOF) electrides, a new class of materials that combines the interstitial electrons of electrides with the permanent porosity and chemical tunability of MOFs. These materials host pore-confined electrons: occupied electronic states localized in the pore space and with bands slightly below or crossing through the Fermi level. Using density functional theory calculations, we establish several design rules for stabilizing pore-confined electrons in MOFs via an anion-electron exchange process and identify candidate MOF electrides. As a proof-of-concept, we also demonstrate that the pore-confined electrons can directly facilitate chemical reactions, substantially lowering the activation barrier for H2 dissociation without requiring adsorption at a surface site. We envision that pore-confined electrons in nanoporous materials may enable a fundamentally new type of catalysis in which chemical reactions take place in the pore space, driven by electron-centered active sites.",
+  "authors": [
+   "Julia H. Baratta",
+   "Andrew S. Rosen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Minor fixes to the label in Fig 7b and the SI Methods",
+  "first_author": "Julia H. Baratta",
+  "pdf_url": "http://arxiv.org/pdf/2609.13939",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-12",
+  "tags": [
+   "ab-initio",
+   "band-gap",
+   "catalysis",
+   "dft",
+   "mof"
+  ],
+  "title": "Towards a Metal-Organic Framework with Pore-Confined Electrons",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-16"
+ },
  "2609.14294": {
   "abstract": "Orbitronics has attracted significant attention as a platform for information storage and processing that exploits the orbital angular momentum (OAM) of electrons without the need for spin-orbit coupling. However, experimental evaluation of OAM-charge interconversion remains a challenge and the results are often controversial due to the coexistence of bulk and interfacial contributions and the complexity in sample structures. Here, using circularly polarized light pulses and terahertz (THz) polarimetry, we developed a non-contact method to observe the inverse orbital Hall effect as a bulk response within a single material without employing heterostructure samples. In a semiconductor GaN, we directly captured the OAM-to-charge current conversion of holes in the THz frequency range. By analyzing the sharp frequency dependence of the Hall conductivity, we disentangled the competing microscopic mechanisms and revealed the dominant role of extrinsic contributions to the orbital Hall effect in the dc limit. By contrast, the Hall conductivity at THz frequencies above the impurity scattering rate is attributed to the intrinsic Berry-curvature mechanism,allowing a quantitative comparison with the microscopic theory. Furthermore, the ultrafast dynamics of the inverse orbital Hall signal directly revealed sub-picosecond OAM relaxation of holes, comparable to that of phonon-mediated thermalization. The quantitative argument based on theoretical calculations suggested the existence of an even faster decay channel due to momentum redistribution by acoustic phonons, suggesting a sub-nanometer-scale OAM relaxation length. Our results provide comprehensive and crucial insights into OAM transport and establish an ultrafast, contact-free approach for investigating OAM-to-charge conversion.",
   "authors": [
@@ -6718,6 +6745,49 @@
   "title": "Ensemble-Conditioned Molecular Design",
   "topics": [
    "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-14"
+ },
+ "2609.15096": {
+  "abstract": "AI co-scientists could accelerate computational research, but over a long-running study the workflow also has to stay inspectable, resumable and reproducible, which requires persistent computational state and provenance. Here we present OpenAI4S, an open-source scientific research agent built around the principle of \\emph{Code as Action, Science as Sessions}. OpenAI4S combines a persistent computing runtime with research-session management: orchestration is handled through structured tool calls, while scientific actions are represented as complete code cells executed in persistent Python and R kernels. An append-only Action Ledger, per-cell execution records, versioned artifacts, environment records, and workspace checkpoints preserve how results were produced and support session recovery, branching, and extension. Configurable sandboxing, permission controls, and code and trajectory screening provide complementary safeguards. We evaluate OpenAI4S on 36 research scenarios spanning retrosynthesis, molecular dynamics, protein binder design, protein mutation, catalyst screening, and mineral spectroscopy, measuring scientific task accuracy, workflow completeness, and reproducibility of the resulting repositories. OpenAI4S achieves an overall score of 7.83, compared with 5.7--6.4 for a general-purpose coding harness evaluated with three frontier models, with the largest gains on long-horizon and computation-intensive workflows. These results suggest that integrating persistent execution with session-level provenance can improve the reliability of AI-assisted scientific workflows. Environment specification and full rerunnability remain weak for every evaluated system, ours included, so reproducibility is still an open problem for scientific agents. The system is available under the MIT license at \\href{https://github.com/PKU-YuanGroup/OpenAI4S}{github.com/PKU-YuanGroup/OpenAI4S}.",
+  "authors": [
+   "Gongbo Zhang",
+   "Hao Li",
+   "Yu Wang",
+   "Mujie Lin",
+   "Liuzhenghao Lv",
+   "Yicheng Mao",
+   "Yimi Wang",
+   "Jun Zhu",
+   "Minhan Tang",
+   "Zhengxiang Jiang",
+   "Yusong Wang",
+   "Jiayu Yao",
+   "Kunpeng Ning",
+   "Dawei Pang",
+   "Yonghong Tian",
+   "OpenAI4S Community",
+   "Yuyang Liu",
+   "Li Yuan"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL",
+   "cs.SE"
+  ],
+  "comment": null,
+  "first_author": "Gongbo Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2609.15096",
+  "primary_category": "cs.AI",
+  "published": "2026-09-14",
+  "tags": [
+   "catalysis",
+   "molecular-dynamics",
+   "retrosynthesis"
+  ],
+  "title": "OpenAI4S: Code as Action, Science as Sessions",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-09-14"
  },
@@ -6967,6 +7037,57 @@
   "title": "QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules",
   "topics": [
    "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.16584": {
+  "abstract": "Supernovae are major drivers of cosmic chemical evolution. They synthesize heavy elements and disperse them into the interstellar medium via their explosion shocks. Light elements are converted into heavier ones during both presupernova evolution and the explosive event itself. Supernova explosions generate nucleosynthesis environments rich in neutrons, protons, and neutrinos under unique thermodynamic conditions, which can enable the production of heavy elements beyond iron. Modern numerical simulations are constructing increasingly realistic explosion models of various supernova channels, providing more accurate nucleosynthesis conditions and chemical yields. In tandem with advances in large-scale spectroscopic surveys delivering precise, high-resolution stellar abundance data, as well as isotopic ratios from presolar grains and meteorites, our understanding of the supernova role in cosmic nucleosynthesis is poised to advance significantly. We review recent progress in modeling various supernova channels, with particular emphasis on nucleosynthesis yields derived from state-of-the-art simulations. We examine the roles of Type Ia, core-collapse, electron-capture, and pair-instability supernovae in producing intermediate-mass, iron-peak, trans-iron, and very heavy elements, as well as their characteristic chemical imprints. We also outline major theoretical uncertainties that affect yield predictions. We intend this review to serve as a timely reference for theoretical model development and a practical guide for interpreting observational abundance data.",
+  "authors": [
+   "Shuai Zha",
+   "Yudong Luo",
+   "Zhanwen Han"
+  ],
+  "categories": [
+   "astro-ph.HE",
+   "astro-ph.SR",
+   "nucl-ex",
+   "nucl-th"
+  ],
+  "comment": "31 pages, 10 figures, accepted by Sci. China- Phys. Mech. Astron",
+  "first_author": "Shuai Zha",
+  "pdf_url": "http://arxiv.org/pdf/2609.16584",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-09-15",
+  "tags": [],
+  "title": "Supernova nucleosynthesis: a review",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.16659": {
+  "abstract": "For the standard Clifford+$T$ gate set, deterministic, ancilla-free synthesis now attains the minimal $T$-count for general single-qubit unitaries (Morisaki et al., arXiv:2510.05816). The $\\sqrt{T}$ gate rotates by half the angle of $T$, generating a finer lattice of implementable operations. It was assumed that access to this magic state lowers the cost of deterministic and ancilla-free synthesis of general single-qubit unitaries, but no direct Clifford+$\\sqrt{T}$ algorithm existed for this case. We provide one by extending the integer lattice-point enumeration method of Morisaki et al. We adopt a resource state cost model based on the magic-state catalysis approach of Gidney and Fowler (arXiv:1812.01238). On Haar-random targets synthesized to precisions ranging from $\\varepsilon=10^{-3}$ to $10^{-8}$, the cost of Clifford+$\\sqrt{T}$ circuits scales as $2.4\\log_2(1/\\varepsilon)$ compared to $3.0\\log_2(1/\\varepsilon)$ for the provably $T$-count-optimal Clifford+$T$ circuits. Once a one-time catalyst state is amortized, the Clifford+$\\sqrt{T}$ circuits are never costlier than their Clifford+$T$ counterparts.",
+  "authors": [
+   "Mathias Weiden",
+   "Jae Won Kim",
+   "Justin Kalloor",
+   "John Kubiatowicz",
+   "Costin Iancu"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Mathias Weiden",
+  "pdf_url": "http://arxiv.org/pdf/2609.16659",
+  "primary_category": "quant-ph",
+  "published": "2026-09-15",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Approximate synthesis of general single-qubit unitaries over the Clifford+$\\sqrt{T}$ gate set",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-09-15"
  },
@@ -7221,6 +7342,29 @@
   ],
   "updated": "2026-09-15"
  },
+ "2609.18498": {
+  "abstract": "On-water catalysis accelerates reactions between poorly soluble organic substrates in aqueous suspensions, but its molecular origin remains debated. This Account argues that hydrogen bonding and proton transfer can both enhance charge-transfer stabilization between the organic reactants. Hydrogen bonds from surface water polarize the reacting complex, whereas protonation can perturb the same donor-acceptor interaction more strongly without requiring identical reaction pathways.   We connect simulations of the water/vapor interface, finite-temperature cycloaddition studies, and energy decomposition analysis based on absolutely localized molecular orbitals. Dangling OH groups establish reactive contacts, but an increased transition-state hydrogen-bond count alone does not explain activation. Electronic analysis instead identified hydration-enhanced charge-transfer stabilization between organic partners by approximately 30%. Comparisons of related dienophiles, a protonated limiting model, and oxygen/sulfur substitution link substrate-dependent electronic response to hydration and bond formation.   A hydration-induced charge-transfer response metric provides a testable molecular hypothesis, not a standalone measure of catalytic acceleration. Activation depends on differential stabilization of reactant and transition-state ensembles. Increasing the accessible reactive interface can amplify this local mechanism without requiring exceptionally strong additional electric fields, connecting conventional on-water chemistry with selected microdroplet reactions while distinguishing adsorption, concentration, and intrinsic molecular activation.",
+  "authors": [
+   "M. Alaraby Salem",
+   "Thomas D. Kühne"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "16 pages, 4 figures. Review article",
+  "first_author": "M. Alaraby Salem",
+  "pdf_url": "http://arxiv.org/pdf/2609.18498",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-16",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "On-Water Surface Catalysis: From Hydrogen Bonding to Charge-Transfer Activation",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-16"
+ },
  "2609.18510": {
   "abstract": "We present DiT-Garment to model dynamic 3D clothing over human body models in arbitrary motion. Unlike existing methods, DiT-Garment can animate garments with unseen designs and physical materials, while allowing for direct inference of deformations for any target pose. To achieve this, we leverage a 2D diffusion transformer architecture to learn 3D deformations in a 2D UV-space. As the result is non-deterministic, our generative model learns the distribution of possible outcomes. The template garment is represented as a 3D triangle mesh spatially aligned with a 3D human body model in a standardized pose. To work with different garment designs without the need of a common template or complex graph convolution operations, the diffusion transformer is conditioned on a 3D position map of the template, represented in UV-space, which allows to implicitly learn a deformation of the 3D space around the body in standard pose. Further conditioning on body motion and physical parameters allows to physically ground the model. We quantitatively and qualitatively evaluate DiT-Garment on both synthetic and real data. While only trained on synthetic simulations of automatically generated cloth designs, our method generalizes to captured and artist-made garment designs. Code and data are available for research purposes at https://dumoulina.github.io/dit-garment/.",
   "authors": [
@@ -7246,5 +7390,138 @@
    "Generative Design & Molecule Optimization"
   ],
   "updated": "2026-09-16"
+ },
+ "2609.18570": {
+  "abstract": "We demonstrate the possibility to activate genuine multipartite entanglement (GME), the strongest form of entanglement for multipartite states, within the framework of quantum catalysis. Specifically, we show that any biseparable state (i.e. not GME) that is not partition separable can be deterministically transformed into a GME state via the help of a catalyst and local operations, without any classical communication. In turn, we construct a catalytic protocol tailored to the multipartite case. The protocol is termed \"sum-to-product\", as it transforms a mixture of states into their tensor product in a heralded manner. We apply this protocol to random network entangled states, which are biseparable by construction, and demonstrate catalytic activation of both GME and genuine multipartite Bell nonlocality.",
+  "authors": [
+   "Eliot Donnadieu",
+   "Pavel Sekatski",
+   "Nicolas Brunner",
+   "Victor Barizien"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "6+5 pages; 1+2 figures",
+  "first_author": "Eliot Donnadieu",
+  "pdf_url": "http://arxiv.org/pdf/2609.18570",
+  "primary_category": "quant-ph",
+  "published": "2026-09-16",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Catalytic Activation of Genuine Multipartite Entanglement and Nonlocality",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.19087": {
+  "abstract": "A long-standing goal across heterogeneous catalysis, materials science, and condensed matter physics is to design alloys with prescribed local atomic arrangements. Recent experiments show that dilute trimetallic alloys unlock chemistries inaccessible to bimetallics, but realizing this potential requires knowing which dopant structures form across an enormous compositional space. Using density functional theory screening, we construct an atlas spanning transition metal single- and dual-atom alloys in Cu and Ag surfaces, which we validate by scanning tunneling microscopy. The stability follows an electron count: dopants pair most strongly when their combined d-electron count approaches ten. Host metal and surface facet can be used to tune the resulting active site motifs, while size mismatch and spin explain variations around this trend. We further introduce a reactor-anchor concept, in which one dopant anchors a second, otherwise bulk-segregating dopant at the surface. Together, these results establish design principles for engineering alloys with targeted active site structures.",
+  "authors": [
+   "Fabian Berger",
+   "Yicheng Wang",
+   "E. Charles H. Sykes",
+   "Angelos Michaelides"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Fabian Berger",
+  "pdf_url": "http://arxiv.org/pdf/2609.19087",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-16",
+  "tags": [
+   "catalysis",
+   "dft",
+   "materials-science"
+  ],
+  "title": "An Atlas and Design Rules for Single- and Dual-Atom Alloys",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.19117": {
+  "abstract": "Plasmonic excitation of metallic nanostructures can generate energetic carriers capable of transferring charge into nearby adsorbed molecules, providing a possible pathway for driving chemical transformations. In many theoretical descriptions of this process, charge transfer is determined by the equilibrium electronic structure of the molecule and substrate together with the time-dependent carrier distribution produced during plasmon decay. However, the intense transient electric fields associated with localized surface plasmons can also dynamically perturb the molecular electronic structure itself on ultrafast timescales. In this work, we investigate how these time-dependent fields modify the molecular spectral function and influence charge injection at catalytic interfaces. Using a model of CO2 adsorbed on Au(111), we compute the real-time molecular Green's function within a correlated frontier-orbital active space under plasmon-like driving. We find that the driving field rapidly produces transient Floquet-type replica bands in the molecular density of states, opening additional resonant pathways for hot-carrier injection that are absent without external driving or in time-local descriptions. Coupling the evolving molecular spectrum to a time-dependent hot-electron distribution described within a two-temperature Sommerfeld framework, we predict large enhancements in quasiparticle spectral overlap that governs injection during plasmon dephasing. These results suggest that dynamically generated non-equilibrium spectral structure may play an important role in plasmon-assisted catalysis and provide a framework for studying driven catalytic interfaces beyond static electronic structure descriptions.",
+  "authors": [
+   "Annabelle Canestraight",
+   "Phillip Christopher",
+   "Vojtech Vlcek"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Annabelle Canestraight",
+  "pdf_url": "http://arxiv.org/pdf/2609.19117",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-16",
+  "tags": [
+   "catalysis",
+   "electronic-structure"
+  ],
+  "title": "Floquet-Plasmon Enhanced Charge Transfer at Catalytic Interfaces",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.19476": {
+  "abstract": "Generative models are increasingly central to many de novo discovery pipelines, in which designs are generated at scale and filtered through virtual screens to determine a set of candidates to experimentally validate. While Bayesian optimization (BO) is a natural fit for this setting, as it uses past evaluations to guide future proposals, the computational overhead required for its sequential decision-making becomes a bottleneck when virtual screens are relatively cheap. We make BO practical in this regime by exploiting the unique combination of a linear model constrained to a spherical domain where high-dimensional latents concentrate. We build off recent work justifying the use of linear surrogates, while deriving nearly closed-form solutions to the surrogate modelling and acquisition problems that exploit spherical symmetry. The result is at least a 100x speedup over state-of-the art baselines, with matching or improved performance across molecular and image generation benchmarks. Altogether, our method makes BO a practical drop-in for de novo pipelines where it was previously too slow to consider.",
+  "authors": [
+   "Donney Fan",
+   "Colin Doumont",
+   "Aleksandra Kalisz",
+   "Paul Duckworth",
+   "Jacob R. Gardner",
+   "Henry Moss",
+   "Geoff Pleiss"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Donney Fan",
+  "pdf_url": "http://arxiv.org/pdf/2609.19476",
+  "primary_category": "cs.LG",
+  "published": "2026-09-16",
+  "tags": [
+   "bayesian-optimization",
+   "drug-discovery",
+   "generative-model"
+  ],
+  "title": "Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.19837": {
+  "abstract": "High-entropy alloys (HEAs) exhibit exceptional catalytic performance in various reactions due to their high configurational entropy, synergistic elemental effects, tunable electronic structures, and excellent structural stability. However, the vast compositional space of HEA catalysts makes traditional experimental and theoretical design costly and inefficient. In recent years, data-driven machine learning (ML) methods have emerged as powerful tools for studying HEAs in catalysis. Through predictive models and ML surrogates, researchers can decipher the intricate composition-structure-performance relationships of these materials. In addition, by leveraging large language models (LLMs) for knowledge extraction, hypothesis generation and validation, and as a foundation to build integrated design workflows, ML approaches can significantly accelerate the design of novel HEA catalysts. This review systematically summarizes the latest methodological advances and applications of ML methods for HEAs in catalysis, discusses the challenges, and offers insights into future research directions to support the rational design and efficient development of catalysts.",
+  "authors": [
+   "Hao Chen",
+   "Zongrui Pei",
+   "Xianglin Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Hao Chen",
+  "pdf_url": "http://arxiv.org/pdf/2609.19837",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Machine Learning for High-Entropy Catalysts: Methods and Applications",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-17"
  }
 }

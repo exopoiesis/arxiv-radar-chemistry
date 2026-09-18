@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>excited-states — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15136.html">Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="dft-7d.html">dft</a> · <a href="drug-discovery-7d.html">drug-discovery</a></div></td>
 <td>Longfei Lv et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15136">2609.15136</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11138.html">Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Jakob Wolff et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11138">2609.11138</a></td>
 </tr>
 </tbody></table>

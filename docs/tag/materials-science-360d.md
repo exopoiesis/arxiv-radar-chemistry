@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19087.html">An Atlas and Design Rules for Single- and Dual-Atom Alloys</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Fabian Berger et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19087">2609.19087</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08215.html">PhysFlow: Physics-Aware Optical Flow for Motion Controllable Video Generation</a></div></td>
 <td>Cong Wang et al.</td>
@@ -2174,11 +2180,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19132.html">Exploring Cation Selection and Disorder within Entropy-Driven $A_{6}B_{2}$O$_{17}$ ($A$=Zr/Hf, $B$=Nb/Ta) Oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Jacob T. Sivak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19132">2509.19132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21372.html">Polymer-based probabilistic bits for thermodynamic computing</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Stephen H. Foulger et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21372">2509.21372</a></td>
 </tr>
 </tbody></table>

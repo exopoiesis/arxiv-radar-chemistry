@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1527 papers</span>
+  <span class="paper-count">1519 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17901.html">Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds</a></div></td>
 <td>Jan Tauberschmidt et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17901">2609.17901</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15096.html">OpenAI4S: Code as Action, Science as Sessions</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
+<td>Gongbo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15096">2609.15096</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-10</td>
@@ -9122,59 +9128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19766.html">Dynamicasome: a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations</a></div></td>
 <td>Naeyma N Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19766">2509.19766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10467.html">Point defect design in (Ba,Sr)TiO$_3$ -- an insight on agglomeration</a></div></td>
-<td>Sheng-Han Teng et al.</td>
-<td><a href="http://arxiv.org/abs/2403.10467">2403.10467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20418.html">Mass-Zero constrained molecular dynamics for electrostatic interactions</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Federica Troni et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20418">2505.20418</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17347.html">Modeling Interfacial Electron Transfer using Path Integral Molecular Dynamics</a></div><div class="paper-tags"><a href="string-method-360d.html">string-method</a></div></td>
-<td>Yoonjae Park et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17347">2509.17347</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17736.html">Melanin-Based Compounds as Low-Cost Sensors for Nitroaromatics: Theoretical Insights on Molecular Interactions and Optoelectronic Responses</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Jo{ã}o Paulo Cachaneski-Lopes et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17736">2509.17736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17833.html">How Realistic are Idealized Copper Surfaces? A Machine Learning Study of Rough Copper-Water Interfaces</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Linus C. Erhard et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17833">2509.17833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17959.html">Microsecond-scale sucrose conformational dynamics in aqueous solution via molecular dynamics methods</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Vladimir Deshchenya et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17959">2509.17959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18299.html">Cyclo-Graphyne: A Highly Porous and Semimetallic 2D Carbon Allotrope with Dirac Cones</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Jhionathan de Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18299">2509.18299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18472.html">Bridging Simulation and Silicon: A Study of RISC-V Hardware and FireSim Simulation</a></div></td>
-<td>Atanu Barai et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18472">2509.18472</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21373.html">Interface and Thermophysical Properties of R32 Refrigerant</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Abibat Adekoya-Olowofela et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21373">2509.21373</a></td>
 </tr>
 </tbody></table>

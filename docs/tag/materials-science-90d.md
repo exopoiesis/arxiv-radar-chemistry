@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19087.html">An Atlas and Design Rules for Single- and Dual-Atom Alloys</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Fabian Berger et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19087">2609.19087</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08215.html">PhysFlow: Physics-Aware Optical Flow for Motion Controllable Video Generation</a></div></td>
 <td>Cong Wang et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22677.html">Selectivity in tip-induced skeletal editing via heteroatom substitution</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Shantanu Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22677">2606.22677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21467.html">Machine learning metallic glass critical cooling rates through elemental and molecular simulation based featurization</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Lane E. Schultz et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21467">2606.21467</a></td>
 </tr>
 </tbody></table>

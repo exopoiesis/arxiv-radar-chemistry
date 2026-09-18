@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19476.html">Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Donney Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19476">2609.19476</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15077.html">Ensemble-Conditioned Molecular Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Ross Irwin et al.</td>
@@ -3206,11 +3212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19410.html">Meta-analysis and Topological Perturbation in Interactomic Network for Anti-opioid Addiction Drug Repurposing</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Chunhuan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19410">2509.19410</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18263.html">Efficient Quantum Protein Structure Prediction with Problem-Agnostic Ansatzes</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Hanna Linn et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18263">2509.18263</a></td>
 </tr>
 </tbody></table>

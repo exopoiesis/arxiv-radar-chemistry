@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18982.html">Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Blazej Banaszewski et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18982">2608.18982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-llm-30d.html">molecular-llm</a></div></td>
-<td>Henrik Wille et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18221.html">Automated Assignment and Prediction of Molecules in Astronomical Line Surveys Using Machine-Learning-Based Chemical Embeddings</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a></div></td>
-<td>Zachary T. P. Fried et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18221">2608.18221</a></td>
 </tr>
 </tbody></table>

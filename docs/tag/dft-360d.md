@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1994 papers</span>
+  <span class="paper-count">1985 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13939.html">Towards a Metal-Organic Framework with Pore-Confined Electrons</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="mof-360d.html">mof</a></div></td>
+<td>Julia H. Baratta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13939">2609.13939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19087.html">An Atlas and Design Rules for Single- and Dual-Atom Alloys</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Fabian Berger et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19087">2609.19087</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17646.html">Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
@@ -11912,71 +11924,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19132.html">Exploring Cation Selection and Disorder within Entropy-Driven $A_{6}B_{2}$O$_{17}$ ($A$=Zr/Hf, $B$=Nb/Ta) Oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Jacob T. Sivak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19132">2509.19132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01590.html">Multi-fidelity learning for interatomic potentials: Low-level forces and high-level energies are all you need</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Mitchell Messerly et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01590">2505.01590</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17448.html">Monitoring Nitric Oxide in Trigeminal Neuralgia Rats with a Cerium Single-Atom Nanozyme Electrochemical Biosensor</a></div></td>
-<td>Kangling Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17448">2509.17448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17736.html">Melanin-Based Compounds as Low-Cost Sensors for Nitroaromatics: Theoretical Insights on Molecular Interactions and Optoelectronic Responses</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jo{ã}o Paulo Cachaneski-Lopes et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17736">2509.17736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17825.html">Role of Oxygen during Methane Oxidation on Pd$_1$/PdO$_1$@CeO$_2$ Surface: A Combined Density Functional Theory, Microkinetic, and Machine Learning Approach</a></div></td>
-<td>Shalini Tomar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17825">2509.17825</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17833.html">How Realistic are Idealized Copper Surfaces? A Machine Learning Study of Rough Copper-Water Interfaces</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Linus C. Erhard et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17833">2509.17833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17862.html">The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Sushree Jagriti Sahoo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17862">2509.17862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17897.html">Direct identification of local doping effects in Barium-hexaferrite by electron vortex beams</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Darius Pohl et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17897">2509.17897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17977.html">Nuclear-electronic orbital second-order coupled cluster for excited states</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Jonathan H. Fetherolf et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17977">2509.17977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18098.html">Electronic structure and optical signatures of highly-doped graphene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Saúl Antonio Herrera-González et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18098">2509.18098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18299.html">Cyclo-Graphyne: A Highly Porous and Semimetallic 2D Carbon Allotrope with Dirac Cones</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jhionathan de Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18299">2509.18299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21372.html">Polymer-based probabilistic bits for thermodynamic computing</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Stephen H. Foulger et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21372">2509.21372</a></td>
 </tr>
 </tbody></table>

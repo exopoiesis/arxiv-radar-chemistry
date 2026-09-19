@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">521 papers</span>
+  <span class="paper-count">518 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3122,23 +3122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20226.html">AMaRaNTA: Automated First-Principles Exchange Parameters In 2D Magnets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Federico Orlando et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20226">2509.20226</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05633.html">Giant Splitting of Folded Dirac Bands in Kekulé-ordered Graphene with Eu Intercalation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Xiaodong Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05633">2509.05633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19060.html">Sodium-Decorated Ennea-Graphene: A Novel 2D Carbon Allotrope for High-Capacity Hydrogen Storage</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Bill D. Aparicio Huacarpuma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19060">2509.19060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19121.html">First principles and scanning tunneling spectroscopical evidences for thermodynamically stable &quot;on-top&quot; sulfur divacancy in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Weiru Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19121">2509.19121</a></td>
 </tr>
 </tbody></table>

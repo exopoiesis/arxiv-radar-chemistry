@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">533 papers</span>
+  <span class="paper-count">531 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3200,17 +3200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12574.html">Assay2Mol: large language model-based drug design using BioAssay context</a></div></td>
 <td>Yifan Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12574">2507.12574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18703.html">Towards Rational Pesticide Design with Graph Machine Learning Models for Ecotoxicology</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Jakub Adamczyk</td>
-<td><a href="http://arxiv.org/abs/2509.18703">2509.18703</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19410.html">Meta-analysis and Topological Perturbation in Interactomic Network for Anti-opioid Addiction Drug Repurposing</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Chunhuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19410">2509.19410</a></td>
 </tr>
 </tbody></table>

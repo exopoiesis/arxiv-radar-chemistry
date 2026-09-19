@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">427 papers</span>
+  <span class="paper-count">426 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2570,11 +2570,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20542.html">A Hierarchical Adaptive Diffusion Model for Flexible Protein-Protein Docking</a></div></td>
 <td>Rujie Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20542">2509.20542</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18948.html">One-shot Embroidery Customization via Contrastive LoRA Modulation</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jun Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18948">2509.18948</a></td>
 </tr>
 </tbody></table>

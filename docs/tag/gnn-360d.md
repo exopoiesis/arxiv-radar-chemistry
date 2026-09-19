@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">381 papers</span>
+  <span class="paper-count">376 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2270,35 +2270,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20978.html">FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Xiangyu Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20978">2509.20978</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.07373.html">Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Vinay Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2501.07373">2501.07373</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07807.html">Topological Feature Compression for Molecular Graph Neural Networks</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Rahul Khorana</td>
-<td><a href="http://arxiv.org/abs/2508.07807">2508.07807</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19356.html">Graph Data Modeling: Molecules, Proteins, &amp; Chemical Processes</a></div></td>
-<td>José Manuel Barraza-Chavez et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19356">2508.19356</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18703.html">Towards Rational Pesticide Design with Graph Machine Learning Models for Ecotoxicology</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Jakub Adamczyk</td>
-<td><a href="http://arxiv.org/abs/2509.18703">2509.18703</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18951.html">A Methodological Study on Data Representation for Machine Learning Modelling of Thermal Conductivity of Rare-Earth Oxides</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Amiya Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18951">2509.18951</a></td>
 </tr>
 </tbody></table>

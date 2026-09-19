@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,11 +818,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20667.html">Guiding Application Users via Estimation of Computational Resources for Massively Parallel Chemistry Computations</a></div></td>
 <td>Tanzila Tabassum et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20667">2509.20667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18604.html">A closed-loop AI framework for hypothesis-driven and interpretable materials design</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Kangyu Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18604">2509.18604</a></td>
 </tr>
 </tbody></table>

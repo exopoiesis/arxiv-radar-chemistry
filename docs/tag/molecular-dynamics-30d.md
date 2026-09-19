@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,35 +554,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20261.html">Vibrational Activation Triggers Ultrafast Excited State Intramolecular Proton Transfer in Single-Benzene Fluorophores</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
 <td>Brieuc Le Dé et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20261">2608.20261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17460.html">MolDStruct: benchmarking a hybrid Monte Carlo/Molecular Dynamics model for X-ray free-electron laser ionisation and fragmentation dynamics</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Friederike Krüger et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17460">2608.17460</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18505.html">Beyond Idealized PAHs: Infrared Signatures of Carbon-Chain Defects from Shock Synthesis</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Xiaoting Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18505">2608.18505</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18891.html">Molecular Insights into Gas Nanofilms Confined Between Bulk Liquid Phases</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Yafan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18891">2608.18891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18898.html">Polarization controlled second harmonic generation imaging of stretched collagen fibrils reveals collagen deformation pathway in situ</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>MacAulay Harvey et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18898">2608.18898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19404.html">Dynamic Ensembles of Phosphine-Stabilized Gold Nanoclusters</a></div></td>
-<td>Caitlin A. McCandler et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19404">2608.19404</a></td>
 </tr>
 </tbody></table>

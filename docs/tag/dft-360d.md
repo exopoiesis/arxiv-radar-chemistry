@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1985 papers</span>
+  <span class="paper-count">1978 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11882,47 +11882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20226.html">AMaRaNTA: Automated First-Principles Exchange Parameters In 2D Magnets</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Federico Orlando et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20226">2509.20226</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00187.html">1D Transition Metal Oxide Chains as a Challenging Model for Ab Initio Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Jila Amini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00187">2506.00187</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05633.html">Giant Splitting of Folded Dirac Bands in Kekulé-ordered Graphene with Eu Intercalation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Xiaodong Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05633">2509.05633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12803.html">Beyond conventional half-metals: gapless states and spin gapless semiconducting behavior in X$_2$MnGa (X = Ti, Ir) Heusler compounds</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>N. Bouteldja et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12803">2509.12803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18617.html">Octahedral dynamics and local symmetry in hybrid perovskite FAPbI3 under thermal excitation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>H. Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18617">2509.18617</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18895.html">Nanoscale Strain Evolution and Grain Boundary-Mediated Defect Sink Behavior in Irradiated SiC: Insights from N-PED and DFT</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Nabil Daghbouj et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18895">2509.18895</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19060.html">Sodium-Decorated Ennea-Graphene: A Novel 2D Carbon Allotrope for High-Capacity Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Bill D. Aparicio Huacarpuma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19060">2509.19060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19132.html">Exploring Cation Selection and Disorder within Entropy-Driven $A_{6}B_{2}$O$_{17}$ ($A$=Zr/Hf, $B$=Nb/Ta) Oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jacob T. Sivak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19132">2509.19132</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1519 papers</span>
+  <span class="paper-count">1511 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9080,53 +9080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19922.html">Phase Stability and Superconductivity in Hydrogenated and Lithiated Janus GaXS2 (X = Ga, In) Monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19922">2509.19922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20438.html">STable AutoCorrelation Integral Estimator (STACIE): Robust and accurate transport properties from molecular dynamics simulations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Gözdenur Toraman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20438">2506.20438</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01624.html">Thermal transport and the impact of hydrogen adsorption in Linde Type A zeolitic imidazolate frameworks</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Hyunseok Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01624">2508.01624</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18616.html">Intermittent Viscoelastic Turbulence in Strongly Coupled Plasmas</a></div></td>
-<td>Rauoof Wani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18616">2509.18616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18617.html">Octahedral dynamics and local symmetry in hybrid perovskite FAPbI3 under thermal excitation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>H. Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18617">2509.18617</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18896.html">How special are the dynamics of deep eutectic solvents? A Look at the Prototypical Case of Ethaline</a></div></td>
-<td>Mohammad Nadim Kamar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18896">2509.18896</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19060.html">Sodium-Decorated Ennea-Graphene: A Novel 2D Carbon Allotrope for High-Capacity Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Bill D. Aparicio Huacarpuma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19060">2509.19060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19232.html">Atomistic mechanisms of oxidation and chlorine corrosion in Ni-based superalloys: The role of boron and light interstitial segregation</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Tyler D. Doležal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19232">2509.19232</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19766.html">Dynamicasome: a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations</a></div></td>
-<td>Naeyma N Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19766">2509.19766</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,23 +968,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20112.html">Fast and compact time-resolved spectroscopy enabled by Quantum Walk Combs</a></div></td>
 <td>Ina Heckelmann et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20112">2509.20112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07807.html">Topological Feature Compression for Molecular Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Rahul Khorana</td>
-<td><a href="http://arxiv.org/abs/2508.07807">2508.07807</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18703.html">Towards Rational Pesticide Design with Graph Machine Learning Models for Ecotoxicology</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Jakub Adamczyk</td>
-<td><a href="http://arxiv.org/abs/2509.18703">2509.18703</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19410.html">Meta-analysis and Topological Perturbation in Interactomic Network for Anti-opioid Addiction Drug Repurposing</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Chunhuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19410">2509.19410</a></td>
 </tr>
 </tbody></table>

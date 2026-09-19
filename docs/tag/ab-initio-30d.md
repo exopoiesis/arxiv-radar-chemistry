@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,35 +512,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20491.html">Carrier Capture at Defects from Finite-Temperature Lattice Dynamics</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Menglin Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20491">2608.20491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18538.html">Reaction Cross Sections and $α$-Cluster Geometry in $^{12}$C and Be Isotopes</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Tianyu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18538">2608.18538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18714.html">A single design choice determines whether machine learning models of materials make physically impossible predictions</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Can Polat et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18714">2608.18714</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18811.html">$Ab$ $initio$ calculation of hyperfine-structure properties to extract nuclear magnetic octupole moments of $^{69}$Ga and $^{71}$Ga</a></div></td>
-<td>Fei-Chen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18811">2608.18811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18975.html">Balancing theory uncertainties in ab initio nuclear structure calculations: Many-body truncation versus finite basis size</a></div></td>
-<td>L. Zurek et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18975">2608.18975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19053.html">Ab initio-based Deep-Learning Prediction of Carrier Mobility in Strongly Anharmonic Materials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Juan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19053">2608.19053</a></td>
 </tr>
 </tbody></table>

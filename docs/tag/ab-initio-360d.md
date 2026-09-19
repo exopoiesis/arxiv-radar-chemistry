@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1522 papers</span>
+  <span class="paper-count">1512 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9086,65 +9086,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20522.html">A relativistic coupled-cluster treatment of magnetic hyperfine structure of the $X^2Π$ and $A^2Σ^+$ states of OH isotopologues</a></div></td>
 <td>D. P. Usov et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20522">2509.20522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00187.html">1D Transition Metal Oxide Chains as a Challenging Model for Ab Initio Calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Jila Amini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00187">2506.00187</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06145.html">Equation of State Extrapolation Systematics: Parametric vs. Nonparametric Inference of Neutron Star Structure</a></div></td>
-<td>Bhaskar Biswas</td>
-<td><a href="http://arxiv.org/abs/2509.06145">2509.06145</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18617.html">Octahedral dynamics and local symmetry in hybrid perovskite FAPbI3 under thermal excitation</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>H. Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18617">2509.18617</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18866.html">Giant optical anisotropy in CrSBr from giant exciton oscillator strength</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Georgy Ermolaev et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18866">2509.18866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18895.html">Nanoscale Strain Evolution and Grain Boundary-Mediated Defect Sink Behavior in Irradiated SiC: Insights from N-PED and DFT</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Nabil Daghbouj et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18895">2509.18895</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19060.html">Sodium-Decorated Ennea-Graphene: A Novel 2D Carbon Allotrope for High-Capacity Hydrogen Storage</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Bill D. Aparicio Huacarpuma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19060">2509.19060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19121.html">First principles and scanning tunneling spectroscopical evidences for thermodynamically stable &quot;on-top&quot; sulfur divacancy in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Weiru Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19121">2509.19121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19131.html">r-process nucleosynthesis with ab initio nuclear masses around the N=82 shell closure</a></div></td>
-<td>Jan Kuske et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19131">2509.19131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19132.html">Exploring Cation Selection and Disorder within Entropy-Driven $A_{6}B_{2}$O$_{17}$ ($A$=Zr/Hf, $B$=Nb/Ta) Oxides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jacob T. Sivak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19132">2509.19132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01235.html">Automated Extraction of Material Properties using LLM-based AI Agents</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Subham Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01235">2510.01235</a></td>
 </tr>
 </tbody></table>

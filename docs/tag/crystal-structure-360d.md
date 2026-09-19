@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">254 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1538,23 +1538,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22809.html">Unraveling the role of disorder in the electronic structure of high entropy alloys</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Neeraj Bhatt et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22809">2509.22809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04443.html">Revisiting the epitaxial Si$_3$N$_4$ crystalline cap on AlGaN/GaN via evolutionary structure search</a></div></td>
-<td>Xin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04443">2505.04443</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18604.html">A closed-loop AI framework for hypothesis-driven and interpretable materials design</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Kangyu Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18604">2509.18604</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18951.html">A Methodological Study on Data Representation for Machine Learning Modelling of Thermal Conductivity of Rare-Earth Oxides</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Amiya Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18951">2509.18951</a></td>
 </tr>
 </tbody></table>

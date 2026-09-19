@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,53 +680,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20514.html">Revealing the Role of Confined Molecular H$_2$ in the Passivation of Defective Silicon Using First-Principles Simulations</a></div></td>
 <td>Hania Azzam et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20514">2608.20514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18505.html">Beyond Idealized PAHs: Infrared Signatures of Carbon-Chain Defects from Shock Synthesis</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xiaoting Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18505">2608.18505</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18513.html">Operando Raman probing of mode selective electron phonon coupling in two dimensional halide perovskites</a></div></td>
-<td>Tufan Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18513">2608.18513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18729.html">Revisiting the topological properties of XMg2Bi2 (X = Ca, Sr, Ba, Yb and Eu)</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Antoni Facca et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18729">2608.18729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18891.html">Molecular Insights into Gas Nanofilms Confined Between Bulk Liquid Phases</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yafan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18891">2608.18891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19033.html">Molecular Implementation of the Machine-Learned Skala Exchange-Correlation Functional in CP2K through GauXC</a></div></td>
-<td>Franz Pöschel et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19033">2608.19033</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19053.html">Ab initio-based Deep-Learning Prediction of Carrier Mobility in Strongly Anharmonic Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Juan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19053">2608.19053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19116.html">JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Denis Blessing et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19116">2608.19116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19382.html">Informing spectral models for dense plasmas with K-edge absorption measurements of warm dense copper</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>T. Cordova et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19382">2608.19382</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">255 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1544,17 +1544,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23923.html">Stress-Boundary-Memory Feedback Drives Vortical-Polar Transitions in Softly Confined Active Matter</a></div></td>
 <td>Haosheng Wen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23923">2606.23923</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21903.html">Nonlocal fractional Kardar-Parisi-Zhang dynamics of grain boundaries</a></div></td>
-<td>Kai Zhao</td>
-<td><a href="http://arxiv.org/abs/2606.21903">2606.21903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22048.html">Molecular dynamics perspectives on nonideal fluid models for the lattice Boltzmann method</a></div></td>
-<td>Hiroshi Otomo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22048">2606.22048</a></td>
 </tr>
 </tbody></table>

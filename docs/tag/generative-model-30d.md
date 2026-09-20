@@ -23,6 +23,12 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19388.html">Machine-Learned Dynamical Representations for Accelerated RiteWeight Convergence</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Sagar Kania</td>
+<td><a href="http://arxiv.org/abs/2609.19388">2609.19388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19476.html">Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Donney Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19476">2609.19476</a></td>
@@ -170,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21673.html">SynEHR: Joint Modeling Inter-visit Temporal Evolution and Intra-visit Clinical Structure for Longitudinal EHR Synthesis</a></div></td>
 <td>Ximiao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21673">2608.21673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19808.html">FAR-DPO: Feasibility-Aware and Robust Direct Preference Optimization for Cyclic Peptide Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Guofeng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19808">2608.19808</a></td>
 </tr>
 </tbody></table>

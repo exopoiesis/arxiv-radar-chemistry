@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.04301">2609.04301</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13230.html">Chemical and geometric representation fidelity improves drug--target affinity prediction</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Yixiao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13230">2609.13230</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22871.html">Binding Affinity between Polymer Dots (Pdots) and Ovalbumin Protein at Varying pH</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Xingfei Wei et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25006.html">Scalable Peptide Design via Memory-Efficient Equivariant Transformer</a></div></td>
 <td>Rui Jiao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25006">2606.25006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23745.html">JEDEL: Zero-Shot DNA-Encoded Library Design for Early-Stage Drug Discovery</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Zygimantas Jocys et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23745">2606.23745</a></td>
 </tr>
 </tbody></table>

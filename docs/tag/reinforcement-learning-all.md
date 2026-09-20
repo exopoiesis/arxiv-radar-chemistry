@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reinforcement-learning — all</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">248 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19894.html">Learning Reliable Parking Policies via Offline Reinforcement Learning with Quantized Action Representations</a></div></td>
+<td>Zewei Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19894">2609.19894</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17736.html">Machine learning kinetics from molecular dynamics data</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="string-method-all.html">string-method</a></div></td>
 <td>Jonathan Weare et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17736">2609.17736</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13468.html">Symmetry- and Property-Aware Crystal Generation with Reinforcement Learning for Inverse Materials Design</a></div></td>
+<td>Ting-Wei Hsu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13468">2609.13468</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-10</td>

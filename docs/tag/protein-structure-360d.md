@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19770.html">TorchCraft: Unified binder design by inverting an all-atom structure predictor</a></div></td>
+<td> TorchCraft Team et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19770">2609.19770</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05818.html">Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools</a></div></td>
 <td>Bryce Cai et al.</td>
@@ -1466,11 +1472,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07032.html">Lightweight MSA Design Advances Protein Folding From Evolutionary Embeddings</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Hanqun Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07032">2507.07032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19930.html">How deep is your network? Deep vs. shallow learning of transfer operators</a></div></td>
-<td>Mohammad Tabish et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19930">2509.19930</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20464.html">Neutral atom quantum computing for materials science and quantum chemistry</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>J. D. Pritchard</td>
+<td><a href="http://arxiv.org/abs/2609.20464">2609.20464</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15390.html">Micro-transfer Printed Blue InGaN Lasers on Silicon Nitride Photonic Integrated Circuits</a></div></td>
 <td>Konstantinos Akritidis et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15390">2609.15390</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14371.html">Accelerating ab initio spin-phonon relaxation simulation of single-ion magnets by quantum embedding and spatial truncation</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Yifan Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14371">2609.14371</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-08</td>
@@ -704,11 +716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18975.html">Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A review</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Dilshod Nematov et al.</td>
 <td><a href="http://arxiv.org/abs/2503.18975">2503.18975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19709.html">Quantum Computing Beyond Ground State Electronic Structure: A Review of Progress Toward Quantum Chemistry Out of the Ground State</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Alan Bidart et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19709">2509.19709</a></td>
 </tr>
 </tbody></table>

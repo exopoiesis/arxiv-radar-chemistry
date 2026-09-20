@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05694.html">GraphNOSE: A Graph Transformer in Olfaction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-llm-90d.html">molecular-llm</a></div></td>
 <td>Mrityunjay Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05694">2609.05694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13230.html">Chemical and geometric representation fidelity improves drug--target affinity prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Yixiao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13230">2609.13230</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -176,17 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04774.html">MARLIN: De Novo Molecular Structure Elucidation from Tandem Mass Spectra without a Ground-Truth Formula</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Xujun Che et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04774">2607.04774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22377.html">Multigrid Training for Molecular Generation using Graph Neural Networks</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Zixuan Ling et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22377">2606.22377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22663.html">High-Resolution Probing of Molecular Junctions: Vibrational Fingerprinting and Parameter Extraction via Current Noise Spectroscopy</a></div></td>
-<td>Rani Arielly</td>
-<td><a href="http://arxiv.org/abs/2606.22663">2606.22663</a></td>
 </tr>
 </tbody></table>

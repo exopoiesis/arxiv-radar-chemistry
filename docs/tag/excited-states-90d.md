@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16529.html">Dark Matter Inelastic Scattering with Nuclei for Direct Detection</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Shao-Feng Ge et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16529">2609.16529</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18428.html">Attosecond Charge Migration Induced by Core-Level Ionization: A Relativistic Real-Time Time-Dependent Density Functional Theory Perspective</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Torsha Moitra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18428">2609.18428</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18584.html">Nonempirical Time-Dependent Density Functional Theory Framework for Nonlocal Exchange--Correlation Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Zhandos A. Moldabekov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18584">2609.18584</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15136.html">Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Longfei Lv et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15136">2609.15136</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16441.html">Full Minimal Coupling All-Electron Real-Time TDDFT for X-Ray-Matter Interactions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Daniel Schacher et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16441">2609.16441</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-10</td>

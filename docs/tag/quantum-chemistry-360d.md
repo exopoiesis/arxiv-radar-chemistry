@@ -16,6 +16,30 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19535.html">Symmetry-driven correlation patterns in one-dimensional periodic fermionic systems: closed-form expressions and exact selection rules for correlation functions, entanglement entropies and mutual information</a></div></td>
+<td>Celestino Angeli</td>
+<td><a href="http://arxiv.org/abs/2609.19535">2609.19535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19901.html">Hydrogen isotope mixing entropy in ammonia clusters</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Klavs Hansen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19901">2609.19901</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20464.html">Neutral atom quantum computing for materials science and quantum chemistry</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>J. D. Pritchard</td>
+<td><a href="http://arxiv.org/abs/2609.20464">2609.20464</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13018.html">First application of the transcorrelated method to noncovalent interactions: The A24 dataset</a></div></td>
+<td>Johannes Hauskrecht et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13018">2609.13018</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10006.html">Signature of Short-Range Order in Static Response of the Three-Dimensional Electron Gas</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Muhammed H. Güneş et al.</td>
@@ -2078,29 +2102,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20907.html">Quantum Simulation and Energy Estimation for Discretized Anharmonic oscillator</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Saurav Suman et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20907">2509.20907</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09262.html">EDBench: Large-Scale Electron Density Data for Molecular Modeling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Hongxin Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09262">2505.09262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16905.html">Accurate crystal field Hamiltonians of single-ion magnets at mean-field cost</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Linqing Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16905">2505.16905</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19709.html">Quantum Computing Beyond Ground State Electronic Structure: A Review of Progress Toward Quantum Chemistry Out of the Ground State</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Alan Bidart et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19709">2509.19709</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19715.html">SMILES-Inspired Transfer Learning for Quantum Operators in Generative Quantum Eigensolver</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Zhi Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19715">2509.19715</a></td>
 </tr>
 </tbody></table>

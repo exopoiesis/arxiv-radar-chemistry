@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">310 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1862,17 +1862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23034.html">Correlative 3D Mapping of Structure, Composition, and Valence State Dynamics in Battery Cathodes via Simultaneous ADF-EDS-EELS Tomography</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Jaewhan Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23034">2509.23034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12201.html">OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Yang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12201">2509.12201</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19710.html">Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Somjit Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19710">2509.19710</a></td>
 </tr>
 </tbody></table>

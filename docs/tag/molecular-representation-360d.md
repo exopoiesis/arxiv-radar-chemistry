@@ -52,6 +52,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.05694">2609.05694</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13230.html">Chemical and geometric representation fidelity improves drug--target affinity prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Yixiao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13230">2609.13230</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25893.html">A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Yikun Han et al.</td>
@@ -962,11 +968,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20693.html">Learning to Align Molecules and Proteins: A Geometry-Aware Approach to Binding Affinity</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Mohammadsaleh Refahi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20693">2509.20693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20112.html">Fast and compact time-resolved spectroscopy enabled by Quantum Walk Combs</a></div></td>
-<td>Ina Heckelmann et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20112">2509.20112</a></td>
 </tr>
 </tbody></table>

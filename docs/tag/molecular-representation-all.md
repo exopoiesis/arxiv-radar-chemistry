@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">275 papers</span>
+  <span class="paper-count">276 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05694.html">GraphNOSE: A Graph Transformer in Olfaction</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="molecular-llm-all.html">molecular-llm</a></div></td>
 <td>Mrityunjay Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05694">2609.05694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13230.html">Chemical and geometric representation fidelity improves drug--target affinity prediction</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td>Yixiao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13230">2609.13230</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>

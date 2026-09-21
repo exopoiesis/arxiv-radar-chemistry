@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">522 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3146,17 +3146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22866.html">Non-Altermagnetic Origin of Exchange Bias Behaviors in Incoherent RuO$_2$/Fe Bilayer Heterostructures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Shelby S. Fields et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22866">2509.22866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20845.html">Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>H. Laltlanmawii et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20845">2509.20845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20944.html">The influence of boundary conditions and interfacial slip on the time taken to achieve a nonequilibrium steady-state for highly confined flows</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Carmelo Riccardo Civello et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20944">2509.20944</a></td>
 </tr>
 </tbody></table>

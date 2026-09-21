@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Anooja Jayaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19833.html">The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Miao Liu et al.</td>
@@ -122,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22989.html">Discovery of New Zintl Films and Nanowires Grown by Topotaxy Conversion of III-V Semiconductors</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Man Suk Song et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22989">2608.22989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21624.html">Vibrational, structural, and chemical fingerprints of ion diffusion in crystalline solids</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Gavin Winter et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21624">2608.21624</a></td>
 </tr>
 </tbody></table>

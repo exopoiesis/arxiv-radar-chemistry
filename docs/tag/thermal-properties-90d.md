@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-properties — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <strong>90d</strong> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Anooja Jayaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19833.html">The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -308,17 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24239.html">One-dimensional self-organization of water molecules in proton conducting Andersson-Wadsley titanates</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Mathilde Arnaud et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24239">2606.24239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22852.html">Thermal Transport in SiC with Intrinsic Defects and Mg Transmutation Products</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Chen Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22852">2606.22852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23628.html">Two-dimensional stealthy hyperuniform polycrystalline disk packings</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Carlo Vanoni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23628">2606.23628</a></td>
 </tr>
 </tbody></table>

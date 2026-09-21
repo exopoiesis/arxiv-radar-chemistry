@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21536.html">From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mof-30d.html">mof</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
+<td>Tuan Minh Do et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21536">2609.21536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21882.html">Orbital-Free Surrogate Functionals Yield Transferable Interatomic Potentials and Electron Densities</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Simon Wagner et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21882">2609.21882</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21935.html">fix uvt and fix pimd/uvt: A Unified LAMMPS Framework for Constant-Potential Constant-Temperature Molecular Dynamics</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Li Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21935">2609.21935</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22019.html">ReaxKit: A Modular Python Toolkit for Preparing, Parsing, and Analyzing ReaxFF Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Ali Mohammadi Dinani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22019">2609.22019</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19833.html">The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
@@ -152,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21741.html">First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="property-prediction-30d.html">property-prediction</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Bharatha K. Gunawardana et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21741">2608.21741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20753.html">Accurate and Transferable Intermolecular Potential Based on Machine-Learned Molecular Electron Density</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Dahvyd Wing et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20753">2608.20753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21624.html">Vibrational, structural, and chemical fingerprints of ion diffusion in crystalline solids</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Gavin Winter et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21624">2608.21624</a></td>
 </tr>
 </tbody></table>

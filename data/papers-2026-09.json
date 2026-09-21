@@ -11304,5 +11304,674 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-09-17"
+ },
+ "2609.20986": {
+  "abstract": "We present a molecular dynamics (MD) study of Al implantation in 4H-SiC to determine how implantation temperature and dose affect defect evolution and dopant activation during annealing. Simulations use the Gao-Weber potential with a Morse Al-SiC interaction reparameterized to density functional theory diffusion and kick-in/kick-out barriers. At Al concentrations above the saturation limit of ~2e20/cm3, implantation at 900 K promotes interstitial-rich planar clusters already during implantation. During annealing, these clusters trap Al and evolve into faulted interstitial loops, reducing substitutional Al incorporation. In contrast, lower implantation temperatures preserve stronger local disorder that is consumed during epitaxial regrowth, resulting in higher chemical activation within MD-accessible annealing times. Atomistic trajectories show a thermally activated transition to faulted loops once planar clusters reach about 60 interstitials. Rather than nucleating as a single coherent disk, several locally faulted regions form first and subsequently merge. The activation energy is ~1.1 eV for dislocation nucleation and ~2.1 eV for stacking-fault growth. Frank-type loops dominate at high temperature, while transient Shockley partials occur mainly at early stages and below 2000 K. As large planar defects form and dissolve, stable compensating Al-C complexes also emerge. These findings support the experimental hypothesis that secondary defects contribute to the reduced Al activation observed under supersaturation during annealing.",
+  "authors": [
+   "Sabine Leroch",
+   "Robert Stella",
+   "Andreas Hössinger",
+   "Lado Filipovic"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sabine Leroch",
+  "pdf_url": "http://arxiv.org/pdf/2609.20986",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "dft",
+   "molecular-dynamics"
+  ],
+  "title": "Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.21065": {
+  "abstract": "Complex metallic alloys exhibit rich disorder-driven electronic, magnetic, and vibrational behavior arising from strong chemical disorder, leading to unconventional structure-property relationships with applications in extreme-environment materials, catalysis, spintronics, and thermoelectrics. Despite their technological relevance, the microscopic nature of charge redistribution and electrostatic fluctuations in chemically disordered alloys remains incompletely understood. Here, we develop a theoretical framework that uncovers universal statistical trends of disorder-driven charge transfer and Madelung-field fluctuations. Our analytical formalism demonstrates that local charge transfer and electrostatic potentials exhibit Gaussian-like statistics and universal linear charge-potential (qV) correlations emerging directly from the underlying disorder landscape. We identify the physical origin of these correlations in the interplay between electronic screening and impurity scattering and show how their statistical properties depend on carrier density, disorder strength, and compositional complexity. We further derive scaling relations governing qV trends across binary and multicomponent alloys, including high-entropy materials. Large-supercell density-functional theory (DFT) calculations show good quantitative agreement with the predicted statistical behavior for representative metallic alloys. Our results provide a computationally efficient framework for incorporating disorder-driven electrostatic fluctuations into effective-medium electronic-structure theories and establish a statistical-physics foundation for the predictive design of complex alloys.",
+  "authors": [
+   "Wai-Ga D. Ho",
+   "Wasim Raja Mondal",
+   "Swarnava Ghosh",
+   "Hanna Terletska",
+   "Ka-Ming Tam",
+   "Mariia Karabin",
+   "Markus Eisenbach",
+   "Yang Wang",
+   "Vladimir Dobrosavljević"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "39 pages, 59 images",
+  "first_author": "Wai-Ga D. Ho",
+  "pdf_url": "http://arxiv.org/pdf/2609.21065",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "catalysis",
+   "dft"
+  ],
+  "title": "Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys",
+  "topics": [
+   "Quantum Chemistry & Force Fields",
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.21085": {
+  "abstract": "Gaussian processes (GPs) provide principled probabilistic predictions while encoding prior knowledge, including equivariances. Yet, their use in large-scale scientific problems is limited by computational cost. Equivariant neural networks are common but typically lack the uncertainty quantification offered by GPs, which is valuable in applications such as molecular research. High-dimensional inputs and large symmetry groups further demand scalability. We establish results pertaining to the interplay of GP equivariance and conditioning and leverage them to obtain equivariant sparse GPs through suitable mean functions and covariance kernels. We instantiate this framework with a flexible class of integration-free equivariant kernels, yielding scalable and data-efficient GP inference. In particular, we introduce triply scalable equivariant Gaussian processes.   We employ equivariant sparse variational Gaussian processes for $\\mathrm{SO}(2)$-equivariant vector fields and molecular property prediction. Alongside the SVGP, we develop a matrix-free equivariant full-GP implementation that combines an exact Kronecker reduction with preconditioned conjugate-gradient solves, enabling fast and scalable evaluation of the full joint predictive density. We further compare different approaches for selecting inducing points in the equivariant sparse GP models. Our test cases include synthetic $\\mathrm{SO}(2)$-equivariant fields as well as the prediction of electric dipole moments of N-methylformamide based on quantum chemistry simulations, achieving accurate, uncertainty-aware predictions at a fraction of the computational cost of classical GP inference.",
+  "authors": [
+   "Tim Steinert",
+   "David Ginsbourger"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG",
+   "math.ST",
+   "stat.AP",
+   "stat.CO"
+  ],
+  "comment": null,
+  "first_author": "Tim Steinert",
+  "pdf_url": "http://arxiv.org/pdf/2609.21085",
+  "primary_category": "stat.ML",
+  "published": "2026-09-17",
+  "tags": [
+   "property-prediction",
+   "quantum-chemistry"
+  ],
+  "title": "Triply-Scalable Equivariant Gaussian Process Modeling",
+  "topics": [
+   "Property Prediction & ADMET",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.21162": {
+  "abstract": "Artificial intelligence (AI) is increasingly embedded within scientific computing workflows that combine simulation, data processing, optimisation, visualisation and experimental or observational components. Learned models may serve as explicit workflow components, retain persistent state and, in adaptive settings, influence subsequent computation. Existing work has characterised scientific workflow management systems, dynamic and steered workflows, AI--HPC coupling motifs and the machine-learning lifecycle, although these areas are often discussed separately. This review brings them together from a systems perspective. We distinguish conventional scientific workflows, machine-learning pipelines, AI-coupled high-performance computing (HPC) workflows and broader automated research workflows, and propose a continuum describing the depth of AI participation from a computational stage to co-adaptive workflow control. The associated systems requirements are organised around five concerns: control and orchestration; compute and execution; data and model state; reproducibility and provenance; and governance and assurance. Representative systems and applications include AI-steered molecular simulation, drug and materials discovery, simulation--surrogate coupling and distributed self-driving laboratories. Workflow-level evaluation is considered in terms of scientific progress, execution cost, data movement, resource use, resilience and decision traceability. We conclude by identifying open problems in dynamic workflow representation, state-aware recovery, heterogeneous scheduling, interoperable data planes, model-mediated decision provenance and reproducible adaptive execution.",
+  "authors": [
+   "Jamie J. Alnasir"
+  ],
+  "categories": [
+   "cs.DC"
+  ],
+  "comment": "21 pages, 2 figures, 3 tables",
+  "first_author": "Jamie J. Alnasir",
+  "pdf_url": "http://arxiv.org/pdf/2609.21162",
+  "primary_category": "cs.DC",
+  "published": "2026-09-18",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "AI-Driven Scientific Computing Workflows: A Systems Review of Orchestration, Execution, Reproducibility and Provenance",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21165": {
+  "abstract": "Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular design methods focus on generating selective compounds de novo rather than improving the selectivity of existing, well- characterized drugs. We introduce specificity optimization (SpecOpt), a molecular design task that seeks constrained structural modifications to an existing compound that increase its binding preference for an intended target over known off-targets while preserving its structural identity and drug-like properties. To enable systematic evaluation, we construct a ChEMBL-derived benchmark from compound-target interaction data, identifying intended targets through curated drug-mechanism annotations and off- targets through measured activities. We then develop an agentic framework that docks each compound against its intended target and off-targets, compares the resulting poses through residue-aware atom-protein contacts, and provides these differential interactions to a large language model to propose targeted structural modifications. Candidates are retained only if they satisfy molecular similarity, ADMET, and target-off-target docking selectivity criteria. On 915 compounds, the agent improves the target- off-target binding gap for 84.8% of compounds, shifting the mean gap from -0.72 to +0.47 kcal/mol while maintaining a mean Tanimoto similarity of 0.72 to the starting compounds. Ablation studies identify residue-specific contact information as the critical optimization signal: replacing residue identities with binary contact indicators eliminates improvement on all 29 ablation compounds. These results establish SpecOpt as a distinct molecular design problem and demonstrate residue-aware differential interactions as an effective signal for improving the specificity of existing compounds.",
+  "authors": [
+   "Thao Nguyen",
+   "Heng Ji"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Thao Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2609.21165",
+  "primary_category": "cs.AI",
+  "published": "2026-09-18",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21204": {
+  "abstract": "Soft materials linked by reversible covalent or supramolecular bonds form a diverse class of assemblies with promising applications from nanoscience to medicine. Experiments typically probe bulk phase behavior and rheology, but it remains difficult to measure how microscopic bonding kinetics and the mechanics of the constituent elements give rise to bulk properties. Coarse-grained molecular dynamics (MD) simulations can bridge these scales, but most simulation approaches do not control individual bond kinetics, and those that do were mostly developed for bespoke applications that do not readily generalize. Here we present pySNAP (Simulation and Network Assembly Pipelines), a modular open source Python platform that integrates tunable dynamic bonding with a workflow, template, and analysis setup, so that users can study a wide range of systems with only small changes to input files. The platform is built on the GPU-accelerated HOOMD-blue MD engine and integrates DyBond, a GPU-accelerated plugin that forms and breaks bonds consistent with an equilibrium distribution and supports bonding between multiple types of partner species. Around this core, the snap_simulate package compiles a directory of parameter files into a HOOMD-blue simulation, and the snap_workflow package orchestrates the resulting parameter sweeps across workstations and high-performance computing schedulers. We describe the theory behind simulated dynamic bonding and how to use the package, from setting up a parameter sweep to analyzing its results, and demonstrate the framework on a diverse range of dynamically bonded systems, showing that it accommodates distinct interaction mechanisms, geometries, and physical scenarios within a unified workflow, while enabling both reproduction of existing models and rapid construction of more complex composite systems.",
+  "authors": [
+   "Tanner A. Wilcoxson",
+   "Tianhao Li",
+   "Tyla R. Holoman",
+   "Gaurav Mitra",
+   "Thomas M. Truskett",
+   "Glen M. Hocky"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "17 pages, 12 figures",
+  "first_author": "Tanner A. Wilcoxson",
+  "pdf_url": "http://arxiv.org/pdf/2609.21204",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-18",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21297": {
+  "abstract": "Dense granular flows are commonly investigated using the soft-sphere Discrete Element Method (DEM), whereas large-scale applications generally require continuum models. Granular temperature, defined as the variance of particle velocity fluctuations, is a relevant variable to collapse rheological scaling. However, experimental forcing approaches used to control temperature also affects other aspects of the granular state.   An alternative is to use a thermostat algorithm to control the fluctuation energy directly. Although thermostat algorithms are well established in Molecular Dynamics (MD), their behaviour in dissipative DEM systems has received comparatively little attention. We show that conventional Langevin and Nosé-Hoover thermostats exhibit complementary limitations: Langevin control requires strong coupling to offset collisional dissipation, thereby damping particle dynamics, whereas Nosé-Hoover does not independently disrupt the correlations and segregation generated by repeated inelastic collisions, leading to non-ergodic and numerically unstable states.   To address these limitations, we introduce two pairwise hybrid formulations combining deterministic temperature regulation with stochastic decorrelation. Both enforce the prescribed temperature, while variation of the stochastic decorrelation timescale modifies velocity statistics and associated mesoscopic properties such as diffusivity. Finally, application to pressure-controlled simple shear shows that increasing granular temperature at fixed inertial number reduces the apparent friction, consistent with previously reported trends. The framework therefore provides controlled reference states for comparing differently forced granular systems and identifying the variables required for temperature-dependent constitutive models.",
+  "authors": [
+   "Marco Previtali",
+   "Herbert Eric Huppert",
+   "Sergio Andres Galindo Torres"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "27 pages main text, 31 with appendix, 34 with references. 14 figures. Relevant data is available at https://data.mendeley.com/datasets/yt9pvmvz9t/1. The paper has been submitted to Physics Review Research",
+  "first_author": "Marco Previtali",
+  "pdf_url": "http://arxiv.org/pdf/2609.21297",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-18",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Granular thermostat implementation within the soft-sphere Discrete Element Method (DEM) framework, considerations and limitations",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21493": {
+  "abstract": "Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess spatial reasoning, structural validity, or physics-grounded construction, but they do not determine whether MLLMs can synthesize complete load-bearing structures and repair them after simulator execution exposes a failure. We introduce PolyBridgeBench, an executable benchmark for multimodal bridge design. A model receives a visual scene and structured engineering constraints and generates a complete node--member--material topology. Deterministic legality checks gate execution in a native dynamic physics simulation. Following an execution failure, the benchmark returns temporal visual evidence from the failed rollout and evaluates repair under a fixed interaction budget. Separate measurements of deterministic validity, dynamic functional success, and post-failure recovery identify the stage at which design fails. Experiments with six representative MLLMs across 189 levels expose a substantial gap between deterministic validity and dynamic success, pronounced sensitivity to material budgets, and limited post-failure recovery under the primary strict-budget setting.",
+  "authors": [
+   "Zicheng Zhao",
+   "Dongyin Chen",
+   "Rui Xu",
+   "Yinghui Xu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zicheng Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2609.21493",
+  "primary_category": "cs.AI",
+  "published": "2026-09-18",
+  "tags": [
+   "multimodal-llm"
+  ],
+  "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21536": {
+  "abstract": "We propose a framework for incorporating quantum-computing-based electronic-structure calculations into universal machine-learning interatomic potentials (uMLIPs). Rather than constructing an interatomic potential from scratch, we refine a pretrained DFT-based uMLIP using a small set of accurate reference energies obtained from quantum computing. We demonstrate the approach for three chemically distinct applications: the Menshutkin reaction, water adsorption in the metal-organic framework HKUST-1, and CO hopping on a high-entropy-alloy nanoparticle. For the Menshutkin reaction, fine-tuning on gas-phase configurations improves the transition-state energy inside a carbon nanotube but not the product energy. For water adsorption in HKUST-1, fine-tuning with only 14 reference configurations brings adsorption thermodynamics obtained from millions of configurations sampled by Widom insertion into closer agreement with reference values. For CO hopping on an IrPdPtRhRu nanoparticle, the preference for on-top over bridge adsorption is recovered in the finite-temperature free-energy profile obtained from enhanced-sampling molecular dynamics, even though the reference data contain only energies. These results demonstrate that the proposed framework provides a practical route for incorporating quantum-computing calculations into realistic atomistic simulations and that quantum-computing reference data can improve pretrained uMLIPs.",
+  "authors": [
+   "Tuan Minh Do",
+   "Yuichiro Yoshida",
+   "Kenji Ishihara",
+   "Wataru Mizukami"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Tuan Minh Do",
+  "pdf_url": "http://arxiv.org/pdf/2609.21536",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "dft",
+   "mlip",
+   "mof",
+   "molecular-dynamics",
+   "quantum-computing"
+  ],
+  "title": "From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21551": {
+  "abstract": "Orbital transport in light transition metals has emerged as a promising route toward angular-momentum electronics, with Hanle magnetoresistance (HMR) providing a direct electrical probe of the orbital Hall effect (OHE) in non-magnetic conductors. Here we report magnetoresistance signatures consistent with orbital HMR in epitaxial SrVO$*3$ (SVO), a narrow-band $d^1$ oxide grown on (001)-oriented (LaAlO$*3$)$*{0.3}$(Sr$*2$TaAlO$*6$)$*{0.7}$ substrates. In films of different thickness and longitudinal resistivity, field-dependent measurements reveal a reproducible positive, even-in-field, and approximately quadratic $Δρ*{x-y}$ response, as expected for HMR. Angular measurements characterize the corresponding magnetoresistance anisotropy and reveal an additional non-Hanle contribution. Density functional theory (DFT) calculations yield an intrinsic orbital Hall conductivity $σ*{\\mathrm{OH}}^{\\mathrm{DFT}} = 390,(\\hbar/e),Ω^{-1}\\mathrm{cm}^{-1}$ and a spin Hall conductivity $σ_{\\mathrm{SH}}^{\\mathrm{DFT}} = -12,(\\hbar/e),Ω^{-1}\\mathrm{cm}^{-1}$ at the Fermi level, corresponding to $|σ_{\\mathrm{OH}}^{\\mathrm{DFT}}/σ_{\\mathrm{SH}}^{\\mathrm{DFT}}| \\approx 33$, thus indicating a predominantly orbital response. Using the diffusive HMR framework with $λ_{\\mathrm{OD}} = 2$ nm as a reference value, the 20.8 nm film gives conservative saturation-limit lower-bound (LB) estimates $θ_{\\mathrm{OH,LB}} = 0.0144 \\pm 0.0004$ and $σ_{\\mathrm{OH,LB}} = (460 \\pm 11),(\\hbar/e),Ω^{-1}\\mathrm{cm}^{-1}$, comparable to the DFT value. Across the series, lower-bound estimates obtained with the same $λ_{\\mathrm{OD}}$ increase overall with longitudinal conductivity. These results suggest that narrow-band $d^1$ metallic oxides are a promising platform for orbital transport.",
+  "authors": [
+   "Julien Brehin",
+   "Montserrat X. Aguilar-Pujol",
+   "Dongwook Go",
+   "F. Casanova",
+   "J. Fontcuberta",
+   "E. Longo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "14 pages, 5 Figures",
+  "first_author": "Julien Brehin",
+  "pdf_url": "http://arxiv.org/pdf/2609.21551",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "band-gap",
+   "dft"
+  ],
+  "title": "Orbital angular momentum accumulation in SrVO3 thin films",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21575": {
+  "abstract": "Generating circularly polarized luminescence (CPL) is important for chiral photonics and high-density optical information storage. Current approaches to CPL in semiconductor nanomaterials often employ chiral organic molecules, which hinder pixel-by-pixel integration of different chiral states onto a single monolithic substrate. Here, we realize chiral-molecule-free, programmable CPL from all-inorganic perovskite nanocrystals synthesized by direct laser writing in glass. High-resolution transmission electron microscopy reveals a core-shell-like variation in interplanar spacing, consistent with torsional lattice distortion. Density functional theory calculations further show that torsional lattice distortion lifts the spin degeneracy of the band-edge electronic states. Power-dependent CPL measurements reveal a transition from birefringence-mediated circular polarization to intrinsic CPL. Furthermore, by systematically tuning the incident linear polarization angle and focal depth, we deterministically program both the handedness and magnitude of the CPL, with |glum| of approximately 4 x 10^-3. By demonstrating deterministic control of intrinsic chiroptical functionality through direct laser writing, our work establishes a strategy for spatially integrated chiral emitters in monolithic materials.",
+  "authors": [
+   "Yujie Jiao",
+   "Zhenqin Li",
+   "Yide Chang",
+   "Yongsen He",
+   "Xiaoyu Sun",
+   "Wei Lyu",
+   "Jiayu Ding",
+   "Zhaolin Zhong",
+   "Puxin Yang",
+   "Chi Chen",
+   "Bangjie Song",
+   "Min Qiu",
+   "Yanming Wang",
+   "Siying Peng"
+  ],
+  "categories": [
+   "physics.optics",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yujie Jiao",
+  "pdf_url": "http://arxiv.org/pdf/2609.21575",
+  "primary_category": "physics.optics",
+  "published": "2026-09-18",
+  "tags": [
+   "crystal-structure",
+   "dft",
+   "materials-science"
+  ],
+  "title": "Programmable Strain-Induced Intrinsic Circularly Polarized Emission from All-Inorganic Perovskite Nanocrystal Glass",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21631": {
+  "abstract": "Pfaffian quantum Monte Carlo extends auxiliary field methods to anomalous fermionic Hamiltonians, opening access to pairing systems and Hubbard-Stratonovich decompositions that are unavailable in determinant formulations. We show that this flexibility can be combined with the global updates of Hybrid Monte Carlo (HMC), leading to an algorithm scaling as $\\mathcal{O}(N_τL^3)$, similar to its determinant quantum Monte Carlo (DQMC) counterpart without pseudofermions. The central observation is that the molecular dynamics force depends only on the magnitude of the Pfaffian weight, which admits a determinant representation and leads to a simplified force expression. This construction also yields unequal-time Majorana correlators at essentially no additional cost. For interaction kernels with no convenient analytic exponential derivative, we employ a truncated force expansion whose errors are removed by the exact Metropolis accept-reject step. Applied to the interacting Kitaev chain, the method agrees with exact diagonalization and resolves low-energy modes localized at opposite boundaries, together with their increasing overlap near the topological transition. These results establish HMC as an efficient sampling framework for Pfaffian auxiliary-field simulations.",
+  "authors": [
+   "Thomas Hauschild",
+   "Lin Wang",
+   "Finn L. Temmen",
+   "Thomas Luu"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "9 pages, 5 figures, The 43rd International Symposium on Lattice Field Theory (Lattice 2026)",
+  "first_author": "Thomas Hauschild",
+  "pdf_url": "http://arxiv.org/pdf/2609.21631",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-09-18",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Reformulating Pfaffian Quantum Monte Carlo with the Hybrid Monte Carlo formalism",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21678": {
+  "abstract": "This study examines phosgene (COCl2) adsorption on pristine and noble metal-doped (Ag, Au, Pd, Pt) B12N12 nanocages using dispersion-corrected density functional theory [B3LYP-D3(BJ)]. Boron-site substitution narrows the HOMO-LUMO gap far more than nitrogen-site substitution (69-82% vs 41-67%) and was adopted throughout. All systems were fully optimized; multiple starting geometries converged to two stable minima per dopant, X-O and X-Cl. Pristine B12N12 binds phosgene weakly (Eads = -12.8 to -24.9 kJ mol^-1). Doping strengthens binding, spanning -14.0 to -60.7 kJ mol^-1 after counterpoise correction, with platinum exhibiting the highest affinity and structural stability. Natural population analysis indicates phosgene donates at most 0.33 e, and QTAIM classifies all cage-adsorbate bond critical points as closed-shell or intermediate, confirming physisorption. Vibrational frequency analysis confirms all structures as true minima and reveals that the adsorption entropy penalty (59-161 J mol^-1 K^-1) is decisive. Under Grimme's quasi-harmonic approximation, pristine cages fail to bind phosgene (Delta G = +23.8 to +27.9 kJ mol^-1), whereas only Pt-O (Delta G = -8.8 kJ mol^-1) and Pd-O (-7.2 kJ mol^-1) adsorb phosgene spontaneously at 298 K. Transition-state theory indicates rapid room-temperature recovery (tau = 43 ms for Pt-O), while thermodynamic desorption occurs at 69.6 deg C, ensuring a practical regeneration window. Silver-doped cages provide narrow post-adsorption gaps and high electrophilicity but cannot retain phosgene at ambient conditions. Platinum doping is therefore the most effective strategy for reversible phosgene detection using B12N12 nanocages.",
+  "authors": [
+   "Shahariar Chowdhury",
+   "Mohammad Abdul Matin",
+   "Samiran Bhattacharjee",
+   "Ishtiaque M. Syed"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "Keywords: Density functional theory, B12N12 nanocages, Transition metal doping, Phosgene gas sensing, Adsorption",
+  "first_author": "Shahariar Chowdhury",
+  "pdf_url": "http://arxiv.org/pdf/2609.21678",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "dft"
+  ],
+  "title": "Adsorption of Phosgene Gas on Pristine and Noble Metal-Doped B12N12 Nanocages: Insights from Density Functional Theory",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21759": {
+  "abstract": "We present the first complete machine learning method for accelerating plane-wave density functional theory (DFT) in materials under the projector augmented wave (PAW) formalism. We formalize seven criteria that a \\textit{Complete Neural Electronic Initializer} must satisfy for practical end-to-end PAW DFT acceleration. Applying these criteria to prior work reveals two missing structure-dependent components, augmentation occupancies and spin initialization, that prevent existing methods from providing complete reference-free initialization. Controlled ablations show that omitting these components can eliminate or reverse the acceleration obtained via models that only predict the smooth valence density. We satisfy these missing requirements by introducing AugNet, the first general equivariant model for PAW augmentation occupancies, and the first general spin density model for materials, which predicts the smooth spin-difference density and spin-difference PAW augmentation occupancies using predicted magnetic moments to constrain the global magnetic state. Combined with existing valence density models, these components satisfy all seven criteria and form a fully reference-free electronic initializer for materials DFT, requiring no electronic quantities from a converged target calculation. Our method reduces end-to-end DFT wall time by up to ~25% on unseen structures while preserving converged energies.",
+  "authors": [
+   "Felix Ærtebjerg",
+   "Jonas Elsborg",
+   "Arghya Bhowmik"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "34 pages, 4 figures, 15 tables",
+  "first_author": "Felix Ærtebjerg",
+  "pdf_url": "http://arxiv.org/pdf/2609.21759",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "dft"
+  ],
+  "title": "Complete Neural Electronic Initialization Accelerates Materials DFT",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21824": {
+  "abstract": "PbSe is a narrow-gap IV-VI semiconductor, whose multivalley valence bands, with maxima at the L, $Σ$, and $Δ$ points, underpin its intermediate-temperature thermoelectric properties. We combine soft-X-ray angle-resolved photoemission spectroscopy (SX-ARPES) with first principles simulations to study the valence band structure of bulk PbSe. High resolution measurements are conducted at photon energies of 400-900 eV to map the valence manifold along X$Γ$X, WXW, and K$Γ$K, and iso-energy surfaces are collected in the $k_z=0$ plane. Comparison to ARPES enables a rigorous assessment of the performance of density functional theory (DFT), using semi-local and hybrid functionals, as well as many-body perturbation theory within the quasiparticle self-consistent $GW$ approximation. We find that the Heyd-Scuseria-Ernzerhof (HSE) hybrid functional and QP$GW$ reproduce the measured band dispersions to within 0.1-0.2 eV over the entire valence band. In contrast, the semi-local Perdew-Burke-Ernzerhof (PBE) functional compresses the band width and deviates from experiment by up to 0.6 eV. We further show that an accurate band structure and band gap are vital to obtaining a correct description of the dependence of the Seebeck coefficient of p-type PbSe on the hole concentration (Pisarenko relation). This has implications for computational efforts to discover thermoelectric materials.",
+  "authors": [
+   "Zefeng Cai",
+   "Valentine V. Volobuev",
+   "Jędrzej Korczak",
+   "Enrico Della Valle",
+   "Hantian Liu",
+   "Moritz Hoesch",
+   "Sergey M. Frolov",
+   "Tomasz Story",
+   "Vladimir N. Strocov",
+   "Noa Marom"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Zefeng Cai",
+  "pdf_url": "http://arxiv.org/pdf/2609.21824",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "ab-initio",
+   "band-gap",
+   "dft"
+  ],
+  "title": "Multivalley 3D Electronic Structure of PbSe from Soft-X-Ray ARPES and First-Principles Calculations",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21882": {
+  "abstract": "Orbital-free density functional theory seeks to compute the energy of an electronic system directly from its electron density, avoiding one-electron wave functions and thereby offering a route to scalable electronic structure calculations. Machine-learned orbital-free density functionals have recently achieved promising results on small organic molecules, predicting energies with sub-millihartree accuracy. However, their convergence in density optimization remains sensitive to hyperparameter tuning and architectural choices. Here, we extend the recently introduced (weak) surrogate functional framework - designed to predict ground-state electron densities only - to also yield their energy, resulting in \"strong\" surrogate functionals. We find that these learned functionals enable stable convergence across all tested neural network backbones, reducing electron density errors relative to the Kohn-Sham reference by an order of magnitude compared to previous OF-DFT methods. More importantly, the predicted energies are competitive with state-of-the-art machine-learned interatomic potentials (MLIPs) trained only on energies, while exhibiting superior generalization to larger, unseen systems.",
+  "authors": [
+   "Simon Wagner",
+   "Marc K. Ickler",
+   "Manuel V. Klockow",
+   "Fred A. Hamprecht",
+   "Roman Remme"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "12 pages, 6 figures",
+  "first_author": "Simon Wagner",
+  "pdf_url": "http://arxiv.org/pdf/2609.21882",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "dft",
+   "electronic-structure",
+   "mlip"
+  ],
+  "title": "Orbital-Free Surrogate Functionals Yield Transferable Interatomic Potentials and Electron Densities",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21897": {
+  "abstract": "Path sampling methods enable the computation of thermodynamic and kinetic properties through Monte Carlo (MC) moves that generate trajectories from short forward and backward molecular dynamics (MD) segments. Recently, the wire-fencing move was developed to achieve near-unity acceptance while also rapidly decorrelating successive paths, two properties that are usually in conflict in conventional MC schemes. However, in large systems, such as biomolecular simulations, the frame-saving frequency is often kept low to reduce storage requirements. Likewise, when evaluating the order parameter is expensive, frames are saved less frequently to reduce the associated cost. In either situation, this can severely limit the number of available shooting points, in extreme situations leaving only a single point, typically the one with the highest order parameter value, accessible for shooting. Repeated shootings may then originate from the same configuration, reducing sampling efficiency. Here, we introduce a multi-resolution variant of the wire-fencing move in which selected subtrajectories are propagated at higher temporal resolution than the stored trajectories. This refinement affects only the MC move and does not alter the structure or storage of the generated paths, but enhances the diffusion of shooting points along the trajectory and thereby improves sampling efficiency. The approach is demonstrated on two model systems and a realistic protein--ligand unbinding process, with the latter showing an estimated efficiency improvement of more than an order of magnitude.",
+  "authors": [
+   "Simen Z. Stenersen Michler",
+   "Lukas Baldauf",
+   "Titus S. van Erp"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "13 pages, 4 figures",
+  "first_author": "Simen Z. Stenersen Michler",
+  "pdf_url": "http://arxiv.org/pdf/2609.21897",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-18",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Multi-Resolution Wire-Fencing for Efficient Path Sampling",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21935": {
+  "abstract": "Accurate simulations of electrochemical interfaces require the simultaneous treatment of constant-potential conditions, nuclear quantum effects, and sufficient configurational sampling. Integrating these capabilities within a general and efficient molecular dynamics (MD) framework remains challenging. In this work, we implement fix uvt and fix pimd/uvt in LAMMPS for constant-potential classical MD and path integral molecular dynamics (PIMD), respectively. We organize the class hierarchy to reuse LAMMPS's existing Nosé--Hoover chain thermostat routines and share nuclear propagation routines across PIMD integrators. A common interface connects these integrators to models that provide the electron-number derivative of the potential energy. We present three examples with accompanying input commands to guide users through constant-potential classical MD, thermostatted PIMD, and constant-potential PIMD, covering analytical models, liquid water, and electrochemical interfaces described by machine learning potentials. This work provides practical tools and guidance for large-scale constant-potential simulations incorporating nuclear quantum effects.",
+  "authors": [
+   "Li Fu",
+   "Yifan Li",
+   "Shenzhen Xu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Li Fu",
+  "pdf_url": "http://arxiv.org/pdf/2609.21935",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "free-energy",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "fix uvt and fix pimd/uvt: A Unified LAMMPS Framework for Constant-Potential Constant-Temperature Molecular Dynamics",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21971": {
+  "abstract": "The inclusion of dispersion effects is important in density-functional theory (DFT) to model non-covalent interactions correctly, a task that is essential in many applications of the theory. Many dispersion functionals have been proposed in the past. The exchange-hole dipole moment (XDM) model combines the simplicity of a damped pairwise asymptotic expression for the dispersion energy with a theory-grounded approach to calculate the dispersion coefficients. XDM is, arguably, the most accurate dispersion correction for the description of molecular crystals and it has been thoroughly tested for other applications across a wide range of chemistries. Here, we address the two main shortcomings of XDM. First, XDM relies on the use of experimentally determined free-atom polarizabilities. Second, because the XDM atom-in-molecule properties (volumes, polarizabilities, exchange-hole dipole moments) use the Hirshfeld partition method, XDM describes systems with large atomic partial charges, like alkali cations or halide anions, poorly. We propose neXDM, a non-empirical variant of XDM that removes the experimental parameters by using the Kirkwood polarizability formula, thereby making neXDM a pure meta-GGA dispersion functional. In addition, following previous work by Bučko et al. on the similar Tkatchenko--Scheffler (TS) method, we replace the Hirshfeld partitioning with its iterative counterpart. The performance of neXDM is shown to be on par with XDM in standard molecular and crystal benchmark sets, and greatly improves the modeling of ionic systems. The new neXDM method sets a new record for the best dispersion-corrected generalized-gradient approximation (GGA) functional for molecular crystal lattice energies in the X23 set (0.700~kcal/mol).",
+  "authors": [
+   "Alastair J. A. Price",
+   "Alberto Otero-de-la-Roza"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "38 pages 2 figs",
+  "first_author": "Alastair J. A. Price",
+  "pdf_url": "http://arxiv.org/pdf/2609.21971",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "dft"
+  ],
+  "title": "Development of a Non-Empirical Exchange-Hole Dipole Moment Dispersion Model",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21984": {
+  "abstract": "High-throughput first-principles property calculations are often constrained by costly post-processing and dense Brillouin-zone sampling, impeding the creation of large, internally consistent materials-property datasets and limiting AI-driven discovery workflows. Pseudo-atomic-orbital (PAO) Hamiltonians provide an exact tight-binding representation of first-principles electronic structure that enables the calculation of a wide range of electronic, optical, topological, and transport properties at negligible cost, thereby supporting scalable generation of training-quality data and AI-ready data infrastructures. In this work, we present PAOFLOW 3.0 -- an open-source Python suite that automates the construction and analysis of PAO Hamiltonians from plane-wave density functional theory calculations performed with either Quantum ESPRESSO or VASP. The resulting Hamiltonians enable efficient electronic structure interpolation, Fermi surface analysis, optical and dielectric response, transport coefficients, Berry phase and topological quantities, quantum transport, and other materials properties. Compared with previous releases, PAOFLOW 3.0 substantially extends the scope of the package through the introduction of internal projections enabling support for VASP calculations, self-consistent Hubbard U and V corrections obtained using ACBN0 and eACBN0 methods, generation of environment-dependent Slater-Koster tight-binding models, Landauer--BÃŒttiker quantum transport, and calculation of quantum oscillations using the integrated PySKEAF module. The theoretical foundations and the software architecture are presented together with representative calculations illustrating the current capabilities of the package.",
+  "authors": [
+   "Anooja Jayaraj",
+   "Sergio Alvarruiz",
+   "Mia Falatko",
+   "Zhiren He",
+   "Jonathan Red",
+   "Caua F. Schuch",
+   "Karma Tenzin",
+   "Chao Chen Ye",
+   "Davide Ceresoli",
+   "Marcio Costa",
+   "Stefano Curtarolo",
+   "Jagoda Slawinska",
+   "Marco Buongiorno Nardelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Anooja Jayaraj",
+  "pdf_url": "http://arxiv.org/pdf/2609.21984",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "electronic-structure",
+   "thermal-properties"
+  ],
+  "title": "PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21999": {
+  "abstract": "Bent-core liquid crystals are a canonical example of a soft matter system whose behavior is controlled by a local preference for order that cannot be universally achieved. This geometric frustration, arising from the rod's curved shape, has been shown to stabilize a variety of equilibrium phases, such as the helically ordered nematic twist-bend phase ($N_{\\rm TB}$). Unlike a traditional nematic, the twist-bend state has 1D translational order arising from a periodic rotation of bend orientation along the helical axis. Here, we use molecular dynamics simulations to study the effect of shearing the $N_{\\rm TB}$ phase along directions parallel and perpendicular to the helical axis. In the case of shear perpendicular to the helical axis, the nematic twist-bend phase is stable and flows without disordering. Conversely, shear along the helical axis disrupts order and leads to the emergence of fractionally charged Skyrmion defects, i.e. merons. These defects act as topological machines, locally rotating rods into a re-ordered and stable orientation of the $N_{\\rm TB}$ phase. These findings reveal a new mechanism to create and control merons and highlight the potential application of bent-core liquid crystals in designing functional material with specific optical and computational properties.",
+  "authors": [
+   "Nicholas W. Hackney",
+   "Joel T. Clemmer",
+   "Thomas O'Connor",
+   "Gary S. Grest"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "15 pages, 10 figures",
+  "first_author": "Nicholas W. Hackney",
+  "pdf_url": "http://arxiv.org/pdf/2609.21999",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-18",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Merons Mediate Re-Ordering of Curved Rods Under Shear Flow",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.22009": {
+  "abstract": "Serpentine minerals are abundant H-bearing phases in the upper mantle and play a central role in water transport in subduction zones. Lizardite is the low-temperature polymorph expected in cold slabs and shallow serpentinized mantle. Using an ab initio thermoelastic framework combining density-functional theory with the r2SCAN meta-GGA and the quasiharmonic approximation, we calculate its compression curve, elastic tensor, and acoustic velocities at 300 K. r2SCAN reproduces the measured compression curve and equilibrium volume to within 0.2%. Weak interlayer hydrogen bonding gives rise to pronounced axial softening, with $C_{33} \\simeq 0.21C_{11}$ and $C_{44} \\simeq 0.13C_{66}$ at 0 GPa. Solving the Christoffel equation over all propagation directions, we construct the velocity density of states (VelDOS), which reveals a high density of slow acoustic modes and other directional features obscured by Voigt-Reuss-Hill (VRH) aggregate averages. Reported experimental velocities preferentially sample the slower portion of this distribution rather than clustering near the VRH values, a correspondence consistent with subtle crystallographic texture or preferential orientation not resolved experimentally. Thus, the appropriate seismic-velocity endmember for lizardite depends on its orientational state, and reliance on VRH velocities alone may lead to overestimation of the degree of serpentinization when seismic observations preferentially sample slow crystallographic directions. Direction-resolved single-crystal measurements and aggregate measurements with independently quantified texture would provide direct tests of this interpretation.",
+  "authors": [
+   "Chenxing Luo",
+   "Timothy Liao",
+   "Hongjin Wang",
+   "Renata M. Wentzcovitch"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Chenxing Luo",
+  "pdf_url": "http://arxiv.org/pdf/2609.22009",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "ab-initio",
+   "dft"
+  ],
+  "title": "Insights into the long-standing controversy over sound velocities in lizardite",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.22019": {
+  "abstract": "Empirical reactive force field (RFF) molecular dynamics enables atomistic simulation of bond breaking, bond formation, charge redistribution, and structural evolution in chemically complex systems. The ReaxFF method is arguably the most popular and transferable of the currently available RFF methods. However, routine use of ReaxFF often requires substantial manual effort to prepare inputs, interpret engine-specific outputs, organize simulation artifacts, and develop custom analysis scripts, limiting reproducibility and scalability. Here, we present ReaxKit, a modular Python toolkit for preparing, parsing, analyzing, and managing ReaxFF molecular dynamics simulations. ReaxKit uses a separation-of-concerns architecture that distinguishes engine-specific input/output handling, canonical domain data models, scientific analysis, workflow orchestration, presentation, storage, and graphical interaction. Engine adapters convert outputs from supported simulation environments into typed, engine-independent data structures, allowing analysis modules to operate independently of native file formats. User requests are executed through consistent command-line, functional Python, and browser-based graphical interfaces, while a dedicated workspace preserves raw data, normalized datasets, analysis settings, results, logs, caches, and provenance information. Representative applications demonstrate the breadth of the toolkit, including automated generation of elastic and equation-of-state training data from Materials Project structures and mechanical properties, characterization of active sites and local structural environments, and execution of simulation campaigns through YAML-defined study workflows. These capabilities show that ReaxKit supports all essential stages of the ReaxFF workflow.",
+  "authors": [
+   "Ali Mohammadi Dinani",
+   "Alireza Sepehrinezhad",
+   "Anirban Phukan",
+   "Asma Ul Hosna",
+   "Jupjeet Dhingra",
+   "Mozhdeh Mirakhory",
+   "Seyed Mahmoud Mortazavi",
+   "Yun Kyung Shin",
+   "Swarit Dwivedi",
+   "Adri C. T. van Duin"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "56 pages",
+  "first_author": "Ali Mohammadi Dinani",
+  "pdf_url": "http://arxiv.org/pdf/2609.22019",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "ReaxKit: A Modular Python Toolkit for Preparing, Parsing, and Analyzing ReaxFF Molecular Dynamics Simulations",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.22022": {
+  "abstract": "Under vibrational strong coupling (VSC), molecular vibrations hybridize with an optical cavity mode to form polaritons, offering a route to modify chemical and material properties without external driving. In this work, we develop a machine-learning interatomic potential (MLIP) based framework to study VSC inside optical cavities. By using the cavity Born-Oppenheimer approximation and treating the photonic degrees of freedom as an effective electric field, we provide a framework that can describe VSC solely based on the electronic ground-state potential energy surfaces (PES), electronic dipole moment, and polarizability, all quantities obtained outside the cavity. We train PES, polarization, and polarizability models to drive the molecular dynamics (MD) simulations of systems under VSC. We demonstrate the approach for both a single CO$_2$ molecule and liquid CO$_2$, showing that the polarizability renormalizes the effective cavity resonance: at fixed cavity frequency this renormalization renders the Rabi splitting strongly asymmetric, while with renormalized cavity frequency the symmetric splitting is capped by polarizability screening. The collective Rabi splitting of the liquid is connected quantitatively to the single-molecule splitting involving the $\\sqrt{N/3}$ orientational enhancement and the local-field enhanced effective charges of the coupled vibration, while the equilibrium pair structure of the CO$_2$ liquid remains unchanged. These simulations are the first MLIP-driven simulations of collective VSC in the condensed phase and open further pathways to the exploration of chemical effects under VSC.",
+  "authors": [
+   "Yifan Li",
+   "Roberto Car",
+   "Johannes Flick"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yifan Li",
+  "pdf_url": "http://arxiv.org/pdf/2609.22022",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "free-energy",
+   "materials-science",
+   "molecular-dynamics"
+  ],
+  "title": "cboamd: A Machine Learning Molecular Dynamics Framework for Vibrational Strong Coupling",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-09-18"
  }
 }

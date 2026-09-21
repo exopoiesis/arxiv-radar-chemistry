@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2010 papers</span>
+  <span class="paper-count">2015 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,66 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21536.html">From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="mof-360d.html">mof</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Tuan Minh Do et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21536">2609.21536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21551.html">Orbital angular momentum accumulation in SrVO3 thin films</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
+<td>Julien Brehin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21551">2609.21551</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21575.html">Programmable Strain-Induced Intrinsic Circularly Polarized Emission from All-Inorganic Perovskite Nanocrystal Glass</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Yujie Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21575">2609.21575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21678.html">Adsorption of Phosgene Gas on Pristine and Noble Metal-Doped B12N12 Nanocages: Insights from Density Functional Theory</a></div></td>
+<td>Shahariar Chowdhury et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21678">2609.21678</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21759.html">Complete Neural Electronic Initialization Accelerates Materials DFT</a></div></td>
+<td>Felix Ærtebjerg et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21759">2609.21759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21824.html">Multivalley 3D Electronic Structure of PbSe from Soft-X-Ray ARPES and First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td>Zefeng Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21824">2609.21824</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21882.html">Orbital-Free Surrogate Functionals Yield Transferable Interatomic Potentials and Electron Densities</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Simon Wagner et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21882">2609.21882</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21971.html">Development of a Non-Empirical Exchange-Hole Dipole Moment Dispersion Model</a></div></td>
+<td>Alastair J. A. Price et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21971">2609.21971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Anooja Jayaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22009.html">Insights into the long-standing controversy over sound velocities in lizardite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Chenxing Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22009">2609.22009</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16529.html">Dark Matter Inelastic Scattering with Nuclei for Direct Detection</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
@@ -56,6 +116,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20666.html">Molecular Geometry Understanding Has Unintendedly Emerged in Frontier Large Language Models</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Gregorii A. Semakin et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20666">2609.20666</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20986.html">Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Sabine Leroch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20986">2609.20986</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21065.html">Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>Wai-Ga D. Ho et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21065">2609.21065</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-16</td>
@@ -12032,47 +12104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22866.html">Non-Altermagnetic Origin of Exchange Bias Behaviors in Incoherent RuO$_2$/Fe Bilayer Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Shelby S. Fields et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22866">2509.22866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20005.html">Developing a Complete AI-Accelerated Workflow for Superconductor Discovery</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Jason B. Gibson et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20005">2503.20005</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17094.html">DiffSyn: A Generative Diffusion Approach to Materials Synthesis Planning</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Elton Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17094">2509.17094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19857.html">Deterministic Frequency--Domain Inference of Network Topology and Hidden Components via Structure--Behavior Scaling</a></div></td>
-<td>Xiaoxiao Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19857">2509.19857</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20727.html">Distinct orbital contributions to electronic and magnetic structures in La$_{4}$Ni$_{3}$O$_{10}$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Shilong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20727">2509.20727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20845.html">Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>H. Laltlanmawii et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20845">2509.20845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21481.html">Strain-tunability of the multipolar Berry curvature in altermagnet MnTe</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shane Smolenski et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21481">2509.21481</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21678.html">Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models</a></div></td>
-<td>Isaac Onyango et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21678">2509.21678</a></td>
 </tr>
 </tbody></table>

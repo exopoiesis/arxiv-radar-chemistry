@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21493.html">PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design</a></div></td>
+<td>Zicheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21493">2609.21493</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14289.html">AnnoSketch: Evaluating and Collecting Human Sketches for MLLM-assisted Chart Annotation</a></div></td>
 <td>Yoonjae Oh et al.</td>
@@ -566,11 +572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22853.html">Patient-specific Biomolecular Instruction Tuning</a></div></td>
 <td>Irsyad Adam et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22853">2509.22853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21079.html">SoM-1K: A Thousand-Problem Benchmark Dataset for Strength of Materials</a></div></td>
-<td>Qixin Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21079">2509.21079</a></td>
 </tr>
 </tbody></table>

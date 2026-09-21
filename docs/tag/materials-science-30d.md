@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21575.html">Programmable Strain-Induced Intrinsic Circularly Polarized Emission from All-Inorganic Perovskite Nanocrystal Glass</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Yujie Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21575">2609.21575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22022.html">cboamd: A Machine Learning Molecular Dynamics Framework for Vibrational Strong Coupling</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yifan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22022">2609.22022</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>

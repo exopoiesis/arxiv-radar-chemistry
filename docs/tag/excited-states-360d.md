@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">217 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1316,11 +1316,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23018.html">Advancing Quantum Many-Body GW Calculations on Exascale Supercomputing Platforms</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Benran Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23018">2509.23018</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20907.html">Quantum Simulation and Energy Estimation for Discretized Anharmonic oscillator</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Saurav Suman et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20907">2509.20907</a></td>
 </tr>
 </tbody></table>

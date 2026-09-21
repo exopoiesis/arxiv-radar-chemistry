@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21162.html">AI-Driven Scientific Computing Workflows: A Systems Review of Orchestration, Execution, Reproducibility and Provenance</a></div></td>
+<td>Jamie J. Alnasir</td>
+<td><a href="http://arxiv.org/abs/2609.21162">2609.21162</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Sushant Sinha et al.</td>
@@ -1574,11 +1580,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04052.html">EAC-Net: Predicting real-space charge density via equivariant atomic contributions</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Xuejian Qin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04052">2508.04052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13251.html">&quot;DIVE&quot; into Hydrogen Storage Materials Discovery with AI Agents</a></div></td>
-<td>Di Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13251">2508.13251</a></td>
 </tr>
 </tbody></table>

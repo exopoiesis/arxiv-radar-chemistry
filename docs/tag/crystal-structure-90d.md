@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21575.html">Programmable Strain-Induced Intrinsic Circularly Polarized Emission from All-Inorganic Perovskite Nanocrystal Glass</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Yujie Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21575">2609.21575</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20376.html">Pressure-induced electronic and structural evolution of EuIrGe3</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>N. S. Dhami et al.</td>
@@ -260,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24239.html">One-dimensional self-organization of water molecules in proton conducting Andersson-Wadsley titanates</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Mathilde Arnaud et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24239">2606.24239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22866.html">Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Kiyoung Seong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22866">2606.22866</a></td>
 </tr>
 </tbody></table>

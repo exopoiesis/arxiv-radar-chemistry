@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">255 papers</span>
+  <span class="paper-count">254 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21085.html">Triply-Scalable Equivariant Gaussian Process Modeling</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Tim Steinert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21085">2609.21085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1532,17 +1538,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22468.html">Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Boshra Ariguib et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22468">2509.22468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02748.html">ReciNet: Reciprocal Space-Aware Long-Range Modeling for Crystalline Property Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jianan Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02748">2502.02748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20664.html">Enhancing Molecular Property Prediction with Knowledge from Large Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Peng Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20664">2509.20664</a></td>
 </tr>
 </tbody></table>

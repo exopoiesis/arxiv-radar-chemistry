@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>magnetic-properties — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16143.html">Mode-selective phonon effects on magnetism and superconductivity in trilayer nickelates</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>C. Alexander Baum et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16143">2609.16143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14294.html">Time- and Frequency-Resolved Observation of Inverse Orbital Hall Effect in Gallium Nitride via Terahertz Polarimetry</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Kota Aikyo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14294">2609.14294</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14371.html">Accelerating ab initio spin-phonon relaxation simulation of single-ion magnets by quantum embedding and spatial truncation</a></div><div class="paper-tags"><a href="quantum-computing-7d.html">quantum-computing</a></div></td>
-<td>Yifan Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14371">2609.14371</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21575.html">Programmable Strain-Induced Intrinsic Circularly Polarized Emission from All-Inorganic Perovskite Nanocrystal Glass</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Yujie Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21575">2609.21575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22022.html">cboamd: A Machine Learning Molecular Dynamics Framework for Vibrational Strong Coupling</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yifan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22022">2609.22022</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Sushant Sinha et al.</td>
@@ -2150,17 +2162,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22112.html">Large Material Gaussian Model for Relightable 3D Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Jingrui Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22112">2509.22112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02748.html">ReciNet: Reciprocal Space-Aware Long-Range Modeling for Crystalline Property Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jianan Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02748">2502.02748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20907.html">Quantum Simulation and Energy Estimation for Discretized Anharmonic oscillator</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Saurav Suman et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20907">2509.20907</a></td>
 </tr>
 </tbody></table>

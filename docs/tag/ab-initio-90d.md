@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21824.html">Multivalley 3D Electronic Structure of PbSe from Soft-X-Ray ARPES and First-Principles Calculations</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Zefeng Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21824">2609.21824</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Anooja Jayaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22009.html">Insights into the long-standing controversy over sound velocities in lizardite</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Chenxing Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22009">2609.22009</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19833.html">The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Miao Liu et al.</td>
@@ -1748,23 +1766,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24494.html">Magnetoelectric flat band induced by a $\sqrt{3}\times\sqrt{3}$ charge density wave in monolayer CrSe$_2$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Pablo Savino et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24494">2606.24494</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23140.html">Unconventional topological Hall response and anisotropic magnetotransport properties of a helical magnet EuAuAs</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Anyesh Saraswati et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23140">2606.23140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23214.html">Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23214">2606.23214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23396.html">Imaging aerosolized viruses with an X-ray free-electron laser using single-particle rotational invariants</a></div></td>
-<td>Tim B. Berberich et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23396">2606.23396</a></td>
 </tr>
 </tbody></table>

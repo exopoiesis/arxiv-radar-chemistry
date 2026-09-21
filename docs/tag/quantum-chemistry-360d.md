@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.20464">2609.20464</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21085.html">Triply-Scalable Equivariant Gaussian Process Modeling</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Tim Steinert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21085">2609.21085</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13018.html">First application of the transcorrelated method to noncovalent interactions: The A24 dataset</a></div></td>
 <td>Johannes Hauskrecht et al.</td>
@@ -2096,11 +2102,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23634.html">Tetratomic states of microwave dressed and associated ultracold 23Na40K molecules</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Zhengyu Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23634">2509.23634</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20907.html">Quantum Simulation and Energy Estimation for Discretized Anharmonic oscillator</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Saurav Suman et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20907">2509.20907</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">377 papers</span>
+  <span class="paper-count">372 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2246,35 +2246,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22468.html">Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Boshra Ariguib et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22468">2509.22468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02748.html">ReciNet: Reciprocal Space-Aware Long-Range Modeling for Crystalline Property Prediction</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jianan Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02748">2502.02748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20005.html">Developing a Complete AI-Accelerated Workflow for Superconductor Discovery</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Jason B. Gibson et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20005">2503.20005</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20664.html">Enhancing Molecular Property Prediction with Knowledge from Large Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Peng Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20664">2509.20664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20893.html">MolCluster: Integrating Graph Neural Network with Community Detection for Coarse-Grained Mapping</a></div></td>
-<td>Zhixuan Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20893">2509.20893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20978.html">FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Xiangyu Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20978">2509.20978</a></td>
 </tr>
 </tbody></table>

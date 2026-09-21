@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21165.html">SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity</a></div></td>
+<td>Thao Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21165">2609.21165</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19476.html">Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Donney Fan et al.</td>
@@ -476,11 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25865.html">Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Haoyu Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25865">2606.25865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23856.html">Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Konstantin Yatsenko et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23856">2606.23856</a></td>
 </tr>
 </tbody></table>

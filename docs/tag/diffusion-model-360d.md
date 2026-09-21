@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">425 papers</span>
+  <span class="paper-count">424 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2558,11 +2558,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22112.html">Large Material Gaussian Model for Relightable 3D Generation</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Jingrui Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22112">2509.22112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17094.html">DiffSyn: A Generative Diffusion Approach to Materials Synthesis Planning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Elton Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17094">2509.17094</a></td>
 </tr>
 </tbody></table>

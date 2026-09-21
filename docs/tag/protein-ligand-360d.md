@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,17 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22950.html">Twin Peaks: Dual-Head Architecture for Structure-Free Prediction of Protein-Protein Binding Affinity and Mutation Effects</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Supantha Dey et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22950">2509.22950</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20693.html">Learning to Align Molecules and Proteins: A Geometry-Aware Approach to Binding Affinity</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Mohammadsaleh Refahi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20693">2509.20693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21424.html">PhenoMoler: Phenotype-Guided Molecular Optimization via Chemistry Large Language Model</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Ran Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21424">2509.21424</a></td>
 </tr>
 </tbody></table>

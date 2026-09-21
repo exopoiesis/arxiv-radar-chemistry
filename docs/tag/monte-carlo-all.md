@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">577 papers</span>
+  <span class="paper-count">579 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21631.html">Reformulating Pfaffian Quantum Monte Carlo with the Hybrid Monte Carlo formalism</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Thomas Hauschild et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21631">2609.21631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21897.html">Multi-Resolution Wire-Fencing for Efficient Path Sampling</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Simen Z. Stenersen Michler et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21897">2609.21897</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19584.html">Efficient tensorized evaluation of permutation invariant polynomials for representing potential energy surfaces</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

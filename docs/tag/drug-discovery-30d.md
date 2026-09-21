@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21165.html">SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity</a></div></td>
+<td>Thao Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21165">2609.21165</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19476.html">Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Donney Fan et al.</td>
@@ -134,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22642.html">Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Florian Rottach et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22642">2608.22642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21057.html">Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment</a></div></td>
-<td>Emma Granqvist et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21057">2608.21057</a></td>
 </tr>
 </tbody></table>

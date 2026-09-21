@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21824.html">Multivalley 3D Electronic Structure of PbSe from Soft-X-Ray ARPES and First-Principles Calculations</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Zefeng Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21824">2609.21824</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Anooja Jayaraj et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22009.html">Insights into the long-standing controversy over sound velocities in lizardite</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Chenxing Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22009">2609.22009</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19833.html">The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
@@ -656,29 +674,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22009.html">Impact of interstitial carbon on local lattice distortions in CoCrFeMnNi high-entropy alloys</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Alevtina Smekhova et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22009">2608.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20753.html">Accurate and Transferable Intermolecular Potential Based on Machine-Learned Molecular Electron Density</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Dahvyd Wing et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20753">2608.20753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20994.html">Scalable photoexcitation-induced molecular dynamics with machine-learned Hamiltonians</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Leyu Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20994">2608.20994</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21071.html">Intracavity Photon Statistics from Correlated Molecular Electronic Structure</a></div></td>
-<td>Kurt R. Brorsen</td>
-<td><a href="http://arxiv.org/abs/2608.21071">2608.21071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21493.html">All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Muhammad Sufyan Ramzan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21493">2608.21493</a></td>
 </tr>
 </tbody></table>

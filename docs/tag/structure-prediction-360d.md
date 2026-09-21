@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,11 +950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00832.html">Challenges in Non-Polymeric Crystal Structure Prediction: Why a Geometric, Permutation-Invariant Loss is Needed</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Emmanuel Jehanno et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00832">2509.00832</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07032.html">Lightweight MSA Design Advances Protein Folding From Evolutionary Embeddings</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Hanqun Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07032">2507.07032</a></td>
 </tr>
 </tbody></table>

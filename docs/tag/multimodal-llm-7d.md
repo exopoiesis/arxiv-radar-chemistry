@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14289.html">AnnoSketch: Evaluating and Collecting Human Sketches for MLLM-assisted Chart Annotation</a></div></td>
-<td>Yoonjae Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14289">2609.14289</a></td>
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21493.html">PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design</a></div></td>
+<td>Zicheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21493">2609.21493</a></td>
 </tr>
 </tbody></table>

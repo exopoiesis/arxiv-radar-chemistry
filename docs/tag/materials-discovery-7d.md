@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21162.html">AI-Driven Scientific Computing Workflows: A Systems Review of Orchestration, Execution, Reproducibility and Provenance</a></div></td>
+<td>Jamie J. Alnasir</td>
+<td><a href="http://arxiv.org/abs/2609.21162">2609.21162</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
 <td>Sushant Sinha et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17646.html">Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
 <td>Kishalay Das</td>
 <td><a href="http://arxiv.org/abs/2609.17646">2609.17646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Tsz Wai Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
 </tr>
 </tbody></table>

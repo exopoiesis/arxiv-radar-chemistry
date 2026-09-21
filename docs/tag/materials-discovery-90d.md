@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21162.html">AI-Driven Scientific Computing Workflows: A Systems Review of Orchestration, Execution, Reproducibility and Provenance</a></div></td>
+<td>Jamie J. Alnasir</td>
+<td><a href="http://arxiv.org/abs/2609.21162">2609.21162</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Sushant Sinha et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01004.html">Complex crystal structure prediction using ML-enhanced multi-minima iterative genetic algorithm</a></div><div class="paper-tags"><a href="metadynamics-90d.html">metadynamics</a></div></td>
 <td>Ling Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01004">2607.01004</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22885.html">Interfacial-melt stability as a thermodynamic prerequisite for solid-state synthesis</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zihan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22885">2606.22885</a></td>
 </tr>
 </tbody></table>

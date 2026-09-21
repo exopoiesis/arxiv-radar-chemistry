@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">530 papers</span>
+  <span class="paper-count">526 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21165.html">SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity</a></div></td>
+<td>Thao Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21165">2609.21165</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19476.html">Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
@@ -3164,35 +3170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21737.html">POLO: Preference-Guided Multi-Turn Reinforcement Learning for Lead Optimization</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Ziqing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21737">2509.21737</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20664.html">Enhancing Molecular Property Prediction with Knowledge from Large Language Models</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Peng Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20664">2509.20664</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20693.html">Learning to Align Molecules and Proteins: A Geometry-Aware Approach to Binding Affinity</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Mohammadsaleh Refahi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20693">2509.20693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20978.html">FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Xiangyu Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20978">2509.20978</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20988.html">AOT*: Efficient Synthesis Planning via LLM-Empowered AND-OR Tree Search</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Xiaozhuang Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20988">2509.20988</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21424.html">PhenoMoler: Phenotype-Guided Molecular Optimization via Chemistry Large Language Model</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Ran Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21424">2509.21424</a></td>
 </tr>
 </tbody></table>

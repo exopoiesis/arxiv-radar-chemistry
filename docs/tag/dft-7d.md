@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,53 +254,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Djardiel S. Gomes et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14906.html">Neural-Network Solutions to Real-Space Charge Density and Generalization</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Yuxuan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14906">2609.14906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15136.html">Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Longfei Lv et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15136">2609.15136</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15151.html">Evaluating Predicted Densities, Hamiltonians, and Density Matrices as Periodic SCF Initializers</a></div></td>
-<td>Pin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15151">2609.15151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15299.html">Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A CdSe Case Study</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>M. Usman et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15299">2609.15299</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15551.html">Gate-tunable magnetic damping in van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Lukas Cvitkovich et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15551">2609.15551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15845.html">Exchange-Correlation Potentials and Energies from Inverse Generalized Kohn-Sham Calculations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Vishal Subramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15845">2609.15845</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16408.html">Highly Parallel Real-Space Random Phase Approximation Using Lanczos Quadrature and Interpolation</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Abir Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16408">2609.16408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16441.html">Full Minimal Coupling All-Electron Real-Time TDDFT for X-Ray-Matter Interactions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Daniel Schacher et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16441">2609.16441</a></td>
 </tr>
 </tbody></table>

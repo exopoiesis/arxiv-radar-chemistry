@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">424 papers</span>
+  <span class="paper-count">421 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2540,23 +2540,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08316.html">Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion</a></div></td>
 <td>Alan N. Amin et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08316">2506.08316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16790.html">Learning Flexible Forward Trajectories for Masked Molecular Diffusion</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Hyunjin Seo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16790">2505.16790</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06546.html">Orbital Hall conductivity and orbital diffusion length of Vanadium thin films by Hanle magnetoresistance</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>M. Xochitl Aguilar-Pujol et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06546">2506.06546</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22112.html">Large Material Gaussian Model for Relightable 3D Generation</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jingrui Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22112">2509.22112</a></td>
 </tr>
 </tbody></table>

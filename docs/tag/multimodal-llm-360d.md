@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multimodal-llm — 360d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <strong>360d</strong> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,11 +566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23242.html">TATTOO: Training-free AesTheTic-aware Outfit recOmmendation</a></div></td>
 <td>Yuntian Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23242">2509.23242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22853.html">Patient-specific Biomolecular Instruction Tuning</a></div></td>
-<td>Irsyad Adam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22853">2509.22853</a></td>
 </tr>
 </tbody></table>

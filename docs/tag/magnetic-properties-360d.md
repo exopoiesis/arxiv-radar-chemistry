@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">344 papers</span>
+  <span class="paper-count">342 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2066,17 +2066,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21908.html">Spin non-Collinear Real-Time Time-Dependent Density-Functional Theory and Implementation in the Modern GPU-Accelerated INQ code</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Jacopo Simoni et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21908">2506.21908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06546.html">Orbital Hall conductivity and orbital diffusion length of Vanadium thin films by Hanle magnetoresistance</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>M. Xochitl Aguilar-Pujol et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06546">2506.06546</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22866.html">Non-Altermagnetic Origin of Exchange Bias Behaviors in Incoherent RuO$_2$/Fe Bilayer Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Shelby S. Fields et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22866">2509.22866</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,23 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26405.html">Refine Drugs, Don&#x27;t Complete Them: Uniform-Source Discrete Flows for Fragment-Based Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Benno Kaech et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26405">2509.26405</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01423.html">Conditional Latent Space Molecular Scaffold Optimization for Accelerated Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Onur Boyar et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01423">2411.01423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16790.html">Learning Flexible Forward Trajectories for Masked Molecular Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Hyunjin Seo et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16790">2505.16790</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21737.html">POLO: Preference-Guided Multi-Turn Reinforcement Learning for Lead Optimization</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Ziqing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21737">2509.21737</a></td>
 </tr>
 </tbody></table>

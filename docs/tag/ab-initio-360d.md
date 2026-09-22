@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1536 papers</span>
+  <span class="paper-count">1532 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9206,29 +9206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23476.html">Accelerating Crystal Structure Prediction Using Data-Derived Potentials: High-Pressure Binary Hydrides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Lewis J. Conway et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23476">2509.23476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21944.html">Modeling the Equilibrium Vacancy Concentration in Multi-Principal Element Alloys from First-Principles</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Damien K. J. Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21944">2509.21944</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21956.html">Challenges and opportunities in proximity-driven exciton-spin engineering in van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Mushir Thodika et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21956">2509.21956</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22012.html">An empirical potential to simulate helium and hydrogen in highly irradiated tungsten</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Samanyu Tirumala et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22012">2509.22012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22388.html">Linear-scaling calculation of experimental observables for molecular augmented dynamics simulations</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Tigany Zarrouk et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22388">2509.22388</a></td>
 </tr>
 </tbody></table>

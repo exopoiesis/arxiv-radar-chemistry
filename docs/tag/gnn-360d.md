@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">372 papers</span>
+  <span class="paper-count">370 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2234,17 +2234,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24115.html">ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Evan Dramko et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24115">2509.24115</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22028.html">MCGM: Multi-stage Clustered Global Modeling for Long-range Interactions in Molecules</a></div></td>
-<td>Haodong Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22028">2509.22028</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22468.html">Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Boshra Ariguib et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22468">2509.22468</a></td>
 </tr>
 </tbody></table>

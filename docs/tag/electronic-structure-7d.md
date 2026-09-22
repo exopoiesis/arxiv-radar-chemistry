@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19117.html">Floquet-Plasmon Enhanced Charge Transfer at Catalytic Interfaces</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
 <td>Annabelle Canestraight et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19117">2609.19117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14906.html">Neural-Network Solutions to Real-Space Charge Density and Generalization</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Yuxuan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14906">2609.14906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15196.html">Band-Saddle-Point Engineering in Mixed $A$-site $A$V$_3$Sb$_5$ Kagome Metals</a></div></td>
-<td>Maxim Wenzel et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15196">2609.15196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15898.html">Toward Predictive Hydride Bond Energetics with Neural-Network Wavefunctions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Aqsa Shaikh et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15898">2609.15898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16408.html">Highly Parallel Real-Space Random Phase Approximation Using Lanczos Quadrature and Interpolation</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Abir Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16408">2609.16408</a></td>
 </tr>
 </tbody></table>

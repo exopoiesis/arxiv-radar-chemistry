@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">469 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2828,11 +2828,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23273.html">SynDoc: A Hybrid Discriminative-Generative Framework for Enhancing Synthetic Domain-Adaptive Document Key Information Extraction</a></div></td>
 <td>Yihao Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23273">2509.23273</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01423.html">Conditional Latent Space Molecular Scaffold Optimization for Accelerated Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Onur Boyar et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01423">2411.01423</a></td>
 </tr>
 </tbody></table>

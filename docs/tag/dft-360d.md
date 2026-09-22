@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2015 papers</span>
+  <span class="paper-count">2009 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12068,41 +12068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23476.html">Accelerating Crystal Structure Prediction Using Data-Derived Potentials: High-Pressure Binary Hydrides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Lewis J. Conway et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23476">2509.23476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05332.html">Constrained Search in Imaginary Time</a></div></td>
-<td>Markus Penz et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05332">2504.05332</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08395.html">Learning the bulk and interfacial physics of liquid-liquid phase separation with neural density functionals</a></div></td>
-<td>Silas Robitschko et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08395">2507.08395</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21944.html">Modeling the Equilibrium Vacancy Concentration in Multi-Principal Element Alloys from First-Principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Damien K. J. Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21944">2509.21944</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22006.html">Isoenergetic description of induced fission pathways within energy-density functional theory</a></div></td>
-<td>Alan A. Dzhioev et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22006">2509.22006</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22809.html">Unraveling the role of disorder in the electronic structure of high entropy alloys</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Neeraj Bhatt et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22809">2509.22809</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22866.html">Non-Altermagnetic Origin of Exchange Bias Behaviors in Incoherent RuO$_2$/Fe Bilayer Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shelby S. Fields et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22866">2509.22866</a></td>
 </tr>
 </tbody></table>

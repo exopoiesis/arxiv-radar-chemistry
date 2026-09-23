@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,11 +776,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05543.html">Probing orbital currents through inverse orbital Hall and Rashba effects</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>E. Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05543">2510.05543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23193.html">Thermally Activated Plasticity in Single-Crystal Titanium: A Molecular Dynamics Study of Nanoscale Deformation</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>G. Markovic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23193">2509.23193</a></td>
 </tr>
 </tbody></table>

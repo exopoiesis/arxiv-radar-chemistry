@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2009 papers</span>
+  <span class="paper-count">2006 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12050,23 +12050,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23545.html">DFT prediction of new o-MAX phases: Mo2A2AlC3 (A = Zr, Nb, Ta) for next-generation thermal barrier coatings</a></div></td>
 <td>M. I. A. Tanim et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23545">2509.23545</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23033.html">Hund&#x27;s physics extends to actinide f electron systems</a></div></td>
-<td>Byungkyun Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23033">2509.23033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23156.html">CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Prashant Govindarajan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23156">2509.23156</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23476.html">Accelerating Crystal Structure Prediction Using Data-Derived Potentials: High-Pressure Binary Hydrides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Lewis J. Conway et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23476">2509.23476</a></td>
 </tr>
 </tbody></table>

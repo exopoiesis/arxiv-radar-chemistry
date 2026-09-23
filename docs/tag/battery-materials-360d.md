@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">180 papers</span>
+  <span class="paper-count">179 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1088,11 +1088,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00278.html">Search for Active and Inactive Ion Insertion Sites in Organic Crystalline Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Harshan Reddy Gopidi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00278">2510.00278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23034.html">Correlative 3D Mapping of Structure, Composition, and Valence State Dynamics in Battery Cathodes via Simultaneous ADF-EDS-EELS Tomography</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jaewhan Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23034">2509.23034</a></td>
 </tr>
 </tbody></table>

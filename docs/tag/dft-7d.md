@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,71 +188,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
 <td>Jaehyung Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15340.html">Optical properties of single-crystal As2Se3 from first principles</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Juan J. Meléndez</td>
-<td><a href="http://arxiv.org/abs/2609.15340">2609.15340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16526.html">Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16526">2609.16526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16615.html">Revisiting nuclear chirality in $^{128}$Cs with relativistic configuration-interaction density functional theory</a></div></td>
-<td>Yakun Wang</td>
-<td><a href="http://arxiv.org/abs/2609.16615">2609.16615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16620.html">Application of Regional Chemical Potential Analysis to Si Adsorption on the Diamond (001) Surface</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Masahiro Fukuda et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16620">2609.16620</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16725.html">Electrical Probing of Sub-Néel Spin Dynamics in Two-Dimensional Antiferromagnets Using Graphene Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Adrián García-Martín et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16725">2609.16725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17063.html">Development of a Physics-Informed Neural Framework, MEOWN, for Rapid Prediction of Muon Stopping Sites in Crystalline Materials, for understanding Quantum Magnet employing Muon Spectroscopy</a></div></td>
-<td>A. Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17063">2609.17063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17385.html">A note on the accuracy of spin-densities from Kohn-Sham Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Rodrigo A. Mendes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17385">2609.17385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17646.html">Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Kishalay Das</td>
-<td><a href="http://arxiv.org/abs/2609.17646">2609.17646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17741.html">A Multipolar Approach to Sliding Ferroelectricity</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Matthew Dykes</td>
-<td><a href="http://arxiv.org/abs/2609.17741">2609.17741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Zhengqing Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Djardiel S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 </tbody></table>

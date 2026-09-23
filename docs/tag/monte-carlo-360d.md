@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1904,11 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25490.html">Kinetic Monte Carlo prediction of the morphology of pentaerythritol tetranitrate</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Jacob Jeffries et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25490">2509.25490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23211.html">Selective nonthermal melting in phlogopite under ultrafast energy deposition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Nikita Medvedev</td>
-<td><a href="http://arxiv.org/abs/2509.23211">2509.23211</a></td>
 </tr>
 </tbody></table>

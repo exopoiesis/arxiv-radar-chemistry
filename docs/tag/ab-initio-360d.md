@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1532 papers</span>
+  <span class="paper-count">1529 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9188,23 +9188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24115.html">ADAPT: Lightweight, Long-Range Machine Learning Force Fields Without Graphs</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Evan Dramko et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24115">2509.24115</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23018.html">Advancing Quantum Many-Body GW Calculations on Exascale Supercomputing Platforms</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Benran Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23018">2509.23018</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23354.html">Ab initio study of island of inversion in odd-$A$ nuclei: Structure of $^{31,33}$Mg</a></div></td>
-<td>Subhrajit Sahoo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23354">2509.23354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23476.html">Accelerating Crystal Structure Prediction Using Data-Derived Potentials: High-Pressure Binary Hydrides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Lewis J. Conway et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23476">2509.23476</a></td>
 </tr>
 </tbody></table>

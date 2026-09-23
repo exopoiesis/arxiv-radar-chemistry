@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">309 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1862,11 +1862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11721.html">Influence of Platinum Thin Films on the Photophysical and Quantum Properties of Near-Surface NV Centers</a></div></td>
 <td>Joachim P. Leibold et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11721">2510.11721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23034.html">Correlative 3D Mapping of Structure, Composition, and Valence State Dynamics in Battery Cathodes via Simultaneous ADF-EDS-EELS Tomography</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jaewhan Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23034">2509.23034</a></td>
 </tr>
 </tbody></table>

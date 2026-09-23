@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,23 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="gnn-7d.html">gnn</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
 <td>Jaehyung Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12401.html">Optimization of ReaxFF parameters for the $\mathrm{Mo-S}$ system using random optimization and coordinate search</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Arun Ravichandran et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12401">2609.12401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16526.html">Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16526">2609.16526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17514.html">Molecular Decomposition of the Area Compressibility Modulus of Lipid Membranes</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Konstantin V. Pinigin</td>
-<td><a href="http://arxiv.org/abs/2609.17514">2609.17514</a></td>
 </tr>
 </tbody></table>

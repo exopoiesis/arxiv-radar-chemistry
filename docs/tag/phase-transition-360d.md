@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">209 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,17 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03541.html">Defect analysis of the $β$- to $γ$-Ga$_{2}$O$_{3}$ phase transition</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Umutcan Bektas et al.</td>
 <td><a href="http://arxiv.org/abs/2505.03541">2505.03541</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23034.html">Correlative 3D Mapping of Structure, Composition, and Valence State Dynamics in Battery Cathodes via Simultaneous ADF-EDS-EELS Tomography</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Jaewhan Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23034">2509.23034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23211.html">Selective nonthermal melting in phlogopite under ultrafast energy deposition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Nikita Medvedev</td>
-<td><a href="http://arxiv.org/abs/2509.23211">2509.23211</a></td>
 </tr>
 </tbody></table>

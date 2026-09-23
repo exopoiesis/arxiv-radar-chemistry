@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>catalysis — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19117.html">Floquet-Plasmon Enhanced Charge Transfer at Catalytic Interfaces</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Annabelle Canestraight et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19117">2609.19117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16659.html">Approximate synthesis of general single-qubit unitaries over the Clifford+$\sqrt{T}$ gate set</a></div></td>
-<td>Mathias Weiden et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16659">2609.16659</a></td>
 </tr>
 </tbody></table>

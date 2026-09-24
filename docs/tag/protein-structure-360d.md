@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">240 papers</span>
+  <span class="paper-count">239 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1448,11 +1448,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25509.html">Can Molecular Foundation Models Know What They Don&#x27;t Know? A Simple Remedy with Preference Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Langzhou He et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25509">2509.25509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20346.html">PDFBench: A Benchmark for De novo Protein Design from Function</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Jiahao Kuang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20346">2505.20346</a></td>
 </tr>
 </tbody></table>

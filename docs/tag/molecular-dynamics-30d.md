@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div></td>
 <td>Tanner A. Wilcoxson et al.</td>
@@ -722,17 +734,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24979.html">FrontierChallenge: Evaluating Scientific Workflow Completion</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Liangcai Su et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24979">2608.24979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22841.html">Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Xingfei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22841">2608.22841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22871.html">Binding Affinity between Polymer Dots (Pdots) and Ovalbumin Protein at Varying pH</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Xingfei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22871">2608.22871</a></td>
 </tr>
 </tbody></table>

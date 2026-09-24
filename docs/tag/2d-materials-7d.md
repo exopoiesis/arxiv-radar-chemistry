@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20019.html">Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Nguyen Tran Gia Bao et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20616.html">Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Yogendra Limbu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20616">2609.20616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19408.html">Multiferroic Quantum Dot in an Artificial van der Waals Heterostructure</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Antti Karjasilta et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19408">2609.19408</a></td>
 </tr>
 </tbody></table>

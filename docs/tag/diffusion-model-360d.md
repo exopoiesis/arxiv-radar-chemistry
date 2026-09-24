@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">419 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2528,11 +2528,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25490.html">Kinetic Monte Carlo prediction of the morphology of pentaerythritol tetranitrate</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Jacob Jeffries et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25490">2509.25490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16735.html">Token-Level Guided Discrete Diffusion for Membrane Protein Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Shrey Goel et al.</td>
-<td><a href="http://arxiv.org/abs/2410.16735">2410.16735</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,35 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Anooja Jayaraj et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17036.html">How Small is Large Enough? Determining Minimal Cluster Sizes for Molecule Adsorption on Interstellar Amorphous Ice</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Erik C. Neyts et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17036">2609.17036</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18113.html">Nitrogen based electride superconductor Nb5Ir3N under pressure: multifunctional physical properties from DFT based first-principles investigation</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>M. Abdul Hadi Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18113">2609.18113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18365.html">Electronic Origins of Elastic Behavior in Rocksalt, Zinc-Blende and Wurtzite 3d Transition-Metal Nitrides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Jesus Cañas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18365">2609.18365</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>R. Mathew Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19117.html">Floquet-Plasmon Enhanced Charge Transfer at Catalytic Interfaces</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
-<td>Annabelle Canestraight et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19117">2609.19117</a></td>
 </tr>
 </tbody></table>

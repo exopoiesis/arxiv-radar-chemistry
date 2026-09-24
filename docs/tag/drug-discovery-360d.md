@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">523 papers</span>
+  <span class="paper-count">519 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3128,29 +3128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25509.html">Can Molecular Foundation Models Know What They Don&#x27;t Know? A Simple Remedy with Preference Optimization</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Langzhou He et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25509">2509.25509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01651.html">FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</a></div></td>
-<td>Zhaohan Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01651">2406.01651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16735.html">Token-Level Guided Discrete Diffusion for Membrane Protein Design</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Shrey Goel et al.</td>
-<td><a href="http://arxiv.org/abs/2410.16735">2410.16735</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20346.html">PDFBench: A Benchmark for De novo Protein Design from Function</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Jiahao Kuang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20346">2505.20346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23822.html">Space Group Conditional Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Omri Puny et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23822">2509.23822</a></td>
 </tr>
 </tbody></table>

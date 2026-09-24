@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20592.html">CrystalMO-TuRBO: Multi-Objective Trust-Region Bayesian Optimization for High-precision Joint Crystal Structure Refinement</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
 <td>Joseph Agada et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20592">2609.20592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19476.html">Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Donney Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19476">2609.19476</a></td>
 </tr>
 </tbody></table>

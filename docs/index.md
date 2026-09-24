@@ -5,15 +5,45 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-09-23._
+_Updated 2026-09-24._
 
-**15978** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**15983** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25523.html">Learning continuous reaction paths for transition-state prediction</a></div></td>
+<td>Yexiang Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25523">2609.25523</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25536.html">Kinetic Interference in Translational Control: A Path-Measure Framework for Collision-Triggered Transcript Decay</a></div></td>
+<td>Shlomo Segal</td>
+<td><a href="http://arxiv.org/abs/2609.25536">2609.25536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25936.html">Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
+<td>Jialiang Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25936">2609.25936</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21162.html">AI-Driven Scientific Computing Workflows: A Systems Review of Orchestration, Execution, Reproducibility and Provenance</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
@@ -163,35 +193,5 @@ _Updated 2026-09-23._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19535.html">Symmetry-driven correlation patterns in one-dimensional periodic fermionic systems: closed-form expressions and exact selection rules for correlation functions, entanglement entropies and mutual information</a></div><div class="paper-tags"><a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Celestino Angeli</td>
 <td><a href="http://arxiv.org/abs/2609.19535">2609.19535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div><div class="paper-tags"><a href="tag/bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/materials-science-30d.html">materials-science</a></div></td>
-<td>Sushant Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19550">2609.19550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19584.html">Efficient tensorized evaluation of permutation invariant polynomials for representing potential energy surfaces</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Junhong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19584">2609.19584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19646.html">Sensitivity of Nucleation Thermodynamics and Kinetics to the Treatment of Long-Range Interactions</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/phase-transition-30d.html">phase-transition</a></div></td>
-<td>Fernanda Sulantay Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19646">2609.19646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19770.html">TorchCraft: Unified binder design by inverting an all-atom structure predictor</a></div><div class="paper-tags"><a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
-<td> TorchCraft Team et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19770">2609.19770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19789.html">Contagion on the Trading Floor: How Adversarial Signals Spread in Multi-Agent Trading Systems</a></div></td>
-<td>Qi Rong Sua et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19789">2609.19789</a></td>
 </tr>
 </tbody></table>

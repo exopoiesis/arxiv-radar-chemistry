@@ -11973,5 +11973,144 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-09-18"
+ },
+ "2609.25523": {
+  "abstract": "Transition states are defined by reaction pathways, yet most machine-learning methods predict them as isolated geometries. We introduce MARC-TS, a two-stage framework that learns a continuous, endpoint-conditioned path, queries it at any resolution and uses local path context to refine a transition-state candidate. We construct T1x-IRC-8K, a dataset of 8,209 reactions and 1,088,725 path-resolved geometries. On held-out reactions, the path model reduced complete-path error by 48.4% relative to endpoint interpolation, and the localizer achieved a mean aligned structural error of 0.127 Å. Quantum-chemical optimization and vibrational analysis yielded 405 frequency-confirmed first-order saddle-point candidates from 410 predictions. In a 100-reaction nudged elastic band comparison, learned-path initialization reached a joint geometry-and-force target for 66% of reactions, compared with 12% for geometric interpolation after 100 optimizer steps. By treating the path as a reusable representation rather than an auxiliary output, MARC-TS connects transition-state prediction, mechanistic interpretation and quantum-chemical refinement.",
+  "authors": [
+   "Yexiang Yang",
+   "Linlin Zhong"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "32 pages, 16 figures",
+  "first_author": "Yexiang Yang",
+  "pdf_url": "http://arxiv.org/pdf/2609.25523",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-09-22",
+  "tags": [],
+  "title": "Learning continuous reaction paths for transition-state prediction",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.25536": {
+  "abstract": "I connect two literatures developed independently: the path-measure formulation of non-equilibrium statistical mechanics, where a trajectory action decomposes into a time-antisymmetric (entropic) and time-symmetric (frenetic) sector, and the stochastic modelling of ribosomal traffic on messenger RNA. The biological target is a proposed intervention -- antisense oligonucleotide (ASO) interference with wobble-uridine (U34) modification of transfer RNA -- whose intended effect is not to abolish translation but to perturb its timing, driving ribosome collisions and collision-triggered transcript decay preferentially on high-flux, codon-biased transcripts.   Dynamical-activity and large-deviation analyses of generic lattice exclusion models -- notably the symmetric and totally asymmetric simple exclusion processes -- are well established. To my knowledge their formalization specifically for ribosomal traffic queues, translation elongation, and collision-triggered no-go decay remains unoccupied; this paper addresses that narrower gap, not the general one.   Two claims here are load-bearing and untested. First, selectivity: transcripts whose loss is therapeutically desirable are separable, by vulnerable-codon-pair burden, from transcripts whose loss is toxic. Second, non-redundancy: the frenetic decomposition yields predictions, specific to ribosomal queueing and collision-triggered decay, not already obtainable from rate-level exclusion-process models or existing activity/large-deviation analyses of exclusion processes. This paper establishes neither. It specifies both as falsifiable tests with pre-registered decision rules, including outcomes under which the framework should be abandoned or narrowed. It is a research programme proposal, not a result. No new experimental, computational, or bioinformatic results are reported.",
+  "authors": [
+   "Shlomo Segal"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "7 pages, no figures",
+  "first_author": "Shlomo Segal",
+  "pdf_url": "http://arxiv.org/pdf/2609.25536",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-22",
+  "tags": [],
+  "title": "Kinetic Interference in Translational Control: A Path-Measure Framework for Collision-Triggered Transcript Decay",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.25936": {
+  "abstract": "We demonstrate spin--orbit-coupling (SOC) catalysis of magnetization-sector transfer in the half-filled Fermi--Hubbard model. Without SOC, conservation of total magnetization confines the dynamics to the initial sector, preventing an antiferromagnetically correlated state from reaching the polarized ferromagnetic sector under a Zeeman ramp. A transient SOC control lifts this obstruction by coupling otherwise disconnected magnetization sectors and converting symmetry-protected crossings into avoided crossings, thereby opening a finite-gap pathway for magnetic-state conversion. We further accelerate the SOC-enabled dynamics beyond the adiabatic timescale using gradient-ascent pulse engineering (GRAPE) and a variational quantum circuit. Both approaches achieve rapid magnetization transfer in one- and two-dimensional Fermi--Hubbard lattices. Our results establish transient SOC as a controllable catalyst for overcoming symmetry-imposed dynamical constraints, while optimal control sets the timescale for the resulting magnetization-sector transfer.",
+  "authors": [
+   "Jialiang Tang",
+   "Ruoqian Xu",
+   "Gloria Platero",
+   "Yue Ban",
+   "Xi Chen"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "Main text: 7 pages, 4 figures. Supplemental Material: 12 pages, 4 figures",
+  "first_author": "Jialiang Tang",
+  "pdf_url": "http://arxiv.org/pdf/2609.25936",
+  "primary_category": "quant-ph",
+  "published": "2026-09-22",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26685": {
+  "abstract": "The structure of interfacial water at electrified metal electrodes is known to affect electrocatalysis, and experiments highlight its sensitivity to electrolyte ion identity and applied bias. To disentangle generic charge-controlled structural changes from ion-specific effects, we compare ab initio molecular dynamics water structures at electrified Pt(111) generated with two very different biasing schemes: an explicit ion imbalance in the double layer and homogeneously distributed partially charged hydrogen atoms. Despite these distinct counter-charge representations, both approaches yield a consistent average response of the first water bilayer, in particular of the chemisorbed first layer, when compared on a common surface-charge scale. Method-dependent differences, in particular those associated with explicit electrolyte ions, become apparent only in more local structural descriptors. The hydrogen-bond topology reveals charge-dependent chain-to-ring rearrangements, with explicit ions enhancing ring populations near the potential of zero charge. Layer-resolved vibrational density of states (VDOS) assigns the strongest O-H stretching perturbation to chemisorbed first-layer water and identifies high-frequency signatures of ion-coordinated water, while computed vibrational sum-frequency generation (VSFG) spectra show that the physisorbed, electrolyte-facing region is particularly sensitive to the counter-charge representation. These results suggest that surface charge controls the average structural response, whereas electrolyte ions and their solvation shells become visible only when locally refined descriptors are investigated or probed, e.g. the H-bond network topology and vibrational fingerprints of the interfacial bilayer.",
+  "authors": [
+   "Thorben Eggert",
+   "Lang Li",
+   "Yair Litman",
+   "Karsten Reuter",
+   "Nicolas G. Hoermann",
+   "Clotilde S. Cucinotta"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "32 pages, 5 figures, 1 table. Supporting Information (14 pages, 14 figures, 1 table) appended",
+  "first_author": "Thorben Eggert",
+  "pdf_url": "http://arxiv.org/pdf/2609.26685",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-22",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "battery-materials",
+   "electrocatalysis",
+   "molecular-dynamics"
+  ],
+  "title": "Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.28013": {
+  "abstract": "Machine-learned interatomic potentials (MLIPs) for solid-liquid interfaces in advanced materials applications, e.g., electrochemistry, catalysis and corrosion, require training data that samples both liquid environments, the solid and the interface itself. We present SoLiD26, a curated solid-liquid interface dataset, containing 15.4 million first-principles atomic structures with up to 576 atoms and 15 chemical elements for training and evaluating MLIPs. The structures were compiled from density functional theory (DFT) calculations performed in studies of solid-liquid interfaces, with most configurations originating from ab initio molecular dynamics (AIMD) simulations. Each record contains atomic species, positions, simulation cell, periodic boundary conditions, potential energy and atomic forces. SoLiD26 includes aqueous coinage metal interfaces, electrode-electrolyte systems, and selected bulk reference structures, calculated with VASP using the PBE functional and D3 dispersion corrections. We describe the data ingestion and preparation pipeline used to construct the dataset. The application of SoLiD26 for training and evaluating MLIPs is demonstrated with a suite of MACE models on a simple training, validation and test split. The dataset enables development and benchmarking of MLIPs for structurally and chemically heterogeneous solid-liquid interfaces.",
+  "authors": [
+   "Jonas Busk",
+   "Emil J. P. Frost",
+   "Yogeshwaran Krishnan",
+   "Henrik H. Kristoffersen",
+   "August E. G. Mikkelsen",
+   "Xueping Qin",
+   "Xin Yang",
+   "Heine A. Hansen",
+   "Arghya Bhowmik",
+   "Tejs Vegge"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Jonas Busk",
+  "pdf_url": "http://arxiv.org/pdf/2609.28013",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-23",
+  "tags": [
+   "ab-initio",
+   "battery-materials",
+   "catalysis",
+   "dft",
+   "free-energy",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-09-23"
  }
 }

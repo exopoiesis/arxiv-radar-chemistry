@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21536.html">From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="mof-30d.html">mof</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
@@ -890,29 +896,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25154.html">An embedding method with constant potential boundary conditions</a></div></td>
 <td>Lisa Hetzel et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25154">2608.25154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22666.html">High-throughput identification of ferromagnetic Kagome candidates in the AT6X4 and AT6X5 families</a></div></td>
-<td>Shiya Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22666">2608.22666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22700.html">Chiral Phonons and Giant Anisotropic Photoresponse in Quasi-1D van der Waals Semiconductor ZrSnS3</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Zahir Muhammad et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22700">2608.22700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23112.html">Z1 oscillations and charge state in electronic stopping power from first principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Noor Ul Ain et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23112">2608.23112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23895.html">Learning the Kohn-Sham map with neural operators for quasi-linear scaling density functional theory</a></div></td>
-<td>Danish Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23895">2608.23895</a></td>
 </tr>
 </tbody></table>

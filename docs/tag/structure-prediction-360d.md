@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,11 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25379.html">Let Physics Guide Your Protein Flows: Topology-aware Unfolding and Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Yogesh Verma et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25379">2509.25379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23822.html">Space Group Conditional Flow Matching</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Omri Puny et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23822">2509.23822</a></td>
 </tr>
 </tbody></table>

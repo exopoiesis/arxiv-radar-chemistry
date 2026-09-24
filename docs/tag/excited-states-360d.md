@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">216 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1298,17 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26390.html">Precision measurement and modelling of the threshold-free 210Pb β spectrum</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Shuo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26390">2509.26390</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21908.html">Spin non-Collinear Real-Time Time-Dependent Density-Functional Theory and Implementation in the Modern GPU-Accelerated INQ code</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jacopo Simoni et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21908">2506.21908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23634.html">Tetratomic states of microwave dressed and associated ultracold 23Na40K molecules</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Zhengyu Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23634">2509.23634</a></td>
 </tr>
 </tbody></table>

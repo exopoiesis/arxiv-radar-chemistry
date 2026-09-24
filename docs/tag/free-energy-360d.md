@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">329 papers</span>
+  <span class="paper-count">328 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21935.html">fix uvt and fix pimd/uvt: A Unified LAMMPS Framework for Constant-Potential Constant-Temperature Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1976,17 +1982,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24206.html">The role of the solid-melt interface in accelerating the self-catalyzed growth kinetics of III-V semiconductors</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Zhucong Xi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24206">2509.24206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19438.html">Gradient-based grand canonical optimization enabled by graph neural networks with fractional atomic existence</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Mads-Peter Verner Christiansen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19438">2507.19438</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23854.html">Quantum calculation of the collision-induced line-shape effects in antiprotonic helium and the new accurate ab initio $\bar{p}$He$^{+}$-He potential energy surface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Hubert J. Jóźwiak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23854">2509.23854</a></td>
 </tr>
 </tbody></table>

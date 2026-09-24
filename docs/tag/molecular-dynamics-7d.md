@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="catalysis-7d.html">catalysis</a> · <a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div></td>
@@ -110,53 +122,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20986.html">Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Sabine Leroch et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20986">2609.20986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18389.html">Moment-informed force rescaling for random-batch Langevin dynamics</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Xingguo Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18389">2609.18389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18524.html">Conformational landscape of a macrocycle from REST enhanced sampling</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="replica-exchange-7d.html">replica-exchange</a></div></td>
-<td>Valentin Kasper et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18524">2609.18524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18604.html">Load balancing for adaptive-precision interatomic potentials in materials science</a></div></td>
-<td>David Immel et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18604">2609.18604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19355.html">Pressure-dependent melting and crystallization of B2-NiAl from neural-network molecular dynamics</a></div></td>
-<td>A. S. Onegin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19355">2609.19355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19388.html">Machine-Learned Dynamical Representations for Accelerated RiteWeight Convergence</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Sagar Kania</td>
-<td><a href="http://arxiv.org/abs/2609.19388">2609.19388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Anoop Ajaya Kumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Jaehyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
 </tr>
 </tbody></table>

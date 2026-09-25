@@ -16,6 +16,30 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29740.html">TopU-LBVS: A Realistic Multi Target Benchmark for Ligand Based Virtual Screening</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Surbhi Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29740">2609.29740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28665.html">OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Miroslav Lžičař</td>
+<td><a href="http://arxiv.org/abs/2609.28665">2609.28665</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24302.html">Adapting Boltz-2 with limited experimental activity data improves early enrichment in virtual screening</a></div></td>
+<td>Kairi Furui et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24302">2609.24302</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25355.html">MolExplain: An Interactive Tool for Explainable Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Pirm Dhararag et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25355">2609.25355</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21165.html">SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity</a></div></td>
 <td>Thao Nguyen et al.</td>
@@ -3104,29 +3128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03309.html">Thin Bridges for Drug Text Alignment: Lightweight Contrastive Learning for Target Specific Drug Retrieval</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
 <td>Mallikarjuna Tupakula</td>
 <td><a href="http://arxiv.org/abs/2510.03309">2510.03309</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11757.html">A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Yuehua Song et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11757">2507.11757</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09451.html">Composable Score-based Graph Diffusion Model for Multi-Conditional Molecular Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Anjie Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09451">2509.09451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24895.html">Towards Understanding the Shape of Representations in Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Kosio Beshkov et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24895">2509.24895</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25509.html">Can Molecular Foundation Models Know What They Don&#x27;t Know? A Simple Remedy with Preference Optimization</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Langzhou He et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25509">2509.25509</a></td>
 </tr>
 </tbody></table>

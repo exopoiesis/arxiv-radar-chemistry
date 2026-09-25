@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">419 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2504,29 +2504,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00351.html">Flow Autoencoders are Effective Protein Tokenizers</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Rohit Dilip et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00351">2510.00351</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09284.html">Generating Full-field Evolution of Physical Dynamics from Irregular Sparse Observations</a></div></td>
-<td>Panqi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09284">2505.09284</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09451.html">Composable Score-based Graph Diffusion Model for Multi-Conditional Molecular Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Anjie Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09451">2509.09451</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21541.html">ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Weikai Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21541">2509.21541</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25490.html">Kinetic Monte Carlo prediction of the morphology of pentaerythritol tetranitrate</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Jacob Jeffries et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25490">2509.25490</a></td>
 </tr>
 </tbody></table>

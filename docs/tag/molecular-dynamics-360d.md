@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1537 papers</span>
+  <span class="paper-count">1531 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9200,41 +9200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26199.html">Improved capabilities of the TurboGAP code for radiation induced cascade simulations: an illustration with silicon</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Uttiyoarnab Saha et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26199">2509.26199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17132.html">Molecular augmented dynamics: Generating experimentally consistent atomistic structures by design</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Tigany Zarrouk et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17132">2508.17132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20662.html">Atomistic Insights into Cu/amorphous-Ta$_x$N Interfacial Adhesion via Machine Learning Interatomic Potentials: Effects of Stoichiometry and Interface Construction</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Jeong Min Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20662">2509.20662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24195.html">Effect of Tube Radius on the Adsorption of Chlorothalonil on Single-Walled Carbon and Boron Nitride Nanotube Surfaces: A Theoretical Study for Environmental Remediation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Francisco Gleidson de S. Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24195">2509.24195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24205.html">Demagnetization-Driven Nanoscale Chirality-Selective Thermal Switch</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>In Hyeok Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24205">2509.24205</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24742.html">Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems</a></div></td>
-<td>Weihang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24742">2509.24742</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24915.html">Impact of Atomic Substitution on Core-Hole Relaxation Dynamics: A Study of Br$_2$ and IBr</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Nivedita Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24915">2509.24915</a></td>
 </tr>
 </tbody></table>

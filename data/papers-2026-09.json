@@ -11974,6 +11974,57 @@
   ],
   "updated": "2026-09-18"
  },
+ "2609.24302": {
+  "abstract": "Virtual screening aims to prioritize active compounds from large chemical libraries within a limited experimental budget. When applying Boltz-2 to virtual screening, a key challenge is how to use limited experimental data from the target assay to improve the prioritization of active compounds. We investigated whether fine-tuning the Boltz-2 affinity heads with a small number of binary activity labels could improve early enrichment of active compounds in hit discovery. We compared fine-tuning with 40-300 labels in a retrospective evaluation on eight MF-PCBA targets. With 300 activity measurements, fine-tuning increased the number of actives in the top 1% by a geometric mean of 1.77-fold across the eight targets and improved average precision (AP) by 2.14-fold relative to the control without fine-tuning. We also investigated whether rescoring a subset of candidates could retain the improvement in hit recovery by reranking only the top-ranked Boltz-2 candidates with the fine-tuned head. Restricting rescoring to approximately 10% of the evaluation set retained hit recovery comparable to full rescoring. These findings show that affinity-head fine-tuning with limited activity labels improves early enrichment with Boltz-2 and that this benefit can be retained when rescoring a restricted set of candidates.",
+  "authors": [
+   "Kairi Furui",
+   "Masahito Ohue"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cs.AI",
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Kairi Furui",
+  "pdf_url": "http://arxiv.org/pdf/2609.24302",
+  "primary_category": "q-bio.BM",
+  "published": "2026-09-21",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "Adapting Boltz-2 with limited experimental activity data improves early enrichment in virtual screening",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-21"
+ },
+ "2609.25355": {
+  "abstract": "The application of machine learning to molecular property prediction has become increasingly prevalent in drug discovery, yet most models operate as black boxes, returning a prediction without revealing which structural features drive it. MolExplain addresses this gap by combining property prediction with sub-structure level visual explainability in an interactive web interface. The system featurizes molecules as Morgan fingerprints, classifies them using a trained XGBoost model, and applies SHAP attribution to produce a smooth heatmap overlay indicating which regions of the molecule contribute for or against the predicted property. Applied to cyclic peptide membrane permeability, the tool's attribution independently recovers the known role of backbone N-methylation in improving passive membrane diffusion, consistent with established chemistry. While demonstrated on cyclic peptides, the framework is designed to generalize to other molecular properties, positioning MolExplain as a platform for interactive, explainability-driven molecular design.",
+  "authors": [
+   "Pirm Dhararag",
+   "Dylan Cashman"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.HC"
+  ],
+  "comment": null,
+  "first_author": "Pirm Dhararag",
+  "pdf_url": "http://arxiv.org/pdf/2609.25355",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-21",
+  "tags": [
+   "drug-discovery",
+   "property-prediction"
+  ],
+  "title": "MolExplain: An Interactive Tool for Explainable Molecular Property Prediction",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-21"
+ },
  "2609.25523": {
   "abstract": "Transition states are defined by reaction pathways, yet most machine-learning methods predict them as isolated geometries. We introduce MARC-TS, a two-stage framework that learns a continuous, endpoint-conditioned path, queries it at any resolution and uses local path context to refine a transition-state candidate. We construct T1x-IRC-8K, a dataset of 8,209 reactions and 1,088,725 path-resolved geometries. On held-out reactions, the path model reduced complete-path error by 48.4% relative to endpoint interpolation, and the localizer achieved a mean aligned structural error of 0.127 Å. Quantum-chemical optimization and vibrational analysis yielded 405 frequency-confirmed first-order saddle-point candidates from 410 predictions. In a 100-reaction nudged elastic band comparison, learned-path initialization reached a joint geometry-and-force target for 66% of reactions, compared with 12% for geometric interpolation after 100 optimizer steps. By treating the path as a reusable representation rather than an auxiliary output, MARC-TS connects transition-state prediction, mechanistic interpretation and quantum-chemical refinement.",
   "authors": [
@@ -12112,5 +12163,57 @@
    "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-09-23"
+ },
+ "2609.28665": {
+  "abstract": "A virtual screening campaign may produce thousands of promising candidates, but only a small number can be purchased, synthesized, or tested. The practical question is how to select a set of compounds that both rank well and are diverse enough: this poses a genuine tradeoff, where selecting the highest-scoring molecules yields limited diversity, while diversity selection sacrifices some well-scoring molecules. We introduce OPDiv, a diversity selection and evaluation algorithm solving this tradeoff by finding an optimal subset of molecules using integer optimization. We demonstrate the selection algorithm in practice with fingerprint distance, shape and electrostatic diversity and compare the resulting diversity spectra. We argue that virtual screening is not merely a ranking problem, but also an implicit constrained optimization task: when redundant chemotypes are undesirable, pipelines should be compared based on the top-k compound selections satisfying the desired diversity constraints. OPDiv makes it possible to find the optimal compound set under a given diversity threshold efficiently and serves as a fair benchmark of the best diverse selection achievable by a given structure-based or ligand-based virtual screening pipeline, molecular search or generative model.",
+  "authors": [
+   "Miroslav Lžičař"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "12 pages, 3 figures. Code: https://github.com/mireklzicar/opdiv",
+  "first_author": "Miroslav Lžičař",
+  "pdf_url": "http://arxiv.org/pdf/2609.28665",
+  "primary_category": "cs.LG",
+  "published": "2026-09-23",
+  "tags": [
+   "drug-discovery",
+   "generative-model"
+  ],
+  "title": "OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-23"
+ },
+ "2609.29740": {
+  "abstract": "Ligand-based virtual screening (LBVS) is a practical first-pass tool in early-stage drug discovery, but existing benchmarks can overestimate performance through random negatives, easy decoys, limited target coverage, and non-standardized evaluation protocols. We introduce TopU-LBVS, a multi-target benchmark for LBVS under hard-negative screening conditions. Starting from curated ChEMBL~35 bioactivity data, TopU-LBVS covers 93 protein targets across 7 protein classes and constructs target-specific screening libraries with property-matched, structurally similar decoys at a fixed 1:40 active-to-decoy ratio. Libraries contain roughly 400 to 10,000 compounds and are designed to reduce simple physicochemical and nearest-neighbor fingerprint shortcuts.   TopU-LBVS provides three fixed protocols. TopU-LBVS-full evaluates ChEMBL$^\\ast \\rightarrow$ TopU generalization across all 93 targets. TopU-LBVS-low evaluates low-data TopU $\\rightarrow$ TopU learning within the hard-negative distribution. TopU-LBVS-mini provides a compact seven-target protocol with a paired random-decoy control that changes only the test decoys, enabling low-cost development and direct measurement of the gap between random ChEMBL$^\\ast$ and TopU decoys. Across ten reference baselines spanning fingerprint methods, molecular GNNs, fingerprint hybrids, and modern molecular models, performance under random-decoy evaluation degrades sharply under hard-negative screening. We release data, fixed splits, evaluation code, and baseline implementations for reproducible comparison of future LBVS and molecular representation learning methods.   Code and data are available at https://github.com/topu-benchmark/topu-lbvs and https://huggingface.co/datasets/topu-benchmark/topu-lbvs.",
+  "authors": [
+   "Surbhi Kumar",
+   "Yuhe Zhou",
+   "Varun Shiralkar",
+   "Niu Huang",
+   "Baris Coskunuzer"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "75 pages",
+  "first_author": "Surbhi Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2609.29740",
+  "primary_category": "cs.LG",
+  "published": "2026-09-24",
+  "tags": [
+   "drug-discovery",
+   "gnn",
+   "molecular-representation"
+  ],
+  "title": "TopU-LBVS: A Realistic Multi Target Benchmark for Ligand Based Virtual Screening",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-09-24"
  }
 }

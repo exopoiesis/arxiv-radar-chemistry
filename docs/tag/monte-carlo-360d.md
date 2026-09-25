@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">315 papers</span>
+  <span class="paper-count">312 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1886,23 +1886,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00129.html">BigBang-Proton Technical Report: Next-Word-Prediction is Scientific Multitask Learner</a></div></td>
 <td>Hengkui Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00129">2510.00129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24206.html">The role of the solid-melt interface in accelerating the self-catalyzed growth kinetics of III-V semiconductors</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Zhucong Xi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24206">2509.24206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24915.html">Impact of Atomic Substitution on Core-Hole Relaxation Dynamics: A Study of Br$_2$ and IBr</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nivedita Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24915">2509.24915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25490.html">Kinetic Monte Carlo prediction of the morphology of pentaerythritol tetranitrate</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Jacob Jeffries et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25490">2509.25490</a></td>
 </tr>
 </tbody></table>

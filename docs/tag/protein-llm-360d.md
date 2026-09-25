@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,17 +662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01571.html">From Supervision to Exploration: What Does Protein Language Model Learn During Reinforcement Learning?</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Hanqun Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01571">2510.01571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24895.html">Towards Understanding the Shape of Representations in Protein Language Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Kosio Beshkov et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24895">2509.24895</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24933.html">Is Sequence Information All You Need for Bayesian Optimization of Antibodies?</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Sebastian W. Ober et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24933">2509.24933</a></td>
 </tr>
 </tbody></table>

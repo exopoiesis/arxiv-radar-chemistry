@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">310 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1862,17 +1862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01065.html">Flexible Catalysis</a></div></td>
 <td>Máté Weisz et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01065">2510.01065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26104.html">Spatiotemporal Raman Probing of Molecular Transport in sub-2-nm Plasmonic Quasi-2D Nanochannels</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Haoran Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26104">2509.26104</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11721.html">Influence of Platinum Thin Films on the Photophysical and Quantum Properties of Near-Surface NV Centers</a></div></td>
-<td>Joachim P. Leibold et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11721">2510.11721</a></td>
 </tr>
 </tbody></table>

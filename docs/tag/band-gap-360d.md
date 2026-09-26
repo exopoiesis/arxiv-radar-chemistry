@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">416 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2504,11 +2504,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01056.html">High-Pressure DFT Study of BeX (X = S, Se, Te): Phonon Spectra, Optical Properties, and Thermodynamic Stability for Advanced Optoelectronic Applications</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Muhammad Shahzad et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01056">2510.01056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15583.html">Ab-initio exploration of Gd monolayer interfaced with WSe$_2$: from electronic and magnetic properties to the anomalous Hall effect</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Lyes Mesbahi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15583">2507.15583</a></td>
 </tr>
 </tbody></table>

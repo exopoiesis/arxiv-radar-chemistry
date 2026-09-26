@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1525 papers</span>
+  <span class="paper-count">1522 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9146,23 +9146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03327.html">Comprehensive \textsl{Ab Initio}~Calculations of \ce{CO2-H2} and \ce{CO2-He} Collisional Properties</a></div></td>
 <td>Prajwal Niraula et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03327">2510.03327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26148.html">Multi-strangeness matter from ab initio calculations</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Hui Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26148">2509.26148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26199.html">Improved capabilities of the TurboGAP code for radiation induced cascade simulations: an illustration with silicon</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Uttiyoarnab Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26199">2509.26199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00278.html">Search for Active and Inactive Ion Insertion Sites in Organic Crystalline Materials</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Harshan Reddy Gopidi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00278">2510.00278</a></td>
 </tr>
 </tbody></table>

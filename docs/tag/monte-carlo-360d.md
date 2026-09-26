@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">312 papers</span>
+  <span class="paper-count">310 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1874,17 +1874,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25479.html">Discontinuous Epitope Fragments as Sufficient Target Templates for Efficient Binder Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Zhenfeng Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25479">2509.25479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26148.html">Multi-strangeness matter from ab initio calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Hui Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26148">2509.26148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00129.html">BigBang-Proton Technical Report: Next-Word-Prediction is Scientific Multitask Learner</a></div></td>
-<td>Hengkui Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00129">2510.00129</a></td>
 </tr>
 </tbody></table>

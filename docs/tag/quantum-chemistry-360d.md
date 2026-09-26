@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">347 papers</span>
+  <span class="paper-count">343 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2072,29 +2072,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03095.html">Typical reconstruction limit and phase transition of maximum entropy method</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Masaru Hitomi et al.</td>
 <td><a href="http://arxiv.org/abs/2504.03095">2504.03095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09371.html">TensorRL-QAS: Reinforcement learning with tensor networks for improved quantum architecture search</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Akash Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09371">2505.09371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19337.html">A Perspective on Quantum Computing Applications in Quantum Chemistry using 25--100 Logical Qubits</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Yuri Alexeev et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19337">2506.19337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25720.html">Transformer-Based Neural Networks Backflow for Strongly Correlated Electronic Structure</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Huan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25720">2509.25720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26397.html">Are neural scaling laws leading quantum chemistry astray?</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Siwoo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26397">2509.26397</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,35 +542,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27561.html">Pulling strings in real time: flux tube dynamics in (2+1)-d $\mathbb{Z}_2$-Higgs Gauge Theories</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Zeno Bacciconi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27561">2608.27561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24838.html">Accidental accuracy and vertex corrections in $GW$: Exact benchmarks for the extended Hubbard model</a></div></td>
-<td>Michael O. Atambo</td>
-<td><a href="http://arxiv.org/abs/2608.24838">2608.24838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25388.html">A meta-algorithm for ab initio reconstruction of complex mixtures in cryo-EM</a></div></td>
-<td>Alkin Kaz et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25388">2608.25388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25628.html">Magnetic-configuration design for reliable Heisenberg exchange parameters</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Ben Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25628">2608.25628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26207.html">Frontier Questions and Emerging Directions in Nuclear Science and Technology</a></div></td>
-<td>Yu-Gang Ma</td>
-<td><a href="http://arxiv.org/abs/2608.26207">2608.26207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26255.html">First-Principles Nuclear Modeling for Light Dark Matter Experiments at the Intensity Frontier</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Taylor R. Gray et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26255">2608.26255</a></td>
 </tr>
 </tbody></table>

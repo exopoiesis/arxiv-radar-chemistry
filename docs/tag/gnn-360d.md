@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">366 papers</span>
+  <span class="paper-count">364 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2198,17 +2198,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02259.html">Transformers Discover Molecular Structure Without Graph Priors</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Tobias Kreiman et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02259">2510.02259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26377.html">MC-GNNAS-Dock: Multi-criteria GNN-based Algorithm Selection for Molecular Docking</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Siyuan Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26377">2509.26377</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26499.html">Equivariance by Local Canonicalization: A Matter of Representation</a></div></td>
-<td>Gerrit Gerhartz et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26499">2509.26499</a></td>
 </tr>
 </tbody></table>

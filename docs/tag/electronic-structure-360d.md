@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">462 papers</span>
+  <span class="paper-count">456 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2750,41 +2750,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00863.html">Orbital-Engineered Spin Asymmetry and Multifunctionality in Eu-Activated CaAlSiN$_3$: A First-Principles Roadmap to Optical-Thermoelectric Fusion</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Muhammad Tayyab et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00863">2510.00863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.09253.html">The generative quantum eigensolver (GQE) and its application for ground state search</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Kouhei Nakaji et al.</td>
-<td><a href="http://arxiv.org/abs/2401.09253">2401.09253</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20450.html">Universal electronic structure of multi-layered nickelates via oxygen-centered planar orbitals</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Christine C. Au-Yeung et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20450">2502.20450</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15583.html">Ab-initio exploration of Gd monolayer interfaced with WSe$_2$: from electronic and magnetic properties to the anomalous Hall effect</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Lyes Mesbahi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15583">2507.15583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21885.html">Noise-reduced stochastic resolution of identity to CC2 for large-scale calculations via tensor hypercontraction</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Chongxiao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21885">2509.21885</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25720.html">Transformer-Based Neural Networks Backflow for Strongly Correlated Electronic Structure</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Huan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25720">2509.25720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26397.html">Are neural scaling laws leading quantum chemistry astray?</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Siwoo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26397">2509.26397</a></td>
 </tr>
 </tbody></table>

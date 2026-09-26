@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1531 papers</span>
+  <span class="paper-count">1527 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9176,29 +9176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01420.html">Robustness of classical nucleation theory to chemical heterogeneity of crystal nucleating substrates</a></div></td>
 <td>Fernanda Sulantay Vargas et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01420">2510.01420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21885.html">Noise-reduced stochastic resolution of identity to CC2 for large-scale calculations via tensor hypercontraction</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Chongxiao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21885">2509.21885</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26057.html">Decoding Shake-up Satellites in XPS through Large-Scale ab initio Simulations: Spectral Signatures of Ring Fusion in Porphyrins</a></div></td>
-<td>Jannis Kockläuner et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26057">2509.26057</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26104.html">Spatiotemporal Raman Probing of Molecular Transport in sub-2-nm Plasmonic Quasi-2D Nanochannels</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Haoran Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26104">2509.26104</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26199.html">Improved capabilities of the TurboGAP code for radiation induced cascade simulations: an illustration with silicon</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Uttiyoarnab Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26199">2509.26199</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">462 papers</span>
+  <span class="paper-count">458 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2762,29 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00802.html">Guiding Evolutionary Molecular Design: Adding Reinforcement Learning for Mutation Selection</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Gaelle Milon-Harnois et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00802">2510.00802</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.09253.html">The generative quantum eigensolver (GQE) and its application for ground state search</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Kouhei Nakaji et al.</td>
-<td><a href="http://arxiv.org/abs/2401.09253">2401.09253</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01467.html">Feature-aware Hypergraph Generation via Next-Scale Prediction</a></div></td>
-<td>Dorian Gailhard et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01467">2506.01467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26405.html">Refine Drugs, Don&#x27;t Complete Them: Uniform-Source Discrete Flows for Fragment-Based Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Benno Kaech et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26405">2509.26405</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00351.html">Flow Autoencoders are Effective Protein Tokenizers</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Rohit Dilip et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00351">2510.00351</a></td>
 </tr>
 </tbody></table>

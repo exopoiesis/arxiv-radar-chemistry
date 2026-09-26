@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">518 papers</span>
+  <span class="paper-count">514 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3098,29 +3098,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00776.html">Material Synthesis 2025 (MatSyn25) Dataset for 2D Materials</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Chengbo Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00776">2510.00776</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20450.html">Universal electronic structure of multi-layered nickelates via oxygen-centered planar orbitals</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Christine C. Au-Yeung et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20450">2502.20450</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09913.html">Analytical model for the remote epitaxial potential</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jason K Kawasaki et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09913">2507.09913</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15583.html">Ab-initio exploration of Gd monolayer interfaced with WSe$_2$: from electronic and magnetic properties to the anomalous Hall effect</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Lyes Mesbahi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15583">2507.15583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08911.html">Ferroelectric Control of Interlayer Excitons in 3R-MoS$_{2}$ / MoSe$_{2}$ Heterostructures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Johannes Schwandt-Krause et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08911">2508.08911</a></td>
 </tr>
 </tbody></table>

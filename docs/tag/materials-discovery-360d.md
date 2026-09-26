@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">259 papers</span>
+  <span class="paper-count">258 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1562,11 +1562,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05142.html">Reliable End-to-End Material Information Extraction from the Literature with Source-Tracked Multi-Stage Large Language Models</a></div></td>
 <td>Xin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05142">2510.05142</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25728.html">Fingerprinting Organic Molecules for the Inverse Design of Two-Dimensional Hybrid Perovskites with Target Energetics</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Yongxin Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25728">2509.25728</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2000 papers</span>
+  <span class="paper-count">1995 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11984,35 +11984,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01423.html">High-spin spectroscopy and the onset of quasicollective structures in $^{69}$Ga</a></div></td>
 <td>F. E. Idoko et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01423">2510.01423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09913.html">Analytical model for the remote epitaxial potential</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jason K Kawasaki et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09913">2507.09913</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08911.html">Ferroelectric Control of Interlayer Excitons in 3R-MoS$_{2}$ / MoSe$_{2}$ Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Johannes Schwandt-Krause et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08911">2508.08911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25728.html">Fingerprinting Organic Molecules for the Inverse Design of Two-Dimensional Hybrid Perovskites with Target Energetics</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Yongxin Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25728">2509.25728</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26095.html">The diffusion-driven orthorhombic to tetragonal transition in YBa$_2$Cu$_3$O$_7$ derived with a machine learning interatomic potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Davide Gambino et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26095">2509.26095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00278.html">Search for Active and Inactive Ion Insertion Sites in Organic Crystalline Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Harshan Reddy Gopidi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00278">2510.00278</a></td>
 </tr>
 </tbody></table>

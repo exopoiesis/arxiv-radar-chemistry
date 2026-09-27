@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>2d-materials — all</h1>
-  <span class="paper-count">1097 papers</span>
+  <span class="paper-count">1102 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,30 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Thorben Eggert et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23963.html">Transitions between bulk and interfacial fracture in diamond/$c$BN heterostructures</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Wei Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23963">2609.23963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24856.html">Scandium diboride: a semi-metallic, lattice, thermally matched substrate for vertical AlGaN power electronics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>MVS Chandrashekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24856">2609.24856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25305.html">Influence of Electrostatic Environment on the Proximity Spin-Orbit Coupling in Graphene on Transition-Metal Dichalcogenides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="tmd-all.html">tmd</a></div></td>
+<td>Bert Jorissen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25305">2609.25305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22580.html">Vanadium doping induced valley asymmetries in WS$_2$ monolayers</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
+<td>Frederico B. Sousa et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22580">2609.22580</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-17</td>
@@ -44,6 +68,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19408.html">Multiferroic Quantum Dot in an Artificial van der Waals Heterostructure</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>Antti Karjasilta et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19408">2609.19408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22341.html">NTBuilder: Commensurate Construction of Nanotubes from Arbitrary Two-Dimensional Crystals and a Catalog of 20 Million Structures</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Marcelo Lopes Pereira Junior</td>
+<td><a href="http://arxiv.org/abs/2609.22341">2609.22341</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>

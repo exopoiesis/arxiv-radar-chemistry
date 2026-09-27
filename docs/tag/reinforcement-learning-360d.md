@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,17 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01571.html">From Supervision to Exploration: What Does Protein Language Model Learn During Reinforcement Learning?</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Hanqun Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01571">2510.01571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00802.html">Guiding Evolutionary Molecular Design: Adding Reinforcement Learning for Mutation Selection</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Gaelle Milon-Harnois et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00802">2510.00802</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01527.html">Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Lecheng Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01527">2510.01527</a></td>
 </tr>
 </tbody></table>

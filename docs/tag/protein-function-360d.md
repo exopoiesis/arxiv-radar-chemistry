@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23435.html">Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a></div></td>
+<td>Jie Ying et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23435">2609.23435</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08474.html">Predicting directional flexibility in proteins</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Vsevolod Viliuga et al.</td>
@@ -236,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01632.html">BioBlobs: Differentiable Graph Partitioning for Protein Representation Learning</a></div></td>
 <td>Xin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01632">2510.01632</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01428.html">BioVERSE: Representation Alignment of Biomedical Modalities to LLMs for Multi-Modal Reasoning</a></div></td>
-<td>Ching-Huei Tsou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01428">2510.01428</a></td>
 </tr>
 </tbody></table>

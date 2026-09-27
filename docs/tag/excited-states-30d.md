@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29284.html">Strong-Field-Driven Non-Linear Electron Dynamics in Thiophene Oligomers</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Mustapha Driouech et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29284">2609.29284</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25621.html">The Quest for Superheavy Nuclei: A Theoretical Perspective</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>C. Simenel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25621">2609.25621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23615.html">Attosecond charge migration timescales are dominated by transition dipoles, not correlations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Km Akanksha Dubey et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23615">2609.23615</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23754.html">Electromagnetic transition strength in $^{53}$Ca: the lifetime of the $5/2^{-}$ state</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>S. Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23754">2609.23754</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16529.html">Dark Matter Inelastic Scattering with Nuclei for Direct Detection</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
@@ -104,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01871.html">Latent unified smooth Hamiltonians for excited state chemistry</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>David Juergens et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01871">2609.01871</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27097.html">Beyond-EUV spectrum of highly-charged gadolinium</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>M. L. Reitsma et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27097">2608.27097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27177.html">ElemCo.jl: A Julia package for electron-correlation methods</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Daniel Kats et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27177">2608.27177</a></td>
 </tr>
 </tbody></table>

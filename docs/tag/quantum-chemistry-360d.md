@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">343 papers</span>
+  <span class="paper-count">350 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29098.html">Evaluation-efficient quantum architecture search with ZX-calculus-based topological reuse</a></div></td>
+<td>Chenlu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29098">2609.29098</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29337.html">Nonorthogonal variational quantum simulation for quantum chemistry</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Zongkang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29337">2609.29337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27750.html">Uncertainty prediction in composite quantum chemistry approaches</a></div></td>
+<td>Jakub Lang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27750">2609.27750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26859.html">Quantum Chemistry in a Novel Hybrid Dipolar Atom-Ion Mixture</a></div></td>
+<td>Claudia Galantini et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26859">2609.26859</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23621.html">On the statistical theory of strong electrolytes and high-temperature plasmas: New applications of the work by Yukhnovskii and Kelbg II</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>W. Ebeling et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23621">2609.23621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22729.html">Can Chemically Inspired Parameter Initialization Mitigate Barren Plateaus in Variational Quantum Eigensolvers?</a></div></td>
+<td>Zhangyu Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22729">2609.22729</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19535.html">Symmetry-driven correlation patterns in one-dimensional periodic fermionic systems: closed-form expressions and exact selection rules for correlation functions, entanglement entropies and mutual information</a></div></td>
@@ -38,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21085.html">Triply-Scalable Equivariant Gaussian Process Modeling</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Tim Steinert et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21085">2609.21085</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22342.html">Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Yi-Ran Xue et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22342">2609.22342</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-11</td>

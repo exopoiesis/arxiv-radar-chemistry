@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -23,9 +23,27 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28553.html">SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Quang Minh Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28553">2609.28553</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28665.html">OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Miroslav Lžičař</td>
 <td><a href="http://arxiv.org/abs/2609.28665">2609.28665</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Thomas Egg et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26402">2609.26402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26502.html">Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Lai Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26502">2609.26502</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>

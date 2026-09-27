@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29098.html">Evaluation-efficient quantum architecture search with ZX-calculus-based topological reuse</a></div></td>
+<td>Chenlu Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29098">2609.29098</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29337.html">Nonorthogonal variational quantum simulation for quantum chemistry</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
+<td>Zongkang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29337">2609.29337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27750.html">Uncertainty prediction in composite quantum chemistry approaches</a></div></td>
+<td>Jakub Lang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27750">2609.27750</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26859.html">Quantum Chemistry in a Novel Hybrid Dipolar Atom-Ion Mixture</a></div></td>
+<td>Claudia Galantini et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26859">2609.26859</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23621.html">On the statistical theory of strong electrolytes and high-temperature plasmas: New applications of the work by Yukhnovskii and Kelbg II</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
+<td>W. Ebeling et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23621">2609.23621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22729.html">Can Chemically Inspired Parameter Initialization Mitigate Barren Plateaus in Variational Quantum Eigensolvers?</a></div></td>
+<td>Zhangyu Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22729">2609.22729</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19535.html">Symmetry-driven correlation patterns in one-dimensional periodic fermionic systems: closed-form expressions and exact selection rules for correlation functions, entanglement entropies and mutual information</a></div></td>
@@ -38,6 +74,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21085.html">Triply-Scalable Equivariant Gaussian Process Modeling</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Tim Steinert et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21085">2609.21085</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22342.html">Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Yi-Ran Xue et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22342">2609.22342</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-11</td>
@@ -92,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01871.html">Latent unified smooth Hamiltonians for excited state chemistry</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
 <td>David Juergens et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01871">2609.01871</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27177.html">ElemCo.jl: A Julia package for electron-correlation methods</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Daniel Kats et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27177">2608.27177</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">744 papers</span>
+  <span class="paper-count">754 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,10 +22,70 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2609.29740">2609.29740</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30079.html">Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features</a></div></td>
+<td>Anne M. Tumlin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30079">2609.30079</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28553.html">SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Quang Minh Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28553">2609.28553</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28782.html">The Mechanics of Delta Learning: Target Design for Generalizable Scientific Machine Learning</a></div></td>
+<td>Kareem M. Gameel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28782">2609.28782</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22862.html">CurvFlow-DTA: dual-graph discrete Ricci curvature flow for drug--target affinity prediction</a></div></td>
+<td>Jicheng Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22862">2609.22862</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23134.html">ECENet: An Edge Cluster Expansion Line-Graph Neural Network</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>R. Allen LaCour et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23134">2609.23134</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25088.html">An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction</a></div></td>
+<td>Mushahid Intesum</td>
+<td><a href="http://arxiv.org/abs/2609.25088">2609.25088</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
+<td>Suprim Nakarmi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18107">2609.18107</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
 <td>Jaehyung Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17894.html">Graph neural networks for exoplanet atmospheres</a></div></td>
+<td>Antonia Vojtekova et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17894">2609.17894</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16339.html">Multi-Task Graph Neural Network Predictions of Auger-Electron and X-ray Photoelectron Spectroscopy</a></div></td>
+<td>Adam E. A. Fouda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16339">2609.16339</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13803.html">Automated AFGL quantum number assignment for CO$_2$ isotopologues using a graph neural network</a></div></td>
+<td>Marco G. Barnfield et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13803">2609.13803</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-08</td>

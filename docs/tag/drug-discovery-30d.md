@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -23,9 +23,27 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28553.html">SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Quang Minh Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28553">2609.28553</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28665.html">OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Miroslav Lžičař</td>
 <td><a href="http://arxiv.org/abs/2609.28665">2609.28665</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Thomas Egg et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26402">2609.26402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26502.html">Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Lai Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26502">2609.26502</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>
@@ -134,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01353.html">SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Handong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01353">2609.01353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27429.html">Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Nguyen Xuan-Vu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27429">2608.27429</a></td>
 </tr>
 </tbody></table>

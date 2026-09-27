@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.29740">2609.29740</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21542.html">Enriching molecular Raman spectroscopy with vibrational strong coupling</a></div></td>
+<td>Matteo Castagnola et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21542">2609.21542</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11790.html">Dynamic language model representations for multi-objective reaction optimisation</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Joshua W. Sin et al.</td>
@@ -938,11 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13449.html">Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-llm-360d.html">molecular-llm</a></div></td>
 <td>Dongki Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2502.13449">2502.13449</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00802.html">Guiding Evolutionary Molecular Design: Adding Reinforcement Learning for Mutation Selection</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Gaelle Milon-Harnois et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00802">2510.00802</a></td>
 </tr>
 </tbody></table>

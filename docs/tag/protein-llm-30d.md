@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-llm — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <strong>30d</strong> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28921.html">PFArena: Benchmarking Language Models for Protein Modification</a></div></td>
+<td>Yawen Ouyang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28921">2609.28921</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04793.html">ProtLingo: Efficient Protein Language Modeling via Conditional Memory and Expert Routing</a></div></td>
@@ -26,17 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01353.html">SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Handong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01353">2609.01353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26586.html">RegimeFormer: A Large Protein Model of Global Perturbation Regimes</a></div></td>
-<td>Siyuan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26586">2608.26586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27711.html">Dark energy: the cost of function in protein evolution</a></div></td>
-<td>Ezequiel A. Galpern et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27711">2608.27711</a></td>
 </tr>
 </tbody></table>

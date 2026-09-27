@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">516 papers</span>
+  <span class="paper-count">517 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -23,9 +23,27 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28553.html">SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Quang Minh Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28553">2609.28553</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28665.html">OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Miroslav Lžičař</td>
 <td><a href="http://arxiv.org/abs/2609.28665">2609.28665</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Thomas Egg et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26402">2609.26402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26502.html">Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Lai Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26502">2609.26502</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>
@@ -3098,17 +3116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13449.html">Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</a></div><div class="paper-tags"><a href="molecular-llm-360d.html">molecular-llm</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Dongki Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2502.13449">2502.13449</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25479.html">Discontinuous Epitope Fragments as Sufficient Target Templates for Efficient Binder Design</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Zhenfeng Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25479">2509.25479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01480.html">Pharmacophore-Guided Generative Design of Novel Drug-Like Molecules</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
-<td>Ekaterina Podplutova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01480">2510.01480</a></td>
 </tr>
 </tbody></table>

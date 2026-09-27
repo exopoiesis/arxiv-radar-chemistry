@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-llm — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="chemical-llm-7d.html">7d</a> <a href="chemical-llm-30d.html">30d</a> <a href="chemical-llm-90d.html">90d</a> <strong>360d</strong> <a href="chemical-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23435.html">Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
+<td>Jie Ying et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23435">2609.23435</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>

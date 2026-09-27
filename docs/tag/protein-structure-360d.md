@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">235 papers</span>
+  <span class="paper-count">234 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28113.html">Position-dependent friction in protein folding from a GLE derived with a non-stationary localized projection distribution</a></div></td>
+<td>Salma Salem et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28113">2609.28113</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24842.html">Towards Accurate Prediction of Mutation-Induced Changes in Protein Structure</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Zhuoyi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24842">2609.24842</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19770.html">TorchCraft: Unified binder design by inverting an all-atom structure predictor</a></div></td>
@@ -1406,23 +1418,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01571.html">From Supervision to Exploration: What Does Protein Language Model Learn During Reinforcement Learning?</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Hanqun Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01571">2510.01571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25479.html">Discontinuous Epitope Fragments as Sufficient Target Templates for Efficient Binder Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Zhenfeng Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25479">2509.25479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00767.html">Color2Struct: efficient and accurate deep-learning inverse design of structural color with controllable inference</a></div></td>
-<td>Sichao Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00767">2510.00767</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01184.html">Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Yanbo Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01184">2510.01184</a></td>
 </tr>
 </tbody></table>

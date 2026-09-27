@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28186.html">State-Resolved Integral of First-Passage Times for Multi-Site Polymer Adsorption</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yifan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28186">2609.28186</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21575.html">Programmable Strain-Induced Intrinsic Circularly Polarized Emission from All-Inorganic Perovskite Nanocrystal Glass</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Yujie Jiao et al.</td>
@@ -28,10 +34,22 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.22022">2609.22022</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22609.html">From Documented Strengths to Force Limits: Material-Informed Robotic Insertion for Construction Assembly</a></div></td>
+<td>Lin He et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22609">2609.22609</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Sushant Sinha et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19550">2609.19550</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20358.html">Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Ali Aouf et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20358">2609.20358</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-17</td>
@@ -2096,23 +2114,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02221.html">Phonon Spin Selective One-Way Axial Phonon Transport in Chiral Nanohelix</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jia Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02221">2510.02221</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16483.html">Graph Transformer Networks for Accurate Band Structure Prediction: An End-to-End Approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Weiyi Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2411.16483">2411.16483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00776.html">Material Synthesis 2025 (MatSyn25) Dataset for 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Chengbo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00776">2510.00776</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00795.html">Benchmarking Agentic Systems in Automated Scientific Information Extraction with ChemX</a></div></td>
-<td>Anastasia Vepreva et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00795">2510.00795</a></td>
 </tr>
 </tbody></table>

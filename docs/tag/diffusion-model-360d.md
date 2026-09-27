@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">420 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29052.html">Predator self limitation controls pattern formation in a predator prey system with additional food: a Turing Hopf analysis</a></div></td>
+<td>Anushree Hazra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29052">2609.29052</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28037.html">Amplitude equations for wave bifurcations in reaction-diffusion systems</a></div></td>
+<td>Edgardo Villar-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28037">2609.28037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28401.html">Label-Efficient Generative Inverse Design and Design-Rule Discovery in Freeform Topological Photonics</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
+<td>Yuhan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28401">2609.28401</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Thomas Egg et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26402">2609.26402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24622.html">A priori regularity of the reverse heat flow and dimension-dependent complexity of higher-order diffusion samplers</a></div></td>
+<td>Xixian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24622">2609.24622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22036.html">Moderator Modeling for High Intensity Slow Positron Sources</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Sophie Crisp et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22036">2609.22036</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20358.html">Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Ali Aouf et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20358">2609.20358</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21022.html">Catch Me If You Can: Real-Time Feedback Denoising for Responsive VLAs</a></div></td>
+<td>Yiheng Ji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21022">2609.21022</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
@@ -2486,17 +2534,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03335.html">Matching the Optimal Denoiser in Point Cloud Diffusion with (Improved) Rotational Alignment</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Ameya Daigavane et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03335">2510.03335</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01184.html">Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Yanbo Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01184">2510.01184</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01388.html">VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation</a></div></td>
-<td>Arthur Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01388">2510.01388</a></td>
 </tr>
 </tbody></table>

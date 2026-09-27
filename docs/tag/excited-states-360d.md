@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">214 papers</span>
+  <span class="paper-count">215 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29284.html">Strong-Field-Driven Non-Linear Electron Dynamics in Thiophene Oligomers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Mustapha Driouech et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29284">2609.29284</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25621.html">The Quest for Superheavy Nuclei: A Theoretical Perspective</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>C. Simenel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25621">2609.25621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23615.html">Attosecond charge migration timescales are dominated by transition dipoles, not correlations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Km Akanksha Dubey et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23615">2609.23615</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23754.html">Electromagnetic transition strength in $^{53}$Ca: the lifetime of the $5/2^{-}$ state</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>S. Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23754">2609.23754</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16529.html">Dark Matter Inelastic Scattering with Nuclei for Direct Detection</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -1280,23 +1304,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06701.html">Excitation energy of fission fragments within nuclear time-dependent density functional theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Antonio Bjelčić et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06701">2510.06701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10407.html">Magneto-optical properties of Group-IV--vacancy centers in diamond upon hydrostatic pressure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Meysam Mohseni et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10407">2408.10407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09252.html">Singular Spectrum Analysis of Time-series Data from Time-dependent density-functional theory in Real-time</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Naoki Tani et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09252">2501.09252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26390.html">Precision measurement and modelling of the threshold-free 210Pb β spectrum</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Shuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26390">2509.26390</a></td>
 </tr>
 </tbody></table>

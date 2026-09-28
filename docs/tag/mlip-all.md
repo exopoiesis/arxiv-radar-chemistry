@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">1006 papers</span>
+  <span class="paper-count">1007 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29361.html">Hamiltonian learning reveals optoelectronic mechanisms across thermodynamic state space in soft semiconductors</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Frederik Vonhoff et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29361">2609.29361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30621.html">Assessing the Transferability of General-Purpose MachineLearning Interatomic Potentials for Heterogeneous Catalysis with HetCat26</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
+<td>Alexandre Peuch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30621">2609.30621</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>

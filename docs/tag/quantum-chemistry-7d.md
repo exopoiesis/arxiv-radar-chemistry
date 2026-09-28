@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31471.html">Communication: Becke Weights as a Partitioning Scheme for Phase Space Electronic Structure Theory</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Ben Curlee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31471">2609.31471</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29098.html">Evaluation-efficient quantum architecture search with ZX-calculus-based topological reuse</a></div></td>
 <td>Chenlu Li et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26859.html">Quantum Chemistry in a Novel Hybrid Dipolar Atom-Ion Mixture</a></div></td>
 <td>Claudia Galantini et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26859">2609.26859</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23621.html">On the statistical theory of strong electrolytes and high-temperature plasmas: New applications of the work by Yukhnovskii and Kelbg II</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>W. Ebeling et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23621">2609.23621</a></td>
 </tr>
 </tbody></table>

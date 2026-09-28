@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31077.html">Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Sebastian O. M. Stewart et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31077">2609.31077</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29740.html">TopU-LBVS: A Realistic Multi Target Benchmark for Ligand Based Virtual Screening</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Surbhi Kumar et al.</td>
@@ -3110,11 +3116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01471.html">Fine-tuning LLMs with variational Bayesian last layer for high-dimensional Bayesian optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Haotian Xiang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01471">2510.01471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13449.html">Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</a></div><div class="paper-tags"><a href="molecular-llm-360d.html">molecular-llm</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Dongki Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13449">2502.13449</a></td>
 </tr>
 </tbody></table>

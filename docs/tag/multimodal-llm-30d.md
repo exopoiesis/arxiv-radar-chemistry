@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30783.html">Skip the Talk, Re-Focus on Vision: Latent Reasoning for Reasoning Segmentation in Multimodal Large Language Models</a></div></td>
+<td>Tianhang Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30783">2609.30783</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21493.html">PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design</a></div></td>
 <td>Zicheng Zhao et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14289.html">AnnoSketch: Evaluating and Collecting Human Sketches for MLLM-assisted Chart Annotation</a></div></td>
 <td>Yoonjae Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14289">2609.14289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27893.html">CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Yajiao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27893">2608.27893</a></td>
 </tr>
 </tbody></table>

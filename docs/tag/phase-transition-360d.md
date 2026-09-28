@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">209 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,17 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05167.html">Data-Error Scaling Laws in Machine Learning on Combinatorial Mutation-prone Sets: Proteins and Small Molecules</a></div></td>
 <td>Vanni Doffini et al.</td>
 <td><a href="http://arxiv.org/abs/2405.05167">2405.05167</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03095.html">Typical reconstruction limit and phase transition of maximum entropy method</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Masaru Hitomi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03095">2504.03095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01847.html">Non-Gaussian Rotational Diffusion and Swing Motion of Dumbbell Probes in Two Dimensional Colloids</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jeongmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01847">2510.01847</a></td>
 </tr>
 </tbody></table>

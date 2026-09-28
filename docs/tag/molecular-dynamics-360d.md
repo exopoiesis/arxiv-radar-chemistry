@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1547 papers</span>
+  <span class="paper-count">1552 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30848.html">When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
+<td>Yiwei You et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30848">2609.30848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30852.html">Energetically Driven Structure Matching for Autonomous Total X-ray Scattering Experiments</a></div></td>
+<td>Emil J. P. Frost et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30852">2609.30852</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31143.html">Shape enantiomerism in semi-rigid polymer liquid crystals</a></div></td>
+<td>S. Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31143">2609.31143</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31265.html">Steady--State Current Signatures of Strong Light--Matter Coupling in Single--Molecule Junctions</a></div></td>
+<td>Kritanjan Polley et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31265">2609.31265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31270.html">Multiscale computational study of the dielectric response of semi-crystalline polyethylene with chemical defects</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Roshal Perepadan Shaju et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31270">2609.31270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31480.html">Ferroelectric Switching in ZnO/Zn1-xMgxO Heterostructures: Atomistic Insights into Interfacial Coupling and Layer Architecture</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td>Alireza Sepehrinezhad et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31480">2609.31480</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29159.html">Functional dynamic mode decomposition: Learning infinite-dimensional systems from data</a></div></td>
@@ -44,6 +80,24 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30109.html">Large integration time-step in molecular dynamics simulation artificially enhances the strength of hydrophobic interaction</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Dilipkumar N. Asthagiri</td>
 <td><a href="http://arxiv.org/abs/2609.30109">2609.30109</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30458.html">Hydrogen-stabilized multimodal high-index twin network in iron</a></div></td>
+<td>Mehrab Lotfpour et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30458">2609.30458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30549.html">Material and thermal properties of MgCl2 molten salt by ab initio and machine-learning molecular-dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Roberto Llovera et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30549">2609.30549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30574.html">The JWST Proto-PAH project. Computational modeling of the emission carriers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>A. Ricca et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30574">2609.30574</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
@@ -9272,29 +9326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03479.html">Active learning and explicit electrostatics enable accurate modeling of electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Olga Chalykh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03479">2510.03479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10692.html">Achieving accurate entropy and melting point by ab initio molecular dynamics and zentropy theory: Application to fluoride and chloride molten salts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Shun-Li Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10692">2505.10692</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01583.html">Electride behavior at high pressure in silicon and other elements in solid and liquid phases</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Salma Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01583">2510.01583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01847.html">Non-Gaussian Rotational Diffusion and Swing Motion of Dumbbell Probes in Two Dimensional Colloids</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jeongmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01847">2510.01847</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02221.html">Phonon Spin Selective One-Way Axial Phonon Transport in Chiral Nanohelix</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jia Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02221">2510.02221</a></td>
 </tr>
 </tbody></table>

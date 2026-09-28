@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">312 papers</span>
+  <span class="paper-count">321 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30848.html">When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Yiwei You et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30848">2609.30848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30852.html">Energetically Driven Structure Matching for Autonomous Total X-ray Scattering Experiments</a></div></td>
+<td>Emil J. P. Frost et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30852">2609.30852</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31143.html">Shape enantiomerism in semi-rigid polymer liquid crystals</a></div></td>
+<td>S. Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31143">2609.31143</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31265.html">Steady--State Current Signatures of Strong Light--Matter Coupling in Single--Molecule Junctions</a></div></td>
+<td>Kritanjan Polley et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31265">2609.31265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31270.html">Multiscale computational study of the dielectric response of semi-crystalline polyethylene with chemical defects</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Roshal Perepadan Shaju et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31270">2609.31270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31480.html">Ferroelectric Switching in ZnO/Zn1-xMgxO Heterostructures: Atomistic Insights into Interfacial Coupling and Layer Architecture</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
+<td>Alireza Sepehrinezhad et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31480">2609.31480</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29159.html">Functional dynamic mode decomposition: Learning infinite-dimensional systems from data</a></div></td>
@@ -44,6 +80,24 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30109.html">Large integration time-step in molecular dynamics simulation artificially enhances the strength of hydrophobic interaction</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Dilipkumar N. Asthagiri</td>
 <td><a href="http://arxiv.org/abs/2609.30109">2609.30109</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30458.html">Hydrogen-stabilized multimodal high-index twin network in iron</a></div></td>
+<td>Mehrab Lotfpour et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30458">2609.30458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30549.html">Material and thermal properties of MgCl2 molten salt by ab initio and machine-learning molecular-dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Roberto Llovera et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30549">2609.30549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30574.html">The JWST Proto-PAH project. Computational modeling of the emission carriers</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>A. Ricca et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30574">2609.30574</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>

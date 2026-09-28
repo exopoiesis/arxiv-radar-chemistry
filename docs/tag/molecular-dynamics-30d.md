@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30848.html">When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
+<td>Yiwei You et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30848">2609.30848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30852.html">Energetically Driven Structure Matching for Autonomous Total X-ray Scattering Experiments</a></div></td>
+<td>Emil J. P. Frost et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30852">2609.30852</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31143.html">Shape enantiomerism in semi-rigid polymer liquid crystals</a></div></td>
+<td>S. Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31143">2609.31143</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31265.html">Steady--State Current Signatures of Strong Light--Matter Coupling in Single--Molecule Junctions</a></div></td>
+<td>Kritanjan Polley et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31265">2609.31265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31270.html">Multiscale computational study of the dielectric response of semi-crystalline polyethylene with chemical defects</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Roshal Perepadan Shaju et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31270">2609.31270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31480.html">Ferroelectric Switching in ZnO/Zn1-xMgxO Heterostructures: Atomistic Insights into Interfacial Coupling and Layer Architecture</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
+<td>Alireza Sepehrinezhad et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31480">2609.31480</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29159.html">Functional dynamic mode decomposition: Learning infinite-dimensional systems from data</a></div></td>
@@ -44,6 +80,24 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30109.html">Large integration time-step in molecular dynamics simulation artificially enhances the strength of hydrophobic interaction</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Dilipkumar N. Asthagiri</td>
 <td><a href="http://arxiv.org/abs/2609.30109">2609.30109</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30458.html">Hydrogen-stabilized multimodal high-index twin network in iron</a></div></td>
+<td>Mehrab Lotfpour et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30458">2609.30458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30549.html">Material and thermal properties of MgCl2 molten salt by ab initio and machine-learning molecular-dynamics simulations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Roberto Llovera et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30549">2609.30549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30574.html">The JWST Proto-PAH project. Computational modeling of the emission carriers</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>A. Ricca et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30574">2609.30574</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
@@ -770,23 +824,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01879.html">Morphology and Dynamics of Self-interstitial Clusters in Irradiated Nickel</a></div></td>
 <td>Ajay Annamareddy et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01879">2609.01879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27820.html">Resolving Spin-Phonon Relaxation Pathways in Molecular Qubits via Regularized Regression</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Sayan Banerjee</td>
-<td><a href="http://arxiv.org/abs/2608.27820">2608.27820</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27825.html">RNA-like Polyelectrolyte in a Viral Capsid: Molecular Dynamics with Explicit Electrostatic Interactions</a></div></td>
-<td>Xintong Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27825">2608.27825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Théo Jaffrelot Inizan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
 </tr>
 </tbody></table>

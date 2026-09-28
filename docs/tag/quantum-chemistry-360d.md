@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">350 papers</span>
+  <span class="paper-count">349 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31471.html">Communication: Becke Weights as a Partitioning Scheme for Phase Space Electronic Structure Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Ben Curlee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31471">2609.31471</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29098.html">Evaluation-efficient quantum architecture search with ZX-calculus-based topological reuse</a></div></td>
@@ -2102,17 +2108,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01670.html">QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry</a></div></td>
 <td>Jiaqing Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01670">2508.01670</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05730.html">Optimal Overlapping Tomography</a></div></td>
-<td>Kiara Hansenne et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05730">2408.05730</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03095.html">Typical reconstruction limit and phase transition of maximum entropy method</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Masaru Hitomi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03095">2504.03095</a></td>
 </tr>
 </tbody></table>

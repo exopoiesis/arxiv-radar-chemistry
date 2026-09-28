@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31149.html">CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Yuxuan Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31149">2609.31149</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29052.html">Predator self limitation controls pattern formation in a predator prey system with additional food: a Turing Hopf analysis</a></div></td>
 <td>Anushree Hazra et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29052">2609.29052</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30456.html">Spectral Feedback for Test-Time Alignment of Protein Diffusion Models</a></div></td>
+<td>Shai Dickman et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30456">2609.30456</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
@@ -2522,17 +2534,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05788.html">On diffusion posterior sampling via sequential Monte Carlo for zero-shot scaffolding of protein motifs</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>James Matthew Young et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05788">2412.05788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01749.html">Towards Photonic Band Diagram Generation with Transformer-Latent Diffusion Models</a></div></td>
-<td>Valentin Delchevalerie et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01749">2510.01749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03335.html">Matching the Optimal Denoiser in Point Cloud Diffusion with (Improved) Rotational Alignment</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Ameya Daigavane et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03335">2510.03335</a></td>
 </tr>
 </tbody></table>

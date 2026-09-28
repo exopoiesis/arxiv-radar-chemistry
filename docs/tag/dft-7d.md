@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30815.html">Engineering Ferromagnetism in Wide Bandgap w-AlN for Spintronic Applications: Insights from DFT Calculations</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Chinnappan Ravi</td>
+<td><a href="http://arxiv.org/abs/2609.30815">2609.30815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30845.html">$U(1)$ Gauge-Equivariant Representation Learning of Bloch States</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Chengyan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30845">2609.30845</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30901.html">Thorium-229 as a Phonomagnetometer</a></div></td>
+<td>Martin Pimon et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30901">2609.30901</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31079.html">Unraveling the electronic structure and the oxygen $K$-edge x-ray absorption near-edge structure spectrum of DyFeO$_3$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>G. Gebreyesus et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31079">2609.31079</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31277.html">High-throughput computational discovery of CuI-based ternary $p$-type transparent conductors</a></div></td>
+<td>Michael Seifert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31277">2609.31277</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31375.html">Polar discontinuity screening by charge disproportionation in ferroelectric-nickelate superlattices</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
+<td>Edith Simmen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31375">2609.31375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31471.html">Communication: Becke Weights as a Partitioning Scheme for Phase Space Electronic Structure Theory</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
+<td>Ben Curlee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31471">2609.31471</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31483.html">Scaling Density Functional Theory with Gaussian Splatting</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Andrés Guzmán-Cordero et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31483">2609.31483</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31533.html">Structural prediction of B$_{18}$Y$_{2}$ cluster: A Machine-Learning-Assisted Basin-Hopping Study</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Peter Ludwig Rodríguez-Kessler</td>
+<td><a href="http://arxiv.org/abs/2609.31533">2609.31533</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28912.html">Dense pentacene cocrystal demonstrates room-temperature coherent control</a></div></td>
@@ -56,6 +110,24 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29838.html">Superadiabatic Dynamical Density Functional Theory for One-Dimensional Brownian Hard-Rod Fluids</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
 <td>Jens Weimar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29838">2609.29838</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30423.html">Current density functional theory in the age of generalized Kohn-Sham theories</a></div></td>
+<td>Giovanni Vignale</td>
+<td><a href="http://arxiv.org/abs/2609.30423">2609.30423</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30574.html">The JWST Proto-PAH project. Computational modeling of the emission carriers</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>A. Ricca et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30574">2609.30574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30621.html">Assessing the Transferability of General-Purpose MachineLearning Interatomic Potentials for Heterogeneous Catalysis with HetCat26</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Alexandre Peuch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30621">2609.30621</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
@@ -134,41 +206,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24843.html">Electronic Reconstruction Towards Topological Superconductivity in FeTe</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="phase-transition-7d.html">phase-transition</a></div></td>
 <td>Hongtao Rong et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24843">2609.24843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23615.html">Attosecond charge migration timescales are dominated by transition dipoles, not correlations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Km Akanksha Dubey et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23615">2609.23615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23636.html">Tailoring structural, electronic, optical, and magnetic properties of rare-earth gallates RGaO$_3$ (R = Ho, Er, Tm) via first-principles investigations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>T. Usman et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23636">2609.23636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23641.html">Computational investigation of a perovskite LaBiO$_{3}$ for photovoltaic, thermoelectric, and optoelectronic applications</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>M. M. Woldemariam et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23641">2609.23641</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23644.html">Electronic energy structure and optical properties of In$_{4}$CdI$_{6}$ from $\textit{ab initio}$ calculations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
-<td>I. V. Semkiv et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23644">2609.23644</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23645.html">Hund-driven local-itinerant duality of Eu-4$f$ electrons in infinite-layer nickelates</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Yingying Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23645">2609.23645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23689.html">Effects of particle-induced electron emission on transport properties in electrically-biased plasma sheaths under fusion-relevant conditions</a></div></td>
-<td>Lucio Murillo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23689">2609.23689</a></td>
 </tr>
 </tbody></table>

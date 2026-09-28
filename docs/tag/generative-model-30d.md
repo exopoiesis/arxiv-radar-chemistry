@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31149.html">CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Yuxuan Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31149">2609.31149</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29344.html">Combining physical models with dynamically acquired experimental information for the optimization of multicomponent NASICON fast ionic conductors in a self-driving laboratory</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Bernardus Rendy et al.</td>
@@ -200,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02268.html">Retrosynthesis of Synthetic Media for Explainable AI Provenance Forensics</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Yijie Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02268">2609.02268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28122.html">Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities</a></div></td>
-<td>Tianfu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.28122">2608.28122</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30815.html">Engineering Ferromagnetism in Wide Bandgap w-AlN for Spintronic Applications: Insights from DFT Calculations</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Chinnappan Ravi</td>
+<td><a href="http://arxiv.org/abs/2609.30815">2609.30815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31079.html">Unraveling the electronic structure and the oxygen $K$-edge x-ray absorption near-edge structure spectrum of DyFeO$_3$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>G. Gebreyesus et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31079">2609.31079</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29459.html">Library of carbon nanotube junctions: data-driven insights into structure-magnetotransport relationships</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Juan Alberto Canché-Martín et al.</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25384.html">Lattice in Line: Optimized DMRG ordering for complex lattice geometries</a></div></td>
 <td>Roman Rausch</td>
 <td><a href="http://arxiv.org/abs/2609.25384">2609.25384</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23636.html">Tailoring structural, electronic, optical, and magnetic properties of rare-earth gallates RGaO$_3$ (R = Ho, Er, Tm) via first-principles investigations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>T. Usman et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23636">2609.23636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23645.html">Hund-driven local-itinerant duality of Eu-4$f$ electrons in infinite-layer nickelates</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Yingying Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23645">2609.23645</a></td>
 </tr>
 </tbody></table>

@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.29361">2609.29361</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30621.html">Assessing the Transferability of General-Purpose MachineLearning Interatomic Potentials for Heterogeneous Catalysis with HetCat26</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Alexandre Peuch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30621">2609.30621</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jonas Busk et al.</td>
@@ -3386,11 +3392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03479.html">Active learning and explicit electrostatics enable accurate modeling of electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Olga Chalykh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03479">2510.03479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02259.html">Transformers Discover Molecular Structure Without Graph Priors</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Tobias Kreiman et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02259">2510.02259</a></td>
 </tr>
 </tbody></table>

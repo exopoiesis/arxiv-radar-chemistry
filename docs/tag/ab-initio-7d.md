@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30845.html">$U(1)$ Gauge-Equivariant Representation Learning of Bloch States</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Chengyan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30845">2609.30845</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31079.html">Unraveling the electronic structure and the oxygen $K$-edge x-ray absorption near-edge structure spectrum of DyFeO$_3$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>G. Gebreyesus et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31079">2609.31079</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28891.html">Influence of chemical vapor deposition conditions on N incorporation ratio on vicinal 4H-SiC(000-1) surface: Ab Initio-based approach</a></div></td>
 <td>Wataru Ota et al.</td>
@@ -44,6 +56,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30126.html">Formation of adducts of C$_6$H with Na$^+$, Mg$^+$ and Al$^+$ metal cations by radiative association</a></div></td>
 <td>Niyazi Bulut et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30126">2609.30126</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30549.html">Material and thermal properties of MgCl2 molten salt by ab initio and machine-learning molecular-dynamics simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Roberto Llovera et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30549">2609.30549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30574.html">The JWST Proto-PAH project. Computational modeling of the emission carriers</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>A. Ricca et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30574">2609.30574</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
@@ -104,29 +128,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25305.html">Influence of Electrostatic Environment on the Proximity Spin-Orbit Coupling in Graphene on Transition-Metal Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="tmd-7d.html">tmd</a></div></td>
 <td>Bert Jorissen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.25305">2609.25305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23615.html">Attosecond charge migration timescales are dominated by transition dipoles, not correlations</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Km Akanksha Dubey et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23615">2609.23615</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23636.html">Tailoring structural, electronic, optical, and magnetic properties of rare-earth gallates RGaO$_3$ (R = Ho, Er, Tm) via first-principles investigations</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>T. Usman et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23636">2609.23636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23644.html">Electronic energy structure and optical properties of In$_{4}$CdI$_{6}$ from $\textit{ab initio}$ calculations</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>I. V. Semkiv et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23644">2609.23644</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23754.html">Electromagnetic transition strength in $^{53}$Ca: the lifetime of the $5/2^{-}$ state</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>S. Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23754">2609.23754</a></td>
 </tr>
 </tbody></table>

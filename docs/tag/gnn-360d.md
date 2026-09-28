@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">374 papers</span>
+  <span class="paper-count">373 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2252,11 +2252,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06290.html">Soft-Evidence Fused Graph Neural Network for Cancer Driver Gene Identification across Multi-View Biological Graphs</a></div></td>
 <td>Bang Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06290">2510.06290</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02259.html">Transformers Discover Molecular Structure Without Graph Priors</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Tobias Kreiman et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02259">2510.02259</a></td>
 </tr>
 </tbody></table>

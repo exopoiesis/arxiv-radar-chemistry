@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">258 papers</span>
+  <span class="paper-count">255 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1544,23 +1544,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20933.html">MatLLMSearch: Crystal Structure Discovery with Evolution-Guided Large Language Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Jingru Gan et al.</td>
 <td><a href="http://arxiv.org/abs/2502.20933">2502.20933</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00768.html">Aligning Reasoning LLMs for Materials Discovery with Physics-aware Rejection Sampling</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Lee Hyun et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00768">2509.00768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22959.html">A modular framework for collaborative human-AI, multi-modal and multi-beamline synchrotron experiments</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Adam A. Corrao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22959">2509.22959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24071.html">C-BerryTrans: A C++ code for first-principles calculation of Berry-curvature-driven anomalous Hall and Nernst conductivities</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Vivek Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24071">2509.24071</a></td>
 </tr>
 </tbody></table>

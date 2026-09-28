@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31077.html">Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Sebastian O. M. Stewart et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31077">2609.31077</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28113.html">Position-dependent friction in protein folding from a GLE derived with a non-stationary localized projection distribution</a></div></td>
 <td>Salma Salem et al.</td>
@@ -1412,11 +1418,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06413.html">A Hybrid Quantum-AI Framework for Protein Structure Prediction on NISQ Devices</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Yuqi Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06413">2510.06413</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01571.html">From Supervision to Exploration: What Does Protein Language Model Learn During Reinforcement Learning?</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Hanqun Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01571">2510.01571</a></td>
 </tr>
 </tbody></table>

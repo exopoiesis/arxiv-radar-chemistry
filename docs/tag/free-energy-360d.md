@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">331 papers</span>
+  <span class="paper-count">330 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1994,11 +1994,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03975.html">Finding the temperature window for atomic layer deposition of ruthenium metal via efficient phonon calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Alexandr Fonari et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03975">2510.03975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06236.html">Modified Marrone-Treanor dissociation model: formulation and benchmarking for diatom/atom mixtures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Ross S. Chaudhry et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06236">2506.06236</a></td>
 </tr>
 </tbody></table>

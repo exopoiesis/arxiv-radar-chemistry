@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>free-energy — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25888.html">Machine-learning modeling of nuclear collective observables and low-lying spectra</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Dan Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2609.25888">2609.25888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23564.html">Dual Role of Mobile Interstitials in Defect Kinetics: From Retardation to Acceleration</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Shihao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23564">2609.23564</a></td>
 </tr>
 </tbody></table>

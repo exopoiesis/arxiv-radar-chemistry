@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30848.html">When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Yiwei You et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30848">2609.30848</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29344.html">Combining physical models with dynamically acquired experimental information for the optimization of multicomponent NASICON fast ionic conductors in a self-driving laboratory</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Bernardus Rendy et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Thorben Eggert et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23621.html">On the statistical theory of strong electrolytes and high-temperature plasmas: New applications of the work by Yukhnovskii and Kelbg II</a></div><div class="paper-tags"><a href="phase-transition-7d.html">phase-transition</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>W. Ebeling et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23621">2609.23621</a></td>
 </tr>
 </tbody></table>

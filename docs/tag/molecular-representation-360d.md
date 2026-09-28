@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,11 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03318.html">Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Network with Group Lasso Regularization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Zanyu Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03318">2507.03318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13449.html">Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-llm-360d.html">molecular-llm</a></div></td>
-<td>Dongki Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13449">2502.13449</a></td>
 </tr>
 </tbody></table>

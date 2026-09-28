@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31480.html">Ferroelectric Switching in ZnO/Zn1-xMgxO Heterostructures: Atomistic Insights into Interfacial Coupling and Layer Architecture</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Alireza Sepehrinezhad et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31480">2609.31480</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Thorben Eggert et al.</td>
@@ -260,11 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01080.html">Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading</a></div></td>
 <td>Vladyslav Kaliuzhnyi et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01080">2609.01080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28521.html">Modifying van der Waals Materials via Cavity Vacuum Fluctuations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Mohammad Hassan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.28521">2608.28521</a></td>
 </tr>
 </tbody></table>

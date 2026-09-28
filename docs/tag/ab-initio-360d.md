@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1533 papers</span>
+  <span class="paper-count">1529 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30845.html">$U(1)$ Gauge-Equivariant Representation Learning of Bloch States</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Chengyan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30845">2609.30845</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31079.html">Unraveling the electronic structure and the oxygen $K$-edge x-ray absorption near-edge structure spectrum of DyFeO$_3$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>G. Gebreyesus et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31079">2609.31079</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28891.html">Influence of chemical vapor deposition conditions on N incorporation ratio on vicinal 4H-SiC(000-1) surface: Ab Initio-based approach</a></div></td>
@@ -44,6 +56,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30126.html">Formation of adducts of C$_6$H with Na$^+$, Mg$^+$ and Al$^+$ metal cations by radiative association</a></div></td>
 <td>Niyazi Bulut et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30126">2609.30126</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30549.html">Material and thermal properties of MgCl2 molten salt by ab initio and machine-learning molecular-dynamics simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Roberto Llovera et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30549">2609.30549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30574.html">The JWST Proto-PAH project. Computational modeling of the emission carriers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>A. Ricca et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30574">2609.30574</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
@@ -9164,53 +9188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03479.html">Active learning and explicit electrostatics enable accurate modeling of electrolytes</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Olga Chalykh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03479">2510.03479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10692.html">Achieving accurate entropy and melting point by ab initio molecular dynamics and zentropy theory: Application to fluoride and chloride molten salts</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Shun-Li Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10692">2505.10692</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06236.html">Modified Marrone-Treanor dissociation model: formulation and benchmarking for diatom/atom mixtures</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Ross S. Chaudhry et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06236">2506.06236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12872.html">Attosecond-resolved probing of recolliding electron wave packets in liquids and aqueous solutions</a></div></td>
-<td>Angana Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12872">2509.12872</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24071.html">C-BerryTrans: A C++ code for first-principles calculation of Berry-curvature-driven anomalous Hall and Nernst conductivities</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Vivek Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24071">2509.24071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01583.html">Electride behavior at high pressure in silicon and other elements in solid and liquid phases</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Salma Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01583">2510.01583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01625.html">Theoretical investigation of real-fluid effects on the oxidation of hydrogen and syngas in high-pressure flow reactors</a></div></td>
-<td>Mingrui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01625">2510.01625</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01802.html">Machine-learning-enabled methodology for the ab-initio simulations of sub-$μ$m-wide nanoribbons</a></div></td>
-<td>Guan-Hao Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01802">2510.01802</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02580.html">Observation of long-range collective flow in OO and NeNe collisions and implications for nuclear structure studies</a></div></td>
-<td>CMS Collaboration</td>
-<td><a href="http://arxiv.org/abs/2510.02580">2510.02580</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31077.html">Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Sebastian O. M. Stewart et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31077">2609.31077</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29740.html">TopU-LBVS: A Realistic Multi Target Benchmark for Ligand Based Virtual Screening</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>

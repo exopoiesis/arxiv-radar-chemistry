@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33407.html">Let CSP Be Your ANCHOR: Adaptive Crystal Search over Frozen Structure Priors</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="drug-discovery-7d.html">drug-discovery</a></div></td>
+<td>Emma Lei Hovmand et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33407">2609.33407</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Thomas Egg et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26502.html">Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Lai Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26502">2609.26502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24842.html">Towards Accurate Prediction of Mutation-Induced Changes in Protein Structure</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Zhuoyi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24842">2609.24842</a></td>
 </tr>
 </tbody></table>

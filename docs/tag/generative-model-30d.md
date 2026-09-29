@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32309.html">PhiFold: Towards Dynamic Protein Design with Physics-Structured Covariance Modeling</a></div><div class="paper-tags"><a href="protein-function-30d.html">protein-function</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Yutian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32309">2609.32309</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31149.html">CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Yuxuan Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.31149">2609.31149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32073.html">Reinforcement learning amortizes transition-state physics into one-step flow models</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Yunyang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32073">2609.32073</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-24</td>

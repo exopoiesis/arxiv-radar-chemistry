@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">2940 papers</span>
+  <span class="paper-count">2949 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34153.html">SPINET: Sheaf Protein Inverse Folding Network</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Jens Lundsgaard et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34153">2609.34153</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34723.html">Effects of chain stiffness on the breakdown of the Cox-Merz rule in linear and ring polymer melts</a></div></td>
+<td>Keishin Tsujino et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34723">2609.34723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35068.html">Electrolyte density, diffusivity and conductivity in graphene nanoconfinement predicted by separating interfacial from genuine confinement effects</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="battery-materials-all.html">battery-materials</a></div></td>
+<td>Haoyuan Quan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35068">2609.35068</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35380.html">Pressure-induced s,p-d electron redistribution accompanies structural transformation in amorphous Zr-Cu alloy under compression</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>P. Dziegielewski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35380">2609.35380</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33793.html">Charge Regulation Mediated Interaction of Amphoteric Nanoparticle Surfaces</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Saurav Tyagi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33793">2609.33793</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33804.html">MinkowskiPE: Minkowski Positional Encoding for Spatiotemporal Perception</a></div></td>
+<td>Yuhao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33804">2609.33804</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30848.html">When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a></div></td>
@@ -50,6 +86,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31480.html">Ferroelectric Switching in ZnO/Zn1-xMgxO Heterostructures: Atomistic Insights into Interfacial Coupling and Layer Architecture</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a></div></td>
 <td>Alireza Sepehrinezhad et al.</td>
 <td><a href="http://arxiv.org/abs/2609.31480">2609.31480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31875.html">Heteroatom Position Controls Ultrafast Photodynamics of Oxazole and Isoxazole</a></div></td>
+<td>Briony Downes-Ward et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31875">2609.31875</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32040.html">Bridging Molecular Scales with Implicit Score Matching for Bottom-Up Coarse Graining</a></div></td>
+<td>Patrick G. Sahrmann et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32040">2609.32040</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-24</td>
@@ -134,6 +182,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28829.html">Simulation of ultracold plasma expansion in homogeneous magnetic field</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>E. V. Vikhrov et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28829">2609.28829</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31743.html">ElectrolyteMD-Bench: How Well Do AI Agents Conduct Molecular Dynamics Studies across Electrolyte Solvation Regimes?</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a></div></td>
+<td>Shukai Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31743">2609.31743</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-22</td>

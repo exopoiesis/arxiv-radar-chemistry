@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
 <td>Thomas Egg et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26402">2609.26402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24622.html">A priori regularity of the reverse heat flow and dimension-dependent complexity of higher-order diffusion samplers</a></div></td>
-<td>Xixian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24622">2609.24622</a></td>
 </tr>
 </tbody></table>

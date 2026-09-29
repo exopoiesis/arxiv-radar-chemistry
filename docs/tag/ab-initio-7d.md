@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34761.html">Model potential based estimation of positron bound states with polar molecules</a></div></td>
+<td>Snigdha Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34761">2609.34761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34869.html">Chemical site bases and average-atom potentials for the atomic cluster expansion</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Lorenzo Piersante et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34869">2609.34869</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35144.html">Potential-energy surfaces of water and its molecular ions up to \texorpdfstring{H$_2$O$^{3+}$}{H2O3+}</a></div></td>
+<td>Giorgio Visentin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35144">2609.35144</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35722.html">Multilevel Plaquette-Space Sampling for Lattice Gauge Theories with Local Constraint Solves</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Ankur Singha et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35722">2609.35722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
+<td>Chuntian Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33823.html">Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
+<td>Andrew S. Rosen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33823">2609.33823</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32121.html">Temperature Dependent Evolution of the Electronic Structure in EuZn2As2 across the Neel Transition</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Milo Sprague et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32121">2609.32121</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30845.html">$U(1)$ Gauge-Equivariant Representation Learning of Bloch States</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
@@ -98,35 +140,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27108.html">Towards Extended Active Learning for Modelling Ferroelectric Switching: the Need for &#x27;Gold Standards&#x27;</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
 <td>Jeffrey R. Reimers et al.</td>
 <td><a href="http://arxiv.org/abs/2609.27108">2609.27108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24038.html">From Heuristics to Machine Learning: The Performance Ceiling for Single-Ion Magnets and Its Electronic Origin</a></div></td>
-<td>Federico Zahariev et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24038">2609.24038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24293.html">Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Zhenxing Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24293">2609.24293</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24856.html">Scandium diboride: a semi-metallic, lattice, thermally matched substrate for vertical AlGaN power electronics</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>MVS Chandrashekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24856">2609.24856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24940.html">Ruling out nucleonic direct Urca cooling in low-mass neutron stars using nuclear data</a></div></td>
-<td>Gabriele Montefusco et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24940">2609.24940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25305.html">Influence of Electrostatic Environment on the Proximity Spin-Orbit Coupling in Graphene on Transition-Metal Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="tmd-7d.html">tmd</a></div></td>
-<td>Bert Jorissen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25305">2609.25305</a></td>
 </tr>
 </tbody></table>

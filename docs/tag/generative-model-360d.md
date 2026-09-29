@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">467 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32309.html">PhiFold: Towards Dynamic Protein Design with Physics-Structured Covariance Modeling</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Yutian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32309">2609.32309</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31149.html">CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Yuxuan Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.31149">2609.31149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32073.html">Reinforcement learning amortizes transition-state physics into one-step flow models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Yunyang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32073">2609.32073</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-24</td>
@@ -2810,11 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05849.html">ESS-Flow: Training-free guidance of flow-based models as inference in source space</a></div></td>
 <td>Adhithyan Kalaivanan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05849">2510.05849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18340.html">Controlled Generation with Equivariant Variational Flow Matching</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Floor Eijkelboom et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18340">2506.18340</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">419 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2528,11 +2528,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23444.html">CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis</a></div></td>
 <td>Runmin Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23444">2505.23444</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05788.html">On diffusion posterior sampling via sequential Monte Carlo for zero-shot scaffolding of protein motifs</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>James Matthew Young et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05788">2412.05788</a></td>
 </tr>
 </tbody></table>

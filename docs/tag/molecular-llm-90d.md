@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-llm — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="molecular-llm-7d.html">7d</a> <a href="molecular-llm-30d.html">30d</a> <strong>90d</strong> <a href="molecular-llm-360d.html">360d</a> <a href="molecular-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34301.html">One Sequence, Many Decodings: CAGenMol-2 Recasts Drug Design as Masked Molecular Inference</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Yanting Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34301">2609.34301</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05694.html">GraphNOSE: A Graph Transformer in Olfaction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>

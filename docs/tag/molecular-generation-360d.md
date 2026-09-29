@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34491.html">M3OS: A Monte Carlo Graph Search-Orchestrated Multi-Agent LLM System for Evidence-Traced Molecular Optimization</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Junjie Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34491">2609.34491</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35336.html">TMCS: Tool-Grounded Multi-Agent Reasoning for Compositional Chemical Problem Solving</a></div></td>
+<td>Shengqin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35336">2609.35336</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16527.html">QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Michael Hanna et al.</td>
@@ -884,17 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19506.html">Frame-based Equivariant Diffusion Models for 3D Molecular Generation</a></div></td>
 <td>Mohan Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19506">2509.19506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18340.html">Controlled Generation with Equivariant Variational Flow Matching</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Floor Eijkelboom et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18340">2506.18340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01471.html">Fine-tuning LLMs with variational Bayesian last layer for high-dimensional Bayesian optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Haotian Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01471">2510.01471</a></td>
 </tr>
 </tbody></table>

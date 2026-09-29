@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33061.html">LLM sequential decision making under uncertainty in biochemical domains</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>Mattias Akke et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33061">2609.33061</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33722.html">BOReFT: Manifold Steering of Language Models for Black-box Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Dhruv Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33722">2609.33722</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
@@ -794,11 +806,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11727.html">Multi-objective Bayesian Optimization with Human-in-the-Loop for Flexible Neuromorphic Electronics Fabrication</a></div></td>
 <td>Benius Dunn et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11727">2510.11727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01471.html">Fine-tuning LLMs with variational Bayesian last layer for high-dimensional Bayesian optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Haotian Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01471">2510.01471</a></td>
 </tr>
 </tbody></table>

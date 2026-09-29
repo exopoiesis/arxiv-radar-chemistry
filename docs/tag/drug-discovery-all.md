@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1037 papers</span>
+  <span class="paper-count">1042 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34301.html">One Sequence, Many Decodings: CAGenMol-2 Recasts Drug Design as Masked Molecular Inference</a></div><div class="paper-tags"><a href="molecular-llm-all.html">molecular-llm</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Yanting Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34301">2609.34301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34921.html">Drug-Target Interaction Prediction via Hierarchical Sequential Cross-Attention over Chemical and Protein Language Models</a></div></td>
+<td>Khadidja Henni et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34921">2609.34921</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33407.html">Let CSP Be Your ANCHOR: Adaptive Crystal Search over Frozen Structure Priors</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Emma Lei Hovmand et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33407">2609.33407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33722.html">BOReFT: Manifold Steering of Language Models for Black-box Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
+<td>Dhruv Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33722">2609.33722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34001.html">Assay-Aware BindingDB: Curating Experimental Context for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td>Ming-Hsiu Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34001">2609.34001</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31077.html">Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>

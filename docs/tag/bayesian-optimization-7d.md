@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33061.html">LLM sequential decision making under uncertainty in biochemical domains</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
+<td>Mattias Akke et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33061">2609.33061</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33722.html">BOReFT: Manifold Steering of Language Models for Black-box Optimization</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
+<td>Dhruv Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33722">2609.33722</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
@@ -26,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27405.html">Physics-guided inverse design of Co-based superalloys using machine learning and multi-objective optimization for enhanced $γ&#x27;$ solvus temperature</a></div></td>
 <td>Prashil S. Joshi</td>
 <td><a href="http://arxiv.org/abs/2609.27405">2609.27405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24029.html">Sustained Orbital Motion Driven by Circularly Polarized Light in Nanoscale Stator-Rotor Architectures</a></div></td>
-<td>Shiye Du et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24029">2609.24029</a></td>
 </tr>
 </tbody></table>

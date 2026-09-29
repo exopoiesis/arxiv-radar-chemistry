@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">308 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34829.html">From Weak Task Specifications to Scientific Extraction Agents: Optimizing Task Construction</a></div></td>
+<td>Zixiao Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34829">2609.34829</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35468.html">Exploring $U_A(1)$ symmetry restoration in a magnetic field by meson screening masses in the NJL model</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Bing-Kai Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35468">2609.35468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33061.html">LLM sequential decision making under uncertainty in biochemical domains</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
+<td>Mattias Akke et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33061">2609.33061</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30432.html">Activating Basal Planes in Transition Metal Dichalcogenides for CO2 Reduction to CO through Alloying</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="tmd-360d.html">tmd</a></div></td>
@@ -1844,11 +1862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03693.html">Tracking Electron, Proton, and Solvent Motion in Proton-Coupled Electron Transfer with Ultrafast X-rays</a></div></td>
 <td>Abdullah Kahraman et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03693">2510.03693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02747.html">Inverse magnetic catalysis in the linear sigma model: a beyond mean field approach</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Gabriela Fernández et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02747">2510.02747</a></td>
 </tr>
 </tbody></table>

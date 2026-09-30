@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36737.html">Reconstructing the Vocal Tract with Differentiable Acoustic Simulation</a></div></td>
+<td>Eric Ming Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36737">2609.36737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36850.html">Rethinking Multimodal Fake News Detection in the Generative AI Era</a></div></td>
+<td>Wenbin Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36850">2609.36850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37158.html">GLASS: Global Latent Aggregation with Slot-based Set Decoding for Scalable All-Atom Crystal Generation</a></div><div class="paper-tags"><a href="mof-90d.html">mof</a></div></td>
+<td>Hendrik Kraß et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37158">2609.37158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34592.html">Curvature-Aware Flow Matching for Molecular Structure Generation</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Samir Darouich et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34592">2609.34592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34673.html">FestDPO: Few-step Generator Alignment with Direct Preference Optimization</a></div></td>
+<td>Jaewoo Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34673">2609.34673</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36398.html">Where Should Physics Enter a Molecular Crystal Generator?</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Haocheng Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36398">2609.36398</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32309.html">PhiFold: Towards Dynamic Protein Design with Physics-Structured Covariance Modeling</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
@@ -26,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31149.html">CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Yuxuan Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.31149">2609.31149</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31978.html">Bridging Stochastic Flow Maps and Boltzmann Generators with Normalizing Flows</a></div></td>
+<td>Louis Grenioux et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31978">2609.31978</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-25</td>
@@ -488,23 +530,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03513.html">AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Emmanuel Bengio et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03513">2607.03513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00464.html">MolSafeEval: A Benchmark for Uncovering Safety Risks in AI-Generated Molecules</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Tong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00464">2607.00464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00947.html">Diffeomorphic Optimization</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Ludwig Winkler et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00947">2607.00947</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01061.html">Agentic generation of verifiable rules for deterministic, self-expanding reaction classification</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Daniel Armstrong et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01061">2607.01061</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">350 papers</span>
+  <span class="paper-count">351 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37207.html">Near-Optimal Quantum Algorithm and Complexity Analysis for Riccati Problems</a></div></td>
+<td>Jingyao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37207">2609.37207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36266.html">Quantifying Teleportation Overhead in Distributed Unitary Coupled-Cluster Ansätze</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Grier M. Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36266">2609.36266</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33847.html">Performance vs Portability in Heterogeneous HPC Environments: Why Pre-execution Benchmarking is Required</a></div></td>
@@ -2108,11 +2120,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04227.html">A Universal Deep Learning Force Field for Molecular Dynamic Simulation and Vibrational Spectra Prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Shengjiao Ji et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04227">2510.04227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01670.html">QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry</a></div></td>
-<td>Jiaqing Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01670">2508.01670</a></td>
 </tr>
 </tbody></table>

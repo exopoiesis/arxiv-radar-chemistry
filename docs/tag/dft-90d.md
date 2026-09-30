@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">428 papers</span>
+  <span class="paper-count">430 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>Shin-ichi Fujimori</td>
+<td><a href="http://arxiv.org/abs/2609.36706">2609.36706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37058.html">Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a></div></td>
+<td>Bang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37058">2609.37058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>J. Bulíř et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37075">2609.37075</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37166.html">Adaptive Expansions of the Optimized Effective Potential in Physically Motivated Response Spaces</a></div></td>
+<td>Gabriel Chirchir et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37166">2609.37166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37823.html">Multiscale modelling of nanoscaled FETs based on 2D ferroelectric materials</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Alejandro Toral-Lopez et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37823">2609.37823</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37827.html">Electronic Coupling and Charge-Transfer Landscape of Graphene on Ge(001)/Si(001): Multiscale Analysis Assisted by Machine Learning</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
+<td>Pawel Dabrowski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37827">2609.37827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.38125.html">How Thermodynamically Accessible are Quaternary Mixed-Metal Chalcohalides?</a></div></td>
+<td>Pascal Henkel et al.</td>
+<td><a href="http://arxiv.org/abs/2609.38125">2609.38125</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34164.html">Basis Functions for Time-Dependent Kohn-Sham Inversion</a></div></td>
@@ -50,6 +92,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35572.html">Density functional perturbation theory of meta-generalized gradient approximations using algorithmic differentiation</a></div></td>
 <td>Bruno Ploumhans et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35572">2609.35572</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35925.html">Photoelectron and electron microscopy investigation of laboratory grown Mg-silicate space dust analogues</a></div></td>
+<td>Steffen Friis Holleufer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35925">2609.35925</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-27</td>
@@ -656,6 +704,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16441.html">Full Minimal Coupling All-Electron Real-Time TDDFT for X-Ray-Matter Interactions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Daniel Schacher et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16441">2609.16441</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31667.html">Beyond the Graph: An Adaptive Meta-Learner Fuses Explainability, Weather, and Dynamics for Robust Bus ETA Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Pratham Payra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31667">2609.31667</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-13</td>
@@ -2540,47 +2594,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Afreen Anamul Haque et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02012">2607.02012</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00540.html">A general-purpose atomic cluster expansion interatomic potential for niobium</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Aleksei Egorov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00540">2607.00540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00717.html">Atomic Cluster Expansion Potentials for Screw Dislocations in BCC Refractory Metals</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00717">2607.00717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00898.html">Real-time simulation of charge migration within the time-dependent Kohn-Sham DFT</a></div></td>
-<td>Rajarshi Sinha-Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00898">2607.00898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01016.html">Effect of radially heterogeneous band gap collapse on formation of swift heavy ion tracks in Al2O3</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Roman Voronkov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01016">2607.01016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01186.html">Observation of Flat Bands in Type-II Weyl Semimetal TaRhTe$_{4}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Harry Rankin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01186">2607.01186</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01362.html">Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Weiliang Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01362">2607.01362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01407.html">Vitriflow: calibrated amorphous structure ensembles from melt-quench simulation</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jonathon Cottom et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01407">2607.01407</a></td>
 </tr>
 </tbody></table>

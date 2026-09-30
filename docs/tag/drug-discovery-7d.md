@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37384.html">MoTIF-X: A Multimodal Tokenized Framework for Interpretable and Extensible Molecular Representation Learning</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
+<td>Linqing Mo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37384">2609.37384</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34301.html">One Sequence, Many Decodings: CAGenMol-2 Recasts Drug Design as Masked Molecular Inference</a></div><div class="paper-tags"><a href="molecular-llm-7d.html">molecular-llm</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
 <td>Yanting Li et al.</td>
@@ -46,6 +52,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.34001">2609.34001</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32502.html">TreeRef-BFN: Equivariance-Free De Novo Molecule Generation based on 2D Topology and Internal 3D Geometry</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
+<td>Ruiqing Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32502">2609.32502</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31077.html">Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Sebastian O. M. Stewart et al.</td>
@@ -68,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28665.html">OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Miroslav Lžičař</td>
 <td><a href="http://arxiv.org/abs/2609.28665">2609.28665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26402.html">OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Thomas Egg et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26402">2609.26402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26502.html">Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Lai Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26502">2609.26502</a></td>
 </tr>
 </tbody></table>

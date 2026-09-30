@@ -22,15 +22,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.34301">2609.34301</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36084.html">Measuring trainable degrees of freedom in materials graph neural networks: a random-subspace intrinsic dimension analysis</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
+<td>Shehroz Ahmad Shoaib et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36084">2609.36084</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33342.html">CalibHyper: Chance-Corrected Relational Hypergraphs for Few-Shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Linyu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2609.33342">2609.33342</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27036.html">An open benchmark for machine learning-based polymer property prediction</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Robert W. Learsch et al.</td>
-<td><a href="http://arxiv.org/abs/2609.27036">2609.27036</a></td>
 </tr>
 </tbody></table>

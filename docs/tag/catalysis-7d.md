@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.35468">2609.35468</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35499.html">Physics-Guided Conditional Diffusion Model for Rare Event Synthesis and Diagnosis for the Water-Gas Shift Reaction</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a></div></td>
+<td>Md Abrar Rafid Siddique et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35499">2609.35499</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33061.html">LLM sequential decision making under uncertainty in biochemical domains</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a></div></td>
 <td>Mattias Akke et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Jonas Busk et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25936.html">Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model</a></div></td>
-<td>Jialiang Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25936">2609.25936</a></td>
 </tr>
 </tbody></table>

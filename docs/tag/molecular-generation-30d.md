@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-generation — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36683.html">MARCO: Multi-Round Agentic Reinforcement for Conditional Molecular Optimization</a></div></td>
+<td>Shicheng Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36683">2609.36683</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34491.html">M3OS: A Monte Carlo Graph Search-Orchestrated Multi-Agent LLM System for Evidence-Traced Molecular Optimization</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35336.html">TMCS: Tool-Grounded Multi-Agent Reasoning for Compositional Chemical Problem Solving</a></div></td>
 <td>Shengqin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35336">2609.35336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32502.html">TreeRef-BFN: Equivariance-Free De Novo Molecule Generation based on 2D Topology and Internal 3D Geometry</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Ruiqing Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32502">2609.32502</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>

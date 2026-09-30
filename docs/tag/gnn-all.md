@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">754 papers</span>
+  <span class="paper-count">765 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23826.html">A Physics-Conditioned Neural Operator for Generalization of Atrioventricular Valve Mechanics across Pressure and Tissue Properties</a></div></td>
+<td>Shawn Koohy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23826">2609.23826</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37058.html">Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Bang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37058">2609.37058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34904.html">Reference-Tail Trust:Certified Probability Floors for Learned Updates Inside a Deployed Network</a></div></td>
+<td>Abdolvahab Khalili Sadaghiani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34904">2609.34904</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35274.html">Multi-Attractor GNNs: Set-Valued Expressivity Beyond Unique Equilibria</a></div></td>
+<td>Jialin Liu</td>
+<td><a href="http://arxiv.org/abs/2609.35274">2609.35274</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36084.html">Measuring trainable degrees of freedom in materials graph neural networks: a random-subspace intrinsic dimension analysis</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Shehroz Ahmad Shoaib et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36084">2609.36084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36208.html">Representable but Unlearned: Encoding Rank and the Interaction-Prediction Floor</a></div></td>
+<td>Zahra Khodagholi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36208">2609.36208</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32436.html">Controllable GNN Explanations via Multi-Metric Preference Selection</a></div></td>
+<td>Rachit Verma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32436">2609.32436</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32858.html">Improved Learning of Molecular Energetics Through an Electron-Wise Joint Charge Density and Energy Objective</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
+<td>Vadim Ionas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32858">2609.32858</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29740.html">TopU-LBVS: A Realistic Multi Target Benchmark for Ligand Based Virtual Screening</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
@@ -26,6 +74,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30079.html">Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features</a></div></td>
 <td>Anne M. Tumlin et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30079">2609.30079</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30344.html">Learning coarse-step dynamics and internal mechanical response with graph networks</a></div></td>
+<td>Vinay Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30344">2609.30344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30446.html">Predicting Transmembrane Protein Topology from 3D Structure</a></div></td>
+<td>Sitong Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30446">2609.30446</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-23</td>
@@ -80,6 +140,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16339.html">Multi-Task Graph Neural Network Predictions of Auger-Electron and X-ray Photoelectron Spectroscopy</a></div></td>
 <td>Adam E. A. Fouda et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16339">2609.16339</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31667.html">Beyond the Graph: An Adaptive Meta-Learner Fuses Explainability, Weather, and Dynamics for Robust Bus ETA Prediction</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Pratham Payra et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31667">2609.31667</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-12</td>

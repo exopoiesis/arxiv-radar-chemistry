@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">284 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37384.html">MoTIF-X: A Multimodal Tokenized Framework for Interpretable and Extensible Molecular Representation Learning</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Linqing Mo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37384">2609.37384</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32291.html">ScentGen: Hierarchical Multimodal Olfactory Semantic Modeling for Molecular Odor Description Generation</a></div></td>
 <td>Zhiliang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.32291">2609.32291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32502.html">TreeRef-BFN: Equivariance-Free De Novo Molecule Generation based on 2D Topology and Internal 3D Geometry</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Ruiqing Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32502">2609.32502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32858.html">Improved Learning of Molecular Energetics Through an Electron-Wise Joint Charge Density and Energy Objective</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
+<td>Vadim Ionas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32858">2609.32858</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-25</td>

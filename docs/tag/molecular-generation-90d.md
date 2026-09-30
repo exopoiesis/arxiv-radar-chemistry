@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36683.html">MARCO: Multi-Round Agentic Reinforcement for Conditional Molecular Optimization</a></div></td>
+<td>Shicheng Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36683">2609.36683</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34491.html">M3OS: A Monte Carlo Graph Search-Orchestrated Multi-Agent LLM System for Evidence-Traced Molecular Optimization</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Junjie Wang et al.</td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35336.html">TMCS: Tool-Grounded Multi-Agent Reasoning for Compositional Chemical Problem Solving</a></div></td>
 <td>Shengqin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35336">2609.35336</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32502.html">TreeRef-BFN: Equivariance-Free De Novo Molecule Generation based on 2D Topology and Internal 3D Geometry</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Ruiqing Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32502">2609.32502</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -134,17 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02944.html">A Precedent-Guided Co-Scientist for Side-Effect-Aware Drug Redesign</a></div></td>
 <td>Yujin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02944">2607.02944</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00464.html">MolSafeEval: A Benchmark for Uncovering Safety Risks in AI-Generated Molecules</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Tong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00464">2607.00464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00531.html">Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Xuefeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00531">2607.00531</a></td>
 </tr>
 </tbody></table>

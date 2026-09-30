@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">315 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1898,11 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04589.html">Investigating into mechanisms of high temperature strength of refractory high-entropy alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sai Anandhi Seetharaman et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04589">2510.04589</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03650.html">LLM-Guided Evolutionary Program Synthesis for Quasi-Monte Carlo Design</a></div></td>
-<td>Amir Sadikov</td>
-<td><a href="http://arxiv.org/abs/2510.03650">2510.03650</a></td>
 </tr>
 </tbody></table>

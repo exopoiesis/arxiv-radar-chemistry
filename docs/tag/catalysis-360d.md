@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.35468">2609.35468</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35499.html">Physics-Guided Conditional Diffusion Model for Rare Event Synthesis and Diagnosis for the Water-Gas Shift Reaction</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Md Abrar Rafid Siddique et al.</td>
+<td><a href="http://arxiv.org/abs/2609.35499">2609.35499</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33061.html">LLM sequential decision making under uncertainty in biochemical domains</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Mattias Akke et al.</td>
@@ -1856,11 +1862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13897.html">Harnessing multi-mode optical structure for chemical reactivity</a></div></td>
 <td>Yaling Ke et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13897">2507.13897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03693.html">Tracking Electron, Proton, and Solvent Motion in Proton-Coupled Electron Transfer with Ultrafast X-rays</a></div></td>
-<td>Abdullah Kahraman et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03693">2510.03693</a></td>
 </tr>
 </tbody></table>

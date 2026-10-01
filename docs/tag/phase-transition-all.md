@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transition — all</h1>
-  <span class="paper-count">438 papers</span>
+  <span class="paper-count">426 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2570,77 +2570,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07659.html">Tuned ionic mobility by Ultrafast-laser pulses in Black Silicon</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Christelle Inès K. Mebou et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07659">2409.07659</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12896.html">Identifying band structure changes of FePS3 across the antiferromagnetic phase transition</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Benjamin Pestka et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12896">2408.12896</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13081.html">Magnetic correlations and Griffith-like phase in Co$_2$TiSi$_{0.5}$Al$_{0.5}$ Heusler alloy</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Priyanka Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13081">2408.13081</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12297.html">The Critical Metallization of Hydrogen in Pressurized LaBeH8 Hydride</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Zihan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12297">2408.12297</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09011.html">Finite-temperature properties of antiferroelectric perovskite $\rm PbZrO_3$ from deep learning interatomic potential</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Huazhang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09011">2406.09011</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10995.html">CTP-LLM: Clinical Trial Phase Transition Prediction Using Large Language Models</a></div></td>
-<td>Michael Reinisch et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10995">2408.10995</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07979.html">Role of host/guest coupling in stabilizing the phases of the over-tolerant hybrid perovskite MHyPbX3</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Pradhi Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07979">2408.07979</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04036.html">Structural transitions of calcium carbonate by molecular dynamics simulation</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Elizaveta Sidler et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04036">2408.04036</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15650.html">Tuning structural modulation and magnetic properties in metal-organic coordination polymers [CH$_3$NH$_3$]Co$_x$Ni$_{1-x}$(HCOO)$_3$</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Madeleine Geers et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15650">2405.15650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02429.html">Neural-network-enabled molecular dynamics study of HfO$_2$ phase transitions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Sebastian Bichelmaier et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02429">2408.02429</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02576.html">Nanoscale Engineering of Wurtzite Ferroelectrics: Unveiling Phase Transition and Ferroelectric Switching in ScAlN Nanowires</a></div></td>
-<td>Ding Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02576">2408.02576</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05718.html">Multi-temperature atomic ensemble: nonequilibrium evolution after ultrafast electronic excitation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Nikita Medvedev et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05718">2406.05718</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00423.html">Pairing phase transition in the odd-A nuclei: identification and classification</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Yumeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00423">2408.00423</a></td>
 </tr>
 </tbody></table>

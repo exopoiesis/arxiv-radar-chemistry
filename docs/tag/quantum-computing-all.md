@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-computing — all</h1>
-  <span class="paper-count">228 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1328,59 +1328,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05777.html">Quantum Resources for Pure Thermal Shadows</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
 <td>Arnav Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05777">2409.05777</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16159.html">Integrating Quantum Computing Resources into Scientific HPC Ecosystems</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Thomas Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16159">2408.16159</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14697.html">Circumventing Traps in Analog Quantum Machine Learning Algorithms Through Co-Design</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Rodrigo Araiza Bravo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14697">2408.14697</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10138.html">Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>N. Smirnov et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10138">2408.10138</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10801.html">Solving an Industrially Relevant Quantum Chemistry Problem on Quantum Hardware</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Ludwig Nützel et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10801">2408.10801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09308.html">Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Karl Michael Ziems et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09308">2408.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06524.html">From Graphs to Qubits: A Critical Review of Quantum Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Andrea Ceschini et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06524">2408.06524</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03248.html">Optimizing Density Functional Theory for Strain-Dependent Magnetic Properties of MnBi$_2$Te$_4$ with Diffusion Monte Carlo</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Swarnava Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03248">2408.03248</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02631.html">Quantum information theory on sparse wavefunctions and applications for Quantum Chemistry</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Davide Materia et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02631">2408.02631</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00501.html">Quantum Program Testing Through Commuting Pauli Strings on IBM&#x27;s Quantum Computers</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Asmar Muqeet et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00501">2408.00501</a></td>
 </tr>
 </tbody></table>

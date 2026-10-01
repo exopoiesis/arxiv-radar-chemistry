@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">233 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1376,41 +1376,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07190.html">Applying Multi-Fidelity Bayesian Optimization in Chemistry: Open Challenges and Major Considerations</a></div></td>
 <td>Edmund Judge et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07190">2409.07190</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07681.html">Visualizing High Entropy Alloy Spaces: Methods and Best Practices</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Brent Vela et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07681">2408.07681</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05040.html">BoFire: Bayesian Optimization Framework Intended for Real Experiments</a></div></td>
-<td>Johannes P. Dürholt et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05040">2408.05040</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05135.html">SPACIER: On-Demand Polymer Design with Fully Automated All-Atom Classical Molecular Dynamics Integrated into Machine Learning Pipelines</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Shun Nanjo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05135">2408.05135</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02949.html">Few-shot Scooping Under Domain Shift via Simulated Maximal Deployment Gaps</a></div></td>
-<td>Yifan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02949">2408.02949</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02551.html">Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Markus Grimm et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02551">2408.02551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02071.html">Scientific Exploration with Expert Knowledge (SEEK) in Autonomous Scanning Probe Microscopy with Active Learning</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Utkarsh Pratiush et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02071">2408.02071</a></td>
 </tr>
 </tbody></table>

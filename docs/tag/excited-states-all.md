@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">418 papers</span>
+  <span class="paper-count">404 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2438,89 +2438,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01033.html">Simulating strong-field electron-hole dynamics in solids probed by attosecond transient absorption spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
 <td>Stefano M. Cavaletto et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01033">2409.01033</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16294.html">Exchange kernel $f^h_x(q,ω)$ of electron liquid from the variational principle of McLachlan</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Vladimir U. Nazarov et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16294">2408.16294</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15346.html">Statistical inference of collision frequencies from x-ray Thomson scattering spectra</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Thomas W. Hentschel et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15346">2408.15346</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09060.html">Reference CC3 Excitation Energies for Organic Chromophores: Benchmarking TD-DFT, BSE/$GW$ and Wave Function Methods</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Iryna Knysh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09060">2407.09060</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.12593.html">Stationary conditions for excited states: the surprising impact of density-driven correlations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Tim Gould</td>
-<td><a href="http://arxiv.org/abs/2404.12593">2404.12593</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08443.html">Fractional Charges, Linear Conditions and Chemical Potentials for Excited States in $ΔSCF$ Theory</a></div></td>
-<td>Weitao Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08443">2408.08443</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10059.html">Orbital Energies Are Chemical Potentials in Ground-State Density Functional Theory and Excited-State $Δ$SCF Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Weitao Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10059">2408.10059</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09161.html">Physical Properties of the Sodium-Based Cubic Fluoro-Perovskites: NaBF$_3$ (B= Ca, Mg or Zn): DFT and TDDFT Studies</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>S. Idrissi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09161">2408.09161</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06560.html">Influence of Point Defects on Laser-Induced Excitation in Silicon</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Tomohito Otobe et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06560">2408.06560</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20017.html">Direct, indirect, and self-trapped excitons in Cs$_2$AgBiBr$_6$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Mehmet Baskurt et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20017">2405.20017</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06908.html">Optical line shapes of color centers in solids from classical autocorrelation functions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Christopher Linderälv et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06908">2408.06908</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17994.html">Computing linear optical spectra in the presence of nonadiabatic effects on Graphics Processing Units using molecular dynamics and tensor-network approaches</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Evan Lambertson et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17994">2406.17994</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02216.html">High-order harmonic generation probing of a ring-opening reaction</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Lauren Bauerle et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02216">2408.02216</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.00525.html">Minority magnons and mode branching in monolayer Fe$_3$GeTe$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Thorbjørn Skovhus et al.</td>
-<td><a href="http://arxiv.org/abs/2403.00525">2403.00525</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12749.html">The hBN defects database: a theoretical compilation of color centers in hexagonal boron nitride</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Chanaprom Cholsuk et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12749">2405.12749</a></td>
 </tr>
 </tbody></table>

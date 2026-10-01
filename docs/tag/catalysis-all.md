@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">583 papers</span>
+  <span class="paper-count">566 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3410,107 +3410,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04209.html">Deuteron, triton, helium-3 and hypertriton production in relativistic heavy-ion collisions via stochastic multi-particle reactions</a></div></td>
 <td>Martha Ege et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04209">2409.04209</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15299.html">TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Yiqing Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15299">2408.15299</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10844.html">Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Joseph Musielewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10844">2407.10844</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14577.html">Accelerated structure-stability energy-free calculator</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Alexandre Boucher et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14577">2408.14577</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13927.html">Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies</a></div><div class="paper-tags"><a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Mahadi Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13927">2408.13927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12939.html">A cost-effective strategy of enhancing machine learning potentials by transfer learning from a multicomponent dataset on ænet-PyTorch</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>An Niza El Aisnadaa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12939">2408.12939</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12160.html">Mapping Hydrogen Evolution Activity Trends of V-based A15 Superconducting Alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Peifeng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12160">2408.12160</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04445.html">Slip Due to Kink Propagation at the Liquid-Solid Interface</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Metehan Cam et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04445">2409.04445</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11373.html">Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion</a></div><div class="paper-tags"><a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Kangwang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11373">2408.11373</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10289.html">Could Ball Lightning Be Magnetic Monopoles?</a></div></td>
-<td>Karl D. Stephan</td>
-<td><a href="http://arxiv.org/abs/2408.10289">2408.10289</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07374.html">Coupling Between Local and Global Oscillations in Palladium-Catalysed Methane Oxidation</a></div></td>
-<td>Yuxiong Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07374">2408.07374</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12790.html">Dissociative Electron Attachment on Metal Surfaces: The Case of HCl$^-$ on Au(111)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
-<td>Robin E. Moorby et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12790">2406.12790</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03549.html">Enhanced hydrogen evolution reaction activity of nitrogen deficient $hg-C_{3}N_{4}$ quantum dot</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03549">2408.03549</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18689.html">Monopoles and Fermions in the Standard Model</a></div></td>
-<td>Valentin V. Khoze</td>
-<td><a href="http://arxiv.org/abs/2405.18689">2405.18689</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02443.html">Traversing a thin lubricant film in finite time</a></div></td>
-<td>John Sebastian et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02443">2408.02443</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02551.html">Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
-<td>Markus Grimm et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02551">2408.02551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17669.html">Atomic Resolution Observations of Nanoparticle Surface Dynamics and Instabilities Enabled by Artificial Intelligence</a></div></td>
-<td>Peter A. Crozier et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17669">2407.17669</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01371.html">Nitrogen-containing Surface Ligands Lead to False Positives for Photofixation of N$_2$ on Metal Oxide Nanocrystals: An Experimental and Theoretical Study</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Daniel Maldonado-Lopez et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01371">2408.01371</a></td>
 </tr>
 </tbody></table>

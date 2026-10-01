@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">690 papers</span>
+  <span class="paper-count">676 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4070,89 +4070,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01436.html">Dynamic Jahn-Teller effect in the strong spin-orbit coupling regime</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
 <td>Ivica Zivkovic et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01436">2409.01436</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16983.html">Dirac bilinears in condensed matter physics: Relativistic correction for observables and conjugate electromagnetic fields</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Shintaro Hoshino et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16983">2408.16983</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17277.html">On the key kinetic interactions between NOx and unsaturated hydrocarbons: H-atom abstraction from C3-C7 alkynes and dienes by NO2</a></div></td>
-<td>Zhengyan Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17277">2408.17277</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16159.html">Integrating Quantum Computing Resources into Scientific HPC Ecosystems</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Thomas Beck et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16159">2408.16159</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15023.html">Understanding kinetic interactions between NOx and C2-C5 alkanes and alkenes: The rate rules and influences of H-atom abstractions by NO2</a></div></td>
-<td>Hongqing Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15023">2408.15023</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14697.html">Circumventing Traps in Analog Quantum Machine Learning Algorithms Through Co-Design</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Rodrigo Araiza Bravo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14697">2408.14697</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13570.html">Quantized Embedding Approaches for Collective Strong Coupling -- Connecting ab initio and macroscopic QED to Simple Models in Polaritonics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Frieder Lindel et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13570">2408.13570</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10801.html">Solving an Industrially Relevant Quantum Chemistry Problem on Quantum Hardware</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Ludwig Nützel et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10801">2408.10801</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09308.html">Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Karl Michael Ziems et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09308">2408.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12625.html">Machine Learning Potentials: A Roadmap Toward Next-Generation Biomolecular Simulations</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
-<td>Gianni De Fabritiis</td>
-<td><a href="http://arxiv.org/abs/2408.12625">2408.12625</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07625.html">Neural Quantum States and Peaked Molecular Wave Functions: Curse or Blessing?</a></div></td>
-<td>Aleksei Malyshev et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07625">2408.07625</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06842.html">Geminal theory within the seniority formalism and bi-variational principle</a></div></td>
-<td>Stijn De Baerdemacker et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06842">2408.06842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05011.html">Survey on Computational Applications of Tensor Network Simulations</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Marcos Díez García et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05011">2408.05011</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02631.html">Quantum information theory on sparse wavefunctions and applications for Quantum Chemistry</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Davide Materia et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02631">2408.02631</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00501.html">Quantum Program Testing Through Commuting Pauli Strings on IBM&#x27;s Quantum Computers</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Asmar Muqeet et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00501">2408.00501</a></td>
 </tr>
 </tbody></table>

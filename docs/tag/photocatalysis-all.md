@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>photocatalysis — all</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <a href="photocatalysis-30d.html">30d</a> <a href="photocatalysis-90d.html">90d</a> <a href="photocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,29 +416,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08683.html">Selective incorporation of antimony into gallium nitride</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Yujie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2405.08683">2405.08683</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13927.html">Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Mahadi Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13927">2408.13927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11369.html">Non-trivial Topological Surface States Regulation of 1T-OsCoTe$_2$ Enables Selective C-C Coupling for Highly Efficient Photochemical CO$_2$ Reduction Toward C$_{2+}$ hydrocarbons</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Kangwang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11369">2408.11369</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11373.html">Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Kangwang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11373">2408.11373</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01371.html">Nitrogen-containing Surface Ligands Lead to False Positives for Photofixation of N$_2$ on Metal Oxide Nanocrystals: An Experimental and Theoretical Study</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Daniel Maldonado-Lopez et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01371">2408.01371</a></td>
 </tr>
 </tbody></table>

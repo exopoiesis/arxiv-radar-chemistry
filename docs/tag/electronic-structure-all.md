@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">876 papers</span>
+  <span class="paper-count">865 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5204,71 +5204,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01320.html">Generating Approximate Ground States of Strongly Correlated Quantum Many-Body Systems Through Quantum Imaginary Time Evolution</a></div></td>
 <td>Michael P. Kaicher et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01320">2409.01320</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17002.html">General Quantum Alchemical Free Energy Simulations via Hamiltonian Interpolation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Chenghan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17002">2408.17002</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16301.html">Influence of anti-ferromagnetic ordering and electron correlation on the electronic structure of MnTiO$_3$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Asif Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16301">2408.16301</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15748.html">Manifestation of incoherent-coherent crossover and non-Stoner magnetism in the electronic structure of Fe$_3$GeTe$_2$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Deepali Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15748">2408.15748</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15029.html">$\mathcal{P,T}$-odd effects in YbCu, YbAg and YbAu</a></div></td>
-<td>Johan David Polet et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15029">2408.15029</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12297.html">The Critical Metallization of Hydrogen in Pressurized LaBeH8 Hydride</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Zihan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12297">2408.12297</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07014.html">Exploring the Coexistence of Spin States in [Fe-(tpy-ph)$_2$]$^{2+}$ Complexes on Au(111) using ab initio calculations</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Naveen K. Dandu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07014">2408.07014</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07938.html">Sb2Se3 and SbBiSe3 Surface Capping and Biaxial Strain Co-Engineering for Tuning the Surface Electronic Properties of Bi2Se3 Nanosheet- A Density Functional Theory based Investigation</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Naresh Bahadursha et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07938">2408.07938</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17994.html">Computing linear optical spectra in the presence of nonadiabatic effects on Graphics Processing Units using molecular dynamics and tensor-network approaches</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Evan Lambertson et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17994">2406.17994</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05915.html">Surface Termination and Band Alignment in 2D Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Raheel Hammad et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05915">2408.05915</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12749.html">The hBN defects database: a theoretical compilation of color centers in hexagonal boron nitride</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Chanaprom Cholsuk et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12749">2405.12749</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00897.html">Confinement of quasi-atomic structures in Ti$_2$N and Ti$_3$N$_2$ MXene Electrides</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Chandra M. Adhikari et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00897">2408.00897</a></td>
 </tr>
 </tbody></table>

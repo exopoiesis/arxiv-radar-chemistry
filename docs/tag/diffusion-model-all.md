@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-model — all</h1>
-  <span class="paper-count">781 papers</span>
+  <span class="paper-count">769 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4628,77 +4628,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00585.html">McCaD: Multi-Contrast MRI Conditioned, Adaptive Adversarial Diffusion Model for High-Fidelity MRI Synthesis</a></div></td>
 <td>Sanuwani Dayarathna et al.</td>
 <td><a href="http://arxiv.org/abs/2409.00585">2409.00585</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07288.html">Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning</a></div></td>
-<td>Masane Fuchi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07288">2405.07288</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13154.html">Conditional score-based diffusion models for solving inverse problems in mechanics</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="materials-science-all.html">materials-science</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13154">2406.13154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15601.html">Grand canonical generative diffusion model for crystalline phases and grain boundaries</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Bo Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15601">2408.15601</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15157.html">Simulation of Stochastic Discrete Dislocation Dynamics in Ductile Vs Brittle Materials</a></div></td>
-<td>Santosh Chhetri et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15157">2408.15157</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05870.html">Enabling Distributed Generative Artificial Intelligence in 6G: Mobile Edge Generation</a></div><div class="paper-tags"><a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Ruikang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05870">2409.05870</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12054.html">Spin relaxation in graphite due to spin-orbital-phonon interaction from first-principles density-matrix approach</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Junqing Xu</td>
-<td><a href="http://arxiv.org/abs/2408.12054">2408.12054</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05713.html">SSL: A Self-similarity Loss for Improving Generative Image Super-resolution</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Du Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05713">2408.05713</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09702.html">Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering</a></div></td>
-<td>Ruofan Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09702">2408.09702</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07626.html">Anisotropic Diffusion Model of Communication in 2D Biofilm</a></div></td>
-<td>Yanahan Paramalingam et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07626">2408.07626</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07213.html">Representation-space diffusion models for generating periodic materials</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Anshuman Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07213">2408.07213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06244.html">3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)</a></div></td>
-<td>Jaydeep Rade et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06244">2408.06244</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.10935.html">Molecular relaxation by reverse diffusion with time step prediction</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Khaled Kahouli et al.</td>
-<td><a href="http://arxiv.org/abs/2404.10935">2404.10935</a></td>
 </tr>
 </tbody></table>

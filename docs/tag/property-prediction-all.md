@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">439 papers</span>
+  <span class="paper-count">431 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2600,53 +2600,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04737.html">CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Shrimon Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04737">2409.04737</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16337.html">Do Graph Neural Networks Work for High Entropy Alloys?</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Hengrui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16337">2408.16337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14964.html">Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Sakhinana Sagar Srinivas et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14964">2408.14964</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10844.html">Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Joseph Musielewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10844">2407.10844</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09461.html">Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Tanya Liyaqat et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09461">2408.09461</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07930.html">Token-Mol 1.0: Tokenized drug design with large language model</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Jike Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07930">2407.07930</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10124.html">Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Tianyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10124">2408.10124</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18724.html">Adapting Differential Molecular Representation with Hierarchical Prompts for Multi-label Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Linjia Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18724">2405.18724</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03732.html">Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks</a></div><div class="paper-tags"><a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
-<td>Zizhang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03732">2408.03732</a></td>
 </tr>
 </tbody></table>

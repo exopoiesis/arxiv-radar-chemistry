@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-llm — all</h1>
-  <span class="paper-count">180 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,23 +1076,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06090.html">AbGPT: De Novo Antibody Design via Generative Language Modeling</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Desmond Kuan et al.</td>
 <td><a href="http://arxiv.org/abs/2409.06090">2409.06090</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08341.html">Exploring Latent Space for Generating Peptide Analogs Using Protein Language Models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Po-Yu Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08341">2408.08341</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.15087.html">Detection of circular permutations by Protein Language Models</a></div></td>
-<td>Yue Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2404.15087">2404.15087</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00892.html">Peptide Sequencing Via Protein Language Models</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Thuong Le Hoai Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00892">2408.00892</a></td>
 </tr>
 </tbody></table>

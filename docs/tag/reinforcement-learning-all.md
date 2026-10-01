@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reinforcement-learning — all</h1>
-  <span class="paper-count">249 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1496,17 +1496,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16298.html">BetterBodies: Reinforcement Learning guided Diffusion for Antibody Sequence Design</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
 <td>Yannick Vogt et al.</td>
 <td><a href="http://arxiv.org/abs/2409.16298">2409.16298</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05870.html">Enabling Distributed Generative Artificial Intelligence in 6G: Mobile Edge Generation</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Ruikang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05870">2409.05870</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07930.html">Token-Mol 1.0: Tokenized drug design with large language model</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Jike Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07930">2407.07930</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1044 papers</span>
+  <span class="paper-count">1027 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -6176,107 +6176,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12926.html">MaskMol: Knowledge-guided Molecular Image Pre-Training Framework for Activity Cliffs</a></div></td>
 <td>Zhixiang Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2409.12926">2409.12926</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00210.html">Quantitative Prediction of Protein-Polyelectrolyte Binding Thermodynamics: Adsorption of Heparin-Analog Polysulfates to the SARS-CoV-2 Spike Protein RBD</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lenard Neander et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00210">2409.00210</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00133.html">A Survey for Large Language Models in Biomedicine</a></div></td>
-<td>Chong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00133">2409.00133</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13299.html">Mayer-homology learning prediction of protein-ligand binding affinities</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Hongsong Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13299">2408.13299</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09461.html">Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Tanya Liyaqat et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09461">2408.09461</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10482.html">Evaluation Framework for AI-driven Molecular Design of Multi-target Drugs: Brain Diseases as a Case Study</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Arthur Cerveira et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10482">2408.10482</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07930.html">Token-Mol 1.0: Tokenized drug design with large language model</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Jike Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07930">2407.07930</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09730.html">Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Cong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09730">2408.09730</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10124.html">Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Tianyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10124">2408.10124</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10285.html">BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="retrosynthesis-all.html">retrosynthesis</a></div></td>
-<td>Yifei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10285">2408.10285</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11866.html">Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>Sakhinana Sagar Srinivas et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11866">2408.11866</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00202.html">Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>A N M Nafiz Abeer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00202">2405.00202</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08341.html">Exploring Latent Space for Generating Peptide Analogs Using Protein Language Models</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="protein-llm-all.html">protein-llm</a></div></td>
-<td>Po-Yu Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08341">2408.08341</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07608.html">MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="generative-model-all.html">generative-model</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Yan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07608">2408.07608</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19136.html">YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention</a></div></td>
-<td>Chenxu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19136">2406.19136</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07155.html">Integration of Genetic Algorithms and Deep Learning for the Generation and Bioactivity Prediction of Novel Tyrosine Kinase Inhibitors</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Ricardo Romero</td>
-<td><a href="http://arxiv.org/abs/2408.07155">2408.07155</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18724.html">Adapting Differential Molecular Representation with Hierarchical Prompts for Multi-label Property Prediction</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Linjia Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18724">2405.18724</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05196.html">Cell Morphology-Guided Small Molecule Generation with GFlowNets</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Stephen Zhewen Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05196">2408.05196</a></td>
 </tr>
 </tbody></table>

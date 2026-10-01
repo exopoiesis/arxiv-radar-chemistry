@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">244 papers</span>
+  <span class="paper-count">239 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1448,35 +1448,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14928.html">Targeting the partition function of chemically disordered materials with a generative approach based on inverse variational autoencoders</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Maciej J. Karcz et al.</td>
 <td><a href="http://arxiv.org/abs/2408.14928">2408.14928</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13930.html">AlabOS: A Python-based Reconfigurable Workflow Management Framework for Autonomous Laboratories</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Yuxing Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13930">2405.13930</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11191.html">Active Learning of Molecular Data for Task-Specific Objectives</a></div><div class="paper-tags"><a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Kunal Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11191">2408.11191</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04073.html">Accelerating crystal structure search through active learning with neural networks for rapid relaxations</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Stefaan S. P. Hessmann et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04073">2408.04073</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03058.html">A dual-cutoff machine-learned potential for condensed organic systems obtained via uncertainty-guided active learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Leonid Kahle et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03058">2408.03058</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02071.html">Scientific Exploration with Expert Knowledge (SEEK) in Autonomous Scanning Probe Microscopy with Active Learning</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Utkarsh Pratiush et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02071">2408.02071</a></td>
 </tr>
 </tbody></table>

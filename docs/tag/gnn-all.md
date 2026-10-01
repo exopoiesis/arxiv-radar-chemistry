@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">765 papers</span>
+  <span class="paper-count">752 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4526,83 +4526,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10458.html">Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a></div></td>
 <td>Zirui Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10458">2407.10458</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16337.html">Do Graph Neural Networks Work for High Entropy Alloys?</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Hengrui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16337">2408.16337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16698.html">SympGNNs: Symplectic Graph Neural Networks for identifiying high-dimensional Hamiltonian systems and node classification</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Alan John Varghese et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16698">2408.16698</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14964.html">Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Sakhinana Sagar Srinivas et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14964">2408.14964</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08334.html">Could Chemical LLMs benefit from Message Passing</a></div></td>
-<td>Jiaqing Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08334">2405.08334</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10844.html">Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Joseph Musielewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10844">2407.10844</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14577.html">Accelerated structure-stability energy-free calculator</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Alexandre Boucher et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14577">2408.14577</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12519.html">Advanced atom-level representations for protein flexibility prediction utilizing graph neural networks</a></div></td>
-<td>Sina Sarparast et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12519">2408.12519</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08508.html">Mitigating Degree Bias in Signed Graph Neural Networks</a></div></td>
-<td>Fang He et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08508">2408.08508</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20033.html">Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Susmita Tripathy et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20033">2405.20033</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07569.html">Multi-task Heterogeneous Graph Learning on Electronic Health Records</a></div></td>
-<td>Tsai Hor Chan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07569">2408.07569</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06524.html">From Graphs to Qubits: A Critical Review of Quantum Graph Neural Networks</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Andrea Ceschini et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06524">2408.06524</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05425.html">Modeling Multi-Step Scientific Processes with Graph Transformer Networks</a></div></td>
-<td>Amanda A. Volk et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05425">2408.05425</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05058.html">Variational Bayesian Phylogenetic Inference with Semi-implicit Branch Length Distributions</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Tianyu Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05058">2408.05058</a></td>
 </tr>
 </tbody></table>

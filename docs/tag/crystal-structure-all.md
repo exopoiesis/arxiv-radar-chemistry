@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure — all</h1>
-  <span class="paper-count">521 papers</span>
+  <span class="paper-count">511 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3080,65 +3080,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01450.html">Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
 <td>Israel C. Ribeiro et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01450">2409.01450</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10477.html">Equivalent circuit modeling of electron-hole recombination in semiconductor and mixed ionic-electronic conductor based devices</a></div></td>
-<td>Davide Moia</td>
-<td><a href="http://arxiv.org/abs/2405.10477">2405.10477</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17159.html">Determination of crystal structure and physical properties of Ru2Al5 intermetallic from first-principles calculations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Jing Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17159">2408.17159</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12776.html">Surface plasmon-mediated photoluminescence boost in graphene-covered CsPbBr$_3$ quantum dots</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Youngsin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12776">2408.12776</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09011.html">Finite-temperature properties of antiferroelectric perovskite $\rm PbZrO_3$ from deep learning interatomic potential</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Huazhang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09011">2406.09011</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11114.html">Exploring Multiferroic Behavior in CaZnFeOsO$_6$: A Novel Layered 3$d$-5$d$ Double Perovskite Compound</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Deepti Rajpoot et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11114">2408.11114</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11127.html">Role of the Adsorption of Alkali Cations on Ultrathin $n$-Layers of Two-dimensional Perovskites</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Israel C. Ribeiro et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11127">2408.11127</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06560.html">Influence of Point Defects on Laser-Induced Excitation in Silicon</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Tomohito Otobe et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06560">2408.06560</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07213.html">Representation-space diffusion models for generating periodic materials</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Anshuman Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07213">2408.07213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06239.html">Efficient Soft-Chemical Synthesis of Large van-der-Waals Crystals of the Room-Temperature Ferromagnet 1T-CrTe2</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Kai D. Röseler et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06239">2408.06239</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10846.html">Deep learning generative model for crystal structure prediction</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Xiaoshan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2403.10846">2403.10846</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-generation — all</h1>
-  <span class="paper-count">242 papers</span>
+  <span class="paper-count">239 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1448,23 +1448,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07786.html">XMOL: Explainable Multi-property Optimization of Molecules</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Aye Phyu Phyu Aung et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07786">2409.07786</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07930.html">Token-Mol 1.0: Tokenized drug design with large language model</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Jike Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07930">2407.07930</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11866.html">Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Sakhinana Sagar Srinivas et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11866">2408.11866</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00202.html">Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>A N M Nafiz Abeer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00202">2405.00202</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">420 papers</span>
+  <span class="paper-count">416 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2510,29 +2510,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05556.html">SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
 <td>Alireza Ghafarollahi et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05556">2409.05556</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13930.html">AlabOS: A Python-based Reconfigurable Workflow Management Framework for Autonomous Laboratories</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
-<td>Yuxing Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13930">2405.13930</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12242.html">New-record-Tc and three-gap 2D superconductors with electronic and phononic topology: KB2C2</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a></div></td>
-<td>Hao-Dong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12242">2408.12242</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07608.html">MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Yan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07608">2408.07608</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10846.html">Deep learning generative model for crystal structure prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Xiaoshan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2403.10846">2403.10846</a></td>
 </tr>
 </tbody></table>

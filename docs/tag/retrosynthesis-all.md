@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>retrosynthesis — all</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <a href="retrosynthesis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,17 +818,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04335.html">A high-accuracy multi-model mixing retrosynthetic method</a></div></td>
 <td>Shang Xiang et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04335">2409.04335</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10285.html">BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Yifei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10285">2408.10285</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03732.html">Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Zizhang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03732">2408.03732</a></td>
 </tr>
 </tbody></table>

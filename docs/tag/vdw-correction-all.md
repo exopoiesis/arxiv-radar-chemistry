@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vdw-correction — all</h1>
-  <span class="paper-count">310 papers</span>
+  <span class="paper-count">298 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1802,77 +1802,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00865.html">Scalable Crystal Structure Relaxation Using an Iteration-Free Deep Generative Model with Uncertainty Quantification</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="materials-science-all.html">materials-science</a></div></td>
 <td>Ziduo Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2404.00865">2404.00865</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16306.html">High-temperature observation of intralayer, interlayer, and Rydberg excitons in bulk van der Waals alloy single crystals</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Pravrati Taank et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16306">2408.16306</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15748.html">Manifestation of incoherent-coherent crossover and non-Stoner magnetism in the electronic structure of Fe$_3$GeTe$_2$</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Deepali Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15748">2408.15748</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12896.html">Identifying band structure changes of FePS3 across the antiferromagnetic phase transition</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
-<td>Benjamin Pestka et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12896">2408.12896</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12222.html">Formation mechanism of the (2 x 1) reconstruction of calcite (104)</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Haojun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12222">2408.12222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11127.html">Role of the Adsorption of Alkali Cations on Ultrathin $n$-Layers of Two-dimensional Perovskites</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Israel C. Ribeiro et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11127">2408.11127</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09780.html">Volatile MoS${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Sofia Cruces et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09780">2408.09780</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10156.html">Stacking Polymorphism of PtSe$_{2}$: Its Implication to Layer-dependent Metal-insulator Transitions</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Jeonghwan Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10156">2408.10156</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14553.html">Effect of biquadratic magnetic exchange interaction in the 2D antiferromagnets MPS_3 (M = Mn, Fe, Co, Ni)</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Mohammad Amirabbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2404.14553">2404.14553</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.02494.html">Direct visualization of defect-controlled diffusion in van der Waals gaps</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Joachim Dahl Thomsen et al.</td>
-<td><a href="http://arxiv.org/abs/2403.02494">2403.02494</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01618.html">Magnetic order-dependent giant tunneling magnetoresistance and electroresistance in van der Waals antiferromagnetic-multiferroic tunnel junctions</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Zhi Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01618">2408.01618</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01568.html">First-principles investigation of the emergence of multiferroicity and skyrmions in CrI2</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Khimananda Acharya et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01568">2408.01568</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00445.html">Sliding Flexoelectricity in Two-Dimensional van der Waals Systems</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Ri He et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00445">2408.00445</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">476 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2870,47 +2870,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00610.html">ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals</a></div><div class="paper-tags"><a href="protein-function-all.html">protein-function</a></div></td>
 <td>Shania Mitra et al.</td>
 <td><a href="http://arxiv.org/abs/2409.00610">2409.00610</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15299.html">TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Yiqing Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15299">2408.15299</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12682.html">MultiMed: Massively Multimodal and Multitask Medical Understanding</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Shentong Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12682">2408.12682</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11147.html">Insights into Protein Unfolding under pH, Temperature, and Shear using Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yinhao Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11147">2408.11147</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07983.html">Identifying the minimal sets of distance restraints for FRET-assisted protein structural modeling</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Zhuoyi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07983">2405.07983</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08419.html">The Joint Solvation Interaction</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ali Hassanali et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08419">2408.08419</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07154.html">Self-folding Self-replication</a></div></td>
-<td>Ralph P. Lano</td>
-<td><a href="http://arxiv.org/abs/2408.07154">2408.07154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00892.html">Peptide Sequencing Via Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-all.html">protein-llm</a></div></td>
-<td>Thuong Le Hoai Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00892">2408.00892</a></td>
 </tr>
 </tbody></table>

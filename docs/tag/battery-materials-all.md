@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-materials — all</h1>
-  <span class="paper-count">324 papers</span>
+  <span class="paper-count">320 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1934,29 +1934,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10458.html">Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
 <td>Zirui Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10458">2407.10458</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17427.html">Frequency-Dependent Conductivity of Concentrated Electrolytes: A Stochastic Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Haggai Bonneau et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17427">2408.17427</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10138.html">Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>N. Smirnov et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10138">2408.10138</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09942.html">Oxygen redox in battery cathodes: A brief overview</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>M. Hussein N. Assadi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09942">2408.09942</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07229.html">Insights into Polymer Electrolyte Stability and Reaction Pathways: A first-principle calculations study</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Kazem Zhour et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07229">2408.07229</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-space — all</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1250,29 +1250,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04418.html">Charting new regions of Cobalt&#x27;s chemical space with maximally large magnetic anisotropy: A computational high-throughput study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Lorenzo A. Mariano et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04418">2409.04418</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14839.html">Electronic Structure and Topology in Gulf-edged Zigzag Graphene Nanoribbons</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a></div></td>
-<td>Tsai-Jung Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14839">2408.14839</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09730.html">Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Cong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09730">2408.09730</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04073.html">Accelerating crystal structure search through active learning with neural networks for rapid relaxations</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Stefaan S. P. Hessmann et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04073">2408.04073</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00050.html">Grappa -- A Machine Learned Molecular Mechanics Force Field</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Leif Seute et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00050">2404.00050</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">843 papers</span>
+  <span class="paper-count">829 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4988,89 +4988,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00865.html">Scalable Crystal Structure Relaxation Using an Iteration-Free Deep Generative Model with Uncertainty Quantification</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="materials-science-all.html">materials-science</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
 <td>Ziduo Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2404.00865">2404.00865</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13154.html">Conditional score-based diffusion models for solving inverse problems in mechanics</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="materials-science-all.html">materials-science</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Agnimitra Dasgupta et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13154">2406.13154</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10482.html">Evaluation Framework for AI-driven Molecular Design of Multi-target Drugs: Brain Diseases as a Case Study</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Arthur Cerveira et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10482">2408.10482</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05713.html">SSL: A Self-similarity Loss for Improving Generative Image Super-resolution</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Du Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05713">2408.05713</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09451.html">GraphSPNs: Sum-Product Networks Benefit From Canonical Orderings</a></div></td>
-<td>Milan Papež et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09451">2408.09451</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08536.html">Blockchain-Enabled Accountability in Data Supply Chain: A Data Bill of Materials Approach</a></div></td>
-<td>Yue Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08536">2408.08536</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00202.html">Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
-<td>A N M Nafiz Abeer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00202">2405.00202</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07608.html">MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Yan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07608">2408.07608</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07155.html">Integration of Genetic Algorithms and Deep Learning for the Generation and Bioactivity Prediction of Novel Tyrosine Kinase Inhibitors</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Ricardo Romero</td>
-<td><a href="http://arxiv.org/abs/2408.07155">2408.07155</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07213.html">Representation-space diffusion models for generating periodic materials</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="diffusion-model-all.html">diffusion-model</a></div></td>
-<td>Anshuman Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07213">2408.07213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.10846.html">Deep learning generative model for crystal structure prediction</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Xiaoshan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2403.10846">2403.10846</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05196.html">Cell Morphology-Guided Small Molecule Generation with GFlowNets</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Stephen Zhewen Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05196">2408.05196</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03178.html">An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion</a></div></td>
-<td>Xingguang Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03178">2408.03178</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01114.html">PSP-GEN: Stochastic inversion of the Process-Structure-Property chain in materials design through deep, generative probabilistic modeling</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Yaohua Zang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01114">2408.01114</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00707.html">Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function</a></div></td>
-<td>Matias Oscar Volman Stern et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00707">2408.00707</a></td>
 </tr>
 </tbody></table>

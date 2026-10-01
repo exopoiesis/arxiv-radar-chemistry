@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,23 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29344.html">Combining physical models with dynamically acquired experimental information for the optimization of multicomponent NASICON fast ionic conductors in a self-driving laboratory</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Bernardus Rendy et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29344">2609.29344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27236.html">Deep Generative Markov State Models with Experimental Restraints</a></div></td>
-<td>Robert M. Raddi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.27236">2609.27236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28466.html">The Past Frames the Future: Memory for Autoregressive Video Generation</a></div></td>
-<td>Harold Haodong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28466">2609.28466</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28665.html">OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
-<td>Miroslav Lžičař</td>
-<td><a href="http://arxiv.org/abs/2609.28665">2609.28665</a></td>
 </tr>
 </tbody></table>

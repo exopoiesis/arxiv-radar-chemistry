@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1535 papers</span>
+  <span class="paper-count">1533 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9212,17 +9212,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05401.html">Quantum oscillations and anisotropic magnetoresistance in the quasi-two-dimensional Dirac nodal line superconductor $\mathrm{YbSb_2}$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Yuxiang Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05401">2510.05401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04227.html">A Universal Deep Learning Force Field for Molecular Dynamic Simulation and Vibrational Spectra Prediction</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Shengjiao Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04227">2510.04227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04266.html">Optical conductivity and band gap in the double-Weyl candidate SrSi2 at ambient pressure</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>L. Z. Maulana et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04266">2510.04266</a></td>
 </tr>
 </tbody></table>

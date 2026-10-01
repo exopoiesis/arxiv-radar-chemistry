@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30456.html">Spectral Feedback for Test-Time Alignment of Protein Diffusion Models</a></div></td>
 <td>Shai Dickman et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30456">2609.30456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28037.html">Amplitude equations for wave bifurcations in reaction-diffusion systems</a></div></td>
-<td>Edgardo Villar-Sepúlveda et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28037">2609.28037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28401.html">Label-Efficient Generative Inverse Design and Design-Rule Discovery in Freeform Topological Photonics</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Yuhan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28401">2609.28401</a></td>
 </tr>
 </tbody></table>

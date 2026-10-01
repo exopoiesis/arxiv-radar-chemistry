@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">351 papers</span>
+  <span class="paper-count">349 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2108,17 +2108,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05289.html">Overshifted Parameter-Shift Rules: Optimizing Complex Quantum Systems with Few Measurements</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
 <td>Leonardo Banchi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05289">2510.05289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17276.html">Algebraic Varieties in Second Quantization</a></div></td>
-<td>Svala Sverrisdóttir</td>
-<td><a href="http://arxiv.org/abs/2505.17276">2505.17276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04227.html">A Universal Deep Learning Force Field for Molecular Dynamic Simulation and Vibrational Spectra Prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Shengjiao Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04227">2510.04227</a></td>
 </tr>
 </tbody></table>

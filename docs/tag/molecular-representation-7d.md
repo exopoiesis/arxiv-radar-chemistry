@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-representation — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30789.html">Interpretable-by-Design Descriptor Portfolios Match a 2048-Dimensional Foundation Embedding on Low-Data Molecular Assays</a></div></td>
 <td>Yiqi Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30789">2609.30789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29740.html">TopU-LBVS: A Realistic Multi Target Benchmark for Ligand Based Virtual Screening</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="gnn-7d.html">gnn</a></div></td>
-<td>Surbhi Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29740">2609.29740</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30433.html">Improving Molecular-Morphology Contrastive Pretraining using Deep-Learning-based Morphology Profiles</a></div></td>
-<td>Jie Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30433">2609.30433</a></td>
 </tr>
 </tbody></table>

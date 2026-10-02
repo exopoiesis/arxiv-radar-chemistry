@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00930.html">Joint Branch-Space Transform Coding for Diffusion Activation Quantization with Classifier-Free Guidance</a></div></td>
+<td>Mingrun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.00930">2610.00930</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01522.html">Langevin-Informed Transfer Learning: Replacing Target Samples by Black-Box Feedback</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Vladimir R. Kostic et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01522">2610.01522</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01933.html">Error-Corrected Inference-Time Scaling for Imperfect Diffusion Models</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Zuokai Wen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01933">2610.01933</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37414.html">Leveraging secondary-structure information for accurate nucleic acid structure prediction with OFoldNA</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
@@ -74,17 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32056.html">Graph Forward Distribution Matching for Molecular Inverse Design</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
 <td>Yihan Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.32056">2609.32056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29052.html">Predator self limitation controls pattern formation in a predator prey system with additional food: a Turing Hopf analysis</a></div></td>
-<td>Anushree Hazra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29052">2609.29052</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30456.html">Spectral Feedback for Test-Time Alignment of Protein Diffusion Models</a></div></td>
-<td>Shai Dickman et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30456">2609.30456</a></td>
 </tr>
 </tbody></table>

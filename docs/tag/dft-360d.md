@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2041 papers</span>
+  <span class="paper-count">2034 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01089.html">Charge and spin dynamics in spintronic THz emitters from Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Ali Kefayati</td>
+<td><a href="http://arxiv.org/abs/2610.01089">2610.01089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01624.html">Relativistic Hirshfeld atoms in a molecule: An information-theoretic view, with application to Drude oscillator dispersion models</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Keegan Paice et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01624">2610.01624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01727.html">PyCDFT: A Python-scriptable library for analytical evaluation of orbital conceptual density (matrix) functional theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Bin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01727">2610.01727</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02183.html">Single-Particle Spectral Estimation</a></div></td>
+<td>Adrian Chapman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02183">2610.02183</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
@@ -12194,71 +12218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07410.html">Superfluidity in Fermi systems within the framework of Density Functional Theory</a></div></td>
 <td>Piotr Magierski</td>
 <td><a href="http://arxiv.org/abs/2510.07410">2510.07410</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13837.html">Electronic band structure from quasiparticle interference and Landau quantization in WTe$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Raquel Sánchez-Barquilla et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13837">2405.13837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20933.html">MatLLMSearch: Crystal Structure Discovery with Evolution-Guided Large Language Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Jingru Gan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20933">2502.20933</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02805.html">Tailoring the Electronic Properties of Monoclinic (InxAl1-x)2O3 Alloys via Substitutional Donors and Acceptors</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Mohamed Abdelilah Fadla et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02805">2507.02805</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19591.html">Local Potential Functional Embedding Theory of Molecular Systems: Localized Orbital-Based Embedding from an Exact Density-Functional Perspective</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>W. Makhlouf et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19591">2507.19591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08474.html">When Surface Dynamics Fakes Symmetry -- Oxygen on Rh(100) Revisited</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Lutz Hammer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08474">2508.08474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15705.html">Gaussian-Based Periodic Grand Canonical Density Functional Theory with Implicit Solvation for Computational Electrochemistry</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Anton Z. Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15705">2508.15705</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02593.html">Spin-dependent orbital selectivity and partial Kondo-screening in magnetically ordered Hund&#x27;s metal</a></div><div class="paper-tags"><a href="tmo-360d.html">tmo</a></div></td>
-<td>Shivani Bhardwaj et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02593">2510.02593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04795.html">Mixed-precision ab initio tensor network state methods adapted for NVIDIA Blackwell technology via emulated FP64 arithmetic</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Cole Brower et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04795">2510.04795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05018.html">Controlling an altermagnetic spin density wave in the kagome magnet CsCr3Sb5</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Zihao Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05018">2510.05018</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05304.html">Fermi surface and Berry phase analysis for Dirac nodal line semimetals: cautionary tale to SrGa$_2$ and BaGa$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Yuxiang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05304">2510.05304</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05401.html">Quantum oscillations and anisotropic magnetoresistance in the quasi-two-dimensional Dirac nodal line superconductor $\mathrm{YbSb_2}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Yuxiang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05401">2510.05401</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02013.html">BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Laura Zichi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02013">2610.02013</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34829.html">From Weak Task Specifications to Scientific Extraction Agents: Optimizing Task Construction</a></div></td>
 <td>Zixiao Dong et al.</td>
@@ -1856,11 +1862,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06455.html">Mechanistic insights into hydrogen reduction of multicomponent oxides via in-situ high-energy X-ray diffraction</a></div></td>
 <td>Shiv Shankar et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06455">2510.06455</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13897.html">Harnessing multi-mode optical structure for chemical reactivity</a></div></td>
-<td>Yaling Ke et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13897">2507.13897</a></td>
 </tr>
 </tbody></table>

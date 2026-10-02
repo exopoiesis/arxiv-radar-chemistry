@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29105.html">A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="metadynamics-7d.html">metadynamics</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Wanrun Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29105">2609.29105</a></td>
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01714.html">Complex magnetic phase diagrams in Tb$_2$IrAl$_4$Ge$_2$ and Er$_2$IrAl$_4$Ge$_2$</a></div></td>
+<td>Karolina Gornicka et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01714">2610.01714</a></td>
 </tr>
 </tbody></table>

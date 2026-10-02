@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">351 papers</span>
+  <span class="paper-count">350 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01119.html">AbsorbEvo: An Agentic Framework for Autonomous Inverse Design of Microwave Absorbers</a></div></td>
+<td>Zhicheng Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01119">2610.01119</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36469.html">From Automated Simulation to Autonomous Discovery: A Hierarchical Framework for Agentic Computational Materials Science</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -2108,17 +2114,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05961.html">msmJAX: Fast and Differentiable Electrostatics on the GPU in Python</a></div></td>
 <td>Florian Buchner et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05961">2510.05961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18554.html">Probing the Kitaev honeycomb model on a neutral-atom quantum computer</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Simon J. Evered et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18554">2501.18554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20933.html">MatLLMSearch: Crystal Structure Discovery with Evolution-Guided Large Language Models</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Jingru Gan et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20933">2502.20933</a></td>
 </tr>
 </tbody></table>

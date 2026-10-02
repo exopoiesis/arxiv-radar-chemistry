@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01827.html">Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="drug-discovery-7d.html">drug-discovery</a></div></td>
+<td>Kevin Tirta Wijaya et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01827">2610.01827</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33061.html">LLM sequential decision making under uncertainty in biochemical domains</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
 <td>Mattias Akke et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33722.html">BOReFT: Manifold Steering of Language Models for Black-box Optimization</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
 <td>Dhruv Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2609.33722">2609.33722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Ken J. Jenewein et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
 </tr>
 </tbody></table>

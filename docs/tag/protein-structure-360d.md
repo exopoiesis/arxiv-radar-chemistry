@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">241 papers</span>
+  <span class="paper-count">238 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1442,23 +1442,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16278.html">Unified Cross-Scale 3D Generation and Understanding via Autoregressive Modeling</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Shuqi Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16278">2503.16278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06055.html">Construction of optimal tests for symmetry on the torus and their quantitative error bounds</a></div></td>
-<td>Andreas Anastasiou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06055">2510.06055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06396.html">Adaptive Protein Design Protocols and Middleware</a></div></td>
-<td>Aymen Alsaadi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06396">2510.06396</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06413.html">A Hybrid Quantum-AI Framework for Protein Structure Prediction on NISQ Devices</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Yuqi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06413">2510.06413</a></td>
 </tr>
 </tbody></table>

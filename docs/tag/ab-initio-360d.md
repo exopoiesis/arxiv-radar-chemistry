@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1534 papers</span>
+  <span class="paper-count">1531 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9200,23 +9200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07011.html">Space-filling discrete helices</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Jayanth R. Banavar et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07011">2510.07011</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01470.html">Dissipative ground state preparation in ab initio electronic structure theory</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Hao-En Li et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01470">2411.01470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05928.html">High- and medium-entropy nitride coatings from the Cr-Hf-Mo-Ta-W-N system: properties and high-temperature stability</a></div></td>
-<td>Pavel Souček et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05928">2510.05928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06137.html">Origin of trapped intralayer Wannier and charge-transfer excitons in moiré materials</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Indrajit Maity et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06137">2510.06137</a></td>
 </tr>
 </tbody></table>

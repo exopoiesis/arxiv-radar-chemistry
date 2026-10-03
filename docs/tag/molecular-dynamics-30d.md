@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,53 +860,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04548.html">From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes</a></div></td>
 <td>Alireza F. Behbahany et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04548">2609.04548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02397.html">Molecular-dynamics-based modal analysis of heat transport in quasi-one-dimensional systems from a symmetry-adapted perspective</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Yu-Jie Cen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02397">2609.02397</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02609.html">The Universal Role of Fragility on the Yielding Transition of Active Glass under Oscillatory Shear</a></div></td>
-<td>Arnab Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02609">2609.02609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02694.html">RBMD 2.0: Random batch molecular dynamics package for large-scale simulations on multi-GPU architectures</a></div></td>
-<td>Qi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02694">2609.02694</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02762.html">Relating solute interactions to interfacial properties</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Varun Mandalaparthy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02762">2609.02762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02824.html">Low-Temperature Transport in Li-Ion Battery EC/EMC/FEC Electrolytes: Molecular Dynamics and Machine-Learning Modeling</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
-<td>İpek Yenda Çınar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02824">2609.02824</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a></div></td>
-<td>Eslam Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03182.html">An Integrative Computational Approach to Predict Viral Epitopes by Targeting the MHC-TCR Complexation</a></div></td>
-<td>Jaya Vasavi Pamidimukkala et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03182">2609.03182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03211.html">Thermal history controls the optoelectronic response of lead halide perovskites through structure and dynamics</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Milos Dubajic et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03211">2609.03211</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">350 papers</span>
+  <span class="paper-count">347 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2096,23 +2096,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07075.html">Anomalous strain-dependent thermal conductivity in superelastic screw-dislocated graphites</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Yu Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07075">2510.07075</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09098.html">SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="chemical-llm-360d.html">chemical-llm</a></div></td>
-<td>Kehua Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09098">2406.09098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05494.html">Fundamental Limits of Crystalline Equivariant Graph Neural Networks: A Circuit Complexity Perspective</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Yang Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05494">2510.05494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05961.html">msmJAX: Fast and Differentiable Electrostatics on the GPU in Python</a></div></td>
-<td>Florian Buchner et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05961">2510.05961</a></td>
 </tr>
 </tbody></table>

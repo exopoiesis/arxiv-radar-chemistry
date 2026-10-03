@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">427 papers</span>
+  <span class="paper-count">425 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2564,17 +2564,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04502.html">Data-Driven Prediction of NaCl-Type Entropy-Stabilized Oxide Compositions from First-Principles and Supervised Learning</a></div></td>
 <td>Sebastien Junier et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04502">2607.04502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03712.html">Tuning Superconductivity by Isovalent Antimony Substitution in PrFeAs(O,F)</a></div></td>
-<td>Priya Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03712">2607.03712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03814.html">Application of SAP-X2C to Spectroscopy and Comparison to Screened Nuclear Spin--Orbit Approximations</a></div></td>
-<td>Yannick J. Franzke et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03814">2607.03814</a></td>
 </tr>
 </tbody></table>

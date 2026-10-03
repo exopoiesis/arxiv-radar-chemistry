@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">464 papers</span>
+  <span class="paper-count">462 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2786,17 +2786,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07483.html">Factorized electron-nuclear dynamics with effective complex potential: on-the-fly implementation for H$_2^+$ in a laser field</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Julian Stetzler et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07483">2510.07483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01470.html">Dissipative ground state preparation in ab initio electronic structure theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Hao-En Li et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01470">2411.01470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06137.html">Origin of trapped intralayer Wannier and charge-transfer excitons in moiré materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Indrajit Maity et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06137">2510.06137</a></td>
 </tr>
 </tbody></table>

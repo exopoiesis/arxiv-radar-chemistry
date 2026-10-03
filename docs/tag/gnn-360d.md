@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">384 papers</span>
+  <span class="paper-count">380 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2294,29 +2294,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08738.html">Accelerated prediction of dielectric functions in solar cell materials with graph neural networks</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Caden Ginter et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08738">2510.08738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17132.html">Applications of Large Models in Medicine</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>YunHe Su et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17132">2502.17132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03318.html">Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Network with Group Lasso Regularization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Zanyu Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03318">2507.03318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05494.html">Fundamental Limits of Crystalline Equivariant Graph Neural Networks: A Circuit Complexity Perspective</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Yang Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05494">2510.05494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06290.html">Soft-Evidence Fused Graph Neural Network for Cancer Driver Gene Identification across Multi-View Biological Graphs</a></div></td>
-<td>Bang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06290">2510.06290</a></td>
 </tr>
 </tbody></table>

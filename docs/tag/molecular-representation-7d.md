@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-representation — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32858.html">Improved Learning of Molecular Energetics Through an Electron-Wise Joint Charge Density and Energy Objective</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
 <td>Vadim Ionas et al.</td>
 <td><a href="http://arxiv.org/abs/2609.32858">2609.32858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30789.html">Interpretable-by-Design Descriptor Portfolios Match a 2048-Dimensional Foundation Embedding on Low-Data Molecular Assays</a></div></td>
-<td>Yiqi Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30789">2609.30789</a></td>
 </tr>
 </tbody></table>

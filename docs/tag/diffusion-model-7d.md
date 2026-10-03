@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32467.html">Bison: Cross-Dataset Learning for Unseen-Compound Perturbation Prediction</a></div></td>
 <td>Yunfan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.32467">2609.32467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31149.html">CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Yuxuan Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31149">2609.31149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32056.html">Graph Forward Distribution Matching for Molecular Inverse Design</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Yihan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32056">2609.32056</a></td>
 </tr>
 </tbody></table>

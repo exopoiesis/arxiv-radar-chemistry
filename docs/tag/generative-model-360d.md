@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">480 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2888,11 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05641.html">GUIDe: Generative and Uncertainty-Informed Inverse Design for On-Demand Nonlinear Functional Responses</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Haoxuan Dylan Mu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05641">2509.05641</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05849.html">ESS-Flow: Training-free guidance of flow-based models as inference in source space</a></div></td>
-<td>Adhithyan Kalaivanan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05849">2510.05849</a></td>
 </tr>
 </tbody></table>

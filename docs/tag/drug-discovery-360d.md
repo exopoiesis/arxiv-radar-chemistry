@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">521 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3140,23 +3140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07035.html">Unified Molecule Pre-training with Flexible 2D and 3D Modalities: Single and Paired Modality Integration</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Tengwei Song et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07035">2510.07035</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17132.html">Applications of Large Models in Medicine</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>YunHe Su et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17132">2502.17132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03318.html">Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Network with Group Lasso Regularization</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Zanyu Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03318">2507.03318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07337.html">Decoding the dark proteome: Deep learning-enabled discovery of druggable enzymes in Wuchereria bancrofti</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Shawnak Shivakumar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07337">2510.07337</a></td>
 </tr>
 </tbody></table>

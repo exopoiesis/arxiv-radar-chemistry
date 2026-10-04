@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1562 papers</span>
+  <span class="paper-count">1556 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9350,41 +9350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07850.html">Graphene nanowindows as a basis for creating mechanically robust nanohydroxyapatite bone lamellar scaffolds</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Radovan Kukobat et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07850">2510.07850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.12755.html">Fast event-driven simulations for soft spheres: from dynamics to Laves phase nucleation</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Antoine Castagnède et al.</td>
-<td><a href="http://arxiv.org/abs/2403.12755">2403.12755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05598.html">Unveiling the Lithium-Ion Transport Mechanism in Li2ZrCl6 Solid-State Electrolyte via Deep Learning-Accelerated Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Hanzeng Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05598">2508.05598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06902.html">GROMACS Unplugged: How Power Capping and Frequency Shapes Performance on GPUs</a></div></td>
-<td>Ayesha Afzal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06902">2510.06902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07075.html">Anomalous strain-dependent thermal conductivity in superelastic screw-dislocated graphites</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07075">2510.07075</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07483.html">Factorized electron-nuclear dynamics with effective complex potential: on-the-fly implementation for H$_2^+$ in a laser field</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Julian Stetzler et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07483">2510.07483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07589.html">Transferable Generative Models Bridge Femtosecond to Nanosecond Time-Step Molecular Dynamics</a></div></td>
-<td>Juan Viguera Diez et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07589">2510.07589</a></td>
 </tr>
 </tbody></table>

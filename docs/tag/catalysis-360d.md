@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">305 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,11 +1838,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08410.html">Gradual assembly of metabolism at a phosphorylating hydrothermal vent</a></div></td>
 <td>Natalia Mrnjavac et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08410">2510.08410</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17672.html">Coupling all-electron full-potential density functional theory with grid-based continuum embeddings</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Jakob Filser et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17672">2507.17672</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">426 papers</span>
+  <span class="paper-count">425 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2564,11 +2564,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08744.html">Graph Diffusion Transformers are In-Context Molecular Designers</a></div></td>
 <td>Gang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08744">2510.08744</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11726.html">scPPDM: A Diffusion Model for Single-Cell Drug-Response Prediction</a></div></td>
-<td>Zhaokang Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11726">2510.11726</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,23 +158,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33934.html">Quantum-Computing Self-Consistent Kohn-Sham DFT: Plane-Wave-Orthonormalized Orbitals with a Dual-Basis Quantum Eigensolver</a></div></td>
 <td>Lazaro Calderin</td>
 <td><a href="http://arxiv.org/abs/2609.33934">2609.33934</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32121.html">Temperature Dependent Evolution of the Electronic Structure in EuZn2As2 across the Neel Transition</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Milo Sprague et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32121">2609.32121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32707.html">Site-Selective Yttrium Substitution in Ti3AlC2 Enables Interlayer Engineering and Li Transport in Ti3C2Tx cathodes for High-Power Energy Storage</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Tetiana Boichuk et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32707">2609.32707</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32894.html">Composition-Driven Metal-to-Semiconductor Transition and Enhanced Phonon Transport in B-C substituted Clathrate</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="mlip-7d.html">mlip</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Ghulam Hussain et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32894">2609.32894</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2034 papers</span>
+  <span class="paper-count">2027 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12176,47 +12176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08738.html">Accelerated prediction of dielectric functions in solar cell materials with graph neural networks</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Caden Ginter et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08738">2510.08738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04101.html">Nonlinear phononics in Bi$_2$Te$_3$ nanoscale thin films: A theoretical approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>A. Levchuk et al.</td>
-<td><a href="http://arxiv.org/abs/2501.04101">2501.04101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17672.html">Coupling all-electron full-potential density functional theory with grid-based continuum embeddings</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Jakob Filser et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17672">2507.17672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06701.html">Excitation energy of fission fragments within nuclear time-dependent density functional theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Antonio Bjelčić et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06701">2510.06701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06862.html">Signatures of broken symmetries in the excitations of a periodic 2DEG coupled to a cylindrical photon cavity</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Vidar Gudmundsson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06862">2510.06862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06875.html">Computational Study on the Physical Properties and Hydrogen Storage Capability of Insulating LaMg2H7</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Tanvir Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06875">2510.06875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06966.html">SiC-TGAP: A machine learning interatomic potential for radiation damage simulations in 3C-SiC</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Ali Hamedani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06966">2510.06966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07410.html">Superfluidity in Fermi systems within the framework of Density Functional Theory</a></div></td>
-<td>Piotr Magierski</td>
-<td><a href="http://arxiv.org/abs/2510.07410">2510.07410</a></td>
 </tr>
 </tbody></table>

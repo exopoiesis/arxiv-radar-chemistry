@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05097.html">NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Roxane Axel Jacob et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05097">2609.05097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03377.html">SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Jiarui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03377">2609.03377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04465.html">The physical foundation beneath protein generative modeling</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Tianyu Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04465">2609.04465</a></td>
 </tr>
 </tbody></table>

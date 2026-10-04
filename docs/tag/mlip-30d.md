@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="gnn-30d.html">gnn</a></div></td>
 <td>Yiming Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04432.html">Recovering molecules from coarse-grained beads: free-energy-conditioned generative backmapping across chemical space</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Luis Itza Vazquez-Salazar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04432">2609.04432</a></td>
 </tr>
 </tbody></table>

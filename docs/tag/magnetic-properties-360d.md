@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">348 papers</span>
+  <span class="paper-count">347 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2096,11 +2096,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09927.html">Magnetic Catalysis of charmonium in the vector channel</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Cesareo A. Dominguez et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09927">2510.09927</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06862.html">Signatures of broken symmetries in the excitations of a periodic 2DEG coupled to a cylindrical photon cavity</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Vidar Gudmundsson et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06862">2510.06862</a></td>
 </tr>
 </tbody></table>

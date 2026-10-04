@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">260 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1574,11 +1574,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08738.html">Accelerated prediction of dielectric functions in solar cell materials with graph neural networks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Caden Ginter et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08738">2510.08738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05598.html">Unveiling the Lithium-Ion Transport Mechanism in Li2ZrCl6 Solid-State Electrolyte via Deep Learning-Accelerated Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hanzeng Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05598">2508.05598</a></td>
 </tr>
 </tbody></table>

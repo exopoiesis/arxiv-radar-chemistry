@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>gnn — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36208.html">Representable but Unlearned: Encoding Rank and the Interaction-Prediction Floor</a></div></td>
 <td>Zahra Khodagholi et al.</td>
 <td><a href="http://arxiv.org/abs/2609.36208">2609.36208</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32436.html">Controllable GNN Explanations via Multi-Metric Preference Selection</a></div></td>
-<td>Rachit Verma et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32436">2609.32436</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32858.html">Improved Learning of Molecular Energetics Through an Electron-Wise Joint Charge Density and Energy Objective</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Vadim Ionas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32858">2609.32858</a></td>
 </tr>
 </tbody></table>

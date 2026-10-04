@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>battery-materials — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33797.html">Hall conductance of dilute electrolytes from odd stochastic density functional theory</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Yael Avni et al.</td>
 <td><a href="http://arxiv.org/abs/2609.33797">2609.33797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32707.html">Site-Selective Yttrium Substitution in Ti3AlC2 Enables Interlayer Engineering and Li Transport in Ti3C2Tx cathodes for High-Power Energy Storage</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Tetiana Boichuk et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32707">2609.32707</a></td>
 </tr>
 </tbody></table>

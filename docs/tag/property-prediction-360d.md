@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1520,23 +1520,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11200.html">Want to train KANS at scale? Now UKAN!</a></div></td>
 <td>Alireza Moradzadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2408.11200">2408.11200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03511.html">Platonic Transformers: A Solid Choice For Equivariance</a></div></td>
-<td>Mohammad Mohaiminul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03511">2510.03511</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06563.html">Adapting Quantum Machine Learning for Energy Dissociation of Bonds</a></div></td>
-<td>Swathi Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06563">2510.06563</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07035.html">Unified Molecule Pre-training with Flexible 2D and 3D Modalities: Single and Paired Modality Integration</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Tengwei Song et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07035">2510.07035</a></td>
 </tr>
 </tbody></table>

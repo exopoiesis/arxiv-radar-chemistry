@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,17 +800,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01092.html">Machine Learning-Driven Insights into Excitonic Effects in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Ahsan Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01092">2501.01092</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07421.html">Bayesian Optimization of Multi-Bit Pulse Encoding in In2O3/Al2O3 Thin-film Transistors for Temporal Data Processing</a></div></td>
-<td>Javier Meza-Arroyo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07421">2510.07421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11727.html">Multi-objective Bayesian Optimization with Human-in-the-Loop for Flexible Neuromorphic Electronics Fabrication</a></div></td>
-<td>Benius Dunn et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11727">2510.11727</a></td>
 </tr>
 </tbody></table>

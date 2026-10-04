@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,29 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05633.html">First principles calculations of electric-field-driven topological phase transitions in silicene, germanene and stanene</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>Julián Antonio Villarreal Murúa et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05633">2609.05633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yusuke Nishiya et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03518">2609.03518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03576.html">SALTED: a symmetry-adapted machine-learning program for predicting electron-densities in molecules and materials</a></div></td>
-<td>Zekun Lou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03576">2609.03576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03578.html">High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Sanchali Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03578">2609.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03757.html">Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Dipanwita Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03757">2609.03757</a></td>
 </tr>
 </tbody></table>

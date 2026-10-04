@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">141 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,47 +818,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05696.html">Bridging simulation length scales with cellular automata</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>John J. Karnes et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05696">2609.05696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03419.html">In defence of the Ehrenfest mean-field molecular dynamics</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Vladimir U. Nazarov</td>
-<td><a href="http://arxiv.org/abs/2609.03419">2609.03419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03510.html">Interplay of B-Site Off-Centering and Molecular Orientations in the Mixed Hybrid Perovskite MAGe1xSnxI3</a></div></td>
-<td>Erik Fransson et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03510">2609.03510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Yusuke Nishiya et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03518">2609.03518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03578.html">High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Sanchali Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03578">2609.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03587.html">Charge Regulated conformational properties of polyelectrolyte near an oppositely charged nanoparticle</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Kawaljeet Kaur et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03587">2609.03587</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03606.html">Frenkel line of Yukawa fluids within the self-consistent relaxation theory</a></div></td>
-<td>Ilnaz I. Fairushin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03606">2609.03606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04548.html">From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes</a></div></td>
-<td>Alireza F. Behbahany et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04548">2609.04548</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">347 papers</span>
+  <span class="paper-count">345 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2084,17 +2084,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07886.html">Signal-to-Noise Ratio in Scanning Electron Microscopy: A Comprehensive Review</a></div></td>
 <td>K. S. Sim et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07886">2510.07886</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19695.html">SubGrapher: Visual Fingerprinting of Chemical Structures</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Lucas Morin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19695">2504.19695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07075.html">Anomalous strain-dependent thermal conductivity in superelastic screw-dislocated graphites</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07075">2510.07075</a></td>
 </tr>
 </tbody></table>

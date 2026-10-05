@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">380 papers</span>
+  <span class="paper-count">378 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2282,17 +2282,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09495.html">Precoder Design in Multi-User FDD Systems with VQ-VAE and GNN</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Srikar Allaparapu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09495">2510.09495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07910.html">MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Chongmyung Kwon et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07910">2510.07910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08738.html">Accelerated prediction of dielectric functions in solar cell materials with graph neural networks</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Caden Ginter et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08738">2510.08738</a></td>
 </tr>
 </tbody></table>

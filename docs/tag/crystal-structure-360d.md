@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">258 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1562,17 +1562,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09835.html">Spin Hall effect in the high-resistivity high-entropy alloy AlCrMoW</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Jyoti Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09835">2510.09835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12669.html">Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Xiang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12669">2502.12669</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08738.html">Accelerated prediction of dielectric functions in solar cell materials with graph neural networks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Caden Ginter et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08738">2510.08738</a></td>
 </tr>
 </tbody></table>

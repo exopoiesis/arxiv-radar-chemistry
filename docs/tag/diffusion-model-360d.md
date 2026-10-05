@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">425 papers</span>
+  <span class="paper-count">422 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03066.html">Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Changlin Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03066">2610.03066</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00930.html">Joint Branch-Space Transform Coding for Diffusion Activation Quantization with Classifier-Free Guidance</a></div></td>
@@ -2540,29 +2546,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09784.html">Combined Representation and Generation with Diffusive State Predictive Information Bottleneck</a></div></td>
 <td>Richard John et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09784">2510.09784</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16278.html">Unified Cross-Scale 3D Generation and Understanding via Autoregressive Modeling</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Shuqi Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16278">2503.16278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08530.html">X2Video: Adapting Diffusion Models for Multimodal Controllable Neural Video Rendering</a></div></td>
-<td>Zhitong Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08530">2510.08530</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08669.html">FreqCa: Accelerating Diffusion Models via Frequency-Aware Caching</a></div></td>
-<td>Jiacheng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08669">2510.08669</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08744.html">Graph Diffusion Transformers are In-Context Molecular Designers</a></div></td>
-<td>Gang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08744">2510.08744</a></td>
 </tr>
 </tbody></table>

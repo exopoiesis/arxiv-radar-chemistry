@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">345 papers</span>
+  <span class="paper-count">344 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02975.html">Reliable Self-Evolution with Imperfect Proxy Rewards</a></div></td>
+<td>Kangjun Noh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02975">2610.02975</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01119.html">AbsorbEvo: An Agentic Framework for Autonomous Inverse Design of Microwave Absorbers</a></div></td>
@@ -2072,17 +2078,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09444.html">Advances in momentum-resolved EELS of phonons, excitons and plasmons in 2D materials and their heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Cana Elgvin et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09444">2510.09444</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12669.html">Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Xiang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12669">2502.12669</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07886.html">Signal-to-Noise Ratio in Scanning Electron Microscopy: A Comprehensive Review</a></div></td>
-<td>K. S. Sim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07886">2510.07886</a></td>
 </tr>
 </tbody></table>

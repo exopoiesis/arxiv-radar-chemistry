@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03029.html">SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation</a></div></td>
+<td>Drew Ross et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03029">2610.03029</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00988.html">Auditable Algebraic Counting Field for Cryptic-Pocket Detection from Apo Structures</a></div></td>
 <td>Shan Yu et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28921.html">PFArena: Benchmarking Language Models for Protein Modification</a></div></td>
 <td>Yawen Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28921">2609.28921</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04793.html">ProtLingo: Efficient Protein Language Modeling via Conditional Memory and Expert Routing</a></div></td>
-<td>Mingrui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04793">2609.04793</a></td>
 </tr>
 </tbody></table>

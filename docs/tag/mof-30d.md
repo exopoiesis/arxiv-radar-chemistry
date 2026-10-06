@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Jihan Kim</td>
+<td><a href="http://arxiv.org/abs/2610.04866">2610.04866</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03056.html">MOF-VERIFY: A Failure-Aware Agentic Harness for MOF Hypothesis Verification</a></div></td>
 <td>Donghyun Lee et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14928.html">Quantitative control and recording of materials-synthesis processes using an automated experimentation platform</a></div></td>
 <td>Yusuke Hashimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14928">2609.14928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06037.html">Visual Analysis of LLM-based Entity Resolution from Scientific Papers</a></div></td>
-<td>Siyu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06037">2609.06037</a></td>
 </tr>
 </tbody></table>

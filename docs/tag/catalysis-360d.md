@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">301 papers</span>
+  <span class="paper-count">300 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04843.html">Multicatalyst reactions induce abrupt transition in a dense catalytic reaction network model</a></div></td>
+<td>Kota Mitsumoto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04843">2610.04843</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02013.html">BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
@@ -1808,17 +1814,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12199.html">Spectroscopic Determination of Site-Selective Ligand Binding on Single Anisotropic Nanocrystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Dong Le et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12199">2510.12199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09444.html">Advances in momentum-resolved EELS of phonons, excitons and plasmons in 2D materials and their heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Cana Elgvin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09444">2510.09444</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09927.html">Magnetic Catalysis of charmonium in the vector channel</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Cesareo A. Dominguez et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09927">2510.09927</a></td>
 </tr>
 </tbody></table>

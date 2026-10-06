@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06467.html">Quantum spectral thermodynamics and active learning enable million-scale exploration of high-entropy ceramics</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Jie Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06467">2610.06467</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01432.html">Learning ab initio phase-field models</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Mengyi Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01432">2610.01432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34592.html">Curvature-Aware Flow Matching for Molecular Structure Generation</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Samir Darouich et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34592">2609.34592</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2028 papers</span>
+  <span class="paper-count">2032 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06158.html">Compressed magnetic Moment Tensor Potentials via low-rank matrix and tensor factorizations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Alexey S. Kotykhov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06158">2610.06158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06283.html">First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td>Tanjuma Shikder Jhumu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06283">2610.06283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04892.html">Identification and Structural Decomposition of Hidden Defect Configurations: A Case Study of Charged Oxygen Divacancies in HfO$_2$</a></div></td>
+<td>Hyunjin Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04892">2610.04892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05088.html">Sensitivity of fission barrier heights to nuclear matter properties</a></div></td>
+<td>X. Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05088">2610.05088</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05304.html">Demonstration of a Structured Agentic Workflow for Applied Quantum Computing Research</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Dikshant Dulal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05304">2610.05304</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05363.html">Sliding and stacking thin homo-monolayers from energy landscapes and combinatorics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td>Jose D. Mella et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05363">2610.05363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02651.html">Equivariant Flow Matching for Electron Density Prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
@@ -32,6 +74,24 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03444.html">Electronic Density versus Geometry for Machine-Learned Molecular Absorption Spectra</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Siddharth Dhanpal et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03444">2610.03444</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03973.html">Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Jun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03973">2610.03973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04115.html">Distilling universal machine-learning potentials for moiré lattices across one million atoms</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Thomas Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04115">2610.04115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -12146,41 +12206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10112.html">Thermal and Electrical Conductivities of Aluminum Up to 1000 eV: A First-Principles Prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Qianrui Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10112">2510.10112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06520.html">Effect of the Lattice-distortion on the Electronic Structure, Magnetic Anisotropy, and Hall Conductivities of the CoFeCrGa Spin Gapless Semiconductor: A First-Principles Study</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Amar Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2411.06520">2411.06520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05746.html">Dynamical scheme for computing the mass parameter of a system in a medium</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Agata Zdanowicz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05746">2507.05746</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09194.html">Quasiparticle effects and strong excitonic features in exfoliable 1D semiconducting materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Simone Grillo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09194">2510.09194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09495.html">Precoder Design in Multi-User FDD Systems with VQ-VAE and GNN</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Srikar Allaparapu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09495">2510.09495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09550.html">Orientational Order of Phenyl Rotors on Triangular Platforms on Ag and Au(111)</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Behzad Mortezapour et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09550">2510.09550</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09835.html">Spin Hall effect in the high-resistivity high-entropy alloy AlCrMoW</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Jyoti Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09835">2510.09835</a></td>
 </tr>
 </tbody></table>

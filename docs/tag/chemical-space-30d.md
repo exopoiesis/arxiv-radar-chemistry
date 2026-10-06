@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>chemical-space — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <strong>30d</strong> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06411.html">From Benchmark to Bench: Can Agents Survive Real-World Drug Discovery?</a></div></td>
+<td>Pierre Llompart et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06411">2610.06411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06467.html">Quantum spectral thermodynamics and active learning enable million-scale exploration of high-entropy ceramics</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Jie Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06467">2610.06467</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01714.html">Complex magnetic phase diagrams in Tb$_2$IrAl$_4$Ge$_2$ and Er$_2$IrAl$_4$Ge$_2$</a></div></td>

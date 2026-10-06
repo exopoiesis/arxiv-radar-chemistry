@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04843.html">Multicatalyst reactions induce abrupt transition in a dense catalytic reaction network model</a></div></td>
+<td>Kota Mitsumoto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04843">2610.04843</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02013.html">BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Laura Zichi et al.</td>
@@ -422,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08922.html">Seeing inside a Plasmonic Nanogap: Few-molecule Orientation and Preferential Adsorption</a></div></td>
 <td>Francesco Ciccarello et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08922">2607.08922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06729.html">Physical exact conditions as regularizers for exchange-correlation in solids and surface chemistry</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Johannes Voss</td>
-<td><a href="http://arxiv.org/abs/2607.06729">2607.06729</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tmd — all</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <a href="tmd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05496.html">Density Functional Theory for 2D Transition-Metal Dichalcogenides with Extended Hubbard Parameters</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
+<td>Xue Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05496">2610.05496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04115.html">Distilling universal machine-learning potentials for moiré lattices across one million atoms</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Thomas Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04115">2610.04115</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30432.html">Activating Basal Planes in Transition Metal Dichalcogenides for CO2 Reduction to CO through Alloying</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05714.html">Current selects the helicity of a chiral phonon</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05714">2610.05714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02998.html">Ab initio design of enhanced and sign-reversible spin Hall and spin Nernst conductivity in skutterudite materials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Saikat Debnath et al.</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37763.html">Nonrelativistic and Relativistic Contributions to Spin-Momentum Locking and Spin Photogalvanic Effect in an Altermagnetic Multiferroic</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Giuseppe Cuono et al.</td>
 <td><a href="http://arxiv.org/abs/2609.37763">2609.37763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34477.html">Electronic and topological properties of Ce-based honeycomb ferromagnet Ce$_2$Zn$_6$Ge$_3$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Yanen Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34477">2609.34477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35468.html">Exploring $U_A(1)$ symmetry restoration in a magnetic field by meson screening masses in the NJL model</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
-<td>Bing-Kai Sheng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35468">2609.35468</a></td>
 </tr>
 </tbody></table>

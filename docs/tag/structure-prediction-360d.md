@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04850.html">PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning</a></div></td>
+<td>Jae Won Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04850">2610.04850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04193.html">Molecular Crystal Structure Prediction from Conditional Flow on the Unit Cells</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
+<td>Qiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04193">2610.04193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04510.html">ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Prashant Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04510">2610.04510</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03978.html">Learning Latent Protein Languages for Autoregressive Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Mahdi Pourmirzaei et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03978">2610.03978</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01315.html">EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
@@ -938,17 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11323.html">Dynamic Network-Based Two-Stage Time Series Forecasting for Affiliate Marketing</a></div></td>
 <td>Zhe Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11323">2510.11323</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03105.html">Cognitio Emergens: Agency, Dimensions, and Dynamics in Human-AI Knowledge Co-Creation</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Xule Lin</td>
-<td><a href="http://arxiv.org/abs/2505.03105">2505.03105</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08960.html">Collective Variables Based on Multipole Expansion of Ewald Summation for Crystallization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>YaoKun Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08960">2510.08960</a></td>
 </tr>
 </tbody></table>

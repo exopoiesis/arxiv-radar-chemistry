@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Jannis Ehrlich et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04161.html">MOSAIC: Addressing Space for Local, Steerable, and Scalable Atomistic Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Ishan Nadkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04161">2610.04161</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02975.html">Reliable Self-Evolution with Imperfect Proxy Rewards</a></div></td>
@@ -128,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Binglin Ji et al.</td>
 <td><a href="http://arxiv.org/abs/2609.06761">2609.06761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06159.html">Altermagnetism from the viewpoint of chemistry</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Nayana Devaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06159">2609.06159</a></td>
 </tr>
 </tbody></table>

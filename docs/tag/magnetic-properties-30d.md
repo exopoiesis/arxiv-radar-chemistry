@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05714.html">Current selects the helicity of a chiral phonon</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05714">2610.05714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02998.html">Ab initio design of enhanced and sign-reversible spin Hall and spin Nernst conductivity in skutterudite materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
@@ -170,11 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11881.html">Low temperature thermodynamics of $S_{\mathrm{eff}}=1/2$ triangular lattice quantum spin liquid candidate TlYbS$_2$</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Bishnu P. Belbase et al.</td>
 <td><a href="http://arxiv.org/abs/2609.11881">2609.11881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06159.html">Altermagnetism from the viewpoint of chemistry</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Nayana Devaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06159">2609.06159</a></td>
 </tr>
 </tbody></table>

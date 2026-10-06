@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">284 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06467.html">Quantum spectral thermodynamics and active learning enable million-scale exploration of high-entropy ceramics</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Jie Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06467">2610.06467</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04760.html">Site-Specific Orbital Symmetry Breaking in Epitaxial Graphene on Silicon Carbide</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Vinod K. Paidi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04760">2610.04760</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02895.html">Non-Markovian Entanglement via Parametrically Mediated Molecular Cavity Optomechanics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1706,11 +1718,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10112.html">Thermal and Electrical Conductivities of Aluminum Up to 1000 eV: A First-Principles Prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Qianrui Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10112">2510.10112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06520.html">Effect of the Lattice-distortion on the Electronic Structure, Magnetic Anisotropy, and Hall Conductivities of the CoFeCrGa Spin Gapless Semiconductor: A First-Principles Study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Amar Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2411.06520">2411.06520</a></td>
 </tr>
 </tbody></table>

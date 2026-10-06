@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">258 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04193.html">Molecular Crystal Structure Prediction from Conditional Flow on the Unit Cells</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Qiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04193">2610.04193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04510.html">ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Prashant Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04510">2610.04510</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00963.html">Topological robustness of thermally disordered lattices: From average structures to ensemble electronic properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
@@ -1544,23 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12074.html">Metalorganic Chemical Vapor Deposition of AlScN Thin Films and AlScN/AlN/GaN Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Vijay Gopal Thirupakuzi Vangipuram et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12074">2510.12074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06485.html">WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Filip Ekström Kelvinius et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06485">2502.06485</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08960.html">Collective Variables Based on Multipole Expansion of Ewald Summation for Crystallization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>YaoKun Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08960">2510.08960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09835.html">Spin Hall effect in the high-resistivity high-entropy alloy AlCrMoW</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Jyoti Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09835">2510.09835</a></td>
 </tr>
 </tbody></table>

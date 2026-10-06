@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">463 papers</span>
+  <span class="paper-count">465 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Jannis Ehrlich et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05496.html">Density Functional Theory for 2D Transition-Metal Dichalcogenides with Extended Hubbard Parameters</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Xue Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05496">2610.05496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04760.html">Site-Specific Orbital Symmetry Breaking in Epitaxial Graphene on Silicon Carbide</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Vinod K. Paidi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04760">2610.04760</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03444.html">Electronic Density versus Geometry for Machine-Learned Molecular Absorption Spectra</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -2786,11 +2804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10529.html">invDFT: A CPU-GPU massively parallel tool to find exact exchange-correlation potentials from groundstate densities</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Vishal Subramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10529">2510.10529</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18471.html">Physics-Driven Construction of Compact Primitive Gaussian Density Fitting Basis Sets</a></div></td>
-<td>Kshitijkumar A. Surjuse et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18471">2507.18471</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06685.html">Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs</a></div></td>
+<td>Jiawen Du et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06685">2610.06685</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04588.html">Variational Quantum Attention for Molecular Graph Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Yu-Cheng Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04588">2610.04588</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23826.html">A Physics-Conditioned Neural Operator for Generalization of Atrioventricular Valve Mechanics across Pressure and Tissue Properties</a></div></td>
 <td>Shawn Koohy et al.</td>
@@ -398,17 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Claudio Meggio et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05736.html">Multimodal Molecular Representation Learning with Graph Neural Networks, Deep &amp; Cross Networks, and SMILES Embeddings</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Qiwei Han et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05736">2607.05736</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06645.html">BatteryMat: a hierarchical machine-learning and DFT framework for average-voltage screening of lithium-ion cathode materials</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Jaehyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06645">2607.06645</a></td>
 </tr>
 </tbody></table>

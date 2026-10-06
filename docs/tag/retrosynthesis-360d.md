@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06614.html">FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Botao Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06614">2610.06614</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35571.html">Representation Alignment as a Bottleneck in LLM-Based Retrosynthesis Planning</a></div></td>
 <td>Hyunwoo Yoo et al.</td>
@@ -530,11 +536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21341.html">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Heewoong Noh et al.</td>
 <td><a href="http://arxiv.org/abs/2410.21341">2410.21341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09226.html">Prime Implicant Explanations for Reaction Feasibility Prediction</a></div></td>
-<td>Klaus Weinbauer et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09226">2510.09226</a></td>
 </tr>
 </tbody></table>

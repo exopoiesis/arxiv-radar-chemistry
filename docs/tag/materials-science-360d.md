@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Jannis Ehrlich et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04161.html">MOSAIC: Addressing Space for Local, Steerable, and Scalable Atomistic Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Ishan Nadkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04161">2610.04161</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02975.html">Reliable Self-Evolution with Imperfect Proxy Rewards</a></div></td>
 <td>Kangjun Noh et al.</td>
@@ -2066,17 +2078,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21756.html">Utilizing SciPy and other open source packages to provide a powerful API for materials manipulation in the Schrödinger Materials Suite</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Alexandr Fonari et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21756">2510.21756</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08965.html">HiBBO: HiPPO-based Space Consistency for High-dimensional Bayesian Optimisation</a></div></td>
-<td>Junyu Xuan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08965">2510.08965</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09444.html">Advances in momentum-resolved EELS of phonons, excitons and plasmons in 2D materials and their heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Cana Elgvin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09444">2510.09444</a></td>
 </tr>
 </tbody></table>

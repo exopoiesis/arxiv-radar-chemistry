@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>structure-prediction — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <strong>30d</strong> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04850.html">PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning</a></div></td>
+<td>Jae Won Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04850">2610.04850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04193.html">Molecular Crystal Structure Prediction from Conditional Flow on the Unit Cells</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a></div></td>
+<td>Qiang Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04193">2610.04193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04510.html">ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Prashant Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04510">2610.04510</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03978.html">Learning Latent Protein Languages for Autoregressive Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Mahdi Pourmirzaei et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03978">2610.03978</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01315.html">EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a></div></td>

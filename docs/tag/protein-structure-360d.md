@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">236 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1430,11 +1430,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18966.html">Protein Design with Dynamic Protein Vocabulary</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Nuowei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.18966">2505.18966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03105.html">Cognitio Emergens: Agency, Dimensions, and Dynamics in Human-AI Knowledge Co-Creation</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Xule Lin</td>
-<td><a href="http://arxiv.org/abs/2505.03105">2505.03105</a></td>
 </tr>
 </tbody></table>

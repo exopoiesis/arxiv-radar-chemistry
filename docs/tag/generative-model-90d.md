@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06190.html">Bridging the Evidence-to-Execution Gap:A Reflective Agent for Multi-Objective Peptide Design</a></div></td>
+<td>Haosen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06190">2610.06190</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06468.html">Latent Flow Matching for Molecular Graph Generation</a></div></td>
+<td>Mathis Goupillon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06468">2610.06468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06614.html">FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
+<td>Botao Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06614">2610.06614</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
+<td>Susie Lu</td>
+<td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05518.html">What Does Fréchet Distance Measure? A Directional Decomposition</a></div></td>
+<td>Yunghee Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05518">2610.05518</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04161.html">MOSAIC: Addressing Space for Local, Steerable, and Scalable Atomistic Generation</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Ishan Nadkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04161">2610.04161</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04419.html">MaDeL: Manifold-Decomposed Feature Losses for Generative Modeling</a></div></td>
+<td>Beomsu Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04419">2610.04419</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02651.html">Equivariant Flow Matching for Electron Density Prediction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -26,6 +68,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03066.html">Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Changlin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03066">2610.03066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03880.html">Reinforcement Learning on the Discrete Composition Channel of a Crystal Generator: Validated Gains and Reward Hacking</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Pawan Prakash et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03880">2610.03880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03978.html">Learning Latent Protein Languages for Autoregressive Generation</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Mahdi Pourmirzaei et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03978">2610.03978</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>

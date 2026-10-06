@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03992.html">MathAgent: Multi-Agent Optimization of Mathematical Invariants for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Yiming Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03992">2610.03992</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02599.html">TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -914,17 +920,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17007.html">RiboFlow: Conditional De Novo RNA Co-Design via Synergistic Flow Matching</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Runze Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17007">2503.17007</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04235.html">AbBiBench: A Benchmark for Antibody Binding Affinity Maturation and Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Xinyan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04235">2506.04235</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09020.html">MagicDock: Toward Docking-oriented De Novo Ligand Design via Gradient Inversion</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Zekai Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09020">2510.09020</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Jannis Ehrlich et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04161.html">MOSAIC: Addressing Space for Local, Steerable, and Scalable Atomistic Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Ishan Nadkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04161">2610.04161</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02975.html">Reliable Self-Evolution with Imperfect Proxy Rewards</a></div></td>

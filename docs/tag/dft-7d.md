@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06158.html">Compressed magnetic Moment Tensor Potentials via low-rank matrix and tensor factorizations</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Alexey S. Kotykhov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06158">2610.06158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06283.html">First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
+<td>Tanjuma Shikder Jhumu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06283">2610.06283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04892.html">Identification and Structural Decomposition of Hidden Defect Configurations: A Case Study of Charged Oxygen Divacancies in HfO$_2$</a></div></td>
+<td>Hyunjin Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04892">2610.04892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05088.html">Sensitivity of fission barrier heights to nuclear matter properties</a></div></td>
+<td>X. Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05088">2610.05088</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05304.html">Demonstration of a Structured Agentic Workflow for Applied Quantum Computing Research</a></div><div class="paper-tags"><a href="quantum-chemistry-7d.html">quantum-chemistry</a> · <a href="quantum-computing-7d.html">quantum-computing</a></div></td>
+<td>Dikshant Dulal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05304">2610.05304</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05363.html">Sliding and stacking thin homo-monolayers from energy landscapes and combinatorics</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
+<td>Jose D. Mella et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05363">2610.05363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02651.html">Equivariant Flow Matching for Electron Density Prediction</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
@@ -32,6 +74,24 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03444.html">Electronic Density versus Geometry for Machine-Learned Molecular Absorption Spectra</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Siddharth Dhanpal et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03444">2610.03444</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03973.html">Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="diffusion-model-7d.html">diffusion-model</a></div></td>
+<td>Jun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03973">2610.03973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04115.html">Distilling universal machine-learning potentials for moiré lattices across one million atoms</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="tmd-7d.html">tmd</a></div></td>
+<td>Thomas Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04115">2610.04115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -104,47 +164,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.38125.html">How Thermodynamically Accessible are Quaternary Mixed-Metal Chalcohalides?</a></div></td>
 <td>Pascal Henkel et al.</td>
 <td><a href="http://arxiv.org/abs/2609.38125">2609.38125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34164.html">Basis Functions for Time-Dependent Kohn-Sham Inversion</a></div></td>
-<td>Paul M. Zimmerman et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34164">2609.34164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34194.html">Machine-learned Laplacian-level density functional from exact exchange-correlation potentials and energies</a></div></td>
-<td>Arghadwip Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34194">2609.34194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34477.html">Electronic and topological properties of Ce-based honeycomb ferromagnet Ce$_2$Zn$_6$Ge$_3$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Yanen Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34477">2609.34477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35346.html">Machine-learning-guided exploration of domain walls in the hybrid improper ferroelectric Ca3Ti2O7</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Ida C. Skogvoll et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35346">2609.35346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35380.html">Pressure-induced s,p-d electron redistribution accompanies structural transformation in amorphous Zr-Cu alloy under compression</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>P. Dziegielewski et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35380">2609.35380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35572.html">Density functional perturbation theory of meta-generalized gradient approximations using algorithmic differentiation</a></div></td>
-<td>Bruno Ploumhans et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35572">2609.35572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35925.html">Photoelectron and electron microscopy investigation of laboratory grown Mg-silicate space dust analogues</a></div></td>
-<td>Steffen Friis Holleufer et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35925">2609.35925</a></td>
 </tr>
 </tbody></table>

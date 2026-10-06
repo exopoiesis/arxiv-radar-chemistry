@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-function — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <strong>360d</strong> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05101.html">PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Xinzhe Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05101">2507.05101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04235.html">AbBiBench: A Benchmark for Antibody Binding Affinity Maturation and Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Xinyan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04235">2506.04235</a></td>
 </tr>
 </tbody></table>

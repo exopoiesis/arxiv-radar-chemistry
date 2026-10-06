@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05714.html">Current selects the helicity of a chiral phonon</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05714">2610.05714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02998.html">Ab initio design of enhanced and sign-reversible spin Hall and spin Nernst conductivity in skutterudite materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Saikat Debnath et al.</td>
@@ -2090,17 +2102,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10112.html">Thermal and Electrical Conductivities of Aluminum Up to 1000 eV: A First-Principles Prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Qianrui Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10112">2510.10112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12722.html">Realization of strain induced multiple topological phases in Cu$_2$SnS$_3$: An $ab$-$initio$ study</a></div></td>
-<td>Prakash Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12722">2502.12722</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09927.html">Magnetic Catalysis of charmonium in the vector channel</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Cesareo A. Dominguez et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09927">2510.09927</a></td>
 </tr>
 </tbody></table>

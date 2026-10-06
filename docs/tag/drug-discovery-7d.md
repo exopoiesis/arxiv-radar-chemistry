@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Susie Lu</td>
+<td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04588.html">Variational Quantum Attention for Molecular Graph Learning</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
+<td>Yu-Cheng Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04588">2610.04588</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02671.html">LATHE: LAnguage-driven Toolkit for Hypothesis-based crystal Editing</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Qianyu Zheng et al.</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37384.html">MoTIF-X: A Multimodal Tokenized Framework for Interpretable and Extensible Molecular Representation Learning</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
 <td>Linqing Mo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.37384">2609.37384</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34301.html">One Sequence, Many Decodings: CAGenMol-2 Recasts Drug Design as Masked Molecular Inference</a></div><div class="paper-tags"><a href="molecular-llm-7d.html">molecular-llm</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Yanting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34301">2609.34301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34921.html">Drug-Target Interaction Prediction via Hierarchical Sequential Cross-Attention over Chemical and Protein Language Models</a></div></td>
-<td>Khadidja Henni et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34921">2609.34921</a></td>
 </tr>
 </tbody></table>

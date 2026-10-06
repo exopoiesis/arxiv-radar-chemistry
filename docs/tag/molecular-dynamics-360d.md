@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1560 papers</span>
+  <span class="paper-count">1558 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div></td>
+<td>Jia-Wen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05941">2610.05941</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05998.html">Langevin Flow Maps: Efficient Molecular Dynamics and Transition Path Sampling</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Sam McCallum et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05998">2610.05998</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06158.html">Compressed magnetic Moment Tensor Potentials via low-rank matrix and tensor factorizations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Alexey S. Kotykhov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06158">2610.06158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06371.html">Disorder-driven loss of crystalline coherence in two-dimensional electron solids: Quantum Hartree-Fock and classical molecular dynamics</a></div></td>
+<td>Sankar Das Sarma et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06371">2610.06371</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04932.html">Effect of Temperature and Added Salt on a Model Polyzwitterion Polymer in Dilute Solution</a></div></td>
+<td>Soumik Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04932">2610.04932</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04934.html">Effect of Added Salts on the Interfacial Dynamics of Monovalent Metal Ions and Model Water-Soluble Polymers</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
+<td>Soumik Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04934">2610.04934</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05624.html">Onset of Melting in Finite Ion Crystals: The Role of Structural Isomerization</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Boris V. Pashinsky et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05624">2610.05624</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02895.html">Non-Markovian Entanglement via Parametrically Mediated Molecular Cavity Optomechanics</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
@@ -38,6 +80,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03712.html">RNADyn: A Benchmark for Generating and Understanding RNA Dynamics</a></div></td>
 <td>Yiming Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03712">2610.03712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -9314,65 +9362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10326.html">Atomic-Scale Origins of Oxidation Resistance in Amorphous Boron Nitride</a></div></td>
 <td>Onurcan Kaya et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10326">2510.10326</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01347.html">Redefining the dielectric response of nanoconfined liquids: insights from water</a></div></td>
-<td>Jon Zubeltzu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.01347">2412.01347</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08879.html">Simulating dynamic bonding in soft materials</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Tyla R. Holoman et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08879">2510.08879</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08881.html">Patchy Particles Design: From Floppy Modes to Sloppy Dimensions</a></div></td>
-<td>Gregory Snyder et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08881">2510.08881</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08897.html">Hidden integer quantum ferroelectricity in chiral Tellurium</a></div></td>
-<td>Wei Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08897">2510.08897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08906.html">Gradient-Guided Furthest Point Sampling for Robust Training Set Selection</a></div></td>
-<td>Morris Trestman et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08906">2510.08906</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08960.html">Collective Variables Based on Multipole Expansion of Ewald Summation for Crystallization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>YaoKun Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08960">2510.08960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09587.html">Ab initio study on photocatalytic properties of PtSSe-WXY Janus heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="photocatalysis-360d.html">photocatalysis</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Shivprasad S. Shastri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09587">2510.09587</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09789.html">Dipole Alignment and Layered Flow Structure in Pressure-Driven Water Transport through MoS$_{2}$ Membranes</a></div></td>
-<td>João Victor Lemos Vale et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09789">2510.09789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09807.html">Rotation of crystal seed during early stages of growth reveals the anisotropy of glass matrix</a></div></td>
-<td>R. Thapa et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09807">2510.09807</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09890.html">Polymer Topology and the Depletion Interaction</a></div></td>
-<td>Mauro L. Mugnai</td>
-<td><a href="http://arxiv.org/abs/2510.09890">2510.09890</a></td>
 </tr>
 </tbody></table>

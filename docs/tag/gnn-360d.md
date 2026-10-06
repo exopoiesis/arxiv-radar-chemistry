@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">378 papers</span>
+  <span class="paper-count">379 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06685.html">Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs</a></div></td>
+<td>Jiawen Du et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06685">2610.06685</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04588.html">Variational Quantum Attention for Molecular Graph Learning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Yu-Cheng Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04588">2610.04588</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23826.html">A Physics-Conditioned Neural Operator for Generalization of Atrioventricular Valve Mechanics across Pressure and Tissue Properties</a></div></td>
@@ -2276,11 +2288,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12719.html">Multitask finetuning and acceleration of chemical pretrained models for small molecule drug property prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Matthew Adrian et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12719">2510.12719</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09495.html">Precoder Design in Multi-User FDD Systems with VQ-VAE and GNN</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Srikar Allaparapu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09495">2510.09495</a></td>
 </tr>
 </tbody></table>

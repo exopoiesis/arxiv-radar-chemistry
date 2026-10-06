@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Susie Lu</td>
+<td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04588.html">Variational Quantum Attention for Molecular Graph Learning</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Yu-Cheng Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04588">2610.04588</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02671.html">LATHE: LAnguage-driven Toolkit for Hypothesis-based crystal Editing</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Qianyu Zheng et al.</td>
@@ -530,17 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07110.html">Probing Extended Recognition Sites in Zn-Metalloproteins via Quantum Chemistry and Polarizable Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Nohad Gresh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07110">2607.07110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05736.html">Multimodal Molecular Representation Learning with Graph Neural Networks, Deep &amp; Cross Networks, and SMILES Embeddings</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Qiwei Han et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05736">2607.05736</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06605.html">A Quiet Failure in Calibrated Virtual Screening: Marginal Conformal Prediction Under-Covers the Minority Class, and a Class-Conditional Fix Recovers It</a></div></td>
-<td>Muhammadjon Tursunbadalov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06605">2607.06605</a></td>
 </tr>
 </tbody></table>

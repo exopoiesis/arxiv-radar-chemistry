@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">322 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div></td>
+<td>Jia-Wen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05941">2610.05941</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05998.html">Langevin Flow Maps: Efficient Molecular Dynamics and Transition Path Sampling</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Sam McCallum et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05998">2610.05998</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06158.html">Compressed magnetic Moment Tensor Potentials via low-rank matrix and tensor factorizations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Alexey S. Kotykhov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06158">2610.06158</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06371.html">Disorder-driven loss of crystalline coherence in two-dimensional electron solids: Quantum Hartree-Fock and classical molecular dynamics</a></div></td>
+<td>Sankar Das Sarma et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06371">2610.06371</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04932.html">Effect of Temperature and Added Salt on a Model Polyzwitterion Polymer in Dilute Solution</a></div></td>
+<td>Soumik Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04932">2610.04932</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04934.html">Effect of Added Salts on the Interfacial Dynamics of Monovalent Metal Ions and Model Water-Soluble Polymers</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a></div></td>
+<td>Soumik Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04934">2610.04934</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05624.html">Onset of Melting in Finite Ion Crystals: The Role of Structural Isomerization</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
+<td>Boris V. Pashinsky et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05624">2610.05624</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02895.html">Non-Markovian Entanglement via Parametrically Mediated Molecular Cavity Optomechanics</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
@@ -38,6 +80,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03712.html">RNADyn: A Benchmark for Generating and Understanding RNA Dynamics</a></div></td>
 <td>Yiming Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03712">2610.03712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -1898,29 +1946,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07561.html">DNA handles bias force-dependent looping times</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Wout Laeremans et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07561">2607.07561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Daniel Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06448.html">Dimensional Crossover of Thermal Transport in Nanoconfined Liquids Driven by the Interplay of Quasi-One-Dimensional Structure and Wall Dissipation</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Kenta Hisamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06448">2607.06448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06470.html">Phonon-Mediated Thermal Transport in Nanocrystalline Silicon Using Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Houssem Rezgui et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06470">2607.06470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06780.html">Hydrogen-Bond Donor-Acceptor Imbalance in Low-Frequency Terahertz Water Spectra</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Lilian Najm Alsayed et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06780">2607.06780</a></td>
 </tr>
 </tbody></table>

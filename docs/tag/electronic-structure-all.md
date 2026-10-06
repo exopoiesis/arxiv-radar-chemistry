@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">869 papers</span>
+  <span class="paper-count">872 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Jannis Ehrlich et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05496.html">Density Functional Theory for 2D Transition-Metal Dichalcogenides with Extended Hubbard Parameters</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="band-gap-all.html">band-gap</a> · <a href="tmd-all.html">tmd</a></div></td>
+<td>Xue Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05496">2610.05496</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04760.html">Site-Specific Orbital Symmetry Breaking in Epitaxial Graphene on Silicon Carbide</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Vinod K. Paidi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04760">2610.04760</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03444.html">Electronic Density versus Geometry for Machine-Learned Molecular Absorption Spectra</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>

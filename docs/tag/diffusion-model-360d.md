@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">422 papers</span>
+  <span class="paper-count">426 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05808.html">DiMOS: Doob-Guided Inference-Time Multi-Objective Search for Scientific Design</a></div></td>
+<td>Ziqing Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05808">2610.05808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04938.html">D-DOIT: Training-free Adaptation of Discrete Diffusion via Doob&#x27;s h-Transform</a></div></td>
+<td>Jieke Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04938">2610.04938</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Susie Lu</td>
+<td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04510.html">ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Prashant Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04510">2610.04510</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03066.html">Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Changlin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03066">2610.03066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03880.html">Reinforcement Learning on the Discrete Composition Channel of a Crystal Generator: Validated Gains and Reward Hacking</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Pawan Prakash et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03880">2610.03880</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03973.html">Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Jun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03973">2610.03973</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -2534,17 +2570,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10634.html">ProteinAE: Protein Diffusion Autoencoders for Structure Encoding</a></div></td>
 <td>Shaoning Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10634">2510.10634</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06379.html">Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Filip Ekström Kelvinius et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06379">2502.06379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09784.html">Combined Representation and Generation with Diffusive State Predictive Information Bottleneck</a></div></td>
-<td>Richard John et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09784">2510.09784</a></td>
 </tr>
 </tbody></table>

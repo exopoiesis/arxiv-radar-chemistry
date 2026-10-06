@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Jannis Ehrlich et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05304.html">Demonstration of a Structured Agentic Workflow for Applied Quantum Computing Research</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Dikshant Dulal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05304">2610.05304</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03528.html">Breaking the chain: geometry-native state preparation with ASPIRE</a></div></td>
@@ -26,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03624.html">Symmetry-preserving quantum compilation</a></div></td>
 <td>Maryam Mudassar et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03624">2610.03624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04107.html">PyCC: A Reference Quantum Chemistry Python Package for Education, Validation, and Rapid Prototyping</a></div></td>
+<td>T. Daniel Crawford et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04107">2610.04107</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -380,11 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07546.html">An analytical solution of a quantum system with non-Markovian behavior: The Bixon-Jortner system in time domain</a></div></td>
 <td>Osman Cevheroğlu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07546">2607.07546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09769.html">Challenges in the simulation of enzymatic transition states with emerging multireference character</a></div></td>
-<td>Valentin Kasper et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09769">2607.09769</a></td>
 </tr>
 </tbody></table>

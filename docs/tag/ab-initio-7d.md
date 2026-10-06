@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05714.html">Current selects the helicity of a chiral phonon</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05714">2610.05714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06131.html">An \textit{ab initio} based compact analytical formula for inelastic x-ray scattering from spatially localized excitons</a></div></td>
+<td>Joris Sturm et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06131">2610.06131</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06283.html">First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Tanjuma Shikder Jhumu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06283">2610.06283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04205.html">Origin of the inhomogeneous linewidth in a solid state $^{229}$Th:CaF$_2$ nuclear clock</a></div></td>
+<td>Kai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04205">2610.04205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04510.html">ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
+<td>Prashant Pandey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04510">2610.04510</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04534.html">Beyond ideal cavities: quantifying the impact of cavity dissipation on light-matter strong coupling</a></div></td>
+<td>Giovanna Bruno et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04534">2610.04534</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04760.html">Site-Specific Orbital Symmetry Breaking in Epitaxial Graphene on Silicon Carbide</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Vinod K. Paidi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04760">2610.04760</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02651.html">Equivariant Flow Matching for Electron Density Prediction</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
@@ -38,6 +86,24 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03507.html">Ab initio Green&#x27;s function theory of superfluid neutron matter</a></div></td>
 <td>F. Marino et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03507">2610.03507</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03973.html">Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="diffusion-model-7d.html">diffusion-model</a></div></td>
+<td>Jun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03973">2610.03973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04059.html">CDW-EIS calculations of atomic ionization by bare ions and antiprotons</a></div></td>
+<td>Darío M. Mitnik et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04059">2610.04059</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04115.html">Distilling universal machine-learning potentials for moiré lattices across one million atoms</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="tmd-7d.html">tmd</a></div></td>
+<td>Thomas Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04115">2610.04115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -76,6 +142,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2610.01549">2610.01549</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03806.html">Pressure-induced desalting of NaCl-bearing ice VII: A compositional filter in water-rich planets</a></div></td>
+<td>Alasdair Nicholls et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03806">2610.03806</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37058.html">Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="gnn-7d.html">gnn</a></div></td>
 <td>Bang Liu et al.</td>
@@ -104,29 +176,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37823.html">Multiscale modelling of nanoscaled FETs based on 2D ferroelectric materials</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
 <td>Alejandro Toral-Lopez et al.</td>
 <td><a href="http://arxiv.org/abs/2609.37823">2609.37823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34761.html">Model potential based estimation of positron bound states with polar molecules</a></div></td>
-<td>Snigdha Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34761">2609.34761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34869.html">Chemical site bases and average-atom potentials for the atomic cluster expansion</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Lorenzo Piersante et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34869">2609.34869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35144.html">Potential-energy surfaces of water and its molecular ions up to \texorpdfstring{H$_2$O$^{3+}$}{H2O3+}</a></div></td>
-<td>Giorgio Visentin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35144">2609.35144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35722.html">Multilevel Plaquette-Space Sampling for Lattice Gauge Theories with Local Constraint Solves</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Ankur Singha et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35722">2609.35722</a></td>
 </tr>
 </tbody></table>

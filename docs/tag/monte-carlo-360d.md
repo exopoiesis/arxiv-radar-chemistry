@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">312 papers</span>
+  <span class="paper-count">311 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05057.html">Onset of a quantum Fisher-Selke sequence in the transverse-field ANNNI model and its bilayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Tuan-Vu Truong et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05057">2610.05057</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02924.html">Evaluator-in-the-Loop Monte Carlo Tree Search via LLM Agents for Motif Scaffolding in Protein Design</a></div></td>
@@ -1874,17 +1880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20066.html">Enhancing quantum computations with the synergy of auxiliary field quantum Monte Carlo and computational basis tomography</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Viktor Khinevich et al.</td>
 <td><a href="http://arxiv.org/abs/2502.20066">2502.20066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06379.html">Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Filip Ekström Kelvinius et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06379">2502.06379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08879.html">Simulating dynamic bonding in soft materials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Tyla R. Holoman et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08879">2510.08879</a></td>
 </tr>
 </tbody></table>

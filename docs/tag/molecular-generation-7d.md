@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05125.html">Bayesian Entropy-based Reordering for Calibrated Diffusion Language Models</a></div></td>
+<td>Zhejun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05125">2610.05125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05431.html">PharmAgent: Constraint-Aware Search with Frozen Language Models for Molecular Optimization</a></div></td>
+<td>Nihui Shao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05431">2610.05431</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01947.html">Latent JEPA: Abstract Future Prediction for Latent Reasoning in Chemistry</a></div></td>
 <td>Xinjian Zhao et al.</td>
@@ -32,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36683.html">MARCO: Multi-Round Agentic Reinforcement for Conditional Molecular Optimization</a></div></td>
 <td>Shicheng Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.36683">2609.36683</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34491.html">M3OS: A Monte Carlo Graph Search-Orchestrated Multi-Agent LLM System for Evidence-Traced Molecular Optimization</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Junjie Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34491">2609.34491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35336.html">TMCS: Tool-Grounded Multi-Agent Reasoning for Compositional Chemical Problem Solving</a></div></td>
-<td>Shengqin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35336">2609.35336</a></td>
 </tr>
 </tbody></table>

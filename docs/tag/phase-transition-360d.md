@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05624.html">Onset of Melting in Finite Ion Crystals: The Role of Structural Isomerization</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Boris V. Pashinsky et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05624">2610.05624</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33116.html">Unveiling Lattice Dynamics and a Hidden Structural Transition in the 2D Ferromagnet AgVP$_2$Se$_6$ via Raman Spectroscopy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Thi Hai Yen Pham et al.</td>
@@ -1250,11 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11706.html">Probing emergent prethermal dynamics and resonant melting on a programmable quantum simulator</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Siva Darbha et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11706">2510.11706</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08960.html">Collective Variables Based on Multipole Expansion of Ewald Summation for Crystallization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="metadynamics-360d.html">metadynamics</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>YaoKun Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08960">2510.08960</a></td>
 </tr>
 </tbody></table>

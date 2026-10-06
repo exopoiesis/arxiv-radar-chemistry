@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04588.html">Variational Quantum Attention for Molecular Graph Learning</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
+<td>Yu-Cheng Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04588">2610.04588</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03992.html">MathAgent: Multi-Agent Optimization of Mathematical Invariants for Molecular Property Prediction</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Yiming Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03992">2610.03992</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01616.html">Can LLMs Reliably Annotate Bioassay Metadata to Improve Data Readiness?</a></div></td>
@@ -278,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Claudio Meggio et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05736.html">Multimodal Molecular Representation Learning with Graph Neural Networks, Deep &amp; Cross Networks, and SMILES Embeddings</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Qiwei Han et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05736">2607.05736</a></td>
 </tr>
 </tbody></table>

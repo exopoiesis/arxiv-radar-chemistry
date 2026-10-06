@@ -16,21 +16,21 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04588.html">Variational Quantum Attention for Molecular Graph Learning</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="gnn-7d.html">gnn</a></div></td>
+<td>Yu-Cheng Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04588">2610.04588</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03992.html">MathAgent: Multi-Agent Optimization of Mathematical Invariants for Molecular Property Prediction</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a></div></td>
+<td>Yiming Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03992">2610.03992</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01616.html">Can LLMs Reliably Annotate Bioassay Metadata to Improve Data Readiness?</a></div></td>
 <td>Laura van Weesep et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01616">2610.01616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34301.html">One Sequence, Many Decodings: CAGenMol-2 Recasts Drug Design as Masked Molecular Inference</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-llm-7d.html">molecular-llm</a></div></td>
-<td>Yanting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34301">2609.34301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36084.html">Measuring trainable degrees of freedom in materials graph neural networks: a random-subspace intrinsic dimension analysis</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
-<td>Shehroz Ahmad Shoaib et al.</td>
-<td><a href="http://arxiv.org/abs/2609.36084">2609.36084</a></td>
 </tr>
 </tbody></table>
